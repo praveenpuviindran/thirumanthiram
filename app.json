@@ -1,0 +1,89 @@
+{
+  "expo": {
+    "name": "Thirumanthiram",
+    "slug": "thirumanthiram",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "scheme": "thirumanthiram",
+    "newArchEnabled": true,
+    "backgroundColor": "#0D0603",
+    "primaryColor": "#D4700A",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0D0603"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.praveenpuviindran.thirumanthiram",
+      "buildNumber": "1",
+      "requireFullScreen": false,
+      "infoPlist": {
+        "CFBundleDisplayName": "Thirumanthiram",
+        "CFBundleShortVersionString": "1.0.0",
+        "NSMicrophoneUsageDescription": "This app does not use the microphone.",
+        "NSSpeechRecognitionUsageDescription": "This app uses text-to-speech to read Tamil and English verses aloud.",
+        "UIBackgroundModes": [],
+        "ITSAppUsesNonExemptEncryption": false,
+        "LSApplicationQueriesSchemes": []
+      }
+    },
+    "android": {
+      "package": "com.praveenpuviindran.thirumanthiram",
+      "versionCode": 1,
+      "compileSdkVersion": 35,
+      "targetSdkVersion": 35,
+      "minSdkVersion": 24,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0D0603"
+      },
+      "edgeToEdgeEnabled": true,
+      "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE"
+      ],
+      "allowBackup": false,
+      "softwareKeyboardLayoutMode": "pan"
+    },
+    "web": {
+      "bundler": "metro",
+      "favicon": "./assets/favicon.png",
+      "output": "static",
+      "name": "Thirumanthiram",
+      "shortName": "Thirumanthiram",
+      "description": "The complete sacred text of the Thirumanthiram — 3,047 verses by Thirumoolar, with Tamil text, transliteration, English translation, and commentary.",
+      "themeColor": "#D4700A",
+      "backgroundColor": "#0D0603",
+      "lang": "ta"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font",
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#0D0603",
+          "image": "./assets/splash-icon.png",
+          "resizeMode": "contain",
+          "dark": {
+            "image": "./assets/splash-icon.png",
+            "backgroundColor": "#0D0603"
+          }
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "319495b2-8632-4303-9d5b-fdb0fd73ba82"
+      },
+      "router": {}
+    },
+    "owner": "praveenvp"
+  }
+}
