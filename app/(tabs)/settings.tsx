@@ -142,24 +142,32 @@ export default function SettingsScreen() {
 
           {[
             {
-              title: 'Tamil Virtual University — Thirumanthiram',
-              detail: 'Tamil verse text sourced from tamilvu.org (Tamil Virtual University, Government of Tamil Nadu). The Thirumanthiram digital edition is available at: tamilvu.org/library/l4100. Primary source for all Tamil verse text in this app.',
-            },
-            {
               title: 'Thirumanthiram (திருமந்திரம்)',
               detail: 'By Thirumoolar (Tirumular). Ancient Tamil classical text, c. 5th–8th century CE. Part of the Tirumurai, the sacred Shaiva canon. 3,000+ verses in nine tantras. Public domain.',
             },
             {
-              title: 'Thirumandhiram – Mudalaam Tandhiram (PDF)',
-              detail: 'Tamil commentary by T. Saravanan (த. சரவணன்), © 2020, first edition 2020. Available at kvnthirumoolar.com. Used as a reference for section structure and Tamil commentary style in this app.',
+              title: 'Tamil Virtual University — Thirumanthiram',
+              detail: 'Tamil verse text for Tantras 1–4 sourced from Tamil Virtual University (tamilvu.org), Government of Tamil Nadu. Digital edition available at tamilvu.org/library/l4100.',
+            },
+            {
+              title: 'Project Madurai — Thirumanthiram',
+              detail: 'Tamil verse text for Tantras 5–9 sourced from Project Madurai, a volunteer project digitising classical Tamil literature. Available at tamilnation.org/sathyam/east/thirumurai/thirumanthiram.',
+            },
+            {
+              title: 'Tirumantiram — Kauai Hindu Monastery (Himalayan Academy)',
+              detail: 'English translation of the complete Tirumantiram by the Kauai Hindu Monastery / Himalayan Academy. Published by Himalayan Academy Publications, Hawaii. Primary source for English verse translations in this app. Available at himalayanacademy.com.',
+            },
+            {
+              title: 'Thirumanthiram — Dr. B. Natarajan',
+              detail: 'English commentary and translation by Dr. B. Natarajan. Used as a supplementary reference for English verse content and interpretive context. Available at archive.org.',
+            },
+            {
+              title: 'Thirumandhiram Tamil Commentary — T. Saravanan',
+              detail: 'Tamil commentary series covering Tantras 1–6, by T. Saravanan (த. சரவணன்). Published by KVN Thirumoolar Trust. Available at kvnthirumoolar.com. Used as a reference for section structure and Tamil commentary throughout this app.',
             },
             {
               title: 'The Tirumurai',
               detail: 'The twelve sacred Tamil Shaiva texts compiled by Nambiyandar Nambi, 11th century CE. Thirumanthiram occupies the tenth position in this canon.',
-            },
-            {
-              title: 'Shaiva Siddhanta Literature',
-              detail: 'Classical works of Shaiva Siddhanta philosophy, including the Meykanda Shastras and the commentarial tradition of Tamil Nadu.',
             },
             {
               title: 'Tiruvavaduthurai Adheenam',

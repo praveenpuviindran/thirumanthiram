@@ -2707,7 +2707,7 @@ araṉmuta lāmāyai taṅkic cuḻuṉai
 karumam uṇarntu māmāyaik kaikoṇṭō r
 aruḷum aṟaivār cakalattuṟ ṟārē`,
     english: `2260: Malas Restated
-in Atita State,
+The Jiva in Atita State,
 Realizes Primal Para;
 The Jiva in Turiya stands in Maya (Suddha),
 That has its beginning in Hara;
@@ -3626,7 +3626,7 @@ tāṉmā maṟaiyaṟai taṉmai aṟikilar
 āṉmāvē maintaṉ araṉukku ivaṉeṉṟāl
 āṉmāvum illaiyāl aiaintum illaiyē`,
     english: `2306: Jiva Son of Siva
-is the son,
+Jiva is the son,
 All the hoary scriptures thus say;
 That they know not
 The Jiva indeed is the Son of Hara;
@@ -3920,7 +3920,7 @@ tolaiyā iruḷoḷi tōṟṟa aṇuvum
 tolaiyāt toḻiṉñāṉam toṉmaiyil naṇṇit
 tolaiyāta pettammut tikkiṭai tōyumē`,
     english: `2321: Pedda or Jiva Mukti
-the eternal Feet of Hara,
+At the eternal Feet of Hara,
 The Sakti appears;
 And as it appears
 The interminable darkness
@@ -5956,9 +5956,7 @@ Gave them answer by Divine Gesture
 (Chin mudra);
 And as with their hands they held fast to His feet,
 They reached the Way of Truth,
-their Self-realizing.
-17.
-HEAD-AND-FOOT KNOWLEDGE`,
+their Self-realizing.`,
   },
   {
     id: 2426, tantraId: 8, verseNumber: 2425,
@@ -6985,9 +6983,7 @@ And Sakti of Pure Bliss,
 That extinguishes the Fires Three;
 And the Samadhi Exalted
 --All these the work of Divine Lord
-Who thine bonds sunders.
-24.
-TRIPLE SVARUPA`,
+Who thine bonds sunders.`,
   },
   {
     id: 2479, tantraId: 8, verseNumber: 2478,
@@ -7910,9 +7906,7 @@ Yet soaked are not;
 Muktas are they,
 And source of Mukti, too, are they;
 Possessed are they of Muladhara prowess
-Alike are they unto Sadasiva.
-31.
-EXPERIENCE IN THE EIGHT-PETALLED SPHERE`,
+Alike are they unto Sadasiva.`,
   },
   {
     id: 2528, tantraId: 8, verseNumber: 2527,
@@ -8814,7 +8808,6 @@ tuytta piraṇava māmupa tēcattai
 meytta vitayattu viṭṭiṭu meyyuṇar
 vaitta paṭiyē yaṭaintu niṉṟāṉē.`,
     english: `2574: Supreme Awareness Beyond Siva Turiya State
-Siva Turiya State
 At the end of Siva Turiya State
 Is the Bliss of Manifestness
 (Svarupa)

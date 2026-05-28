@@ -238,7 +238,7 @@ The luminous Sun and
 Indra
 The bright-eyed Devas swarming celestial Spheres
 He, indeed, is their
-Light of Life�
+Light of Life'
 He the Being Uncreated.`,
   },
   {
@@ -1318,9 +1318,7 @@ The acts of inhalation and exhalation
 This, if you, through practice accomplish
 You indeed have reached
 The Supreme State
-Divine.
-8.
-( )`,
+Divine.`,
   },
   {
     id: 1779, tantraId: 7, verseNumber: 1778,
@@ -2312,7 +2310,7 @@ The heavenly Beings over clouds traverse;
 And with Pasa subdued,
 stand and pray
 And unfailing, My
-Lord�s Grace receive.`,
+Lord's Grace receive.`,
   },
   {
     id: 1835, tantraId: 7, verseNumber: 1834,
@@ -2799,7 +2797,7 @@ nikarillai eṉpatu niccayam tāṉē`,
     english: `1860: Feeding the Tapasvin is superior to feeding Brahmins
 Though you a thousand temples for the gods build;
 None, none is of merit compare
-To a day�s feed to a holy devotee given;
+To a day's feed to a holy devotee given;
 This be of certain.`,
   },
   {
@@ -3255,7 +3253,7 @@ ucciyam pōtāka uḷḷamar kōviṟkup
 piccai piṭittuṇṭu pētam aṟaniṉaintu
 iccaiviṭṭu ēkāntattu ēṟi irupparē`,
     english: `1885: Jnanis accept alms to sustain the Body-Temple
-The holy ones who have tasted of Lord�s inner grace
+The holy ones who have tasted of Lord's inner grace
 Will at noon-tide accept alms
 To sustain the body temple where the Lord resides;
 Of differences they think not;
@@ -3414,7 +3412,7 @@ Divine Jnana's light to flood.`,
 ōmpayil oṅkiya uṇmaiya kēcari
 nāmpayil nātaṉmeyñ ñāṉamut tiraiyē`,
     english: `1894: Sambhavi Mudra brings Grace and Kecari Jnana
-Nandi�s glance
+Sambhavi Mudra brings Nandi's glance
 In Grace abounding and birth ending;
 Kecari true where Aum is in silence chanted
 Is the Mudra that divine Jnana brings;
@@ -3807,9 +3805,9 @@ uṉṉarum kāṉam uyarnta malaiccāral
 innilam tāṉkukaikku eytum iṭaṅkaḷē`,
     english: `1915: Samadhi Cave Locations
 Locations
-One�s own homestead,
+One's own homestead,
 roadside, tank bund, riverbed,
-Flowery grove, city�s common
+Flowery grove, city's common
 Forest dense, and mountain valley high
 --These the sites appropriate,
 For the abored to shape.`,
@@ -4389,7 +4387,7 @@ He settles its fate and span of life;
 Thus, when the Seed itself is the Causal Thought,
 To attribute Cause and
 Effect to factors outside
-Is but imagination�s figment.`,
+Is but imagination's figment.`,
   },
   {
     id: 1949, tantraId: 7, verseNumber: 1948,
@@ -4458,7 +4456,7 @@ maṇṇiṭai māykkum pirāṇaṉām vintuvum
 kaṇṇum kaṉaliṭaik kaṭṭik kalanterittu
 uṇṇil amirtāki yōkikku aṟivāmē`,
     english: `1951: Burn Bindu in Fire of Kundalini
-The fiery Bindu above is Lord�s Body (macrocosmic)
+The fiery Bindu above is Lord's Body (macrocosmic)
 The Bindu wasted here below is vital Prana (microcosmic)
 If mixing the two, they burn it in the Fire of Kundalini
 Then they consume the very ambrosia
@@ -4634,7 +4632,7 @@ That Bhoga is Siva
 Bhoga;
 That the true Bhoga
 Where the Yogi emits not
-To quell the witless woman�s passion.`,
+To quell the witless woman's passion.`,
   },
   {
     id: 1962, tantraId: 7, verseNumber: 1961,
@@ -4778,7 +4776,7 @@ māṉēr aṭaṅka ataṉpiṉpu puttiyum
 tāṉē civakati taṉmaiyum āmē`,
     english: `1968: Conquer Bindu and Attain Siva State
 This the Mystic Secret
-There is none�but this
+There is none'but this
 He alone is; nothing else there is;
 The Bindu heavenward ascends,
 The Organs Fourteen
@@ -4872,13 +4870,13 @@ ottuaṟi kiṉṟa iṭamum aṟikilar
 meyttu aṟikiṉṟa iṭamaṟi vāḷarkku
 attaṉ iruppiṭam avviṭam tāṉē`,
     english: `1973: Jnanis Know Lord's Seat
-Lord�s Seat
+Lord's Seat
 The Sound (Nada), and the Mind that perceives Sound,
 And the place where
 Mind undistracted discerns Truth,
 --These they know not;
 That place the Jnanis truly know
-That verily is Lord�s
+That verily is Lord's
 Seat.`,
   },
   {
@@ -5131,9 +5129,7 @@ Search not the world within,
 And know not where in its midst Sun is;
 Those who know where he furtive lies
 To them my heart
-In love melts.
-24.
-24 MIND�S SUN`,
+In love melts.`,
   },
   {
     id: 1989, tantraId: 7, verseNumber: 1988,
@@ -5522,6 +5518,7 @@ cuṭarkoṇṭu aṇuviṉait tūvaḻi ceyya
 iṭarkoṇṭa pāca iruḷaṟa oṭṭi
 naṭarkoṇṭa nalvaḻi nāṭalum āmē`,
     english: `2009: Seek the Jnana Way of Lord
+Tiny unto the seed,
 Of the spreading banyan tree
 Is the atom that is
 Jiva;
@@ -5606,7 +5603,7 @@ You may yet accomplish it;
 And so perservere
 In lives several;
 And seeing you thus abored,
-Sivva�s Form will in your thought arise.`,
+Sivva's Form will in your thought arise.`,
   },
   {
     id: 2015, tantraId: 7, verseNumber: 2014,
@@ -5767,12 +5764,8 @@ They think not of the ministering acts, Lord daily performs;
 The Lord daily bestows
 His Grace on the good,
 They who know this not,
-daily seek Him not�
-Entangled in their work-a-day Karmas interminable.
-32.
-CONTROLLING
-THE FIVE INDRIYAS
-(SENSES)`,
+daily seek Him not'
+Entangled in their work-a-day Karmas interminable.`,
   },
   {
     id: 2024, tantraId: 7, verseNumber: 2023,
@@ -5908,7 +5901,8 @@ eṇṇili illiyōṭu ēkil piḻaitarum
 eṇṇili illiyōṭu ēkāmai kākkumēl
 eṇṇili illatōṭu iṉpamatu āmē`,
     english: `2029: Control Desires, and Attain Bliss
-In this body�s chamber dark;
+Countless the holes
+In this body's chamber dark;
 If with the countless holes (desires) I run,
 Faulty will my lot be;
 If you run not
@@ -5988,7 +5982,7 @@ Five control
 Verily are you an inert mass;
 (There is a way alternate open)
 Sublimate them toward the Lord
-That Wisdom�s Way, I learned.`,
+That Wisdom's Way, I learned.`,
   },
   {
     id: 2035, tantraId: 7, verseNumber: 2034,
@@ -6514,7 +6508,7 @@ tāṉattuḷ iṭṭut taṉaiyūṭṭit tāḻttalum
 ñāṉattiṉ mīṭṭalum nāṭṭalum vīṭuṟṟu
 mōṉattuḷ vaittalum muttaṉtaṉ ceykaiyē`,
     english: `2061: From Jiva's Birth to its Final Emancipation--It is All Lord's
-Consigning Jiva to birth�s sorrows,
+Consigning Jiva to birth's sorrows,
 Rescuing it by ministrations gentle,
 Assigning it positions appropriate,
 Baptising it in Jnana,
@@ -6524,7 +6518,7 @@ And in the end,
 Placing it in Mystic
 Silentness (Mauna)
 --All these are but
-Lord�s work.`,
+Lord's work.`,
   },
   {
     id: 2063, tantraId: 7, verseNumber: 2062,
@@ -6600,9 +6594,9 @@ icaittāṉum oṉṟaṟi vippōṉ iṟaiyē`,
     english: `2065: Lord Attaches Mayas to Jiva for Attainment of True
 The Sat, Asat, and the
 Sat-Asat to free,
-The Pasa�s bonds here to sunder,
+The Pasa's bonds here to sunder,
 He activated Mayas
-Two�Suddha and Asuddha�
+Two'Suddha and Asuddha'
 And to Jiva, He them attached,
 And imparted the peerless Light of Knowledge, too,
 He, the Lord.`,
@@ -6676,7 +6670,7 @@ They sell the Love of
 God,
 They make a daily business of it;
 Pride-filled are they,
-They in birth�s whirl will be;
+They in birth's whirl will be;
 They who pound the Seed
 (Bindu) and consume
 Lay waste the body-land;
@@ -6897,7 +6891,7 @@ nilavāṇi aintiṉuḷ tēruṟa niṟkum
 cilavāṇi yākiya tēvar pirāṉait
 talaivāṇi ceyvatu taṉṉai aṟivatē`,
     english: `2080: Realize the Self
-He is the world�s axle-pin;
+He is the world's axle-pin;
 The Light Resplendent;
 The Siddha True;
 He pervades the elements five,
@@ -7346,7 +7340,7 @@ Think of Lord;
 Flying He comes to you,
 And your distracting sorrows end;
 Do, therefore, think
-Of Siva�s Holy Way.`,
+Of Siva's Holy Way.`,
   },
   {
     id: 2104, tantraId: 7, verseNumber: 2103,
@@ -7395,12 +7389,12 @@ nāṟṟicaik kumnaṭu vāykiṉṟa nampaṉaik
 kāṟṟicaik kum kamaḻākkaiyaik kaikkoṇṭu
 kūṟṟutait tāṉtaṉmaik kūṟiniṉṟu uymmiṉē`,
     english: `2105: Praise Lord and Spurn Death
-Lord,
+Praise the benevolent Lord,
 He of Mount Kailas;
 He as central stood,
 In cardinal directions four, our Lord;
 With the precious body
-That Prana�s vital breath holds
+That Prana's vital breath holds
 Praise the Lord and be redeemed,
 The Lord,
 Who with His Feet the
@@ -7637,8 +7631,8 @@ You near,
 Praise the Pure One,
 Of gem-hued Form;
 Unless you in melting heart hail Him
-As �Oh, Lord, who in
-Light Divine abides�
+As 'Oh, Lord, who in
+Light Divine abides'
 You realize Him not.`,
   },
   {
