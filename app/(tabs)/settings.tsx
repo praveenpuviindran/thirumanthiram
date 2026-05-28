@@ -131,7 +131,7 @@ export default function SettingsScreen() {
           <View style={[styles.createdByRow, { borderBottomColor: 'transparent' }]}>
             <Text style={[styles.rowLabel, { color: theme.textMuted }]}>Created by</Text>
             <Text style={[styles.createdByName, { color: theme.saffron }]}>
-              Praveen Puviindran
+              Praveen Puviindran, Latha Ravendran, and Vijitha Puviindran
             </Text>
           </View>
         </View>
