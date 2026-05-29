@@ -9298,14 +9298,8 @@ And adored His Holy Feet.`,
     id: 2601, tantraId: 8, verseNumber: 2600,
     tamil: `மெய்கலந் தாரொடு மெய்கலந் தான்தன்னை
 பொய்கலந் தார்முன் புகுதா ஒருவனை
-உய்கலந் தூழித் தலைவனுமாய் ந2600: The Truthful Are Beloved of God
-Into them that are Truthful
-He in Truth merged;
-Before them that are untruthful
-He never His appearance makes;
-At time's End He stands as Lord,
-To work redemption of souls all;
-True ones sport in True Joy.lan tiṉpam viḷaintiṭum meyyarkkē.`,
+உய்கலந் தூழித் தலைவனுமாய் நிற்கும்
+மெய்கலந் தின்பம் விளைந்திடும் மெய்யர்க்கே`,
     english: `2600: The Truthful Are Beloved of God
 Into them that are Truthful
 He in Truth merged;
@@ -9454,7 +9448,7 @@ Lustrous as Pure Red Gold.`,
     tamil: `மயக்கிய ஐம்புலப் பாசம் அறுத்துத்
 துயக்கறுத்தானைத் தொடர்மின்தொடர்ந்தால்
 தியக்கஞ் செய்யாதே சிவனெம் பெருமான்
-உயப்போ எனமனம் ஒன்றுவித் தானே.`,
+உயப்போ எனமனம் ஒன்றுவித் தானே`,
     transliteration: `mayakkiya aimpulap pācam aṟuttut
 tuyakkaṟuttāṉait toṭarmiṉtoṭarntāl
 tiyakkañ ceyyātē civaṉem perumāṉ
@@ -10007,7 +10001,7 @@ That indeed was an Experiment Divine.`,
     tamil: `அறிவுடை யானரு மாமறை யுள்ளே
 செறிவுடை யான்மிகு தேவர்க்குந் தேவன்
 பொறியுடை யான்புலன் ஐந்துங் கடந்த
-குறியுடை யானொடுங் கூடுவன் நானே.`,
+குறியுடை யானொடுங் கூடுவன் நானே`,
     transliteration: `aṟivuṭai yāṉaru māmaṟai yuḷḷē
 ceṟivuṭai yāṉmiku tēvarkkun tēvaṉ
 poṟiyuṭai yāṉpulaṉ aintum kaṭanta

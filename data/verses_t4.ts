@@ -4290,8 +4290,7 @@ She stood in my head, beyond the uluva center,
 She stood within the Bounteous Lord,
 She stood as Thought,
 Behind Mamaya's concealed Light,
-She the Virgin that all created.
-070i.e. in the Sahasrara`,
+She the Virgin that all created.`,
   },
   {
     id: 1119, tantraId: 4, verseNumber: 1118,

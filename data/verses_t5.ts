@@ -1598,8 +1598,7 @@ Samaya sacrament prepares heart to be a Tabernacle of God ;
 Visesha sacrament installs the Faith firm;
 Nirvana helps realize the Truth of Faith;
 Abhisheka confereth the state of Samadhi Supreme.
-14 SAMIPAM (IN GOD'S PROXIMITY)ṉaittēṟaṉ mūṉṟāñ
-camayāpi ṭēkan tāṉāñ camātiyē`,
+14 SAMIPAM (IN GOD'S PROXIMITY)ṉaittēṟaṉ mūṉṟāñ`,
     english: `1508: The Four Ordinations in Kriya Worship
 In Kriya worship are sacraments four;
 Samaya sacrament prepares heart to be a Tabernacle of God ;

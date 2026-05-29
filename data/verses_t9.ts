@@ -2261,17 +2261,8 @@ That peerless dance is bliss Perfect.`,
     id: 2771, tantraId: 9, verseNumber: 2770,
     tamil: `நெற்றிக்கு நேரே புருவத்து இடைவெளி
 உற்றுற்றுப் பார்க்க ஒளிவிடு மந்திரம்
-பற்றுக்குப் பற2772: The Light of Astral Flower in the Dance Theatre
-The shedding light
-Of that Astral Flower Within,
-Illumines the Dance Arena entire;
-Wondrous indeed that Flower is;
-Its petals four (in Muladhara)
-Into a hundred petals blossomed (in Sahasrathala)
-And into ten and two hundred worlds expanded,
-In the interminable spaces vast.viṭu mantiram
-paṟṟukkup paṟṟāṟp paramaṉ iruntiṭam
-ciṟṟam palameṉṟu cērntukoṇ ṭēṉē`,
+பற்றுக்குப் பற்றாற்ப் பரமன் இருந்திடம்
+சிற்றம் பலமென்று சேர்ந்துகொண் டேனே`,
     english: `2770: Ajna Center is Astral Temple of Lord
 Straight within the fore-head
 Between the eye-brows
@@ -3231,22 +3222,7 @@ And then no more was the thought of I and He.`,
     tamil: `ஞானத்தின் நன்னெறி நாதாந்த நன்னெறி
 ஞானத்தின் நன்னெறி நானென்று அறிவோர்தல்
 ஞானத்தின் நல்யோக நன்னிலை யேநிற்றல்
-ஞானத்தின் நன்மோக நாதாந2825: In the Seventh Void is Siva-Knowledge-Bliss
-All voids as void
-As all and nothing,
-The three Voids below,
-And the three Voids above,
-Seeking them,
-And knowing not what this Void is like,
-In that Supreme Bliss
-Is the Tat-Para Jnanananda;
-Siva-Knowledge-Bliss
-In that He and I one become.nana Way is the Truth
-The Jnana Way is the Nadanta Way,
-The Jnana Way is the Knowledge of Self,
-The Jnana Way of yoga is to center on Siva,
-The Jnana Way of Silentness
-Is the Veda Truth of Nadanta.`,
+ஞானத்தின் நன்மோக நாதாந்த வேதமே`,
   },
   {
     id: 2823, tantraId: 9, verseNumber: 2822,
@@ -3309,20 +3285,9 @@ Are but beings to His inner service dovoted.`,
   {
     id: 2826, tantraId: 9, verseNumber: 2825,
     tamil: `எப்பாழும் பாழும் யாவுமாய் அன்றாகி
-முப்பாழும் கீழுள முப்பாழும் முன்னிய2829: Satya-Jnana-Bliss is Above the Three States
-Unto the Blue Lily blossom that is blended
-With Color, Purity, Beauty, Fragrance and Radiance,
-It is,
-When Jiva into Tat-Para blends;
-Then is the State of Siva-Manifestness (Svarupa)
-That is of the three States exalted,
-And in Him arose Satya-Jnana-Ananda.d is Siva-Knowledge-Bliss
-All voids as void
-As all and nothing,
-The three Voids below,
-And the three Voids above,
-Seeking them,
-And knowing not what this Void is like,`,
+முப்பாழும் கீழுள முப்பாழும் முன்னியே
+இப்பாழும் இன்னாவாறு என்பதில்லா இன்பத்துத்
+தற்பரஞா னானந்தர் தானது வாகுமே`,
   },
   {
     id: 2827, tantraId: 9, verseNumber: 2826,
@@ -3382,19 +3347,9 @@ Blended with Six attributes above (Sat-Chit-Ananda).`,
   {
     id: 2830, tantraId: 9, verseNumber: 2829,
     tamil: `உருஉற் பலநிறம் ஒண்மணம் சோபை
-தரநிற்ப போல2833: How Jnanis Reach Satya-Jnana-Ananda
-The Tattvas six times six
-That in Eye-brow Center stand
-In Waking State,
-They left behind;
-They rid themselves of Malas;
-Were purified in Turiya that is Pure (Suddha);
-Freed of the bondage condition (Pedda)
-They became Siva;
-Beyond that they ascended into
-Satya-Jnana-Ananda (Truth-Knowledge-Bliss that is Sat-Chit-Ananda).
-They, the Jnanis True.ttiṉ
-corūpattiṉ cattiyāti tōṉṟaniṉ ṟāṉē`,
+தரநிற்ப போல்உயிர் தற்பரன் தன்னில்
+மருவச் சிவம்என்ற மாமுப் பதத்தின்
+சொரூபத்தின் சத்தியாதி தோன்றநின் றானே`,
     english: `2829: Satya-Jnana-Bliss is Above the Three States
 Unto the Blue Lily blossom that is blended
 With Color, Purity, Beauty, Fragrance and Radiance,
@@ -4022,16 +3977,7 @@ Beyond Bliss is He.`,
     transliteration: `muttiyum cittiyum muṟṟiya ñāṉattōṉ
 pattiyuḷ niṉṟu parantaṉṉuḷ niṉṟumā
 cattiyuḷ niṉṟōrkkut tattuvaṅ kūṭalāl
-cutti yakaṉṟor cukāṉanta pōtarē2868: Kundalini Yoga
-Six are the streets
-In their junction are juicy palm trees four;
-With ladder difficult to climb,
-I ascended the palm's heights;
-And there I saw the seas seven.anding,
-In the mighty Sakti standing
-They realize the Tattvas;
-Then from that Suddha State
-They passes to Sukhananda Bodha State.`,
+cutti yakaṉṟor cukāṉanta pōtarē`,
   },
   {
     id: 2864, tantraId: 9, verseNumber: 2863,
@@ -4705,15 +4651,7 @@ And there they remain.`,
     tamil: `கூப்பிடும் ஆற்றிலே வன்காடு இருகாதம்
 காப்பிடு கள்ளர் கலந்துநின் றார்உளர்
 காப்பிடு கள்ளரை வெள்ளர் தொடர்ந்திட்டுக்
-கூப்பிட மீண்டதோர் 2906: Light Dawns in Sahasrathala
-Within the Bathing Well,
-Where they water draw
-The roundly Earth swells
-And Water springs;
-Bind your breath and with Rope-Work
-And center your thoughts;
-Well may the Light Divine dawn.eḷḷar toṭarntiṭṭuk
-kūppiṭa mīṇṭatōr kūrai koṇ ṭārē`,
+கூப்பிட மீண்டதோர் கூரை கொண் டாரே`,
     english: `2900: Conquer Senses and Reach Siva
 In the Way of Loud Call of Jiva
 Is a Forest that stretches two leagues far;
@@ -4876,16 +4814,7 @@ This way was it made, through lives successive.`,
     transliteration: `koṭṭukkum tāli iraṇṭē iraṇṭukkum
 koṭṭukkum tālikkum pārai valiteṉpar
 koṭṭukkum tālikkum pāraikkum mūṉṟukkum
-iṭṭam valiteṉpar īcaṉ2916: Yoga's Triumph
-In the river of Leagues Three
-Are Plantain Trees Three;
-Ruddy fruits of triple Malas they bore;
-They who are with the Lord exceeding,
-Hoisted their Flag;
-And seeking the Virgin through Central Sushumna,
-Inhaled the Flower's fragrance, divine sweet. crow-bar;
-Stronger than the drum, thali and crow-bar
-Is the love that comes of Lord's Grace.`,
+iṭṭam valiteṉpar īcaṉ aruḷē`,
   },
   {
     id: 2911, tantraId: 9, verseNumber: 2910,
@@ -5051,17 +4980,8 @@ Its ego's diminution saw.`,
     id: 2920, tantraId: 9, verseNumber: 2919,
     tamil: `மொட்டித்து எழுந்ததோர் மொட்டுண்டு மொட்டினைக்
 கட்டுவிட்டு ஓடின் மலர்தலும் காணலாம்
-பற்றுவிட்டு அம்மனை பாழ்பட நோக2926: The Lord Drives in the Tattvas into the Infant Body
-The eight constituents of Body Subtle
-That ultimate leave,
-The eight and ten Tattvas that sneak in,
-With Purusha in them immersed,
-The orifices nine,
-The Kundalini that serpent-like coils,
-The life breath twelve finger-measure (angula) long,
--If these, the Divine Charioteer drives not in,
-Verily may the infant less than human be (say, pig).maṉai pāḻpaṭa nōkkiṉāl
-kaṭṭuviṭ ṭārkku aṉṟik kāṇaoṇ ṇātē`,
+பற்றுவிட்டு அம்மனை பாழ்பட நோக்கினால்
+கட்டுவிட் டார்க்கு அன்றிக் காணஒண் ணாதே`,
     english: `2919: Freedom From Fetters
 Unopened a Bud there is;
 Freed from Fetters,
@@ -5297,12 +5217,10 @@ The Five-States-Beyond.`,
   },
   {
     id: 2934, tantraId: 9, verseNumber: 2933,
-    tamil: `தோ2940: Lord is Beyond Turiyatita
-He is the Light Transcendental*
-That shines beyond Turiyas Three,
-In the Turiyatita that transcends them,
-Beyond waking, dreaming sushupti states;
-In that state, defying thought and speech.் கைவிட்ட வாறே`,
+    tamil: `தோட்டத்தில் மாம்பழம் தோண்டி விழுந்தக்கால்
+நாட்டின் புறத்தில் நரியழைத்து என்செயும்
+மூட்டிக் கொடுத்து முதல்வனை முன்னிட்டு
+காட்டிக் கொடுத்தவர் கைவிட்ட வாறே`,
     transliteration: `tōṭṭattil māmpaḻam tōṇṭi viḻuntakkāl
 nāṭṭiṉ puṟattil nariyaḻaittu eṉceyum
 mūṭṭik koṭuttu mutalvaṉai muṉṉiṭṭu
@@ -6666,14 +6584,8 @@ He the Lord is immanent in all.`,
   {
     id: 3011, tantraId: 9, verseNumber: 3010,
     tamil: `திகையனைத் தும்சிவ னேஅவ னாகின்
-மிகையனைத3019: None Knows Him Full Well
-The Noble One is He,
-A Sea of Joy beloved by all,
-He is the Radiance of Pearl pure,
-He is Dark-blue Throated,
-Him they contemplate over time immeasurable,
-The Siddhas holy and Celestials exalted,
-Yet full well they know Him not.ும்புறம் அங்கியிற் கூடு
+மிகையனைத் தும்சொல்ல வேண்டா மனிதரே
+புகையனைத் தும்புறம் அங்கியிற் கூடு
 முகையனைத் தும்எங்கள் ஆதிப் பிரானே`,
     transliteration: `tikaiyaṉait tumciva ṉēava ṉākiṉ
 mikaiyaṉait tumcolla vēṇṭā maṉitarē
@@ -6842,15 +6754,8 @@ He our Lord.`,
     id: 3020, tantraId: 9, verseNumber: 3019,
     tamil: `உத்தமன் எங்கும் உகக்கும் பெருங்கடல்
 நித்திலச் சோதியன் நீலக் கருமையன்
-எத்தனை காலமும் எண்ணுவர் ஈ3029: His Infinite Compassion For Jiva
-He is the Light within the Lights Three-
-Sun, Moon and Fire;
-He is their Body too
-He the Lord of Celestials;
-Yet leaving luminosities,
-He follows Jivas in expanses vast
-In compassion great;
-He the One as several proliferates.rkaḷ tērntaṟi yārē`,
+எத்தனை காலமும் எண்ணுவர் ஈசனைச்
+சித்தர் அமரர்கள் தேர்ந்தறி யாரே`,
     english: `3019: None Knows Him Full Well
 The Noble One is He,
 A Sea of Joy beloved by all,

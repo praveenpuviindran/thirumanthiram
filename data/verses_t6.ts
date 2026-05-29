@@ -624,11 +624,9 @@ Have the Knowledge of union with the Object.`,
   },
   {
     id: 1608, tantraId: 6, verseNumber: 1607,
-    tamil: `தானென் றவனென் 1607: You and He
-The two categories-You and He
-See them both in you and He;
-Offer the flower "you" at the Feet of He;
-Then no more be it proper to say: "You and He."சாத்தினால்
+    tamil: `தானென் றவனென் றிரண்டாகும் தத்துவந்
+தானென் றவனென் றிரண்டுந் தனிற்கண்டு
+தானென்ற பூவை யவனடி சாத்தினால்
 நானென் றவனென்கை நல்லதொன் றன்றே`,
     transliteration: `tāṉeṉ ṟavaṉeṉ ṟiraṇṭākum tattuvan
 tāṉeṉ ṟavaṉeṉ ṟiraṇṭun taṉiṟkaṇṭu
