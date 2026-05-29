@@ -469,14 +469,11 @@ And God within shall leave you never.`,
     id: 577, tantraId: 3, verseNumber: 576,
     tamil: `கூடம் எடுத்துக் குடிபுக்க மங்கையர்
 ஓடுவர் மீளுவர் பன்னிரண் டங்குலம்
-நீடுவர் எண்விரல் கண்டிப்பர் நால்வி576: Inhale 12 Matras; Retain 4 Matras
-The Prana breath
-That is damsel within body-house
-Runs in and out constant;
-If twelve matras inhaled
-Eight matras exhaled,
-The four matras retained
-Shall make you divine in Siva.
+நீடுவர் எண்விரல் கண்டிப்பர் நால்விரல்
+கூடிக் கொளிற்கோல அஞ்செழுத் தாமே`,
+    transliteration: `kūṭam eṭuttuk kuṭipukka maṅkaiyar
+ōṭuvar mīḷuvar paṉṉiraṇ ṭaṅkulam
+nīṭuvar eṇviral kaṇṭippar nālviral
 kūṭik koḷiṟkōla añceḻut tāmē`,
     english: `576: Inhale 12 Matras; Retain 4 Matras
 The Prana breath
@@ -714,7 +711,28 @@ The heavenly waterfall
 Unceasing cascades
 Coursing prana through the spinal channel;`,
   },
+  
   {
+    id: 590, tantraId: 3, verseNumber: 589,
+    tamil: `மலையார் சிரத்திடை வானீர் அருவி
+நிலையாரப் பாயும் நெடுநாடி யூடே
+சிலையார் பொதுவில் திருநட மாடுந்
+தொலையாத ஆனந்தச் சோதிகண் டேனே`,
+    transliteration: `malaiyār cirattiṭai vāṉīr aruvi
+nilaiyārap pāyum neṭunāṭi yūṭē
+cilaiyār potuvil tirunaṭa māṭun
+tolaiyāta āṉantac cōtikaṇ ṭēṉē`,
+    english: `589: Lord Dances in Sahasrara
+From the peaks of Cranium ranges
+The heavenly waterfall
+Unceasing cascades
+Coursing prana through the spinal channel;
+There on the stony arena (of Mount Meru within)
+The Lord performs His timeless dance;
+That unending Bliss Light,
+I witnessed.`,
+  },
+{
     id: 591, tantraId: 3, verseNumber: 590,
     tamil: `மேலை நிலத்தினாள் வேதகப் பெண்பிள்ளை
 மூல நிலத்தில் எழுகின்ற மூர்த்தியை
@@ -781,14 +799,17 @@ With him shall Time and Life inseparate remain.`,
 vāytiṟap pārē vaḷiyiṭṭup pāyccuvar
 vāytiṟa vātār matiyiṭṭu mūṭṭuvar
 kōytiṟa vāviṭiṟ kōḻaiyumāmē`,
-    english: `593: வாய்திற வாதார் மனத்திலோர் மாடுண்டு
-வாய்திறப் பாரே
-வளியிட்டுப் பாய்ச்சுவர்
-வாய்திற வாதார்
-மதியிட்டு மூட்டுவர்
-கோய்திற வாவிடிற்
-கோழையுமாமே
-5`,
+    english: `593: Practise Breath Control in Silentness
+A bull there is,
+In the thoughts of those
+Who silentness observe;
+They who open their mouth wide
+Drive it away wind-ward;
+But they who are in silentness wrapped
+Drive it to the Lunar Peak;
+There with its horns it knocks;
+And if the Gates of the Cave do not open,
+It turns tail in fear.`,
   },
   {
     id: 595, tantraId: 3, verseNumber: 594,
@@ -868,12 +889,7 @@ Into its Primal Reals,
 To contain Primal Reals
 In the Being Uncreated
 That, verily, is Dharana
-In stages practised.
-8.
-தியானம்
-Dhyana (
-Meditation
-)`,
+In stages practised.`,
   },
   {
     id: 599, tantraId: 3, verseNumber: 598,
@@ -1255,12 +1271,7 @@ Transformed into Jnana Pure by Grace
 Themselves that Grace inseparable Becoming
 They who achieved thus
 Were the goodly souls
-The Way of Dhyana knew.
-9.
-சமாதி
-Samadhi (
-Intense
-contemplation)`,
+The Way of Dhyana knew.`,
   },
   {
     id: 619, tantraId: 3, verseNumber: 618,
@@ -1342,7 +1353,7 @@ Four the doors;
 Within these they sit (in Samadhi);
 When through the door on top
 They vision the Void
-No more the word Death, aye, not even in dream`,
+No more the word Death, aye, not even in dream.`,
   },
   {
     id: 624, tantraId: 3, verseNumber: 623,
@@ -1554,9 +1565,7 @@ Study His Sacred lore
 Constant think of Him
 You shall reach the World of Siva,
 Received in full regalia
-By the sacred Rishi concourse.
-ஆதனம்
-Asana or Yogic Posture`,
+By the sacred Rishi concourse.`,
   },
   {
     id: 635, tantraId: 3, verseNumber: 634,
@@ -1597,17 +1606,15 @@ And he in raptuous pleasures shall revel.`,
   {
     id: 637, tantraId: 3, verseNumber: 636,
     tamil: `சேருறு காலந் திசைநின்ற தேவர்கள்
-ஆரிவன் எ637: Even Celestials Have to Follow the Path of Devotees
-Seeking the goodly path
-They turn away Death's path;
-They walk the path of Truth
-They seek the path of Liberation ;
-Of limitless bounty they are;
-Well may the Celestials
-In directions eight roam
-They perforce have to come
-To this earth's way of devotees,
-And they Him seek.d of Siva
+ஆரிவன் என்ன அரனாம் இவனென்ன
+ஏருறு தேவர்கள் எல்லாம் எதிர்கொள்ளக்
+காருறு கண்டனை மெய்கண்ட வாறே`,
+    transliteration: `cēruṟu kālan ticainiṉṟa tēvarkaḷ
+ārivaṉ eṉṉa araṉām ivaṉeṉṉa
+ēruṟu tēvarkaḷ ellām etirkoḷḷak
+kāruṟu kaṇṭaṉai meykaṇṭa vāṟē`,
+    english: `636: The Devotee Hailed as Siva Himself
+When he reaches the World of Siva
 The Celestials,
 Who in directions eight stood
 Ask, "Who is he;"
@@ -1629,15 +1636,13 @@ palvaḻi eytiṉum pārvaḻi yākumē`,
 Seeking the goodly path
 They turn away Death's path;
 They walk the path of Truth
-They seek the path of Liberation;
+They seek the path of Liberation ;
 Of limitless bounty they are;
 Well may the Celestials
 In directions eight roam
 They perforce have to come
 To this earth's way of devotees,
-And they Him seek.
-தியானம்
-Dhyana`,
+And they Him seek.`,
   },
   {
     id: 639, tantraId: 3, verseNumber: 638,
@@ -2140,7 +2145,7 @@ maṭaipaṭu vāyuvu māṟiyē niṟkun
 taṭaiyavai yāṟēḻun taṇcuṭa ruḷḷē
 miṭaivaḷar miṉkoṭi taṉṉil oṭuṅkē`,
     english: `665: Merge in Poorna Sakti
-The breath in nadis to Left and Right
+The breath in nadisto Left and Right
 When in alternation made to course,
 And passes beyond the Adhara barrier Six,
 There amidst the Cool Flame
@@ -3113,8 +3118,7 @@ This body became Siva's temple.`,
 aḻiyum paṭiyai aṟikila rārum
 aḻiyum paṭiyai aṟintapiṉ nanti
 tikaḻkiṉṟa vāyuvaic cērtalu māmē`,
-    english: `720: Know the Mystery of Prana Merging in
-Nada
+    english: `720: Know the Mystery of Prana Merging in Nada
 The breath that glows within
 None knows how it merges
 When you know how it merges
@@ -3132,7 +3136,26 @@ On its upward journey through Sushumna;
 That you gain through the Guru guiding;
 Take that as treasure precious gained.`,
   },
+  
   {
+    id: 722, tantraId: 3, verseNumber: 721,
+    tamil: `சோதனை தன்னில் துரிசறிக் காணலாம்
+நாதனும் நாயகி தன்னிற் பிரியுநாள்
+சாதன மாகுங் குருவை வழிபட்டு
+மாதன மாக மதித்துக்கொள் ளீரே`,
+    transliteration: `cōtaṉai taṉṉil turicaṟik kāṇalām
+nātaṉum nāyaki taṉṉiṟ piriyunāḷ
+cātaṉa mākuṅ kuruvai vaḻipaṭṭu
+mātaṉa māka matittukkoḷ ḷīrē`,
+    english: `721: Treasure Guru's Guidance for Yoga
+As through breath you pierce the adharas
+You shall vision clear;
+Prana leaving the Kundalini Sakti
+On its upward journey through Sushumna;
+That you gain through the Guru guiding;
+Take that as treasure precious gained.`,
+  },
+{
     id: 723, tantraId: 3, verseNumber: 722,
     tamil: `ஈராறு கால்கொண் டெழுந்த புரவியைப்
 பேராமற் கட்டிப் பெரிதுண்ண வல்லீரேல்
@@ -3314,8 +3337,7 @@ Shines the sound "Ha"
 In the Nada that abides
 Lives the sound "Sa"
 Together they become the mantra "Soham"
-The yogi who silent chants it while
-breathing
+The yogi who silent chants it while breathing
 Sure attains the Holy Way.`,
   },
   {
@@ -3523,14 +3545,12 @@ moḻikiṉṟa muppattu mūṉṟeṉpa tākuṅ
 kaḻikiṉṟa kālaṟu pattiraṇ ṭeṉpa
 teḻukiṉṟa īraimpa teṇṇaṟ ṟiruntē`,
     english: `742: Critical Years of Life
-Many are the stages when death assails
-man;
+Many are the stages when death assails man;
 From twenty five to twenty eight;
 From thirty to thirty three
 From sixty to sixty two
 From hundred and beyond
-These are the critical ages in man's life
-span;
+These are the critical ages in man's life span;
 When death may visit him.`,
   },
   {
@@ -3673,18 +3693,15 @@ Will abide ever in this fleeting world.`,
 piṉṉiya mārpiṭaip pērāmal ottiṭuñ
 ceṉṉiyiṉ mūṉṟukkuṉy cēravē niṉṟiṭum
 uṉṉi yuṇarntiṭum ōviyan tāṉē`,
-    english: `750: Journey Through Six Adharas in Two
-Stages
+    english: `750: Journey Through Six Adharas in Two Stages
 Unto the girth of the little finger
-Is the spinal cord, taut like the string
-of bow;
+Is the spinal cord, taut like the string of bow;
 There the adharas are
 Traversing the first three
 Do you reach the Heart's Center.
 And, be in constancy fixed;
 When you journey further onward
-To the three Centers that end with
-Forehead
+To the three Centers that end with Forehead
 You shall firm be
 As unto a picture painted.`,
   },
@@ -3830,12 +3847,10 @@ And You one with Him become.`,
 ēttuvar pattiṉil eṇṭicai tōṉṟiṭap
 pārttu makiḻntu patumarai nōkkiṭiṟ
 cāttiṭu nūṟu talaippeyya lāmē`,
-    english: `757: Vision of the Hundred Petalled Lotus
-of Sahasrara
+    english: `757: Vision of the Hundred Petalled Lotus of Sahasrara
 Knowing the secret of reaching the Dancer,
 They meditate on the tenth Center
-They see the directions eight in rapturous
-vision
+They see the directions eight in rapturous vision
 They glimpse the Lord seated on Lotus,
 And attain radiance a hundred fold.`,
   },
@@ -4119,12 +4134,9 @@ And the yogi becomes Lord of earth.`,
 talaiva ṉiṭamvala māyiṭil taiyal
 talaiva ṉiṭamvalan taṉvaḻi yañcil
 talaiva niṭamvalan taṉvaḻi nūṟē`,
-    english: `773: Importance of Nadi Suddhi for
-Longevitiy
-None there the Jiva who practices Nadi
-Suddhi,
-Breathing from left to right and right to
-left;
+    english: `773: Importance of Nadi Suddhi for Longevitiy
+None there the Jiva who practices Nadi Suddhi,
+Breathing from left to right and right to left;
 He who does it visions Sakti;
 The senses five his way come;
 To a hundred years, he sure lives.`,
@@ -4139,7 +4151,25 @@ Eighty the age you live up to;
 If seven, sixty;
 These two know clearly.`,
   },
+  
   {
+    id: 775, tantraId: 3, verseNumber: 774,
+    tamil: `ஏறிய வாறினில் எண்பது சென்றிடுந்
+தேறிய ஏழிற் சிறக்கும் வகையெண்ணில்
+ஆறொரு பத்தாய் அமர்ந்த இரண்டையுந்
+தேறியே நின்று தௌiயிவ் வகையே`,
+    transliteration: `ēṟiya vāṟiṉil eṇpatu ceṉṟiṭun
+tēṟiya ēḻiṟ ciṟakkum vakaiyeṇṇil
+āṟoru pattāy amarnta iraṇṭaiyun
+tēṟiyē niṉṟu tauiyiv vakaiyē`,
+    english: `774: Exhalation Measure for Ages 80 and 60
+If Prana flows outward
+To matra six in length,
+Eighty the age you live up to;
+If seven, sixty;
+These two know clearly.`,
+  },
+{
     id: 776, tantraId: 3, verseNumber: 775,
     tamil: `இவ்வகை எட்டும் இடம்பெற ஓடிடில்
 அவ்வகை ஐம்பதே யென்ன அறியலாஞ்
@@ -4199,16 +4229,13 @@ The entire day of thirty naligas!`,
 pāyiru nālum pakaiyaṟa niṉṟiṭum
 tēyvuṟa mūṉṟun tikaḻavē niṉṟiṭil
 āyuru vāṟeṉ ṟaḷakkalu māmē`,
-    english: `778: Effect of Ten-Matra Kumbhaka for
-Three Days
+    english: `778: Effect of Ten-Matra Kumbhaka for Three Days
 If for two days continuous,
 The ten matra of Prana is inside retained,
 It will no obstacle from apana encounter;
-If for three days this is maintained
-glowing
+If for three days this is maintained glowing
 Then may you be certain
-The ascension through Centers Six come
-soon.`,
+The ascension through Centers Six come soon.`,
     transliteration: `aḷakkum vakainālum avvaḻiyē ōṭil
 viḷakkum orunālu meyppaṭa niṟkum
 tuḷakkum vakaiyaintun tūyneṟi ōṭil
@@ -4221,7 +4248,26 @@ If further continued,
 On the fifth day,
 The Second and Third adharas visioned art.`,
   },
+  
   {
+    id: 780, tantraId: 3, verseNumber: 779,
+    tamil: `அளக்கும் வகைநாலும் அவ்வழியே ஓடில்
+விளக்கும் ஒருநாலு மெய்ப்பட நிற்கும்
+துளக்கும் வகையைந்துந் தூய்நெறி ஓடில்
+களக்க மறமூன்றிற் காணலு மாமே`,
+    transliteration: `aḷakkum vakainālum avvaḻiyē ōṭil
+viḷakkum orunālu meyppaṭa niṟkum
+tuḷakkum vakaiyaintun tūyneṟi ōṭil
+kaḷakka maṟamūṉṟiṟ kāṇalu māmē`,
+    english: `779: Vision of the First Three Adharas in the Fourth and Fifth
+Day
+If thus the practice is for days four continued,
+The four petalled Muladhara will visioned be;
+If further continued,
+On the fifth day,
+The Second and Third adharas visioned art.`,
+  },
+{
     id: 781, tantraId: 3, verseNumber: 780,
     tamil: `காணலு மாகுங் கருதிய பத்தோடிற்
 காணலு மாகுங் கலந்த இரண்டையும்
@@ -4389,7 +4435,12 @@ That is the Consort of Lord.`,
 kuṟippatu kūṭiya kōlak kurampaip
 paḻappati yāvatu paṟṟaṟum pācam
 aḻappaṭi ceyvārk kakalu matiyē`,
-    english: `Khechari Yoga`,
+    english: `789: Nandi Grants Eternal Wisdom
+This body is full of desire,
+Ancient mansion haunted by repetitive births;
+Rend the bonds of desire asunder,
+Make the fetters flee, howling;
+Nandi Great will grant His Wisdom Eternal.`,
   },
   {
     id: 791, tantraId: 3, verseNumber: 790,
@@ -4484,8 +4535,7 @@ And according regulate breathing.`,
 atirttañci yōṭuta lāmakaṉ ṟārum
 utittatu vēmika vōṭiṭu mākil
 utitta virāci yuṇarntuko ḷuṟṟē`,
-    english: `794: How to Regulate When Breath Rhythm
-Changes Course
+    english: `794: How to Regulate When Breath Rhythm Changes Course
 The breath that rises in the Nadi Right
 While its course into the Left changed
 May a sudden jolt know
@@ -4795,8 +4845,7 @@ Knowing way appropriate
 Those who worshipped thus within
 Will receive shower of Grace
 That is Jnana ripe;
-If they but know how to bolt the door
-within
+If they but know how to bolt the door within
 And check the flowing stream,
 Well then may they become
 Abiding cave temples within.`,
@@ -4833,7 +4882,28 @@ Of those who sing of Him;
 He is in the intelligence
 Of those who perform deeds rare.`,
   },
+  
   {
+    id: 813, tantraId: 3, verseNumber: 812,
+    tamil: `தீவினை யாளர்த்தஞ் சென்னியி லுள்ளவன்
+பூவினை யாளர்த்தம் பொற்பதி யானவன்
+பாவினை யாளர்த்தம் பாகவத் துள்ளவன்
+மாவினை யாளர்த்தம் மதியிலுள் ளானே`,
+    transliteration: `tīviṉai yāḷarttañ ceṉṉiyi luḷḷavaṉ
+pūviṉai yāḷarttam poṟpati yāṉavaṉ
+pāviṉai yāḷarttam pākavat tuḷḷavaṉ
+māviṉai yāḷarttam matiyiluḷ ḷāṉē`,
+    english: `812: God's Abodes
+He is seated at the Forehead Center
+Of those who perform yoga with Kundalini Fire;
+He is in the Golden City
+Of those who reach the Flower of cranial spaces;
+He is in the imagination
+Of those who sing of Him;
+He is in the intelligence
+Of those who perform deeds rare.`,
+  },
+{
     id: 814, tantraId: 3, verseNumber: 813,
     tamil: `மதியி நெழுங்கதிர் போலப் பதினாறாய்ப்
 பதிமனை நூறு நூற் றிருபத்து நாலாய்க்
@@ -4899,11 +4969,9 @@ maṇamatu vāka makiḻntaṅ kirukkil
 taṉamatu vākiya tattuva ñāṉam
 iṉamatu vāka iruntaṉaṉ tāṉē`,
     english: `816: With Sakti Stood Siva
-If Sakti that is unto a tender Vine of
-Goodness
+If Sakti that is unto a tender Vine of Goodness
 Resides within in fragrant delight;
-Then Lord that is a treasure-house of
-Tattva Jnana
+Then Lord that is a treasure-house of Tattva Jnana
 Also stood in amity within.`,
   },
   {
@@ -5265,19 +5333,15 @@ And of Ganas of groups eighteen.`,
 naṅkaiyaip pulliya nampikkō rāṉantan
 taṅkaḷiṟ poṉṉiṭai vauḷitā ḻāmuṉan
 taṅkaḷiṟ cevvāy putaittirun tārē`,
-    english: `836: Pariyanga Yogi Practiced With Kecari
-Yoga Also
-Espousing Wisdom that is denoted by Budha*,
-(Mercury)
+    english: `836: Pariyanga Yogi Practiced With Kecari Yoga Also
+Espousing Wisdom that is denoted by Budha*, (Mercury)
 Who stands middle of sun and saturn
 The youthful Yogi who embraced the damsel
 Knew joy infinite;
 Lest the male silvery liquid flow not
 Ahead of female golden one
-He had his red mouth buried in the Mystic
-Moon.
-(Note: This Budha spelling is the author's
-dub on Buddha)`,
+He had his red mouth buried in the Mystic Moon.
+(Note: This Budha spelling is the author's dub on Buddha)`,
   },
   {
     id: 838, tantraId: 3, verseNumber: 837,
@@ -5584,8 +5648,8 @@ And all that becomes his mystic knowledge.`,
 nāṟā nalaṅkiṉār ñālaṅ kavarkkoḷap
 pēṟāṅ kalaimuṟṟum peruṅkāl īreṭṭu
 māṟāk katirkkoḷḷu maṟṟaṅki kūṭavē`,
-    english: `853: Kalas of Fire Merge into Sun, Which in Turn Merge into Those of
-Moon
+    english: `853: Kalas of Fire Merge into Sun, Which in Turn Merge into
+Those of Moon
 The twelve Kalas of Sun
 Absorb Kalas ten of Fire
 Together are they absorbed
@@ -5680,7 +5744,8 @@ Fire, Star, Moon and Sun,
 And Kala of Parai
 Who is unto a Star
 Together are the nine beams of Parai
-In the Nava Cakra this World below.`,
+In the Nava Cakra this World below.
+*070 Jiva`,
   },
   {
     id: 860, tantraId: 3, verseNumber: 859,
@@ -5943,7 +6008,8 @@ Will shed its dazzling Kalas full.`,
 caciyutit tāṉēl taṉatūṇ aruntic
 cacicarik kiṉṟaḷa vuntuyi lāmaṟ
 cacicarip piṅkaṭṭaṉ kaṇṭuyil koṇṭatē`,
-    english: `873: Time for Sleeping and Eating When Moon is Devoured by Kundalini
+    english: `873: Time for Sleeping and Eating When Moon is Devoured by
+Kundalini
 Sleep not until the Moon comes out;
 Eat not until Moon rises;
 Sleep not until Moon moves;

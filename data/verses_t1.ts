@@ -584,13 +584,15 @@ Then a ceremonial dip--and memory dies as the hours lapse.`,
 பாலுள் பருங்கழி முப்பத் திரண்டுள
 மேலுள கூரை பிரியும் பிரிந்தால்முன்
 போலுயிர் மீளப் புக அறி யாதே`,
-    transliteration: `kālum iraṇṭu mukaṭṭalaku146: When Body Roof Falls, It Falls Forever
+    transliteration: `kālum iraṇṭu mukaṭṭalaku oṉṟuḷa
+pāluḷ paruṅkaḻi muppat tiraṇṭuḷa
+mēluḷa kūrai piriyum pirintālmuṉ
+pōluyir mīḷap puka aṟi yātē`,
+    english: `146: When Body Roof Falls, It Falls Forever
 Two pillars support this roof and one single beam,
 Thirty and two the rafters extend side ways,
 But as the roof above decays and breaks,
-Back to its mansion the breath of life fails its way to trace.alls, It Falls Forever
-Two pillars support this roof and one single beam,
-Thirty and two the rafters extend side ways,`,
+Back to its mansion the breath of life fails its way to trace.`,
     elaborationTamil: `மனிதர்களின் இரண்டு கால்களே சுவர்களாகவும் முதுகுத் தண்டே அந்தச் சுவற்றிற்கு நடுவில் கூரையைத் தாங்கியிருக்கும் உத்திரமாகவும் உடலைச் சுற்றியிருக்கும் முப்பத்தி இரண்டு விலா எலும்புகளே சுவற்றைச் சுற்றி அது விழுந்துவிடாமல் இருக்கவேண்டி வைக்கப்பட்ட சட்டங்களாகவும் தலையே உத்திரத்தின் உச்சியிலிருக்கும் கூரையாகவும் இருக்கும் இந்த உடலாகிய வீடு எப்படி வீட்டின் மேலே இருக்கும் கூரை பிரிந்து விட்டால் வெறும் சுவர்களும் அதைத் தாங்கியிருக்கும் சட்டங்களும் மட்டுமே நிற்க உபயோகிக்க முடியாததாக ஒரு வீடு இருக்குமோ அதுபோலவே தலைவழியே மூச்சுக்காற்று வெளியேறி விட்டால் உடலும் இறந்துபோய் வெறும் சதையும் எலும்புகளும் மட்டுமே நிற்க வெளியில் சென்ற உயிர் மீண்டும் அந்த உடலுக்கும் புகுந்துகொள்ளும் வழி என்னவென்று தெரியாமல் நிற்கும். உயிராகிய ஆன்மா உடம்பிலிருந்து பிரிந்தால் உடல் மீண்டும் உயிர்பெறுவது இல்லை.`,
   },
   {
@@ -1904,6 +1906,11 @@ And all evils are scorched that our Karmas make.`,
 varuñcelvam tanta talaivaṉai nāṭum
 varuñcelvatatu iṉpam varairun teṇṇi
 aruñcelvattu ākuti vēṭkaniṉ ṟārē`,
+    english: `220: Sacrifices Give Wealth Imperishable
+Firmly holding that vast riches are a grievous curse,
+They hungered for the Lord who to us richest treasure gave;
+Hoping and dreaming they waited for the immortal prize,
+All sacrifices performed, the undying wealth to achieve.`,
     elaborationTamil: `உலகத்தில் கிடைக்கும் செல்வங்கள் எவ்வளவு பெரியதாக இருந்தாலும் அவை உயிர்களுக்கு துன்பத்தையே கொடுக்கும் கேடு என்பதை உணர்ந்து கொண்டு அரிதான வேதத்தை தந்த இறைவனை நாடுங்கள். இறைவனை அடைந்து பேரின்பமாகிய இறைசெல்வம் கிடைக்க வேண்டும் என்று வேத முறைப்படி யாகத்தை வளர்த்து அதன் மூலம் அதைப் பெறுவதற்கு உயிர்கள் முயற்சி செய்கின்றனர்.`,
   },
   {
@@ -3011,7 +3018,24 @@ But He gave Salvation's bliss and the Vision splendid,
 To them whose hearts did in intense faith overflow.`,
     elaborationTamil: `அனைத்து உயிர்களிடம் உண்மையான அன்பு வைத்து இருக்கும் அன்பர்களுடன் சேர்ந்து இருக்கும் பேரொளியான இறைவனை வெறும் சிந்தனை மட்டுமே செய்பவர்களால் அவன் எப்படி இருப்பான் என்பதைத் தெரிந்து கொள்ளவோ அவனது பேரன்பையோ அறிந்து கொள்ளவோ முடியாது. சிந்தனையை விட்டுவிட்டு அவன் மீது உண்மையான பக்தி கொண்டு அவன் திருவடிகளைப் பணிந்து தொழுது வருபவர்களுக்கு அவன் முக்தியையும் கொடுத்து அவர்களின் கண் முன்பும் வந்து நிற்பான் இறைவன்.`,
   },
+  
   {
+    id: 285, tantraId: 1, verseNumber: 284,
+    tamil: `உற்றுநின் றாரொடும் அத்தகு சோதியைச்
+சித்தர்கள் என்றும் தொ஢ந்தறி வாரில்லை
+பத்திமை யாலே பணிந்தடி யார்தொழ
+முத்தி கொடுத்தவர் முன்புநின் றானே`,
+    transliteration: `uṟṟuniṉ ṟāroṭum attaku cōtiyaic
+cittarkaḷ eṉṟum to஢ntaṟi vārillai
+pattimai yālē paṇintaṭi yārtoḻa
+mutti koṭuttavar muṉpuniṉ ṟāṉē`,
+    english: `284: Faith Leads to Liberation
+Even the Siddhas, standing close in banded group,
+Knew not the Light Supreme in splendorous glow;
+But He gave Salvation's bliss and the Vision splendid,
+To them whose hearts did in intense faith overflow.`,
+  },
+{
     id: 286, tantraId: 1, verseNumber: 285,
     tamil: `கண்டேன் கமழ்தரு கொன்றையி னான்அடி
 கண்டேன் கரியுரி யான்தன் கழலிணை

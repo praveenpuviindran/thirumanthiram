@@ -1583,13 +1583,13 @@ Beyond which there is state none.`,
   {
     id: 1509, tantraId: 5, verseNumber: 1508,
     tamil: `சமயங் கிரியையிற் றன்மனங் கோயில்
-சமய மனுமுற1508: The Four Ordinations in Kriya Worship
-In Kriya worship are sacraments four;
-Samaya sacrament prepares heart to be a Tabernacle of God ;
-Visesha sacrament installs the Faith firm;
-Nirvana helps realize the Truth of Faith;
-Abhisheka confereth the state of Samadhi Supreme.
-14 SAMIPAM (IN GOD'S PROXIMITY)ṉaittēṟaṉ mūṉṟāñ`,
+சமய மனுமுறை தானே விசேடஞ்
+சமயத்து மூலந் தனைத்தேறன் மூன்றாஞ்
+சமயாபி டேகந் தானாஞ் சமாதியே`,
+    transliteration: `camayaṅ kiriyaiyiṟ ṟaṉmaṉaṅ kōyil
+camaya maṉumuṟai tāṉē vicēṭañ
+camayattu mūlan taṉaittēṟaṉ mūṉṟāñ
+camayāpi ṭēkan tāṉāñ camātiyē`,
     english: `1508: The Four Ordinations in Kriya Worship
 In Kriya worship are sacraments four;
 Samaya sacrament prepares heart to be a Tabernacle of God ;
@@ -1998,12 +1998,9 @@ He is the Light on the path,
 The Peerless Flame, the Supreme Lord;
 The Master that illumined the Light within me;
 He entered in me and lighted up the corporeal body;
-And then
-,
-aye, with me bided for ever and ever.
-18.
-அருசமயப் பிணக்கம்
-18 ARUSAMAYA PINAKKAM (A CRITIQUE OF FORMAL RELIGIONS)`,
+And then, aye, with me bided for ever and ever.
+18 ARUSAMAYA PINAKKAM (A CRITIQUE OF
+FORMAL RELIGIONS)`,
     transliteration: `āyattuḷ niṉṟa aṟucama yaṅkaḷuṅ
 kāyattuḷ niṉṟa kaṭavuḷaik kāṇkilar
 māyak kuḻiyil viḻuvar maṉaimakkaḷ
@@ -2013,7 +2010,25 @@ The Six faiths severally congregate,
 Yet, not one knows the God within;
 Deep into the pit of illusion, their adherents drop,`,
   },
+  
   {
+    id: 1531, tantraId: 5, verseNumber: 1530,
+    tamil: `ஆயத்துள் நின்ற அறுசம யங்களுங்
+காயத்துள் நின்ற கடவுளைக் காண்கிலர்
+மாயக் குழியில் விழுவர் மனைமக்கள்
+பாசத்தில் உற்றுப் பதைக்கின்ற வாறே`,
+    transliteration: `āyattuḷ niṉṟa aṟucama yaṅkaḷuṅ
+kāyattuḷ niṉṟa kaṭavuḷaik kāṇkilar
+māyak kuḻiyil viḻuvar maṉaimakkaḷ
+pācattil uṟṟup pataikkiṉṟa vāṟē.`,
+    english: `1530: The Six Faiths Avail Not
+The Six faiths severally congregate,
+Yet, not one knows the God within;
+Deep into the pit of illusion, their adherents drop,
+And fastened hard by familial ties of bondage,
+They shake and tremble, in vain impotence.`,
+  },
+{
     id: 1532, tantraId: 5, verseNumber: 1531,
     tamil: `உள்ளத்து ளேதான் கரந்தெங்கும் நின்றவன்
 வள்ளல் தலைவன் மலருறை மாதவன்
@@ -2479,8 +2494,7 @@ The Only Being, the Eternal Being
 Within you He dwells;
 When you say so,
 These ignorant men laugh low;
-Poor folk!
-if they but seek Him in prayer within
+Poor folk! if they but seek Him in prayer within
 Then shall they meet Him-the Peerless One.`,
   },
   {
@@ -2712,8 +2726,7 @@ He smiles in pity;
 What though the form of Faith?
 What though the place of Birth?
 They with mind to infinity attuned
-Sure
-enter the City of God.`,
+Sure enter the City of God.`,
   },
   {
     id: 1570, tantraId: 5, verseNumber: 1569,

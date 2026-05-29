@@ -1086,16 +1086,11 @@ Him, I too shall muse and praise.`,
 kaṇṭavar kūṟum karuttaṟi vāreṉka
 paṇṭitar taṅkaḷ patiṉeṭṭup pāṭaiyum
 aṇṭa mutalāṉ aṟañcoṉṉa vāṟē`,
-    english: `59: Agamic Truths In 18
-Languages
-In eighteen various
-tongues they speak
-The thoughts which
-Pandits alone know;
-The Pandits' tongues
-numbering ten and eight
-Are but what the Primal
-Lord declared.`,
+    english: `59: Agamic Truths In 18 Languages
+In eighteen various tongues they speak
+The thoughts which Pandits alone know;
+The Pandits' tongues numbering ten and eight
+Are but what the Primal Lord declared.`,
     elaborationTamil: `இறைவனை அடைய ஆகமங்கள் கூறும் பதினெட்டு நிலைகளையும் அதன் உண்மையையும் உணர்ந்தவர்கள் பண்டிதர்கள் ஆவார்கள். இந்தப் பதினெட்டு நிலைகளையும் அரன் எனும் பெயரால் அறியப்படுபவனும் உலகங்கள் அனைத்திற்கும் முதல்வனுமான இறைவன் கூறியவையாகும். இறைவன் கூறியவற்றை அவன் கூறியபடியே விளக்குபவர்களே உண்மையான பண்டிதர்கள் ஆவார்கள்.`,
   },
   {
@@ -1801,31 +1796,11 @@ Of the Bosom of the Lord.`,
 mutti muṭivitu mūvā yirattilē
 putticey pūrvattu mūvā yirampotu
 vaitta ciṟapput tarumivai tāṉē`,
-    english: `100: G
-e
-n
-er
-al
-A
-n
-d
-Sp
-ec
-ialis
-e
-d
-K
-n
-o
-w
-l
-e
-d
-ge
-I
-n
-t
-h`,
+    english: `100: General And Specialised Knowledge
+In the Holy Three Thousand is the Salvation Finale
+Of the diverse works, true and good;
+In the Divine Three Thousand, original and wise,
+All knowledge is, special and general.`,
     elaborationTamil: `உயிர்கள் அனைத்தும் இறைவனை உணர்ந்து வீடு பேறு அடைய வேண்டும் என்கின்ற அன்பினால் யாம் உயிர்களுக்கு வைத்த பேரின்ப பரிசு திருமந்திரம் என்னும் பேரின்ப நன்மை தரும் நூலாகும். இந்த நூலிலுள்ள மூவாயிரம் பாடல்களில் யாம் வழங்கியிருப்பது இறைவனை அடைந்து முக்தி பெறும் வழிகளும் அதன் முடிவில் இறைவனோடு என்றும் கலந்து இருக்கும் பேரின்பத்தின் விளக்கங்களும் ஆகும். இறைவனின் அருளால் அறிவுப்பூர்வமாக இயற்றப்பெற்ற இந்த மூவாயிரம் பாடல்களும் அனைவருக்கும் பொதுவானவையாகும். இந்த மூவாயிரம் பாடல்களையும் தமது சிந்தையில் வைத்து, அவற்றின் பொருளுணர்ந்து போற்றி வருபவர்களுக்கு அனைத்துவிதமான சிறப்புகளையும் கொடுக்கும் இந்த திருமந்திரப் பாடல்கள்.`,
   },
   {

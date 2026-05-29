@@ -453,15 +453,12 @@ Their own deadly end.`,
 pallār amarar parintaruḷ ceykeṉa
 villāṟ purattai viḷaṅkori kōttavaṉ
 pollā acurarkaḷ poṉṟum paṭikkē`,
-    english: `360: The
-Lord Destroyed Asuras to Protect the Sacrificial Rites of Devas
-The Immortal Many prayed to the
-Lord;
-"O Lord !
-protect
-the nine sacrificial pits
+    english: `360: The Lord Destroyed Asuras to Protect the Sacrificial Rites
+of Devas
+The Immortal Many prayed to the Lord;
+"O Lord ! protect the nine sacrificial pits
 For the holy ones to delight"
-And the Lord, who bending His Mountain-bow
+And the Lord, who bending His Mountain -bow
 Sent forth shafts of fire at Asura's city
 Destroying the evil ones, never to rise again.`,
   },
@@ -782,20 +779,13 @@ As unto life within the fleshly body.`,
 mēliṅṅaṉ vaittatōr meynneṟi muṅkaṇ
 ṭāliṅ kaṉañcey tulakam valamvaruṅ
 kōliṅ kamaiñcaruḷ kūṭalu māmē`,
-    english: `378: Know
-God's Truth and Be Blessed Now and Hereafter
+    english: `378: Know God's Truth and Be Blessed Now and Hereafter
 Know afore
-The Truth
-of Divine flame that enveloped all
-And hold
-fast unto that;
-Then may
-you receive
-The
-scepter to hold domain over earth
-And
-the Grace
-to follow in heaven above.`,
+The Truth of Divine flame that enveloped all
+And hold fast unto that;
+Then may you receive
+The sceptre to hold domain over earth
+And the Grace to follow in heaven above.`,
   },
   {
     id: 380, tantraId: 2, verseNumber: 379,
@@ -953,16 +943,12 @@ The Creator became.`,
 taṇṇiya māṉai vaḷarttiṭuñ cattiyuñ
 kaṇṇiyal pākak kalavi muḻutumāy
 maṇṇiyal pāka malarnteḻu pūvilē`,
-    english: `387: In
-the Union of Sadasiva with Maan Sakti Blossomed the Universe
-The Holy
-Nandi that is Sadasiva
-And the
-Sakti that devoluted Maan
-Together
-in looks united in full;
-And from
-that union arose the universe
+    english: `387: In the Union of Sadasiva with Maan Sakti Blossomed the
+Universe
+The Holy Nandi that is Sadasiva
+And the Sakti that devoluted Maan
+Together in looks united in full;
+And from that union arose the universe
 As unto a blossom gently opening.`,
   },
   {
@@ -1145,31 +1131,15 @@ As treasure-heap of cognition all.`,
 kāriya kāraṇa īcar kaṭaimuṟai
 pēṇiya aintoḻi lālvintu viṟpiṟantu
 āṇavam nīṅkā tavareṉa lākumē`,
-    english: `398: The
-Five Gods Were Born of Anava Sakti
-Out of the
-union of Anava Sakti with Bindu
-The Five
-Gods were born.
-Brahma, Vishnu, Rudra, Sadasiva and
-Maheswara.
-For the
-five acts to perform--
-Creation,
-preservation, destruction, obscuration and redemption--
-As One
-from the other in causative succession;
-Born as
-they were of the Anava Sakti,
-Of
-Anava
-they were not rid.
-Dr. B.
-Natarajan: Out of Apara Bindu uniting with Anava (iccha) sakti in the
-impure maya sphere were born the five godsSadasiva, Mahesvara, Rudra,
-Vishnu, and Brahma to perform their respective functions; and being
-born of anava sakti, they were not free from the taint of
-individualizing the malam (anava malam)`,
+    english: `398: The Five Gods Were Born of Anava Sakti
+Out of the union of Anava Sakti with Bindu
+The Five Gods were born.
+Brahma, Vishnu, Rudra, Sadasiva and Maheswara.
+For the five acts to perform-
+Creation, preservation, destruction, obscuration and redemption-
+As One from the other in causative succession;
+Born as they were of the Anava Sakti,
+Of Anava they were not rid.`,
   },
   {
     id: 400, tantraId: 2, verseNumber: 399,
@@ -1235,22 +1205,20 @@ She it is the five merciful deeds performs.`,
 kāraṇi kāriya mākak kalantavaḷ
 vāraṇi āraṇi vāṉavar mōkiṉi
 pūraṇi pōtāti pōtamu māmē`,
-    english: `402: Names
-of Glories of Maya Sakti
-She is
-Manonmani, the ample-bosomed;
-Mangali,
-the ever auspicious;
-Varani of
-elephant form
-Arani of
-haunting forests
-Mohini of
-tempting beauty
-Poorani--the
-Perfect Being,
+    english: `402: Names of Glories of Maya Sakti
+She is Manonmani, the ample-bosomed;
+Mangali, the ever auspicious;
+Varani of elephant form
+Arani of haunting forests
+Mohini of tempting beauty
+Poorani--the Perfect Being,
 Cause-Effect conjoint in one
---She, Consciousness beyond Consciousness.`,
+--She, Consciousness beyond Consciousness.
+403*36One Sadasiva Became Five
+Sadsiva that stood as One
+Animated Maheswara;
+And then Hara, Hari and Brahma,
+Thus did the One become the familial Five.`,
   },
   {
     id: 404, tantraId: 2, verseNumber: 403,
@@ -2124,17 +2092,12 @@ poṟainiṉṟa iṉṉuyir pōntuṟa nāṭip
 paṟikiṉṟa patteṉum pārañcey tāṉē`,
     english: `452: The Lord Grants Breath and the Child is Born
 Above the Muladhara
-The
-Kundalini fire abides;
+The Kundalini fire abides;
 There in the water-filled womb
-The
-infant lay, its tiny feet entangled;
-That
-the sweet life in patience waiting
-Its
-onward course may seek,
-He
-ordained, releasing the Pranas ten.`,
+The infant lay, its tiny feet entangled;
+That the sweet life in patience waiting
+Its onward course may seek,
+He ordained, releasing the Pranas ten.`,
     transliteration: `iṉpuṟu kālat tiruvarmuṉ pūṟiya
 tuṉpuṟu pācat tuyarmaṉai vāṉuḷaṉ
 paṇpuṟu kālamum pārmicai vāḻkkaiyum
@@ -2145,7 +2108,26 @@ Then was ordained, this body,
 The sorrow-house of vexing pasa;
 When that is to be,`,
   },
+  
   {
+    id: 454, tantraId: 2, verseNumber: 453,
+    tamil: `இன்புறு காலத் திருவர்முன் பூறிய
+துன்புறு பாசத் துயர்மனை வானுளன்
+பண்புறு காலமும் பார்மிசை வாழ்க்கையும்
+அன்புறு காலத் தமைத்தொழிந் தானே`,
+    transliteration: `iṉpuṟu kālat tiruvarmuṉ pūṟiya
+tuṉpuṟu pācat tuyarmaṉai vāṉuḷaṉ
+paṇpuṟu kālamum pārmicai vāḻkkaiyum
+aṉpuṟu kālat tamaittoḻin tāṉē`,
+    english: `453: The Course of Life Was Ordained at Time of Union
+When parents two in pleasure united,
+Then was ordained, this body,
+The sorrow-house of vexing pasa;
+When that is to be,
+At that hour of union, He ordained;
+He, the Heavenly Lord.`,
+  },
+{
     id: 455, tantraId: 2, verseNumber: 454,
     tamil: `கருவை ஒழிந்தவர் கண்டநால் மூவேழ்
 புருடன் உடலில் பொருந்துமற் றோரார்
@@ -2197,12 +2179,9 @@ tāvi ulakil tarippitta vāṟupōl
 mēviya cīvaṉil mellanīḷ vāyuvuṅ
 kūvi aviḻuṅ kuṟikkoṇṭa pōtē`,
     english: `456: Prana Enters Jiva at Birth
-As
-unto when flower blossoms, the breeze spreads fragrance,
-In
-spaces all around
-So
-does Prana over Jiva extend,
+As unto when flower blossoms, the breeze spreads fragrance,
+In spaces all around
+So does Prana over Jiva extend,
 Gently unfolding at the time destined.`,
     transliteration: `pōkiṉṟa eṭṭum pukukiṉṟa patteṭṭum
 mūḻkiṉṟa muttaṉum oṉpatu vāytalum
@@ -2216,7 +2195,29 @@ With Purusha in them immersed
 The orifices nine,
 The Kundalini that serpent-like coils,`,
   },
+  
   {
+    id: 458, tantraId: 2, verseNumber: 457,
+    tamil: `போகின்ற எட்டும் புகுகின்ற பத்தெட்டும்
+மூழ்கின்ற முத்தனும் ஒன்பது வாய்தலும்
+நாகமும் எட்டுடன் நாலு புரவியும்
+பாகன் விடானெனிற் பன்றியு மாமே`,
+    transliteration: `pōkiṉṟa eṭṭum pukukiṉṟa patteṭṭum
+mūḻkiṉṟa muttaṉum oṉpatu vāytalum
+nākamum eṭṭuṭaṉ nālu puraviyum
+pākaṉ viṭāṉeṉiṟ paṉṟiyu māmē`,
+    english: `457: The Lord Drives in the Tattvas into the Infant Body
+The eight constituents of body subtle
+That ultimately leave,
+The eight and ten Tattvas that sneak in,
+With Purusha in them immersed
+The orifices nine,
+The Kundalini that serpent-like coils,
+The life breath twelve-finger breadth long,
+--If these, the Divine Charioteer drives not in,
+Verily may the infant be less than human (say, pig).`,
+  },
+{
     id: 459, tantraId: 2, verseNumber: 458,
     tamil: `ஏற எதிர்க்கில் இறையவன் றானாகும்
 மாற எதிர்க்கில் அரியவன் றானாகும்
@@ -2428,14 +2429,10 @@ With channels nine and Tattvas eighteen.`,
   {
     id: 470, tantraId: 2, verseNumber: 469,
     tamil: `அறியீ ருடம்பினி லாகிய வாறும்
-பிறியீ ரதனிற் பெருகுங் கு470: Lord Placed Divine Jnana in Cranium
-He fashioned this body,
-Into that body He breathed life;
-And set gates nine;
-And then into the lotus-like cranium
-He lit the Fire (of Divine Jnana),
-The Lord made these,
-And Him I salute in endearment intense.yī ruṭampiṉi lākiya vāṟum
+பிறியீ ரதனிற் பெருகுங் குணங்கள்
+செறியீ ரவற்றினுட் சித்திகள் இட்ட
+தறியவீ ரைந்தினு ளானது பிண்டமே`,
+    transliteration: `aṟiyī ruṭampiṉi lākiya vāṟum
 piṟiyī rataṉiṟ perukuṅ kuṇaṅkaḷ
 ceṟiyī ravaṟṟiṉuṭ cittikaḷ iṭṭa
 taṟiyavī raintiṉu ḷāṉatu piṇṭamē`,
@@ -2646,8 +2643,7 @@ He, the vital flow, accordingly regulates.`,
 pāykiṉṟa vāyu viḷaikkiṉ muṭamākum
 pāykiṉṟa vāyu naṭuppaṭiṟ kūṉākum
 pāykiṉṟa vāyumā tarkkillai pārkkilē`,
-    english: `480: Birth
-Imperfections Explained
+    english: `480: Birth Imperfections Explained
 When after intercourse, the man is short of breath,
 The infant born a dwarf will be;
 When breath spires feeble,
@@ -2869,11 +2865,9 @@ To be born thus is His Grace indeed!`,
 otta irumāyā kūṭṭat tiṭaippūṭṭic
 cuttama tākun turiyam purivittuc
 cittam pukuntu civamaya mākkumē`,
-    english: `492: Play of Sakti-Siva
-Infuses Divine Spirit
+    english: `492: Play of Sakti-Siva Infuses Divine Spirit
 Out of Sakti-Siva Play
-Life blossomed
-;
+Life blossomed;
 And Jiva who was in pure Kevala state
 Of Turiya quiescence
 Was freed and consigned to the folds of Maya,
@@ -3191,10 +3185,8 @@ The Seventh Hell of ineffable pain.`,
 meḷḷak kuṭaintuniṉ ṟāṭār viṉaikeṭap
 paḷḷamum mēṭum parantu tirivarē
 kaḷḷa maṉamuṭaik kalviyi lōrē.`,
-    english: `509: The Holy
-Waters are Within Us
-Within this body are many Holy Waters
-;
+    english: `509: The Holy Waters are Within Us
+Within this body are many Holy Waters;
 They take not gentle dips in them
 And drive Karma away;
 Vainly do they roam hill and dale,
@@ -3639,8 +3631,7 @@ tēcamum nāṭum ciṟappum aḻintiṭum
 vācavaṉ pīṭamum māmaṉṉar pīṭamum
 nācamatu ākumē namnanti āṇaiyē.`,
     english: `534: Harm to World by Maltreatment of Gurus
-If
-Gurus who are devout of God
+If Gurus who are devout of God
 Are caused pain in heart
 The country, people and their greatness
 Will all as one destroyed be;

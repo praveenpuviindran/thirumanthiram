@@ -888,8 +888,7 @@ Then is Linga Form shaped;
 Center your mind on it
 And course your breath above,
 You shalt vision indeed
-The Dance of Divine
-Light.`,
+The Dance of Divine Light.`,
   },
   {
     id: 934, tantraId: 4, verseNumber: 933,
@@ -1357,9 +1356,7 @@ That inside heart's lotus rises;
 It roots lie deep in the navel;
 They who know it not, come by it not;
 They but prayed at sunset
-And
-with loud noise
-departed.`,
+And with loud noise departed.`,
     transliteration: `cēvikku mantiram cellum ticaipeṟa
 āvikkuḷ mantiram ātāra māvaṉa
 pūvikkuḷ mantiram pōkkaṟa nōkkiṭil
@@ -1370,7 +1367,28 @@ In directions all spreads;
 It is the Mantra of life, sustaining breath;
 It is the Mantra in the lotus of heart;`,
   },
+  
   {
+    id: 960, tantraId: 4, verseNumber: 959,
+    tamil: `சேவிக்கு மந்திரம் செல்லும் திசைபெற
+ஆவிக்குள் மந்திரம் ஆதார மாவன
+பூவிக்குள் மந்திரம் போக்கற நோக்கிடில்
+ஆவிக்குள் மந்திரம் அங்குச மாமே`,
+    transliteration: `cēvikku mantiram cellum ticaipeṟa
+āvikkuḷ mantiram ātāra māvaṉa
+pūvikkuḷ mantiram pōkkaṟa nōkkiṭil
+āvikkuḷ mantiram aṅkuca māmē.`,
+    english: `959: "Aum" Mantra Sustains Life
+"Hamsa" Mantra chanted within
+In directions all spreads;
+It is the Mantra of life, sustaining breath;
+It is the Mantra in the lotus of heart;
+When constant chanted,
+That Mantra in life's center
+Is verily unto a mahout's goad,
+That elephantine passions control.`,
+  },
+{
     id: 961, tantraId: 4, verseNumber: 960,
     tamil: `அருவினில் அம்பரம் அங்கெழு நாதம்
 பெருகு துடியிடை பேணிய விந்து
@@ -1511,8 +1529,7 @@ They who continuous chant Lord's Holy name,
 In desire high,
 For them Karma's miseries fleet away;
 The Lord says: "Come unto me"
---He of Matted
-Locks.`,
+--He of Matted Locks.`,
   },
   {
     id: 969, tantraId: 4, verseNumber: 968,
@@ -2029,8 +2046,7 @@ ummutal āyavaṉ uṟṟuniṉ ṟāṉē`,
 Chanting Mantra "Na" to begin and "Ya" to end--Na Ma Si Va Ya,
 And prefixing Mantra that has "A" and "U"--"OM"
 Those who meditate thus
-Will see the Primal
-Lord inside their head.`,
+Will see the Primal Lord inside their head.`,
   },
   {
     id: 998, tantraId: 4, verseNumber: 997,
@@ -2099,8 +2115,7 @@ In a triangle Chakra in the cremation ground
 Bury it at noon in southeast corner,
 Where God Agni stands,
 That the Mantric device for Marana*,
-(Death) spell for
-enemies to destroy.`,
+(Death) spell for enemies to destroy.`,
   },
   {
     id: 1002, tantraId: 4, verseNumber: 1001,
@@ -2346,17 +2361,15 @@ That to reach is Liberation True.`,
 oḷivaru nāḷil ōrēṭṭil ukaḷum
 oḷivarum appatattu ōr iraṇṭu ākil
 veḷitaru nātaṉ veḷiyāy iruntē`,
-    english: `1014: Visions in the Seventh, Eighth, Eleventh and Twelth Centers
+    english: `1014: Visions in the Seventh, Eighth, Eleventh and Twelth
+Centers
 Yoga its consummation reaches
 In Nectar's flow in Center Seventh;
 In the Eighth is revealed the Jnana Light;
 Then beyond in the Eleventh
 In Paraparam the Supreme;
 Then beyond, beyond is Void,
-The Dvadasanda
-Space Infinite.
-4.
-நவகுண்டம்
+The Dvadasanda Space Infinite.
 4 NAVAGUNADAM (NINE SACRIFICIAL PITS)`,
   },
   {
@@ -2404,7 +2417,26 @@ Pervaded world,
 And engulfed entire cosmic space
 That I saw in me, and sought within.`,
   },
+  
   {
+    id: 1018, tantraId: 4, verseNumber: 1017,
+    tamil: `மேலெறிந்து உள்ளே வெளிசெய்த அப்பொருள்
+கால்அறிந்து உள்ளே கருத்துற்ற செஞ்சுடர்
+பார்அறிந்து அண்டம் சிறகற நின்றது
+நான்அறிந்து உள்ளே நாடிக்கொண் டேனே`,
+    transliteration: `mēleṟintu uḷḷē veḷiceyta apporuḷ
+kālaṟintu uḷḷē karuttuṟṟa ceñcuṭar
+pāraṟintu aṇṭam ciṟakaṟa niṉṟatu
+nāṉaṟintu uḷḷē nāṭikkoṇ ṭēṉē.`,
+    english: `1017: Pervasiveness of Kundalini Fire
+Breath through Sushumna coursing,
+Kundalini fire blazed aloft;
+Light on top emanated,
+Pervaded world,
+And engulfed entire cosmic space
+That I saw in me, and sought within.`,
+  },
+{
     id: 1019, tantraId: 4, verseNumber: 1018,
     tamil: `கொண்டஇக் குண்டத்தின் உள்ளெழு சோதியாய்
 அண்டங்கள் ஈரேழும் ஆக்கி அழிக்கலாம்
@@ -2618,14 +2650,12 @@ You can ascend into very Heavens high.`,
     tamil: `எடுக்கின்ற பாதங்கள் மூன்றது எழுத்தைக்
 கடுத்த முகம்இரண்டு ஆறுகண் ஆகப்
 படித்துஎண்ணும் நாவெழு கொம்பொரு நாலும்
-அடுத்தெழு கண்ணான தந்தமி லாற1032: Sacrificial Fire Outside Kindles Kundalini Fire Inside
-Decagonal, octagonal, hexagonal and square
-Thus are sacrificial pits shaped,
-In them blazes fire
-As unto a crimson lotus;
-Center your thoughts,
-The Fire within (Kundalini) pervades the body entire
-As unto Siva-Sakti its tongues lapped. Form of Sacrificial God
+அடுத்தெழு கண்ணான தந்தமி லாற்கே`,
+    transliteration: `eṭukkiṉṟa pātaṅkaḷ mūṉṟatu eḻuttaik
+kaṭutta mukamiraṇṭu āṟukaṇ ākap
+paṭittueṇṇum nāveḻu komporu nālum
+aṭutteḻu kaṇṇāṉa tantami lāṟkē`,
+    english: `1030: Form of Sacrificial God
 Three His feet, Seven His hands,
 Two His faces, six His eyes,
 Seven His tongues, four His horns
@@ -2770,7 +2800,27 @@ Thus is Lord,
 From Sacrificial Fire Pit arises;
 Seek that Holy One within your head.`,
   },
+  
   {
+    id: 1039, tantraId: 4, verseNumber: 1038,
+    tamil: `கலந்திரு பாதம் இருகர மாகும்
+மலர்ந்திரு குண்ட மகாரத்தார் Yமூக்கு
+மலர்ந்தெழு செம்முகம் மற்றைக்கண் நெற்றி
+உணர்ந்திரு குஞ்சி அங்கு உத்தம னார்க்கே`,
+    transliteration: `kalantiru pātam irukara mākum
+malarntiru kuṇṭa makārattār Ymūkku
+malarnteḻu cemmukam maṟṟaikkaṇ neṟṟi
+uṇarntiru kuñci aṅku uttama ṉārkkē.`,
+    english: `1038: Siva's Form in Sacrificial Fire
+Feet two, hands two,
+The nose shaped as letter "Ma"
+The face as red lotus bloom,
+The third eye in Forehead
+Thus is Lord,
+From Sacrificial Fire Pit arises;
+Seek that Holy One within your head.`,
+  },
+{
     id: 1040, tantraId: 4, verseNumber: 1039,
     tamil: `உத்தமன் சோதி உளனொரு பாலனாய்
 மத்திம னாகி மலர்ந்தங்கு இருந்திடும்
@@ -2927,7 +2977,24 @@ Of three forms, the One She is;
 Of color gold, red, and white She is,
 Knowledge, enjoyment and Mukti she grants.`,
   },
+  
   {
+    id: 1048, tantraId: 4, verseNumber: 1047,
+    tamil: `தானா அமைந்தஅம் முப்புரம் தன்னிடைத்
+தானான மூவுரு ஓருருத் தன்மையுள்
+தானான பொன்செம்மை வெண்ணிறத் தாள்கல்வி
+தானான போகமும் முத்தியும் நல்குமே`,
+    transliteration: `tāṉā amaintaam muppuram taṉṉiṭait
+tāṉāṉa mūvuru ōrurut taṉmaiyuḷ
+tāṉāṉa poṉcemmai veṇṇiṟat tāḷkalvi
+tāṉāṉa pōkamum muttiyum nalkumē.`,
+    english: `1047: Blessings of Tiripurai
+In the Three Cities--(Triangle)--of themselves arose,
+Of three forms, the One She is;
+Of color gold, red, and white She is,
+Knowledge, enjoyment and Mukti she grants.`,
+  },
+{
     id: 1049, tantraId: 4, verseNumber: 1048,
     tamil: `நல்குந் திரிபுரை நாதநா தாந்தங்கள்
 பல்கும் பரவிந்து பாரண்ட மானவை
@@ -3368,9 +3435,7 @@ How this Lady that rules worlds all
 Of Divine Jnana filled
 Transformed your inconstant thoughts,
 And made you realize God-truth;
-Her Holy Feet,
-I
-adore ever.`,
+Her Holy Feet, I adore ever.`,
   },
   {
     id: 1073, tantraId: 4, verseNumber: 1072,
@@ -3747,9 +3812,7 @@ She that dispells soul's darkness;
 With thread-like column of smoke
 From sacrificial fire of Kundalini She arose,
 Reached the heights of astral sphere
-And
-with ambrosia
-returned.`,
+And with ambrosia returned.`,
   },
   {
     id: 1093, tantraId: 4, verseNumber: 1092,
@@ -4261,9 +4324,7 @@ And Virgin She ceased to be not
 When She made love,
 And bore Children Five;
 And among them is Siva too
-Who
-Books of Truth
-composed!
+Who Books of Truth composed!
 Oh, this Maya!
 Dark, dark indeed it is!`,
     transliteration: `iruḷatu catti veḷiyatuem aṇṇal
@@ -4274,7 +4335,27 @@ aruḷatu ceyyumem ātip pirāṉē`,
 Dark is Sakti, Space is Lord,
 Truth is Union in God,`,
   },
+  
   {
+    id: 1120, tantraId: 4, verseNumber: 1119,
+    tamil: `இருளது சத்தி வெளியதுஎம் அண்ணல்
+பொருளது புண்ணியர் போகத்துள் இன்பம்
+தெருளது சிந்தையைத் தெய்வம்என்று எண்ணில்
+அருளது செய்யும்எம் ஆதிப் பிரானே`,
+    transliteration: `iruḷatu catti veḷiyatuem aṇṇal
+poruḷatu puṇṇiyar pōkattuḷ iṉpam
+teruḷatu cintaiyait teyvameṉṟu eṇṇil
+aruḷatu ceyyumem ātip pirāṉē.`,
+    english: `1119: Truth is Bliss
+Dark is Sakti, Space is Lord,
+Truth is Union in God,
+Bliss it is for the Holy Ones,
+Thus in doubt-free mind,
+Adore Lord;
+The Primal One,
+Will sure bless you.`,
+  },
+{
     id: 1121, tantraId: 4, verseNumber: 1120,
     tamil: `ஆதி அனாதியும் ஆய பராசக்தி
 பாதிபராபரை மேலுறை பைந்தொடி
@@ -4412,8 +4493,7 @@ On Her devotees;
 She, the Virgin Eternal;
 Meditate on Her in Muladhara, where She is
 Success indeed shall be
-Your yogic feat in
-breath control.`,
+Your yogic feat in breath control.`,
   },
   {
     id: 1128, tantraId: 4, verseNumber: 1127,
@@ -5038,9 +5118,7 @@ She is graciousness high manifest
 She is Pure Light
 She is Manomani Sakti;
 The Blemishless Light espousing God
-Entered in
-me
-and delighted me.`,
+Entered in me and delighted me.`,
   },
   {
     id: 1162, tantraId: 4, verseNumber: 1161,
@@ -5669,9 +5747,7 @@ Ten Her hands;
 She is the bejewelled Lady
 To Paraparan belongs,
 Vithaki She is,
-In
-my
-heart She stood.`,
+In my heart She stood.`,
   },
   {
     id: 1196, tantraId: 4, verseNumber: 1195,
@@ -5835,8 +5911,7 @@ Where She resides,
 And daily approach Her,
 She of fragrant tresses,
 You shall in twinkle master the Vedas Four
-That within Her
-concealed stand.`,
+That within Her concealed stand.`,
   },
   {
     id: 1205, tantraId: 4, verseNumber: 1204,
@@ -6113,8 +6188,7 @@ Are there;
 Among them are the active group of Five (Senses);
 In the body so constituted
 She stands as Beginning and End,
-Praised by Brahma
-and the twice-nine Ganas.`,
+Praised by Brahma and the twice-nine Ganas.`,
   },
   {
     id: 1220, tantraId: 4, verseNumber: 1219,
@@ -6700,9 +6774,7 @@ I became one with Him;
 As I embraced the Lord of worlds all,
 I remained in divine fulfillment,
 As I entwined at the Primal One's Feet
-I
-received His
-Sakti's Grace.`,
+I received His Sakti's Grace.`,
   },
   {
     id: 1252, tantraId: 4, verseNumber: 1251,
@@ -6772,16 +6844,10 @@ ammaiyoṭu attaṉai yāṉpurin tēṉē`,
     english: `1254: Adore and Be With Siva-Sakti
 My Mother and Father in love united;
 Had they not,
-Will
-my
-Mother and Father know me ever?
+Will my Mother and Father know me ever?
 With my Mother and Father I sit,
 And my Mother and Father,
-I
-constant adore.
-9.
-ஏரொளிச்
-சக்கரம்
+I constant adore.
 9 EROLI CHAKRAM (CHAKRA OF RADIANT LIGHT)`,
   },
   {
@@ -7113,11 +7179,9 @@ vāṉoḷi okka vaḷarntu kiṭantupiṉ
 nēroḷi oṉṟāy niṟaintaṅku niṉṟatē`,
     english: `1274: That Flame Pervaded the Five Elements
 That Smoky Light enveloped universe all,
-. It became light of earth, water, fire, wind and sky,
+It became light of earth, water, fire, wind and sky,
 Thus as it flamed and rose together,
-As One Divine
-Light
-it pervaded everywhere.`,
+As One Divine Light it pervaded everywhere.`,
     transliteration: `niṉṟatu aṇṭamum nīḷum puliyelām
 niṉṟaviv vaṇṭa nilaipeṟak kaṇṭiṭa
 niṉṟaviv vaṇṭamu mūla malamokkum
@@ -7396,14 +7460,13 @@ aṟintuavai oṉṟuviṭṭu oṉṟupat tāka
 aṟintu valamatu vāka naṭavē`,
     english: `1291: Days Appropriate for Bhairava Chakra Worship
 Ten days in the fortnight
-Do this Worship perform;
+Do thou this Worship perform;
 The first six days of the fortnight,
 And then the eighth, tenth, twelveth and fourteenth
 These the ten days appropriate
 (Leave out seventh, ninth eleventh and thirteenth)
 Then coursing breath through Right Nostril
-Do you
-worship.`,
+Do thou worship.`,
   },
   {
     id: 1293, tantraId: 4, verseNumber: 1292,
@@ -8277,8 +8340,7 @@ He alone can speak
 What he thinks is the right;
 He who meditates on Her,
 Who witnesses the Dance of Siva,
-Is verily the Master of all
-around.`,
+Is verily the Master of all around.`,
   },
   {
     id: 1343, tantraId: 4, verseNumber: 1342,
@@ -8383,8 +8445,7 @@ Hell none will be, as killing there is none,
 Nothing else the refuge for all life on earth,
 Nothing else is their crown of glory
 For those who meditate on Krim
-In Chakra
-Navakkari.`,
+In Chakra Navakkari.`,
   },
   {
     id: 1349, tantraId: 4, verseNumber: 1348,
@@ -8434,9 +8495,7 @@ Meditating on it is meditating on Panchakshara.`,
     english: `1350: Sadasiva Sakti (Haum) Immanent in All
 She (Haum) is the Sadasiva Sakti
 She is the light behind the Adho-mukha
-(Downward looking face of Lord-
-Maya;
-)
+(Downward looking face of Lord-Maya;)
 She is the One emanating, taste, sight, feel, sound and smell;
 She that is immanent in lives all.`,
   },
@@ -8831,8 +8890,7 @@ If with feeling intense you meditate on Her,
 She pervading all, showers Her Grace;
 You shall perceive enveloping sound (Nada) and light (Bindu);
 From within the Chakras She rises
-And
-blesses you.`,
+And blesses you.`,
   },
   {
     id: 1375, tantraId: 4, verseNumber: 1374,
