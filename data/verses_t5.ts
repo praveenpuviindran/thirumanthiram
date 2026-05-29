@@ -590,16 +590,7 @@ And safe reach the Shores of Beyond.`,
     transliteration: `kāṉuṟu kōṭi kaṭikamaḻ cantaṉam
 vāṉuṟu māmala riṭṭu vaṇaṅkiṉum
 ūṉiṉai nīkki uṇpavark kallatu
-1452: True Worship is Worship Within
-You may adore Him with sandal, fragrance exceeding,
-That grows on peaks atop in forests interior,
-You may worship Him with flowers rare,
-That bloom in Heaven's gardens
-Unless you shed your fleshly attachments
-And realize Him in the depths of your heart
-You shall never never reach His Holy Feet
-That is unto flowers that shed honey dew.terior,
-You may worship Him with flowers rare,`,
+tēṉamar pūṅkaḻal cēravoṇ ṇātē`,
   },
   {
     id: 1454, tantraId: 5, verseNumber: 1453,
@@ -2538,15 +2529,7 @@ In measure appropriate.`,
     transliteration: `oṉṟatu pērūr vaḻiyā ṟataṟku
 eṉṟatu pōla irumuc camayamum
 naṉṟitu tītitu eṉṟurai yāḷarkaḷ
-k1559: Come, Stand Apart and Seek Lord
-He is the incomparable Lord
-Of the magnificient path of Saivam;
-He is Nandi of Divine Lustre
-That breaths the eternal life of Grace;
-Beloved is He of the truly great;
-The Lord of all universe, the source of all Joy;
-Come, stand apart, seek, realize,
-And be redeemed. hilly side.`,
+kuṉṟu kuraitteḻu nāyaiyot tārkaḷē`,
   },
   {
     id: 1560, tantraId: 5, verseNumber: 1559,

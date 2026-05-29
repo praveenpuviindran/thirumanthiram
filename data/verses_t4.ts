@@ -555,14 +555,7 @@ He danced the Dance of Ruby.`,
     transliteration: `iruntaiv vaṭṭaṅkaḷ īrāṟi rēkai
 irunta irēkaimēl īrāṟu irutti
 irunta maṉaikaḷum īrāṟu pattoṉṟu
-914: How to Form the Chakra
-In the Chakra formed by lines twelve (Six Vertical and Six Horizontal)
-Are the squares;
-Fix the Mantra,
-In the chambers five and twenty formed,
-In One the Lord takes His seat.Six Horizontal)
-Are the squares;
-Fix the Mantra,`,
+irunta maṉaiyoṉṟil eytuvaṉ tāṉē`,
   },
   {
     id: 916, tantraId: 4, verseNumber: 915,
@@ -1854,17 +1847,10 @@ Chant AUM and be doubt-free.`,
 எட்டும் இரண்டும் அறியாத ஏழையர்
 எட்டும் இரண்டும் இருமூன்று நான்கெனப்
 பட்டது சித்தாந்த சன்மார்க்க பாதமே. 73.`,
-    transliteration: `eṭṭum iraṇṭ987: Letter Six*
-Draw eight lines vertical
-And eight lines horizontal,
-In central chamber thus formed,
-Place Lord's Letter-Six-Om Na Ma Si Va Ya,
-In forty and eight squares that remains,
-The Sacred Letters distribute,
-And there pray.hey know not well Letter Eight ("A") and Two ("U")
-They the ignorant ones, know not what "Eight" ("A") and Two ("U") are;
-Eight and Two (AUM) are but Nine;
-That verily is truth of Siddhanta Jnana.`,
+    transliteration: `eṭṭum iraṇṭum iṉituaṟi kiṉṟilar
+eṭṭum iraṇṭum aṟiyāta ēḻaiyar
+eṭṭum iraṇṭum irumūṉṟu nāṉkeṉap
+paṭṭatu cittānta caṉmārkka pātamē. 73.`,
   },
   {
     id: 988, tantraId: 4, verseNumber: 987,
@@ -2092,19 +2078,10 @@ You shall attain powers of Mohana (Fascination).`,
 பாங்கு படவே பலாசப் பலகையில்
 காங்கரு மேட்டில் கடுப்பூசி விந்துவிட்டு
 ஓங்காமல் வைத்திடும் உச்சாட னத்துக்கே`,
-    transliteration: `āṅku vaṭamēṟkil1000: Marana Chakra
-Smear a green palm leaf with ingredients five stated
-In a triangle Chakra in the cremation ground
-Bury it at noon in southeast corner,
-Where God Agni stands,
-That the Mantric device for Marana*,
-(Death) spell for enemies to destroy.er
-Where Aiyanar his temple has,
-And on a dark leaden-plate smear poison,
-Inscribe mark of Bindu. (dot)
-And surround it by "Om"
-Then concentrate on the Mantra,
-Uchchadana (the Science of Exorcism) will be yours.`,
+    transliteration: `āṅku vaṭamēṟkil aiyaṉār kōṭṭattil
+pāṅku paṭavē palācap palakaiyil
+kāṅkaru mēṭṭil kaṭuppūci vintuviṭṭu
+ōṅkāmal vaittiṭum uccāṭa ṉattukkē`,
   },
   {
     id: 1001, tantraId: 4, verseNumber: 1000,
@@ -2560,15 +2537,8 @@ It reached the fire in the Fore-head eye of Lord.`,
 எக்கணன் தானுக்கும் எந்தை பிரானே`,
     transliteration: `mukkaṇaṉ tāṉē muḻuccuṭar āyavaṉ
 akkaṇaṉ tāṉē akilamum uṇṭavaṉ
-tikkaṇaṉ 1027: When Lord is Visioned in Ajna (Eye-Brow Center)
-Within the sacrificial pit, that is Muladhara,
-Arises the Vedic Fire that is Kundalini,
-When controlled breath through Sushumna in unison flows,
-The two petals in Ajna Center open;
-Then with trembling hands
-Folded into one they rise;
-They who thus worship and vision,
-Are verily Celestials of Light Divine.l lives everywhere.`,
+tikkaṇaṉ ākit tikaieṭṭum kaṇṭavaṉ
+ekkaṇaṉ tāṉukkum entai pirāṉē`,
   },
   {
     id: 1027, tantraId: 4, verseNumber: 1026,
@@ -4253,25 +4223,8 @@ All speech from ignorance arises.`,
 முகத்தருள் நோக்கமும் முன்னுள்ள தாமே`,
     transliteration: `pitaṟṟik kaḻintaṉar pētai maṉitar
 muyaṟṟiyiṉ muṟṟi aruḷum mutalvi
-kayaṟṟikaḻ mukkaṇṇuṅ kampalaic cevvāy1119: Truth is Bliss
-Dark is Sakti, Space is Lord,
-Truth is Union in God,
-Bliss it is for the Holy Ones,
-Thus in doubt-free mind,
-Adore Lord;
-The Primal One,
-Will sure bless you. to Tried Devotees
-Prattling in ignorance,
-They spent their lives away,
-Alas! these poor men!
-She, Primal One, grants Mukti
-To all those
-Who in constant devotion seek;
-She has eyes three unto fish-shaped,
-She has lips red
-That warble words sweet,
-Her face is compassion full,
-That in Grace reveals before me.`,
+kayaṟṟikaḻ mukkaṇṇuṅ kampalaic cevvāy
+mukattaruḷ nōkkamum muṉṉuḷḷa tāmē`,
   },
   {
     id: 1118, tantraId: 4, verseNumber: 1117,
@@ -4781,17 +4734,9 @@ And into the Lotus in Sahasrara spread.`,
 மடுக்கும் தாமரை மத்தகச் தேசெல
 முடுக்கும் தாமரை முச்சது ரத்தே`,
     transliteration: `aṭukkut tāmarai āti iruppiṭam
-eṭukkum tāmarai1148: Sakti's Pervasiveness
-She utters the Vedas Four,
-The great Goddess, the Sakti;
-She dons robes fine,
-Her Feet compass world entire;
-She stands elated
-Pervading worlds and universes;
-She stands adorned
-With three lights, Sun, Moon and Fire.at lifts soul is in the heart;
-When the Lotus in Muladhara is roused,
-The Lotus in Sahasrara blossoms.`,
+eṭukkum tāmarai illakattu uḷḷatu
+maṭukkum tāmarai mattakac tēcela
+muṭukkum tāmarai muccatu rattē`,
   },
   {
     id: 1146, tantraId: 4, verseNumber: 1145,
@@ -5871,22 +5816,8 @@ And into Samadhi enter.`,
 உவாதி அவளுக்கு உறைவில தாமே`,
     transliteration: `camāticeyvārkaṭkut tāṉ muta lākic
 civātiyi lārum cilainuta lāḷai
-navātiyi lāka na1207: Meet Her Through Sushumna
-In Her be-bangled hands beautiful,
-She holdsh elephant-goad and noose,
-She carries ascetic pitcher and conch
-She seeks letters twain,
-That is the heart of Rudra mantra
-She dances in rapture, in Holy Hall of Heart
-Meet Her through Sushumna,
-Your breath that way coursing.She stands as the goal of
-Those who in Samadhi enter,
-She of the arched brows
-Who resides in Si, Va, and rest (of letters Five);
-Chant the Mantra in love endearing
-As the First of Saktis Nine
-She in your Full Moon Sphere,
-Ever abides.`,
+navātiyi lāka nayantatu ōtil
+uvāti avaḷukku uṟaivila tāmē`,
   },
   {
     id: 1204, tantraId: 4, verseNumber: 1203,
@@ -8880,13 +8811,10 @@ They seated were in the Chakra opposite.`,
 கண்டஇம் மூர்த்தம் கனல்திரு மேனியாய்ப்
 பண்டமர் சோதிப் படரிதழ் ஆனவள்
 உண்டு அங்கு ஒருத்தி உணரவல் லாருக்கே`,
-    transliteration: `koṇ1379: Effect of One Year Meditation on Srim in the Chakra
-If on Srim Sakti the treasure of Chakra
-You intensely meditate a year,
-The burden of your worldly cares drops,
-Your thoughts soar high,
-Your heart, Sun's brilliance attains,
---This the message of Chakra True. Chakras`,
+    transliteration: `koṇṭa kaṉakam kuḻaimuṭi yāṭaiyāyk
+kaṇṭaim mūrttam kaṉaltiru mēṉiyāyp
+paṇṭamar cōtip paṭaritaḻ āṉavaḷ
+uṇṭu aṅku orutti uṇaraval lārukkē`,
   },
   {
     id: 1374, tantraId: 4, verseNumber: 1373,

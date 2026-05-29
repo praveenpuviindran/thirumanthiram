@@ -319,15 +319,8 @@ True we say this, let the wise listen.`,
 பிராண னடைபேறு பெற்றுண்டீர் நீரே`,
     transliteration: `pirāṇaṉ maṉattoṭum pērā taṭaṅkip
 pirāṇa ṉirukkiṟ piṟappiṟap pillai
-pirāṇaṉ maṭaimāṟip pēc567: Breath Control Yields Life Nectar
-Let Prana merge in Mind
-And together the two be stilled
-Then no more shall birth and death be;
-Therefore, learn to direct breath
-In streams alternating left and right
-And in silentness chant "Aum"
-Then shall you sevile of the nectar of life.er the two be stilled
-Then no more shall birth and death be;`,
+pirāṇaṉ maṭaimāṟip pēccaṟi vittup
+pirāṇa ṉaṭaipēṟu peṟṟuṇṭīr nīrē`,
   },
   {
     id: 569, tantraId: 3, verseNumber: 568,
@@ -1328,19 +1321,8 @@ Are verily fixed in Yoga of absorption.`,
 கொண்டு குதிரை குசைசெறுத் தாரே`,
     transliteration: `viṇṭalar kūpamum viñcat taṭaviyuṅ-
 kaṇṭuṇar vākak karuti yirupparkaḷ
-ceṇṭu vauiyiṟ ceḻu622: In Samadhi They Vision the Void
-On top of Spinal Column in the Center
-Is built a habitation unique;
-Three the compartments it has
-Four the doors;
-Within these they sit (in Samadhi);
-When through the door on top
-They vision the Void
-No more the word Death, aye, not even in dream.in Samadhi of Pure Consciousness
-Vision the Mystic Woods and the Blooming Pond;
-They roam in the royal expanse of Void Vast
-And there at the foot of Fertile Mountain Meru,
-They bridled their Horse of Breath to a stop.`,
+ceṇṭu vauிyiṟ ceḻuṅkiri yattiṭai
+koṇṭu kutirai kucaiceṟut tārē`,
   },
   {
     id: 623, tantraId: 3, verseNumber: 622,

@@ -1328,12 +1328,8 @@ This I have known Him oft perform.`,
 ஓராய மே உல கோடுயிர் தானே`,
     transliteration: `ōrāya mēula kēḻum paṭaippatum
 ōrāya mēula kēḻum aḷippatum
-ōrāya mēula kēḻun tuṭaippatum407: The One Holy Family Performs All
-The One Family creates the worlds seven;
-The One Family preserves the worlds seven;
-The One Family destroys the worlds seven;
-The One Family pervades all life and body.;
-The One Family destroys the worlds seven;`,
+ōrāya mēula kēḻun tuṭaippatum
+ōrāya mē ula kōṭuyir tāṉē`,
   },
   {
     id: 409, tantraId: 2, verseNumber: 408,
@@ -1819,14 +1815,9 @@ That leads to the Celestial Lake.`,
 சுருளுஞ் சுடருறு தூவெண் சுடரும்
 இருளும் அறநின் றிருட்டறை யாமே`,
     transliteration: `teruḷum ulakiṟkun tēvarkkum iṉpam
-aruḷum vakaiceyyum ātip435: He Dispels the Darkness Within
-The Primal Lord blesses all
-Denizens of earth below and heaven above;
-From the black chamber of the Soul
-He dispells darkness;
-And within radiates the pure rays of His dazzling light.earth below and heaven above;
-From the black chamber of the Soul
-He dispells darkness;`,
+aruḷum vakaiceyyum ātip pirāṉuñ
+curuḷuñ cuṭaruṟu tūveṇ cuṭarum
+iruḷum aṟaniṉ ṟiruṭṭaṟai yāmē`,
   },
   {
     id: 437, tantraId: 2, verseNumber: 436,
@@ -3347,15 +3338,9 @@ Sure the crisis; certain the ruin;
 கூற்றுதைத் தான்திருக் கோயில்கள் எல்லாம்
 சாற்றிய பூசைகள் தப்பிடில் தானே.`,
     transliteration: `āṟṟaru nōymikku avaṉi maḻaiyiṉṟip
-pōṟṟaru maṉṉarum pōrvali 520: Manifestation of Downward-looking Face
-"Hail our Lord! Our God!
-Deathly is might of Padmasura
-Save us, help, oh!"
-Thus did Celestials to Primal Lord pray!;
-And the Primal Lord to the Six-faced God
-Of coral hue beckoned;
-And said, "Proceed and smite the enemy."If worship in Lord's temples falters,
---The Lord who spurned the very God of Death.`,
+pōṟṟaru maṉṉarum pōrvali kuṉṟuvar
+kūṟṟutait tāṉtiruk kōyilkaḷ ellām
+cāṟṟiya pūcaikaḷ tappiṭil tāṉē.`,
   },
   {
     id: 519, tantraId: 2, verseNumber: 518,
@@ -3587,19 +3572,7 @@ Forgetting all thought of God.`,
     transliteration: `peṟṟirun tāraiyum pēṇār kayavarkaḷ
 uṟṟirun tārai uḷaivaṉa colluvar
 kaṟṟirun tārvaḻi uṟṟirun tāravar
-peṟṟi533: Do not Abuse Guru
-Those who wounded feelings,
-Of Holy Guru who taught,
-The One-lettered mantra, "AUM"
-Will be a dog born,
-And after a hundred dog incarnations
-Will die a human out-caste.sed
-The lowly ones
-Care not for their parents,
-They abuse their kith and kin in words foul
-Only those who take to the way of Guru learned,
-Are in truth blessed,
-None else indeed.`,
+peṟṟirun tāraṉṟi yārpeṟum pēṟē.`,
   },
   {
     id: 532, tantraId: 2, verseNumber: 531,

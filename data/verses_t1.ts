@@ -1902,16 +1902,8 @@ And all evils are scorched that our Karmas make.`,
 அருஞ்செல்வத்து ஆகுதி வேட்கநின் றாரே`,
     transliteration: `peruñcelvam kēṭeṉṟu muṉṉē paṭaitta
 varuñcelvam tanta talaivaṉai nāṭum
-varuñcelvatatu iṉpam varair221: Lord is the Sacrificial Flame of the Heart
-The Pure Flame is He, the immortal Lord is He,
-The Radiant Flame who in my heart's core resides;
-The Lord whose eyes are the Three Fires,
-Who the Seven Worlds transcends,
-The Lord of Homa's Cool Flame, and my heart's King besides.able
-Firmly holding that vast riches are a grievous curse,
-They hungered for the Lord who to us richest treasure gave;
-Hoping and dreaming they waited for the immortal prize,
-All sacrifices performed, the undying wealth to achieve.`,
+varuñcelvatatu iṉpam varairun teṇṇi
+aruñcelvattu ākuti vēṭkaniṉ ṟārē`,
     elaborationTamil: `உலகத்தில் கிடைக்கும் செல்வங்கள் எவ்வளவு பெரியதாக இருந்தாலும் அவை உயிர்களுக்கு துன்பத்தையே கொடுக்கும் கேடு என்பதை உணர்ந்து கொண்டு அரிதான வேதத்தை தந்த இறைவனை நாடுங்கள். இறைவனை அடைந்து பேரின்பமாகிய இறைசெல்வம் கிடைக்க வேண்டும் என்று வேத முறைப்படி யாகத்தை வளர்த்து அதன் மூலம் அதைப் பெறுவதற்கு உயிர்கள் முயற்சி செய்கின்றனர்.`,
   },
   {
@@ -2815,14 +2807,9 @@ At His Feet, my garland, plaited with Love's incense, I lay.`,
 அன்போடு உருகி அகங்குழை வார்க்கன்றி
 என்போல் மணியினை எய்தஒண் ணாதே`,
     transliteration: `eṉpē viṟakā iṟaicci aṟuttiṭṭup
-poṉpōṟ kaṉaliṟ poriya273: Love Hara and See Him
-They, of intense love, Hara surely see,
-They, of the compassionate heart, see the Holy Feet to praise;
-The world-burdened see only life's revolving wheel,
-And, in Horror's mazes lost, enter Hell's trackless ways.y turn your bone to fuel, your flesh to meat,
-And let them roast and sizzle to the gold-red blaze;
-But unless your heart melts in the sweet ecstasy of Love,
-My Lord, my Treasure-trove, you ne'er can possess.`,
+poṉpōṟ kaṉaliṟ poriya vaṟuppiṉum
+aṉpōṭu uruki akaṅkuḻai vārkkaṉṟi
+eṉpōl maṇiyiṉai eytaoṇ ṇātē`,
     elaborationTamil: `உடல் எலும்புகளை விறகுகளாக்கி தங்கம் போன்ற பொன்னிறத்தில் தகதகவென எரியும் தீயில் உடல் தசைகளை அறுத்து போட்டு பொன்னிறத்தில் பொரிய வறுத்தாலும் அன்போடு மனம் உருகி உள்ளம் குழைந்தவர்களைத் தவிர வேறு எவராலும் செதுக்கப்படாத தூய்மையான மாணிக்கம் போன்ற இறைவனை சென்று அடைய முடியாது.
 கருத்து: உயிர்கள் தமது உடலைக் கொடூரமாக வருத்திக்கொண்டு தவம் புரிந்தாலும் தமது உடலையே தீயிலிட்டு யாகம் புரிந்தாலும் அவர்களிடத்தில் உண்மையான அன்பு உள்ளத்தில் இல்லை என்றால் அவர்கள் என்ன செய்தாலும் இறைவனை அடைய முடியாது.  தூய்மையான அன்பே இறைவனை அடையும் மிகச்சிறந்த வழியாகும்.`,
   },
@@ -3518,14 +3505,7 @@ Absent is He and His Light from the hearts of the unlearned.`,
     transliteration: `killēṉ viṉaittuya rākkum mayalāṉēṉ
 kallēṉ araneṟi aṟiyāt takaimaiyiṉ
 vallēṉ vaḻaṅkum poruḷē maṉattiṉuḷ
-kallēṉ kaḻiya315: Lord is the Fruit of Heavenly Love
-The Lord gave us the Heaven-born gift of the Fruit of Love ;
-His Light mingled with the eyes where it remained;
-But inside the earth men sought it in folly vain;
-And brooding and writing, they grew thin and pined.arma's griefs,
-Learning not Hara's ways, into dark abysmal depths I fell;
-I learnt not to stamp the Great Benefactor in my heart,
-I learnt only to dance down the primrose path to hell.`,
+kallēṉ kaḻiyaniṉṟu āṭaval lēṉē`,
     elaborationTamil: `சிவநெறியைக் கல்லாமல் இறைவுணர்வை அறிய ஆற்றல் இல்லாத உயிர்கள் மாயையில் மயங்கி வினைப் பயனால் கிடக்கும் துன்பங்களை மேலும் மேலும் உருவாக்கி அனுபவித்துக் கொண்டே இருக்கின்றார்கள். உலகத்தில் இருக்கும் அனைத்து பொருள்களையும் கொடுத்து அப்பொருளாகவே இருக்கும் இறைவன் தனக்குள்ளும் இருக்கின்றான் என்று தெரியாமல் நாட்களை வீணாகக் கழித்துக்கொண்டு உலக இன்பங்களிலேயே இருந்து ஆடிக்கொண்டிருக்கின்றார்கள்.`,
   },
   {
