@@ -27,8 +27,6 @@ export default function RootLayout() {
   return (
     <Stack screenOptions={{ headerShown: false }}>
       <Stack.Screen name="(tabs)" />
-      <Stack.Screen name="verse/[id]" />
-      <Stack.Screen name="tantra/[id]" />
       <Stack.Screen name="thirumular" />
     </Stack>
   );

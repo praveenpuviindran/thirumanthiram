@@ -1,6 +1,6 @@
 import React, { useState, useCallback } from 'react';
 import {
-  View, Text, TextInput, FlatList, StyleSheet, StatusBar,
+  View, Text, TextInput, FlatList, StyleSheet, StatusBar, TouchableOpacity,
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { useRouter } from 'expo-router';
@@ -42,6 +42,16 @@ export default function SearchScreen() {
             clearButtonMode="while-editing"
           />
         </View>
+
+        <TouchableOpacity
+          style={[styles.dictChip, { backgroundColor: theme.bgCard, borderColor: theme.border }]}
+          onPress={() => router.push('/dictionary' as any)}
+          activeOpacity={0.75}
+        >
+          <Text style={[styles.dictChipIcon, { color: theme.saffron }]}>◉</Text>
+          <Text style={[styles.dictChipText, { color: theme.textSub }]}>Dictionary  ·  அகராதி</Text>
+          <Text style={[styles.dictChipArrow, { color: theme.textMuted }]}>›</Text>
+        </TouchableOpacity>
       </View>
 
       {query.length === 0 ? (
@@ -108,6 +118,19 @@ const styles = StyleSheet.create({
   searchIcon: {
     fontSize: 20,
   },
+  dictChip: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    borderRadius: Radius.md,
+    borderWidth: 1,
+    paddingHorizontal: Spacing.sm,
+    paddingVertical: 10,
+    marginTop: Spacing.sm,
+    gap: 8,
+  },
+  dictChipIcon: { fontSize: 16 },
+  dictChipText: { flex: 1, fontSize: FontSize.sm, fontWeight: '500' },
+  dictChipArrow: { fontSize: 20, fontWeight: '300' },
   input: {
     flex: 1,
     fontSize: FontSize.md,

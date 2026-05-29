@@ -7,12 +7,11 @@ function TabIcon({ label, active, color }: { label: string; active: boolean; col
     Home:       '⌂',
     Tantras:    '☰',
     Search:     '⌕',
-    Dictionary: '◉',
     Favorites:  '★',
     Settings:   '⚙',
   };
   return (
-    <Text style={{ fontSize: 20, color, opacity: active ? 1 : 0.6 }}>
+    <Text style={{ fontSize: 19, color, opacity: active ? 1 : 0.6 }}>
       {icons[label] ?? '•'}
     </Text>
   );
@@ -26,18 +25,18 @@ export default function TabLayout() {
     backgroundColor: dark ? Colors.bgMid : '#EDE4D8',
     borderTopColor:  dark ? Colors.border : Colors.borderLight,
     borderTopWidth:  1,
-    paddingBottom:   4,
-    height:          60,
+    paddingBottom:   3,
+    height:          56,
   };
 
   return (
     <Tabs
       screenOptions={{
-        headerShown:           false,
+        headerShown:             false,
         tabBarStyle,
-        tabBarActiveTintColor: Colors.saffron,
+        tabBarActiveTintColor:   Colors.saffron,
         tabBarInactiveTintColor: dark ? Colors.textMuted : '#8A6A50',
-        tabBarLabelStyle: { fontSize: 11, marginTop: -2 },
+        tabBarLabelStyle:        { fontSize: 10, marginTop: -2 },
       }}
     >
       <Tabs.Screen
@@ -68,15 +67,6 @@ export default function TabLayout() {
         }}
       />
       <Tabs.Screen
-        name="dictionary"
-        options={{
-          title: 'Dictionary',
-          tabBarIcon: ({ color, focused }) => (
-            <TabIcon label="Dictionary" active={focused} color={color} />
-          ),
-        }}
-      />
-      <Tabs.Screen
         name="favorites"
         options={{
           title: 'Favorites',
@@ -93,6 +83,20 @@ export default function TabLayout() {
             <TabIcon label="Settings" active={focused} color={color} />
           ),
         }}
+      />
+      {/* Dictionary accessible via in-app navigation, not shown in tab bar */}
+      <Tabs.Screen
+        name="dictionary"
+        options={{ href: null }}
+      />
+      {/* Tantra and verse detail screens — hidden from tab bar */}
+      <Tabs.Screen
+        name="tantra/[id]"
+        options={{ href: null }}
+      />
+      <Tabs.Screen
+        name="verse/[id]"
+        options={{ href: null }}
       />
     </Tabs>
   );
