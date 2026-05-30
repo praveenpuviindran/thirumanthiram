@@ -270,6 +270,7 @@ Transcended He Brahma on the lotus-seat,
 Transcended Mayan, the ocean-hued,
 Transcended He, Isan, who transcends all,
 Transcended He space infinite, witnessing all.`,
+    elaborationTamil: `பிரமனும், திருமாலும் ஓரோர் எல்லையளவில் பெருநிலை (வியாபகம்) உடையவராயினும், அனைவரினும் மேம்பட்ட பெருநிலையுடையவன் சிவபெருமான். அவன் அத்தகையனாய்ப் புறத்து நிற்பினும், எப்பொருளிலும் நிறைந்து அவற்றை அறிந்து நிற்கின்றான்.`,
   },
   {
     id: 16, tantraId: 0, verseNumber: 15,
@@ -286,6 +287,7 @@ Into Brahma did He expand, into Hara did He,
 And into the soul of the body He pervades
 As the Effulgence Divine, the Dharmic law limitless,
 The Eternal and the Everlasting.`,
+    elaborationTamil: `அருளாகிய ஒளி உருவினனாயும், என்றும் குறைதல் இல்லாத அவ்வருள் காரணமாக அனைத்துயிர்க்கும் நடுவுநிலைமையனாயும், அழிவில்லாதவனாயும் உள்ள சிவ பெருமான், தானே உலகிற்கு முதலாகியும், முடிவாகியும், பல்வகை உடம்பிலும் காணப்படுகின்ற இன்ப துன்பங்களாகியும் பரந்து நிறைந்திருக்கின்றான்.`,
   },
   {
     id: 17, tantraId: 0, verseNumber: 16,
@@ -357,6 +359,7 @@ He, the Wisdom Primeval, He made the City Ancient
 Of the seven meadows, fragrant-spiced;
 He fixed the Moon, and to penance inclining,
 He abides there, making that His seat.`,
+    elaborationTamil: `சந்திரனைத் தரித்துள்ளவனாகிய சிவபெருமான், இவ்வுலகத்தில் ஏலம் முதலியவற்றின் மணங் கமழ்கின்ற சோலையின் பெயராகிய 'பொழில்' என்பதனையே தமக்கும் பெயராகக் கொண்ட ஏழு தீவுகளையும், இவ்வுலகிற்கு மேலே ஒன்றைவிட ஒன்று நூறு கோடி யோசனை விரிவுடையனவாகிய பல உலகங்களையும் தோற்று வித்தவன்; அவ் வளவையும் ஆக்கிக் காத்து அழிக்குமாற்றை அறிந்த பேரறிவுடையவன். அவன் தன்னை நோக்கிச் செய்யும் மெய்த்தவத்தைக் கண்டு அத்தவத்தையே தனக்கு இடமாக விரும்பி வீற்றிருக்கின்றான்.`,
   },
   {
     id: 21, tantraId: 0, verseNumber: 20,
@@ -1279,6 +1282,7 @@ The Four, each in his corner, as Master ruled,
 The Four, each his diverse treasure held,
 Each in his turn spoke, "Take all I've;"
 And thus, Immortals and Masters became.`,
+    elaborationTamil: `நந்தி பெருமானுக்கு மாணாக்கராகிய எண்மருள், நந்திகள் எனப்பட்ட நால்வரும் எல்லா உலகங்கட்கும் பொருந்திய ஆசிரியர்களாய், அறம் முதலாக நால்வகைப்பட்டுப் பற்பல வகையாக விரிந்த உறுதிப்பொருள் அனைத்தையும் உணர்ந்து, நான் பெற்ற பேற்றினை உலகம் பெறுவதாக என்னும் பேரருள் உடையராய், அதனால் சிவகணத்துள்ளே ஆசிரியராயினர்.`,
   },
   {
     id: 72, tantraId: 0, verseNumber: 71,

@@ -3007,18 +3007,7 @@ So, in the Great Love, let yourself to Him succumb;
 Thus in Love sublimed, all your senses stilled,
 Bounding in Bliss Supreme, That this becomes.`,
     elaborationTamil: `ஆண்கள் தாம் அன்புகொண்ட மனைவியரோடு இருக்கும் பொழுது அந்த உணர்விலேயே ஊறித் தம்மை மறந்து இருப்பதுபோல இறைவன் மீது தாம் வைத்திருக்கும் தூய்மையான அன்பின் உணர்ச்சியிலேயே ஊறித் தம்மை மறந்து இருக்கக்கூடிய உயிர்களுக்கு வெறும் உடல் உணர்ச்சி இல்லாமல் உள்ளத்திலிருக்கும் உணர்ச்சியோடு ஒன்றாகக் கூடி அவர்கள் செல்லும் இடமெல்லாம் அவர்களை காத்து நிற்பான் இறைவன். அப்படிப்பட்ட இறைவனிடம் கிடைக்கும் பேரின்பம் உலகப் பற்றுக்களோடு இருக்கும் அன்பில் கிடைக்கும்`,
-    transliteration: `uṟṟuniṉ ṟāroṭum attaku cōtiyaic
-cittarkaḷ eṉṟum terintaṟi vārillai
-pattimai yālē paṇintaṭi yārtoḻa
-mutti koṭuttavar muṉpuniṉ ṟāṉē`,
-    english: `284: Faith Leads to Liberation
-Even the Siddhas, standing close in banded group,
-Knew not the Light Supreme in splendorous glow;
-But He gave Salvation's bliss and the Vision splendid,
-To them whose hearts did in intense faith overflow.`,
-    elaborationTamil: `அனைத்து உயிர்களிடம் உண்மையான அன்பு வைத்து இருக்கும் அன்பர்களுடன் சேர்ந்து இருக்கும் பேரொளியான இறைவனை வெறும் சிந்தனை மட்டுமே செய்பவர்களால் அவன் எப்படி இருப்பான் என்பதைத் தெரிந்து கொள்ளவோ அவனது பேரன்பையோ அறிந்து கொள்ளவோ முடியாது. சிந்தனையை விட்டுவிட்டு அவன் மீது உண்மையான பக்தி கொண்டு அவன் திருவடிகளைப் பணிந்து தொழுது வருபவர்களுக்கு அவன் முக்தியையும் கொடுத்து அவர்களின் கண் முன்பும் வந்து நிற்பான் இறைவன்.`,
   },
-  
   {
     id: 285, tantraId: 1, verseNumber: 284,
     tamil: `உற்றுநின் றாரொடும் அத்தகு சோதியைச்
@@ -3034,6 +3023,7 @@ Even the Siddhas, standing close in banded group,
 Knew not the Light Supreme in splendorous glow;
 But He gave Salvation's bliss and the Vision splendid,
 To them whose hearts did in intense faith overflow.`,
+    elaborationTamil: `அடியவர்கள் தங்களுக்கு உளதாகிய அன்பினாலே சிவபெருமானை நிலத்தில் வீழ்ந்து பணிந்தும், கை கூப்பிக் கும்பிட்டும் பல்லாற்றானும் வழிபட அப்பெருமான் அவர்க்கு முத்தியைக் கொடுத்து, அவரது செயல் யாதொன்றிற்கும் தானே முன்னிற்பான். இவ்வாறு தன்னையே சார்ந்து நிற்கும் அவரோடே தானும் அவரையே சார்ந்து நிற்கின்ற சிவபெருமானது தன்மையைச் சித்தர்கள் ஆராய்ந்தறிகின்றார்களில்லை.`,
   },
 {
     id: 286, tantraId: 1, verseNumber: 285,
