@@ -42,6 +42,28 @@ Agastya lights the Fire divine;
 He is the holy Muni of North
 Whence the Primal Fire was born;
 And the radiant light, pervasive-all.`,
+    elaborationEnglish: `Of yore Siva and Parvati were getting married at Mount Kailas
+located in the Himalayan mountains. All the worlg’s
+inhabitants gathered there to witness the holy wedding. The
+south of India was depleted in weight by the exodus. The
+earth-orb swerved from its epicentre. Siva sent Rishi Agastya
+to the south to redress the imbalance. Such is the might of
+the tapas of rishis, that the spiritual weight of one soul devoted
+to Siva.equalled the physical weight of a whole population
+of ordinary millions. The earth regained its balance. Siva will
+not let imbalance or injustice occur anywhere.
+
+Implied in this legend is the view that’ Saivism, tapas, and
+other cults were brought from the north (the Himalayas) by
+members of the Agastya cult who provided for themselves
+a base in the **Podiyil’’ hills of the Pandya Nadu in the south.
+This was, apparently, for.a long time the centre of gathering
+for Siddhas, Yogis, tantrics, etc. The sanskrit term ‘‘Bodhi’’
+meaning knowledge would in Tamil become ‘‘poti’’, due to
+absence of aspiration and of softening of consonants in the
+latter alphabetical: system.
+
+UGSSGOs srDrcry ancrat Coucws`,
     elaborationTamil: `'புறத்தும் அகத்தும் சுடர் விட்டுளன் எங்கள் சோதி' (தி.3 ப.54 பா.5) என்றபடி, புறத்தும், அகத்தும் தீயை உண்டாக்கி வளர்க்கின்ற, மேற்றிசைக்கண் ஞானாக்கினியாய் விளங்கிய அகத்திய முனிவர் தென்றிசையிலும், தவம் உடையவரே காணத்தக்காராக அரிதில் விளங்குகின்ற தவக் கோலத்தை உடைய முனிவனாகிய சிவபெருமான் வடதிசையிலும் வீற்றிருந்து உலகமுழுவதையும் விளக்குகின்ற ஒளியாய்த் திகழ்கின்றார்கள்.`,
   },
   {
@@ -64,6 +86,19 @@ Harassed worlds all"
 And the Lord,
 Lifting high His trident sharp
 Pierced him straight to certain death.`,
+    elaborationEnglish: `Lifting high His trident sharp
+Pierced him straight’ to certain death.
+
+There was an asura who bore the name of Antaka, same
+
+as that of the Death-god. He had acquired invincible powers
+by prolonged penance. But he misused them and harassed
+the population of all the worlds. Siva destroyed him with his
+sharp trident at a fatal encounter which took place at
+Tirukkovilur. /
+
+Osrmawy. Dopss oer ufeoougs
+Mawuye GSAacr CasriOOQner Oncol s`,
     elaborationTamil: `அக இருளாகிய ஆணவமலத்தை ஒத்து, 'அந்தகன்' எனப் பெயர் பெற்ற அசுரன் ஒருவன் தான் பெற்ற வரத்தினால் உலகத்து உயிர்களை எல்லாம் துன்புறுத்த, அது பற்றி வருந்தி முறையிட்ட தேவர்கள் பொருட்டுச் சிவபெருமான் சூலத்தின் நுனியில் அவனை ஏற்றித் துன்புறுத்தி அழித்தார்.`,
   },
   {
@@ -87,6 +122,20 @@ And then bethought;
 An object lesson to serve"
 And so, fixing a sheep's head to the trunk
 Thus let him be.`,
+    elaborationEnglish: `Daksha was the giant-king of the Himalayas. He was the son
+of Brahma. Sati, Siva’s consort, was his daughter. Daksha
+thought no end of himself and challenged the supremacy of
+Siva. To establish this he performed a sacriligious sacrifice.
+Siva appeared on the scene, smote Daksha’s head and threw
+it into, the sacrificial flame. Then, thinking that the incident
+should serve as an object lesson to others who dare perform
+such heinous crimes, Siva fixed a sheep's head to Daksha’s
+severed trunk and let him live in this chimerical form. This
+heroic deed was performed at Tiruppariyalur.
+
+THE UTHHb Qopos srmBuyp
+
+SIG ugssac gsnexomt Gears`,
     elaborationTamil: `தக்கன் சிவபெருமானை இகழ்ந்து செய்த வேள்வியை அப்பெருமானது அருளாணையின்வழி வீரபத்திரக் கடவுள் சென்று அழித்தபொழுது, தக்கனது இகழ்ச்சியை மறாது உடன் பட்டிருந்த தேவர் பலரையும் பலவாறு ஒறுத்தலோடு ஒழித்து, அவ் இகழ்ச்சியைச் செய்தவனாகிய தக்கனது தலையை வெட்டித் தீக்கு இரையாக்கி, 'சிவனை இகழ்ந்தவர் பெறும் இழிநிலைக்கு இவன் தக்க சான்றாகற்பாலனாகலின், அதன் பொருட்டு இவன் உலகிற்கு இன்றியமையாத ஒருவன்' எனக் கருதி அவனை அழித்தொழியாது ஆட்டுத் தலையைப் பொருத்தி உயிரோடு இருக்கச் செய்தார்.`,
   },
   {
@@ -107,6 +156,16 @@ That this the Heavenly Beings may know
 In mounting anger He nipped Aya's head
 And in the skull drained Atchutha's blood
 (When they His supremacy defied.)`,
+    elaborationEnglish: `Brahma at one time was as five-headed as Siva. Brahma and
+Mal, encouraged by the flattery of devas and rishis challenged
+Siva’s supremacy. Siva, assuming the aspect of Bhairava,
+pinched away one of Brahma’s heads with his finger nail.
+Bearing Brahma’s skull, Bhairava demanded of Mal to drain
+his blood into the skull and fill it up. Mal obeyed. Thus were
+the two gods shown their place. This is said to have happened
+at the place known as Tirukandiyur.
+
+Ourige sopsre GuniGsdw prenwuier`,
     elaborationTamil: `ஆகாயத்தினும் மேலாய்ப் பரந்து எல்லாப் பொருட் கும் இடங்கொடுத்தும், பூமியினும் கீழாய் நின்று அனைத்தையும் தாங்கியும் நிற்கும் தன்மைத்தாகிய சிவபெருமானது திருவடியின் பெருமையை மறவாது உணர்ந்து அடங்கி ஒழுகற் பாலராய தேவர்கள், தம் அதிகாரச் செருக்கால் ஓரோவழி அதனை மறந்து மாறுபடுகின்ற காலத்து அவர்தம் செருக்கைச் சிவபெருமான் அழித்து அவரைத் தெருட்டுதற்கு அறிகுறியாகப் பிரமன் செருக்குற்ற பொழுது அவன் தலையை, வைரவக் கடவுளை விடுத்து அரிந்து, அத்தலை ஓட்டில் தேவர் பலரது உதிரத்தையும் பிச்சையாக ஏற்பித்து, முடிவில் திரு மாலது உதிரத்தையும் கொள்வித்துச் செருக்கொழித் தருளினான்.`,
   },
   {
@@ -126,6 +185,21 @@ He spoke the Vedas and scriptures all;
 Him--the haughty Jalandhara challenged in duel
 And the Lord with his toe marked a circle
 And into it He saw his final end.`,
+    elaborationEnglish: `And the Lord with his toe marked a circle
+And into it He saw the monster’s final end.
+
+Jalandhara was a giant, and the foster son of Varuna, the
+Sea-god. By virtue of his penances, he received a boon that
+no one else could kill him. He became all-powerful and began
+to harass the celestials. They complained to Siva. Siva
+confronted Jalandhara and drew a circle around him. -He
+chalienged the giant to lift the circle. Jalandhara lifted it to
+his head, when lo, the circle turned into a powerful discus
+and destroyed him. Jalandhara had.to be destroyed by himself.
+This heroic deed is said to have happened at the place called
+Tiruvirkudi.
+
+MwuysEe Denmcrst cromurscr apt iteor`,
     elaborationTamil: `எல்லா இடங்களிலும் நிறைந்து நிற்பினும், என் உள்ளத்தில் விளங்கி நிற்கின்றவனும், ஆறங்கம் அருமறைகளை அருளிச்செய்த முதல்வனும் ஆகிய சிவபெருமானிடம், மிக்க சினத்தை உடைய 'சலந்தரன்' என்னும் அசுரன் போர் செய்யச் சென்றபொழுது, அப்பெருமான் அவனது வரத்தின் தன்மையை அறிந்து அதற்கு ஏற்பத் தமது காற்பெருவிரலால் நிலத்தில் ஒரு சக்கரத்தைக் கீறி அதனை அவனாலே எடுப்பித்து அதன்வழி அவன் தன்னாலே தான் அழியச் செய்தான்.`,
   },
   {
@@ -147,6 +221,7 @@ He destroyed the Cities Three
 The Three Cities are the Triple Impurities
 It is them He burnt
 Who knows this truth thereof?`,
+    elaborationEnglish: `ASH yAug ora SHGowxr`,
     elaborationTamil: `சிவபெருமான் திரிபுரம் எரித்த வரலாற்றைப் புராணங்கள் கூறக் கேட்கின்றுழி, அறிவிலாதார் அவ் வரலாற்றை மட்டுமே கேட்டு, அவ்வளவில் சிவபெருமானைப் புகழ்ந்தொழி கின்றனர். ஆயினும், அவ்வரலாற்றால் அறியத் தக்க உண்மையை அறிகின்றவர் எத்துணையர்! மிகச் சிலரே. அதனால், 'இரும்பு, வெள்ளி, பொன்' என்பவற்றால் ஆகிய மூன்று கோட்டைகளும் முறையே 'ஆணவம், மாயை, கன்மம்' என்னும் மும்மலக் கட்டினைக் குறிப்பனவாக, 'சிவபெருமான் அக்கோட்டைகளை எரித்துச் சாம்பலாக் கினான்' என்பது, 'அம்மும்மலங்களின் வலியை அழித்துக் கட்டறுத் தருளுவன்' என்னும் உண்மையையே சிறப்பாக உணர்த்தி நிற்கும்.`,
   },
   {
@@ -170,6 +245,13 @@ Seeking to rival the Lord's might
 The Heaven's beings performed a sacrifice unholy
 And all those who from that fire arose
 The Lord smote for the very fire to consume.`,
+    elaborationEnglish: `a
+Gajasura was an elephant~monster that arose out of the
+sacrificial fire which the celestials had performed to challenge
+Siva's supremacy. Siva peeled the elephant’s skin and donned
+it as a vestment; and the’ celestials of evil intent were
+immolated in the very sacrificial fire they lit. This happened
+at Tiruvazhulur.`,
     elaborationTamil: `முனிவர் சிலர் செய்த வேள்வியுள் எழுந்த யானை உருவினனாகிய கயாசுரனால் தம் ஆற்றலையே பெரிதாகக் கருதி யிருந்த தேவர் பலரும் அன்று அங்குச் சென்று கொலையுண் டாரேயாகச் சிவபெருமான் ஒருவனே அவனை அழித்து அவனது தோலைப் போர்வையாகக் கொண்டான் என்பதைக் கேட்டும் அப்பெருமானது பெருமையைச் சிலர் அறியாது, ஏனைத் தேவருள் அவனையும் ஒருவனாக வைத்து எண்ணுகின்றனர்.`,
   },
   {
@@ -187,6 +269,21 @@ The Kundalini Fire coiled in Muladhara
 Upward He coursed it to Hollow on top;
 That Fiery Yoga Way He scorched the God of Death
 That was at Kadavoor, the holy shrine here below.`,
+    elaborationEnglish: `Young Markandeya was an ardent devotee of Siva; but fate
+had decreed that.he should die at the age of sixteen. On
+the day destined, Yama, the god of death, promptly threw
+his noose around Markandeya’s life, not caring that the victim
+was immersed in Siva worship. At the sight of the god of
+death, the devotee clung fast to the Linga murthi. The
+death-noose thus encircled Siva as well. His wrath erupted,
+and rousing the kundalini fire from the muladhara, Siva
+spurned Yama forcing him to a regretful retreat by the heat
+of His divine fire. This heroic feat happened at the place
+called Kadavur.
+
+Qoss vasms Qasu QoGsHu
+OurGsH QOH apypwg CuréHs
+Bos58u sroct Mews gsasosr`,
     elaborationTamil: `சிவபெருமான் நிலவுலகில் உள்ள திருக்கடவூரில் காலால் காலனை உதைத்துத் தள்ளி, ஒர் யோகி போல் இருத்தல் வியப்பைத் தருவது.`,
   },
   {
@@ -206,6 +303,21 @@ Lo! there came Kama
 To tempt the Lord with shafts of love.
 But the Love-God's wiles, the Lord foiled in Yoga Way;
 This He did at Korukkai, the shrine divine.`,
+    elaborationEnglish: `Siva was in intense tapas, of actionless trance. The work of
+destruction ceased over the entire universe. The world became
+over-populated. and too burdensome for Mother Earth to
+support. The celestials sent Kama, the god of love, to shoot
+his shafts of love at Siva and disturb His tapas. Siva in wrath
+burnt Kama to ashes and continued His tapas. This feat was
+performed at the place called Korukkai.
+
+3. QSNais LYyoTeRmb
+
+Having described the eight heroic deeds of Siva, Tirumular
+proceeds to narrate yet other notable deeds of Siva under
+the title, ‘Linga Puranam.’
+
+Hiro sagOrdg Coot ous`,
     elaborationTamil: `சிவபெருமான் திருக்குறுக்கை வீரட்டத்தில் எழுந் தருளியுள்ள நிலை, தன்வழி நின்ற மனத்தை நம் வழிப் பொருந்துமாறு நிறுத்திப்பின் மகளிரோடு மெய்யுறுதலை அறவே விடுத்து, எத்தகை யோர்க்கும் காமத்தை விளைத்தலில் வல்ல காமவேளது குறும்பை அழித்து, அந்நிலைக்கண் நாம் அசையா திருக்கத்தக்க அரிய தவயோக நிலையேயாம்.`,
   },
   {
@@ -246,6 +358,13 @@ Thus despair not
 That He is your reach beyond;
 Sure is the Lord to seekers true
 In them He abideth, Grace abounding.`,
+    elaborationEnglish: `Thus despair not
+
+That He is your reach beyond;
+
+Sure is the Lord to seekers true
+
+In them He abideth, Grace abounding.`,
     elaborationTamil: `'முப்புரத்தை எரித்த முதல்வனாகிய சிவபெருமான் உமையம்மை போன்றார்க்கன்றி நம்மனோர்க்குக் கிடைத்தற்கரியன்' என்று தளர்ச்சி எய்த வேண்டா. அன்புடையார் யாவராயினும் அவர்க்கு அவன் எளியனே. அன்புடையார் பால் அருளுடையவ னாய் நின்று அவரவர்க்குத் தக்க வகையில் அவன் அருள் செய்வான்.`,
   },
   {
@@ -266,6 +385,40 @@ Girdling the boundless oceans
 And across the endless aeons;
 And to Atchutha He granted the Disc Divine
 And to Brahma, Jnana's Sword Eternal.`,
+    elaborationEnglish: `Brahma, the creator, and Vishnu, the preserver, at one time
+contending for cosmic supremacy, battled indecisively around
+the sea-girt globe at numerous points for a countless number
+of years. Finally, Siva stood as a limitless Pillar of Flame
+in between them. Tired, they made a truce and agreed that
+he who would first behold either the peak or the base of
+the fire pillar was to be regarded as supreme. Vishnu took
+the form of a boar and burrowed deep into earth’s bottom.
+Brahma assumed the form of a hamsa bird (swan) and flew
+up high in the heavens. But neither saw either end of the
+fiery pillar. They realised their folly and worshipped Siva as
+supreme. Thereupon Siva blessed Vishnu with the chakra
+(discus), and Brahma with the sword (jnana).
+
+AAG OGNSSw gnQacr nops sion
+
+Lord Blessed Ravana
+
+Of peerless might and shoulder twenty
+Ravana the Giant lifted lofty mount Kailas;
+With toe down, the Lord but gently pressed
+And- lo! the Giant screamed: ‘‘Lord Eternal.’’
+
+The ten-headed giant Ravana, filled with great conceit over
+his might and prowess, put his 20 shoulders to Mount Kailas,
+the seat of Siva, in an atttempt to lift it. Siva gently pressed
+His toe, and lo, the giant writhing in pain cried ‘Oh, My
+Lord, You are immortal!’ Thereupon Ravana -played on his
+veena and evoked repentant melodies from the Sama Veda
+in adoration of the Lord. The Lord released him from under
+the weight of the mountain and blessed him.
+
+200u(51) aD somy gerne gat_y
+Osniams Org Aamstu pols`,
     elaborationTamil: `மிக்க வலிமை பொருந்தித் தம்மில் போர்செய்த பிரமன், திருமால் என்னும் இருவரும் தம்முன் தீப்பிழம்பாய்த் தோன்றிய சிவபெருமானைப் பின்பு இலிங்கத் திருமேனியில் நெடுங் காலம் வழிபட, அவர்கட்குச் சிவபெருமான் திருமாலுக்குச் சக்கரப் படையையும், பிரமனுக்குத் தண்டாயுதத்தையும் வழங்கி, முறையே, காத்தல் படைத்தல்களைச் செய்யுமாறு அருள்புரிந்தான்.`,
   },
   {
@@ -306,6 +459,16 @@ Dandi flew into a blind rage
 And smote the parent's leg with sword;
 And lo! the Lord
 Bedecked Dandi with His own garland of flowers forever to sport.`,
+    elaborationEnglish: `Dandi flew into a blind rage
+
+And smote the parent’s leg with sword; >
+And lo! the Lord
+
+Bedecked Dandi with His own garland of flowers
+forever to sport.
+
+eyab Dsvanh g@qwAw Gsareer
+Bry. Qeomon puctotm Go`,
     elaborationTamil: `'செய்யத் தக்க செயல் இது' என்பதை முற்பிறப்பிற் செய்த தவமுதிர்ச்சியால் தெளிந்த தண்டீசநாயனார் மணலால் இலிங்கம் அமைத்து, வினை கெடும்வகையில் பசுவின் பாலையே எல்லாத் திருமஞ்சனப் பொருளுமாகக் கருதி ஆட்டி வழிபட, அவரைப் பெற்ற தந்தை தன்மகன் வேள்விக்குரிய பாலை வீணாக்கு வதாக நினைத்து வெகுண்டு ஒறுக்க வேண்டித் தண்டுகொண்டு அடித்து, அது பயன்படாமையால், இலிங்கத் திருமேனியைக் காலால் அழிக்க, நாயனார் சினந்து, தாம் ஆனிரை மேய்க்கும் கோலை எடுத்தபொழுது அதுவே மழுவாய் மறுவடிவங்கொள்ள, அதனாலே அவன் காலை வெட்டி, அதற்குப் பரிசிலாகச் சிவபெருமான் சண்டேசுர பதவியில் இருத்தித் தன் முடிமேல் இருந்து எடுத்துச் சூட்டிய கொன்றை மாலையைப் பெற்றார்.`,
   },
   {
@@ -326,6 +489,23 @@ The Devas together rushed and cried;
 And thus they prayed, prostrating low;
 And He of Renown unsurpassed said;
 "Arise, fear not."`,
+    elaborationEnglish: `Dandi was a brahmin boy who herded the cows of his village.
+Filled with intense devotion for Siva, Dandi would make.
+Lingam images out of sand from the river bed, milk the cows.
+‘and offer the five products of cows to the Lingam in worship.
+The matter reached the ears of his father who, incensed at
+the way the precious. milk and other products of the cows
+were being wasted by his son, knocked the sand-made lingam
+with a blow from his leg. Such was Dandi’s devotion to Siva,
+that he was unable to contain the insult and smote the parent’s
+offending leg with a stroke of the sword. Siva appeared on
+the scene, and blessed Dandi, bestowing His own garland on
+him. Seeing Dandi’s father lying dead, the celestials appealed
+to Siva, who revived the parent. se
+
+4. s&55er Gacrad
+
+SOS oreanOugex _norgsacr Cacralew`,
     elaborationTamil: `தேவர் பலரும் பற்பல காலங்களில் பற்பல துன்பங்களை அடைந்து சிவபெருமானிடம் முறையிட்டு அத்துன்பம் நீங்குதல் வேண்டி அப்பெருமானை அவன் திருப்பெயர்கள் பலவற்றையும் சொல்லி மலர்தூவிப் போற்றிசெய்து வழிபட, சிவபெருமான் அவர்களை அத்துன்பங்களினின்றும் நீங்கச் செய்தான்.`,
   },
   {
@@ -345,6 +525,21 @@ And lo! as the Lord in wrath rose
 Helter-skelter ran the Devas
 Deranged in directions all
 --Their depraved worship unconsummated.`,
+    elaborationEnglish: `Gods who participated in Daksha’s unholy sacrifice in an
+
+attempt to denigrate Siva, met with diverse dire fates—some
+
+losing their head, others the face, the nose, the shoulders,
+x A
+
+*
+
+the hands or other limbs. Having described the fate of the ;
+gods—Brahma, Vishnu, the mountain-god, the sun-god, the
+moon-god, the fire-god, the goddess of learning, and the god
+
+of celestials (Indra), Tirumular exhorts, ‘Be thou constant
+in devotion to Siva.’’`,
     elaborationTamil: `தக்கனது வேள்விக் குண்டத்தில் தீ நன்கு வளர்க்கப் பட்டபொழுது அங்குக் கூடியிருந்த தேவர், யாவர்க்கும் தந்தையும், தலைவனுமாகிய சிவபிரானை இகழ்ந்த அத்தக்கனுக்கு, முதல் ஆகுதியைச் சிவபெருமானுக்குச் செய்யுமாறு அறிவு புகட்டி அவ்வாறு செய்வித்து அவ்வேள்வியை முடிக்க மாட்டாதவராய், அவனுக்கு அஞ்சி முறை திறம்பித் திருமாலுக்கு முதல் ஆகுதியைச் செய்ய இசைந்திருந்தமையால், பின் அப்பெருமான் சினந்து வீரபத்திரரை விடுத்தபொழுது அவரால் அனைவரும் அழிந்தனர்.`,
   },
   {
@@ -367,6 +562,17 @@ A prey to Passion's consuming fetters;
 Then repentant he performed tapas
 And the Lord that has no beginning nor end
 Bestowed His Grace on him.`,
+    elaborationEnglish: `a en
+
+And so fell into this world below
+A prey to Passion’s consuming fetters;
+
+Then repentant he performed tapas-
+‘And the Lord that has no beginning nor end
+
+Bestowed His Grace on him.
+
+xsuunt Grug sieweaw yotavs`,
     elaborationTamil: `வீரபத்திரர் தன்மேற்கொண்ட சினந்தணிந்து நின்றதை அறிந்து அச்சம் நீங்கி எழுந்த மாயோன் 'எம் தந்தையே; நாங்கள் இத்தக்கன் போலச் சிவநிந்தை செய்பவர் அல்லேம்; (ஆதலின், எங்களைத் துன்புறுத்தாதீர்)' என்று சொல்லி மண்ணில் பதிந்த அவரது பாதங்களில் வீழ்ந்து துதிக்க, சிவனேயாயுள்ள அவரும் அவன்மேல் இரக்கங்கொண்டு ஒறுத்தலை ஒழிந்தார்.`,
   },
   {
@@ -387,6 +593,16 @@ A wonder though it be,
 Verily that is what there befell;
 Thus does the Lord lend His Grace
 In the knowledge of each according to his desert.`,
+    elaborationEnglish: `_ A wonder though it be,
+_ Verily that is what there befell;
+
+Thus does the Lord lend His Grace
+In the knowledge of each according to his desert.
+
+ahun Crgquc wrawyse Gsairaor
+suum CGswe srw anger
+
+aout ¢a&) yerareyw 2 cro`,
     elaborationTamil: `மாயோன் வீரபத்திரரிடம் கூறியவாறே சிவ நிந்தை செய்பவனாகிய தக்கனது தலைமையான வேள்வியில் அக்கினி தேவன் ஏனையோர் வேள்வியிற் போலவே கிளர்ந்தெழுந்து தன் கடமையைச் செய்யமுற்பட்டது வியப்பு என்றாலும், தக்கனோ டேயன்றி ஏனைத் தேவரோடும் மாறுபடுதற்கு அஞ்சிய அவனது நிலைமையைத் திருவுளத்தடைத்து அவனுக்கு அளித்திருந்த ஆற்றலை மாற்றாது சிவபெருமான் வாளா இருந்தான்.`,
   },
   {
@@ -405,6 +621,7 @@ And thus it is they came to what they are;
 And thus it is that they are there;
 And thus does the Lord sit serene within
 To reward the heart that daily seeks Him true.`,
+    elaborationEnglish: `Hass upby Derg sgia`,
     elaborationTamil: `மாயோன் வீரபத்திரரிடம் கூறியவாறே அயன், மால் முதலிய தேவர் பலரும் சிவனை நிந்தியாதொழியினும், நிந்தித்த தக்கனைத் திருத்தமாட்டதவராயினர். அன்னராயினும், தக்கனது வேள்வியில் அவர் ஒருங்கு கூடியிருந்து அவனுக்கு ஊக்கம் மிகச் செய் தமைக்குக் காரணம், தானும் அவர்போலவே அச்சங் கொண்டவனா கிய அக்கினி தேவன், ஏனை இடங் காலங்களிற் போலவே தன் கடமை யுட்பட்டுத் தன் செயலைச் செய்யக் கிளர்ந்து நின்றமையேயாம்.`,
   },
   {
@@ -425,6 +642,9 @@ To me along the highway of bliss that opened up
 As from Muladhara the Kundalini fire shot up
 To the crimson spheres of Sahasrara
 In the way that is yoga.`,
+    elaborationEnglish: `HAI wergeser HGSH gyi. Gar
+VER atew weailsa OsDser
+Pos sD Anises Garargnar`,
     elaborationTamil: `அக்கினிதேவன் கிளர்ந்தெழுந்தமைக்குத் தக்கன் முன்னிலையில் தேவர் பலரும் அவனைப் புகழத் தேவ கூட்டத்துள் கடைப்பட்டவனாகிய அக்கினிதேவன் முதற் குற்றவாளி யாயினமையை அறிந்து சிவபெருமான் கொண்ட சினமாகிய மேலான தீ அவ்வேள்விச் சாலையிற் சென்று பற்ற, அக்கினிதேவன் தனக்குப் பொருந்தியதொரு பெரிய கள்ள வழியினால் வேள்விச் சாலையை விட்டு வெளியே ஓடி வந்து விட்டான்.`,
   },
   {
@@ -445,6 +665,7 @@ Thus Hari, Brahma, and Daksha
 The Sun, Moon and Fire and Indra as well
 All these Gods lost
 Head, face, nose, hand and shoulder; some limb or other.`,
+    elaborationEnglish: `Osalus SrqQsuigs srypm Caragu`,
     elaborationTamil: `சிவபெருமானது கருணையைப் பெறாமையால், தலை, முகம், கை, தோள் என்பவற்றை இழந்த குற்றவாளிகள் முறையே, 'மால், அயன், தக்கன்' என்பவரும், சூரிய சந்திரர் கலை மகளும், அக்கினிதேவனும், அழகிய இந்திரனும் ஆவர்.`,
   },
   {
@@ -464,6 +685,14 @@ Instead in self-seeking power evoke
 Sacrificial mantras in Japas numberless
 That verily will spell
 Their own deadly end.`,
+    elaborationEnglish: `Use the silent Pranava to rouse the Kundalini from
+the Muladhara
+
+And chanting the Pranava control the mind,
+
+And with the help of Ajapajapa rise to the heights.
+
+Neer yssons MNearwGeN Cargssaict`,
     elaborationTamil: `தம் ஆசிரியர் தம் செவியிலே சொல்லக் கேட்ட மந்திரத்தை அவ்வாறே பொருளறியாது ஒப்புவிக்கின்ற அதனையே தவமாகக் கொண்ட நிலத்தேவர் (பூ சுரர்) ஆகிய அந்தணர்கள் அந்நிலை பிறழ்ந்து தக்கன் ஆணைவழியே யாகசாலை அமைத்து, அதில் நெருப்புக் குண்டம் விளைத்து, சிவபெருமானைப் புகழ்ந்து கூறும் மந்திரங்களைப் பிறரைப் புகழ்ந்து கூறும் மந்திரங்களாக மாற்றும் முகத்தால் அப்பெருமானை இகழ்ந்து, தாங்கள் நலம் பெற நினைத்து மிகச் சொல்லிய மந்திரங்கள், அவரையே கொல்கின்ற மரண மந்திரங்களாய் விட்டன.`,
   },
   {
@@ -484,6 +713,8 @@ For the holy ones to delight"
 And the Lord, who bending His Mountain -bow
 Sent forth shafts of fire at Asura's city
 Destroying the evil ones, never to rise again.`,
+    elaborationEnglish: `AMSSTA FOLUANSd 394 Sgnencs
+MAST wg ssae Cacraow oF ws`,
     elaborationTamil: `நல்லோர்கள், நவகண்டமாகிய ஒன்பது கூறுபட்ட இடங்களிலும் துன்பம் நீங்கி இன்புற்று வாழ்தற் பொருட்டுத் தேவர் பலரும், 'எமக்கு விரைந்து அருள்செய்க' என வேண்ட, மலையை வில்லாகக் கொண்ட சிவபெருமானே, தீய அசுரர்கள் அழியும்படி ஒளிவிடுகின்ற நெருப்பாகிய அம்பைத் தொடுத்தான்.`,
   },
   {
@@ -506,6 +737,9 @@ And yet turning back
 As they repented and prayed
 He blessed them all,
 He our Lord of holy speech.`,
+    elaborationEnglish: `TANTRA TWO ; S57
+
+5. gerund`,
     elaborationTamil: `சிவபெருமானை இகழ்ந்தமையால் அப்பொழுதே செத்தவனாகிய தக்கனது வேள்வியை அழியுமாறு வைதும், பின்னர் அழிந்த அனைவரையும் மீள எழுமாறு வாழ்த்தியும் அருளிச் செய்த வாய்மையை உடைய எங்கள் உமாதேவியே, யாவர் தங்கள் மனத் திட்பத்தை இழந்து நிலைகலங்கிப் பிறரைச் சார்ந்தபோதிலும், நீ நிலை கலங்காமலே நின்று அன்போடு அணைவது எங்கள் சிவபெரு மானையே யன்றோ!`,
   },
   {
@@ -527,6 +761,13 @@ And then from amidst the floods arose
 As an immeasurable mountain of Light
 The One Lord, manifesting the Truth,
 And thus blessing both.`,
+    elaborationEnglish: `Mantra 362-365
+
+At the yugas end when cataclysmal floods swallowed the earth,
+Brahma, Vishnu and other denizens of the celestial world
+sought refuge in Siva, and Siva saved them from disaster.
+
+ADOVFL WV om Ms Foot ss curGornt`,
     elaborationTamil: `கரிய மலைகள் பலவற்றையும் உள்ளடக்கிக் கொண்டு மேல் எழுந்து பரந்த பிரளய வெள்ளத்திடையே மால், அயன் இருவரும் தாமே தலைவர் எனத் தனித்தனிக் கூறிப் போர்புரியச் சிவபெருமான் ஒருவனும் அந்நீர் வறப்பச் செய்து அவர்க்கிடையே ஓங்கிய ஒளியாகிய, அணுகுதற்கு அரிய நெருப்பு மலையாய் நின்று, பின்னர் அவர்கட்கு அருள் செய்தான்.`,
   },
   {
@@ -547,6 +788,8 @@ The mortal ones
 Powerless to stand the Fire-Mountain's radiant glow
 Rushed to the surging waters in trembling fear;
 The Lord then said to them: "Fear not! you shall be saved."`,
+    elaborationEnglish: `THE OD GOipw gn@encr Deny Gh & Our
+MNerso Qewigar GoOwows sup`,
     elaborationTamil: `சிவபெருமான் பிரளய வெள்ளத்தில் மேற்கூறிய வாறு அனற்பிழம்பாய்த் தோன்றியபொழுது அலைகின்ற கடலை ஊடறுத்துக் கீழ்ப்போகியும், வானத்தை ஊடறுத்து மேற்போகியும் அடி தலை தெரியாவகை நின்று, 'தேவர்க்கும் முதல்வன்' என்னும் சிறப் பினைத் தான் உடையவனாய் இருத்தலின், உலகம் தான் கொண்ட தழல் வடிவைக் கண்டு வெருண்டு அதனுள் வீழ்ந்து ஒடுங்காதவாறும், அதனினின்றும் சேய்மையில் ஓடிப் பிரளய வெள்ளத்தில் வீழ்ந்து அழியாதவாறும் அவற்றிற்கு, ''அஞ்சல்'' என்று அபயந்தந்து காத்தருளினான்.`,
   },
   {
@@ -566,6 +809,7 @@ The ocean of immortals and Devas sang;
 Little do they know
 That He who created the ocean and the firmament
 Rises beyond to the Ocean of his benignant grace.`,
+    elaborationEnglish: `BanssQ5a0 ont MH SL Gove) Qos`,
     elaborationTamil: `தண்ணிய கடல் பொங்கி வந்து மலைகளை மூடிய நிலையின் நீங்கி அடங்கிற்று; எனவே, பிரளய வெள்ளம் வற்றிற்று. அதுபொழுது தேவர்கள், 'ஏழ்கடலோடு பெரும்புறக் கடலும் தன்னைச் சூழ்ந்து நிற்கத் தான் ஓங்கிய அழலாய் நின்றவன் எங்கள் சிவபெருமானே' என அவனைப் பலவாற்றால் துதித்து வணங்கினர். அதன்பின்பு அவர்கள் விண்ணுலகத்தைக் கடல்போலப் பரக்க அமைத்துக்கொண்டு, அங்குச் சென்று குடிபுகுந்தனர். அதன்பின்பு அவர்கள் தங்கள் சுவர்க்க இன்பத்தில் திளைக்கின்றனரேயன்றிச் சிவபெருமானை நினைந்து காதலாகிக் கசிந்து, கண்ணீரால் கடலை உண்டாக்கும் எண்ணமே இலராயினர்.`,
   },
   {
@@ -586,6 +830,13 @@ That thinking thus holds Him to heart?
 When the oceans ebbed and roared
 He placed the Primal Fire to quell the tides;
 How compassionate He was!`,
+    elaborationEnglish: `-That thinking thus holds Him to heart?
+-‘When the oceans ebbed and roared
+
+He placed the Primal Fire to quell the tides;
+How, how, compassionate He was!
+
+usrinp Aewanf ut@Oeer meyer`,
     elaborationTamil: `சிவபெருமான் ஒளிப் பிழம்பாய்த் தோன்றிப் பிரம விட்டுணுக்களது மயக்கத்தை நீக்கித் தெளிவித்தபின், யாவரும் திசை தெரியாது திகைக்கும்படி எழுந்த பிரளய வெள்ளம் குறையச் செய்து, பின்பு கடல் ஒலிக்கின்ற ஓசை மிக, அதனைக் கேட்டு அக்கடல் அடங்கி என்றும் அளவுட்பட்டு நிற்குமாறு அதன் நடுவில் வடவைத் தீயை வைத்தான். இவ்வாறு ஒன்றோடு ஒன்று ஒத்தும், ஒவ்வாதும் நிற்கும் ஆற்றல்களை ஏற்குமாற்றாற் கூட்டி உலகம் நெறிப்பட்டு நடக்குமாறு ஆக்கிக் காத்து நடத்த வல்லவனும், அவ்வாறு தன்னை ஆக்குவார் ஒருவர் இன்றித் தானே என்றும் ஒருபெற்றியனாய் நிற்பவனும் ஆகிய அப்பெருமானை அத்தன்மையன் என்று அறிந்து துதித்து உளத்துள் இருத்த வல்லவர் இவ்வுலகத்து உளரோ! இல்லை.`,
   },
   {
@@ -624,6 +875,16 @@ Then away flew his heavenly discus,
 Atop the Silver Mountains
 Of the Lord of Celestial Beings
 That created the seven worlds of delight.`,
+    elaborationEnglish: `Then the Lord of the Silver Mountain made the
+discus fly away
+And it orbited around the seven worlds.
+
+Vishnu worshipped Siva who granted him the powerful discus.
+But such was the potency of the weapon that it had to be.
+split by Siva — one half going Vishnu and the other half
+to Sakti, nonseparate on Siva's side.
+
+ey eee eee`,
     elaborationTamil: `'திருமால் அறத்தை அறிவுறுத்தும் ஆசிரியன்' என்னும் சிறப்பு நிலைபெறுதற் பொருட்டு, இவ்வுலகில் கீழோர் தம் அகங்காரத்தை வெளிப்படச் செய்யும்பொழுது, அவனது கையோடே சக்கரப் படையும் அகங்கரித்தவர் மேற்சென்று அழித்து நிலை நிறுத்தும்படி, திருக்கயிலையில் வீற்றிருக்கின்ற தேவர் தலைவனாகிய சிவபெருமான் ஏழுலகத்து இன்பத்தையும் படைத்துள்ளான்.`,
   },
   {
@@ -641,6 +902,9 @@ He bestowed on Damodara the divine discus,
 But potent far was it for him to hold
 And so he prayed to the Lord in fervour
 And the Lord split its power in twain.`,
+    elaborationEnglish: `But potent far was it for him to hold
+And so he prayed to the Lord in fervour
+And the Lord split its power in twain. °`,
     elaborationTamil: `சக்கரத்தைப்பெற்ற திருமால் பின்பு அதனைத் தாங்கும் ஆற்றல் இல்லாமையால் மீளவும் சிவபெருமானை அன்புடன் வழிபட, அவர்க்கு அதனைத் தருதற்பொருட்டு அப்பெருமான் தனது சத்தியைத் கூறிட்டமை வியக்கத்தக்கது.`,
   },
   {
@@ -658,6 +922,10 @@ Splitting thus the power of goodly Chakra
 One part He gave to Vishnu,
 One part He gave to Sakti,
 And that part He on His forehead assumed.`,
+    elaborationEnglish: `And the other half as body to Sakti,
+And thus He remains.
+
+Sssscrpor Gareralucs snGur soorgsranes`,
     elaborationTamil: `சிவபெருமான், சலந்தராசுரன் உடலைப் பிளக்கக் கருதி உண்டாக்கிய சக்கரத்தைத் திருமாலுக்கு உரியதாகக் கொடுத் தான்; அதன்மேலும், அச் சக்கரத்தைத் தாங்குதற்பொருட்டுத் தனது சத்தியைக் கூறிட்டு அவனுக்குக் கொடுத்தான். அச் சத்திக்குத் தனது திருமேனியையே கூறிட்டுக் கொடுத்தான்.`,
   },
   {
@@ -677,6 +945,9 @@ Damodara aimed his discus;
 And then the doughty Lord sent forth a sneeze;
 And lo! a gusty tempest blew
 And down fell discus, powerless against Supreme God.`,
+    elaborationEnglish: `aebuer weiipy camer gh
+
+ogibym sunegb cha cw`,
     elaborationTamil: `தக்கன் வேள்வியை அழித்த சிவகுமாரராகிய வீரபத்திரர்மேல் திருமால் போருக்குச் சென்று சந்திரனை அணிந்த அவரது தலையை அறுக்க என்று, முன்பு தான் சிவபெருமானிடம் பெற்ற சக்கரத்தை ஏவ, அஃது அவர் தமது வாயாற் செய்த உங்காரத்தாலே நாணி வலியிழந்தது.`,
   },
   {
@@ -696,6 +967,24 @@ But the Lord did bedeck Himself in Skull and Bone
 How is it?
 If He bears not skull and bone.
 Dust unto dust will theirs be.`,
+    elaborationEnglish: `But the Lord did bedeck Himself in Skull and Bones
+How is -it?
+
+If He bears not skull and bones.
+
+Dust unto dust will theirs be.
+
+Siva wears the garland of skeletons and skulls strung from
+crowned heads of the celestials. Why does He do so? That
+they may not turn into dust forever; that they may yet be
+redeemed. 4
+
+& gyn Core
+:IN SEARCH OF CROWN AND FEET OF SIVA
+
+Ugwgih wrgyib UpnGerpren stoners
+Goncune swargsih Gumsemw wire
+une sororiks uTsgiper . Abs`,
   },
   {
     id: 373, tantraId: 2, verseNumber: 372,
@@ -713,6 +1002,13 @@ Each bragged Himself as Lord Supreme;
 Then as a pillar of Fire the Lord stood before them
 And they search and scream
 In vain His Feet to behold.`,
+    elaborationEnglish: `Mantras 272-380
+
+The story of Brahma and Vishnu vainly seeking to see the
+peak and bottom of Siva, who stood before them as a
+monument of fire, is again recounted here.
+
+HG (PAGO Harms crovront ays`,
   },
   {
     id: 374, tantraId: 2, verseNumber: 373,
@@ -731,6 +1027,7 @@ He who fills the seven heavens
 He who stood as Pillar of Fire
 The seven worlds pervading,
 He of the bejewelled throat.`,
+    elaborationEnglish: `STeygyd GH s sorwoH wus p`,
   },
   {
     id: 375, tantraId: 2, verseNumber: 374,
@@ -749,6 +1046,8 @@ Transcending sun and moon
 He pervades the Cosmic space--
 Holy thus His Form of yore
 Support of Universe vast.`,
+    elaborationEnglish: `Acrorer HNvepip somrsgior Falwow
+Qecrnont Aout Dowy Gone`,
   },
   {
     id: 376, tantraId: 2, verseNumber: 375,
@@ -785,6 +1084,7 @@ And Brahma
 Whom the rishis in hymnal praise please,
 The two in ego contended
 For primacy to gain.`,
+    elaborationEnglish: `omer 5 Hor 2atGor 2. uITtGuTe -2 cr iherm`,
   },
   {
     id: 378, tantraId: 2, verseNumber: 377,
@@ -802,6 +1102,29 @@ The comely lord on dark sea sleepeth
 They both are of the essence same
 Of the One Great who cognises all,
 As unto life within the fleshly body.`,
+    elaborationEnglish: `They both are of the essence same
+
+As the Great, One who cognises all,
+As unto life within the fleshy body.
+
+AO sarge DSSS UTE
+
+Know God’s Truth and Be Blessed Now and
+Hereafter
+
+Know afore
+
+The Truth of Divine flame that enveloped all
+
+And hold fast unto that;
+
+Then may you receive
+
+The sceptre to -hold domain over earth
+
+And the Grace to follow in heaven above.
+
+aurerOanOs srencr ouput. Ggeurecir`,
   },
   {
     id: 379, tantraId: 2, verseNumber: 378,
@@ -840,6 +1163,20 @@ He granted me Himself
 He granted me Bliss
 And His Feet's grace as final prize;
 They approach not His Feet thus.`,
+    elaborationEnglish: `‘To Beings Celestial\\that prayed to Him
+
+But they know Him! not entire
+
+As I who His vassal became;
+
+He granted me Himself
+
+He granted me Bliss
+
+And His Feet’s grace as final prize;
+They approach not His Feet thus.
+
+amp gpa alps Dachitiu@w`,
   },
   {
     id: 381, tantraId: 2, verseNumber: 380,
@@ -860,6 +1197,11 @@ And on this bowed head decree my Fate,"
 And the Lord,
 Surpassing far the dazzle of the sun at end of Time
 Revealed Himself as Light Pure.`,
+    elaborationEnglish: `9.- LI@IL_ GEO
+
+%AGur _ssb Bors ustugh
+Gurgi s7su yom GW vote
+Gerh wsahh ussGsrerms Csrorpions`,
   },
   {
     id: 382, tantraId: 2, verseNumber: 381,
@@ -877,6 +1219,10 @@ In pure Consciousness consorted with Paraparai
 And in that Light Pure arose Param;
 And from union of Param with Parai immaculate
 Was Nada born.`,
+    elaborationEnglish: `And from union of Param with Parai immaculate
+Was Nada born.
+
+Cubs gz Gram Siew ns sor`,
   },
   {
     id: 383, tantraId: 2, verseNumber: 382,
@@ -911,6 +1257,7 @@ From thence evoluted Maya
 Latent in Sakti like lustre in crystal
 Mighty its power
 Beyond power of speech to recount.`,
+    elaborationEnglish: `Biases BTSsb sooorsOsrG Msg ourwics`,
   },
   {
     id: 385, tantraId: 2, verseNumber: 384,
@@ -929,6 +1276,12 @@ Then did Nada with Bindu;
 And further on Sadasiva with Sakti;
 Thus was Maan born
 The finite support of elements five.`,
+    elaborationEnglish: `Anava Sakti then acts on the prakriti maya (material) sphere.
+This sphere is known as ‘maan’ or ‘mahat’. From maan
+evolves the five elements—earth, water, fire, ether and space.
+
+uididraee cre cuny wartgHOw
+BAhwser epg DePimsig Ysuorde`,
   },
   {
     id: 386, tantraId: 2, verseNumber: 385,
@@ -949,6 +1302,14 @@ Thus they formed in succession
 The elements five;
 They were for the universe
 The nectar unto Flower.`,
+    elaborationEnglish: `From Maya appeared. the five subtle essences-
+
+And from them the five gross elements (Bhutas)
+From the Vyahruti Bhu has arisen the present world.
+
+Yyoactb ust_uunrégu ysSor gout
+
+Yyoornd uc vured plone wires`,
   },
   {
     id: 387, tantraId: 2, verseNumber: 386,
@@ -966,6 +1327,8 @@ He has sons five
 The Holy One that creates universe all
 Himself as lotus-seated Brahma
 The Creator became.`,
+    elaborationEnglish: `“The Five manifestations are Sadasiva, Mahesvara, Rudra,
+Brahma and Yishnu.`,
   },
   {
     id: 388, tantraId: 2, verseNumber: 387,
@@ -1001,6 +1364,7 @@ From Wind emanated light
 From Space emanated sound
 From Water emanated earth
 This the way the elements five evoluted.`,
+    elaborationEnglish: `ACLS Fost Fsenocugyd, $3 BDuyw`,
   },
   {
     id: 390, tantraId: 2, verseNumber: 389,
@@ -1018,6 +1382,9 @@ With Hari who spat out the seven worlds
 With Brahma, the four headed maker
 The Primal One, the Lord of Celestial Beings
 Created, of yore, this universe vast.`,
+    elaborationEnglish: `art
+
+Taga Soo worilens Gwoewer`,
   },
   {
     id: 391, tantraId: 2, verseNumber: 390,
@@ -1036,6 +1403,15 @@ With Hari in the ocean bed
 And Brahma on the blooming lotus
 Created life
 By Consciousness Pure.`,
+    elaborationEnglish: `Thus, ultimately it is the Primal One who created this vast
+universe by pure consciousness. It was He who created
+Brahma, the creator, and Vishnu, who contains in himself
+the seven worlds.
+
+Sor AAI SOGHOSHGL Hormacr
+Brocmer Herm SO crip HG
+
+urgorer AoaAIMnusepQewuyrd wsrerupsasr`,
   },
   {
     id: 392, tantraId: 2, verseNumber: 391,
@@ -1052,6 +1428,11 @@ He is the First Cause,
 All-pervasive in love;
 He is Vishnu; He is Brahma,
 He is Veda, the Cosmos, the Abiding One.`,
+    elaborationEnglish: `He is the First Cause: He is Vishnu; He is Brahma; He is
+Veda; He is the cosmos. All, all, are diverse manifestations
+of the Ever-abiding Compassionate One.
+
+UUs STibUG Lobos Ceuwu`,
   },
   {
     id: 393, tantraId: 2, verseNumber: 392,
@@ -1068,6 +1449,11 @@ A rare Ruby--He is easy of reach,
 The One Lord--He is easy of love,
 He is the light within Brahma;
 And now I know why the Creator does it easy so.`,
+    elaborationEnglish: `The One Lord—He is easy of love,
+He is the light within Brahma;
+And now I know why the Creator does it so easy.
+
+GuréGb asad yolsor aqoryls`,
   },
   {
     id: 394, tantraId: 2, verseNumber: 393,
@@ -1086,6 +1472,9 @@ And in that hour when by His Thought
 He Commenced the act of Creation
 He fills and pervades in eight directions
 He, the Compassionate One.`,
+    elaborationEnglish: `TH
+
+Berm gréG Hwwosvencres corgulr`,
   },
   {
     id: 395, tantraId: 2, verseNumber: 394,
@@ -1103,6 +1492,16 @@ And as He created me too,
 He animates within me
 A support to the body, an heir to karmic ills;
 Verily, the Lord is the Just one.`,
+    elaborationEnglish: `Verily, the Lord is the verily Just.
+
+The immaculate One, who creates all, who creates the bodies
+and milieus for jivas too, according to their karmic desert.
+That is His act of divine justice. In the act of creation He
+stands adorning death’s bones and konrai’s blooms gleaming ©
+as pure gold. He beckons to departed souls as the Final Refuge
+of Becdming. He enters within jiva and cognises all.
+
+Gurhcrm Suc YySGsgIL onuiacren`,
   },
   {
     id: 396, tantraId: 2, verseNumber: 395,
@@ -1120,6 +1519,8 @@ He stands adorning death's bones and konrai's blooms,
 His resplendent Form out-shines red-hot gold;
 A refuge vast of all departed life;
 The Lord that performs the act of Becoming.`,
+    elaborationEnglish: `Qoaur Mercrumt Ob crdord MeonorsGw
+uGumac Gsrpib Uwe ainer`,
   },
   {
     id: 397, tantraId: 2, verseNumber: 396,
@@ -1137,6 +1538,7 @@ The play of Two produced all;
 With seasons changing, diverse the produce;
 When He-and-She in holy union join
 Complete be the act of creation.`,
+    elaborationEnglish: `YGSSO curcrweit Gugienp ys Gsar`,
   },
   {
     id: 398, tantraId: 2, verseNumber: 397,
@@ -1154,6 +1556,9 @@ So does Hari that wields the Chakra;
 And so too Brahma on the lotus flower seated;
 They Three stood within
 As treasure-heap of cognition all.`,
+    elaborationEnglish: `iy et yoda ee
+
+Srtu sijes FET SOL (WPOp`,
   },
   {
     id: 399, tantraId: 2, verseNumber: 398,
@@ -1174,6 +1579,13 @@ Creation, preservation, destruction, obscuration and redemption-
 As One from the other in causative succession;
 Born as they were of the Anava Sakti,
 Of Anava they were not rid.`,
+    elaborationEnglish: `Out of apara bindu uniting with anava {ichcha) sakti in the
+impure maya sphere, were born the five Gods—Sadasiva,
+Mahesvara, Rudra, Vishnu and Brahma—to perform their five
+respective functions; and being born of anava sakti they were
+not free from the taint of the individualising malam {anava
+
+Loapw arm wunGur subalis`,
   },
   {
     id: 400, tantraId: 2, verseNumber: 399,
@@ -1192,6 +1604,7 @@ The rest of Mayas three (Suddha, Asuddha and Prakriti)
 (The Bindu was of Nada born)
 And Nada was of Parai born;
 And all this in the Creative play of Parasiva, the Unltimate.`,
+    elaborationEnglish: `loratw Fear ~37orrse Ogwerrb`,
   },
   {
     id: 401, tantraId: 2, verseNumber: 400,
@@ -1228,6 +1641,10 @@ From Bindu by Orderly triangle denoted
 The honeyed Sakti Tripurai devoluted;
 She it is the Compassionate Sadasiva became;
 She it is the five merciful deeds performs.`,
+    elaborationEnglish: `She it is the Compassionate Sadasiva became;
+She it is the five merciful deeds perform.
+
+srjes! aru wiss Sebsocr`,
   },
   {
     id: 403, tantraId: 2, verseNumber: 402,
@@ -1253,6 +1670,7 @@ Sadsiva that stood as One
 Animated Maheswara;
 And then Hara, Hari and Brahma,
 Thus did the One become the familial Five.`,
+    elaborationEnglish: `beng) Dewi wonilens Guawen`,
   },
   {
     id: 404, tantraId: 2, verseNumber: 403,
@@ -1269,6 +1687,8 @@ Sadsiva that stood as One
 Animated Maheswara;
 And then Hara, Hari and Brahma,
 Thus did the One become the familial Five.`,
+    elaborationEnglish: `eoug Gnoe Gab UumML_ssrer
+EGoug Gorm Gas get gsgsnor`,
   },
   {
     id: 405, tantraId: 2, verseNumber: 404,
@@ -1285,6 +1705,7 @@ The One alone created the worlds seven;
 The One alone spanned the worlds seven;
 The One alone survived the worlds seven;
 The One alone pervaded body and life.`,
+    elaborationEnglish: `Osisr nagucrancr Soicsomat sTLDQ)cnm`,
   },
   {
     id: 406, tantraId: 2, verseNumber: 405,
@@ -1321,6 +1742,9 @@ He brings body and soul together in birth;
 Even in the heart of those who doubt Him, He is;
 And from there He seeks them;
 This I have known Him oft perform.`,
+    elaborationEnglish: `goru Goo Gadpnb ueotlug id
+gomw Gna w Gap going
+gorw Goro ew Gaips gioouugb`,
   },
   {
     id: 408, tantraId: 2, verseNumber: 407,
@@ -1349,6 +1773,15 @@ Together stirred and Commingled the Family Impure (of matter)
 The Two then besought of the Lord:
 "What shall we make? Command us, O Lord"
 And the Lord Himself then spells them out.`,
+    elaborationEnglish: `63
+
+The Two then besought of the Lord:
+
+‘‘What shall we make? Command us, O Lord’’
+And the Lord Himself then spells it out.
+
+aun Osaruss sroTgGg mrulgw
+Qurwvtun OW ysayb weflstac.`,
   },
   {
     id: 410, tantraId: 2, verseNumber: 409,
@@ -1366,6 +1799,7 @@ Through creations four and eighty lakhs of species
 He filled as life within;
 Then men who in doubt ask: How is it?
 Are verily to enveloping darkness condemned.`,
+    elaborationEnglish: `MPS5a FHI Yahoos unoisor`,
   },
   {
     id: 411, tantraId: 2, verseNumber: 410,
@@ -1383,6 +1817,160 @@ The space, air, fire, water and earth
 The sound, word, mind andd the like
 All these were of Maya born,
 In union with Bindu.`,
+    elaborationEnglish: `The Supreme One, Siva/Sakti, the Transcendent/Immanent
+One, encompasses all—He is both absolute and relative reality.
+Siva as Parasivam is the impersonal, Absolute, the static aspect
+that transcends both subtle and material existence. Siva as
+Sakti, the immanent pure consciousness or energy is the
+dynamic aspect of existence, the power and substratum of
+all form. Sakti ubiquitously energizes the sphere of pure form
+or: suddha maya; the intermediate sphere of impure form or
+asuddha maya; and the lowest sphere of physical matter or
+prakriti maya. The One Sakti is all three—the suddha, asuddha
+and prakriti mayas.
+
+Thus the act of manifest creation is a series of graded
+devolution of the pure spirit—first the primal’ principles of
+existence: Siva, Sakti, Nada (apara) and Bindu (apara); and
+then the five Gods from Sadasiva to Brahma to perform the
+five acts. It is the total work of nine agencies—of whom the
+first Four are in the suddha maya reaims, and the other Five
+are in the asuddha maya sphere.
+
+The latter five categories then acting on prakriti maya
+produce the phenomenal world, beginning with the five
+elements, space to earth—Sadasiva leading in this process.
+
+¢ = S .
+
+The totality of creation is for the evolution of jiva—that
+they may, through experience, learn of and realise their final
+destiny of uniting in the pure Spirit.
+
+Why do souls, who inwardly share Siva’s eternal
+perfections of Satchidananda and Parasivam, need _ this
+evolution? Because each individual jiva, being temporally
+created as a divine soul-body that evolves from immaturity
+to maturity, from divine ignorance to divine sapience, is slowly
+gaining and maturing the faculties to realize its identity with
+Siva’s perfections. This evolution is effected through Siva s
+purposeful imposing of veils—anava (individualizing
+ignorance), maya (subtle and material form), and karma—over
+the awareness of the soul).
+
+The nature of jiva is one of environmental dependence.
+When he is,in the milieu of impurities, he is impure spirit.
+When he is with pure spirit, he becomes pure spirit.
+
+This body, the senses, the phenomenal world, and the
+power of sense enjoyment are created for the jiva, so that
+he may by experience learn how painful it is to be tainted
+by the triple impurities, and recurring birth and death, and
+so. be liberated to merge in the pure Spirit.
+
+The evolution of individual jivas is the primary reason
+for all the convoluted forms of creation. Why should the
+Supreme One engage Himself in it? Because of His infinite
+love for His most special creation, the jiva, who cannot mature
+into its divine fulfilment without the impetuses of the triple
+malam, just as a baby cannot mature into a great and
+productive adulthood without the appropriate and necessary
+experiences. Each jiva is given all the time, experiences and
+opportunities it needs to unfold its divinity, to realize God,
+and eventually to serve God and the Gods in helping other
+souls in their evolution.
+
+To recapitulate, Tirumular postulates four stages in the
+creation process:
+
+1} In the transcendental sphere where Paraparam uniting with
+Paraparai, evolve paranadam and parabindu, who in turn
+deyolute Parasivam and Parai. This takes place beyond the
+sphere of pure Spirit, and these six categories may be known
+as transcendental categories. They are not directly involved
+in the act of creation. :
+
+(This stage is not referred to in some of the later works on
+Saiva Siddhanta Philosophy—for instance, the Sivajnana
+Siddhiar. They present the creative process as starting with
+the nine evolutes of pure spirit who actually perform the
+process of creation).
+
+2) From paranadam and parabindu of the. transcendental
+sphere, Siva, Sakti, aparanadam and apara bindu evolve. Out
+of these four categories, Sakti manifests as the primal jnana,
+kriya and ichcha saktis; and apara bindu uniting with ichcha
+sakti evolves suddha maya. Thus in the sphere of suddha maya
+we have four primal categories, Siva, Sakti, aparanadam and
+aparabindu.
+
+3) Next, is the creation in the sphere of asuddha maya or
+impure spirit. Here aparanadam interacting on aparabindu
+evolves the Five Gods for the five acts of: bestowal of
+revelatory grace, bestowal of veiling grace, dissolution,
+preservation and creation.
+
+Asuddha maya sakti is so called, because She embodies
+the principle of egoity or anava. She is therefore known as
+Anava Sakti also. As these five Gods or aspects manifested
+from Anava Sakti, they operate within the realms of anava
+malam. e
+
+Thus these nine aspects of Siva, the former four acting
+on pure or suddha maya, and the latter five acting on asuddha
+or impure maya, together constitute the principal constituents
+of active creation.
+
+4) Then comes the creation of the phenomenal world. This
+takes place by aparabindu acting in the realm of prakriti maya,
+or material stuff. Thus was the corporeal body, with its subtle
+and gross aspects, its five sheaths, the five sense organs, five
+cognitive organs, the four internal mind organs, developed.
+Thus were millions upon millions of life’s species created.
+Thus manifested were the sun, moon, stars, the eight gods
+tuling over the cardinal directions, the sky, ether, seas, earth,
+sound, touch, sight, taste and feel. Thus were the innumerable
+worlds that constitute the cosmic universe created.
+
+All this is ultimately the work of One Being, Siva. All
+other categories are functional agencies, deriving their power
+from Siva.
+
+A word or two about the expressions, Sivam, Sakti, nadam
+and bindu. Sivam and Sakti are generally referred to as male
+and female. However, this is not to be interpreted in the
+
+biological sense. Siva is the static aspect and Sakti, the
+dynamic aspect of supreme consciousness. They do not exist
+separately. The one does not exist without the other, and
+they play their respective roles ever—static and dynamic.
+
+However, ab initio, when creation starts, there should be
+some force to release the dynamic aspect. There should be
+a third relationship between them and from out of them to
+spark off the initial vibration. That which effects this
+relationship is nadam. Literally nadam means ‘sound’, not the
+sound perceived by the ear, but the subtle unmanifested sound.
+
+When the dynamic power of creation has been thus
+released, it has to manifest itself to create forms. That first
+manifestation is known as bindu, or literally, ‘a point.’ It is
+the compactness of energy ready to produce. Shelly in his
+**Prometheus’”’ reminds us of the concept when he says,
+‘Plunge into eternity where’ recorded time seems but a point.”’
+
+Thus, both nadam and bindu are only aspects of Sakti
+in which the ‘‘germ of action increasjngly sprouts with a view
+to manifestation producing a state of compactness of energy
+and readiness to create’’, and Sakti is an aspect of Siva, the
+source of all energy. Thus Siva, Sakti, nadam and bindu can
+be seen as four inseparable entities in the chain of causation
+conjointly performing the act of creation.
+
+The actual task of accomplishing creation has been
+allotted to Brahma, who derives his power from Sadasiva,
+who in turn was evolved from ‘bindu and anava maya saKti,
+and from Siva, in the ultimate.`,
   },
   {
     id: 412, tantraId: 2, verseNumber: 411,
@@ -1432,6 +2020,10 @@ As sea, cloud and cloud-laden sky,
 Permeating all, indestructible and continuous
 The Lord stands in Majesty
 The True way that never closes.`,
+    elaborationEnglish: `The Lord stands in majesty
+The True way that never closes.
+
+C5Qb Donset_Oe Fact 21 vo uit`,
   },
   {
     id: 415, tantraId: 2, verseNumber: 414,
@@ -1468,6 +2060,7 @@ Once He stands as Pure Light,
 Once as the tempestuous typhoon,
 Once as incessant rain,
 Once as Vishu, floating on the deluge.`,
+    elaborationEnglish: `Qoauwpbd Qarus sooly wrwmMjGw`,
   },
   {
     id: 417, tantraId: 2, verseNumber: 416,
@@ -1484,6 +2077,8 @@ As love, wisdom and meekness He stands,
 As pleasure and pleasureable union He stands,
 As Time's Beginning and End He stands,
 As Five elements filled He stands in love divine.`,
+    elaborationEnglish: `Quon accrourcr auGer Mndeows
+FHOu sige G.peq ANpiging`,
   },
   {
     id: 418, tantraId: 2, verseNumber: 417,
@@ -1520,6 +2115,17 @@ He is Light Radiant; He is Consciousness inside;
 Animating life in the body
 He supports me;
 --He is Nandi.`,
+    elaborationEnglish: `He Supports Ail Worlds
+A miracle indeed it is
+To.sustain the myriad lives in the Universe;
+Not less so,
+When after total destruction
+He draws them unto Himself;
+He supports too
+That Seventh World
+The Path of yoga leads to.
+
+AHA 6 Grworct sHBuIH say.`,
   },
   {
     id: 420, tantraId: 2, verseNumber: 419,
@@ -1559,6 +2165,30 @@ Seek Him in yearning love
 Bend low on ground
 Hanker after Him life after life,
 The great One Shall Grant you the body immortal.`,
+    elaborationEnglish: `The creation that ensued thus has to be continuously sustained.
+Although Vishnu is entrusted with this task, He is onJy an
+aspect of Siva/Sakti; and so ultimately it is Siva who performs
+the task of preservation. And so He pervades all: as body
+and life, as light and darkness, as fame and ignominy, as
+oceans and continents, as space and the celesuajs, as sea,
+hill and dale—through the entirety of creation in unbroken
+continuity. He pervades our thoughts too. There He stands
+as love, wisdom and meekness as pleasure and pleasurable
+union, as the beginning and end of time. He sustains the yogic
+path that leads to the sevénth state of existence.
+
+To sustain the myriad lives in countless universes is indeed
+a miracle that staggers the imaginatidn. But even after the
+destruction of the cosmos at the end of an aeon, He draws
+the jivas to Himself, and sustains them in quiescent slumber’
+until the next cycle of creation commences.
+
+Thus Vishnu performs the function of sustenance only
+as ordained by Siva. .
+
+OO Bsr qa8LG srg
+a Sear amos. at_Lg
+mAs Ssoar qaegars aU Lg`,
   },
   {
     id: 422, tantraId: 2, verseNumber: 421,
@@ -1575,6 +2205,8 @@ With fire the Lord burnt all Space
 With fire the Lord burnt the Oceans,
 With fire the Lord burnt the Asuras
 Fire, verily, is the Lord's shaft on hand.`,
+    elaborationEnglish: `- Qawsacst apg gageh ungs
+Paoust pPisan Hargiesrtf Csorne`,
   },
   {
     id: 423, tantraId: 2, verseNumber: 422,
@@ -1613,6 +2245,7 @@ The Fire that resides in Muladhara spreads;
 And the spreading conflagration turned
 Earth and sky seem alike;
 --This the truth, imagination none.`,
+    elaborationEnglish: `usge Osis gidsrcrp LYS`,
   },
   {
     id: 425, tantraId: 2, verseNumber: 424,
@@ -1635,6 +2268,9 @@ Into the deep pit that is the Ocean,
 That Constant sings the praise of Lord
 With Chant of "Aum"
 --That Ocean too the fire gulped in fury.`,
+    elaborationEnglish: `ll. spgso
+
+FSS STB Osrponn Gsaraib`,
   },
   {
     id: 426, tantraId: 2, verseNumber: 425,
@@ -1652,6 +2288,13 @@ Daily death is the state of sense loss in sleep;
 Fated Death is no-return to waking;
 Pure Death is when the Soul reacheth inertia;
 Redeemed Death is being in Lord's Grace True.`,
+    elaborationEnglish: `_ complete actionless,
+
+The ultimate mergence is in Sivasakti.
+
+AS 550 SIG Q)rcrGiov faysod
+
+FSSEH SIT womnss5 Corwaypa`,
   },
   {
     id: 427, tantraId: 2, verseNumber: 426,
@@ -1668,6 +2311,9 @@ In Daily Death, are bodies gross and subtle transcended;
 In Fated Death, is the Mayaic body annihilated;
 In Pure Death, Mind and cognates merge in Infinite
 In Redemption Death, Siva's Grace descends true.`,
+    elaborationEnglish: `mergence, is the
+
+@S5FH SITb 21 gut basa`,
   },
   {
     id: 428, tantraId: 2, verseNumber: 427,
@@ -1685,6 +2331,8 @@ Daily Death is unto Fated Death
 And Fated Death unto Pure Death
 And Pure Death unto Redemption Death
 In that alone is the Truth--Jiva becoming Siva.`,
+    elaborationEnglish: `Assam sro pb. by.ners. urdmsdar
+&$55H Sroyph Csrun peter`,
   },
   {
     id: 429, tantraId: 2, verseNumber: 428,
@@ -1702,6 +2350,8 @@ The Daily Death in deep Sleep;
 The Fated Death that gives the soul a longer rest;
 The Pure Death that puts the Soul in primal quiescence;
 The Redemption Death that steeps the Soul in Lord's Grace.`,
+    elaborationEnglish: `uTpIiy_wAg@ib ustetvump unpre
+anprésa srgshor urwwcr Oe Quinid`,
   },
   {
     id: 430, tantraId: 2, verseNumber: 429,
@@ -1720,6 +2370,14 @@ Yet shall it not be Void again;
 In that Void, exhausted, it shall die;
 That the fate of Hari and Brahma too,
 Who the holocaust of Samhara survvive not.`,
+    elaborationEnglish: `Void the Beginning and End
+Out of Void (Siva), a plant (soul) it sprang,
+To the Void it returns;
+Yet shall it not be Void again;
+In that Void, exhausted, it shall die;
+That is the fate of Hari and Brahma too,
+Who the holocaust of Samhara susvive not.
+Sumas soillcract Geib aenergones`,
   },
   {
     id: 431, tantraId: 2, verseNumber: 430,
@@ -1739,6 +2397,31 @@ And the city where He does it
 He fashioned the body, He pervades everywhere.
 He placed the Mind and cognate tattva group besides,
 He gave us Wisdom ample to discriminate.`,
+    elaborationEnglish: `There is One who annihilates them
+
+And the city where He does it
+
+He fashioned the body, He pervades everywhere.
+
+He placed the Mind and cognate tattva group
+besides,
+
+He gave us Wisdom ample to discriminate.
+
+Mantras 429 & 430
+
+The jiva sprang as a plant out of the void, and into the void,
+it shall finally retum. Even the gods are not exempt from
+this law. Death follows birth, as the night follows day: The
+only escape from death is not to be born again. By uprooting
+karma alone, can the birth-death cycle be ended. God
+dissolves the karma; pray to Him.
+
+Rudra is the god to whom the work of destruction is entrusted,
+but the real power behind Rudra is that of Siva.
+
+oorerbalt. Gragg bwsT QGaloner
+Qoreriph Sigpyid 21 Gor Q)GsGgojtd`,
   },
   {
     id: 432, tantraId: 2, verseNumber: 431,
@@ -1755,6 +2438,11 @@ He is the One within; He is the Light within;
 He moves not a wee bit from within
 He and your heart are thus together,
 Though, the heart His Form knows not.`,
+    elaborationEnglish: `God is within us all. He is the Light within us. He does not
+move a bit away from us. Yet we do not know Him. Why
+this concealment by the Lord?
+
+HAUG sw urss HwGer sim ssoacr`,
   },
   {
     id: 433, tantraId: 2, verseNumber: 432,
@@ -1773,6 +2461,13 @@ A skeletal frame He fashioned,
 With flesh and skin He clothed it;
 Lighting then the spark of life
 To annihilation He hastened me.`,
+    elaborationEnglish: `Siva gave us life so sweet; yet, He imprisoned us in the
+
+miseries of Pasam. He builds for us a body with meticulous
+care; yet He hastens it to death. Why is this so?
+
+Qanuact wrgacr Qed usss
+Qeanuac Des QGqvGumM wrens`,
   },
   {
     id: 434, tantraId: 2, verseNumber: 433,
@@ -1790,6 +2485,7 @@ The Primal Lord fashioned this body,
 The subtle organs of sense built-in;
 Why the Holy One did it,
 The three know not the mystery.`,
+    elaborationEnglish: `omeTUG BIayot Opgebh 2 eaihS Hs`,
   },
   {
     id: 435, tantraId: 2, verseNumber: 434,
@@ -1809,6 +2505,7 @@ He is the Primal One
 Tongues praising and hearts melting,
 They seek not the path
 That leads to the Celestial Lake.`,
+    elaborationEnglish: `AGG amsQGetwyd I-A Dorae`,
   },
   {
     id: 436, tantraId: 2, verseNumber: 435,
@@ -1839,6 +2536,7 @@ My senses clamour aloud
 In desire contending;
 Save me, my Lord;
 And bless me with Your grace inscrutable.`,
+    elaborationEnglish: `etsgous Csaycr @payerif Seonca`,
   },
   {
     id: 438, tantraId: 2, verseNumber: 437,
@@ -1858,6 +2556,9 @@ And blessed me--here below,
 Well may you adore Him
 Revealing the rapture abounding and love endearing
 That too pleases Him far.`,
+    elaborationEnglish: `Pans around Heoonss wGsangon
+Oscrpm Aude s.7HAG wroveer
+bens Deu wetins Coowuwer`,
   },
   {
     id: 439, tantraId: 2, verseNumber: 438,
@@ -1874,6 +2575,8 @@ The Sadasiva that stood as one
 Animated Maheswara;
 And then Hara, Hari, and Brahma
 Thus did the One become the familial five.`,
+    elaborationEnglish: `Qousear GoNGS Derym sry.
+AGsay grt aimsed sions`,
   },
   {
     id: 440, tantraId: 2, verseNumber: 439,
@@ -1895,6 +2598,7 @@ Not doing this,
 You are like one
 Who is seated on the banks of Ganga,
 Yet remains unwashed and impure.`,
+    elaborationEnglish: `somometm Gurest. Qacoamb gGaGer`,
   },
   {
     id: 441, tantraId: 2, verseNumber: 440,
@@ -1912,6 +2616,25 @@ One God, pervades species all;
 The eye sees things several
 Yet itself it sees not;
 Thus it is, we see not the God in us.`,
+    elaborationEnglish: `The eye sees several things; yet, does it sec itself? Similarly
+is the Lard’s concealment in us.
+
+This concealment which is so mysterious is one of the Five
+acts of God. It has. a purpose, and that is to lead the jiva
+to seeking. It is by seeking God, that God can be seen. In
+the black chamber of the soul there is darkness. That darkness
+can be dispelled only by: letting in light. Seek: and you shall
+see the light-Knock and the door shall be opened. Adore, and
+He shall reveal Himself—Tirumular sings. ‘
+
+Mahesvara is the god empowered with this function, but
+his is only a delegated power. Siva is the Final Source.
+
+¢
+
+aclig Pogues wrHob gawd
+
+ey aiperw srergyibQs srucicnu`,
   },
   {
     id: 442, tantraId: 2, verseNumber: 441,
@@ -1930,6 +2653,39 @@ He is fire, earth and sky;
 Know this:
 He is the One that binds and unbinds
 The body that holds life precious.`,
+    elaborationEnglish: `He is the One that binds and unbinds
+The body that holds life precious.
+
+Having experienced pleasure and pain in life, the jivas who
+seek the Lord are bestowed grace. This bestowal of Grace
+that leads to the jiva’s redemption or liberation from the cycle
+of birth and death is the Supreme Act of God. That is the
+act that gives the ‘coup de grace to all the previous four acts
+of His.
+
+The attainment of Grace can come through total surrender
+in loving prayer, through the yoga way or through the
+
+‘realization that the All-Pervasive God is the object of all
+knowledge. And when it comes, the jiva is cleansed of its
+primordial triple impurities.
+
+This function is performed by Sadasiva.
+
+Lord is the. Substance and Architect
+
+Who seeks the luminous Nada atop
+And of its sweetness savour
+
+Know of death—no more;
+
+The Lord is the seed of all
+
+Cf Sun, Moon and Fire
+
+Of the Universe Vast
+
+The Architect that builds all as well.`,
   },
   {
     id: 443, tantraId: 2, verseNumber: 442,
@@ -1992,6 +2748,7 @@ He gifts the world for us;
 His goodness alone is goodness;
 He is of matted locks;
 He dwells in my thoughts.`,
+    elaborationEnglish: `2spgihor Gout s groom Gap i`,
   },
   {
     id: 446, tantraId: 2, verseNumber: 445,
@@ -2008,6 +2765,11 @@ In fondness for us He created the seven worlds,
 In fondness for us He created the several aeons
 In fondness for us He created the five elements;
 In fondness for us He created this body and breath.`,
+    elaborationEnglish: `69
+
+UML Sol wrenuest Hvswacr gp
+
+UML sso wrens Pocng uporGor`,
   },
   {
     id: 447, tantraId: 2, verseNumber: 446,
@@ -2025,6 +2787,12 @@ Of yore He created celetials countless
 Of yore He created species numberless
 He who of yore created all
 Himself stood as Primal Param uncreated.`,
+    elaborationEnglish: `Of yore He created worlds seven
+
+Of yore He created celestials countless
+Of yore He created species numberless
+He who of yore created all :
+Himself stood as Primal Param uncreated.`,
   },
   {
     id: 448, tantraId: 2, verseNumber: 447,
@@ -2041,6 +2809,8 @@ The Primal One created the elements five;
 The Primal One created the endless aeons past;
 The Primal One created the countless heavenly beings,
 The Primal One created and sustained as well.`,
+    elaborationEnglish: `Asani Had gep@Qure mr
+Qactmr Oerorher OnMugywb svar`,
   },
   {
     id: 449, tantraId: 2, verseNumber: 448,
@@ -2058,6 +2828,7 @@ He filled in oneness, expanding limitless
 Yet is He not easy of reach;
 Siva Himself into myriad Jivas pervaded
 In this worlds as well, He our Lord.`,
+    elaborationEnglish: `Merosier nwo NGuiywb MepuQurger`,
   },
   {
     id: 450, tantraId: 2, verseNumber: 449,
@@ -2076,6 +2847,9 @@ The precious object, beloved of immortals above,
 The Holy Form, adored of saintly beings below,
 He is the pupil of your eyes;
 He the Object of all Knowledge.`,
+    elaborationEnglish: `AGS ASurg ALF PGyGu
+
+uriws ers uvdleyn 539)Gou`,
   },
   {
     id: 451, tantraId: 2, verseNumber: 450,
@@ -2095,6 +2869,32 @@ Inseparable as water in milk
 He pervades all in union close;
 Impartial indeed His Goodness;
 Unwearied His bliss--I knew.`,
+    elaborationEnglish: `Unwearied His bliss—I knew.
+
+Even as God creates the macrocosm, He creates the BHO SOUT Host uv h
+‘Microcosm of the human body also. He enters the mother's Herts pula Au Sas ee
+
+womb and from there performs the act of SBPhng. the body : : EG2ADo A VprgnT
+
+and awakening its life. DGMer sGsG) Cons UGS
+
+BIGhe pric Is Qousss brs 88S erets: 48
+sTéGHor groan sanBerd Gur Through That Union Entered the 25 Tattvas to
+MEGA orssitus Canora worahGs Make the Infant Body
+
+prégia pranacr a0 apats . ay They who birth’s finale saw,
+
+God Creates From Within the Womb Alone knew how purusha,
+
+at ete conjoins the tattvas five and twenty Of Tattvas five and twenty,
+That in life past departed from me; _ The body corporeal entered;
+_ To my dear life awaken; None else know,
+Thus He creates, seated within the globular womb That which sought woman's birth-pit,
+He the Primal One creates In form twain, rushed within.
+_ Knowing what I am to be. .
+3 fe ADRaAD ~wsHer Goda syiy MYs5S Sis NAgss Cum
+be: Os PRerm Graggys Oegsrcir eee opas Yarengo Feng pgm Cpu
+—— Qureap Herp Qagidt Curggim sryd QumpPss yorsdy, Sd Gumbgyes spemtb`,
   },
   {
     id: 452, tantraId: 2, verseNumber: 451,
@@ -2201,6 +3001,26 @@ The sense organs Five gross,
 And the Five Subtle,
 And cognising organs four--Mind, Intellect, Will and Egoity
 And in the Centre of Forehead they all lay, concealed.`,
+    elaborationEnglish: `mM parents two in pleasure united, eer ietapm @psOsremt.  GurGs. ce
+
+was ordained, this body, ;
+
+7 Rese tome Gh ¥exine pasa, Prana Enters Jiva at Birth
+
+n that is to be, As when flower blossoms, the breeze spreads
+hour of union, He ordained; fragrance, ;
+
+ggg howd. : In space all around
+
+So does Prana over Jiva extend,
+Gently unfolding at the time destined.
+
+As He blows in the prana breath, it extends over the jiva
+as the fragrance of a flower through the surrounding air, to
+be unfolded gently: at the destined hour.
+
+Gurherm a Ob yeAearm usQ5U Ow
+BTS pb ol Oiot gray rygadujed`,
   },
   {
     id: 457, tantraId: 2, verseNumber: 456,
@@ -2250,6 +3070,7 @@ The Kundalini that serpent-like coils,
 The life breath twelve-finger breadth long,
 --If these, the Divine Charioteer drives not in,
 Verily may the infant be less than human (say, pig).`,
+    elaborationEnglish: `ID ADisAd Qonwacr mroarew`,
   },
 {
     id: 459, tantraId: 2, verseNumber: 458,
@@ -2292,6 +3113,7 @@ Who in myriad bodies has dwelt of yore,
 Now entered,
 Lo! it is dominated by Mind;
 Maya subtle pervades it.`,
+    elaborationEnglish: `adyp arbui sims wrGuwes`,
   },
   {
     id: 461, tantraId: 2, verseNumber: 460,
@@ -2313,6 +3135,7 @@ Him I seek forth, endearment increasing.ribe aroused it;
 And conferred Consciousness;
 And Maya's evolutes eight--Desires and the rest,
 Thus say scriptures, holy and true.`,
+    elaborationEnglish: `Qebured Qeonsh DGS wWacnOsulgy`,
   },
   {
     id: 462, tantraId: 2, verseNumber: 461,
@@ -2331,6 +3154,7 @@ With blood and flesh He cemented it;
 Thus did Lord fashion this body-mansion,
 For dear life to dwell
 Him I seek forth, endearment increasing.`,
+    elaborationEnglish: `GsQQeuujb gsnhier Carus source ;`,
   },
   {
     id: 463, tantraId: 2, verseNumber: 462,
@@ -2350,6 +3174,17 @@ He pervades the entire body
 And diffuses His tenderness;
 He contained the rage of fire in Muladhara
 This He ordained, in ways diverse.`,
+    elaborationEnglish: `_ He is benignant;
+
+He pervades the entire body
+
+And diffuses His tenderness;
+
+He contained the rage of fire in Muladhara
+This He ordained, in ways diverse.
+
+aipuse Oeuuwjd Nencrupm wrGor
+pus sory. ousOsip cura`,
   },
   {
     id: 464, tantraId: 2, verseNumber: 463,
@@ -2369,6 +3204,21 @@ Kept it safe from burning Muladhara Fire,
 He drew charmed circles eddying,
 Around the budding life, from Pasa harassing
 And so preserved it safe and cool.`,
+    elaborationEnglish: `The Lord takes infinite care to protect the foetus inside the
+womb for 300 days. He surrounds it with a protective ‘bag
+of waters’, keeps it from being scorched by the mother’s
+
+cat
+
+tn ie Adeel «sat re | Ls
+
+j
+
+muladhara fire; and He draws charmed circles around the
+budding life to shield it from harm. The Absolute Being stands
+as the sentinel, guarding the child in the womb.
+
+asQq pry Csreriw- Qeueirofujto`,
   },
   {
     id: 465, tantraId: 2, verseNumber: 464,
@@ -2388,6 +3238,15 @@ Inhaling eight and exhaling four
 Finger-length of breath,
 And measuring eight finger-span
 Of its own tiny palm.`,
+    elaborationEnglish: `The child born measures eight spans of its own finger length,
+because out of the 12 finger-lengths the prana breath
+constitutes, only 8 are inhaled; the other four are exhaled.
+
+/
+
+Garségiar BanQsroniths Datars Osmo
+
+gesgzit Gs QoerOLL@ eparoonesi`,
   },
   {
     id: 466, tantraId: 2, verseNumber: 465,
@@ -2405,6 +3264,9 @@ Gathering Tattvas five and twenty
 Fashioned the (five)-sheathed body;
 Munificient indeed was his gift!
 A veritable Bundle of Desire He made.`,
+    elaborationEnglish: `See SDS 2 creepy Guest YyoorpoHgib
+
+amish oorepp) Faugyb Adacos`,
   },
   {
     id: 467, tantraId: 2, verseNumber: 466,
@@ -2423,6 +3285,8 @@ And there they subside;
 So does Jiva
 That permeates macrocosm
 Surely subside in Nada.`,
+    elaborationEnglish: `QoatGurp Cupf Quagid reer
+Peai®um) guug fienw Oasresad`,
   },
   {
     id: 468, tantraId: 2, verseNumber: 467,
@@ -2443,6 +3307,21 @@ Subtle senses five;
 And other Tattvas thirty;
 And thus fashioned a body;
 A steaming cauldron with openings nine.`,
+    elaborationEnglish: `And there;
+
+With balance-like precision planted,
+Subtle senses five;
+
+And other Tattvas thirty;
+
+And thus fashioned a body;,:
+
+A steaming cauldron with openings nine.
+
+Here, Mular says the Tattvas are 35, whereas in Saivism (and
+Buddhism) they are 36, and. in Sankhya only 25 (or 26).
+
+Qanys Pout QasIgg oasswin`,
   },
   {
     id: 469, tantraId: 2, verseNumber: 468,
@@ -2459,6 +3338,9 @@ In union's rapture they kneaded the clay
 For Him to fashion sorrow's tenement;
 The kiln burnt, the pitcher emerged,
 With channels nine and Tattvas eighteen.`,
+    elaborationEnglish: `OPW t5aaehlnQuGEs Gewxrmsar
+
+Osi supiear HsHact Qu`,
   },
   {
     id: 470, tantraId: 2, verseNumber: 469,
@@ -2476,6 +3358,8 @@ You realise not the great good that wells therein;
 You seek not the Siddhis within them;
 Know this,
 The fleshy body is but of ten senses made.`,
+    elaborationEnglish: `DOL_OUSS QOMUZ suruligayd mus gs
+SLbmass stoops Oeorofuyor HHS`,
   },
   {
     id: 471, tantraId: 2, verseNumber: 470,
@@ -2495,6 +3379,17 @@ And then into the lotus-like cranium
 He lit the Fire (of Divine Jnana),
 The Lord made these,
 And Him I salute in endearment intense.`,
+    elaborationEnglish: `In this act of fashioning the corporeal body, the Divine
+Architect provides for the subtle body that consists of eight
+tattvas, the purusha body into which enters 18 avastas or
+states; the nine orifices, the six adharas, the kundalini fire
+coiled in the muladhara chakra, and the prana breath that
+measures 12 matras in length. To crown all, in the lotus-like
+sahasrara chakra in the cranium, He places the fire of divine
+jnana. é
+
+Ca. OAer Godangm Gand QuGger_r
+wpeOaar prerapse GCwrefl wwercicir`,
   },
   {
     id: 472, tantraId: 2, verseNumber: 471,
@@ -2512,6 +3407,15 @@ He kindles all life from Primal Womb;
 He stirrs the liquid-seed of Causation;
 He endows it with form expansive;
 Him I seek in heaven and earth.`,
+    elaborationEnglish: `What is the origin of this life? The Lord is Limitless Light,
+and-He kindles all life from the primordial womb of His Sakti.
+There the liquid seed of causation is stirred by nadam; and
+in bindu it attains manifest form.
+
+Wylie OuoreOu Oungss mourssden
+Srayors Sum subg. ImEAOw
+
+ior Hangop Hipwgsnrucs`,
   },
   {
     id: 473, tantraId: 2, verseNumber: 472,
@@ -2529,6 +3433,11 @@ The light of life is born shielded true;
 A bubble it is in Life's watery expanse;
 A shadow that spreads on earth below;
 Sheathed in the subtle Body-Eight.`,
+    elaborationEnglish: `The individual life is but a bubble in the Primal Life’s infinite
+expanse. It is but a shadow of the Divine Light encased in
+the subtle body that is made of the five protean senses
+(tanmatras), and the three internal instruments: mind, will and
+intelligence.`,
   },
   {
     id: 474, tantraId: 2, verseNumber: 473,
@@ -2549,6 +3458,7 @@ Know the dear Lord
 Who fastened this body-bag,
 With Desire's sticky glue
 Will in time unfasten it too.`,
+    elaborationEnglish: `asciciu Gugib Qanses uTUencr`,
   },
   {
     id: 475, tantraId: 2, verseNumber: 474,
@@ -2566,6 +3476,8 @@ A name and form it assumed;
 Then, for Jiva his redemption to seek
 He created earth and Tattvas many,
 --Thus speak the Vedas.`,
+    elaborationEnglish: `He created earth and Tattvas many,
+—Thus speak the Vedas.`,
   },
   {
     id: 476, tantraId: 2, verseNumber: 475,
@@ -2584,6 +3496,7 @@ And so as He bestows life,
 He bestows, too,
 The Loving care of foster mother twine,
 (Maya and Mamaya.)`,
+    elaborationEnglish: `uGs Herr amu vusdgyut erevovmid —`,
   },
   {
     id: 477, tantraId: 2, verseNumber: 476,
@@ -2602,6 +3515,7 @@ Together created the myriad lives,
 Their genus and species,
 And having done that, they pervaded them too;
 Oh! magnificience non-pareil!`,
+    elaborationEnglish: `Wrerug) crs cuorierm cuctefuyns`,
   },
   {
     id: 478, tantraId: 2, verseNumber: 477,
@@ -2621,6 +3535,7 @@ Male, female and hermaphrodite;
 How the father and mother at union were,
 Even so He printed the sex,
 Righteous indeed was that Lumninous One.`,
+    elaborationEnglish: `sro wnAdd soo Cpepsmapib`,
   },
   {
     id: 479, tantraId: 2, verseNumber: 478,
@@ -2646,6 +3561,7 @@ When masculine flow gushes in plenty,
 The infant born will sway the world entire;
 When masculine flow is scanty,
 Naught indeed conception is.`,
+    elaborationEnglish: `gt Seay TIRUMANTIRAM`,
   },
   {
     id: 480, tantraId: 2, verseNumber: 479,
@@ -2666,6 +3582,11 @@ To age eighty the infant lives;
 The Yogi who knows the science of breath control
 If in sex act He indulges,
 He, the vital flow, accordingly regulates.`,
+    elaborationEnglish: `If afier ejaculation, man inhales spontaneously five times, the
+infant to be born will live upto 100 years; eighty, if he inhales
+four times and so on. Only yogis who have mastered the
+science of breath can control and regulate the discharge at
+will.`,
   },
   {
     id: 481, tantraId: 2, verseNumber: 480,
@@ -2686,6 +3607,9 @@ When breath halts in mid-act
 A hunch-back will be born;
 All these apply not,
 To woman's breathing rhythm.`,
+    elaborationEnglish: `If the flow of the male discharge is slow, the offspring is
+short in stature; if sluggish, lame; if fitful and interrupted,
+hunchback.`,
   },
   {
     id: 482, tantraId: 2, verseNumber: 481,
@@ -2707,6 +3631,8 @@ If both exceed,
 A blind will be born;
 Thus is it for the infant born
 The mother's condition according.`,
+    elaborationEnglish: `Gponuybd Cawresmd Qussgs anGov
+GSypoyd ocr mb suiner DeaHraAev`,
   },
   {
     id: 483, tantraId: 2, verseNumber: 482,
@@ -2729,6 +3655,17 @@ Twins there shall be;
 If in measure equal the breath rhythm runs,
 Through nostrils right and left,
 Hermaphrodite shall be the baby born.`,
+    elaborationEnglish: `If the male breath runs dominant in the right nostril (Pingala)
+at the time of discharge, the offspring will be male; if it
+Tuns dominant in the left nostril {ida), the offspring will be
+female. If the apana breath comes up from the lower regions
+of the body system, twins will be born. If the breathing is
+through both the nostrils, the child born will be impotent.
+
+Osromi poo cumy QGEuTtEGH ESOSrIP Hd
+
+GO) ares Lg. G pad ures Gsrwer wrud@s
+Osresai pov cury Qourseu GypHy.o`,
   },
   {
     id: 484, tantraId: 2, verseNumber: 483,
@@ -2746,6 +3683,8 @@ In measure equable,
 The infant born will exceeding handsome be;
 When in both breath rhythm falters,
 No Conception will there be.`,
+    elaborationEnglish: `Gsroacmer 259u9j Danes Gwadus
+urodaats giotGor Useacr Ouray Gu`,
   },
   {
     id: 485, tantraId: 2, verseNumber: 484,
@@ -2803,6 +3742,7 @@ The Creator knew, but he told none;
 The Lord who Truth reveals is also there;
 Yet I saw not Maya,
 How cunning was her stealthy Conduct!`,
+    elaborationEnglish: `Yap 574 HwgPeawpcr Csronhu`,
   },
   {
     id: 488, tantraId: 2, verseNumber: 487,
@@ -2821,6 +3761,7 @@ And having grown to stature
 Grew to manhood here below;
 Well may it seek the Ancient One
 That before all worlds was.`,
+    elaborationEnglish: `Qushome Gursehama gOerar Haaw`,
   },
   {
     id: 489, tantraId: 2, verseNumber: 488,
@@ -2838,6 +3779,12 @@ The crow hatches it, nurses it, suspecting nothing;
 It does not move it, does not reject it,
 Does not ask why,
 So does Maya the young one foster.`,
+    elaborationEnglish: `And maya taking charge, fosters the egg that lay in the womb.
+Even as the cuckoo leaves its egg in the crow’s nest, for
+the crow to hatch and foster, so does maya perform this act
+in the womb.
+
+ASHYS mii wisp MMS GD`,
   },
   {
     id: 490, tantraId: 2, verseNumber: 489,
@@ -2872,6 +3819,8 @@ Yet is He within the littleness of this fleshly body;
 Beyond the ken of Celestials is He;
 Yet in prayer and penance
 He himself shall appear before you.`,
+    elaborationEnglish: `265595 Dauqria gau@ Caucus
+Hossa. orvnys Soewr_g Guns`,
   },
   {
     id: 492, tantraId: 2, verseNumber: 491,
@@ -2888,6 +3837,126 @@ Even unto the salt that from wavy sea emerges,
 Out of Tattvas that arose in Para,
 Was this body formed;
 To be born thus is His Grace indeed!`,
+    elaborationEnglish: `The individual body is made of tattvas that arose in Parasakti,
+like salt that emerges from the vast sea.
+
+Chapter Commentary
+
+Thus microcosmic creation, as much as macrocosmic creation,
+is the potent function of Siva/Sakti, is who pervades all
+creation.
+
+And all this elaborate and minute work of. Siva/Sakti is.
+for what purpose? That the jiva may seek liberation from
+the primordial impurities and itself become pristine Siva, the
+Pure Spirit.
+
+Mular considers birth, and hence, life itself, as a valuable
+gift.
+
+15. epas@sé Par arsed -
+
+965 Qourur a~lr_lg Doryrye
+
+AES Wl REM LLG rs
+
+a.
+
+sae te aL ee
+5
+
+i ee
+
+eT Te
+
+Play of Sakti-Siva infuses Divine Spirit
+
+Out of Sakti-Siva Play
+
+Life blossomed;
+
+And Jiva who was in pure Kevala state
+
+Of Turiya quiescence
+
+Was freed and consigned to the folds of the two
+Mayas,
+
+And the Lord then entered Jiva’s thought
+
+And suffused his being with Divine Spirit.
+
+The condition of the Jiva before birth is considered to be
+the same as what it is in the Mukti state, which is the Turiya
+state. 7 %
+
+Mantras 492-500
+
+Jivas, who are eternal, are given life and body by Siva/Sakti
+that they may rid themselves of their primordial impurities
+and become truly free and pure.
+
+These jivas are classified into three basic categories according
+to the degree of impurities they possess. In a scheme of
+evolution, the one class rises to the next by divesting itself
+of the impurities, one after another.
+
+These three catagories are called vijnanakalars,
+pralayakalars and sakalars, according to the state of. their
+evolution. Each of these three broad classifications has again
+sub-classifications, and in all the hierarchy of jivas is divided
+imto ten divisions.
+
+The-vijnanas (abbreviated form of vijnanakalars) are the
+most highly evolved souls. No longer affected by karma or
+maya, they are amenable to anava alone. They are categorized
+into four subdivisions, beginning with those of lesser evolution.
+
+First come those who are not rid of anava (egoity), but
+are in a quiescent state of inaction. Then come those who
+have realised the Self, but are still conscious of the self. Then
+are those who have reached the ranks of the Vidyesvaras.
+And above them are the seven crores of Mantra Nayakas.
+
+But all these possess the impurity of  egoity
+(self-consciousness) to some extent or other. Only the truly
+enlightended are totally rid of anava or self-consciousness.
+
+Below the Vijnanas are the pralayakalars. They possess
+two malams: anava and karma, out of the three.
+
+Among them, the first category consists of those souls
+who will attain mukti in their next life. More advanced than
+they are the jivan-muktas, who have attained enlightenment
+during their immediate incarnation. Above them in evolution
+are the 108 Mudras.
+
+All these three categories of pralayakalars possess the
+sense of self consciousness. and experience karma in
+gradations of intensity.
+
+The third major category of jivas is called the sakalars.
+
+The sakalars are encumbered by all three malams; anava,
+karma and maya. Among the = sakalars are three
+sub-classifications: those who have attained the miraculous
+powers of siddhis, but are aspiring towards eventual
+God realization; those who having attained the siddhis, are
+content with cultivating these powers; and those who are not
+performing yoga sadhana, remaining powerless to conquer any
+of the malamsy. and are simply cnmeshed in the world of
+sense experience.
+
+There are further subdivisions among these three main
+categories. These are elaborated later in ‘‘Tantra the Eighth,”
+Mantras 2229-2223 under the heading Kevala Sakala Sudham.
+
+In whatever stage of spiritual evolution they are, all jivas
+have ultimately to divest themselves of their triple malam,
+and unite with bindu and nada before they become one with
+Siva.
+
+MNF Great Frog ower wravgs`,
   },
   {
     id: 493, tantraId: 2, verseNumber: 492,
@@ -2923,6 +3992,14 @@ Vignanars true are of groups four
 Pralayakalas are of three;
 Sakalars below are another three
 Thus are Jivas grouped, ten in all.`,
+    elaborationEnglish: `-Pralayakalas are of three;
+
+Sakalars below are another three
+Thus are Jivas grouped, ten, in all.
+
+Vijnana is a term more commonly used in Buddhism, mee*>+
+ordinary or individual consciousness as opposed to Prajna
+world or Universe consciousness.`,
   },
   {
     id: 495, tantraId: 2, verseNumber: 494,
@@ -2942,6 +4019,7 @@ Those who reached the state of Eight Vidyeswaras,
 And finally are those who rank as the Seven Crores of Manthra Nayakas;
 Those who are of Egoity Impure rid
 Are the truly realised beings (no more are they Jivas).`,
+    elaborationEnglish: `Qrorc_na giatGar Agua Oyssit`,
   },
   {
     id: 496, tantraId: 2, verseNumber: 495,
@@ -2977,6 +4055,13 @@ Those who have attained Mukti (Jivan)
 Those who have attained neither
 --All powerless to conquer Malas three
 And in sound and other senses immersed.`,
+    elaborationEnglish: `Those who have attained Siddhis miraculous,.
+
+Those who have attained Mukti (Jivan)
+Those who have attained neither
+
+—All powerless to conquer Malas three
+And in sound and other senses immersed.`,
   },
   {
     id: 498, tantraId: 2, verseNumber: 497,
@@ -2998,6 +4083,51 @@ They uproot Jiva's bondage,
 End cycle of births;
 They alone are,
 Who truth of peerless Tattvas realised.`,
+    elaborationEnglish: `So are Pralayakalas of gradations three;
+And Sakalas too;
+
+Thus are there nine classes of Jivas,
+Evolving in gradations separate.
+
+MN GQia scngsgsre Ouwwew sauw
+
+Among Vijnanakalas
+Siva-State
+
+How  Sakalas
+
+Hid,
+
+- 499
+Attain
+
+Vijnanakalas may by karma assume form corporeal;
+
+But by- performing holy deeds,
+Acquire Celestial frame
+
+And higher Jnana Form;
+
+And Constant striving thus,
+
+Gain wisdom perennial
+
+They blemishless become, 3
+And in the end Siva Himself become.
+
+They become Siddhas,
+
+Attain state of Mukti Finale,
+
+They uproot Jiva’s bondage
+
+End cycle of births;
+
+They alone are,
+
+Who truth of peerless Tattvas realised.
+
+aromiu Nsgieun BTS. saoorB`,
   },
   {
     id: 499, tantraId: 2, verseNumber: 498,
@@ -3056,6 +4186,34 @@ Of one-ness with Siva Tattva;
 Albeit all three, Sakala and the rest of yore possessed,
 The primal impurities triple,
 Anava, Maya and Karma.`,
+    elaborationEnglish: `Nine Gradations of Jivas
+
+Vijnanakalas are of gradations three;
+Those who in quiescent Anava alone abide; (the
+Pralayakala among Vijnanas)
+
+The evolved souls constantly think of God, and seek the Grace
+of His Holy Feet. They are in a state of total surrender, holding
+that all that happens is destined to happen and God is the.
+witness of all. Their love for Him is ‘unintermittent, from
+cradle to the grave. They are Sivajnanis par excellence. They
+walk in the path of yama, niyama, and yoga.
+
+Give Freely to Sivajnanis
+
+Give a wee bit to Sivajnani
+You shall attain Siddhi, Mukti and heavenly bliss;
+Give a world of gold to the witless,
+
+Il r i joys.
+They are gurus, true, who impart jnana to appropriate You shall become. poor. losing: allsjoys
+
+disciples. Rid of all impurities, they are pure souls. They have
+
+SOOT 5 STGHUT Lary Om sroemask
+doubt-free vision of God. 4GS SG 9.)
+
+Osrsstyn Gs srgw@r Darsrajm Georgssmor`,
   },
   {
     id: 502, tantraId: 2, verseNumber: 501,
@@ -3090,6 +4248,19 @@ But the Lord seizes Death's life;
 Such indeed, His Prowess is;
 He blesses all who know Him true;
 They who sought Him, immortals became.`,
+    elaborationEnglish: `Death waits for the moment due
+And seizes lives;
+
+But the Lord seizes Death’s life;
+
+Such indeed, His Prowess is;
+
+He blesses all who know Him true;
+
+They who sought Him, immortals became.
+
+asdiy GaatsG anrhu sms
+Curd @ sarGer yemt wires`,
   },
   {
     id: 504, tantraId: 2, verseNumber: 503,
@@ -3107,6 +4278,8 @@ I forgot not the truth of His holy Feet;
 I gave up falsehood and sought them;
 The Feet of Lord of matted locks
 Are a Lamp no oil feeds.`,
+    elaborationEnglish: `Bae a0 apa sP~lacr
+Guracr Gurat yeu yYGoaer`,
   },
   {
     id: 505, tantraId: 2, verseNumber: 504,
@@ -3132,6 +4305,10 @@ And witnesses all:
 All things appropriate,
 He does
 To those of tender love for Him.`,
+    elaborationEnglish: `17. ouing Doub
+
+Gata aplars 6Abg EAU
+fauwb Gpremyd Qangars &555)`,
   },
   {
     id: 506, tantraId: 2, verseNumber: 505,
@@ -3151,6 +4328,14 @@ Even so is giving
 Unto those who neither good nor holy are;
 Unto a crop they are,
 Raised in season improper.`,
+    elaborationEnglish: `Do not feed them; do- not look after them; do not give
+them anything. To give’to them is a heinous crime. Both the
+giver and the receiver will be condemned to perdition.
+
+vag Guise Qww uwmAscr
+stig SPFSAY SUG wasrsacrp
+
+ao epggen, sian garaeasa`,
   },
   {
     id: 507, tantraId: 2, verseNumber: 506,
@@ -3167,6 +4352,9 @@ Give only unto those
 Who follow the way of Yoga, Iyama, and Niyama,
 And who adore Lord, in constancy abiding;
 To give those who have no love for God,
+A heinous crime, indeed it is.`,
+    elaborationEnglish: `And who adore Lord, in constancy abiding;
+To give those who have rio love for God,
 A heinous crime, indeed it is.`,
   },
   {
@@ -3189,6 +4377,7 @@ For him is not the burning hell,
 That is destined for perpetrators
 Of deadly sins five,
 Who know not consequences dire.`,
+    elaborationEnglish: `conch Weoneersnts 55 Q)GaGgw`,
   },
   {
     id: 509, tantraId: 2, verseNumber: 508,
@@ -3208,6 +4397,9 @@ Yet if you give it
 To those that adore not our Lord,
 You shall with them reach
 The Seventh Hell of ineffable pain.`,
+    elaborationEnglish: `ee
+
+Qnaranrs Gopher mrot DenotQscy`,
   },
   {
     id: 510, tantraId: 2, verseNumber: 509,
@@ -3225,6 +4417,16 @@ They take not gentle dips in them
 And drive Karma away;
 Vainly do they roam hill and dale,
 Witless men of confused mind they are!`,
+    elaborationEnglish: `Within the body itself there are many water fronts. They are
+holy. Yet men do not dip in them and get puri*ied. They
+vainly roam hill and dale in search of purificatory baths
+The Vedas, including the Rg Veda, emphasize the sacredness
+of the Waters; Power, ‘Sakti’, resides in them and they are,
+therefore, highly purifying, and powerful.
+
+sMu anniéGs souoisnis Carerpin
+GwuD ements Gs Fal_alh Qorresrmesn
+anu atrentéG anwséheyb unwsg@s`,
   },
   {
     id: 511, tantraId: 2, verseNumber: 510,
@@ -3245,6 +4447,7 @@ To Yogis who breath control;
 But sure does He
 In thoughts abide,
 Of Jnanis, who doubt-free see.`,
+    elaborationEnglish: `Oacragans sry. ONQwor Salencas`,
   },
   {
     id: 512, tantraId: 2, verseNumber: 511,
@@ -3263,6 +4466,9 @@ They of faith false;
 Limitless the flow of their evil deeds;
 Down down the deep drain it goes,
 Never its destination to know.`,
+    elaborationEnglish: `AWmPourt star $Audstencas
+
+Aeiear syanuse Deergy woman`,
   },
   {
     id: 513, tantraId: 2, verseNumber: 512,
@@ -3283,6 +4489,10 @@ Bathe in pellucid waters of Sacred Ganga
 That from Lord's crest here descend;
 You shall holy become,
 Saved of impurities sinful.`,
+    elaborationEnglish: `The Ganga, the holiest of waters is within us, even as God
+is within us. It descends from the Lord’s Crest in sahasrara
+within the cranium. If we pilgrimage to its banks in the yogic
+way, we shall bathe in it and be purified of the triple malam.`,
   },
   {
     id: 514, tantraId: 2, verseNumber: 513,
@@ -3302,6 +4512,9 @@ Within you is Nandi,
 Firm as rock of ages,
 Yet they know Him not, and seek Him not
 Lacking in Grace, they sure are.`,
+    elaborationEnglish: `SUGSH GT FLW Aausem
+
+SUGHZ ST GIL WMG Oaugagu`,
   },
   {
     id: 515, tantraId: 2, verseNumber: 514,
@@ -3319,6 +4532,9 @@ Water that mixes in body, red blood becomes
 Water that mixes in body, white semen becomes,
 Water that primal arose,
 Land, wind and rest of elements became.`,
+    elaborationEnglish: `The Holy Temple
+
+These are Agamic concepts and rituals.`,
   },
   {
     id: 516, tantraId: 2, verseNumber: 515,
@@ -3338,6 +4554,9 @@ The Kingdom will to disaster fall;
 And disease fell chased culprit to sure death;
 Thus did He declare,
 Nandi, the Divine Protector.`,
+    elaborationEnglish: `Temples are monuments that require to be preserved intact.
+Let not a linga that has been established be removed from
+its original site. Dire harm will fall on the culprit.`,
   },
   {
     id: 517, tantraId: 2, verseNumber: 516,
@@ -3356,6 +4575,7 @@ That shall spell the Crowned King's ruin;
 Be he a sage, be he one learned in Vedas,
 Sure the crisis; certain the ruin;
 --So Ordained Lord.`,
+    elaborationEnglish: `%50G Cordis sac wenpueries`,
   },
   {
     id: 518, tantraId: 2, verseNumber: 517,
@@ -3384,6 +4604,9 @@ Harm befalls the ruler;
 Scanty the rains;
 Theft and robbery abound in land,
 Thus did my Holy Nandi declare.`,
+    elaborationEnglish: `. Theft and robbery abound in the land,
+
+Thus did my Holy Nandi declare.`,
   },
   {
     id: 520, tantraId: 2, verseNumber: 519,
@@ -3402,6 +4625,59 @@ Deathly wars rage in fury
 Fell diseases spread;
 Famine stalks land--
 Thus did goodly Nandi in truth declare.`,
+    elaborationEnglish: `Manifestation of Downward-looking Face
+‘Hail. our Lord! Our God!
+
+_ Deathly is the might of Padmasura
+
+Save us, help, oh!’’
+
+Thus did Celestials to Primal Lord pray!;
+And the Primal Lord to the Six-faced God,
+Of coral hue beckoned;
+
+And said, “‘Proceed and smite the enemy.”’
+
+This Face protects the innocent, the good and the helpless.
+
+It manifested itself, when harassed by the giant Padmasura,
+the celestials appealed to the Lord to save them. Then out
+of the Fifth Face emanated His son, Subrahmanya with. six
+faces; and the Lord commanded him, “‘My Son, proceed to
+battle and smite the enemy.”’
+
+““Six-faced’” God is MURUGA (of the Tamils), who
+becomes Subrahmanya or Kumara in Sanskrit. The reference
+here is to the wars waged by Asuras and Devas to be found
+in the Puranas. When things appear to swing in favour of
+the Asuras, the devas approach Siva for aid and he sends
+his son, Kumara (Devasenapati) to their aid.
+
+DARSHAN OF DOWNWARD-LOOKING .
+
+Tirumular introduces the very unique concept of the Sixth
+face of Mukhalinga (the Adhomukha). In verse 520, we find
+Siva described as the Six-faced God, which is not known
+elsewhere.
+
+(One might even suspect that Tirumular is hereby trying very
+subtly and delicately to establish that Arumukha six-face
+headed Muruga of the Tamils, is the same as the Siva whom
+he has brought from the Sanskritic north.)
+
+In verse 523, he is described as Adhomukha (meaning
+*‘down-ward looking’) and in verse 521, the poison He had
+imbibed at the churning of the ocean colours’ the throat of
+this face blue. The implication is that this is the Compasgionate
+face of the Lord.
+
+The term Adhomukha corresponds in function and purpose
+to the Avalokitesvara of Mahayana Buddhism where he is the
+Lord of Great Compassion.
+
+Verses 543 to 548 remind us of Buddhist Sanga and Buddha’s
+advice to his disciples about the importance and value of the
+Sanga.`,
   },
   {
     id: 521, tantraId: 2, verseNumber: 520,
@@ -3441,6 +4717,7 @@ On the throat of His Downward-directed Face
 Darkness suffuses;
 They say, "He swallowed poison;"
 They are ignorant, they know not truth.`,
+    elaborationEnglish: `QurwiGu woos gi Ysapb weilstacr`,
   },
   {
     id: 523, tantraId: 2, verseNumber: 522,
@@ -3461,6 +4738,14 @@ He knows who made it so;
 When you realize the truth
 He will make,
 Celestial beings bow to you.`,
+    elaborationEnglish: `Mantras S21 & 522 ;
+The throat of the Fifth Face is suffused with darkness. Siva
+
+is blue-throated. The story goes that He swallowed the deadly ©
+poison that arose at the time of the chumming the ‘milky ocean’
+by the devas and asuras, and that it stayed-in His throat.
+But the inner meaning is something deeper. Siva alone knows.
+The knowledge of Truth is verily the goal of realisation.`,
   },
   {
     id: 524, tantraId: 2, verseNumber: 523,
@@ -3480,6 +4765,8 @@ His hue is of the twilight sun
 Who the world in glory ambulates,
 He is the Lord of the Downward-looking Face--
 Athomukha.`,
+    elaborationEnglish: `AGSTYSEH Fipestt—” wret ygresr cst
+&G5rss Denestnaeré semosiry Morey`,
   },
   {
     id: 525, tantraId: 2, verseNumber: 524,
@@ -3497,6 +4784,15 @@ Created Universe vast here below;
 In Athomukha He animates all life;
 He is Lord of Athomukha Sakti of lotus eye;
 He is Lord of Aeons' End.`,
+    elaborationEnglish: `-In Adhomukha He animates all life;
+
+He is Lord of Adhomukha Sakti of lotus eye;
+He is Lord of Aeons’ End.
+
+In this aspect-of Five-faced manifestation, Siva is Sadasiva.
+
+It is in this aspect that He creates all the universe, animates
+all life, conjoint with the Adhomukha Sakti of lotus eyes.`,
   },
   {
     id: 526, tantraId: 2, verseNumber: 525,
@@ -3516,6 +4812,21 @@ And into Limitless Energy
 Animating them;
 And then as Athomukha,
 The Lord remained as their Support as well.`,
+    elaborationEnglish: `And into Limitless Energy
+
+’ Animating them;
+
+And then as Adhomukha,
+The Lord remained as their Support as well.
+
+21. Har Apas
+
+ABUSE OF SIVA
+
+Ashag Grasgse Aposier 2 o1Gor
+asaya surg gruS) pry
+
+amhuGsrcr Seoner fet Bape j`,
   },
   {
     id: 527, tantraId: 2, verseNumber: 526,
@@ -3535,6 +4846,29 @@ Shall reach the World of Celestials;
 If the low-born think any the less of Him,
 Dismal indeed is their fate--
 Unto the parrot in cat's claw.`,
+    elaborationEnglish: `argsut ancraurt gsrerait creo
+
+Galgsut OowWsHsm Ered 2 cmgat
+
+ARMs su 3H Worencag
+
+Adore Lord and Attain Jnana
+
+The Devas and Asuras wasted their lives
+And finally died; ; :
+
+They attained not Jnana true;
+
+They alone can attain Truth
+
+Who adore Primal Lord in devotion intense.
+
+“Even the devas’, says Mular, ‘*cannot find Liberation unless
+they adore the Lord, Siva.”
+
+BHucoS Oelig,s BOC Cy ssort
+
+alums wre sist Genmcuencrei`,
   },
   {
     id: 528, tantraId: 2, verseNumber: 527,
@@ -3571,6 +4905,21 @@ And destruction met;
 However little, defy not Lord,
 Not even for fun,
 They snow-ball, one into ten.`,
+    elaborationEnglish: `They defied the Lord,
+
+Devas and Asuras,
+
+And they defied themselves one another
+And destruction met,
+
+However little, defy not Lord,
+
+Not even for fun,
+
+They snow-ball, one into ten.
+
+Gureipib wren isa wgiplencrs
+STS LTSVH SUG cargsodad`,
   },
   {
     id: 530, tantraId: 2, verseNumber: 529,
@@ -3588,6 +4937,18 @@ Knowing God is within them,
 They bethought themselves to be God
 And Plunged into pleasures distracting
 Forgetting all thought of God.`,
+    elaborationEnglish: `Forgetting all thought of God.
+
+Remember the fate that overtook the rishis that were learned
+in the Vedic lore. Postulating that God is within them, they
+presumed they themselves were God, and so plunged into
+distracting pleasures, forgetting all thought -of the Lord. (The
+reference here is to the rishis of Daruka forest, who ignored
+Siva and performed unholy sacrifice.)
+
+22. 6G spas
+
+QMUDDGS sreoguyie Cuesrmt swoutsar`,
   },
   {
     id: 531, tantraId: 2, verseNumber: 530,
@@ -3635,6 +4996,7 @@ Those who have done exceeding harm to shock them
 Their life and wealth will in a year disappear,
 True this is,
 Upon Holy Nandi, I swear.`,
+    elaborationEnglish: `Beau sormsconw Mnss BIDIG`,
   },
   {
     id: 534, tantraId: 2, verseNumber: 533,
@@ -3653,6 +5015,7 @@ The One-lettered mantra, "AUM"
 Will be a dog born,
 And after a hundred dog incarnations
 Will die a human out-caste.`,
+    elaborationEnglish: `cursos St (pid Lomiwctent Fp`,
   },
   {
     id: 535, tantraId: 2, verseNumber: 534,
@@ -3674,6 +5037,19 @@ And of kings mighty here below,
 Will alike Crumble down;
 Sure This is,
 I swear by our Nandi true.`,
+    elaborationEnglish: `83
+
+The country, people and their greatness
+Will all as one destroyed be;
+
+The thrones of heavenly king Indra,
+And of kings mighty here below,
+
+Will alike crumble down;
+
+.Sure This is,
+
+I swear by our Nandi true.`,
   },
   {
     id: 536, tantraId: 2, verseNumber: 535,
@@ -3692,6 +5068,11 @@ Forgotten will be,
 The time-honoured path of righteousness,
 And all else that to prosperity leads;
 The land a prey to famine falls.`,
+    elaborationEnglish: `Oslult wuonnvesil srefleoor omaaNr_G)
+
+Qowtulrt seems siUIGuTer a0 ® Gurreirmy tb
+
+OSI esr cwirexGurresrqy ris é`,
   },
   {
     id: 537, tantraId: 2, verseNumber: 536,
@@ -3710,6 +5091,10 @@ Who will part with milk, curd and ghee on hand
 And prefer the bitter poison, fatal?
 Such indeed are the Gurus of Karma path;
 Will they ever with Jnani compare?`,
+    elaborationEnglish: `AOL MTT Higue grsew alGorBaear
+Aor ror Hguout owGw morucr
+
+Aor IAywteos Cacweng GuSlGernt`,
   },
   {
     id: 538, tantraId: 2, verseNumber: 537,
@@ -3727,6 +5112,7 @@ Those who show animus to him,
 However humble his condition be,
 And those who abuse him as they will,
 Shall into lowly hell fall.`,
+    elaborationEnglish: `wret Qar@aloncr Srour Touerouwd`,
   },
   {
     id: 539, tantraId: 2, verseNumber: 538,
@@ -3745,6 +5131,7 @@ Those who revere him as holy,
 Are rid of harm of evil deeds done;
 Those who reach Jnani's presence.
 Will verily taste of Siva Bhoga.`,
+    elaborationEnglish: `os Hrsg HogsseHcrm Fpensyer`,
   },
   {
     id: 540, tantraId: 2, verseNumber: 539,
@@ -3763,6 +5150,18 @@ It lay besieging nose and tongue--(in Kesari Mudra)
 In the troubled thought that knows but torture,
 The only thing that stands still
 Is devotional Patience Exceeding.`,
+    elaborationEnglish: `ubled thought is a torture—vairagya or firmness in divine
+ought alone is bliss. They who Possess such firmness of
+
+_ mudra, where the tongue stops the nasal orifice in yogic
+Seg
+
+varamus lizard, which tenaciously holds to the object it
+_ seizes and does not swerve, however hard you pull the reptile. .
+
+ro
+
+ae 135 Goefucr uns vows sywiw`,
   },
   {
     id: 541, tantraId: 2, verseNumber: 540,
@@ -3785,6 +5184,7 @@ And low they bowed at His Feet,
 And prayed for His Grace,
 And the Lord blessed,
 "They shall on earth prosper high."`,
+    elaborationEnglish: `-ue an@gref unites cumpeacr`,
   },
   {
     id: 542, tantraId: 2, verseNumber: 541,
@@ -3837,6 +5237,65 @@ I live with those who sing His praise,
 The Lord blesses those who seek Him,
 With them I consort,
 Their feet I seek.`,
+    elaborationEnglish: `a ad = Fede ees eee Poe aan
+
+24. Quremyeo_ew
+
+‘And the Lord blessed,
+“They shall on earth prosper high.’’
+
+Mantra 540-542
+
+The Lord is the Supreme Yogi. In the constancy of yoga,
+He created all. He dances on the cremation ground as well.
+Such is His play. All celestials worship His throne; Hari and
+Brahma too. 2
+
+Grob eooonrbsor Gow oorenout
+
+qeoer Morse ger or tay wo0Gw. 541
+
+Lord Grants Grace to Those Who Adore Him
+
+The Lord is of wisdom ripe;
+
+He is our King,
+
+As unto an army they swell,
+
+In directions all to pray;
+
+He creates the fleshy body, |
+
+He is the Primal One of Celestial Beings,
+If you adore Him in love earnest,
+
+He will His Grace grant.
+
+Asda ors Nouwpas Gn. 542
+
+Lord’s Play
+
+Inside home and outside
+
+By force and means gentle
+
+The Lord prepared you—
+
+He dances on the burning ground;
+Many and varied are His plays.
+
+TO SEEK THE:COMPANY OF THE HOLY
+
+With them I consort, ,
+Their feet I seek. x <
+
+Mantras 543-545
+
+The Lord blesses the holy. Seek their company: Without love
+
+for the Lord, man is in Bereta distress. His thoughts quiver —
+‘like an aspen leaf.`,
   },
   {
     id: 545, tantraId: 2, verseNumber: 544,
@@ -3856,6 +5315,8 @@ My Heart!
 Yet you love not Lord;
 Do you go with me,
 To where the Lord succours.`,
+    elaborationEnglish: `QePamt Qugiut Awiss gases
+Oppsnet Dads Hernger Oaeuiujd`,
   },
   {
     id: 546, tantraId: 2, verseNumber: 545,
@@ -3875,6 +5336,30 @@ They indeed Walk in the Path of Virtue
 And are truly blessed;
 To consort with such
 Is indeed Bliss Supreme.`,
+    elaborationEnglish: `Guriys pr@erpns Qurereny Gaga
+Gsrauci_s 55959 meg wiGw. ~ 546
+
+The Holy are Kin of Lord
+
+The Holy are kin of Lord
+
+They reach the Golden Feet of Father;
+
+He, of flowing matted locks;
+
+Whose fame envelopes worlds all,
+
+He blesses those,
+
+Who seek Him in the silence of their hearts;
+
+Reach the King Almighty,
+You shall attain the Regal Goal.
+
+The holy are the kin of the Lord; they reach the Golden
+Feet of the Father. Seek them.
+
+seac_wns hermaut sear alin`,
   },
   {
     id: 547, tantraId: 2, verseNumber: 546,
@@ -3915,6 +5400,15 @@ They who stood at gate saw me,
 And announced me to the Lord;
 And the Lord said "Come in"
 And they all cried "Hail! You are the Refuge."`,
+    elaborationEnglish: `Walk with the noly men. Be a devotee of the Lord’s devotees. |
+
+The devotees reach the city of the Lord; they stand at
+heaven’s gate and pray “‘Thou art the refuge.’” The Lord sees
+them and welcomes them saying, ‘‘Come in;"’ and takes them
+into His bosom.
+
+AGOWUY ansisann eronsgiot Gsrosrmw
+Qug@weacd Garern Deep beg`,
   },
   {
     id: 549, tantraId: 2, verseNumber: 548,
@@ -3932,5 +5426,17 @@ The Devout Eminent will master eddies of birth,
 Devout Dear realizing self will immortal, remain;
 With them who are Rich in Grace
 I joined to consort.`,
+    elaborationEnglish: `Only the true devotees will master the karmic eddies; only
+they will realise the Self and achieve the deathless state. Only
+they will enter and be in God. gancy. are rich in grace. Conscr
+with them.
+
+Qc shBo7b pyre Qupys-
+Tantra Two Concluded
+
+2assor anal garm apy.w
+
+— Pengss QoTh Pegwpanp croirooh ts
+Wersb al Gb GuAGu 55D ©`,
   },
 ];

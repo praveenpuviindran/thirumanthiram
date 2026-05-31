@@ -19,6 +19,50 @@ How shall I sing His Majesty!
 He is mighty as Mount Meru,
 From whence He sways the three worlds;
 And He is the Four Paths of Saivam too here below.`,
+    elaborationEnglish: `The Lord created the world, the dwelling place of man.
+
+He holds power over the Three Worlds. He is the four paths,
+
+of Saivam too(Chariya, Kriya, Yoga and Jnana). It is
+impossible to praise Him. adequately. He was great as Mount
+Meru.
+
+Esoterically explained. Mount Meru is the universal hub,
+the support of all worlds. It.is the ‘central mountain’ of Hindu
+and Buddhist cosmography, around which our cosmos is
+arranged in seven concentric circles of oceans separated by
+intervening concentric circles of golden mountains. We may
+possibly regard it, like the ‘central syn’ of Western astronomy,
+as the gravitational centre of the known universe.
+
+The special column, the central support of the human
+body structure is; analagously, symbplised in the Tantras
+and in the works on yoga as the Mount Meru of men
+in the microcosm.
+
+Mount Meru is the king of mountains.
+
+The Sushumna nadi is the chief orthedian nerve situated
+in the hollow of the spinal column (Sanskrit—Brahmadanda)
+the Mt. Meru of the human body—man being regarded
+as the microcosm of the macrocosm.
+
+Vide “‘The Tibetian Book of the Dead,’’ translated by
+W.G. Eyans-Wentz, pp.63-65, 146, 147, 158-9, 215.
+(Editor’s note: notes 6, 7 & 8 are strictly a Meikandar
+interpretation of the following mantra.)
+
+Note: The translator has chosen here to group the first
+
+four subheadings under the title, “Suddha Saivam,’ whereas
+in the Tirumantiram the verses are categorized under these
+headings: Suddha Saivam, Asuddha Saivam, Marga Saivam and
+Kadum Suddha Saivam. Also the order of some of those verses
+had been rearranged. They now follow the original numeration
+of the Tirumantiram.
+
+FED HFSHCGH FSFSHH STM TCT O
+Asgib #9FSgC5 Getapt Gosss`,
   },
   {
     id: 1421, tantraId: 5, verseNumber: 1420,
@@ -38,6 +82,31 @@ Transcending Worlds of Pure and Impure Maya,
 Where Pure Intelligence consorts not with Base Ignorance,
 And the lines that divide Real, Unreal and Real-Unreal
 Are discerned sharp.`,
+    elaborationEnglish: `Unreal and
+
+Are discerned sharp.
+
+1} Cosmic Being
+
+2) Pure or suddha maya comprises the six highest tattva
+categories in the evolutionary scale.
+
+3) Impure or asuddha maya includes the remaining thirty
+tattvas.
+
+Others divide maya or matter in evolution into the six pure
+categories (suddha maya), six pure/impure categories
+(suddha/asuddha maya), and twenty-four impure categories
+
+4) Chit or spirit
+
+5) Achit or matter
+
+Suddha Siddhanta is, in other words, Vedanta. The Suddha
+Siddhantins receive the constant vision by scaling the heights
+of the nada sphere and attain perfection in Nadanta. They
+are capable of distinquishing between the real, the unreal and
+the real/unreal.`,
   },
   {
     id: 1422, tantraId: 5, verseNumber: 1421,
@@ -57,6 +126,22 @@ And so pass into the world of Formless Sound beyond;
 And there, rid of all impurities,
 Envision the Supreme, the Self-created;
 They, forsooth, are the Saiva Siddhantins true.`,
+    elaborationEnglish: `220
+
+And there, rid of all impurities, *
+Envision the Supreme, the Self-created;
+They, forsooth, are the Saiva Siddhantins true.
+
+The path of Suddha Saivam leads to the supreme pure state,
+devoid of all base ignorance. Yoga leads Saiva siddhantins
+into the path of jnana, and to pass into the sphere of formless
+sound. Verily, that is the goal of Saiva Siddhanta, to be rid
+of all impuntties.
+
+Mular’s Saiva Siddhanta is nothing other than Suddha Saivam
+as he expounds it in 1420.
+
+us7ss Curgrbs wis Yyores Oru`,
   },
   {
     id: 1423, tantraId: 5, verseNumber: 1422,
@@ -71,6 +156,21 @@ nātānta pūraṇar ñāṉanē yattarē`,
     english: `1422: Suddha Siddhanta is Vedanta
 Suddha Siddhanta is Vedanta;
 They who have scaled the heights of Nada sphere`,
+    elaborationEnglish: `-They become Perfection in Nadanta,
+
+They verily are the’ardent seekers of Jnana.
+
+Mular equates his Saiva Siddhanta with Vedantd, which is not
+to be confused with the . Vedanta of the schools of
+Sankaracarya,. Ramanujacarya, etc. Bhodanta is ‘quite
+apparently a reference to the ‘Bhodi’ of Buddhism. By Nadanta
+is meant apparently the Mimamsa and Spanda schools which
+emphasize the sound aspect of the Ultimate.
+
+Qoorunt Douay Gsge FMS
+
+Dacurt Aacwsgoaup ugoncr UipsHong
+Sent flncréacrl. wrnvym Gerpr`,
   },
   {
     id: 1424, tantraId: 5, verseNumber: 1423,
@@ -90,6 +190,19 @@ The twin rings in ear lobes
 The twin rudraksha garland around the neck,
 And adopt the twin Mudra
 All, in amiable constancy.`,
+    elaborationEnglish: `“Presumably, the rishaba (bull) mudra and sula (trident) mudra.
+Vide Thevaram of St. Tirunavukkarasar beginning with
+
+“Ponnar Tiruvadi.”’
+Mantras 1423 & 1424
+
+They who tread the twin paths of Chariya and Kriya remain
+in amiable constancy in thought of Siva, and, adore the
+Glorious Feet of the Lord. Their holy bodies adorned with
+the appropriate insignia, they sit still and impassive, chanting
+mantras. ‘Thus their souls ascend to Siva.
+
+Gergana Oavigs gongs witéegmis`,
   },
   {
     id: 1425, tantraId: 5, verseNumber: 1424,
@@ -112,6 +225,55 @@ And feel their way inward
 Through the twelve steps in the ladder
 Of the Soul's ascension to Siva
 Of such are the peerless school of Saivas.`,
+    elaborationEnglish: `They wear the double string of rudraksha;
+Their holy body thus adorned
+
+They sit quiescent, chanting mantras
+
+And feel their way inward
+
+Through the twelve steps in the ladder
+
+Of the Soul’s ascension to-Siva
+
+—Of such are the peerless school of Saivas.
+
+The reference is to the 12 states of consciousness
+experience in the samadhi state, The twelfth state is the Final
+State of Void from whose bourne there is no retuming. For
+elaboration of the eleven consciousness experiences (avastas)
+preceding the twelfth, vide Tantra Eight For elaboration on
+the twelfth stage of consciousness experience, vide Mantra
+1489, infra.
+
+SCL MEH QUAM BTL ost Hest cai
+STL MEH QUgM Sear sR OUTGEHT
+SCL AMEN QUMUGM STL our sor wore ,
+
+Pure Suddha Saivam (Jnana)
+
+They who transcended the nine spiritual Centres
+Verily saw God,
+
+Whom the nine continents seek;
+
+They saw the Continent beyond all continents
+They, indeed, are the Pure Suddha Saivas.
+
+Suddha Saivas transcending the nine spiritual centres see tht
+
+continent beyond the continents, and verily behold God.
+
+These are _known as avastas or states of the soul’
+experience as it travels from the navel to the forehead throug
+the heart and neck chakra centres. They represent the states
+of wakefulness, dream, deep sleep, beyond-deep-sleep and
+so op, For a fuller discussion, vide ‘‘Saiva Siddhanta,” bs
+V. Paranjoti, pp.167-69
+
+Grol yoANQwup Bers enc F got
+
+Guorer Hensujrd puperamGesrans HFS ujtd`,
   },
   {
     id: 1426, tantraId: 5, verseNumber: 1425,
@@ -147,6 +309,22 @@ And espies the Land of Mauna
 And all other land besides;
 He sees the goal of all Vedas
 And sees Lord and himself in union one.`,
+    elaborationEnglish: `And espies the Land of Mauna
+
+And all other land besides:
+
+He sees the goal of all Vedas
+
+And sees Lord and himself in united in one.
+
+The jnani holds mastery over the sacred lore on earth and
+the sixty-four attainments. He reccives the vision of all worlds,
+inclusive of the ‘land of Mauna.” He sees the goal of all Vedas,
+and the Lord Himself
+
+3. WITTER OFCuld
+
+Quncienth Acusrgy cmdyH) srgomb`,
   },
   {
     id: 1428, tantraId: 5, verseNumber: 1427,
@@ -167,6 +345,19 @@ But the path of Jnani
 Is the path that no evil ever crosses
 That his emblem, the holy path of Sanmarga (Jnana)
 So beloved of Suddha Saiva.`,
+    elaborationEnglish: `Mantras 1427 & 1428
+
+Followers of Saivam wear the golden insignia of Siva and
+the smear of holy ashes. The path of jnana is Sanmarga,
+which no evil can obstruct. It is beloved of Suddha Saivam.
+A perfect jnani is the king of the entire realm of wisdom.
+He is the sun who’ pierces the massive lore of
+Vedanta/Siddhanta. He remains immortal, devoted ever to the
+Suddha Saiva way.
+
+Cain Groh Harter yus
+
+utp. Gasrés ASsrbs UTHSHoH`,
   },
   {
     id: 1429, tantraId: 5, verseNumber: 1428,
@@ -184,6 +375,7 @@ He is the Sun, whose beams pierce the massive lore of Vedanta-Siddhanta
 His is salvation True
 He, the immortal one
 And devoted true to Suddha Saiva way.`,
+    elaborationEnglish: `BSW Qorurcr APovter prGouwp`,
   },
   {
     id: 1430, tantraId: 5, verseNumber: 1429,
@@ -201,6 +393,17 @@ In time expanded into twenty and eight,
 They then took divisions three
 Into one truth of Vedanta-Siddhanta to accord
 That is Suddha Saiva, rare and precious.`,
+    elaborationEnglish: `The nine Agamas of yore, which expanded into twenty-eight,
+took three divisions (Mantra, Tantra and Upadesa) to accord
+into one, the truth of Vedanta/Siddhanta, unique and precious
+to Suddha Saiva.
+
+By stating that the Agamas provide the base for both Vedanta
+and Siddhanta (which are equated by him), Mular makes it
+clear that the Vedanta he has in mind is not the same as
+that of the Acaryas. The one thing common to Vedanta,
+Siddhanta and Bodhanta is tH&t they all consider Knowledge
+as the ultimate path to Liberation.`,
   },
   {
     id: 1431, tantraId: 5, verseNumber: 1430,
@@ -215,6 +418,11 @@ attaṉ aruṭcatti yāyeṅku māmē`,
     english: `1430: Doctrine of Grace in Suddha Saivam
 She transcends the worlds of Matter, Pure and Impure,
 And the seven states of Turiya awareness`,
+    elaborationEnglish: `She, the Lord’s Divine Grace, and the all-pervasive Arul Sakti,
+holds superiority over the worlds of matter — pure and impure
+— the seven states of turiya consciousness, and the categories
+of real and unrea! She is the Paraparai, who is inherent in
+Para.`,
   },
   {
     id: 1432, tantraId: 5, verseNumber: 1431,
@@ -234,6 +442,11 @@ And in Mukti, in the bliss of Sakti
 They were immersed deep,
 And there
 All Siddhis abounded in surpassing prowess.`,
+    elaborationEnglish: `The siddhas are immersed in ‘Sivoham’ meditation and attain
+mukti, the bliss of Sakti. There, they abound in unsurpassed
+prowess.
+
+(Parone upwse (persi_ent. aS Ly ones`,
   },
   {
     id: 1433, tantraId: 5, verseNumber: 1432,
@@ -272,6 +485,16 @@ They followed the Twelve-Way route
 To divine rapture
 That their vision is,
 Those of Suddha Saiva Way.`,
+    elaborationEnglish: `Mantras 1433 & 1434
+
+Concentrating the thought on perfection and becoming
+unconscious of self’s existence leads siddhas to reach the end
+of the Vedas, and by following the twelve-way route they
+receive the vision of the Suddha Saiva way. Jnana stills the
+flow of thought which even yogis find it difficult to practise,
+and through destruction of the self, he finds identity in Siva.
+
+Guprer uTaicncr Cues! Opi ADmev`,
   },
   {
     id: 1435, tantraId: 5, verseNumber: 1434,
@@ -286,6 +509,13 @@ kūṟāku ñāṉi caritai kuṟikkilē`,
     english: `1434: Way of Jnani
 He stills the incessant flow of thought
 That even Yoga's severity stills not,`,
+    elaborationEnglish: `With Jnana he effaces the Self
+
+And in Bhava identifies with Siva;
+That in brief is worthy Jnani’s story.
+
+Gagsrgsm sexGiot ODoohs Gungor
+Gastgs Dears ASEIbSH Soot Gornt`,
   },
   {
     id: 1436, tantraId: 5, verseNumber: 1435,
@@ -305,6 +535,12 @@ Those who envision Nadanta
 Are yogis unwavering;
 But Siddhanta that accords not with Vedanta,
 Is the common Saiva's lot.`,
+    elaborationEnglish: `‘But Siddhanta that accords not with Vedanta,
+
+Is the common Saiva’s lot.
+
+Neorionns Oscrney sroaQuctr Cosmas
+craromcnets Gaectmssy HTL GlevenrLiLiG)d`,
   },
   {
     id: 1437, tantraId: 5, verseNumber: 1436,
@@ -324,6 +560,9 @@ They never shall touch the eye's orbs;
 Even so,
 Neither Pasu nor Pasa shall reach Him,
 Whom contemplation scarce comprehends.`,
+    elaborationEnglish: `Aen sow Horeng bas)Gu
+
+Aer ustueng Cougs urs ssp`,
   },
   {
     id: 1438, tantraId: 5, verseNumber: 1437,
@@ -343,6 +582,7 @@ Freed of all sectarian shackles;
 Adore the Feet of Paraparai
 And with Siva become One;
 That the way Siddhanta fulfills.`,
+    elaborationEnglish: `4. EOGaSS Mead.`,
   },
   {
     id: 1439, tantraId: 5, verseNumber: 1438,
@@ -357,6 +597,7 @@ cāṭum civapō takarcutta caivarē`,
     english: `1438: Suddha Saivam Defined
 They are not for outward form and attire,
 They are not for pomp and ceremony,`,
+    elaborationEnglish: `LL ener wiriotenw Lopmerer Bouts`,
   },
   {
     id: 1440, tantraId: 5, verseNumber: 1439,
@@ -376,6 +617,7 @@ All these they transcend;
 The thick layers of primal bondage they dissolve
 And of certain, realize the Self
 That the way of Siddhantins true.`,
+    elaborationEnglish: `&55F Aousjong snore Gsrunwe`,
   },
   {
     id: 1441, tantraId: 5, verseNumber: 1440,
@@ -395,6 +637,23 @@ Their Soul reaches farther out to Siva Him-self
 And merging in His union, Self-effacing,
 Themselves become Immaculate Siva
 They, forsooth, are Suddha Saivas.`,
+    elaborationEnglish: `There they but attain the status of Gods
+
+But that as a spring board
+
+Their Soul reaches farther out to Siva Him-self,
+And merging in His union, Self-effacing,
+Themselves become Immaculate Siva
+
+They, forsooth, are Suddha Saivas.
+
+Mantras 1440-1442
+
+Lingering not in maya, Suddha Saivas reach the status of Gods.
+And using it as a spring board, the soul soars to Siva Himself
+and merges in Him, Realisation of the truth that ‘I’ and *You’
+are one leads to the light of supreme jnana, illumining the
+soul’s path to the final goal of sayujya union in the Lord.`,
   },
   {
     id: 1442, tantraId: 5, verseNumber: 1441,
@@ -411,6 +670,8 @@ I sought Him in terms of I and You
 But He that knows not I from You
 Taught me the truth, "I" indeed is "You"
 And now I talk not of I and You.`,
+    elaborationEnglish: `srpph srhu ssgiag AsHssra
+Boog srBu ebgib HA _MAOw =`,
   },
   {
     id: 1443, tantraId: 5, verseNumber: 1442,
@@ -446,6 +707,16 @@ And verily is the breath of Suddha Saiva
 In this world below"-
 Thus quotes-Mula,
 Master of penances many.`,
+    elaborationEnglish: `OU PEET SOR Reet
+
+224 : TIRUMANTIRAM
+
+And verily is the breath of Suddha Saiva
+In this world below’’—
+
+Thus quotes—Mula,
+
+Master of penances many.`,
   },
   {
     id: 1445, tantraId: 5, verseNumber: 1444,
@@ -462,6 +733,19 @@ To be one, Life within Life-that the luminous path of Jnana;
 To seek the Light within Life-that the mighty path of Yoga;
 To invest idol with Life-that the external way of Kriya
 To adore Siva in love-that the basic worship of Chariya.`,
+    elaborationEnglish: `_Chariya.
+
+Mantras 1444 & 1445
+
+Jnana is to be one with Siva — life within Life. Seeking that
+light within Life is Yoga. The external acts investing an image
+with vibrant spirituality is Kriya; and to adore Siva in intense
+love is Chariya. Constant worship and adoration of His Name
+and glory make the Lord to erect a temple within you.
+
+ETD Feb FHHGs Canuvlgus
+
+uIgwWer ury. veer Lol Sc`,
   },
   {
     id: 1446, tantraId: 5, verseNumber: 1445,
@@ -479,6 +763,21 @@ Seek Him through shrine and temple
 Sing of Him as "Siva, Siva, my Lord"
 And thus do you offer worship meek,
 And the Lord will make your heart His temple.`,
+    elaborationEnglish: `Asat Parsprons, Oeor@muig) GointaGor. | 1446
+Ways of Those Who Follow the Four Paths
+
+They who follow path of Chariya are Bhaktas;
+In Kriya the devoted souls wear holy emblems,
+
+They who practise Yama and the rest are Yogis;
+
+And they who reach Siva Jnana are Jnana Siddhas
+true.
+
+Bhakta tollow the path of Chariya, and devotees wear holy
+
+svinbols in Kriya. Yogis tread the paths of yama and the rest,
+and trac siddhars attain Siva jnana.`,
   },
   {
     id: 1447, tantraId: 5, verseNumber: 1446,
@@ -511,6 +810,23 @@ Jnanis merge the I in You;
 Yogis attain Siddhi and Samadhi;
 Those in Kriya miss not daily worship;
 And in Chariya they perform pilgrimages many.`,
+    elaborationEnglish: `Mantras 1447-1449
+
+Jnanis find no difference between ‘I’ and ‘You’. Yogis attain
+siddhi and samadhi. The devotees of Kriya perform daily
+worship, and they ¢ Chariya perform many pilgrimages.
+Worshipping the form of Siva is Kriya and the formless One
+is Yoga. Jnana is the advanced path in fulness of time, and
+adoration with the loving heart is Chariya, the basic exalted
+path. These four paths of worship which give four states of
+realisation are revealed by Nandi descending from the Golden
+City to redeem the doubting humanity.
+
+1.-Siddhis — miracles
+2. Samadhi — state of quiescence when breath is controlled
+and thoughts are centred on God.
+
+aw Acs wg Hem`,
   },
   {
     id: 1449, tantraId: 5, verseNumber: 1448,
@@ -528,6 +844,9 @@ Yoga of the Formless One,
 Jnana is the advanced path in ripeness of time,
 The adoration of the loving heart is Chariya,
 Exalted indeed it is.`,
+    elaborationEnglish: `Nfanrcr Cusrgs HSS5T5S wrgmyld
+
+Ouran og55D Cuncerat Gurpsi`,
   },
   {
     id: 1450, tantraId: 5, verseNumber: 1449,
@@ -546,6 +865,10 @@ And the six schools of Vedanta-Siddhanta
 All these are truths
 That Nandi from the Golden City descending revealed
 For the doubting humanity to redeem.`,
+    elaborationEnglish: `revealed
+For the doubting humanity to redeem.
+
+sqouuis AGer_wpbd aes HraesH`,
   },
   {
     id: 1451, tantraId: 5, verseNumber: 1450,
@@ -562,6 +885,17 @@ Samaya is the ordination rite for self-surrender in Chariya
 Visesha, the rite for incantation of Siva Mantra in Kriya
 Nirvana helps Kalas purification in Yoga
 And Abhisheka for Grace to reach in Jnana.`,
+    elaborationEnglish: `Nirvana helps Kalas purification in Yoga
+And Abhisheka for Grace to reach in Jnana.
+
+The ordination rite for self-surrender in Chariya worship in
+
+Samaya Diksa, the rite for repetition of Siva mantra in Knya
+worship is Visesa in Chariya. Nirvana Diksa in Chariya helps
+purify the kalas in Yoga, and the Abhiscka rite in Chariya
+is for Grace to be reached in Jnana.
+
+uss Hoosyid wgOu0G Mswioucuposr`,
   },
   {
     id: 1452, tantraId: 5, verseNumber: 1451,
@@ -580,6 +914,15 @@ In which direction can we say is He not?
 So, do take refuge under His Holy Feet
 Then shall you cross the roaring Sea of Karma,
 And safe reach the Shores of Beyond.`,
+    elaborationEnglish: `Mantras 1451 & 1452
+
+The tempestuous sea of karma can be crossed and the shores
+beyond can be reached by seeking refuge under the Holy Feet
+of Him, who pervades the ten directions around. All the
+fragrant sandal trees and the rarest flowers can hardly take
+you to the Holy Feet of God. There is an easier way to reach
+Him —- that is, by realising His presence in the depths of
+your heart, unfettering all worldly shackles.`,
   },
   {
     id: 1453, tantraId: 5, verseNumber: 1452,
@@ -609,6 +952,21 @@ He shall seat you amidst His children of Wisdom;
 The Devas, the Beings of Heaven, bow low before Him;
 Great is His love, as of the cow to her calf;
 And bounteous His Grace, beyond beyond count.`,
+    elaborationEnglish: `The Devas, the Beings of Heaven, bow low before
+Him; —
+
+Great is His love, as of the cow .o her calf;
+And bounteous His Grace beyond beyond count.
+
+He groups you among His children of wisdom when He is
+sought with a loving heart. Great is His love and bounteous
+His Grace infinite.
+
+The simile of the cow and the calf to describe the relationship :
+between God and the individual is as old as the Atharva Veda.
+Qgiuchs ODssiriens west ovrbd srevevmid
+
+Qgiucsl uray Geuwwiosh ulecs`,
   },
   {
     id: 1455, tantraId: 5, verseNumber: 1454,
@@ -627,6 +985,19 @@ Her-He consorts, sharing Himself with Her
 To adore Him is the duty of humans here below;
 And that which fashions a place in Lord's Abode
 Is Bhakti true.`,
+    elaborationEnglish: `Is Bhakti true.
+
+a
+Mantras 1454 & 1455
+
+He is one with His consort, who fashioned this world in eight
+directions. It is the jiva’s duty to adore and worship Him.
+Commencing with the performance of Chariya and Kriya, the
+devotee is blessed with the grace of yoga pure and this takes
+him to jnana, leading finally to union with Siva, in the way
+the Guru shows.
+
+usser. Afleow slonw wuldaymms`,
   },
   {
     id: 1456, tantraId: 5, verseNumber: 1455,
@@ -643,6 +1014,7 @@ The Bhakta to begin with practises Chariya and Kriya,
 Then blessed with grace takes to Yoga pure;
 And that way reaches the path of Jnana
 And in the end by Guru's grace becomes one with Siva.`,
+    elaborationEnglish: `gpsnyper pCa Guompe Dsersacpeir`,
   },
   {
     id: 1457, tantraId: 5, verseNumber: 1456,
@@ -661,6 +1033,21 @@ At them I pray: "Lord, Grant me Your Grace!"
 And in love I melt and daily adore;
 And the Lord that is Light within my bones
 Himself does reveal unto me.`,
+    elaborationEnglish: `And the Lord that is Light within my bones
+Himself does reveal unto me.
+
+By beseeching His Grace and Love through daily worship,
+the Lord reveals Himself — He that is the light within our
+bones.
+
+Samaya, Visesa, Nirvana, and Abhiseka are four ordinations
+in Kriya worship. also.
+
+7. Gwiretb
+
+YOGA
+
+Ospanrp Gudscrp Goriomoysr Qos`,
   },
   {
     id: 1458, tantraId: 5, verseNumber: 1457,
@@ -679,6 +1066,12 @@ Unto a wooden stake they sit immobile,
 Impervious to tickle or to thrust,
 To the wise yogins who thus set their purpose high,
 Lord His Grace grants.`,
+    elaborationEnglish: `Yogis receive the Grace of the Lord when they course the
+kundalini through .the six centres, sitting immobile,
+unperturbed by tickle or thrust, concentrating on the single
+aim.
+
+ea PGar omnp woot s1@orrL tno`,
   },
   {
     id: 1459, tantraId: 5, verseNumber: 1458,
@@ -696,6 +1089,16 @@ You know Him not, albeit through aeons and aeons of time;
 The Gods-Hari of the Ocean bed and Aya, the Creator-
 In vain have sought Him through countless vista of Time
 He is at the Pinnacle, beyond, beyond their reach.`,
+    elaborationEnglish: `Mantras 1458 & 1460
+
+Realise Him, the pinnacle beyond our understanding, as
+Timeless Eternity. Siva’s Grace blossoms out of jiva as hidden
+fragrance comes out of the flower. The yogi, unmoved as
+a painted picture, cognises Him, who is all-pervasive, and
+immanent too within him. Then is the destruction of darkness,
+that is the seed of endless birth and rebirth.
+
+goeduidGure ocmipad curoritée`,
   },
   {
     id: 1460, tantraId: 5, verseNumber: 1459,
@@ -734,6 +1137,15 @@ Nandi abides subtle as fragrance within flower;
 Seek Him in singleness of your thought
 Then shall your darkness of Impurities vanish
 The darkness that is the seed of birth and rebirth interminable.`,
+    elaborationEnglish: `‘Nandi abides subtle as fragrance within flower;
+
+Seek Hiin in singleness of your thought
+Then shall your darkness of Impurities vanish
+The darkness that is the seed of birth and rebirtt
+
+- interminable.
+
+upPsseos urs Opadyid sus`,
   },
   {
     id: 1462, tantraId: 5, verseNumber: 1461,
@@ -747,6 +1159,13 @@ vaḻittalaic cōmaṉō ṭaṅki yarukkaṉ
 vaḻittalaic ceyyum vakaiyuṇarn tēṉē`,
     english: `1461: Yoga Shows the Way
 Neither mantra, nor song, nor arts four and sixty`,
+    elaborationEnglish: `Mantras 1461-1463
+
+Neither mantra nor song, nor the sixty-four arts can sever
+birth and its accursed bonds. Yoga leads to the supreme Way
+to the sublime. Yogic practice turns one a true tapasvin. He
+becomes one with the heavenly beings, realising the true word.
+Yogis vision Him in single-mindedness.`,
   },
   {
     id: 1463, tantraId: 5, verseNumber: 1462,
@@ -783,6 +1202,7 @@ If you but waver,
 Then shall you reach the World of Darkness
 Verily, Kundalini Fire that Yoga kindles in thee
 Is the Gracious Lord HimSelf.`,
+    elaborationEnglish: `Agsract Gsarset epout Ougenownud`,
   },
   {
     id: 1465, tantraId: 5, verseNumber: 1464,
@@ -802,6 +1222,18 @@ How many, how many, thy fell below;
 And yet, the myriad Siddhas, Devas and Supreme Beings Three,
 All redeemed adore Him
 Saying "You, Our Father!"`,
+    elaborationEnglish: `All redeemed adore Him
+Saying “You, Our Father!”’
+
+Monarchs and anchorites have fallen due to the pursuit of
+
+yoga in fickleness. But myriad siddhars, devas and the three
+
+Gods adore Him redeemed.
+
+HSS SEAM wo shoowwrs
+
+SISSO5 DL. sloowOQurct mridgergyer`,
   },
   {
     id: 1466, tantraId: 5, verseNumber: 1465,
@@ -836,6 +1268,18 @@ Visesha Diksha in yoga is for achievement of eight-limbed yoga;
 Nirvana Diksha in yoga aids yogi glimpse the Divine;
 And when he is granted Abhisheka Ordination
 Then is he ripe for Siddha State.`,
+    elaborationEnglish: `Mantras 1465 & 1466
+
+The sub-divisions of Yoga are Chariya in Yoga, Kriya in Yoga,
+and Yoga in Yoga. The first one helps the aspirant to be
+the yogi, the second sunders desires while the third enables
+him to centre his thoughts on God. Samaya Diksha, Visesa
+Diksha, Nirvana Diksha, and Abhisheka Diksha are the
+ordinations in the graded stages of the Yoga path.
+
+8. Grol
+
+Grasher Hse swap pHormegl`,
   },
   {
     id: 1468, tantraId: 5, verseNumber: 1467,
@@ -854,6 +1298,14 @@ None better a religious faith;
 Nothing else than Jnana can confer liberation true;
 They that are exalted in Jnana
 Are truly exalted among men.`,
+    elaborationEnglish: `They that are exalted in Jnana
+Are truly exalted among men.
+
+Mantras 1467 & 1468
+
+Jnana is the most exalted path and nothing else can confer
+final liberation. Mastery over consciousness, egoity, will, and
+the mind’s cognizational activity is real mastery in Jnana.`,
   },
   {
     id: 1469, tantraId: 5, verseNumber: 1468,
@@ -873,6 +1325,7 @@ They who have mastered these three,
 And the Mind's cogitational activity as well,
 Verily have mastered Nada
 And have truly attained Jnana.`,
+    elaborationEnglish: `aout Oocrsath ormalg) Wralcs`,
   },
   {
     id: 1470, tantraId: 5, verseNumber: 1469,
@@ -892,6 +1345,10 @@ Further on receives Lord's grace,
 And in the end attains Jnana
 In Sivohamic I and You union
 Jiva shall himself Siva become.`,
+    elaborationEnglish: `The different stages of attainment through Jnana are: jiva
+sojourning in the Lord’s world, dwelling in Lord's proximity,
+receiving the Lord’s Grace (form), and ultimately attaining
+union in Him.`,
   },
   {
     id: 1471, tantraId: 5, verseNumber: 1470,
@@ -910,6 +1367,15 @@ Diverse paths the world presents
 All, all shall be his;
 For, verily he has realized
 The pure Jnana, free of doubt.`,
+    elaborationEnglish: `The jnani deems Brahman as his impregnable abode,. the
+universe his kith and kin, and all contending faiths as one.
+He is truly the realised one.
+
+AMayid A FHpwW Yorywbd 21 Gor
+
+Opwr Bstwcisyid Cugg onrencir
+
+Sdys Gmrlpa Gosapod Gms`,
   },
   {
     id: 1472, tantraId: 5, verseNumber: 1471,
@@ -929,6 +1395,21 @@ And understand His Attributes
 And attain His Holy Feet
 To them, this is the Path
 This, this the boat to cross Life's turbulent waters.`,
+    elaborationEnglish: `‘In His Celestial City are Love, Light and Peace
+
+eternal,
+To them that seek to’ know His Form
+And understand His Attributes _
+
+And attain His Holy Feet
+
+To them, this is the Path
+This, this the boat to cross Life’s turbulent waters
+
+The Lord is of Infinite Grace, Love! Light and Peace Teign
+eternally in His celestial city. The ultimate path to cross life’s
+turbulent waters is to have an absolute cognition of the Lord,
+and so reach His Holy Feet.`,
   },
   {
     id: 1473, tantraId: 5, verseNumber: 1472,
@@ -947,6 +1428,19 @@ And thus does he reach the surging waters
 Of the Crescent Moon's sphere,
 And there, rid of Impurities,
 He himself the Effulgent Light becomes.`,
+    elaborationEnglish: `He himself the Effulgent Light becomes.
+
+Mantras 1472 & 1473
+
+The ‘boat of life’ (Jnana) aids the jnani to cross to the surging
+waters of the crescent moon’s sphere. There, he becomes
+the divine light. Jnana embraces all the four paths — Chariya,
+Kriya, Yoga and Jnana, and the jnani attains all the four stages
+they bring in.
+
+Guonehsé AHowQurermm mimiper CGurhsgi
+
+Guoehlin anges DSS aeons HOH`,
   },
   {
     id: 1474, tantraId: 5, verseNumber: 1473,
@@ -980,6 +1474,14 @@ The Jnani attains all the four stages in Jnana;
 Jnana-in-Jnana is to transcend the "I" and "Mine"
 Yoga-in-Jnana is to envision the Light of Nadanta;
 Kriya-in-Jnana is to seek the liberation by good.`,
+    elaborationEnglish: `Transcending the “‘I’’ and ‘‘Mine’’ is Jnana in Jnana;
+
+visualising the light of Nadanta is Yoga in Jnana; and Knya
+in Jnana is the search for liberation.
+
+panchu crors Hon EHronnS) pos gy Gouri
+
+scuchwu Cwm sooreirert sosrG) Gomes`,
   },
   {
     id: 1476, tantraId: 5, verseNumber: 1475,
@@ -997,6 +1499,17 @@ He verily transcends the conflict of virtue and vice;
 He has reached the farthest shores of Truth;
 He has glimpsed the Mighty Object;
 He is the Immaculate, Siddha, Siva Mukta.`,
+    elaborationEnglish: `‘He who realizes Jnana in its four divisions
+
+He verily transcends the conflict of virtue and vice;
+He has reached the farthest shores of Truth;
+‘He has glimpsed the Mighty Object;
+
+He is the Immaculate, Siddha, Siva-Mukta.
+
+Greré snwGw GOs Soncmsarosrov
+
+Gronhit curcet Gu BoM) auresrcaper`,
   },
   {
     id: 1477, tantraId: 5, verseNumber: 1476,
@@ -1014,6 +1527,9 @@ Samaya initiates the search for the Self;
 Visesha, the search for the Divine;
 Nirvana for the descent of Lord's Grace;
 Abhisheka for the attainment of Divine Guru's Holy Feet.`,
+    elaborationEnglish: `‘Carin somet «GDF HLhaomr@®
+
+Ghd opis AuGurs Assomis`,
   },
   {
     id: 1478, tantraId: 5, verseNumber: 1477,
@@ -1033,6 +1549,9 @@ Became Siddhas of SivaYoga,
 And over Death triumphed;
 Only they that had thus evolved
 Knew meaning inner of Sanmarga.`,
+    elaborationEnglish: `aru Qupgemos sofer wares
+
+Oguas Aus) soronitsaes Crtbgw`,
   },
   {
     id: 1479, tantraId: 5, verseNumber: 1478,
@@ -1052,6 +1571,9 @@ For Souls' redemption true
 It is Siva's divine path, Sanmarga's path
 For all world to tread
 And for ever be free.`,
+    elaborationEnglish: `Same as Mantra 1567 infra.
+
+GGuEH Osujyjs Guwus Cemises`,
   },
   {
     id: 1480, tantraId: 5, verseNumber: 1479,
@@ -1071,6 +1593,15 @@ They that render devotion to Guru
 In diverse ways thus,
 They indeed walk the Sanmarga path
 That to liberation leads.`,
+    elaborationEnglish: `In diverse ways thus,
+
+They indeed walk the Sanmarga path
+That to liberation leads.
+
+OsehanD) wrant Aoucncr wwe
+Osean wrsnt Fos woreor
+
+Asad wrsnt Slows wrt_tonr`,
   },
   {
     id: 1481, tantraId: 5, verseNumber: 1480,
@@ -1088,6 +1619,16 @@ Shall never Siva know;
 Nor shall even Jivas be;
 Nor indeed Siva become;
 Never, never their birth's bondage broken be.`,
+    elaborationEnglish: `Mantras 1480 & 1481
+
+Sanmarga gives the true vision, breaking the fetters of birth’
+and extinquishing the fire of impurities. Listening to the silent
+voice in Sanmarga you become a.pure mukta, annihilating
+the state of ‘2 and “You’ digference and savouring the divine
+bliss.
+
+sro ons sroncbsr weer Olenm
+Berle ero WSuler Boruups`,
   },
   {
     id: 1482, tantraId: 5, verseNumber: 1481,
@@ -1108,6 +1649,10 @@ And by the unsullied Grace Jnana grants
 You shall joy of the Bliss Divine;
 Verily, then by Sanmarga Path
 You become He indeed .`,
+    elaborationEnglish: `The voice of silence or mauna is what Pythagoras called
+the “harmony of the spheres,’’ — beyond words and forms
+— the experience of the infinite within us. Vide “‘Foundations
+of Tibetan Mysticism,’’ by Lama Angarika Govinda, Part I.`,
   },
   {
     id: 1483, tantraId: 5, verseNumber: 1482,
@@ -1125,6 +1670,11 @@ Where Sanmargi is there God is,
 To see assemblage of Sanmargis is to vision Lord,
 This I proclaim,
 To whatsoever path you do incline.`,
+    elaborationEnglish: `The face of the Sanmargi.is the pedestal of Sakti; the place
+of the Sanmargi is the seat of God. Whatever path may be
+followed, to see assemblages of Sanmargis is to see the Lord.
+Oerortss srgorb Guegsursarwihln ew
+gicmrmssb ML gus gMenprt`,
   },
   {
     id: 1484, tantraId: 5, verseNumber: 1483,
@@ -1142,6 +1692,13 @@ Sanmarga grants God-head through knowledge;
 The rest of paths are for un-illumined;
 Renouncing the ways of impurities
 And transcending limits of Turiya`,
+    elaborationEnglish: `Sanmarga is the purest path that grants the experience of
+God-head through knowledge. The rest are unillumined and
+uninspiring. It is the way of renouncing, impurities and
+transcending the limits of turiya consciousness. It is the way
+of I becoming He.
+
+Ocsmortss eporpid Qumalucd unGierpred`,
   },
   {
     id: 1485, tantraId: 5, verseNumber: 1484,
@@ -1159,6 +1716,10 @@ The rest of three paths, of themselves open;
 That alone is True Path union with Siva seeks;
 Seek that Path
 As Guiding Word scriptures proclaim.`,
+    elaborationEnglish: `of themselves. It is the sole path, the True Path which
+scriptures enjoin for uniting in Siva.
+
+Yoroflur efrenipi GugrS Gusips`,
   },
   {
     id: 1486, tantraId: 5, verseNumber: 1485,
@@ -1179,6 +1740,26 @@ The Consciousness that entwines it,
 The million, million mutations that pervade the universe,
 They who see them all and their own Selves
 Verily are they the Sanmargis true.`,
+    elaborationEnglish: `usure 668 uGuyio mys
+
+peoscrer Heerenw wrest wmrrssGw. 148
+
+Sanmarga Leads to Svarupa State
+
+Rending the Soul’s bonds asunder
+
+Conjoining him to the Lord 5
+
+Melting the heart that knew no melting
+Merging into the Primal Manifestness (Svarupa)
+That is Truth Eternal
+
+Sanmarga verily gives Jiva
+
+The rest that knows no commotion ever.
+
+Litéaercr wunréHacr Gi. wGiugys"
+wiitsaeecr wirissGw weno Gpmreiplevenw`,
   },
   {
     id: 1487, tantraId: 5, verseNumber: 1486,
@@ -1216,6 +1797,8 @@ Other Path there is none,
 Than this path to the One;
 They that straight reach it not,
 Through Yoga's Path may yet climb.`,
+    elaborationEnglish: `FHM GIG FHoTTss worrorgy
+Uemwortss wroagy Cures InsDns`,
   },
   {
     id: 1489, tantraId: 5, verseNumber: 1488,
@@ -1233,6 +1816,10 @@ ThThrough Siddhi it leads to Supreme Mukti;
 It is the Path lower to Sanmarga,
 Involving myriad birth and death
 But eventually landing in Jnana Finite.`,
+    elaborationEnglish: `boys gense wuntéeiled corgmt
+SG Ames Fwwipw gato
+
+OaGgys Dgwser Ge grma wired`,
   },
   {
     id: 1490, tantraId: 5, verseNumber: 1489,
@@ -1251,6 +1838,7 @@ The Goddess of Grace will frown at them;
 Salvation shall never their portion be;
 And they do lose both-
 Their stature and kith.`,
+    elaborationEnglish: `follow not twelve-tiered Path of`,
   },
   {
     id: 1491, tantraId: 5, verseNumber: 1490,
@@ -1268,6 +1856,16 @@ In Yoga Samadhi is Light Abiding;
 In Yoga Samadhi is Sakti Omnipotent;
 They that joy in Yoga Samadhi
 Are verily Siddhas great.`,
+    elaborationEnglish: `Mantras 1490 & 1491
+
+Infinite space, abiding light, omnipotent Sakti are the fruits
+of yoga samadhi. The immortal yogi can enjoy bhoga which
+
+confers earthly blessings, and yoga which can confer
+
+Siva-Form on him.
+
+Gursd yan ygrrtss ASOw`,
   },
   {
     id: 1492, tantraId: 5, verseNumber: 1491,
@@ -1284,6 +1882,9 @@ Both yoga and bhoga, yogis may have;
 Through yoga is attained Siva's Form divine;
 Through bhoga all earthly blessings;
 Thus may he enjoy both-he, Yogi immortal.`,
+    elaborationEnglish: `4507 Gersaor wreiry. &59)K0r
+
+Gurgr aussi yoorsg oorlby 5)`,
   },
   {
     id: 1493, tantraId: 5, verseNumber: 1492,
@@ -1302,6 +1903,19 @@ And the Nadis they purify;
 Envision the Kalas sixteen,
 And glimpse their heavenly radiance;
 And then are they merged in Awareness Supreme`,
+    elaborationEnglish: `Mantras 1492 & 1493
+
+Through Sahamarga, the yogis pierce the adharas, purify
+the nadis, vision the sixteen kalas, glimpse their heavenly
+radiance, internal and external organs atrophied — and
+merge in the supreme consciousness. The yogi, who harries
+and subdues the five contentious senses with the sharp
+sword of steadfastness, merges in, the consciousness of
+the Lord whom the eighteen heavenly hosts seek.
+
+Dos AA Acipmo gHenguyld Nesronow
+
+SoTbDUD Oo Ge SHG QGaucr`,
   },
   {
     id: 1494, tantraId: 5, verseNumber: 1493,
@@ -1319,6 +1933,7 @@ With the sharp sword of his determinate will;
 In his thought emerges Lord
 Whom the eighteen Ganas seek;
 Verily, the yogi deserves our obeisance.`,
+    elaborationEnglish: `cormach Quréaen uarblns srrs@wd`,
   },
   {
     id: 1495, tantraId: 5, verseNumber: 1494,
@@ -1338,6 +1953,10 @@ But to them whose hearts ripe in love,
 And taste the sweets of divine rapture,
 He opens all of Himself
 Unto a rich fruit mature.`,
+    elaborationEnglish: `Loving hearts can taste the sweetness of divine’ rapture and
+the Lord reveals Himself as a fully ripened fruit.
+
+Hou Ayoub Wap FHorisas`,
   },
   {
     id: 1496, tantraId: 5, verseNumber: 1495,
@@ -1355,6 +1974,18 @@ The Kriya Path leads to Yoga Path;
 Transcending both,
 And uniting in Sakti of Yoga State
 Indeed is consummation of Sanmarga Path.`,
+    elaborationEnglish: `Mantras 1495 & 1496
+
+The path of filial piety, through Yoga (Saha marga) leads
+to Jnana, which consummates the Sanmarga path. Performing
+pjas, reading the holy scriptures, praising the Lord, chanting
+His Holy Name, practicing tapas, being truthful, bearing no
+malice — these constitute the path of filial piety or Kriya.
+
+Mular refers to Kriya (Rituals) as Satputra Marga (or the path
+of “‘pious son’’).
+
+GpASSL Lorenpb bash Oewsormit`,
   },
   {
     id: 1497, tantraId: 5, verseNumber: 1496,
@@ -1374,6 +2005,7 @@ To bear no envy,
 Thyself to cook the offering for Lord with loving care
 These and other acts of reverence
 Constitute Pure Path of Filial Piety.`,
+    elaborationEnglish: `GIST BHiwert Oasnuicuct Hci HGF`,
   },
   {
     id: 1498, tantraId: 5, verseNumber: 1497,
@@ -1391,6 +2023,9 @@ The snow-white swans float amidst lotus and blue-bells,
 They all, all, seek flowers fragrant;
 Yet, you who have beheld all this,
 Adore not the Lord with flowers for a while even.`,
+    elaborationEnglish: `AGUIOT wT HAsuuy Hypo
+
+aguacns Guisimm wergywits Gacvovmbd`,
   },
   {
     id: 1499, tantraId: 5, verseNumber: 1498,
@@ -1408,6 +2043,18 @@ His commandments, our defence's battlements;
 He is verily the finite Shore
 For the surging tide of Jivas on earth;
 He pervades thus, the seven worlds alike.`,
+    elaborationEnglish: `He is verily the finite Shore
+For the surging tide of Jivas on earth;
+He pervades thus; the seven worlds alike.
+
+Mantras 1498 & 1499
+
+The Lord is truly the Ultimate Goal, who with His Feet and
+His commandments pervades the seven worlds alike. Adoring
+Him in diverse ways, He becomes your own.
+
+Owes segs Caupenp Oeuhlesr
+LWpglb Une uwergy oumgLb`,
   },
   {
     id: 1500, tantraId: 5, verseNumber: 1499,
@@ -1425,6 +2072,7 @@ Praise Him, sing Him and pray at His Holy Feet;
 That shall your birth's fulfilment be;
 In trembling love do adore Him;
 He, indeed, shall be beloved unto you.`,
+    elaborationEnglish: `gag werges Osraupler OsrupsGsrgie`,
   },
   {
     id: 1501, tantraId: 5, verseNumber: 1500,
@@ -1444,6 +2092,15 @@ You too shall seek Him with flowers fragrant,
 The more you adore Him
 The fuller He reveals Himself unto you,
 He the Lord of Beings Heavenly.`,
+    elaborationEnglish: `Mantras 1500 & 1501
+
+Adore the Lord in reverence; praise Him in humility; worship
+the divine light of beauty; seek Him with odorous flowers;
+and He shall reveal Himself. The more you adore Him, the.
+more He reveals Himself. To this Kriya path, that exalts and
+showers countless blessings, the Chariya path leads.
+
+Doveae, sHYyYsS Howntsse slonw`,
   },
   {
     id: 1502, tantraId: 5, verseNumber: 1501,
@@ -1462,6 +2119,11 @@ It leads to the Kriya Path,
 That exalts you;
 Then shall your primordial Pasas lie prostrate,
 And you live in unending bliss for ever.`,
+    elaborationEnglish: `233 /
+
+12. STF WATSSH
+
+amucr Su Mionwent arise`,
   },
   {
     id: 1503, tantraId: 5, verseNumber: 1502,
@@ -1482,6 +2144,15 @@ Sing Lord's Praise,
 Count the crystal beads,
 Anoint in many ways,
 And perform the diverse acts of temple service.`,
+    elaborationEnglish: `Lighting the lamps gracefully, collecting fragrant flowers,
+pasting the holy floor and sweeping it, praising the Lord and
+counting the crystal beads, anointing Him in diverse ways —
+doing all these requirements of temple service, belongs to Dasa
+Marga.
+
+“Dasa means servant.
+
+Qian Qwucrmm HeomeE Fler Moron`,
   },
   {
     id: 1504, tantraId: 5, verseNumber: 1503,
@@ -1503,6 +2174,16 @@ Do pursue this appointed way,
 And seek the King of Kings;
 That, in truth, shall quell
 All doubts within you swell.`,
+    elaborationEnglish: `Mantras 1503 & 1504
+
+Wavering between this path and that path seldom leads to
+worship. Therefore, firmly hold to the Chariya path and seek
+the King of Kings; all doubts will vanish. All worship by yogis
+~ that is meditating on the moon (nadi on the left) and shifting
+on to the sun nadi on the right) — and worship by the celestial
+beings commenced in Dasa Marga.
+
+AKA Uucr Dis osordeny GHTUdg`,
   },
   {
     id: 1505, tantraId: 5, verseNumber: 1504,
@@ -1523,6 +2204,7 @@ And the worship the Celestial Beings
 Daily to Lord offer,
 All these but begin
 In the Path of Chariya ultimate.`,
+    elaborationEnglish: `sororo Oercrn) SHS WATs_Gui`,
   },
   {
     id: 1506, tantraId: 5, verseNumber: 1505,
@@ -1536,6 +2218,16 @@ kaṇṇava ṉeṉṟu karutu mavarkaṭkup
 paṇṇavaṉ pēraṉpu paṟṟiniṉ ṟāṉē`,
     english: `1505: Lord Appears in Love Entwined
 The Celestial Beings seek Lord`,
+    elaborationEnglish: `Mantras 1505 & 1506
+
+The Lord appears in the divine love of those who seek and
+adore Him in the abidin® rapture of their hearts. What is
+the use of reading holy works and conducting pujas, when
+the heart is obfuscated by darkness and overspread with the
+moss of ignorance. Unless the heart is rid of all these
+impurities, God, the Supreme Light, cannot be visioned.
+
+anflggib UPsgidburoewt OarwGr Gu`,
   },
   {
     id: 1507, tantraId: 5, verseNumber: 1506,
@@ -1579,6 +2271,19 @@ And that in turn to Samipa;
 And Samipa shows the way to Sarupa;
 And ultimately to Para of Infinite Space (Sayujya)
 Beyond which there is state none.`,
+    elaborationEnglish: `The four stages, of attainment, namely, Saloka, Samipa,
+Sarupa and Sayujya reached from Chariya in gradation, finally
+“end with Para of Infinite Space (Sayujya), beyond which there
+is no state.
+
+*Saloka’, ‘Samipa’, “Sarupa’ and Sayujya’ mean respectively
+
+“Being in the same world as the Lord’, Being with Him
+continually’. ‘adopting His Form’, and ‘United with Him’.
+These are different ways of imagining Oneself to be in, during
+worship. They are explained in verse 1509, post.
+
+Foun Hiewuh mexwcat Garuded`,
   },
   {
     id: 1509, tantraId: 5, verseNumber: 1508,
@@ -1596,6 +2301,8 @@ Samaya sacrament prepares heart to be a Tabernacle of God ;
 Visesha sacrament installs the Faith firm;
 Nirvana helps realize the Truth of Faith;
 Abhisheka confereth the state of Samadhi Supreme.`,
+    elaborationEnglish: `This Mantra should appropriately come at the end of 6, kriya
+ante, after Mantra 1456.`,
   },
   {
     id: 1510, tantraId: 5, verseNumber: 1509,
@@ -1613,6 +2320,13 @@ knowledge)
 In Samipa it becomes Arul Jnana (Grace-knowledge)
 In Sarupa it is transformed into Pati Jnana (God-knowledge)
 In Sayujya it is for ever dissolved.`,
+    elaborationEnglish: `In Sarupa it is transformed into Pati Jnana
+
+In Sayuja it is for ever dissolved.
+
+15. smemuib
+
+swAu arequs sro comb Cursors`,
   },
   {
     id: 1511, tantraId: 5, verseNumber: 1510,
@@ -1632,6 +2346,15 @@ The Sarupa state cannot be;
 The yoga way but leads to bodily Siddhis diverse;
 But for the Sarupa state to realize,
 None these but the pure way of Jnana-in-Yoga.`,
+    elaborationEnglish: `there capnot be the state of Sarupa.
+
+Sanmarga-in-yoga is identical with jnana-in-yoga.
+
+Mular explains that mere practice of yoga without ‘Sanmarga’
+(worshipful faith and good conduct) will only produce Siddhis
+(Powers) but will not lead to Liberation.
+
+uddgys GGAe UByss Guns`,
   },
   {
     id: 1512, tantraId: 5, verseNumber: 1511,
@@ -1650,6 +2373,11 @@ Are themselves into gold transformed;
 Even so,
 They that reach the world of Master Divine
 Attain Form the Light Divine
+His, of the King of Kailas.`,
+    elaborationEnglish: `Even so,
+They that reach the world to Master Divine
+
+Attain the Form Light Divine
 His, of the King of Kailas.`,
   },
   {
@@ -1670,6 +2398,9 @@ It is Saivam, when the Soul realizes itself and nears God (in Samipa)
 It is Saivam, when it leaves Samipa (and reaches Sarupa)
 It is Saivam when it enjoys the final bliss of Sivananda,
 The inextricable union in Sayujya.`,
+    elaborationEnglish: `believe in this marga””. (N.N. Bhattacharyya in “‘History of
+
+sre Fuga wise wpycderés`,
   },
   {
     id: 1514, tantraId: 5, verseNumber: 1513,
@@ -1688,6 +2419,17 @@ The peace that knows no understanding
 Sayujya is to become Siva Himself,
 Sayujya is to experience the infinite power of inward bliss,
 Forever and ever.`,
+    elaborationEnglish: `Forever and ever.
+
+Sayujya is the state of jagra-atita, the state beyond
+consciousness; it is to abide forever in upasantha, the peace
+that is beyond understanding, and finally to become Siva
+Himself, experiencing the infinite power of inward bliss.
+
+17. $9 Hursw
+
+QGorrap epanw WGSS Hypa
+GGLuomet $SHE Gombus sity`,
   },
   {
     id: 1515, tantraId: 5, verseNumber: 1514,
@@ -1708,6 +2450,17 @@ Showered full many a favour,
 Wooed with temptations diverse,
 And lo! to Her bosom took him,
 In wedlock holy.`,
+    elaborationEnglish: `Mantras 1514 & 1515
+
+In the dark corner of the chamber of primal stuff, the Goddess
+of Grace courted the “blind old man’ — immortal soul —
+and in marriage took him to Her bosom. Meditation on the
+Primal source. from where sprang the delusive senses, grants
+
+Her vision. Those who are given this clear vision are truly
+in the infinite ground of Sakti of the highest seeking.
+
+Csbys carer Qgsafcus) UTTEL_ GSH`,
   },
   {
     id: 1516, tantraId: 5, verseNumber: 1515,
@@ -1727,6 +2480,7 @@ The ambrosia of the Realized;
 They that have been given the clear vision, nectar sweet,
 Are verily the Infinite Ground
 Of Sakti's highest seeking.`,
+    elaborationEnglish: `Qonssh aoc Wma ash`,
   },
   {
     id: 1517, tantraId: 5, verseNumber: 1516,
@@ -1746,6 +2500,13 @@ And lands it on the shores of Truth's Bliss
 United in the Lord of Heavenly Beings,
 -Themselves as yet unfree
 From Impurity's obscuration.`,
+    elaborationEnglish: `Releasing jiva from the enveloping darkness, the Primal Sakti
+aids it to land on the banks of Truth’s bliss and to attain
+liberation. The presence of Lord Nandi and the Lady of Grace
+pierces and illumints the bewildering ignorance that engulfs
+the jiva im thick gloom.
+
+Qo poo Qosss sryH`,
   },
   {
     id: 1518, tantraId: 5, verseNumber: 1517,
@@ -1763,6 +2524,10 @@ A sudden shaft of light pierces and illumines,
 Unto it into the gloom of bewildering Ignorance
 Is the Presence of Lord and Lady of Grace,
 Lord that is Nandi, worshipped in the blossom of heart.`,
+    elaborationEnglish: `Lord that is Nandi worshipped in the blossom of
+heart.
+
+Oagey Mocs Domb Moms gs`,
   },
   {
     id: 1519, tantraId: 5, verseNumber: 1518,
@@ -1784,6 +2549,17 @@ Filled him with rapture
 Lifted the veil of his Ignorance
 Granted many a favour
 And then, then, bestowed on him Her Grace that illumines.`,
+    elaborationEnglish: `Mantras 1518 & 1519
+
+Through successive stages, like drawing him away from
+temptations to which the jiva falls a prey and eradication
+of the karmaic hordes and primordial ignorance, the Damsel
+of Grace liberates the soul. Sporting in the holy waters of
+the Sakti’s Grace makes the jiva forget the filthy waters of
+Virgin's lust; for, the Holy Virgin's waters of Grace snap the
+eyele of births.
+
+saPS giopuyh STW gL aut`,
   },
   {
     id: 1520, tantraId: 5, verseNumber: 1519,
@@ -1800,6 +2576,7 @@ They that have sported in the waters of Virgin Grace,
 No more shall wallow in the filthy waters of virgin's lust;
 If they but seek to sport in the Holy Virgin's Waters of Grace,
 No more births shall they in future take.`,
+    elaborationEnglish: `No more births shall they in future take.`,
   },
   {
     id: 1521, tantraId: 5, verseNumber: 1520,
@@ -1823,6 +2600,14 @@ His are the sinewy arms
 That skinned the dark massive elephant
 And donned it for a vesture;
 Do therefore, seek Him and adore Him.`,
+    elaborationEnglish: `The Lord plays the multi-role of Destroyer, Preserver, Creator
+and Redeemer. Realisation of this truth and adoration of Him
+will make the jiva feel the might of His sinewy arms.
+
+The ‘significance of attributing different colours to Siva’s form
+is explained here.
+awww sromact ahgeer wrudeys
+asugs sais sofher wa@uerut`,
   },
   {
     id: 1522, tantraId: 5, verseNumber: 1521,
@@ -1840,6 +2625,13 @@ Yet they say, He and His Consort stand one;
 For them that adore Him daily in devotion,
 He is verily the unfailing proof
 Of labour readily rewarded.`,
+    elaborationEnglish: `Mantras 152] & 1522
+
+TANTRA FIVE ; 237
+
+Siva and Sakti are one and the same. So praise Him in devotion ,
+daily. He is truly the unfailing proof. Beholding the vision
+of Sakti and Siva together dispels darkness.`,
   },
   {
     id: 1523, tantraId: 5, verseNumber: 1522,
@@ -1859,6 +2651,7 @@ In whose matted locks festooned with flowers,
 The bees dance drunk with nectar;
 They that waited in patience and prayer
 They indeed saw Him-their darkness dispelled.`,
+    elaborationEnglish: `Sal gid`,
   },
   {
     id: 1524, tantraId: 5, verseNumber: 1523,
@@ -1878,6 +2671,16 @@ Reveals the mystery of the births beyond count,
 And destroys their very seed;
 And then you vision the Primal One;
 That, indeed, is the fruit of Her Grace.`,
+    elaborationEnglish: `Mantras 1523 & 1524
+
+Sakti is the Goddess of the mountain regions and of exotic
+blossoms. Vision of the Primal One is the fruit of Her Grace.
+That is granted when the Bride of Grace, seated in the garden
+of the heavenly Bride-Groom, destroys the very seeds of birth.
+Devotion to’her grants the prowess of potential tapas that
+leads to liberation.
+
+LMU WHFEG pur Musee`,
   },
   {
     id: 1525, tantraId: 5, verseNumber: 1524,
@@ -1918,6 +2721,17 @@ In Her twisted tresses;
 And for them who are thus made wise
 The Blue Flame of Her floating Grace
 Shall, for ever, illumine the Path.`,
+    elaborationEnglish: `Mantras 1525 & 1526
+
+Near the Holy Feet of the Lord are all worlds. He shall descend
+with His Lady Companion — Sakti of Grace — who will
+enlighten the path of @he devotees. Wisdom gives the
+unsurpassable boon of Grace; and when Grace visits, the Lord,
+whom nothing can equal, draws near. When Grace descends,
+jiva is purified. He then mingles in Siva.
+
+UcMhAgyib ustict gio Liswfasssr
+aeAu Agsrerpp wis Deurgocr`,
   },
   {
     id: 1527, tantraId: 5, verseNumber: 1526,
@@ -1939,6 +2753,11 @@ As I do,
 Then shall He draw near you
 Whom nothing can ever near;
 He is truly the life pervasive of worlds all.`,
+    elaborationEnglish: `238 : TIRUMANTIRAM
+
+Sado sob
+
+GGOsuer ass Gombus £EAS`,
   },
   {
     id: 1528, tantraId: 5, verseNumber: 1527,
@@ -1959,6 +2778,9 @@ Implants Jnana that is unto a heavenly cool shade;
 The Jiva thus rid of egoity,
 And other Impurities Three,
 Shall with Siva in union merge.`,
+    elaborationEnglish: `Qrqwb usgib Qars QrsGs.
+
+HUG wrod ."uep_or Gege`,
   },
   {
     id: 1529, tantraId: 5, verseNumber: 1528,
@@ -1980,6 +2802,26 @@ She draws you unto Her bosom,
 And grants you Her favours;
 Verily, Verily, She is the Paraparai,
 The Power Supreme.`,
+    elaborationEnglish: `And in silence woo Her;
+
+In endgarment all
+
+She draws you unto Her bosom,
+And grants you Her favours;
+Verily, Verily, She is the Paraparai,
+The Power Supreme.
+
+Mantras 1528 & 1529
+
+Woo the Goddess of Supreme Power and Prowess (Paraparai).
+Dancing in rapture in the Vast Space, She will grant Her
+favours. Then, He, the sun, the moon, and the light of Grace
+which illumined the corporeal body dispelling darkness — all
+abide in you forever.
+
+Lene alors Gib. woHwupr GHrudpies
+FIOM AINMEGH SMF MT Horvsrosr qyoi
+Greb aaséhwu grgercrot 2 oy 5(S))`,
   },
   {
     id: 1530, tantraId: 5, verseNumber: 1529,
@@ -2001,6 +2843,9 @@ He entered in me and lighted up the corporeal body;
 And then, aye, with me bided for ever and ever.
 18 ARUSAMAYA PINAKKAM (A CRITIQUE OF
 FORMAL RELIGIONS)`,
+    elaborationEnglish: `arwsgion Horn sans snosrS)our
+
+wTws GPurovd alapat wonenw saci`,
     transliteration: `āyattuḷ niṉṟa aṟucama yaṅkaḷuṅ
 kāyattuḷ niṉṟa kaṭavuḷaik kāṇkilar
 māyak kuḻiyil viḻuvar maṉaimakkaḷ
@@ -2027,6 +2872,22 @@ Yet, not one knows the God within;
 Deep into the pit of illusion, their adherents drop,
 And fastened hard by familial ties of bondage,
 They shake and tremble, in vain impotence.`,
+    elaborationEnglish: `Mantras 1530-1533
+
+The six faiths, being tied fast to the earthly fetters shake
+and shiver in vain, unable to cognise God, who is within.
+The Lord, the Pinnacle and the Magnificent seated in the
+lotus of our hearts, enters this hollow abode of human flesh
+and then silently parts. This deep design of His is beyond
+the apprehension of the formal faiths. Intense faith and
+steadfastness help in the realisation of the omnipresence of
+the Lord.
+
+What are the “Six Faiths’’ (want, Samayam means here
+‘religion’, ‘sect’ or *faith’) that Mular refers to here? They
+
+are not those described in *‘Saddarsana-sangraha’, it can be
+safely affirmed.`,
   },
 {
     id: 1532, tantraId: 5, verseNumber: 1531,
@@ -2066,6 +2927,8 @@ Then sure my Lord is within you and without you;
 To them they say,
 He is neither within you or without you
 Sure is He nowhere for them.`,
+    elaborationEnglish: `AM) FLW (Lp Seer oul HOST Lg GUT
+Gsniier Gas Dsoiiber Oszahssdor`,
   },
   {
     id: 1534, tantraId: 5, verseNumber: 1533,
@@ -2084,6 +2947,9 @@ What the Six Faiths talk of is not He;
 Do you yourself in faith seek Him,
 And be resolved of doubts all;
 And then sure shall you enter your Father's Mansion.`,
+    elaborationEnglish: `Father’s
+
+Flaine Homa wennGu Floors`,
   },
   {
     id: 1535, tantraId: 5, verseNumber: 1534,
@@ -2102,6 +2968,11 @@ No tapas except it be for Him
 The Six Faiths are nothing but a dreary waste;
 Do seek Nandi of mighty penance;
 You shall indeed be redeemed truly.`,
+    elaborationEnglish: `Siva is the only Lord; and the six faiths are but a dreary
+waste. Being materialistic, the six faiths do not lead to the
+final state. Devotion to Siva alone grants liberation.
+
+Newer ors Dsawd oOGwoe9Gw`,
   },
   {
     id: 1536, tantraId: 5, verseNumber: 1535,
@@ -2118,6 +2989,15 @@ They of the Six Faiths sought Lord
 Only for heavenly state to gain;
 They sought not to be rid of bondage thorns,
 And so know not to be rid of this world materiality.`,
+    elaborationEnglish: `Mantras 1535-1537
+
+The path of Siva alone is our defence from earthly sorrows. \\
+Tt is the sole path that leads to ultimate liberation through
+pasa annihilation. Neither the six faiths nor the swollen stream
+of hundreds of other faiths, tall as their claims are, can lead
+to the path of Param.
+
+239`,
   },
   {
     id: 1537, tantraId: 5, verseNumber: 1536,
@@ -2137,6 +3017,16 @@ Do you walk in the Holy Path;
 And when the One appears,
 The triad Impurities that your destruction encompasses
 Will, of themselves, meet their own destruction.`,
+    elaborationEnglish: `AM) sowmscr Oarosri Opp hovovr
+
+The False Paths Lead not to Param
+
+Forsooth, .
+
+The Faiths here below are a hundred in number,
+In that swollen stream are the Six Faiths too;
+These Faiths take not to the goal they boast of;
+They are true Faiths never,`,
   },
   {
     id: 1538, tantraId: 5, verseNumber: 1537,
@@ -2173,6 +3063,9 @@ They seek Him not by the right Path,
 And so free are not from Impurities;
 They shall grow insane
 Forever entangled in whirl of birth and death.`,
+    elaborationEnglish: `Contending faiths are like the braying asses. They lead but
+to the swirling cycle of birth and death. Pure Siva is beyond
+their reach.`,
   },
   {
     id: 1540, tantraId: 5, verseNumber: 1539,
@@ -2193,6 +3086,16 @@ And persevere in the pursuit
 Then shall Finite Goal be reached;
 They that are rid of the terrors of the wild
 Shall see the Path that to Para leads.`,
+    elaborationEnglish: `Mantras 1539 & 1540
+
+To attain the final goal — freedom from harassing doubts,
+and perseverence in Siva-pursuit are essential. God is with
+the steadfast and clear-visioned souls. To the doubting and
+inconstant, He is beyond reach. They realise not His
+mysterious plan, for which the fleshy body is fashioned.
+Gewar gostucr DosiQocr Gur558
+
+swe ginmssym Garsésarvd onia_e`,
   },
   {
     id: 1541, tantraId: 5, verseNumber: 1540,
@@ -2232,6 +3135,11 @@ If you but listen to Him that knows
 The origin of swirl that is birth and death,
 No more shall you seek
 The ways of the perishing men.`,
+    elaborationEnglish: `The cycle of births is the bane of the soul and the seed
+of the coupled karma. So, listen to Him, who knows the origin
+of this cycle.
+
+BIG BIH MPULUDHSD`,
   },
   {
     id: 1543, tantraId: 5, verseNumber: 1542,
@@ -2249,6 +3157,11 @@ He that is Nada and bears the name Nandi;
 You too shall make no distinction,
 But in prayer lift your hands to Him as Being Supreme;
 And the Primal One shall as such reveal Himself.`,
+    elaborationEnglish: `Mantras 1542 & 1543
+
+Little is the distinction between the Supreme Lord and holy
+Nandi. Hara, the Holy Father, is immanent in the hearts of
+men. Alienation from Him makes Him incognisable by jiva.`,
   },
   {
     id: 1544, tantraId: 5, verseNumber: 1543,
@@ -2266,6 +3179,11 @@ As implacable Truth He entered heart;
 But if hearts of devotees sought alien paths
 They know Him not;
 Then is He far, far away.`,
+    elaborationEnglish: `uAe) outeroucr Lester Lies Gouret
+
+Qulep cancrour Cupid Deups
+
+gilen bhener giiiinesh aicssr est ct`,
   },
   {
     id: 1545, tantraId: 5, verseNumber: 1544,
@@ -2286,6 +3204,16 @@ Do think of Him in thought unsullied;
 He is of crystal pure hue;
 Precious the path of Virtue
 He for us has laid.`,
+    elaborationEnglish: `Mantras 1544-1546
+
+God, the tender-hearted, is aware of our ultimate goal. He
+is the Effulgent Sun who designs our destiny. Precious and
+crystal pure becomes Hara’s path in intense meditation.
+Fidelity to God, who is far above all the religions, transcends
+the fleshy imperfections. True faith leads to the destined goal;
+adverse ones grant not His Grace.
+
+brw ost wuss wg/Qeumyp`,
   },
   {
     id: 1546, tantraId: 5, verseNumber: 1545,
@@ -2302,6 +3230,22 @@ This the right path, that the right path
 Be not tossed in such frail human doubts;
 Seek the Being that is beyond wilderness of doubts
 His is the Form that transcends fleshly imperfections.`,
+    elaborationEnglish: `True and False Faiths
+
+That Path they took
+
+The immortal Devas and the saintly tapasvins;
+And so reached the Goal True
+And merged in one with Siva;
+
+But they that followed froward faiths
+Received not His grace;
+
+They lost their way,
+
+And forever wander.
+
+omit nMaugib oorherm Gerf`,
   },
   {
     id: 1547, tantraId: 5, verseNumber: 1546,
@@ -2342,6 +3286,17 @@ You know contradiction none;
 That is Path Finite, your Goal's End;
 They are but folks poor in spirit
 That know not merging in Light Divine.`,
+    elaborationEnglish: `Mantras 1547 & 1549
+
+Apprehension of the light within is the true path of becommg.
+That is the goal which is free from contradictions. Worldly
+paths are nothing but a mirage. So give up the sorrowful path
+of whirling karma and crass evil; surely you will worship at
+the Lord’s Feet. The true path results in the consummation
+of holiness. Journey forward, straight inside, and the presence
+of the Lord will be with you for ever.
+
+Uppes Gbul SenrargicstG enouwey`,
   },
   {
     id: 1549, tantraId: 5, verseNumber: 1548,
@@ -2381,6 +3336,10 @@ Of the Karmaic ridden men of world
 Onward you journey, straight inside;
 Thou shall, for certain, stand
 In the Presence of the Lord of Heavenly Beings.`,
+    elaborationEnglish: `19. Agwengb
+
+Qowuns onmihorm Cooursct 40)
+uonwi Csr@ueru or grep`,
   },
   {
     id: 1551, tantraId: 5, verseNumber: 1550,
@@ -2400,6 +3359,16 @@ Received the Darshanas that are Six;
 But, in sooth,
 The Primal Lord is in intimacy within
 Of those that have Divine Tranquility attained.`,
+    elaborationEnglish: `Mantras 1550 & 1551
+
+The immortal heavenly beings having received the six
+darshanas believe that they have attained liberation; but true
+liberation is within and belongs to those who have attained
+divine tranquillity. Humble yourself at the Feet of the Lord.
+
+and’you become one with Siva. Unquenchable desires lead
+
+but to eternal sorrow.`,
   },
   {
     id: 1552, tantraId: 5, verseNumber: 1551,
@@ -2417,6 +3386,17 @@ Of spreading matted locks and Konrai bloom bedecked,
 They shall, like unto Him, become;
 But they that yearn not for Him in constant eagerness
 Shall be in sorrow immersed,
+Sighing eternal here below.`,
+    elaborationEnglish: `Of spreading matted locks and Konrai bloom
+bedecked,
+
+They shall, like unto Him, become;
+
+But they that yearn not for Him in constant
+eagerness
+
+Shall be in sorrow immersed,
+
 Sighing eternal here below.`,
   },
   {
@@ -2437,6 +3417,19 @@ Seek Lord in penance true,
 The Heavens' Lord shall wipe your tears away,
 And grant you Greatness;
 And you shall then know births no more.`,
+    elaborationEnglish: `The Heavens’ Lord shall wipe your tears away,
+And grant you Greatness; ;
+And you shall then know births no more.
+
+Mantras 1552 & 1553
+
+Neither despair nor wail. That will affect your better nature.
+Instead, perform tapas and atonement. The Lord will wipe
+your tears and grant you greatness. Life goes in vain for those
+who seek Him not. Befriend God by seeking Him. He will
+shower His manifold Grace and countless blessings.
+
+sD anmort gienssour Blencrticvr`,
   },
   {
     id: 1554, tantraId: 5, verseNumber: 1553,
@@ -2458,6 +3451,10 @@ In vain shall they be born again and again;
 Who seeks Path True
 To them, the Lord is unto richly laden clouds
 That drops gentle rain of Heavenly Grace.`,
+    elaborationEnglish: `ADyiam Ky HoopssGart Cases!
+upat_er unmb uppwbue Aggy
+
+Gpwg sO Gan@adenor wrenit`,
   },
   {
     id: 1555, tantraId: 5, verseNumber: 1554,
@@ -2478,6 +3475,18 @@ Having seen that unerring prospect
 These wretched men of ignoble deeds
 Think not of His Holy Feet,
 In devotion replete.`,
+    elaborationEnglish: `Think not of His Holy Feet,
+In devotion replete.
+
+Mantras 1554 & 1555
+
+Inspite of having realised that God guides the ‘boat of life,’
+wretched men of ignoble deeds do not think of Him in intense
+devotion. They are witless fools who laugh at the fact that
+Siva, the Eternal Being, is immanent within. If they but pray
+to Him, they will meet the Supreme One.
+
+corer waist Baiponcu Garonipscir`,
   },
   {
     id: 1556, tantraId: 5, verseNumber: 1555,
@@ -2514,6 +3523,19 @@ They wot not of approaching death,
 They seek not end of recurring birth,
 Lo! they pursued the unending path of contending faiths,
 And stood forlorn, for ever lost in faith false.`,
+    elaborationEnglish: `And stood forlorn, for ever lost in faith false.
+
+They who pursue false faiths do not wake to the inner light
+of Aum, that is within themselves. These faiths do not reveal
+the bliss that ensues when the’ ego is totally annihilated.
+Indifferent both to the cycle of approaching death and
+recurring birth, alas, they stand in forlom hope.
+
+20. 2 eiwib
+
+Qouwwsut sibewuyid crideswyd (petted
+Aowouw wessauer YD yotesss
+Faunuas ommgpscr prensa BIL`,
   },
   {
     id: 1558, tantraId: 5, verseNumber: 1557,
@@ -2533,6 +3555,22 @@ The Six Faiths seek the Feet
 But of the One Primal Peerless God;
 And in them all He pervades
 In measure appropriate.`,
+    elaborationEnglish: `And in them all He pervades
+In measure appropriate.
+
+Mantras 1557 & 1558
+
+The ancient Lord, the Creator of all worlds, pervades all the
+six inner faiths. The Lord is the ‘great city’ to which the
+six roads (six inner faiths) lead. They who stand in contention
+are similar to the dog that barks at its own echo from the
+
+hillside.
+
+aang Cut upwr 056
+corny Cura QOGYs snub
+
+Bas Hg) cromgeng wrens`,
   },
   {
     id: 1559, tantraId: 5, verseNumber: 1558,
@@ -2562,6 +3600,16 @@ He is Nandi of Divine Lustre
 That breaths the eternal life of Grace;
 Beloved is He of the truly great;
 The Lord of all universe, the source of all Joy;`,
+    elaborationEnglish: `Mantras 1559 & 1560
+
+He is the Peerless Lord of the munificent path of Saivam;
+the Nandi of Divine Lustre that grants an eternal life of Grace.
+He is the Lord of all universes, and the source of all joy.
+He laid the divine path that takes jiva to his eternal home.
+He is within: you. Seek and realise Him.
+
+LiQicIucT Muss Lipouyp pry
+Qaictaict crottu SPucusd sorirse`,
   },
   {
     id: 1561, tantraId: 5, verseNumber: 1560,
@@ -2579,6 +3627,7 @@ That leads to the Home Eternal
 Seek Him that way;
 And know you are He
 You shall duly find Him within yourself.`,
+    elaborationEnglish: `Guriry sreflvene yomou WUNgal`,
   },
   {
     id: 1562, tantraId: 5, verseNumber: 1561,
@@ -2597,6 +3646,9 @@ No good comes by following them alone;
 The true path of Becoming for all life to pursue
 Is but the path of divine Kundalini Sakti,
 The blossom-vine that through Six centers courses.`,
+    elaborationEnglish: `force in them all.
+
+2705 woos ses Come`,
   },
   {
     id: 1563, tantraId: 5, verseNumber: 1562,
@@ -2616,6 +3668,19 @@ Lo! all the while He stood before me
 Like a beacon light in firmament
 Guiding my voyage
 Across the sea of my Soul's longing.`,
+    elaborationEnglish: `Mantras 1562 & 1563
+
+Narrow and crooked is not the path to the Lord. All the while,
+He stands before you like a beacon light guiding the voyage
+across the-sea of soul's longing. Seek the. proven path of Siva
+that leads to Hara. It is the divine path that renowned souls
+have treaded through time.
+
+Gsrgs Ie Bobs Hous
+
+Gyurbsart oer Quurgs OuGeyp
+
+Bipsut AemL SHU yss BGMO GSM`,
   },
   {
     id: 1564, tantraId: 5, verseNumber: 1563,
@@ -2635,6 +3700,9 @@ The Path Divine
 That took the devout to Cosmic Space;
 That path, do seek,
 Enter and persevere.`,
+    elaborationEnglish: `A worsens uloomt.m al Khles
+
+om; Fartsens Qgiiler CorrGu`,
   },
   {
     id: 1565, tantraId: 5, verseNumber: 1564,
@@ -2651,6 +3719,18 @@ Still your wandering thoughts;
 Chant sacred syllable "Si"
 And so persevere in Path of Hara
 You shall envision Primal Light Effulgent.`,
+    elaborationEnglish: `Mantras 1564-1566
+
+Perseverence in the path of Hara enables the jiva to reach
+the effulgent Primal Light vision through the Saiva path. There
+is the Primal Lord, the tender shoot of Jnana Light with the
+
+Lady of Lightning Form, the blazing fire of Vedic brahmins
+
+and of the radiant souls who think of Him in devotfon.
+
+Mange? wroecr Guur Gauss
+SADSD wrmacsa BOY Dorergcrenes`,
   },
   {
     id: 1566, tantraId: 5, verseNumber: 1565,
@@ -2670,6 +3750,8 @@ He, the Primal Lord
 He, the tender shoot of Jnana,
 When you glimpse His loving signs,
 Then have you walked in Path of Siva.`,
+    elaborationEnglish: `ABwpgios grtachct gpomors FgTUus
+UTA ITH Horm MT)`,
   },
   {
     id: 1567, tantraId: 5, verseNumber: 1566,
@@ -2689,6 +3771,7 @@ The Truth saw not;
 They that followed Hara's Path
 Of a certain reached His Feet of Grace,
 And joyed the Bliss, all senses uplifted.`,
+    elaborationEnglish: `aru sows soar waorpsD`,
   },
   {
     id: 1568, tantraId: 5, verseNumber: 1567,
@@ -2727,6 +3810,20 @@ What though the form of Faith?
 What though the place of Birth?
 They with mind to infinity attuned
 Sure enter the City of God.`,
+    elaborationEnglish: `When my Lord Nandi thus sees
+Mad men in two contend
+
+He smiles in pity;
+
+What though the form of Faith?
+What though the place of Birth?
+They with mind to infinity attuned
+Sure enter the City of God.
+
+Siva smiles in pity at the mad men who contend about faiths.
+To attune to infinity is to reach the ‘City of God’.
+
+Go Ootais sC5r(pS Lwngyer`,
   },
   {
     id: 1570, tantraId: 5, verseNumber: 1569,
@@ -2746,6 +3843,10 @@ The Lord by Himself All
 Sports the garland of heads
 That verily is the Human Aspect
 Of the Godly One.`,
+    elaborationEnglish: `Siva has six faces (even as there are six faiths). One Face
+(Athomukha) looks downward for jiva’s liberation.
+
+AAU oreo Ceapi Yoarssocsr`,
   },
   {
     id: 1571, tantraId: 5, verseNumber: 1570,
@@ -2763,6 +3864,15 @@ He stands as the sea and the myriad life here below,
 And with Parasakti pervades all
 In Union that no separateness knows
 Verily, God is the Beginning and End of All.`,
+    elaborationEnglish: `Verily, God is the Beginning and End of All.
+
+Mantras 1570 & 1571
+
+With Parasakti, the Primal Lord pervades all Seven Worlds.
+He is the Beginning and End of all. The immortal beings,
+devas «and Vidyadharas sought Him, but in vain. Pursuit
+through the proven path of Siva grants realisation of bliss
+here and hereafter.`,
   },
   {
     id: 1572, tantraId: 5, verseNumber: 1571,
@@ -2780,6 +3890,10 @@ Sought after Him, but knew Him not;
 But pursuing the proven path of Siva
 I reached His Feet of Grace to adore
 And so realized the bliss of Here and Hereafter.`,
+    elaborationEnglish: `I reached His Feet of Grace to adore
+And so realized the bliss of Here and Hereafter.
+
+3) ws Gleu rr eer CHTFU CYL wie Lwenesr`,
   },
   {
     id: 1573, tantraId: 5, verseNumber: 1572,
@@ -2797,5 +3911,25 @@ Baffling it is, why into the six systems was it made;
 A baffling mystery far,
 How into the shedding sheaths of this body microcosm
 Got imprinted a veritable macrocosm.`,
+    elaborationEnglish: `Baffling it is, why into the six systems was it made;
+A baffling mystery far,
+
+How into the shedding sheaths of this body
+microcosm :
+
+Got imprinted a veritable macrocosm.
+
+Life’s goal is the realisation of the macrocosm in the
+
+microcosm — the Over-Soul in the self-soul—the mysterium
+tremendum.
+
+Tantra Five Concluded
+
+: TANTRA SIX
+
+1. HaGG sheorwd
+
+usg8U uehisg uta DY BOHSs`,
   },
 ];

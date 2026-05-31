@@ -21,6 +21,57 @@ I expound Siva Yoga;
 Hearken you!!
 I chant the One Letter, Aum
 Dear to our Lord.`,
+    elaborationEnglish: `Having revealed in the preceding Tantra the technique of
+kundalini yoga that climaxes in chandra yoga, Tirumular
+proceeds to expound the secrets of mantra and yantra.
+
+Mantra is the sound-body of a Devata, and yantra is its
+diagramatic representation.
+
+The primal mantra is ajapa—that which is not chanted. As
+we breathe, in, we make the subtle sound ‘sah;’ and as we
+breathe out, the subtle sound of ‘ham.’ These two constitute
+the ajapa mantra, ‘Soham,’ or ‘Hamsa’ as it becomes by
+continuous repetition inversion.
+
+The mute chanting of this unchanted mantra requires no
+special effort. Soham is, however, equated with the Pranava
+mantra, ‘Aum.’
+
+Aum consists of three letters,“A.” ‘U’ and ‘M.’ But-as the
+three letters: are always evoked together as Aum, it is also
+known as the One Leiter mantra.
+
+The exposition of the secrets of mantra and yantra belong
+to the realm of Siva yoga, as distinquished from kundalini
+yoga expounded previously.
+
+Mular treats Om (instead of the natural hamsa) as the Ajapa.
+In Sanskrit, ordinarily Om is treated as a mono-syllable; but
+as Panini has pointed out, the combination of a and u in
+this word, as an exception to the general rule, is to be
+pronounced ‘au’ a diphthong. This is the general rule in Tamil
+
+language.
+
+Ajapa: ‘‘The breath of every person in entering makes the
+sound of ‘sah’ and in coming out that of ‘ham.’ These two
+sounds make ‘Soham’ — ‘I am He’ — or ‘Hamsah,’ meaning
+‘the great swan.’ Throughout a day and a night there are
+21,600 such respirations. (That is 15 per minute). Every living
+being ‘(jiva) performs this japa (repetition) unconsciously, but
+constantly. This is called Ajapa Gayatri. This ajapa-japa is
+performed in three places — in the muladhara, anahata and
+
+¢ajna...All jivaS are constantly and unconsciously reciting this
+
+ajapa mantra, only for a fixed number of times every day.
+But a yogin should recite this consciously and count the
+numbers. By doubling the number of ajapa (that is by 30
+Tespirations per minute) the state of manonmani (fixedness
+of mind, is attained. There are no regular rechakas and
+purakas in this process.’ Vide Gheranda Samhita, V.84-96,
+quoted in ‘“‘Hatha Yoga,’’ by Theos Bernard, pp.55,56n.`,
   },
   {
     id: 886, tantraId: 4, verseNumber: 885,
@@ -37,6 +88,19 @@ By One Letter, A, He all worlds became;
 By Two Letters (A and U), He the Two became--Siva and Sakti;
 By Three Letters (A, U and M), He the Light became;
 By Letter M was Maya ushered in.`,
+    elaborationEnglish: `From the One Letter mantra, Aum (Pranava), that is nada,
+all worlds devolved. The two letters, A and U became Siva
+and Sakti, and thé letter, M, became maya.
+
+The term ‘ajapa’ “‘refers to a special form of effortless
+meditation. The sounds ‘ham’ and ‘sah’ processed by the
+movements of the breath themselves constitute the mantra
+and hence there is no need of muttering anything....’” (p.403
+of N.N. Bhattacharyya’s “*History of the Tantric Religion’).
+
+Csai GoonAarD Anmwb umbsaeap
+
+Gsai GapHearm Asbupb corns`,
   },
   {
     id: 887, tantraId: 4, verseNumber: 886,
@@ -53,6 +117,49 @@ Chitambalam is where Devas reside,
 Chitambalam is where Devas reside,
 Thiru Ambalam is where Devas reside,
 The Sabha of the South is where Devas reside.`,
+    elaborationEnglish: `The One Letter mantra, Aum, denotes the Divine Dance. It
+is Tandava, the Grace Act of the Lord performed in the
+Golden Hall of Chidambaram, the Sabha of the South.
+
+The word, Chidambaram, is of Sanskrit origin, and is made
+up of two words ‘cit’ (meaning mind, or thought) and
+‘ambaram® (meaning sky or space). Hence the word would
+mean Infinite Mind or the Divine ‘itself. As Mular himself
+has pointed out in various passages, Siva’s dance appeared
+first as a mental vision in the mind of Siddhars. The temple
+
+at Chidambaram {in Tamil ‘chitrambalam’) was apparently
+earlier merely a gathering place of Siddhars under a ‘bodhi
+tree’, before a temple was built there, and a dancing figure
+of Nataraja was placed there. “Chitrambalam’, which quite
+obviously is Tamilized form of ‘Chidambaram’, is nevertheless
+
+_ given an independent Tamil etymology by zealouts as ‘Chitr’
+
+from ‘Chiru’, meaning ‘small’, (become ‘Chitru') and
+“ambalam’, meaning ‘temple’. According to this, the Tamil
+word was later Sanskritized as Chidambaram. It is thus claimed
+that the dance of Nataraja appeared in iconography before
+it entered into poetry. An attempt to re-inforce this argument
+is made by referring to the Tiruvachakam verse which says
+that ‘the larger idol’ of the Linga replaced the smaller one
+of Nataraja. Undoubtedly, the Linga has replaced the Nataraja
+as a principal idol of worship in later days, but this does
+not, by any means, give justification for the Tamilian view
+of the origin of the word Chidambaram and of the concept
+of Nataraja’s dance, This would not be correct. Iconography
+follows concept in Hinduism and not the other way round,
+and in any case, the concept of Divine dance is a very ancient
+one. It would be interesting to note that the-dance form of
+Siva was earlier the terrible Tandava, which was later toned
+down to the auspicious form, apparently following the Tamil
+example.
+
+Verse 891 and notes thereon may also be seen.
+
+Mular refers to the Dance of Siva in Chidambaram as
+
+Gu Dgorw wrG was Ses os ld`,
   },
   {
     id: 888, tantraId: 4, verseNumber: 887,
@@ -70,6 +177,18 @@ In the Golden Temple is the Ananda (Bliss) Dance,
 In the Golden Temple is the Anavarata (Eternal) Dance,
 In the Golden Temple is the Pralaya (Deluge) Dance,
 In the Golden Temple is the Samhara (Dissolution) Dance.`,
+    elaborationEnglish: `In the Golden Temple is the Pralaya (Deluge) Dance,
+In the Golden Temple is the Samhara (Dissolution)
+Dance.
+
+The Atbhuta (Wonder) Dance, the Ananda (Bliss) Dance, the
+Anavarata (Eternal) Dance. the Pralaya (Deluge) Dance, and
+the Samhara (Dissolution) Dance are performed in the Golden
+Sabha.
+Mantras 887 & 903
+These verses link the mantras Aum and ‘‘Sivayanamah” to
+the Lord's ‘dance.
+srosas H5g5 SM Hap sHusH ‘`,
   },
   {
     id: 889, tantraId: 4, verseNumber: 888,
@@ -86,6 +205,13 @@ That which became Tandava Dance is One Letter Aum
 That which became Tandava is Grace-act of Lord
 He who performed Tandava is One Being Uncreated
 In the Golden Hall is Tandava Dance.`,
+    elaborationEnglish: `Aum
+‘That which became Tandava is Grace-act of Lord
+
+He-who performed Tandava is One Being Uncreated
+In the Golden Hall is. Tandava Dance.
+
+SsrGor UGE T SSH DTUH HES`,
   },
   {
     id: 890, tantraId: 4, verseNumber: 889,
@@ -103,6 +229,10 @@ He is Tattvas all;
 He stands as Letters A and U
 He is the Light Divine for Tattva Dance;
 He is for Himself the Support All.`,
+    elaborationEnglish: `Siva/Sakti, who stands as the letter A and U, is the Cosmic Light.
+The Lord is the support of the tattvas. He is the tattvas. He is
+the light divine of the tattva dance. rle stands beyond the tattvas
+as well.`,
   },
   {
     id: 891, tantraId: 4, verseNumber: 890,
@@ -120,6 +250,8 @@ In the Sphere of Muladhara He stands as Na-Ma-Si-Va-Ya
 In the Sphere of Fire He stands as Na-Ma-Si-Va-Ya
 In the Sphere beyond (Sun) He stands as Na-Ma-Si-Va-Ya
 In the Sphere of yoga (Moon) He stands as Ya-Va-Si.`,
+    elaborationEnglish: `33Gb Haws HST TET HSS
+Gn uTmEor 3 Hw ot Lb cress`,
   },
   {
     id: 892, tantraId: 4, verseNumber: 891,
@@ -138,6 +270,18 @@ They are Voids, beyond reach of thought
 They are Spaces Vast, of Intelligence Supreme,
 Where He His Holy dance performs;
 Letters A and U are Refuge Finale and Joy Eternal.`,
+    elaborationEnglish: `The letters A and U also denote the letters Si and Va —
+Si for Siva and Va for Sakti. They are supreme letters., They
+connote the spaces beyond the reach of thought, the vast
+spaces of supreme jnana. They are the final refuge and are
+eternal joy. In them, the Lord perform His Holy Dance.
+
+Here, and in following verses, an attempt is made to link
+the Om mantra with Sivaya in various ways. It is to be noted
+that, in the third line of this verse, Siva’s dance is said to
+have been enacted in ‘Spaces vast, of Intelligence Supreme’.
+
+AMES aperpid 9 HoV rér Ci noaprG tb`,
   },
   {
     id: 893, tantraId: 4, verseNumber: 892,
@@ -156,6 +300,13 @@ Si-Va-Ya is unalloyed joy;
 Not many know this,
 They who realizes this in Joy
 Will Him behold in Dance-Joyous (Ananda).`,
+    elaborationEnglish: `The three letters, Si, Ya and Ya, are perpetual bliss. They
+are unitive jnana. They are unalloyed joy. The Ananda Dance
+is performed in them.
+
+Uda SycarG1b unseaw avant
+
+ua CGsraangb UG ETS STMSET`,
   },
   {
     id: 894, tantraId: 4, verseNumber: 893,
@@ -176,6 +327,14 @@ In them merge
 The Tandava Dance of Dissolution;
 In Muladhara Triangle they are,
 Ascending high to Adharas rest.`,
+    elaborationEnglish: `The letters A and U, that are Si and Va, form the
+Mantra that aii men of vast knowledge chant. These two
+letters, Si and Wa, are the source of the five letters.
+Si Va Ya Na Ma. In them merges the Tandava Dance
+of Dissolution. This ‘Sivaya’” mantra is in the muladhara
+triangle. From there it ascends to the rest of the adharas.
+
+anrGp Fas aca@onny 1 strenesru tb`,
   },
   {
     id: 895, tantraId: 4, verseNumber: 894,
@@ -196,6 +355,39 @@ They are the dance Holy;
 They are the Agamic teachings divine,
 They are the Immaculate Purity
 Of the Divine Dance Hall.`,
+    elaborationEnglish: `The Jetters Si and Va are Sadasiva. They are the imperishable
+Agamas. They are the Godly goal. They are the mastwood
+tree on the banks of the Ganga within. They are the Holy
+Dance. They are the immaculate purity of the Divine Dance
+
+Hall.
+HOM UU TFG FAT B50 Ld
+
+HWVEF DET gpooray comrenw Hr) ws Lb
+
+Letters of Engrossing Purity
+
+The Letters Pure are the Agamas;
+
+The Letters Pure are Pati, Pasu, Pasa;
+
+The Letters Pure and Grace that is Bliss;.
+The Letters Pure are Egoity, Maya and Desire;
+Fhe Letters Pure are site of Divine Dance.
+
+They are the letters pure. They are Pati, pasu and pasa. They
+are the Agamas. They are the Grace, that is bliss. They are
+the Grand Divine Dance. j
+
+Lord is All
+
+Himself as His Lord stands;
+
+Himself as His Mountain stands;
+Himself as Pervasive Himself stands;
+Himself He stands,
+
+As Lord that is Himself.`,
   },
   {
     id: 896, tantraId: 4, verseNumber: 895,
@@ -246,6 +438,7 @@ He is the Lord who stood dancing eternal;
 He is the Lord who the holy one is;
 He is the Lord who unfolds Jnana's honey-laden Flower;
 He is the Lord whose Feet are holy beyond peer.`,
+    elaborationEnglish: `Qeocrwrt sipScncsr Wont Ee STE w`,
   },
   {
     id: 899, tantraId: 4, verseNumber: 898,
@@ -262,6 +455,11 @@ The peerless Feet of Lord are Letters A and U;
 The peerless Feet of Lord are Letters Two and Five;
 The peerless Feet of Lord are Letters Fifty and One
 The peerless Feet are mantras seven times thousand.`,
+    elaborationEnglish: `_ Panchakshara and those Bijaksharas.
+
+gipr Mourds QF Guserd wuugstu
+
+Tppr WTSHI uD crovressh cur ww S) 1b`,
   },
   {
     id: 900, tantraId: 4, verseNumber: 899,
@@ -279,6 +477,28 @@ And then into the Seven with endings diverse,
 Thus of the Seven Thousand mantras chanted,
 That are beyond thought,
 Have as vital the Seven and Two in the ultimate.`,
+    elaborationEnglish: `a = 0
+
+Thus of the Seven Thousand mantras chanted,
+That are beyond thought,
+Have as vital the Seven and Two in the ultimate.
+
+Mantras 899 & 900
+
+But the two letters are the vital, ultimate or contained
+all mantras. It is Siva’s ma our divine support.
+
+1) Excluding the one in sahasrara
+
+2) Mantras have seven different endings: i)nama; ii)svata;
+
+Another interpretation is that mantras are seven crores (70
+million) in number. They are enumerated in the Sanskrit work,
+“Sri Rajesvari Kalpa vide Tirumantira Malai,’’ by Tirumular
+edited by N. Sivaprakasa Desikar. However, here the reference
+is presumably to the seven endings, rather than seven crores,
+as the process of involution is indicated, 3) A and U plus
+Panchakshara.`,
   },
   {
     id: 901, tantraId: 4, verseNumber: 900,
@@ -295,6 +515,7 @@ Seven Thousand mantras there exist;
 But none, of this potent divine;
 This the mantra that is Siva's Holy Form;
 And all mantra is in this contained.`,
+    elaborationEnglish: `s7Gor Hang 2 sng srl hoes`,
   },
   {
     id: 902, tantraId: 4, verseNumber: 901,
@@ -311,6 +532,10 @@ He is unto Himself in His Dance;
 He stands as A and U;
 He is the One for Mayaic Dance of Tattvas;
 He dances the Dance, peerless here below.`,
+    elaborationEnglish: `Mantras 901 & 902
+
+That mantra is the dance of mayaic tattvas the alchemy that
+transforms the coppery jiva into golden Siva.`,
   },
   {
     id: 903, tantraId: 4, verseNumber: 902,
@@ -330,6 +555,7 @@ It is the Dance that leads to bliss;
 It is the Dance that is Siva Linga
 It is the alchemy that transforms
 The coppery Jiva into golden Siva.`,
+    elaborationEnglish: `QebyQure crew wfuym & ru Qwers`,
   },
   {
     id: 904, tantraId: 4, verseNumber: 903,
@@ -350,6 +576,16 @@ Chant "Srim" and "Krim;"
 Copper turns into gold;
 The Holy Temple alchemises
 Copper into gold.`,
+    elaborationEnglish: `’
+
+The Chitpara (Supreme Intelligence) exists there in the'Sivaya-
+nama’ mantra. It is the fullness of A and U, of Srim and
+Krim —.the seed mantras for Siva and Sakti.
+
+Srim and Krim are bija mantras for Siva and Sakti — same
+as A and U, and Si and Va.
+
+Gab usewrs Fong BS`,
   },
   {
     id: 905, tantraId: 4, verseNumber: 904,
@@ -367,6 +603,14 @@ Draw six lines each, vertical and horizontal,
 Thus form squares twenty and five,
 And in each inscribing Letters Five
 Meditate continuous.`,
+    elaborationEnglish: `Mantras 904 & 905
+
+Tiru Ambala Chakra (i)
+Tiru Ambala Chakra (ii)
+(Vide Mantra 923, Tantra Four, ibid.)
+
+These verses give a tantric interpretation to the mantras and
+the dance.`,
   },
   {
     id: 906, tantraId: 4, verseNumber: 905,
@@ -386,6 +630,7 @@ No more birth will be;
 With Lord's Grace,
 You shall behold the Eternal Dance;
 And copper (that is Jiva) turns into gold (that is Siva).`,
+    elaborationEnglish: `Qurcrenret wR Ysoal Qoamosrgi`,
   },
   {
     id: 907, tantraId: 4, verseNumber: 906,
@@ -407,6 +652,7 @@ As you breath in,
 Your body becomes gold;
 And in time,
 Shall you behold the Golden Feet of Lord.`,
+    elaborationEnglish: `Qurhursm sresentd YsSot 2 om Eb`,
   },
   {
     id: 908, tantraId: 4, verseNumber: 907,
@@ -463,6 +709,55 @@ Chant it eight thousand times;
 You shall see the (Sushumna) Path Subtle,
 You may enjoy the bliss of Siva
 That is subtlest of all.`,
+    elaborationEnglish: `That is subtlest of all.
+
+‘Sivaya nama’ is the sukshma mantra. Chant it eight thousand
+
+times. You will vision the subtle path of sushumna. You can
+destroy karma that is very subtle. You can enjoy the bliss
+of Siva that is the subtlest of all.
+
+2 Blb-AGGw- 910
+
+Sivaya Nama are of the Life-Vowels Five and
+Seminal Sounds Five
+
+One the Supreme Bliss,
+
+One the Supreme Bliss,
+
+Thus chant the mantra
+
+You shall have Bliss,
+
+Bliss has its source in Letters Five;
+A-I-U-E and Aum the life vowels they are;
+They become the Five Letter mantra
+
+And joy that is within joy;
+
+Bliss lies in the seed-letter Five;
+Hum-Hrim-Ham-Ksham-Am, are they.
+
+“One the supreme bliss. One the supreme bliss.’"— thus chant
+the mantra. You shall have bliss. Bliss has its source in the
+Five Letters, A,1,U.E and Aum — they are the five life-vowels.
+The five life-vowels became the Five-Lettered mantra. They
+correspond to the five seed-letters; Ham, Hrim, Hum, Sum
+and Aum.
+
+Tiru Ambala Chak ‘a (iii)
+Letters i, u, a, e and Aum are the Dance Letters.
+
+This verse give three alternative interpretations to the
+
+“‘pancakshara’’ (the S-letter mantra). It could be either A,
+
+I, U, E and M, or *‘Sivaya Nama’’, or the tantric “Hum,
+
+Hrim, Hum, Ksham and Am”’.
+
+Giocsfl uDgosr @) Lb * 291-3 -FF- -G -eTosT@nyLd`,
   },
   {
     id: 911, tantraId: 4, verseNumber: 910,
@@ -508,6 +803,15 @@ U-A-I-E-O
 The Two Letters that are Lord's Corpus
 Become the Five Letters that is Siva Dance
 I-O-U-A-E.`,
+    elaborationEnglish: `The two letters, A and U, are the body of the Lord. Chant
+
+it inarticulately. As the two suffuse your body, you stand
+transformed. The two letters, A and U, became the five
+letters, U, A, I, E and O — that ave jiva. The two letters
+became the five letters, I, O, U. E and A — that are the
+Siva Dance.
+
+asGs Hourw poe eurru Gy rs`,
   },
   {
     id: 913, tantraId: 4, verseNumber: 912,
@@ -524,6 +828,18 @@ The Dance-Letters Si Va Ya become Namasivaya
 The Dance-Letters I, U, A, E and O(m) become Sivaya Nama
 The Dance-Letters I, U, A, E and O(m) become Si Va Ya Nama
 The Dance-Letters I, U, A, E and O(m) become the stellar mantra Nama Sivaya`,
+    elaborationEnglish: `‘Sivayanama’ becomes ‘Ma Si Va Ya Na, that are I, U, A,
+E and O — the dance-letters of Siva.
+
+Compare Mantra 927, infra.
+
+Letters aeu, ae and Aum denote the Five Letters, Si, Va,
+Ya, Na, Ma. The origin of the Five Letter mantra is traced
+to the letter-sounds in Siva’s rhythmic dance steps.
+
+garpger tm Gan Ogre pt enn
+gapofer epsom. Grup @ssr-
+gapornre 41 Got gomugsid 2 t oom`,
   },
   {
     id: 914, tantraId: 4, verseNumber: 913,
@@ -545,6 +861,15 @@ He danced on one Foot;
 He danced in Saktis Nine;
 He danced in arena that is Space;
 He danced the Dance of Ruby.`,
+    elaborationEnglish: `The Lord danced as One, alone. He danced as two with Sakti.
+
+He danced with several — all creation. He danced with three
+— the sun, moon and fire. He danced with jiva and with
+all the worlds. He danced with one Foot, and He danced with
+the nine saktis. He danced in the adharas that are space.
+He danced the Dance of the Ruby.
+
+QossQau actwmacr ron Crome`,
   },
   {
     id: 915, tantraId: 4, verseNumber: 914,
@@ -572,6 +897,8 @@ In his own Letter "Si", He abides;
 The four letters conjoint are great Letters of His name
 On the four sides of His Chakra are His own Five letters
 In the One letter He abides is Hara's mantra too.`,
+    elaborationEnglish: `The number 121 is the square of 11, and there are, according
+to the Vedas, 11! Rudras (Sivas).`,
   },
   {
     id: 917, tantraId: 4, verseNumber: 916,
@@ -628,6 +955,7 @@ Who, on the blooming lotus sits;
 They who chant the letter aspirated "O"
 Conjoint with the letter unaspirated "m"
 May well preserve their life ever.`,
+    elaborationEnglish: `AWW WIS HDIGZMINS Srovrd Guns`,
   },
   {
     id: 920, tantraId: 4, verseNumber: 919,
@@ -645,6 +973,11 @@ That Panchakshara Manifest (is Namasivaya)
 That Subtle is Sivayanama
 Thus is He in that Mantra,
 Manifest and Subtle.`,
+    elaborationEnglish: `QGgisQu alrbh Qoupa Gros
+
+Qois usaict QGrms mussre
+
+Qoss aonset QGusmse sre`,
   },
   {
     id: 921, tantraId: 4, verseNumber: 920,
@@ -661,6 +994,7 @@ That Chakra is with six by six lines formed,
 The lines inside are five by five
 Thus in all into five and twenty chambers divided;
 In Center of these is Letter Ma.`,
+    elaborationEnglish: `ASS Soownw 3) Gas Aasmguwnus`,
   },
   {
     id: 922, tantraId: 4, verseNumber: 921,
@@ -681,6 +1015,12 @@ Place Letter 'Ya' on top,
 Fix letter 'Si' on both sides,
 That they look like eyes two,
 The Letters 'Na' and 'A' to form the diagram's feet two.`,
+    elaborationEnglish: `Tiru Ambala Chakra (vii)
+
+‘‘Panchakshara Deepa’’ — Commentary — Edited by
+Dandapani Desikar.
+
+BO wares Hots suGq Hers`,
   },
   {
     id: 923, tantraId: 4, verseNumber: 922,
@@ -698,6 +1038,7 @@ In the Center on top place 'Si'
 On sides two place letters 'Va' and 'Ya'
 Inside inscribe Na Ma Si Va Ya
 On the outer round figure Letters Si Va Ya Na Ma.`,
+    elaborationEnglish: `Sye, Aorw Bows) anrwp`,
   },
   {
     id: 924, tantraId: 4, verseNumber: 923,
@@ -718,6 +1059,12 @@ In the row third write Na Ma Si Va Ya
 Still below comes Letters in order Ya Na Ma Si Va
 In the squares last are Letters Va Ya Na Ma Si
 Thus do you fill squares in Chakra`,
+    elaborationEnglish: `Tiru Ambala Chakra (ix)
+See Mantra 905 supra — the difference is that here there
+are only two horizontal lines.
+
+Sa_Mehic gmiwbugiid goaws sonpudct
+AML aM stipsongsZiugs Ogres ld`,
   },
   {
     id: 925, tantraId: 4, verseNumber: 924,
@@ -737,6 +1084,16 @@ And final letter "Ksh" to end;
 These with the one letter Om;
 Fifty and one in all, the letters fill,
 In Chakra's chambers five and twenty.`,
+    elaborationEnglish: `Tiru Ambala Chakra (x)
+
+The reference to letter ‘Ksha’ in the third line makes it clear
+that Mular has the Sanskrit letters in mind. *‘A’’ to ‘‘Ksha"’
+make 51 letters in all, says Mular,. which would correspond
+te the Sanskrit system in one manner of counting, for in that
+language, there is a great flexibility in enumerating the letters.
+
+The S1 letters referred to in this verse are the Sanskrti letters.
+Due to various reasons, the number of Sanskrit letters vary from`,
   },
   {
     id: 926, tantraId: 4, verseNumber: 925,
@@ -753,6 +1110,7 @@ At the outer circle describe Hara Hara,
 In the inner circle describe Hari Hari,
 In the inner most center place Om, the Ajapa,
 Mark the ends of circle by Trident sign.`,
+    elaborationEnglish: `Tiru Ambala Chakra. (xi)`,
   },
   {
     id: 927, tantraId: 4, verseNumber: 926,
@@ -772,6 +1130,7 @@ Write Letters Five
 In the space betwixt trident signs;
 The Chakra thus formed,
 Indeed, is Lord's Abode.`,
+    elaborationEnglish: `AKU Bs Qarg 2 srg`,
   },
   {
     id: 928, tantraId: 4, verseNumber: 927,
@@ -791,6 +1150,7 @@ Inscribe the Letters Five,
 A, E, U, AE and O
 That denote the Five Letters
 Si, Va, Ya, Na, Ma.`,
+    elaborationEnglish: `Gsriahp ssa oll gsa. s6Sudei —`,
   },
   {
     id: 929, tantraId: 4, verseNumber: 928,
@@ -809,6 +1169,9 @@ This the Mula Chakra famed,
 In space between circles two
 Fill entire with Letters Five stated,
 Then does Chakra its loveliness take.`,
+    elaborationEnglish: `Qwayfid woud cruigybd cuypudesr
+
+Ywaybd yorsyid QurnGesu& wert adcsr`,
   },
   {
     id: 930, tantraId: 4, verseNumber: 929,
@@ -828,6 +1191,15 @@ Anterior to chanting this mantra
 Were the seed-mantras that pertains
 To Wind, Water, Fire, Earth and Sky
 Yam, Vam, Ram, Lam, and Ham.`,
+    elaborationEnglish: `Were the seed-mantras that pertains
+To Wind, Water, Fire, Earth and-Sky
+Yam, Vam, Ram, Lam, and Ham.
+
+Mular connects the pancakshara with the five elements and
+their corresponding bija mantras in Tantrism. (These latter
+are nasalised forms of the letters Y, R, L, V and Ha.)
+
+POLO Herm Hourw Hw Qectrars`,
   },
   {
     id: 931, tantraId: 4, verseNumber: 930,
@@ -869,6 +1241,7 @@ The Lord is seated in His Consort's Letter (Sauh)
 The Lady is seated in Her Lord's Letter (Hum)
 When thus the Two are in amity seated
 The holy beings comrehend the meaning inner.`,
+    elaborationEnglish: `waa @ CGuoGa aalums sos or`,
   },
   {
     id: 933, tantraId: 4, verseNumber: 932,
@@ -889,6 +1262,7 @@ Center your mind on it
 And course your breath above,
 You shalt vision indeed
 The Dance of Divine Light.`,
+    elaborationEnglish: `AUT) Fao toons som Garergy`,
   },
   {
     id: 934, tantraId: 4, verseNumber: 933,
@@ -925,6 +1299,7 @@ Letter-Five is seat of Nandi
 Letter-Five is Holy Mantra
 Letter-Five is Divine Chakra
 Letter-Five is Lord's abode.`,
+    elaborationEnglish: `ASEOQorT Oromrenmiw Qancrensw gruipbiut`,
   },
   {
     id: 936, tantraId: 4, verseNumber: 935,
@@ -942,6 +1317,9 @@ Many are the ways;
 Chant first Letter of Dance (Si),
 Thou with Dancer will one in thought be;
 That the way to see the Dancer truly.`,
+    elaborationEnglish: `Even the chanting of the first letter of Sivayanama is enough
+
+to enable the devotee to envision the Dancer.`,
   },
   {
     id: 937, tantraId: 4, verseNumber: 936,
@@ -977,6 +1355,7 @@ High above in Sahasrara places thee;
 There do you chant Her syllable "Ma"
 You shall indeed be placed
 As unto a gem of ray serene.`,
+    elaborationEnglish: `She Herself granting Grace quaue urs gatum CGoréhuy.H`,
   },
   {
     id: 939, tantraId: 4, verseNumber: 938,
@@ -1062,6 +1441,26 @@ Of greatness thus are Letters two and three,
 And in it as His Radiant Form Nandi shone;
 See Him as Letter "OM"
 Wide He spreads unto Ocean Vast.`,
+    elaborationEnglish: `Lord Revealed His First Letter ‘‘Si Renee arieae anies
+The North beamed in radiant light SIbAOD w5HICG Gipusms Curse
+There stood Lord of Devas (Indra) crowned in 27656 WEBI gQucr OmupiGu. ~ 943
+
+diadem bright;
+
+And the Lord revealed His letter ‘‘Si’’ Power of Five-Letter Mantra
+
+Sparkling as rays within gem pure, That Mantra spread everywhere
+It beamed‘ aloft for all to see That Mantra its boon grants to lives all,
+Unto a light set on mountain top. Do you chant it appropriate,
+
+: : st All hostility that harasses you shall flee;
+See ae eae ues died It is the Mantra that makes you mighty and strong;
+| Gee a eee eae eo That Mantra do you invoke chanting OM.
+
+grGor Quapss wenmnwa oamGiw. 939 i Ete ; :
+
+The Lord is Uncreated prOwer Onapeid sAGucp Buses
+Himself He stands as the Soft Light Uncreated, AOwer Oepriducy curps) cumitecir`,
   },
   {
     id: 944, tantraId: 4, verseNumber: 943,
@@ -1117,6 +1516,20 @@ In Chakra that is designed
 Are Letters Five in places appropriate;
 There stands He the Para Para
 Who the Fifty One Letters fills.`,
+    elaborationEnglish: `Five-Letter Form of Siva Sh i
+Are Letters Five in places appropriate;
+
+His Feet are Letter ‘‘Na’’ There stands He the ParaPara (the transcendent
+His navel is Letter ‘‘Ma’’ Reality)
+His shouldérs are Letter ‘‘Si’’ Who the Fifty One Letters fills.
+
+His mouth is Letter ‘‘Va’’
+His cranial centre aloft is Letter ‘‘Ya’’
+
+—Thus Five-Letter Form of Siva is. upor AGOSUDS sist EO aust
+
+ujporw fue untéHo wows)
+MUMUS uTU Qawpsr Onepsonsujes ugorw Aupw cnbuss Cero`,
   },
   {
     id: 947, tantraId: 4, verseNumber: 946,
@@ -1135,6 +1548,20 @@ Further on place the letters in order thus:
 Ma Va Ya Na Si; Si Ya Na Ma Va;
 And Va Si Ma Ya Na
 Thus do the Five Letters in Chakra permuted stand.`,
+    elaborationEnglish: `Inscribe Letters Five Si Va Ya Na Ma;
+
+In the next row place Letters Ya Na Va Si Ma;
+Further on place the letters in order thus:
+
+Ma Va Ya‘ Na Si; Si Ya Na Ma Va:
+
+And Va Si Ma Ya Na
+
+Thus do the Five Letters in Chakra permuted stand.
+
+pen psgiescer CETEG YSyw
+
+Herm supsgisacr Cprg7 Hlerplyod`,
   },
   {
     id: 948, tantraId: 4, verseNumber: 947,
@@ -1153,6 +1580,14 @@ The Letters that stood thus
 Are the Colors Five;
 If Letters stood in order appropriate
 He stood within the Letters, for sure.`,
+    elaborationEnglish: `Letters are said to have colours, perhaps because when used
+in yantras, they are coloured differently. Usually, the colours
+are five, namely, white, orange, yellow, green or blue and
+black.
+
+Colour Symbolism is important in Hinduism. Hence, the Five
+Letters (pancakshara) are said to represent the five elements,
+(cf.977) and are assigned individual colours each.`,
   },
   {
     id: 949, tantraId: 4, verseNumber: 948,
@@ -1173,6 +1608,16 @@ He, Master of comely Maya Land;
 And from Nandi flowed Milk of Grace
 As from mother-cow unto calf;
 Nandi, who stands high aloft Mount Kailas.`,
+    elaborationEnglish: `The word ‘chakra’ stands for ‘ta circle used in a variety of
+senses. In rituals, there are different chakra - sadhanas in
+which male and female aspirants assemble and perform the
+rites of Pancamakara..... According to the Niruttara-tantra,
+chakras are of five types, - Raja, Maha, Deva, Vira, and
+Pasu. The term chakra is also. used to denote yantras or mystic
+diagrams and variously known as
+*tasthakona-chakra’’, and so forth. Again, the term is used
+to denote different nerve - plexuses within the body’’. (N.N.
+Bhattacharyya, ‘‘History of the Tantric Religion’. p.419).`,
   },
   {
     id: 950, tantraId: 4, verseNumber: 949,
@@ -1189,6 +1634,14 @@ Within this Chakra is much good that comes
 Within this Chakra are Names Five
 This Chakra is Letter-Five of Dancer Divine
 This Chakra is where Dance Divine incessant goes on.`,
+    elaborationEnglish: `Significance of Chakra
+
+Within this Chakra is much good that comes
+Within this Chakra are Names Five
+
+This Chakra is Letter-Five of Dancer Divine
+This Chakra is where Dance Divine incessant goes
+on.`,
   },
   {
     id: 951, tantraId: 4, verseNumber: 950,
@@ -1209,6 +1662,9 @@ On its "leg" place Bindu letter "Si"
 On its "horn" place Nada letter "Va"
 This the Siva Mantra,
 You clear shall know.`,
+    elaborationEnglish: `Hang arg Hans sQeurw
+
+esrngGuor Lapb coluio mun.é`,
   },
   {
     id: 952, tantraId: 4, verseNumber: 951,
@@ -1233,6 +1689,7 @@ And "Si" and rest in order following,
 As you thus chant,
 The Primal Lord of "Om" appears,
 Rejoicing.`,
+    elaborationEnglish: `App M$6S Hamgw grag`,
   },
   {
     id: 953, tantraId: 4, verseNumber: 952,
@@ -1271,6 +1728,10 @@ Then does melting Mukti there appear;
 When "Ma" I chanted,
 With me was "Nandi";
 How shall I speak of my Father's greatness!`,
+    elaborationEnglish: `Bie +THpsHa avs THagy
+
+aurredt ev Ts Osrergy Soot) curiicvency
+uray Qupgsers sion goursor`,
   },
   {
     id: 955, tantraId: 4, verseNumber: 954,
@@ -1481,6 +1942,155 @@ And endless expands,
 As neck, hands, legs and body entire;
 As Letters One and Fifty, too,
 Her Form expands.`,
+    elaborationEnglish: `Coane san Gaugib MomdGw
+
+Mukti is When Aum Appears in Garland of Letters
+: Within
+
+Course breath through central Sushumna,
+
+And be in the centre within of the Garland of
+
+Tilers;
+
+When in the Centre of that garland
+
+The Primal Mantra AUM, Vedas speak of appears,
+
+Then is Mukti, sure indeed.
+
+praluier Sips Bre crUpsOsrcrgy
+
+Csys stb D6 pP5GHG5 srGor. 956
+
+Sakti and Siva are on the Mystic Letter Below
+the Navel
+
+Below the navel’ is a great Letter,
+
+The unholy its greatness know not;
+
+Even the Creator (Brahma) knows it not,
+There it is Siva with Sakti, in total splendour.
+
+Ha(m)sa is Hara’s Mantra
+
+“Ha’’ and ‘‘Sa’’ together’ form Hara’s mantra
+
+But none know the truth of Hamsa;
+
+When that truth any one knows
+
+He shall know Hamsa as beginningless.
+
+2 BAWaynGer 2 Swibucir omnrb Dees
+
+The Great Mantra Rises in the Heart
+
+There is a Mantra great
+
+That inside heart’s lotus rises;
+
+It roots lie deep in the navel;
+
+They who know it not, come by it not;
+They but prayed at sunset
+
+And with loud noise departed.
+
+‘‘Aum’’ Mantra Sustains Life
+
+‘‘Hamsa’’ Mantra chanted within
+
+In directions all spreads;
+
+It is the Mantra of. life, sustaining breath;
+It is the Mantra in the lotus of heart;
+When constantly chanted,
+
+That Mantra in life’s centre
+
+Is verily unt®a mahout’s goad,
+
+That elephantine passions control.
+
+Qugs g14Ue0r Cueslu albgi
+
+Chant ‘‘Om Sivaya Nama’’
+
+In formless space rises Nada,
+
+In .Sakti of slender waist rises Bindu,
+Together they form, OM
+
+With letter. “*Ya’’ in centre,
+
+When mantra‘Si Va Ya Na Ma is incessant chanted,
+That mantra (Om Sivaya Nama) spouts, Siva Bliss.
+
+MNsgatd Brsupb Cwal wr orgays
+
+The Mantra is Oblation to Siva
+
+If Bindu and Nada conjoint reach
+The Mystic Moon inside the head,
+
+The heavenly ambrosia wells up,
+
+The: Mantra that rises there
+
+Is verily the oblation to Siva.
+BOs Dsnerprs @ 2 cognac
+GauGnups Hor Morbuacd ants 6
+
+Chant Aum and Be Redeemed
+
+They who chant the Six-Letter Mantra (Om Si Va
+Ya Na Ma)
+
+Are they who truly know;
+
+They who chant not the Six-Lettered Mantra
+Are they who know not;
+
+Even they who chant with othereletter none,
+May with One-Letter (AUM) redeemed be.
+
+Garland of Fifty-One. Letters
+
+With Letter ‘‘Aum’’ are vowels fifteen formed;
+To Bindu’s luminous letter ‘‘A’’
+
+Add Nada letter ‘‘U”’
+
+With rest of letters thirteen,
+
+They fifteen vowels are;
+
+Together with consonants,
+
+The Primal letters are
+
+As Fifty and one reckoned.
+
+This verse is inspired by the concept of ‘‘Varna mala”’ (garland
+of letters) of the Sakti cult.
+
+S550 orsom sreytw unulerrer
+
+Sakti Expands as Fifty-One Letters
+With Letter ‘‘A’’ tnat is Bindu,
+And curled Letter “‘U’’ that is Nada,
+When together they upward ascend,
+Sakti within beams,
+With kalas six and ten,
+And endlessly expands,
+As neck, hands, legs and body entire;
+As Letters One and Fifty, too,
+Her Form expands.
+
+The 51 letters of the Sanskrit language are identified with
+various parts of Sakti.`,
   },
   {
     id: 966, tantraId: 4, verseNumber: 965,
@@ -1497,6 +2107,11 @@ Letters Fifty are Vedas all,
 Letters Fifty are Agamas all,
 When source of Letters Fifty are known,
 Fifty Letters to Five Letters comes.`,
+    elaborationEnglish: `Here, the number of letters is said to be SO, reflecting the
+
+vacillations of the phoneticians of the Sanskrit language.
+
+AGWNYS STHuse Gure uemis sore`,
   },
   {
     id: 967, tantraId: 4, verseNumber: 966,
@@ -1513,6 +2128,7 @@ With Five letters He created elements five;
 With Five letters He created diverse life;
 With Five letters He supported spaces vast,
 With Five letters He in Jivas abides.`,
+    elaborationEnglish: `srihs Moors gwir Curses SmvcayD`,
   },
   {
     id: 968, tantraId: 4, verseNumber: 967,
@@ -1530,6 +2146,10 @@ In desire high,
 For them Karma's miseries fleet away;
 The Lord says: "Come unto me"
 --He of Matted Locks.`,
+    elaborationEnglish: `LST O GHD 2 1968) srevrplp
+
+usrey 9) Gaorafuyjid witty wrusb)i Ged
+Merosict mugt oN 19 snp`,
   },
   {
     id: 969, tantraId: 4, verseNumber: 968,
@@ -1549,6 +2169,7 @@ He is Song too;
 The Celestials adore Him fervent;
 In their thoughts He stood;
 In Five Letters He stood.`,
+    elaborationEnglish: `oper QuGg@muGu sew wragyb`,
   },
   {
     id: 970, tantraId: 4, verseNumber: 969,
@@ -1566,6 +2187,7 @@ Temples Holy are Five Letters great
 Grace of Lord is Five Letters great
 Chant Five Letters great,
 You shall ever young be.`,
+    elaborationEnglish: `Gudops sree stiypwond Ape`,
   },
   {
     id: 971, tantraId: 4, verseNumber: 970,
@@ -1582,6 +2204,7 @@ As Seed-Letter, He pervades Spaces and Beyond,
 As Goodly-Letter, He fills world and sustains it,
 As Renowned-Letter, He stands as fire, and life,
 As one Letter, He stands Resplendent Rare.`,
+    elaborationEnglish: `Bronk sipsGsreng Grab 2 Gag`,
   },
   {
     id: 972, tantraId: 4, verseNumber: 971,
@@ -1598,6 +2221,10 @@ In the sound of Fourth Letter (Va) world takes form,
 In the sound of Fourth Letter is World contained,
 For them who chant Fourth Letter incessant,
 The Fourth Letter is Way Holy.`,
+    elaborationEnglish: `In the mantra. Na Ma Si Va Ya (Panchakshara), the fourth
+letter is Va, denoting Sakti.
+
+uugsecr Gung ugsng) upmitd`,
   },
   {
     id: 973, tantraId: 4, verseNumber: 972,
@@ -1617,6 +2244,7 @@ Think of what it brings;
 Cling to Her Feet;
 Transformed was I;
 All my prattle ceased.`,
+    elaborationEnglish: `gush Coys: ussgyb gGsDsor`,
   },
   {
     id: 974, tantraId: 4, verseNumber: 973,
@@ -1634,6 +2262,7 @@ Offer it into the fire of Om
 Chant incessant Na Ma Si Va
 That the name of Sakti Finite is;
 She, Mistress of Dharma, stands revealed.`,
+    elaborationEnglish: `Quer wAGDL go usdag`,
   },
   {
     id: 975, tantraId: 4, verseNumber: 974,
@@ -1650,6 +2279,10 @@ Letters Five are Lord's gift,
 In it, central He dances, night and day,
 In endearment eternal;
 He that assumed, Forms Eight.`,
+    elaborationEnglish: `Five elements plus the sun, moon and jiva are the eight forms
+of Siva, or Siva is pervasive in the eight directions.
+
+bang webrw agp UssHH`,
   },
   {
     id: 976, tantraId: 4, verseNumber: 975,
@@ -1668,6 +2301,9 @@ Thus it is in Three-lettered Word "A U M"
 "Si" is Siva; "Va" is Sakti;
 "Ya" is Jiva--
 Thus it is, in Three Letter-Word Si Va Ya.`,
+    elaborationEnglish: `Beng wang Hang B@eouruw
+
+Usb Q)jorGiwb cuofuj. or gig`,
   },
   {
     id: 977, tantraId: 4, verseNumber: 976,
@@ -1687,6 +2323,12 @@ Together with "OM" at beginning of all,
 If you even once chant thus,
 The Lord of "Ma" (Maya)
 Will in your heart be.`,
+    elaborationEnglish: `If you even once chant thus,
+
+The Lord of ‘‘Ma’’ (Maya)
+Will in your heart be.
+
+AGT anne: QL oNuer aimipoica`,
   },
   {
     id: 978, tantraId: 4, verseNumber: 977,
@@ -1730,6 +2372,15 @@ Leave out Letters "Na" and "Ma"
 Nandi in Muladhara you seek;
 Those who meet Him there with Parai (Sakti)
 Will have actions none more to perform.`,
+    elaborationEnglish: `Nandi in Muladhara you seek;
+
+Those who meet Him there with Parai (Sakti)
+Will have actions none more to perform.
+
+Santhyatheetha, santhi, vidya; pratishta, nivritti, are the five
+kalas.
+
+AGWSS Gursypbh EGrewup wires`,
   },
   {
     id: 980, tantraId: 4, verseNumber: 979,
@@ -1749,6 +2400,8 @@ With it,
 The illumined Jiva receives Grace
 And he Siva becomes;
 That indeed is liberation true.`,
+    elaborationEnglish: `AGS AHS gioremw moHNG5MCr
+UGE UWdenw wend gGb sypalevenw`,
   },
   {
     id: 981, tantraId: 4, verseNumber: 980,
@@ -1767,6 +2420,7 @@ Truth this is;
 And immortal you will be;
 Letters Five is your Refuge;
 None other, I emphatic say.`,
+    elaborationEnglish: `AcarwOer cays Dsohweucd cumracit`,
   },
   {
     id: 982, tantraId: 4, verseNumber: 981,
@@ -1784,6 +2438,8 @@ Along with "Si", "Va" and "Ya" (That is as Om Sivaya)
 Is verily Siva's Form,
 They who understand "Si", "Va" and "Ya" with "A" and "U"
 Have realised "Om Sivaya" as Mantra great.`,
+    elaborationEnglish: `Aang wens wang (pr Gor ‘
+pang wang BHOAD sry`,
   },
   {
     id: 983, tantraId: 4, verseNumber: 982,
@@ -1802,6 +2458,7 @@ In heart's center,
 And with "Aum";
 The Letter Five when thus chanted,
 The Lord of "Ma" (Maya) appreciative appears.`,
+    elaborationEnglish: `Abws ginGer Ashuad anra_es`,
   },
   {
     id: 984, tantraId: 4, verseNumber: 983,
@@ -1840,6 +2497,7 @@ By chanting Si Va,
 May yet Siva become,
 The Lord of Tattvas,
 This true, beyond doubt.`,
+    elaborationEnglish: `FAW TOW QrerOu Galssw`,
   },
   {
     id: 986, tantraId: 4, verseNumber: 985,
@@ -1857,6 +2515,10 @@ Seek Nandi in Jnana within,
 The Five wavering senses,
 Your friends become;
 Chant AUM and be doubt-free.`,
+    elaborationEnglish: `aL Ob QrwOb Qelsh Aapor ~
+TL Ob QreObd sapwrs genpur
+
+~`,
   },
   {
     id: 987, tantraId: 4, verseNumber: 986,
@@ -1902,6 +2564,10 @@ The Dhanavar, the Chattar, the Sathirar two,
 The two Guard-gods, and the rest of them fifteen,
 Bindu, and Nada and Siva Gana Natha,
 Thus form Siva Chakra.`,
+    elaborationEnglish: `ULL ot wrse wimp ugTUgLb
+
+Metter gsibeow aise weer
+Tlieer wruleyid Freer BnsSnw`,
   },
   {
     id: 990, tantraId: 4, verseNumber: 989,
@@ -1922,6 +2588,11 @@ But I speak no more than a tiny bit,
 Of Lord's Greatness, mighty;
 I near Him but a little;
 Beyond this, I nothing know.`,
+    elaborationEnglish: `Aacwwpse apaGor mar Apgs
+
+HOOP 5 eV BV goer Ch_rat CyrGrmeoit mes
+
+AOUYPSHY DNFFayld STSWp gms`,
   },
   {
     id: 991, tantraId: 4, verseNumber: 990,
@@ -1956,6 +2627,25 @@ Then mark the Kalas Twelve
 And then the Kalas Ten
 That in sacrificial rituals of Brahmins appear
 Thus thou mark and chant in Chakra.`,
+    elaborationEnglish: `_1) The 16 kalas of the moon are: amrta, manada, pusa, tusti,
+
+pusti, rati, dhrti, sasini, candrika, kanti, jyotsna, srih, priti,
+angada, purna and puramrta.
+
+2) The 12 kalas of the sun are: tapinj, taapini, dhymra,
+marici, jvalini, ruci, susumna, bhogada, visva, bodhini, dharini
+and kshama.
+
+3) The 10 kalas of fire are: dhumrarc, usma, jvalini, jvaalini,
+visphulingini, susri, surupa, kapila, harvya-vaha and
+kavya-vaha.
+
+Vide “‘The Garland of Letters,’’ p.103, quoted from
+Saubhagya-ratnakara.
+
+soaps Gscraw wibwe araent
+OsremOimps Comore myw srosgil
+Ler wins uUBeaip CGudserpy`,
   },
   {
     id: 993, tantraId: 4, verseNumber: 992,
@@ -1975,6 +2665,7 @@ I then lost my sense of Self,
 Betaking to gracious way of Lord Eternal;
 In endearment undiminished,
 Do chant "Nama."`,
+    elaborationEnglish: `yososius cuterour Lyiwenip ga ples (pI)`,
   },
   {
     id: 994, tantraId: 4, verseNumber: 993,
@@ -2011,6 +2702,24 @@ That the Letters of Savitri mantra art;
 Savitri has the Letter First (that is Aum)
 They whom separate meditate on it,
 Have no more the birth-travail.`,
+    elaborationEnglish: `Savitri (Divine Creator) is also Gayatri, the most sacred of
+all vaidika mantras... It runs:
+
+Aum, Bhur bhuvah svah:
+
+‘Tat savitur varenyam bhargo devasya dhimahi:
+
+Dhiyo yo nah prachodayat: Aum.
+
+Meaning: Aum. The earthly, atmospheric and celestial spheres.
+Let us contemplate the wondrous Solar Spirit of the Divine
+Creator. May He direct our intellect. Aum.
+
+aT igo ction ut Gio gonmulGe
+
+SL yu goI@nrtnws snot Hleomul OF
+
+ay Qaupapi Doorugs GPH-O`,
   },
   {
     id: 996, tantraId: 4, verseNumber: 995,
@@ -2047,6 +2756,35 @@ Chanting Mantra "Na" to begin and "Ya" to end--Na Ma Si Va Ya,
 And prefixing Mantra that has "A" and "U"--"OM"
 Those who meditate thus
 Will see the Primal Lord inside their head.`,
+    elaborationEnglish: `Those who meditate thus
+Will see the Primal Lord inside their head.
+
+oat wel gonouwlh srsap
+
+Harpy Ouodpensyer HF st Mens
+
+Sthambana Chakra
+On fresh plank of a peepul tree wood
+Figure out the Five Letter Mantra with ‘*‘Ma’’ to
+begin—
+Ma, Si, Va, Ya, Na
+In similar fashion inscribe it on leaf of palm
+Smear it with wax
+And warm it gently over fire,
+Centre thy meditation on it,
+Strong the concentration to attain
+Thine enemied will be rendered actionless, sure.
+
+Sthambana—stopping, checking, restraining the powers of fire,
+the flowing of water, the ferocity of wild beasts, etc; making a
+spirit or person stand immovable in one place and depriving him
+of the power of speech.
+
+S7o0r amos usans Ww ies Dl ong
+
+wgesrbli Git 6 wars OaipsH_@
+
+au Teor 16) oney ral RIT WI Lb L4G) WALID cr`,
   },
   {
     id: 998, tantraId: 4, verseNumber: 997,
@@ -2116,6 +2854,9 @@ Bury it at noon in southeast corner,
 Where God Agni stands,
 That the Mantric device for Marana*,
 (Death) spell for enemies to destroy.`,
+    elaborationEnglish: `(Death) spell for enemies to destroy.
+
+Marana—deprivation of life, killing either spirits or men.`,
   },
   {
     id: 1002, tantraId: 4, verseNumber: 1001,
@@ -2133,6 +2874,15 @@ Inscribe on it letters "A" and "U"
 Place it on a bilva plank,
 For a receptacle to serve,
 And chant the Mantra eighty thousand times.`,
+    elaborationEnglish: `‘For a receptacle to serve,
+And chant the Mantra eighty thousand-times.
+
+Vasyam—bringing a person under one’s own power, influence
+etc.
+
+TMNT AGL oor giyuct 2 srg (@)
+
+Qu ersr over ou th uivesu) ot @CGwoh CGasGgreéS`,
   },
   {
     id: 1003, tantraId: 4, verseNumber: 1002,
@@ -2152,6 +2902,17 @@ Face Westward,
 And Chant Pranava mantra ("Aum") eight thousand times;
 This the way to attain
 Power of bringing things and people unto you--Akarshana.`,
+    elaborationEnglish: `Akarshanam — summoning or invoking a spirit or absent
+
+person visibly into one’s presence.
+
+These magical acts are exposited as eight in number. Besides
+the six above, the other two are: vidvedanam, or excitement
+to hatred; and bhedanam, causing dissension, discord, etc.
+
+-
+
+Abyw fom sips goal Opus cd`,
   },
   {
     id: 1004, tantraId: 4, verseNumber: 1003,
@@ -2169,6 +2930,38 @@ Flower of areca palm, madhavi creeper, shoe-flower (Mandharam)
 Thumbai, vakulam, surapunnai, jasmine,
 Shenpagam, padiri, chrysanthum
 With these do worship.`,
+    elaborationEnglish: `Archana is worship with flowers, perfumes and lights, along
+
+with chanting the Names of the Lord, and singing His praise.
+Tirumular describes the flowers that are appropriate for Siva’s
+worship and the perfumes worthy of the occasion. He also
+gives directions regarding the lamps to be lighted and the
+oblations to be offered. He concludes that such worship, which
+belongs to-the Kriya path, will confer great blessings.
+
+But more important, he says, is worship in the mansion of
+the mind. Tirumular warns the Siva yogis not to resort to
+kriyas, for kriyas only add to karma.
+
+Those who stand in the bhakti path also need not care for
+kriya. It is not by kriya that the Lord’s Grace descends. To
+
+seek the Lord by way of the senses is vain. The jnana way
+also leads to nadanta the divine light. It alone leads to union
+in God.
+
+Those who seek the kriya way can, at best, become devas.
+That is but a step, as devas themselves have to follow the
+jnana path, if they seek to unite in Siva.
+
+Chanting Sivayanama helps in the jnana way. But both Na
+and Ma should not be chanted; for Na and Ma are the seeds
+of jiva.’°Chanting only the mantra, ‘Siva’, can bring about
+mauna that leads to liberation.
+
+Jnana leads to illumination. Siva bliss wells up. Jiva leaps into
+‘A’ (Si) and from it, it realises ‘U’ (Va); then appears the
+Lord within.`,
   },
   {
     id: 1005, tantraId: 4, verseNumber: 1004,
@@ -2186,6 +2979,7 @@ Musk, sandal paste, perfumed kumkum,
 Camphor, eagle wood fragrant and the rest
 Mix in water of rose and make a paste
 Then put it on (Chakra) and worship.`,
+    elaborationEnglish: `aay Corer nyspb sHiGw`,
   },
   {
     id: 1006, tantraId: 4, verseNumber: 1005,
@@ -2204,6 +2998,9 @@ Spread incense of fragrant wood
 And lighted camphor in directions all,
 Forget your worldly worries, and meditate,
 You shall attain rapturous Mukti true.`,
+    elaborationEnglish: `TWH apie origt gorailenw
+
+THE aupuuge QbDoer Oecdaipor`,
   },
   {
     id: 1007, tantraId: 4, verseNumber: 1006,
@@ -2220,6 +3017,7 @@ Worshipping thus, there is nothing that you cannot attain,
 Worshipping thus, you shall come by Indra's wealth
 Worshipping thus, you shall attain miraculous Siddhi powers,
 Worshipping thus, you shall attain Mukti.`,
+    elaborationEnglish: `beronu onpCus Huwey sh sror`,
   },
   {
     id: 1008, tantraId: 4, verseNumber: 1007,
@@ -2240,6 +3038,8 @@ With offer of oblation diverse,
 They worship prostrating low,
 Constant chanting Mantra
 Thus in the Mansion of Mind they abide.`,
+    elaborationEnglish: `Cover misc servi “AMegys smu. Gumi
+Gaewrimtscr scribd WEA Guna.”`,
   },
   {
     id: 1009, tantraId: 4, verseNumber: 1008,
@@ -2260,6 +3060,8 @@ They who are Siva Yogins great
 They too seek not Kriyas;
 They who are in loving devotion surpassing stand
 They too seek not Kriyas.`,
+    elaborationEnglish: `ANUG Gras Osugb swat
+Ourpanp Csynt yombyAer mmisar`,
   },
   {
     id: 1010, tantraId: 4, verseNumber: 1009,
@@ -2276,6 +3078,12 @@ They know not to reach Him by Jnana Divine;
 They seek Him by ways of senses, in vain;
 If within you, you constant seek Him in right way,
 You shall indeed be in Nadanta.`,
+    elaborationEnglish: `Mular identifies Nadanta with the Jnana Marga here.
+
+Qed OuhybGure Qyerr_nbd sw
+LGer) wrenwwuytb wees womley
+
+bodied Ait wren wwHg`,
   },
   {
     id: 1011, tantraId: 4, verseNumber: 1010,
@@ -2293,6 +3101,12 @@ So does it seek Grace and Ignorance at once;
 The knowledge within of Jiva is bereft of Light;
 Except those who have Divine Jnana attained,
 The rest despair of dispelling Darkness.`,
+    elaborationEnglish: `So does it seek Grace and Ignorance at once;
+The knowledge within of Jiva is bereft of Light;
+Except those who have Divine Jnana attained,
+The rest despair of dispelling Darkness.
+
+Aor Orcs sioucr HFeuwrsei`,
   },
   {
     id: 1012, tantraId: 4, verseNumber: 1011,
@@ -2315,6 +3129,16 @@ If they take to Jnana,
 They with Siva one become;
 They who seek Kriya,
 May but Devas be.`,
+    elaborationEnglish: `Those who went the way of Kriya
+If they take to Jnana,
+
+They with Siva one become;
+
+They who seek Kriya,
+
+May but Devas be.
+
+Gwsr csngiplh forsee s smu`,
   },
   {
     id: 1013, tantraId: 4, verseNumber: 1012,
@@ -2331,6 +3155,7 @@ vīṅkākum vintuvum nātamē lākumē`,
 "Va" rises from throat stretched,
 "Na" has its seat in forehead,
 Bindu and Nada are still above placed.`,
+    elaborationEnglish: `Boag) cnger wnet wee`,
   },
   {
     id: 1014, tantraId: 4, verseNumber: 1013,
@@ -2350,6 +3175,7 @@ And seek Primal One;
 He will be yours at once;
 The State of Mauna leads to Siva Becoming
 That to reach is Liberation True.`,
+    elaborationEnglish: `shag Brehih Aeusaip grid .`,
   },
   {
     id: 1015, tantraId: 4, verseNumber: 1014,
@@ -2371,6 +3197,7 @@ In Paraparam the Supreme;
 Then beyond, beyond is Void,
 The Dvadasanda Space Infinite.
 4 NAVAGUNADAM (NINE SACRIFICIAL PITS)`,
+    elaborationEnglish: `BUGS wires Breyang Ceuuer`,
   },
   {
     id: 1016, tantraId: 4, verseNumber: 1015,
@@ -2389,6 +3216,43 @@ Will blaze the blessed fire;
 In the sacrificial pits nine
 Will arise all things goodly;
 Thus shall I speak of sacrificial pits nine.`,
+    elaborationEnglish: `The word ‘navagundam’ (nine pits) is used in a double sense
+here. On the one hand, it refers to the nine fire-pits used
+in sacrificial (yajna) worship, and on the other, it refers to
+the human body, with its nine orifices.
+
+It doesn’t seem appropriate nor true to state that Tirumular
+does not hold the Kriya path in as high regard as the other
+three paths, as is stated in the following paragraph. Each path
+is addressed by Tirumular fof its efficacy as a stage within
+Sanmarga. They are not compared to cach other, as occurs
+in the Vedanta doctrine.)
+
+Although Tirumular does not hold the Kriya path in high
+esteem compared to the other three paths, he relates the
+sacrificial fire of the Kriya path to the kundalini fire in the
+Yoga path. Drawing parallels’ between them, he shows how
+the fire without is the fire within.
+
+The sacrificial pits are nine in shape:
+
+1) The square pit — the four sides represent the four paths:
+Chariya, Kriya, Yoga and Jnana.
+
+2) The triangular pit — the three sides denote the form of fire.
+3) The semi-circular pit is like a bent bow.
+
+4) The circular pit is like a deep well.
+
+5) The hexagonal pit is parallel to the adharas within.
+6) The octagonal pit points to the earth’s‘eight directions.
+
+7) The heart-shaped pit is like the leaf of a peep tree.
+
+8) The oval-shaped pit is fashioned after a golden bowl.
+
+9) The pentagonal pit is constructed after the Five Letters
+of the Siva mantra.`,
   },
   {
     id: 1017, tantraId: 4, verseNumber: 1016,
@@ -2405,6 +3269,7 @@ The sacrificial pit is triangle-shaped;
 It is square shaped, pentagon shaped;
 And hexagon shaped, triangle upon triangle made;
 Other pits that blaze in fire, we later relate.`,
+    elaborationEnglish: `ups sere psp , Heng)`,
     transliteration: `mēleṟintu uḷḷē veḷiceyta apporuḷ
 kālaṟintu uḷḷē karuttuṟṟa ceñcuṭar
 pāraṟintu aṇṭam ciṟakaṟa niṉṟatu
@@ -2435,6 +3300,12 @@ Light on top emanated,
 Pervaded world,
 And engulfed entire cosmic space
 That I saw in me, and sought within.`,
+    elaborationEnglish: `The fire in the nine sacrificial pits is the same as the- fire
+
+in kundalini within. The kundalini fire pervades the worlds,
+and engulfs the entirety of cosmic space.
+
+TANTRA FOUR - 161`,
   },
 {
     id: 1019, tantraId: 4, verseNumber: 1018,
@@ -2455,6 +3326,12 @@ The truth that is spread
 Over extensive Vedas ancient,
 I here state explicit
 In one single book.`,
+    elaborationEnglish: `Mantras 1018-1020
+
+The power of the sacrificial fire is limitless. In it are the
+sixteen kalas that glow in the triangular-shaped muladhara
+within. In it, the Five Letters stand dancing. The humming
+orbs of the zodiac appear there.`,
   },
   {
     id: 1020, tantraId: 4, verseNumber: 1019,
@@ -2489,6 +3366,7 @@ The Five Letters stand dancing in Fire
 The humming orbs of Zodiac, twelve, will appear;
 A resplendent Light it is
 For those who seek.`,
+    elaborationEnglish: `BHel IGE Flows at_e_wonrm`,
   },
   {
     id: 1022, tantraId: 4, verseNumber: 1021,
@@ -2506,6 +3384,12 @@ On the hand, Fire will appear if so they will
 The glowing body trembling and shaking
 Will give forth the shining Linga
 Goodly is the Linga that arose in light, said Sakti.`,
+    elaborationEnglish: `The head and face of him who tends the sacrificial fire will
+glow in a halo of light. Fir2 will appear on his palms, if he
+so wills. The glowing body, trembling and shaking, will give
+forth the shining linga.
+
+MQneedhlc mrt Neruhles ergot`,
   },
   {
     id: 1023, tantraId: 4, verseNumber: 1022,
@@ -2524,6 +3408,14 @@ Who radiant from head to foot in tenderness stood;
 They who do not ask of Her,
 Though learned unto roots of learning,
 Yet are in confusion distracted.`,
+    elaborationEnglish: `Mantras 1022 & 1023
+
+The sacrificial fire is blessed by Sakti. Even as the tongue
+of fire from-the sacrificial pit shoots forth like the mythical
+serpents in eight directions, the kundalini too flames within
+the yogi from its four petals.
+
+MNersr aNerbienmn Golwu Gow Ze`,
   },
   {
     id: 1024, tantraId: 4, verseNumber: 1023,
@@ -2543,6 +3435,7 @@ Unto mythical serpents from directions eight;
 And Kundalini too with its petals four
 In me flamed,
 Filling my inside with radiant light.`,
+    elaborationEnglish: `Fomn@aerctl oaulgar corgi sonpliu`,
   },
   {
     id: 1025, tantraId: 4, verseNumber: 1024,
@@ -2560,6 +3453,8 @@ It flowed as water of worship at His Feet;
 It reached the mighty arms eight of Dancer
 That fills universe entire;
 It reached the fire in the Fore-head eye of Lord.`,
+    elaborationEnglish: `The kundalini fire reaches the Feet of Siva within, even
+as the fire from the sacrifical pit reaches to Siva above.`,
   },
   {
     id: 1026, tantraId: 4, verseNumber: 1025,
@@ -2608,6 +3503,9 @@ Then with trembling hands
 Folded into one they rise;
 They who thus worship and vision,
 Are verily Celestials of Light Divine.`,
+    elaborationEnglish: `The Kundalini fire wrt is in muladhara is the same as the
+Vedic fire. When it 1caches ajna through sushumna, it unites
+in the divine light.`,
   },
   {
     id: 1029, tantraId: 4, verseNumber: 1028,
@@ -2626,6 +3524,14 @@ He is immanent in all;
 For all those who sought Him as Light of Divine Word
 He stood as beacon light on hill top,
 And as the light within the eye too.`,
+    elaborationEnglish: `For all those who sought Him as Light of Divine
+Word
+
+He stood as beacon light on hill top,
+
+And as the light within the eye too.
+
+AonQs Gord Howwurgy Ceres nis`,
   },
   {
     id: 1030, tantraId: 4, verseNumber: 1029,
@@ -2644,6 +3550,12 @@ In its circle Tattvas six times six,
 Trembling arises;
 With these Tattvas under your command,
 You can ascend into very Heavens high.`,
+    elaborationEnglish: `The hexagonal sacrificial pit is also within. It is the hexagon
+of the six. adharas. In it the 36 tattvas arise trembling.
+Transcending, them, the yogi can reach the Lord in the
+sahasrara.
+
+EOSS (PSHQ 700 canisor comms .`,
   },
   {
     id: 1031, tantraId: 4, verseNumber: 1030,
@@ -2661,6 +3573,42 @@ Two His faces, six His eyes,
 Seven His tongues, four His horns
 Thus does He rise from the Sacrificial Fire Pit
 He the one that no end knows.`,
+    elaborationEnglish: `Tirumular describes the Form of God that arises in the
+
+sacrificial fire pit somewhat along the lines recounted ‘in the
+relevant Rig Veda hymn. ‘‘Three His Feet, seven His hands,
+Two His faces, Six His eyes, seven His tongues,four His horns
+— thus does arise the God of the sacrificial pit.’’
+
+This is said to be based on a Rig Veda mantra.
+ASM anaes F509LG Sroflovonw
+ASSO onecr Yottuat grblovone
+Assi ono sHNbyOsT USGS.
+
+But He is Endiess
+
+For the Endless One, none the Space there is;
+For the Endless One, none there to take measure;
+For the Endless One, none the words adequate to
+describe;
+
+Know the Endless One, O! ‘*Ya’’ (Jiva)!
+
+1031
+
+The numearal, ten, is written as the letter *’ (ya) in Tamil.
+Hence, ‘ten’ here means ‘ya’ which stands for jiva in the
+Five Letter mantra.
+
+wiggle Sorrb warssap stom
+
+tba
+
+OT
+
+_——
+
+TANTRA FOUR . ; 163`,
   },
   {
     id: 1032, tantraId: 4, verseNumber: 1031,
@@ -2716,6 +3664,14 @@ Ten the eyes
 Two the flowery feet
 Forty the shining crowns, and
 Twenty-five the ears goodly.`,
+    elaborationEnglish: `Tirumular describes the Form of Siva/Sakti arising from the
+- Sacrificial fire thus: ‘*Ten the faces, four the spreading hands,
+five the legs, ten the eyes, two the flowery Feet, forty the
+shining crowns. and twenty-five the ears.”
+
+bef. Ger workse AGSSarw
+
+ugArte Gen ughs uge;etor`,
   },
   {
     id: 1035, tantraId: 4, verseNumber: 1034,
@@ -2736,6 +3692,9 @@ And so it behooves,
 For subtle Kundalini Fire to reach
 The Lord that is in Divine Fire--Five-fold (Panchagni)
 That verily is to attain Mukti.`,
+    elaborationEnglish: `(sH5n Cer Upipsar orwoiesr
+
+spnpn Heaprt sGsgiet QGIDOw`,
   },
   {
     id: 1036, tantraId: 4, verseNumber: 1035,
@@ -2755,6 +3714,14 @@ They who seek Him, desires severed,
 Through Light within
 Reach the goal
 And remain blemishless, ever after.`,
+    elaborationEnglish: `They who seek Him, desires severed,
+Through Light within
+
+Reach the goal
+
+And- remain ‘blemishless, ever after.
+
+Gsips soowugac, Camus Gemricupb`,
   },
   {
     id: 1037, tantraId: 4, verseNumber: 1036,
@@ -2773,6 +3740,9 @@ The ten directions cardinal are there;
 The Five elements too are there;
 Those who warmed themsleves at Fire of Kundalini
 Flave verily united in God.`,
+    elaborationEnglish: `Quwuwiscrt wrbaMh sae Gaenipuytd
+2WserL eh Des qggaacse Gaguler
+Osuisort rors DosQu Ceasar`,
   },
   {
     id: 1038, tantraId: 4, verseNumber: 1037,
@@ -2819,6 +3789,11 @@ The third eye in Forehead
 Thus is Lord,
 From Sacrificial Fire Pit arises;
 Seek that Holy One within your head.`,
+    elaborationEnglish: `‘Thus is Lord,
+
+From Sacrificial Fire Pit arises;
+
+Seek that Holy One within your head.`,
   },
 {
     id: 1040, tantraId: 4, verseNumber: 1039,
@@ -2837,6 +3812,10 @@ As the Sacrificial Fire blazed thus,
 The sphere of forehead (Ajna Center) broadened and deepened,
 And there He was,
 His Sakti tender as a vine.`,
+    elaborationEnglish: `And there He was,
+His Sakti tender as a vine.
+
+Ostywrg Decrm Grau Gor.`,
   },
   {
     id: 1041, tantraId: 4, verseNumber: 1040,
@@ -2857,6 +3836,27 @@ The sacred Fire engulfed worlds seven entire,
 From top to bottom unintermittent,
 Those who witnessed it,
 Have indeed gained all riches great.`,
+    elaborationEnglish: `As the satrificial fire blazes high, the yogi’s kundalini fire
+within also courses upwards; and when it ‘reaches the ajna
+chakra, he visions Sakti. Ascending further, reaching the
+seventh centre, the sahasrara, he visions the seven worlds.
+
+unger wren WANGSs UNTSGs5. 1041.
+
+* Hold Sacrificial Fire As Guru
+
+The Fire that blazeth as riches vast
+
+Hold it as Guru Great to reach your goal,
+When that Jnana dawns,
+
+The regal powers over world
+
+In earnest seek Jiva. ,
+
+Kundalini fire that blazes upwards is the Guru great, riches
+vast, and infinite jnana. The yogis who tend the kundalini
+fire live very long.`,
   },
   {
     id: 1042, tantraId: 4, verseNumber: 1041,
@@ -2908,6 +3908,8 @@ The Yogi in his Nadis raises the fire in Centers nine;
 Even as the Seed of Birth trembled in fear of it,
 So did the universe vast,
 At the mighty yogic achievement.`,
+    elaborationEnglish: `Gagect altb aeoarwrn Lhenw
+Gursenct CGuresese Ounbsw outgos`,
   },
   {
     id: 1045, tantraId: 4, verseNumber: 1044,
@@ -2932,6 +3934,11 @@ Of oval shaped unto the the golden bowl
 Thus of yore are shaped,
 The nine Sacrificial Fire Pits,
 Where you seek Lord Supreme.`,
+    elaborationEnglish: `5. #32Cusb—Dhyas séarid
+SAKTI-BHEDA—TIRIPURAI CHAKRA
+
+WToTMW WIsw UBS nas
+gutmu saree? gary GCaryuded`,
   },
   {
     id: 1046, tantraId: 4, verseNumber: 1045,
@@ -2950,6 +3957,61 @@ Thus are Mantras in clusters six,
 Where Sakti resides;
 There and beyond them
 Is Tiripurai.`,
+    elaborationEnglish: `Thus art Mantras in clusters six,
+Where Sakti resideth;
+
+There and beyond them
+
+Is Tiripurai.
+
+The One Sakti manifests as several — as Tiripurai, Sundari,
+Andari, Kumkumi, Paraipurai, Narani, Easi and Manonmani.
+She is Parai, Abhirami, Agochari. She is Chandika, Tapodhani
+and Puratani, the Ancient. She is Mohini, whose beauty does
+not wane. She is Karidari, the Attraction in four directions.
+
+Magnificient is Her Form. It is of ruddy hue. Her brows
+are arched like the bow. On Her Feet She wears. anklets.
+She is robed in red silk. Her breasts are contained in corsets.
+She sports a bow of sugarcane, arrows of flowers, an elephant
+goad and noose strings. On Her lovely head She wears Her
+diadem. On Her ears She wears kundalas of bluish radiant
+gems. She wears rudraksha beads, garlands of flowers, and
+a glowing crown on which the crescent moon beams. On the
+crown of Her tresses is the dame Ganga. Her eyes gleam
+with divine jnana. She is the Immaculate One. She is
+; «© ated on a circle of pure lotus flowers.
+
+She is the atom within the atom. She is Self-Manifest Divine
+Form. She has ten faces and twelve kalas. She is an ethereal
+light. She holds the ‘Book of Knowledge’ in Her hand. She
+holds the pestle that knocks the hearts of evil ones, and the
+plough that prepares the soul of the good ones for the jnana
+harvest. She is Omkari, the Pranava Form. She became Amkari
+of creative force, giving birth to the five Gods. She is
+Hrimkari, abiding in the mantra, ‘Hrim.’
+
+She resides in the mantra-cluster of six — mamaya, maya,
+vaindava, vikari, pranava and inner light.
+
+“Vaikari (Vakharai) is one of the four elements of sound,
+others being Para, Pasyanti and Madhyama. It is that element
+which is carried by the sound within the body and becomes
+articulated in the throat. It is the gross sound. According to
+Raghavabhatta, Para is unmanifested sound; Pasyanti reveals
+letters; Madhyama - words, and Vaikhari - sentences’’ (N.N.
+Bhattacharyya, ‘“‘History of Tantric Religion, p.478.)
+
+The six-pointed chakra would be the powerful Sri-yantra,
+made up of two triangles, one inverted over the other,
+Tepresenting the male and female in couple with ‘bindu’, or
+the drop of semen in -the centre. In Tamil Nadu, where
+‘kolams’ (chakras) are usually drawn in white powder every
+Morning at the entrance to the house (as a protection to the
+in-dwellers) the: Sri-cakra is one of the most common to be
+seen.’
+
+Biyor «65 2H65M Aggy oL`,
   },
   {
     id: 1047, tantraId: 4, verseNumber: 1046,
@@ -2967,6 +4029,18 @@ Kum-Kum, Pari Parai, Narani,
 The dark hued Easi, Manonmani
 Thus of forms diverse and hues many,
 One Sakti manifests several.`,
+    elaborationEnglish: `Sundari—the Beauteous
+
+Andari—of the form of sky
+
+Kum-Kumi —of red hue
+Paripurai—Sustainer of Worlds
+Narani—Divine prowess behind Narayana
+Easi—Sakti of Mahesvara
+Manonmani—Sakti of. Sadasiva
+
+Srorrcr psy Cangas gsorenwower
+snoires Qurcr@sibenw Ceucwoslns grciracvod`,
     transliteration: `tāṉā amaintaam muppuram taṉṉiṭait
 tāṉāṉa mūvuru ōrurut taṉmaiyuḷ
 tāṉāṉa poṉcemmai veṇṇiṟat tāḷkalvi
@@ -2993,6 +4067,9 @@ In the Three Cities--(Triangle)--of themselves arose,
 Of three forms, the One She is;
 Of color gold, red, and white She is,
 Knowledge, enjoyment and Mukti she grants.`,
+    elaborationEnglish: `BYGS Diyos srsgr srpsuiser —
+
+BVGW venga gr! »Garef`,
   },
 {
     id: 1049, tantraId: 4, verseNumber: 1048,
@@ -3011,6 +4088,16 @@ And to the cosmic Universes gives rise,
 She is Parai, Abhirami, Agochari
 She grants Her love of Grace,
 And Jnana as well.`,
+    elaborationEnglish: `Parai—Sakti of Para
+
+Abhirami—of Surpassing Beauty
+
+Agochari—Beyond Comprehension
+
+srorcoh gIYyIG Debdu_ Os Sra
+
+urge Oars Worsacrere curohatev
+Too! AMGF urs oylveupy`,
   },
   {
     id: 1050, tantraId: 4, verseNumber: 1049,
@@ -3032,6 +4119,8 @@ And mighty goad-noose strings;
 On Her lovely head She wears the diadem
 On Her ears She wears Kundalas
 Of bluish radiant gems.`,
+    elaborationEnglish: `Osrert agss Howeig CGaragsar
+sores wom s8rupy worn`,
   },
   {
     id: 1051, tantraId: 4, verseNumber: 1050,
@@ -3051,6 +4140,7 @@ Necklace of Rudraksha beads, garland of flowers and glowing Crown,
 Where the crescent moon beams forth
 Thus adorned, She, the Chandika,
 Stands supporting directions four.`,
+    elaborationEnglish: `SCT. BrosrH shtosl`,
   },
   {
     id: 1052, tantraId: 4, verseNumber: 1051,
@@ -3069,6 +4159,7 @@ On the crown of her tresses is Damsel Ganga,
 Her eyes perceive Jnana true,
 Karidani who attracts in directions four,
 She is the Pure, seated on circle of lotus pure.`,
+    elaborationEnglish: `— MS5SOF wrayid Gorges sre`,
   },
   {
     id: 1053, tantraId: 4, verseNumber: 1052,
@@ -3093,6 +4184,15 @@ She is all these,
 And She is atom within atom;
 She is Self-manifest Form divine,
 She is Jnana embodied.`,
+    elaborationEnglish: `is Maha Parai;
+
+_ She is all these,
+
+; And She is atom within atom;
+he is Self-manifest Form divine;
+sf is Jnana embodied.
+
+UMA gougtd mousronpicvonew`,
   },
   {
     id: 1054, tantraId: 4, verseNumber: 1053,
@@ -3110,6 +4210,11 @@ None the tapas rare that is not for Her,
 Except Her, Five Gods nothing perform,
 Except Her, I know not,
 How to reach City Salvation.`,
+    elaborationEnglish: `TT UITESD gos stom
+
+UT IGYG wtwac csreruir
+
+it GW woiéons sromurt`,
   },
   {
     id: 1055, tantraId: 4, verseNumber: 1054,
@@ -3126,6 +4231,12 @@ They who know say, Parasakti is Bliss;
 They who know say, She is Formless,
 They who know say, all action from Her desire flows;
 They who know say, Param is in Her.`,
+    elaborationEnglish: `Pe ae TIRUMANTIRAM ate
+
+flows:
+They who RoW say, Param is in Her.
+
+sre Gore GMensucr wrGsat`,
   },
   {
     id: 1056, tantraId: 4, verseNumber: 1055,
@@ -3144,6 +4255,13 @@ Where there is space, there She is;
 And beyond too;
 She is everywhere,
 Lordly over things all.`,
+    elaborationEnglish: `~ And beyond too;
+
+She is everywhere,
+
+Lordly over things all.
+
+sorss® wriislerm sorenww wyosr gus`,
   },
   {
     id: 1057, tantraId: 4, verseNumber: 1056,
@@ -3180,6 +4298,9 @@ She is Para Sakti that shares Siva's Form,
 She stands as support
 For tender Jnana Vine,
 That Her devotees daily in their hearts grow.`,
+    elaborationEnglish: `Oars: wteanrs Galipense wricscow
+bua Garengonuw suroteut pTiycHWE
+Osbucs o59G Goole Fmieow`,
   },
   {
     id: 1059, tantraId: 4, verseNumber: 1058,
@@ -3213,6 +4334,9 @@ cattiyum vittait talaiyava ḷāmē`,
 The Parai, Primal Paraparai, with faces ten;
 All the functions of inner senses She performs;
 She is Sakti, She is Head of all Knowledge.`,
+    elaborationEnglish: `She moves my mind, intellect, Will and thought _
+
+She is Sakti, and Mistress of Jnana Divine.`,
   },
   {
     id: 1061, tantraId: 4, verseNumber: 1060,
@@ -3231,6 +4355,21 @@ She performs tapas continuous,
 She is lovely as peacock,
 She is Virgin, all knowledge-conquered,
 In my heart, She stands filled.`,
+    elaborationEnglish: `gor mGorr Cire Her Onrssoors
+‘ s1Gar 1061
+
+She Merged in My Heart
+
+She who thus stands is in jewels bedecked,
+With beaming Kalas She entered my heart,
+
+The seven worlds to adore
+
+She entered the Holy Dance arena;
+
+She is Manonmani, the Jewel of Inmost Thought,
+She is Ever-Auspicious, (Mangali) ;
+And in me She merged, inseparate ever.`,
   },
   {
     id: 1062, tantraId: 4, verseNumber: 1061,
@@ -3270,6 +4409,7 @@ Manonmani, the Jewel of Inmost Thought,
 Mangali, the Auspicious Ever,
 She is the path to gather Jnana,
 Her, they know not.`,
+    elaborationEnglish: `WOMHEDIP HOG Po? wmmsys Sregd`,
   },
   {
     id: 1064, tantraId: 4, verseNumber: 1063,
@@ -3287,6 +4427,7 @@ The Lady of fragrant flower bedecked tresses
 In the Lord, in union, stands;
 They who then rise in adoration
 Shall Her bounteous Grace receive.`,
+    elaborationEnglish: `yuo yorupb CungyanG GaréAs -`,
   },
   {
     id: 1065, tantraId: 4, verseNumber: 1064,
@@ -3326,6 +4467,32 @@ She stood filling the Dance arena at Thillai;
 They saw not;
 She stood as Cause of Cause;
 Pervading spheres Three.`,
+    elaborationEnglish: `Sun, moon and fire are the three spheres.
+Acinr srociscr 21 gyib 2 uGumiis
+Genrer AausH Gagub usireéH
+
+Aeron usertt graces wrGer, 1066
+
+She Holds the Book of Knowledge
+
+She stood as body and life,
+
+She—the Parasakti—took me to Siva-State,
+
+She in me entered and stood one in my awareness
+She of the ethereal Light,
+
+She that holds the Book of Knowledge in Her Hand
+Divine.
+
+“Holding the Book of Knowledge in hand’ is in Hinduism
+a description of Sarasvati, and in Buddhism of Tara. Mular’s
+Sakti does not belong to any particular well-designed sect,
+but is eclectic, combining in herself the attributes drawn from
+many sources.
+
+Garb unsb aDGgubywdOcuesr “~mneng
+urs Dgupeon uniwuS) ungwecr`,
   },
   {
     id: 1067, tantraId: 4, verseNumber: 1066,
@@ -3381,6 +4548,7 @@ Meditate on Her,
 Who is with elephant goad and noose
 And cane of sugar;
 She, the Primal Virgin Lady.`,
+    elaborationEnglish: `UTD muss uderyn uudvadGrov`,
   },
   {
     id: 1070, tantraId: 4, verseNumber: 1069,
@@ -3400,6 +4568,7 @@ On Lotus of Dharma seated;
 Chant Her name as Siva Sakti, times infinite
 You will see Her Light,
 And all things past, present and future.`,
+    elaborationEnglish: `astr wiiGu 2055 ugeidersir`,
   },
   {
     id: 1071, tantraId: 4, verseNumber: 1070,
@@ -3417,6 +4586,7 @@ That pervades Medha and the rest of Kalas sixteen;
 She is the Paraparai that shines in Vedas and scriptures holy,
 She is the widespread support of all that is,
 She is the Grace within Nada and Nadanta.`,
+    elaborationEnglish: `GurGgmTOunD Abs Youern Uwe`,
   },
   {
     id: 1072, tantraId: 4, verseNumber: 1071,
@@ -3436,6 +4606,11 @@ Of Divine Jnana filled
 Transformed your inconstant thoughts,
 And made you realize God-truth;
 Her Holy Feet, I adore ever.`,
+    elaborationEnglish: `Her Holy Feet, I adore ever.
+
+BU UITs PS$H usZsGoncr
+
+Toe wyipuct.  FhBw Glaucsremtans`,
   },
   {
     id: 1073, tantraId: 4, verseNumber: 1072,
@@ -3457,6 +4632,8 @@ And the rest of insignia,
 She of the pearly teeth,
 They who meditate on them true,
 In their hearts she arose.`,
+    elaborationEnglish: `guar erorun oreuG@erag, Oucsr Aerenar
+BHarh wtAGu gees Oui @`,
   },
   {
     id: 1074, tantraId: 4, verseNumber: 1073,
@@ -3494,6 +4671,41 @@ That from Bindu created;
 She is World of Celestials,
 She is Mind and Intellect goodly,
 She is Siva-State too.`,
+    elaborationEnglish: `6. auigal wsH)owb
+
+Bhairavi has sixteen kalas. Her mantra is ‘Aum Aim’
+Meditating on Her for a month of twenty-seven days in
+kundalinj yoga, union in Siva is attained.
+
+Bhairavi is also known as Tiripurai. She holds the trident and
+skull in Her hands, the serpent noose and elephant goad. She
+has four hands. She is green-hued, as a parrot. Her’ form
+is lustrous like a gem. Her robe is worked with precious stones.
+Her crown is studded with gems. It is brilliant as the moon.
+Her glance is furtive as that of the gentle fawn. She is vengeful
+to those who err. Her eyes are the sun and moon. She wears
+kundalas of radiant gems in Her ears. She is seated in the
+centre of the eight-petalled lotus in the midst of eight virgin
+saktis surrounded by sixty-four damsels who keep vigil. She
+wears anklets, bangles of conch and tresses festooned with
+fragrant flowers. Her body is smeared with haunting perfumes.
+She is in manimantra yoga, the yoga that spells no word.
+In that yoga will be heard the sound of Her conch for yojanas
+around.
+
+In worshipping Her, first chant Her Hridaya mantra, perform
+kavacha and nyasa, and adopt the sula mudra which indeed
+is difficult to practice.
+
+Sula mudra consists in pressing the little finger in reverse
+direction, holding the ring finger and forefinger pressed
+together; then insert the thumb finger in between. Chant the
+mantra, ‘Sam.
+
+Adopt the conch mudra..She is the beginning, the beginningless
+and She blossoms with the prayer of the heart.
+
+ucrefjesr tomas wr) wuulgad`,
   },
   {
     id: 1076, tantraId: 4, verseNumber: 1075,
@@ -3513,6 +4725,44 @@ Thus with letters Twelve and Two
 From Om to Aim they fourteen are
 That Her Mantras
 To end of Kalas Sixteen lead.`,
+    elaborationEnglish: `1 Compare: For the 12 bija mantras. refer to Varada Tantra,
+Chapter'6, quoted in ‘“‘Garland of Letters,” by Sir John
+
+The 12 bija mantras are:
+
+1. Haum—'Ha’ means Siva, ‘au’ means Sadasiva, ‘m’ means
+
+Sivaya who dispels sorrow. ‘ :
+2. Dum—‘Da’ means Durga, ‘u’ means save, *m’ means
+mother of the universe.
+
+3. Krim—‘Ka’ is Kali, ‘ra’ is Brahma, ‘i’ is Mahamaya..°m’
+means mother of the universe.
+4. Hrim—‘H’ is Siva. ‘ra’ is prakriti, ‘i’ is Mahamaya, *m
+
+means mother of the universe.
+
+5. Strim—‘S’ is Mahalakshmi. ‘ra’ is wealth, ‘i’ is satisfaction,
+‘m’ is nada.
+
+6. Aim—‘Ai’ ‘is Sarasvati, ‘m’ is nada.
+
+7. Klim—‘Ka’ is Kamadeva. ‘I’ is Indra, ‘i’ is contentment.
+‘m’ is nada.
+
+8. Hum—‘H’ is Siva, ‘u’ is Bhairava, ‘m’ is nada..
+
+9. Gam—‘G’ is Ganesha. ‘m’ is nada.
+
+10. Glaum—‘G’ is Ganesha, ‘Il is what pervades, ‘au’ is tejas.
+*m’ is nada. =
+
+11. Ksraum—'Ksa’ is Nrshimha. ‘ra’ is Brahma, ‘au is teeth
+pointing upwards.
+
+12. Strim—'S’ is deliverance. ‘t’ is saviour, ‘ra’ is liberation,
+
+‘i’ is Mahamaya, *m’® is bindu.`,
   },
   {
     id: 1077, tantraId: 4, verseNumber: 1076,
@@ -3563,6 +4813,11 @@ Meditate on Her for a month of days twenty seven;
 And reach the centers of Fire, Sun and Moon within;
 He who thus firm in meditation stands
 Becomes Siva Himself.`,
+    elaborationEnglish: `Qurécrera ANI wsvw CurnA@w
+
+170 a TIRUMANTIRAM
+
+usted uD wesw UBUGerT(@)`,
   },
   {
     id: 1080, tantraId: 4, verseNumber: 1079,
@@ -3583,6 +4838,7 @@ The Lord that is Nandi,
 The Hero Mighty;
 With Him in Golden Mount of Kailas will he be;
 All the World will there adore him.`,
+    elaborationEnglish: `sua Gus Opis gieng@euwuyid`,
   },
   {
     id: 1081, tantraId: 4, verseNumber: 1080,
@@ -3619,6 +4875,8 @@ She has hands four,
 She stood one with Siva,
 Whose Form neither Brahma nor Vishnu knows,
 She of ethereal Form.`,
+    elaborationEnglish: `OsraPu Hears Howse Geulonp
+5OWD Qi sre HH Gworfl`,
   },
   {
     id: 1083, tantraId: 4, verseNumber: 1082,
@@ -3638,6 +4896,9 @@ She is bedecked in jewels,
 She is green as parrot,
 Gem-like lustrous is Her Form,
 Plaited with precious stones several is Her robe.`,
+    elaborationEnglish: `usp! #689 Gary AG wy
+Osrawenh GorLws STH Yorpsacrosf
+poresh @& fw Carw Zwoagsgssir`,
   },
   {
     id: 1084, tantraId: 4, verseNumber: 1083,
@@ -3656,6 +4917,8 @@ She wears Kundalas of radiant gems in her ears
 Her glance is unto the gentle doe's
 Her eyes are the Sun and Moon;
 As of red gold She in rapture glows.`,
+    elaborationEnglish: `uss YONSsp ayes GorGorGurt
+Anus SrTEHeorw Oserwt sorooflwit`,
   },
   {
     id: 1085, tantraId: 4, verseNumber: 1084,
@@ -3674,6 +4937,7 @@ Eight the Virgin Saktis
 Four and Sixty the fair damsels, surround Her;
 So encircling,
 They visioned Her Glory.`,
+    elaborationEnglish: `aaron Gur Bema ugtss§)`,
   },
   {
     id: 1086, tantraId: 4, verseNumber: 1085,
@@ -3697,6 +4961,7 @@ And its eight cardinal points,
 She is possessed of Wealth of Grace
 She is seated on Lotus
 She who our worship compells.`,
+    elaborationEnglish: `are ons wesliog SoGures`,
   },
   {
     id: 1087, tantraId: 4, verseNumber: 1086,
@@ -3717,6 +4982,7 @@ That spells no word;
 There shall you hear the sound of Her conch
 For yojanas around;
 Thus is Tiripurai, whom you seek.`,
+    elaborationEnglish: `Cugepies Flaigytd itpibspitb Lwomwgyy ry`,
   },
   {
     id: 1088, tantraId: 4, verseNumber: 1087,
@@ -3734,6 +5000,17 @@ Many are the Gods they concieve of;
 But she is the Supreme Cause
 Whom the three Gods,
 Siva, Brahma and Vishnu adore.`,
+    elaborationEnglish: `Mantras 1187-1190
+
+In the sphere of the ‘sun’ She appears with twelve kalas.
+In the sphere of the ‘moon,’ with sixteen kalas. Nada arises
+in the moon's sphere. But Sakti is the source of that moon's
+sphere with kalas sixteen. That sphere of the moon knows
+no waxing and waning. It is of infinite beauty, and of
+intoxicating fragrance. There She waseborn; there She abides
+in infinite bliss.
+
+Broo 55H shun Goes`,
   },
   {
     id: 1089, tantraId: 4, verseNumber: 1088,
@@ -3754,6 +5031,7 @@ In Puraka, Kumbha, Resaka,
 She is Narayani
 She is the End of Vedas
 That Nandi in compassion to world revealed.`,
+    elaborationEnglish: `USS UpPpennuonp west eu es`,
   },
   {
     id: 1090, tantraId: 4, verseNumber: 1089,
@@ -3774,6 +5052,8 @@ And seek Her;
 The Primal Lady of Tamil,
 This Nandi revealed as Truth
 Of Japa of Saktis Nine.`,
+    elaborationEnglish: `Aorss arr Osbaupenm ctosreses
+Yongsa5bd at Giper Guelu 558`,
   },
   {
     id: 1091, tantraId: 4, verseNumber: 1090,
@@ -3792,6 +5072,8 @@ Counting them in order appropriate
 Nandi laid down laws and rules of Japa way
 He who of yore expounded
 The ways of yoga-eight limbed.`,
+    elaborationEnglish: `This is same as Mantra 549, Tantra Three
+Gans Doan Sab QorwQary.`,
   },
   {
     id: 1092, tantraId: 4, verseNumber: 1091,
@@ -3813,6 +5095,7 @@ With thread-like column of smoke
 From sacrificial fire of Kundalini She arose,
 Reached the heights of astral sphere
 And with ambrosia returned.`,
+    elaborationEnglish: `Gausy Boa Dahlorm ang ~`,
   },
   {
     id: 1093, tantraId: 4, verseNumber: 1092,
@@ -3832,6 +5115,8 @@ The offering of Prana
 That courses through central Sushumna,
 Reaches the heights of cranium top.
 There, chant Sikha Mantra (Sikhaya Nama).`,
+    elaborationEnglish: `uoshen wnmasngsu un@gerg wis
+Asrasperp C5587 WSBT Gorb`,
   },
   {
     id: 1094, tantraId: 4, verseNumber: 1093,
@@ -3853,6 +5138,17 @@ And then perform Sula Mudra
 And chant Netra mantra,
 Thus worshipping,
 Will ever rebirth harass you?`,
+    elaborationEnglish: `Sula Mudra — Sign of the trident
+Netra mantra — Netiaya Nama
+
+Lwy
+one
+
+Pee" t, Retest. z.
+
+172 , TIRUMANTIRAM
+
+aGgss Dose Anger warps`,
   },
   {
     id: 1095, tantraId: 4, verseNumber: 1094,
@@ -3869,6 +5165,20 @@ Difficult to practice are these Mudras;
 Press the little finger in direction reverse,
 Hold the ring finger and fore-finger pressed together
 And insert the thumb finger in between.`,
+    elaborationEnglish: `Chant ‘‘Sam’’
+
+From the mantra ‘‘Si”’
+
+Take away ‘“‘i’’
+
+Conjoin the Bindu letter ‘‘M’’
+
+The the mantra *“‘Sam’’ do you chant
+For Pranayama practice to promote.
+
+Kalu Fact Ooreret Uipsorses
+
+Goalu woreow MMeHG sheng`,
   },
   {
     id: 1096, tantraId: 4, verseNumber: 1095,
@@ -3923,6 +5233,17 @@ And of Herself Grace confers,
 She the consort of Lord Primal,
 Seek Her in this world
 And She will bless you.`,
+    elaborationEnglish: `and ignorance
+
+She enters
+
+And of Herself Grace confers,
+She the consort of Lord Primal,
+Seek Her in this world
+
+And She will bless you.
+
+arppu Cages sore wis`,
   },
   {
     id: 1099, tantraId: 4, verseNumber: 1098,
@@ -3946,6 +5267,13 @@ The life species several,
 The Light that is Parapari--
 All these are but the Primal Sakti;
 As One Energy She pervades all.`,
+    elaborationEnglish: `“Sakti.is Supreme Energy’ — that is the central formula,
+the core thought, the heart of Sakti worship.
+
+HD alga sores gionmwetrosf)
+eH wooed. ot gut weommTLb
+
+/Guas 208 Onalact sreiwmlb`,
   },
   {
     id: 1100, tantraId: 4, verseNumber: 1099,
@@ -3965,6 +5293,7 @@ Will be body, soul and God in one;
 Snapped will be the cycle of births here below;
 A form, comely beyond words,
 Will theirs be.`,
+    elaborationEnglish: `BUS Ge woegerat sKesmenflonret`,
   },
   {
     id: 1101, tantraId: 4, verseNumber: 1100,
@@ -3982,6 +5311,7 @@ Of arched eye-brows,
 Her eyes are unto blue water-lily
 She is ambrosial Bliss-Beauty (Ananda Sundari)
 She does reveal Supreme Siva to us.`,
+    elaborationEnglish: `HaueituG MSs Moora NS gS`,
   },
   {
     id: 1102, tantraId: 4, verseNumber: 1101,
@@ -4018,6 +5348,8 @@ She sports the garland of Kalas sixteen,
 She beamed forth the lights three--Fire, Sun and Moon
 She the Goodly Lady
 On the cool heights of head within stands.`,
+    elaborationEnglish: `amuse GETSGb werreties LomionszenwL)
+auubc: Gos user uss sor`,
   },
   {
     id: 1104, tantraId: 4, verseNumber: 1103,
@@ -4038,6 +5370,9 @@ Dispells Mayaic darkness,
 Gently stand and adore Her;
 Having adored Her
 Births no more shall yours be.`,
+    elaborationEnglish: `Gawer Ggra enguym Ouwerwoat
+
+TU GY Qorddepn ahHonp`,
   },
   {
     id: 1105, tantraId: 4, verseNumber: 1104,
@@ -4100,6 +5435,9 @@ On Her feet She wears golden anklet,
 That in rythmic music sings;
 Thus She entered my heart,
 And there slumbers.`,
+    elaborationEnglish: `1) Ida, pingala and sushumna
+
+2086 woraler wGernctwef! wbsy`,
   },
   {
     id: 1108, tantraId: 4, verseNumber: 1107,
@@ -4158,6 +5496,13 @@ Those who seek Her Holy Feet
 Saying "You are our Refuge,"
 She the Goddess
 In soft speech consoles.`,
+    elaborationEnglish: `a
+
+Saying “You are our Refuge,”
+She the Goddess
+In soft speech consoles.
+
+sriue Garensucr sizes mires`,
   },
   {
     id: 1111, tantraId: 4, verseNumber: 1110,
@@ -4178,6 +5523,8 @@ She is Narani,
 She dissolves body, life and pasas at once,
 She is the Awesome One;
 She dwells in my heart.`,
+    elaborationEnglish: `gorau Garws GUAMQueH gsycrorw
+Pore Qoss DsOsrost somes hsb`,
   },
   {
     id: 1112, tantraId: 4, verseNumber: 1111,
@@ -4215,6 +5562,7 @@ In union abides,
 Looking toward Him,
 Who at the crest of Mount Meru within is;
 The Flowery Vine, too, there stood.`,
+    elaborationEnglish: `Dassicr THDMp acngyorer Gwade`,
   },
   {
     id: 1114, tantraId: 4, verseNumber: 1113,
@@ -4232,6 +5580,14 @@ She then entered the four-finger prana of breath retained
 And She joined Siva in union divine
 And performed penance rare,
 She, the Ancient One.`,
+    elaborationEnglish: `And performed penance rare,
+She, the Ancient One.
+
+Of 12 finger-length breath inhaled, purata eight finger-length
+is exhaled (rechaka); the four finger-length is retained in
+kumbhaka.
+
+BD werrBusrgesil srgosh`,
   },
   {
     id: 1115, tantraId: 4, verseNumber: 1114,
@@ -4256,6 +5612,9 @@ She is Samadhi, the transcendental End
 She is Manonmani, the Jewel of the Inmost Mind
 She in my sentience entered,
 And in my heart abided.`,
+    elaborationEnglish: `Qoussoct giGeop sacraycsrer Gwad
+
+Hucsisonor Guru wuswWs) UMMILd`,
   },
   {
     id: 1116, tantraId: 4, verseNumber: 1115,
@@ -4277,6 +5636,7 @@ All thoughts of rank and status
 Brahma and the rest enjoy,
 She destroyed in me
 All speech from ignorance arises.`,
+    elaborationEnglish: `Hupp HSH AGH wsorod`,
   },
   {
     id: 1117, tantraId: 4, verseNumber: 1116,
@@ -4307,6 +5667,7 @@ She stood within the Bounteous Lord,
 She stood as Thought,
 Behind Mamaya's concealed Light,
 She the Virgin that all created.`,
+    elaborationEnglish: `gicrohwi mace Ounncrot gs1wiOwomp`,
   },
   {
     id: 1119, tantraId: 4, verseNumber: 1118,
@@ -4327,6 +5688,14 @@ And among them is Siva too
 Who Books of Truth composed!
 Oh, this Maya!
 Dark, dark indeed it is!`,
+    elaborationEnglish: `There is a play on words. when Maya is said to be ‘dark’
+She is so because, it is she who is the cause of delusion.
+Also in Tamil, ‘“Mayam” means blackness. cf. Mayon, a Tamil
+name for Vishnu. ‘Children Five refers to the five gods of
+*pancayatana , namely Siva, Sakti Herself. Vishnu, Surya. and
+Ganapati in Puranic mythology.
+
+urges yorour Gurasgict Q)oruwb`,
     transliteration: `iruḷatu catti veḷiyatuem aṇṇal
 poruḷatu puṇṇiyar pōkattuḷ iṉpam
 teruḷatu cintaiyait teyvameṉṟu eṇṇil
@@ -4354,6 +5723,7 @@ Thus in doubt-free mind,
 Adore Lord;
 The Primal One,
 Will sure bless you.`,
+    elaborationEnglish: `un uptues Gogian musGsry. -`,
   },
 {
     id: 1121, tantraId: 4, verseNumber: 1120,
@@ -4376,6 +5746,7 @@ She is the End of Samadhi,
 Manonmani, the Jewel of Inmost Thought,
 In my prayerful heart,
 She blossomed exuberant.`,
+    elaborationEnglish: `srQuyd CGusiyps ssgiou wrwsloucr`,
   },
   {
     id: 1122, tantraId: 4, verseNumber: 1121,
@@ -4396,6 +5767,20 @@ She is Tattvas,
 She is Primal One,
 She is kindred of Jiva,
 Thus She assured me.`,
+    elaborationEnglish: `She is beginningless Vedas,
+
+This they know not;
+
+She is creation and its diversities.
+She is Tattvas.
+
+She is Primal One.
+
+She is kindred’ of Jiva,
+
+Thus She assured me.
+
+Gsaler Hpsh Aarne Hawsticns`,
   },
   {
     id: 1123, tantraId: 4, verseNumber: 1122,
@@ -4416,6 +5801,16 @@ Whom all praise high,
 She is comely one, dear to Siva
 She whom I adore,
 Severed my Karmas hard.`,
+    elaborationEnglish: `*She is Spouse of Lord
+
+Whom all praise high,
+
+She is comely one. dear to Siva.
+She whom I adore.
+
+Severed my Karmas hard.
+
+Monwmsys signs gct@era Cwads`,
   },
   {
     id: 1124, tantraId: 4, verseNumber: 1123,
@@ -4434,6 +5829,12 @@ She is Truth of all those who reach Her,
 She is Lady that took me into Her vassalage,
 The Lord is Her Spouse
 Yet Beginningless is She.`,
+    elaborationEnglish: `a
+
+7. Les 5&8)
+
+Gus srigpseto CGuuirs sruiblerm
+Gar schigarnr Qenegu wonwihoGw`,
   },
   {
     id: 1125, tantraId: 4, verseNumber: 1124,
@@ -4453,6 +5854,55 @@ She is abiding Light Divine,
 She is the Self-Manifest Light
 She that became Half of Siva's Form,
 She, of Kalas twelve, Para Parai.`,
+    elaborationEnglish: `Sakti being another form of the Sun (the pure energy form)
+possesses twelve Kalas, that is the twelve positions in the
+Zodiac.
+
+Purna Sakti is the primal Sakti. She possesses the full sixteen
+kalas. She is perfection. She is united with Siva in the sphere
+éf pure consciousness. Yet, She remains eternally virgin This
+is the subtlest of the subtle mysteries of God. But from it
+follows the great Truth that Siva is the Father, and Sakti
+is the Mother; and that Mother and Father are One.
+
+Like Brahma, She is seated on lotus blossoms. Brahma can
+vouchsafe no more than a hundred years of life here below;
+but, Purna Sakti can ordain eternal life for Her devotees.
+
+Purna Sakti arOse and illumined the moon. She is the
+Mistress of Tattvas. She is kundalini. She is jnana. She is
+the Divine Fawn that dances with the Lord.
+
+Her Grace is true knowledge. When Her Grace descends,
+mayaic ignorance disappears. She is beyond bindu and nada.
+She is Tatparai, the Uncreated. She is Final Mukti.
+
+She is Parasakti who stood with Para. She became Icchasakti
+and Jnanasakti and when Kriyasakti arrived from bindu, she
+became immanent in all the three saktis.
+
+At the time of creation’Siva and Sakti stood inseparate as
+flower and fragrance. Together they stirred the primordial
+bindu. Creation then commenced.
+
+When in the beginning the worlds were created, Parasakti
+followed the eternally existent Lord through heaven and earth
+and breathed life into all creation.
+
+She evolved as bindu and nada, and as-the several gods
+and tativas. She is in Siva; She is in jiva; She is Sattavi,
+possessing the sattva guna. The countless bhuvanas (worlds)
+whirl in obedience to Her.
+
+She is seated on the petals of the cosmic {Mlower. She is
+seated on the petals of the six adharas. She is seated on
+the petals of the heart. She is seated on the petals of sahasrara.
+
+As prana reaches Purna Sakti with ten faces in sahasrara,
+ambrosia streams from Her downward-looking face.
+
+She is bathed in cosmic light. She is the One that destroys
+karmas, drives away maya and confers the ultimate liberations.`,
   },
   {
     id: 1126, tantraId: 4, verseNumber: 1125,
@@ -4473,6 +5923,7 @@ I measured the Primal Lord
 Of spaces Vast;
 I measured His Grace in devotion
 And knew all.`,
+    elaborationEnglish: `LOOrbss Uygoorib ioroMwit sso`,
   },
   {
     id: 1127, tantraId: 4, verseNumber: 1126,
@@ -4494,6 +5945,19 @@ She, the Virgin Eternal;
 Meditate on Her in Muladhara, where She is
 Success indeed shall be
 Your yogic feat in breath control.`,
+    elaborationEnglish: `Your yogic feat in breath control.
+
+It is important to note that Sakti.is frequently referred to
+as a virgin, even though she is said to be the wife of Siva
+and mother of children, (Here five, and in the Vedas, seven
+or eight as Aditi). This is because the magical power of a
+woman is thought to reside in her virginity. Cf. Kannagi, that
+is, Kanya plus nagi, literally the ‘‘naga virgin’, of
+Silappadikaram, the Tamil classic.
+
+Gbus soloosgin Can“en®@ unsgyw
+abies Haapib weallapy aicsocrgytb
+Qeus sal Aefigeam agsugyid`,
   },
   {
     id: 1128, tantraId: 4, verseNumber: 1127,
@@ -4511,6 +5975,10 @@ The Lord of many splendoured crown (Siva)
 Who in the fragrant (Blossom) appears, (Sahasrara)
 And the Lady who with Him is in rapturous union,
 All in one love-union for ever merged.`,
+    elaborationEnglish: `All in one love-union for ever merged.
+
+ATID YUU cINba HAG MUU S
+HIS Gpwoed gwoHpwd ures gor`,
   },
   {
     id: 1129, tantraId: 4, verseNumber: 1128,
@@ -4567,6 +6035,9 @@ Are no more than a hundred;
 The Lady of Jnana seated on blossom appeared;
 She is the Mistress of Words, abiding in the tongue
 Now it is Her command (how long you live).`,
+    elaborationEnglish: `ATW wri. Srg MGPSour
+Dias wrl WDergms QGsSuiar
+Urencru wauw UTsens ADGSMCT`,
   },
   {
     id: 1132, tantraId: 4, verseNumber: 1131,
@@ -4585,6 +6056,14 @@ Steadying the wavering mind,
 Centering it on high,
 Thus when they realize praiseworthy Para
 They and He for ever one become.`,
+    elaborationEnglish: `Steadying the wavering mind,,
+
+Centering it on, high,
+
+Thus when they realize praiseworthy Para
+They and He for ever one become.
+
+GsGort auphcrm Bus Osrafut_or`,
   },
   {
     id: 1133, tantraId: 4, verseNumber: 1132,
@@ -4604,6 +6083,13 @@ In the astral sphere within;
 Unto a column of treacle
 The light of Kundalini bright rises,
 Know you, where that Fawn dances!`,
+    elaborationEnglish: `The term ‘‘Moon in the astral sphere within’’ refers to the
+six cakras, or nerve plexuses in the body, through which when
+roused Kundalini passes in tantric sadhana.
+
+sHoanct whos song Geiy
+
+pur 23Heus) curgerb Gugsy ve`,
   },
   {
     id: 1134, tantraId: 4, verseNumber: 1133,
@@ -4623,6 +6109,11 @@ That forever abide;
 In the thoughts of those
 Who intense cherish Her,
 She abides for sure.`,
+    elaborationEnglish: `Qoajib usgid Qarg atgsGs
+
+- GIUGAsew Horm GypSeow Bry.
+
+Huge wrod ARM gs`,
   },
   {
     id: 1135, tantraId: 4, verseNumber: 1134,
@@ -4642,6 +6133,7 @@ Seek Her;
 And in silentness with Grace slumber,
 You shall for ever youthful be
 Transcending time and age.`,
+    elaborationEnglish: `Googy srolsg prsmacdr oy.`,
   },
   {
     id: 1136, tantraId: 4, verseNumber: 1135,
@@ -4677,6 +6169,24 @@ Parasakti, who with pervasive Para stood,
 Becomes Jnana Sakti and Ichcha Sakti;
 And when Kriya Sakti arrives, (from Bindu)
 The Dancer immanent becomes in them all.`,
+    elaborationEnglish: `2G0anrses Hernmw gompib oomont ‘
+
+_Siva Was One With Sakti in Primal Act of Creation
+
+As flower and its fragrance
+
+Siva and Sakti ‘stood form resembling
+
+This they know not;
+
+When together they stirred the Primordial Bindu
+For creation to commence,
+
+He in Thought was one with Her
+
+Thus it was, My Father stood.
+
+e597 Wu sim srggoD`,
   },
   {
     id: 1138, tantraId: 4, verseNumber: 1137,
@@ -4735,6 +6245,17 @@ Yet they know not the way to Her;
 Into them that hold Her in their hearts,
 She welled up from within
 And unto a bright lamp shed Her light.`,
+    elaborationEnglish: `She is in Jivas,
+
+Yet they know not the way to Her;
+Into them that hold Her in their hearts,
+She welled up from within
+
+And like a bright lamp shed Her light.
+
+2eL_woucr "HG 26387 Gerh
+Weor_wcc: gh orn dGgagm
+SseaL_wot Cura sem_ar Opes`,
   },
   {
     id: 1141, tantraId: 4, verseNumber: 1140,
@@ -4754,6 +6275,7 @@ Ye who have not seen Him,
 Away, from Here!
 The Sadhakas have seen Him
 He is the support of their heart.`,
+    elaborationEnglish: `UGoed sapherp yororiurd eupsonsit`,
   },
   {
     id: 1142, tantraId: 4, verseNumber: 1141,
@@ -4772,6 +6294,9 @@ Of Worlds two hundred and eighteen above is She seated;
 She is the Blessed One that is seated on the Flower of Heart
 She is the bejewelled one that is on
 Earth (Muladhara) below.`,
+    elaborationEnglish: `1) Bhuvanas, (worlds) are enumerated as 224, vide Mantra
+265, Tantra Three. Above 218 would place Sakti in the Siva
+tattva, in santyatita kala.`,
   },
   {
     id: 1143, tantraId: 4, verseNumber: 1142,
@@ -4789,6 +6314,7 @@ She is the Light that shines high
 As pennon resplendent,
 She is dazzling unto the lightning in the sky,
 And all worlds in Sakti's Way whirl.`,
+    elaborationEnglish: `Qosisat sucisst TLOLo gorprui`,
   },
   {
     id: 1144, tantraId: 4, verseNumber: 1143,
@@ -4806,6 +6332,8 @@ That Flower walked,
 As nine Saktis were they there;
 Kundalini Light through Central passage arose,
 And into the Lotus in Sahasrara spread.`,
+    elaborationEnglish: `2) Vamai, Seshtais Raudri. Kali, Kalavikarni, Balavikarni,
+Balabrahmadam,. Sarvabhudadamani, Manonmani.`,
   },
   {
     id: 1145, tantraId: 4, verseNumber: 1144,
@@ -4833,6 +6361,10 @@ The Spark that arose in triangular Chakra (Muladhara)
 Flew and spread in the rest of Adhara Chakras;
 And piercing Sahasrara shone bright;
 Thus She pervaded in Chakras all.`,
+    elaborationEnglish: `triangular Chakra
+
+Qossacnr sapsh 4%On1@ promi
+Luobsor cutuy Hoehne Gargia`,
   },
   {
     id: 1147, tantraId: 4, verseNumber: 1146,
@@ -4850,6 +6382,8 @@ And in all directions the breath spread,
 And sought the pearly-white light of Her face,
 And then flowed ambrosial waters
 From Her downward looking face.`,
+    elaborationEnglish: `Histon Kosres sMencu wo Gosraitiocsll
+Osribucier gomcoicon. Carns Garou`,
   },
   {
     id: 1148, tantraId: 4, verseNumber: 1147,
@@ -4870,6 +6404,11 @@ Her tresses are bedecked with flower garlands
 Her Form is red gold,
 Fragrant by far
 Daily She looks at Lord and prays.`,
+    elaborationEnglish: `Her Form is red gold,
+Fragrant by far
+Daily She looks at the Lord and prays.
+
+Age. wre HowGucH urs`,
   },
   {
     id: 1149, tantraId: 4, verseNumber: 1148,
@@ -4890,6 +6429,9 @@ She stands elated
 Pervading worlds and universes;
 She stands adorned
 With three lights, Sun, Moon and Fire.`,
+    elaborationEnglish: `Lincrucucd cuTeTiycu crs BHenm crmscit
+
+Vasu once. Garyaor 2.o1Gor`,
   },
   {
     id: 1150, tantraId: 4, verseNumber: 1149,
@@ -4909,6 +6451,12 @@ In Her Thought;
 She is draped in Cosmic Light,
 She beautifies all,
 Her I stood adoring.`,
+    elaborationEnglish: `‘She is draped in Cosmic Light;
+
+She beautifies all,
+Her I stood adoring.
+
+Fipm 5455 DoRSD Ceulenp`,
   },
   {
     id: 1151, tantraId: 4, verseNumber: 1150,
@@ -4931,6 +6479,7 @@ Her countenance is
 Of passions dispelled;
 She is of soft finery
 She drives away fearsome death.`,
+    elaborationEnglish: `agent PAyot wrwking shina`,
   },
   {
     id: 1152, tantraId: 4, verseNumber: 1151,
@@ -4952,6 +6501,20 @@ That all Karma destroys
 She for ever uproots Karmas
 Of Her devotees;
 She is the Primal One.`,
+    elaborationEnglish: `She is of hands bedecked in jewellery,
+She is Fountain of Bliss Divine,
+
+She is Beautiful,
+
+She is Tiripurai of Loveliness Perfect,
+She is Mount -Kailas
+
+That all Karma destroys
+
+She for ever uproots the Karmas
+Of Her devotees;
+
+She is the Primal One.`,
   },
   {
     id: 1153, tantraId: 4, verseNumber: 1152,
@@ -4972,6 +6535,20 @@ She drove away Maya
 That transitory fame gives,
 She of abiding fame,
 In my heart entered.`,
+    elaborationEnglish: `She Created All Life
+
+Eternal existent is our Lord;
+
+When at the. beginning the worlds were created,
+She Our Para Sakti followed Him,
+
+Through ‘‘Heaven and earth”’
+
+And: breathed life into creaiion all;
+
+That verily was Sakti’s Work.
+
+shai HermGsrt snryesm snresrmt`,
   },
   {
     id: 1154, tantraId: 4, verseNumber: 1153,
@@ -5010,6 +6587,75 @@ They know not
 Lady Great of honeyed-flower bedecked tresses,
 That Grace confers;
 Of muddled thinking they are.`,
+    elaborationEnglish: `Liberation
+
+“This” and “‘That’’, they say, is God,
+They Know Him not, the True One
+
+They know not,
+
+Who ultimate liberation grants,
+
+They know not
+
+The Mother Great of honeyed-flower bedecked
+tresses,
+
+That Grace confers;
+
+Of muddled thinking they are.
+
+8. asrpainGs ub
+SUPPORT-SUPPORTED
+
+Siva and Sakti-are mutually the support and the supported
+
+at once. They share their Form, half-and-half, entwined in
+
+divine delight.
+
+sIohs Ipnoiea BIHUSSs! HMgyor
+uTes iprorcucr unsw eponmis
+
+Sakti is the Support of, Adharas.
+
+Kundalini in the four petalled Muladhara
+
+Into Six and ninety Tattvas blossomed
+
+The Adharas four above have petals forty four in
+all;
+
+Beyond is the Adhara with sidereal petals ~~
+
+Yet beyond (twine) Lotus blossom is Sakti seated;
+Herself like a tender petal
+
+Supports them all.
+
+The Tattvas are here said to be 96, as against the usual 36
+of Buddhism and Saivism.
+
+6 petals in the svadhjstana chakra
+
+10 petals in the manipuraka chakra
+
+12 petals in the anahatha chakra
+16 petals in the visuddhi chakra
+
+All together, 44 petals are in the four chakras in between
+the four petals of the muladhara ard the two of ajna. (See
+Mantra 1704, Tantra Seven.) When the four-petalled kundalini
+
+_ traverses the four intermediate adharas, it reaches the
+
+two-petalled ajna. and from there visions the hundred-petalled
+blossom in sahasrara. Ajna is the sixth center — sahasrara
+beyond is not usually considered as a chakra, it being the
+goal. It is said to have 100 petals. 1.000 petals or 1,008
+petals. ‘
+
+MNSDGS srorucr Cause: Qurgeoans`,
   },
   {
     id: 1156, tantraId: 4, verseNumber: 1155,
@@ -5083,6 +6729,7 @@ That bedecks honeyed-flowers in Her tresses;
 He shares Her in His Form;
 And He from Her arises
 Himself thus a woman too!`,
+    elaborationEnglish: `Qucsr Qesr 15 Ouest cnesr UIL}cor 15S) GLb Gus ooo`,
   },
   {
     id: 1160, tantraId: 4, verseNumber: 1159,
@@ -5101,6 +6748,7 @@ From Woman arose Man;
 When you know the why of this,
 No more will there be talk
 Of Sakti from Sivam arising.`,
+    elaborationEnglish: `woréspnn Cen wGorrctiwwesl wmenswirn`,
   },
   {
     id: 1161, tantraId: 4, verseNumber: 1160,
@@ -5158,6 +6806,7 @@ Lord stood in delight
 For all worlds to delight;
 Lord stood in delight with Sakti
 Her shoulders in embrace entwined.`,
+    elaborationEnglish: `ySs5aF FOG UT lysines`,
   },
   {
     id: 1164, tantraId: 4, verseNumber: 1163,
@@ -5177,6 +6826,10 @@ Of Pure speech She is,
 Soft-footed unto a feathery peacock She is,
 She in my sentience entered,
 How Shall I describe it?`,
+    elaborationEnglish: `This is a poetical convention attributed to the loveliness of
+a woman’s skin.
+
+EeaoaQGanres orrg Dosssu Aguurscr`,
   },
   {
     id: 1165, tantraId: 4, verseNumber: 1164,
@@ -5193,6 +6846,7 @@ Beyond description is the fiery sphere that envelops Her,
 Beyond description it is even for bedazzled Jnanis
 She is Supreme Mistress of unconquerable acts
 She is Manomani that is beyond grasp.`,
+    elaborationEnglish: `srGor QGHos srmASNar comm HOG h`,
   },
   {
     id: 1166, tantraId: 4, verseNumber: 1165,
@@ -5209,6 +6863,7 @@ Holding the worlds apart, as the Heavens high He spreads;
 Himself the scorching Fire, Sun and Moon,
 Himself the Mother that sends down the rains,
 Himself the mountains strong and oceans cold.`,
+    elaborationEnglish: `berayer. wreeg wehssMh se Ores`,
   },
   {
     id: 1167, tantraId: 4, verseNumber: 1166,
@@ -5227,6 +6882,7 @@ Yet regard them not as humans;
 Divine are their qualities;
 Serene is their composure
 Higher than Celestials are they.`,
+    elaborationEnglish: `MerOor gory MNeagwort mss Qaros`,
   },
   {
     id: 1168, tantraId: 4, verseNumber: 1167,
@@ -5264,6 +6920,10 @@ It is in Cranium within the head
 Follow Her (Manomani),
 Beaming with Kalas ten and six;
 You shall reach Parasakti.`,
+    elaborationEnglish: `ugTs$D-QushOpsirg) usums wreys
+S775 wret sonoridg wires
+
+QrT+sD wows anrswgs gsrorrees`,
   },
   {
     id: 1170, tantraId: 4, verseNumber: 1169,
@@ -5283,6 +6943,17 @@ She is Sakti of the Night;
 She is of Vyamala Agama expounded,
 She is Sakti that comes as Guru
 Diverse indeed Her Forms, I perceived.`,
+    elaborationEnglish: `She is Sakti of the Night;*:
+
+She is in Vyamala Agama praised
+
+She is Sakti that comes as Guru
+Diverse indeed Her Forms, I perceived.
+
+“Refers to midnight worship with flowers as designated by
+the Vyamala Agama school.
+
+Lomibgio Gaonpyid Guna 58)`,
   },
   {
     id: 1171, tantraId: 4, verseNumber: 1170,
@@ -5302,6 +6973,12 @@ Of yore she joined Lord in creative union
 And became Bhoga Sakti;
 And then She was Param Herself (Parasakti)
 Undifferentiated from Siva.`,
+    elaborationEnglish: `The, union of Sakti with Siva is both yoga and bhoga. As
+Yogini. Sakti, She cognises all light and stands as its support.
+As Bhoga Sakti. She-joins the Lord in the act of creation,
+undifferentiated from Siva. :
+
+Qurgjusé asvalyiwd Gureap wr)`,
   },
   {
     id: 1172, tantraId: 4, verseNumber: 1171,
@@ -5321,6 +6998,7 @@ It was Yoga and Bhoga divine;
 Manonmani Sakti of fragrant tresses
 In that union was verily in Yoga
 That in truth it is.`,
+    elaborationEnglish: `Gurspp 668 257 Bag`,
   },
   {
     id: 1173, tantraId: 4, verseNumber: 1172,
@@ -5338,6 +7016,9 @@ The goodly Yoga Sakti's visage is toward south;
 The goodly Yoga Sakti's navel is Cosmic center;
 The goodly Yoga Sakti's feet are sublime exceeding;
 --This may you realize.`,
+    elaborationEnglish: `Yoga Sakti is the pedestal of light within. She faces South.
+Her navel is the centre of the cosmos. Her Feet are exceedingly
+sublime.`,
   },
   {
     id: 1174, tantraId: 4, verseNumber: 1173,
@@ -5356,6 +7037,15 @@ With Maya
 And finite Bindu and Nada
 Sakti rises,
 She that is in bejewelled bangles bedecked.`,
+    elaborationEnglish: `Frdm Siva/Sakti union arose nada, bindu and maya. From
+Her evolved the eight Saktis, all of equal kalas — fourteen.
+From bindu she manjfested the entire creation. All these are
+Her mutations. But, as ever, She remains the undiminished
+Param.
+
+srerret qur@pt gribucsss Goableng
+
+Snorer ourmyiS Coupes sian`,
   },
   {
     id: 1175, tantraId: 4, verseNumber: 1174,
@@ -5375,6 +7065,7 @@ And of equal Kalas twice seven;
 And Bindu that manifests creation entire;
 Indeed Her Divine Mutations are,
 She remaining Param as ever.`,
+    elaborationEnglish: `$65 ugnesans sno unGanpy`,
   },
   {
     id: 1176, tantraId: 4, verseNumber: 1175,
@@ -5394,6 +7085,10 @@ Chant Rudra mantra again and again,
 The Eight Saktis will there appear,
 And the white hued Three-eyed Parasakti too,
 With mace, and Her Mudra of yore.`,
+    elaborationEnglish: `Worship Her in the Vidya Chakra*for 27 days, continuously
+chanting the Rudra mantra. She will appear bearing a mace
+and mudra. and will be accompanied by the eight saktis.
+YSBoang aporplon Yu ss Owuigs GrIaggor`,
   },
   {
     id: 1177, tantraId: 4, verseNumber: 1176,
@@ -5412,6 +7107,18 @@ She is pervasive-all,
 She is Paraparai that ParaParan holds
 She is Sakti and Ananda Sakti too,
 She indeed is of fragrance intoxicating.`,
+    elaborationEnglish: `She is Paraparai that ParaParan holds
+She is Sakti and Ananda Sakti too.
+
+Her mudras are-triple — jnana mudra, tattva mudra-and
+ananda mudra.
+
+1) Jnana mudra, abhaya mudra, varada mudra. Thé three
+mudras used in the Sri Meenakshi Temple, of Madurai, are:
+tishabha mudra, meena mudra and rajakara naga mudra —
+vide *‘Abhidana Chintamani,”’ p.294.
+
+Osrmbenm OarnYe GGhdeoaus Gonwacrosi`,
   },
   {
     id: 1178, tantraId: 4, verseNumber: 1177,
@@ -5429,6 +7136,18 @@ She is virgin with budding breasts
 She is radiant kum-kum hued red,
 She holds Elephant-goad and noose
 Know that universe entire is that Virgin's abode.`,
+    elaborationEnglish: `Mantras 1177-1182
+
+She is eternally virgin. She is mother, daughter*and spouse
+— all at once. She is kum-kum hued. She bears the elephant
+goad. She has ghouls and ganas for Her heavenly hosts. The
+entire universe is Her abode. She is the cause and the caused.
+She is the tattvas. She has ten faces that look in ten directions.
+She revealed the four Vedas.and their six Angas. She knows
+no separateness from Her Lord. She: is Siva jnana. She is
+within jiva jnana.
+
+Guym aomripi Qulgen_h Gus Actrencir`,
   },
   {
     id: 1179, tantraId: 4, verseNumber: 1178,
@@ -5445,6 +7164,8 @@ She is Manonmani beyond word and thought,
 She is the Lady that has ghosts and Ganas for Her host,
 For Hara who all knowledge surpasses,
 She is Mother, Daughter and Spouse at once.`,
+    elaborationEnglish: `sm wungucr s$giqu wns Huet
+argon ariw wutigmH souderan`,
   },
   {
     id: 1180, tantraId: 4, verseNumber: 1179,
@@ -5464,6 +7185,7 @@ And the Caused at once,
 She is the Ancient
 That is enveloped by Bindu perfect,
 She possesses the directions ten of this world.`,
+    elaborationEnglish: `184`,
   },
   {
     id: 1181, tantraId: 4, verseNumber: 1180,
@@ -5482,6 +7204,10 @@ She as One pervaded the Adharas six
 She as Eternal stood,
 Our Lovely bejewelled Lady,
 Know you this.`,
+    elaborationEnglish: `apu such Garw YGuUssor
+
+Siu orm Gsips Hapssaicr
+Bow saios ups uGwrel`,
   },
   {
     id: 1182, tantraId: 4, verseNumber: 1181,
@@ -5502,6 +7228,7 @@ She is of breasts ambrosial,
 She is Mistress of Over-Soul (Siva),
 She knows separateness none
 From Her Lord.`,
+    elaborationEnglish: `GPQurcD Hahn Cannons Oamby`,
   },
   {
     id: 1183, tantraId: 4, verseNumber: 1182,
@@ -5519,6 +7246,13 @@ She is the lovely vine in Muladhara unites,
 With senses centered, and in union absorbed
 She in Jnana merging stood
 In the Jiva within.`,
+    elaborationEnglish: `She is the lovely vine in Muladhara unites,
+With senses centred, and in union absorbed
+She in Jnana merging stood
+
+In the Jiva within.
+
+Osrarars sue) ayw Qorugsgy`,
   },
   {
     id: 1184, tantraId: 4, verseNumber: 1183,
@@ -5537,6 +7271,14 @@ And in me in union joined,
 And into the rapture of tapasvin way
 Entranced, drew me;
 She, Lady of boundless Bounty.`,
+    elaborationEnglish: `And in me in union joined,
+
+And into the rapture of tapasvin way
+Entranced, drew me;
+
+She, the Mother of boundless Bounty.
+
+Qoisoa DetAcrp Qeaub Punt`,
   },
   {
     id: 1185, tantraId: 4, verseNumber: 1184,
@@ -5557,6 +7299,22 @@ They know this not,
 The Cosmic Daughter in amity stood in me;
 In the Center, where Cranium Flower is,
 She in sweetness stood.`,
+    elaborationEnglish: `“The sweetness of that Grace,
+
+She from within grants,
+
+They know this not,-
+
+Just as the colour cannot be separated from a flower
+She remains inseparable from the jiva
+
+She eternally abides as such.
+
+‘As Bhoga Sakti She grants Grace to jivas in bounteous
+
+sweetness.
+
+Qossancr apap storgyor Calls`,
   },
   {
     id: 1186, tantraId: 4, verseNumber: 1185,
@@ -5597,6 +7355,11 @@ Well may you even Fate conquer,
 She of the Flower in Sahasrara
 In the Spheres Three,
 Of Sun, Moon and Fire.`,
+    elaborationEnglish: `‘In the Spheres Three,
+
+Of Sun, Moon and Fire.
+
+epergioar wesc Gore Gerad w`,
   },
   {
     id: 1188, tantraId: 4, verseNumber: 1187,
@@ -5615,6 +7378,16 @@ In Sphere of Sun of Kalas twelve
 With Kalas fourteen She is Mamaya;
 And in Moon's Sphere
 The Bright One finite appears.`,
+    elaborationEnglish: `“TANTRA FOUR 185
+
+With Kalas fourteen She is Mamaya;
+And in Moon’s Sphere
+The Bright One. finite appears.
+
+Vide Mantra 852, Tantra Three, for the kalas of the sun,
+moon and fire.
+
+apg BréEHer WASOSUpH seit Hod`,
   },
   {
     id: 1189, tantraId: 4, verseNumber: 1188,
@@ -5637,6 +7410,22 @@ Whence arises the articulate sound,
 For all this,
 The source is the Moon Sphere
 (Where Sakti is.)`,
+    elaborationEnglish: `The practice of nada or listening to internal sounds leads to
+samadhi. Compare Hatha Yoga Pradipika, iv, pp. 64-67: “I
+will now describe the practice of anahatha nada (heart sound),
+as propounded by Goraka Natha for the benefit of those who
+are unable to understand the principles of knowledge.
+Adiriatha propounds one and a quarter crore methods of trance
+and they are all extant. Of these, the hearing of the anahdtha
+nada (heart sound) is the only one, which is the chief, in
+my opinion. Sitting with mukta asana and with the sambhavi
+mudra, the yogi should hear the ‘sound inside.his right car,
+with a collected mind. The ears, the eyes, the nose and the
+mouth should be closed and then the clear sound is heard
+in the passage of sushumna which has been clednsed of all
+its impurities.””
+
+ADS STIMWSO cromonl gos _mulg`,
   },
   {
     id: 1190, tantraId: 4, verseNumber: 1189,
@@ -5657,6 +7446,7 @@ Reached by Centered Mind,
 It is a Center that is fragrant dense
 There was She born,
 And there in divinity abides.`,
+    elaborationEnglish: `Qossearcr THDop FpPH wnras`,
   },
   {
     id: 1191, tantraId: 4, verseNumber: 1190,
@@ -5677,6 +7467,7 @@ There She abided
 All worlds praising her,
 And yearning for Her;
 There She abided, the Goodly Lady.`,
+    elaborationEnglish: `Asrhes5e oneem Gumgrscr ali`,
   },
   {
     id: 1192, tantraId: 4, verseNumber: 1191,
@@ -5695,6 +7486,13 @@ Looked inward and out;
 The Maya and the Five Sons
 With their Saktis arising
 Commenced their tasks respective.`,
+    elaborationEnglish: `Creation, Preservation, Dissolution, Obfuscation and Revealing
+Grace.
+
+In Siva/Sakti union, Siva and Sakti looked inward and outward.
+There arose maya and the five Gods, who with their-respective
+saktis commenced the Five Acts — Creation, Preservation,
+Dissolution, Obfuscation and Revealing.`,
   },
   {
     id: 1193, tantraId: 4, verseNumber: 1192,
@@ -5712,6 +7510,11 @@ Let them meditate on Her within their body vessel,
 The Kundalini light within
 Ascending through Sushumna cavity
 Will in Her Love subside.`,
+    elaborationEnglish: `Truc tapas is to meditate on kundalini sakti —, to seek inward
+rather than to observe, in vain, the myriad elaborate and
+complicated rituals.
+
+utds DESGb usw grpPlgprd`,
   },
   {
     id: 1194, tantraId: 4, verseNumber: 1193,
@@ -5728,6 +7531,11 @@ She dwells in flowers of Six Adharas
 Make them unfold,
 And the Primal Mantra in radiance arises,
 Precious by far than pearl it is.`,
+    elaborationEnglish: `Ss USATSPDYSHOSrQ YPSscironf
+
+63D «Oi sah surgf
+
+usgis 75H usTuger ous S My.`,
   },
   {
     id: 1195, tantraId: 4, verseNumber: 1194,
@@ -5748,6 +7556,11 @@ She is the bejewelled Lady
 To Paraparan belongs,
 Vithaki She is,
 In my heart She stood.`,
+    elaborationEnglish: `Her visage is radiant. She is Sakti (of prowess great); She
+She is Jatadhari (of matted locks); She is Vithaki (of jnana
+possessed); She is with ten hands.
+
+Goelw wesi_ob epearpio SOipA`,
   },
   {
     id: 1196, tantraId: 4, verseNumber: 1195,
@@ -5766,6 +7579,7 @@ She is Head of all three together,
 She abandons you not
 Even if you forget Her;
 She is Light within.`,
+    elaborationEnglish: `sroralip Caronsé sop Cahigu`,
   },
   {
     id: 1197, tantraId: 4, verseNumber: 1196,
@@ -5784,6 +7598,7 @@ Siva-Sakti, of honeyed flower bedecked tresses,
 Stands, intimate mingled;
 She is vine from Visuddha ascends
 To ambrosia in Sahasrara.`,
+    elaborationEnglish: `UU wes asg IpopGu`,
   },
   {
     id: 1198, tantraId: 4, verseNumber: 1197,
@@ -5804,6 +7619,19 @@ That is Bliss Divine;
 She spreads it over Adharas six,
 In order according,
 She, the bejewelled One.`,
+    elaborationEnglish: `Ambrosia flows,
+That is Form of Siva of anklet-girt Feet,
+
+That is Bliss Divine;.
+
+She spreads it over Adharas six,
+In order according,
+
+She, tthe bejewelled One.
+
+1) Upto ajna, the Guru guides.
+
+THHap wre Qermaurscr apaGgm`,
   },
   {
     id: 1199, tantraId: 4, verseNumber: 1198,
@@ -5824,6 +7652,13 @@ The Jnana Sakti in forehead seated,
 The Congregation of Manatreswaras,
 All arived to praise Her;
 Thus She was, the Yoga Sakti, seated.`,
+    elaborationEnglish: `‘The Jnana Sakti in forehead seated,
+
+The Congregation of Mantreswaras,
+All arrived to praise- Her;
+Thus She was, the. Yoga Sakti, seated.
+
+ugfeou umpod 2 6S5a10 Unease`,
   },
   {
     id: 1200, tantraId: 4, verseNumber: 1199,
@@ -5844,6 +7679,7 @@ Their devotion went;
 Wretches they are;
 Unto a beaten dog,
 They scream and wail.`,
+    elaborationEnglish: `AGr DENG Day srewmunrsar`,
   },
   {
     id: 1201, tantraId: 4, verseNumber: 1200,
@@ -5863,6 +7699,8 @@ The Lady of cloud-dark tresses
 Revealed Her Holy Feet, Lotus-like,
 And placing them on their thoughts,
 Blessed them with Her Grace.`,
+    elaborationEnglish: `Hponse masse AgTHu Cuonaussy
+Danse mouwt Hencrus Cumausgs`,
   },
   {
     id: 1202, tantraId: 4, verseNumber: 1201,
@@ -5883,6 +7721,16 @@ Hold Her in meditation
 Undistracted by worldly thoughts,
 Hold Her in the mystic junction in cranium,
 And into Samadhi enter.`,
+    elaborationEnglish: `Hold Her in your thoughts; -hold Her on your head; hold Her
+in your presence; hold Her in muladhara; hold Her in
+meditation; and holding Her in the spiritual junction of the
+cranium, enter in samadhi. Chant the mantra, ‘Sivayanama,’
+in endearing love. This is the way to consume the fruits of
+the twin karmas.
+
+Frew ants GS Sromyps anHs
+
+FeutBu ange Aoagys smteor`,
   },
   {
     id: 1203, tantraId: 4, verseNumber: 1202,
@@ -5912,6 +7760,11 @@ And daily approach Her,
 She of fragrant tresses,
 You shall in twinkle master the Vedas Four
 That within Her concealed stand.`,
+    elaborationEnglish: `1) The four: Pranava, Bija, Sakti, Kilakam.
+
+TWH NGA GaNencr ulorruwesr
+
+OsruisHht Cools Gul Garmscradl`,
   },
   {
     id: 1205, tantraId: 4, verseNumber: 1204,
@@ -5931,6 +7784,11 @@ Think of Her;
 Whose Form is tender unto a flower petal
 Who is Virgin Eternal, Kundalini,
 Whose eyes are painted in dark collyrium
+Who is Sweetness Surpassing.`,
+    elaborationEnglish: `Whose Form is tender like, a flower petal
+Who is Virgin Eternal, Kundalini,
+
+Whose eyes are painted in‘dark collyrium
 Who is Sweetness Surpassing.`,
   },
   {
@@ -5952,6 +7810,14 @@ Realize Her;
 The Only One in this world;
 She will make you bide here below for ever
 You may attain eight attributes* of Siva too.`,
+    elaborationEnglish: `Think of Her; think of Her time and again; think of Her
+
+- deep in the heart. By thus realising Her, you shall attain the
+
+eight attributes of Siva.
+1) Eight attributes of Siva — vide Mantra 1, Prelude 8.
+
+STW FHUGPR enswonps soon lor`,
   },
   {
     id: 1207, tantraId: 4, verseNumber: 1206,
@@ -5971,6 +7837,7 @@ And meet Her, of shining fragrant tresses
 In your heart's Center She as Light stands,
 There She stood, bedecked with Flower,
 That is Crescent Moon.`,
+    elaborationEnglish: `ADL QGaumas Canadas Gary.as`,
   },
   {
     id: 1208, tantraId: 4, verseNumber: 1207,
@@ -5991,6 +7858,12 @@ That is the heart of Rudra mantra
 She dances in rapture, in Holy Hall of Heart
 Meet Her through Sushumna,
 Your breath that way coursing.`,
+    elaborationEnglish: `Course: your breath through sushumna, seeking the twin letters
+Si and Va — in the holy hall of the heart you can meet
+Her.
+
+Qoust wrage rec s5nGouct
+Src srncr Q)7a) sorgyt or`,
   },
   {
     id: 1209, tantraId: 4, verseNumber: 1208,
@@ -6010,6 +7883,7 @@ Kama, God of Love, and his brother Sama,
 And Sun, Fire and Moon
 All, all, besought Her Feet
 And on their heads they bore them.`,
+    elaborationEnglish: `Bry BHM Ehret wpaasplet`,
   },
   {
     id: 1210, tantraId: 4, verseNumber: 1209,
@@ -6029,6 +7903,10 @@ She is bejewelled,
 She dances through Sushumna Nadi central
 As Jnana Luminous,
 She, Beginning of universe all.`,
+    elaborationEnglish: `Aer wsorl soe) ulugse
+
+sr OMgror Nodrowvs soaUngGmp woos
+SIL aye semiuu wrHw sngesr a`,
   },
   {
     id: 1211, tantraId: 4, verseNumber: 1210,
@@ -6066,6 +7944,11 @@ Piercing Chakras
 She entered unopened flower above,
 With Lord, She there sat,
 High in Sahasrara.`,
+    elaborationEnglish: `The Lord consumed poison, enabling the celestjals to consume
+the ambrosia that confers immortality. There She, was with
+Him then, and thus did it happen.
+
+pron paerbhcr CGosDar OFF son`,
   },
   {
     id: 1213, tantraId: 4, verseNumber: 1212,
@@ -6104,6 +7987,7 @@ With those who chant,
 Syallble Na-Ma-Si-Va
 She, Lady of Niyama,
 Constant stood to succour.`,
+    elaborationEnglish: `Aornw wie Deepss THs Har`,
   },
   {
     id: 1215, tantraId: 4, verseNumber: 1214,
@@ -6122,6 +8006,7 @@ Of rich pearl's radiance She is,
 Of wavy tresses She is,
 She immanent stands in Jivas
 As Kala pervasive.`,
+    elaborationEnglish: `Son AG pIGTsan Grermact crvourti`,
   },
   {
     id: 1216, tantraId: 4, verseNumber: 1215,
@@ -6138,6 +8023,18 @@ The Virgin with Her Lover commingling stood
 She stood commingling in all Life and Thought
 She stood commingling in all Learning and Wisdom
 She stood commingling as Time Eternal.`,
+    elaborationEnglish: `She stood commingling in all Learning and Wisdom
+She stood commingling as Time Eternal.
+
+Mantras 1215 & 1216
+
+In all life and thought, in all learning and. wisdom. and as
+time eternal, She stood mingling. She stood in stellar brilliance.
+She is Malini (Uma); Makuli- (kundalini); She is Chandika.
+the tornado that blows away the troubles of Her devotees.
+Protectress She thus is, standing indivisible with the Protector.
+
+wurde wige) wihg sery.es`,
   },
   {
     id: 1217, tantraId: 4, verseNumber: 1216,
@@ -6178,6 +8075,7 @@ One their heart,
 Ten the hands
 Five the bewitching faces
 Three the eyes on face each.`,
+    elaborationEnglish: `Cased FOgretu HotwGwd Gwalper`,
   },
   {
     id: 1219, tantraId: 4, verseNumber: 1218,
@@ -6196,6 +8094,25 @@ Among them are the active group of Five (Senses);
 In the body so constituted
 She stands as Beginning and End,
 Praised by Brahma and the twice-nine Ganas.`,
+    elaborationEnglish: `The 18 Ganas are: |. Devas (Amaras) 2. Siddhas, 3. Asuras
+
+4. Daityas, 5. Garudas, 6. Kinnaras, 7. Nirutas,
+8. Kimpurushas, 9. Gandharvas, 10. Yakshas, 11. Vinjayas,
+12. Bhutas. 13. Pisachas, 14. Antharas, 15. Munivas,
+
+The seven Centres within me
+
+16. Uragas. 17. Akasavasis. 18. Bhoga Bhumidars
+
+Brahma and the hordes of cighteen gana-geénres praise Sakti.
+who stands as the beginning and the end. in the body with
+jiva, with the tattvas and the five ‘senses that constitute the
+body.
+
+Ganas are troops of noisy warrior bands, usually said to be
+Maruts. following Indra (in the Rg Veda) and Siva (in the
+
+BAH orrsale ma ¢5u) gruwcuer`,
   },
   {
     id: 1220, tantraId: 4, verseNumber: 1219,
@@ -6215,6 +8132,23 @@ She stood in the Chakra
 Of fifty-one letters inscribed;
 And He the Lord stood there
 By the Jewelled One's side.`,
+    elaborationEnglish: `1) Denoted by the 51 letters of the Sanskrit alphabet and
+the letter Aum—
+
+Mantras 1219-1221
+
+She stood with ‘Him in the Chakra of Fifty-One letters
+(sahasrara). When jnana of these is acquired. jiva s perfection
+is attained. She dwells in the six adharas. As prana breath
+reaches these adharas one after the other. She can, be visioned.
+The seven centres are then enlivened and the ten breaths
+
+become one prana.
+
+Here, the kalas are 51. representing the 51 letters of the
+Sanskrit language.
+
+Bus goto wrpib )70%0 Gor`,
   },
   {
     id: 1221, tantraId: 4, verseNumber: 1220,
@@ -6253,6 +8187,19 @@ The ten breaths within me
 As one Prana breath became;
 And there She stood,
 Chanting (Aum) and awareness imparting.`,
+    elaborationEnglish: `>
+
+Were uplifted and enlivened;
+
+The ten breaths within me
+
+As one Prana breath became;
+
+And there She stood,
+
+Chanting (Aum) and awareness imparting.
+
+neha oti oriasS) wirhw STEw`,
   },
   {
     id: 1223, tantraId: 4, verseNumber: 1222,
@@ -6270,6 +8217,7 @@ Is the way of union in God,
 Thus does Siva (contriver) and Sakti (consort of the contriver)
 Together in amity arise;
 She, the Beloved of Siva, (Sivakami) blesses you.`,
+    elaborationEnglish: `gug Fac Amswea Depry. &`,
   },
   {
     id: 1224, tantraId: 4, verseNumber: 1223,
@@ -6289,6 +8237,15 @@ She fortifies Jiva,
 And renders him youthful,
 Flower bedecked She stands
 In Jiva's Eye-brow Center.`,
+    elaborationEnglish: `!) Kodandam — eyebrow centre, ajna chakra
+
+She. as Manonmani, stands in. the eyebrow centre, radiant
+as the crescent moon. She is fire; she is the Primal Being
+and Isa; She is the three spheres; She is the wind and other
+clements. She protects jiva and renders him youthful through
+yoga.
+
+BSd ugtusg Gurr uespweicir`,
   },
   {
     id: 1225, tantraId: 4, verseNumber: 1224,
@@ -6306,6 +8263,14 @@ She one with Fifty Letters becomes;
 She is Para Parai and Parai too;
 She is of the Acts Five-
 Creation, Preservation, Dissolution, Obfuscation and Redemption.`,
+    elaborationEnglish: `Mantras 1224-1226
+
+She is of the Five Acts, Creation, Preservation, Dissolution,
+OPfaseation and Revealing Grace. She is Mohini vibrant and
+Yooini amiable. Liberation lies in meditating on Her, chanting
+Aum in silence.
+
+Guret wuciipent wig Gurtmmieur`,
   },
   {
     id: 1226, tantraId: 4, verseNumber: 1225,
@@ -6358,6 +8323,17 @@ Rare is She for any to know,
 To them that seek Her
 United in word and thought,
 She as Wisdom Subtle appears.`,
+    elaborationEnglish: `Mantras 1227-1229
+
+She is Mother of several faiths; She is Manonmani (the heart’s
+precious gem) and Mangali, the Auspicious. She is subtle
+wisdom. When sought, united in word and thought, She’ can
+be visioned. She is jnana, the true way. She drives away evil
+ways.
+
+‘
+
+ero ang DMgrenh us ste`,
   },
   {
     id: 1229, tantraId: 4, verseNumber: 1228,
@@ -6377,6 +8353,9 @@ That is Jnana;
 That Way is the Holy Way,
 For those who seek Siva-State,
 The Way of Sanmarga (Jnana) is Way True.`,
+    elaborationEnglish: `T
+
+—`,
   },
   {
     id: 1230, tantraId: 4, verseNumber: 1229,
@@ -6395,6 +8374,7 @@ From that goodly Way,
 All goodly deeds arises
 Of that Sanmarga,
 Sakti indeed the Mistress is.`,
+    elaborationEnglish: `ASHCGod AANSHYS BSD uypsssancr`,
   },
   {
     id: 1231, tantraId: 4, verseNumber: 1230,
@@ -6413,6 +8393,13 @@ When you meditate constant on Sakti
 That as Aum ripens,
 That the Way sure
 To enter the Center aloft Sahasrara.`,
+    elaborationEnglish: `Mantras 1230, 32
+
+Constant meditation on Sakti ripens as Aum, opens the sure
+way to enter the sahasrara and helps to conquer the formidable
+fate, karmas, and the senses.
+
+AHN Dacrme. Gos wrGs`,
   },
   {
     id: 1232, tantraId: 4, verseNumber: 1231,
@@ -6432,6 +8419,7 @@ Of flower bedecked tresses
 In the Moon's sphere whence ambrosia flows
 And there pray,
 Well may they decreed Fate conquer.`,
+    elaborationEnglish: `Aus ongbd aHanf gerencauytd`,
   },
   {
     id: 1233, tantraId: 4, verseNumber: 1232,
@@ -6449,6 +8437,9 @@ Well may they Karmaic Pasa conquer,
 Well may they desire-ridden Senses conquer,
 Well may all these know
 The Lady that conquers all.`,
+    elaborationEnglish: `ungb unusgy wuss UT)
+
+bin Gperebd suf sraypot © a`,
   },
   {
     id: 1234, tantraId: 4, verseNumber: 1233,
@@ -6468,6 +8459,7 @@ That the State how
 The Lady of flower laden tresses and Her Lord
 Of yore have been,
 Verily, verily is this true.`,
+    elaborationEnglish: `Iss MeaANGu srovenb Moampsor`,
   },
   {
     id: 1235, tantraId: 4, verseNumber: 1234,
@@ -6484,6 +8476,9 @@ When Sakti and Siva united
 All creation, without seed, arose;
 And thus was it with the Fifty-one Letter-Beings,
 Acquiring Jnana, Jivas Perfection attained.`,
+    elaborationEnglish: `HOss Aagics Amvgis meni
+
+AGA sual wb Bop s1s`,
   },
   {
     id: 1236, tantraId: 4, verseNumber: 1235,
@@ -6502,6 +8497,28 @@ And the Celestials stood praying
 To swill the ambrosia that flowed;
 And as Ambrosia there She stood
 Radiant as Crescent Moon.`,
+    elaborationEnglish: `Lang sions wHQwa@ wmrgsout
+
+gow sige GanBpler maGar. 1236 .
+
+She is Stellar Brilliance
+
+They who reach to the Star Eternal
+Became one with Her,
+
+Of tresses, garland-festooned,
+
+With fragrant Ganga and Moon,
+And men of holy tapas
+Self-realized praying;
+
+Thus She stood in stellar brilliance.
+
+Porncasr Cefeyp wn@ern@ Cpu
+
+192 z . TIRUMANTIRAM
+
+OQscarp Opresisar Apes Cacwy.w`,
   },
   {
     id: 1237, tantraId: 4, verseNumber: 1236,
@@ -6537,6 +8554,7 @@ With their inner light realizing Her,
 And uniting in Her,
 In the thoughts of Jivas thus reached
 All Jnana appears.`,
+    elaborationEnglish: `Fap®G wrmscuer wu uvsenm`,
   },
   {
     id: 1239, tantraId: 4, verseNumber: 1238,
@@ -6556,6 +8574,13 @@ She of doe-like eyes,
 And He of handsome visage
 Together appear;
 Her do you seek.`,
+    elaborationEnglish: `' She appears in the form one conceives; and grants the pure
+way and the diverse branches of knowledge.
+
+By HPaw Ss _ ES eo aunposh
+bruw 578 wGsrof) winders
+
+Gesu afloau Aaness #65`,
   },
   {
     id: 1240, tantraId: 4, verseNumber: 1239,
@@ -6575,6 +8600,13 @@ She is damsel red-hued.
 She is Sivananda Sundari (Siva-Bliss-Beauty),
 She stood as Pure Way,
 In Love endearing.`,
+    elaborationEnglish: `She stands as Vedic subtlety opond human knowledge. She
+is maya; She is divinely proud; She is Sivananda Sundari (Siva
+bliss Beauty); She is love endearing.
+
+Oppug: curiierm BpMenp wrrenents
+
+GPug mys GMSOareMH Corso`,
   },
   {
     id: 1241, tantraId: 4, verseNumber: 1240,
@@ -6593,6 +8625,10 @@ But with Lord
 Center Her in your thoughts,
 And there in Jnana
 You shall absorbed be.`,
+    elaborationEnglish: `And there in: Jnana
+You shall absorbed be.
+
+Bower wrevper Feerwn ons`,
   },
   {
     id: 1242, tantraId: 4, verseNumber: 1241,
@@ -6611,6 +8647,22 @@ If Aum pervaded, you reach to Centers nine within
 You shall honey-sweet divine become,
 You shall in rapture sing,
 You shall reach State of Greatness Surpassing.`,
+    elaborationEnglish: `Six adharas and the three mandalas-all pervaded by Aum.
+Mantras 1241 & 1242
+
+Illusory are the states of Brahma, Vishnu, Hara and
+Mahesvara. She is beyond all those. She pervades in Aum,
+in sahasrara beyond the six adharas and the three mandalas.
+There She confers the state of greatness, surpassing that of
+all the gods. Then the celestials, Vanavas, Dhanavas, Indra
+and other gods from all directions will come to the yogi and
+worship at his feet.
+
+psy Curppet curerot grenourt
+
+Osa (sears aesyens Curisapm
+
+Osrpsen wep awn@ent® Gasnenesrusd`,
   },
   {
     id: 1243, tantraId: 4, verseNumber: 1242,
@@ -6629,6 +8681,7 @@ And Indra and other Gods too in direction eight;
 Seek therefore the way of worship to reach
 The Lady of tresses, in flower clusters festooned,
 And Her Lord, too.`,
+    elaborationEnglish: `Children of Danu, their mother — asuras.`,
   },
   {
     id: 1244, tantraId: 4, verseNumber: 1243,
@@ -6648,6 +8701,7 @@ Light the multi-flamed lamp,
 Thus perform worship of Parvati;
 The oblations that you in archana offer
 Are for the Lord of Divine Light as well.`,
+    elaborationEnglish: `euGu srs Asngacr 2 aiid`,
   },
   {
     id: 1245, tantraId: 4, verseNumber: 1244,
@@ -6668,6 +8722,14 @@ She who holds the lovely parrot in Her hand,
 And sports wavy tresses
 She, Parasakti
 Do adore Her!`,
+    elaborationEnglish: `Mantras 1244-1246
+
+Adore Parasakti sporting the wavy tresses — Uma of dark
+slender form — and be illumined. The resplendent Parasakti
+dispels anava darkness. The Golden Goddess of wealth shall
+then be at your feet.
+
+Qunp@sryg wrgst yonerapcd gS gout`,
   },
   {
     id: 1246, tantraId: 4, verseNumber: 1245,
@@ -6688,6 +8750,7 @@ Do adore Her
 And be illumined,
 The very Golden Goddess (of Wealth) shall
 At your feet be.`,
+    elaborationEnglish: `Narw@srat wow Ahem wren`,
   },
   {
     id: 1247, tantraId: 4, verseNumber: 1246,
@@ -6707,6 +8770,7 @@ She sports in love's union intimate
 With Lord that is blue-throated;
 Let Her be your heart's goal,
 And follow Her close.`,
+    elaborationEnglish: `MN mMsrer Dugger. CGoodag shone`,
   },
   {
     id: 1248, tantraId: 4, verseNumber: 1247,
@@ -6727,6 +8791,7 @@ He stands in Her too
 As one Form inseparate;
 With serpent and Ganga on Matted locks
 He in Her is contained.`,
+    elaborationEnglish: `UMcecrs maéAQuid Ouncretes wrens`,
   },
   {
     id: 1249, tantraId: 4, verseNumber: 1248,
@@ -6748,6 +8813,10 @@ That He thus sports in joy
 With Her of bangled hands,
 And Form bejewelled,
 Is indeed a mystery, baffle!`,
+    elaborationEnglish: `Is it then a mystery why Siva sports in joy with the bejewelled
+Sakti? :
+
+Srub yoru socluct wrés5H)`,
   },
   {
     id: 1250, tantraId: 4, verseNumber: 1249,
@@ -6769,6 +8838,7 @@ He shares Sakti in Love;
 Him, the Great Sakti in bodily union embraced
 That all creation in union to arise
 She, the Supreme source of Sex-Energy.`,
+    elaborationEnglish: `Dencos 5 O15 1p) Gg ernment AGAOUDD`,
   },
   {
     id: 1251, tantraId: 4, verseNumber: 1250,
@@ -6789,6 +8859,34 @@ As I embraced the Lord of worlds all,
 I remained in divine fulfillment,
 As I entwined at the Primal One's Feet
 I received His Sakti's Grace.`,
+    elaborationEnglish: `I became one with Him;
+
+As I embraced the Lord of worlds all,
+I remained in divine fulfilment;
+
+As 1 entwined at the Primal One’s Feet
+I received His Sakti’s Grace.
+
+Once He is realised as Isa, you unite in Him; you become
+one with Him. By embracing the Lord of all Worlds, the self
+
+is effaced.
+
+sant sDuys sos50 ants_Gu
+Qurbprét owsb ysdsoh wrGw.
+
+Lord*s Feet are the Refuge
+
+The great Manonmani is Greatness All
+
+The Holy Feet of Her Lord, the Goal True, they
+say;
+
+This the learned know;
+
+For those who this truth know,
+
+His Golden Feet exalted art`,
   },
   {
     id: 1252, tantraId: 4, verseNumber: 1251,
@@ -6825,6 +8923,16 @@ That the reason why
 I adore Mother
 With flowers fragrant
 And heart in melting love.`,
+    elaborationEnglish: `I adore Mother
+With flowers fragrant
+And heart in melting love.
+
+The yogi adores Mother Sakti with fragrant flowers and with
+the heart melting in love. She is much more easily accessible
+than the Lord, who, it is said, is beyond the seven worlds.
+
+Order Orig Dowvwieas wruihHGw
+Qboeacr Deus QsHo whensuyd`,
   },
   {
     id: 1254, tantraId: 4, verseNumber: 1253,
@@ -6844,6 +8952,7 @@ She fashions Holy Home
 And stands as Lady Divine;
 She, Maya, fashioned this body,
 And in this Body Home too She abides.`,
+    elaborationEnglish: `AdowoGur _ FSH wreayibd 21 ohGs`,
   },
   {
     id: 1255, tantraId: 4, verseNumber: 1254,
@@ -6863,6 +8972,23 @@ With my Mother and Father I sit,
 And my Mother and Father,
 I constant adore.
 9 EROLI CHAKRAM (CHAKRA OF RADIANT LIGHT)`,
+    elaborationEnglish: `I constant adore.
+
+The yogi constantly adores the Mother (Sakti) and Father
+(Siva), who in love ever stand united.
+
+sO wssnn THE Hepp ston
+
+From Nada In Muladhara Rises Eroli Chakra
+
+In Muladhara Lotus of petals four,
+
+Are Nadas four
+
+With radiant Bindu arise;
+
+When Nada’s radiant Kala everywhere suffuses,
+Then does arise of Supreme Light Chakra`,
   },
   {
     id: 1256, tantraId: 4, verseNumber: 1255,
@@ -6881,6 +9007,23 @@ With radiant Bindu arise;
 When Nada's radiant Kala everywhere suffuses,
 Then does arise Radiant (Eroli) Chakra
 In Central Kundalini Fire.`,
+    elaborationEnglish: `ascites Quupssonas wriuisvlh 2 carer
+
+asciof QuepsOO anmgs GeradrgyGw. + 1256
+
+Letters in the Chakra Have Great Power
+
+Letters in Kundalini Fire are mighty .great
+Letters in Kundalini Fire rose to heavens,
+Letters in Kundalini Fire form a great Chakra
+The Way Letters are placed,
+
+I shall now relate.
+
+195
+
+The mighty four letters in kundalini, Va, Sa, Sa, Sa form
+the basis of this great Chakra.`,
   },
   {
     id: 1257, tantraId: 4, verseNumber: 1256,
@@ -6930,6 +9073,29 @@ Bindu letter conjoining Nada Letter
 Together fill Muladhara
 When Conjoint Letters are thus repeated
 They form Earth Chakra.`,
+    elaborationEnglish: `When the conjoined letters (bindu letter and .nada letter) tha
+fill the: muladhara are repeatedly chanted thus, they form the
+Inala (Cosmos) Chakra.
+
+GIvw sTulGw aM Fs ajc srsupib
+Grew s7u@ wou Gursener
+
+Cosmos Chakra Expanded into Five Elements
+
+The Earth Chakra expanded,
+
+When the Bindu and Nada conjoint became
+
+That Adhara (Muladhara) to immense distarce
+lengthened,
+
+As Earth the letters thus expanded.
+
+Mantras 1259-1261
+
+The Cosmos Chakra expanded into five elements: ‘Ha’ (sky), “Ya
+
+ans tTUpssg Godage pL`,
   },
   {
     id: 1260, tantraId: 4, verseNumber: 1259,
@@ -6962,6 +9128,15 @@ The Letters arose as Bindu and Nada,
 The Letters expanded as Chakra
 The Letters lengthened into Element Earth,
 The Letters lengthened as Element Water beyond.`,
+    elaborationEnglish: `Beyond Appeared Elements Fire, Wind and Sky
+
+As Element Water, Chakra lengthened,
+Then further as Element Fire,
+
+Then still further as Element Wind
+And further beyond as Element Sky.
+
+BEE HSST wrougy Percvradig od`,
   },
   {
     id: 1262, tantraId: 4, verseNumber: 1261,
@@ -6994,6 +9169,10 @@ To speak of Astral Letter,
 In Astral Letter are all other letters contained,
 Astral letter is "Ha", that is Sivananda Bliss
 That the Astral letter, know this.`,
+    elaborationEnglish: `The astral letter is ‘Ha’ that is Sivananda bliss. It contains
+all the other letters.
+
+HONGO F557 BTS apgsor`,
   },
   {
     id: 1264, tantraId: 4, verseNumber: 1263,
@@ -7011,6 +9190,11 @@ Of five times five Bindu dot is it made;
 With Nada the Chakra commences
 With letters in the Chambers placed
 Thus it is the Sun Chakra.`,
+    elaborationEnglish: `Repeat the four nada letters with bindu 25 times to form
+the Surya (Sun) Chakra.
+
+AKDYSY Bond cnh orupssrqw
+AD PSV BM cube srupssTGUd`,
   },
   {
     id: 1265, tantraId: 4, verseNumber: 1264,
@@ -7029,6 +9213,18 @@ The six letters thus formed,
 Are Sakti's Letters
 The middle Letter of the first Four (Va) aforesaid
 Is the Letter of Kundalini Fire, First and Last.`,
+    elaborationEnglish: `The six letters commencing with ‘A’ are the letters of
+Siva/Sakti
+
+196
+
+1) A, Aa, I, I, G, U
+
+2) E, E, Ai, O, O, Av
+
+3) Va, Sa, Sha, Sa
+
+4) (Aum) Si, Va, Ya, Na, Ma`,
   },
   {
     id: 1266, tantraId: 4, verseNumber: 1265,
@@ -7046,6 +9242,14 @@ The Letters are but the Six Letter Mantra
 Whose Central Letter Va to Fire belongs
 That Letter central as radiant Fire flames
 Thus are the Letters Six, first and last.`,
+    elaborationEnglish: `The four letters of kundalini fire expanded into 144 letters
+of the Chakra.
+
+ABS FOIPSON carmawm
+
+AbS YH s0uUD Oe Oro maser
+
+ASH yuuBs eohed swirpsier`,
   },
   {
     id: 1267, tantraId: 4, verseNumber: 1266,
@@ -7063,6 +9267,19 @@ The finite position is for the Sixteen (Vishddhi) and Two (Ajna) to reach
 And so when Kundalini that was at base
 Ascends and crosses beyond the third center from it (Anahatha)
 Then is visioned the Mystic Sphere of the Moon.`,
+    elaborationEnglish: `1) 18 letters — 16 letters of the moon’s 16 kalas and the
+two -letters (A and U) of Aum.
+
+2) 13th letter — after the 12 letters in the 12 kalas of the
+sun are ascended, cover the moon sphere which absorbs the
+sun’s kalas.
+
+The ultimate centre filled by 18 letters has neither beginning
+nor end. The moon's sphere is visioned. when the centre with
+13 letters is reached.
+
+BAT ors WERTH opus!
+wreodet win) Gen Qt canygy`,
   },
   {
     id: 1268, tantraId: 4, verseNumber: 1267,
@@ -7080,6 +9297,12 @@ The days three hundred and sixty;
 There they are in fortnights of days fifteen reckoned;
 There they come as in the Centers Sixteen are Two Kundalini ascends
 There they come as the 'Sphere of the Mystic Sun' within is reached.`,
+    elaborationEnglish: `Kundalini ascends
+There they come as the ‘Sphere of the Mystic Sun’
+within is reached.
+
+“That ultimate centre contains the span of all life. Time is
+measurable by the ‘sun.’`,
   },
   {
     id: 1269, tantraId: 4, verseNumber: 1268,
@@ -7098,6 +9321,9 @@ In time span reckoned
 As thirty naligai's in the day,
 And in days reckoned as three hundred and sixty
 In the full year round.`,
+    elaborationEnglish: `Huet mpegs cunt gy curiam
+Oscaler epagim HeaitsG Garsre
+FUMer Pans SMpPSHOS Serr grb`,
   },
   {
     id: 1270, tantraId: 4, verseNumber: 1269,
@@ -7115,6 +9341,13 @@ With the Goat (Mesha) comes its group of three
 With the Plough (Rishabha) comes its group of three
 With the Veena (Mithuna) comes its group of three
 Three clusters of Rasi houses each.`,
+    elaborationEnglish: `Rasis in the zodiac are determined in three groupings — goat
+
+1) The mesha (Aries) group or path in this cluster are:
+
+2) The rishabha (Taurus) path contains:
+
+3) The mithuna (Gemini) path contains:`,
   },
   {
     id: 1271, tantraId: 4, verseNumber: 1270,
@@ -7131,6 +9364,8 @@ When the Chakra fills the Zodiac,
 The Chakra is by Bindu filled,
 And when Nada too therein fills
 The Rasi Chakra stands fixed in Zodiac.`,
+    elaborationEnglish: `The Rasi Chakra is formed in the zodiac by being filled-with
+binder and nada letters.`,
   },
   {
     id: 1272, tantraId: 4, verseNumber: 1271,
@@ -7147,6 +9382,10 @@ The Bindu letters with Nada letters arise,
 When in each Adhara the appropriate letters
 Bindu and Nada carry out are placed,
 Then the Taraka (Stellar) Chakra appears!`,
+    elaborationEnglish: `The Taraka (Stellar) Chakra appears when the letters ‘of bindu
+and nada are placed appropriately in each adhara.
+
+signs GwoGort sopssg Guna?`,
   },
   {
     id: 1273, tantraId: 4, verseNumber: 1272,
@@ -7164,6 +9403,12 @@ On that Star does a divine light beam,
 When on to this Star, Moon and Sun comes
 That Star for Sakti support becomes,
 Sakti that supports all.`,
+    elaborationEnglish: `The Chakra assumes the form of a star and a divine light
+beams from it. Taraka Chakra is the support of Sakti, the
+supporter of all.
+
+Sear) sag agg! sucrose
+SsrnG acs Oarapisor Ours sven`,
   },
   {
     id: 1274, tantraId: 4, verseNumber: 1273,
@@ -7180,6 +9425,11 @@ In Chakra, Bindu ascends,
 In Bindu, Nada ascends,
 In Nada, Flame of Fire ascends,
 Beyond, appears a Light that is Dark (smoky).`,
+    elaborationEnglish: `On that Chakra bindu ascends; on bindu ascends nada; and
+on nada ascends the kundalini flame of fire. Then arises a
+dark smoky flame.
+
+en@gra gaomt_uw Gunhsgiao Dang`,
   },
   {
     id: 1275, tantraId: 4, verseNumber: 1274,
@@ -7196,6 +9446,17 @@ That Smoky Light enveloped universe all,
 It became light of earth, water, fire, wind and sky,
 Thus as it flamed and rose together,
 As One Divine Light it pervaded everywhere.`,
+    elaborationEnglish: `It became light of earth, water, fire, wind and sky,
+Thus as it flamed and rose together,
+As One Divine Light it pervaded everywhere.
+
+That blue light pervaded-the five elements — earth, water,
+fire, wind and sky — and rose as one divine lignt.
+Acng sor ph sep ryaGwevrid
+
+Acamalc cuss HenvGQuns sort
+
+Herma cust iup epw wovGwrseiw`,
   },
   {
     id: 1276, tantraId: 4, verseNumber: 1275,
@@ -7212,6 +9473,13 @@ The universe as diverse worlds expanded,
 The universe as firm stood,
 The universe is unto Primal Mala
 The universe rests on Bindu's strength.`,
+    elaborationEnglish: `The universe arose out of primordial stain or maya. It
+expanded as diverse worlds. Ftom that arose the universe
+based on bindu’s strength.
+
+Ms Hoi BTS YP gsH OUpHHU.cd
+
+MFR QYL FTZIplb G5H aengws TWD`,
   },
   {
     id: 1277, tantraId: 4, verseNumber: 1276,
@@ -7229,6 +9497,14 @@ Bindu and Nada together produced Bija (Seed) Balanced,
 If Bindu rises more and Nada less,
 The Bija becomes potent far,
 Eight times more than Bindu.`,
+    elaborationEnglish: `1) Nada and bindu are stages of sakti in the movement
+towards the manifestation of the Self as Object, that is as
+the universe — ‘*‘The Garland of Letters,” p.116
+
+Bindu and nada produce bija. If bindu rises more and nada
+less, bija becomes eight times more powerful than bindu.
+
+‘Aaypb gag Sa7IZDHH Cwgyp`,
   },
   {
     id: 1278, tantraId: 4, verseNumber: 1277,
@@ -7245,6 +9521,11 @@ Two the Bijas from Nada arise,
 One the Bija that ascends upward;
 And with Nada alike arises,
 The Seed behind as (Caused) Bindu expands.`,
+    elaborationEnglish: `Of the two bijas that arise from nada, one ascends upward;
+and with nada equal, the geed behind expands as capsed bindu,
+
+Mssa Ssgiam Dar gy - oF eb
+Mss MNpgaib srss soroIahe`,
   },
   {
     id: 1279, tantraId: 4, verseNumber: 1278,
@@ -7262,6 +9543,13 @@ The Bija (Seed) in vain went;
 When Bindu rises equal with Nada,
 And is drawn within to pervade the petals sixteen of the (Visuddha adhara)
 The Bindu that expands becomes the Seed of Liberation.`,
+    elaborationEnglish: `When bindu arises equal with nada, it is drawn in visuddhi
+adhara; and there it becomes the seed of liberation.
+
+Aas Ops Meonorbsca crvevtth
+Mangus Mss Nenorss 2uN Gd
+
+Magus Mg onorhsaley Ehrev1d`,
   },
   {
     id: 1280, tantraId: 4, verseNumber: 1279,
@@ -7278,6 +9566,10 @@ From the Bindu-Seed Bija arose all,
 From the Bindu-Seed arose all life
 From the Bindu-Seed arose this world,
 From Lord's Feet (Nada) arose Bindu-Seed.`,
+    elaborationEnglish: `Bindu seed arose from the Holy Feet of the Lord. From bindu
+seed (bija) evolved all — all life and all worlds.
+
+Haass TSS MNpsryid prawwb`,
   },
   {
     id: 1281, tantraId: 4, verseNumber: 1280,
@@ -7294,6 +9586,8 @@ From Bindu and Nada devoluted the letters
 From the letters was Chakra formed,
 The letters and Chakras within the Body stand
 The letters verily are the mantras true.`,
+    elaborationEnglish: `From the letters evolved from bindu, Nada Chakra was
+formed. Truly, the letters are the mantras.`,
   },
   {
     id: 1282, tantraId: 4, verseNumber: 1281,
@@ -7313,6 +9607,36 @@ The Tantras glorify;
 Meditate on Pranava that is in the Eye-Brow Center
 Through the Tantras reached;
 No more thine bondage is.`,
+    elaborationEnglish: `There it is one like the circle of fire,
+
+The Tantras glorify;
+
+Meditate on Pranava that is in the Eye-Brow Centre
+Through the Tantras reached;
+
+No more thine bondage -is.
+
+Mantras and Chakras resemble the circle of fire that the
+Tantras glorify. Pranava is the-supreme mantra with its seat
+in the eyebrow centre (ajna chakra). Reach that through
+tantra. Your bondage ends there.
+
+Uorehi-1 Grens Dompriigy srosflcvency
+sah Oupss sorstiup Derofjaci
+
+Pranava Vision is Obtained When Egoity Falls
+Back
+
+The Mantra that arises in Muladhara Chakra
+Leaves not the Eye-Brow Centre;
+
+When your egoity falls back
+
+Then may you vision that Mantra.
+
+The mantra that arises in the muladhara chakra never Jeaves
+the eyebrow centre. Pranava vision is obtained when egoity
+falls back.`,
   },
   {
     id: 1283, tantraId: 4, verseNumber: 1282,
@@ -7348,6 +9672,11 @@ All directions, you shall perceive
 Well shall you reach Truth
 That is subtler than the subtle,
 If you but know, how to look for it.`,
+    elaborationEnglish: `Vision Pranava in the chakra that snaps your pasas. Protecting
+your thoughts, it leads you to Truth, that is subtler than the_
+subtle.
+
+ADAG F557 wn Qwegss`,
   },
   {
     id: 1285, tantraId: 4, verseNumber: 1284,
@@ -7365,6 +9694,13 @@ First letter is "A" of Siva
 The letter next is of Sakti, "U"
 The Chakra is the earth, fire and the rest of elements four,
 Of the Chakra thus formed, more can be said.`,
+    elaborationEnglish: `elements four,
+
+Of the Chakra thus formed, more can be said.
+
+Siva’s letter (A) and Sakti’s letter (U) form the first two letters
+in the Pranava- Chakra. This Chakra is: earth, fire and the
+Test of the elements.`,
   },
   {
     id: 1286, tantraId: 4, verseNumber: 1285,
@@ -7383,6 +9719,26 @@ Expands as Letters six;
 It is Vedic mantra that conjoint with Letters Five
 --Aum Nama Sivaya--arises
 For those who that way inclined are.`,
+    elaborationEnglish: `Pranava mantra expands into the six-lettered mantra — Aum
+Namasivaya — for those who seck the divine path.
+
+Sakti is the Presiding Deity of Six Letter Mantra
+
+The Holy Sakti is the presiding deity of that Mantra
+The Holy Sakti in there is like fire (Kundalini); _
+If attainment of Her be Sadhaka’s goal,
+
+The ensnaring Pasa nears not.
+
+The holy Sakti is the presiding deity of that six-lettered
+mantra. If the holy Sakti, who is like kundalini fire, is reached,
+the ensnaring pasas will no longer harass you.
+
+Salguw Sslbuembd wirgosttd aFwlo
+
+Bywey urs Iowpg OePSOOw
+
+uTWcT orrsll UMEAUGib wpgipmt`,
   },
   {
     id: 1287, tantraId: 4, verseNumber: 1286,
@@ -7416,6 +9772,9 @@ Are powers there in the Chakra of themselves arise
 In the place where the Sadhaka is,
 No enemies come,
 Thus is for them who seek it within them.`,
+    elaborationEnglish: `Sthambanam, Maranam and Vasyam are the powers that arise
+in chakras (yantras). No foes near the sadhakas who seck
+it.`,
   },
   {
     id: 1289, tantraId: 4, verseNumber: 1288,
@@ -7432,6 +9791,9 @@ Vision the Chakra in Muladhara,
 Center the sound "A' therein
 Meditate on benevolent Siva within
 And upward course the Prana breath.`,
+    elaborationEnglish: `Vision the chakra in muladhara and centre the sound ‘A’ to
+contemplate on the benevolent Siva, and then divert the prana
+breath upward — thus meditate on the six-lettered Chakra.`,
   },
   {
     id: 1290, tantraId: 4, verseNumber: 1289,
@@ -7450,6 +9812,14 @@ And as it thus ascende,
 The obstacles internal perish.
 Thus it is for those who chant the mantra enchanting
 For attainments worldly.`,
+    elaborationEnglish: `As the mantra ascends in appropriate measures, the
+impediments vanish. Thus is the mantra chanted for worldly
+purposes.
+
+1) Pranava mantra is composed of bindu (1/4 matra), *M’,
+
+ustrco_wyor pralh Umawp Slots
+werner Hons woslMors aru`,
   },
   {
     id: 1291, tantraId: 4, verseNumber: 1290,
@@ -7468,6 +9838,16 @@ Inside uluva obstacles vanishing
 You shall become the jewelled lamp in the Hall of Dance;
 Even now, do arise,
 And chant Nama with love in your heart's core.`,
+    elaborationEnglish: `Chant Nama in love inside uluva free of obstacles — then
+shall you become the jewelled lamp in the hall of dance.
+
+200 = TIRUMANTIRAM
+
+10. auigars saeRTWD
+
+abs OssowoGur c_mgy were
+apgsus 55 Godin Gpnb
+wisn QuresrpieM Ororemgugs $15`,
   },
   {
     id: 1292, tantraId: 4, verseNumber: 1291,
@@ -7488,6 +9868,10 @@ These the ten days appropriate
 (Leave out seventh, ninth eleventh and thirteenth)
 Then coursing breath through Right Nostril
 Do thou worship.`,
+    elaborationEnglish: `The first six- days, the eighth, the tenth, the twelfth and the
+
+fourteenth days of a: fortnight are the appropriate days to
+perform Bhairava Chakra worship.`,
   },
   {
     id: 1293, tantraId: 4, verseNumber: 1292,
@@ -7505,6 +9889,10 @@ The God appears with trident and skull,
 He blinds the eyes of your enemy
 He drinks his life,
 And with your enemy's body you may ball play.`,
+    elaborationEnglish: `When you perform Bhairava Chakra worship successfully, the
+Lord appears with trident and skull and destroys your foes.
+
+Goa yor G omB acdgouen`,
   },
   {
     id: 1294, tantraId: 4, verseNumber: 1293,
@@ -7522,6 +9910,7 @@ That comes to bless the Jiva
 Holds the skull and trident in His hands,
 He holds the drum and the noose too
 And the severed head and sword as well.`,
+    elaborationEnglish: `Quiuiwg Aeidenw ering cuugoucir`,
   },
   {
     id: 1295, tantraId: 4, verseNumber: 1294,
@@ -7540,6 +9929,12 @@ Ruddy Bright is Bhairava's Form
 He appears in the hearts of the Pure
 As shining Truth;
 Do in devotion sincere adore Him.`,
+    elaborationEnglish: `Bhairava, the shining Truth, appears in the hearts of the pure
+and sincere devotees. So adore and seek Him in endearing
+love and sincere faith.
+
+Weocr Ceuuis QurgGsHGur grulgw
+Yygencr Ceuvus wgayi oam@worev`,
   },
   {
     id: 1296, tantraId: 4, verseNumber: 1295,
@@ -7559,6 +9954,14 @@ With sandal paste, and fragrant incense
 With musk, civet scent and unguents several
 Worship thus and pray
 He your enemy fights.`,
+    elaborationEnglish: `Perform the Bhairava worship 1,000 times with drink ‘and
+ecstatic dance, with sandalwood paste, fragrant incense, musk,
+civet and diverse unguents. Worship Him thus, and He will
+destroy your enemies. Describes the special rites for Bhairava,
+which call for dance and drink.
+
+CGauewryw arp Sap LoTuNGLDd
+Caciriyw aPespict Quouwgs Guppeier`,
   },
   {
     id: 1297, tantraId: 4, verseNumber: 1296,
@@ -7576,6 +9979,11 @@ As you the six adharas within ascends
 Pray for the ways things should be
 And all your wishes fulfilled shall be.
 d chant Nama with love in thy heart's core.`,
+    elaborationEnglish: `11. erbuel) wet wes shad
+
+FTLbuUAN Loess vs FETC, Daerevrediig.cv
+Bibusnd its Migycr Cowsygn
+SNCF FSF GTQ Bwesrup`,
   },
   {
     id: 1298, tantraId: 4, verseNumber: 1297,
@@ -7596,6 +10004,11 @@ That verily is the Eye of Tattvas Four
 (Sivam, Sakti, Nadam and Bindu)
 When we see this Holy State revealed,
 We know Worlds all.`,
+    elaborationEnglish: `Within the eight chambers is the central chamber. That verily
+is the eye of the four tattvas — Siva, Sakti, Nada and Bindu.
+
+Csm_m IDs Oam_ipger Brot
+UNILP usgiicr an BOB`,
   },
   {
     id: 1299, tantraId: 4, verseNumber: 1298,
@@ -7612,6 +10025,11 @@ The Mandala that is formed by lines twenty horizontal and twenty vertical,
 Form Bhupuras two inner and two outer
 The innermost Bhupara
 Formed of Chambers six and ten.`,
+    elaborationEnglish: `The mandalas that are formed by twenty horizonta! and twenty
+vertical lines have two inner bhupuras and two outer bhupuras.
+The innermost bhupura 1s formed of 16 chambers.
+
+9`,
   },
   {
     id: 1300, tantraId: 4, verseNumber: 1299,
@@ -7629,6 +10047,10 @@ Lines twenty by twenty,
 In Bhupuras four describe Lingas
 And Lingas four in corner each too
 And place flowers four there.`,
+    elaborationEnglish: `In bhupuras, place four lingas in each corner and place four
+flowers there. Thus form the Sambhavi Chakra.
+
+HOG USS eT VES sehmsyid`,
   },
   {
     id: 1301, tantraId: 4, verseNumber: 1300,
@@ -7645,6 +10067,10 @@ The Letters Fifty and One
 There remained in form different
 Chant Si Va Ya Na Ma pure there
 Nothing will you lack then.`,
+    elaborationEnglish: `Chant the Five Letters (Sivayanama) as the embodiment of
+the Fifty-One letters. You will lack nothing then. ;
+
+Snows ass Oschucad ants`,
   },
   {
     id: 1302, tantraId: 4, verseNumber: 1301,
@@ -7662,6 +10088,10 @@ The Holy Feet will be yours;
 Chant the Vedic mantra Aum;
 If steadfast you realize it
 Death none, thus have they said.`,
+    elaborationEnglish: `Chant the Vedic mantra Aum in steadfastness. This brings
+the conquest over death.
+
+Gueayib uBywb Guugu Sirssapw`,
   },
   {
     id: 1303, tantraId: 4, verseNumber: 1302,
@@ -7681,6 +10111,11 @@ Delicious food, pleasant emotions,
 And sound sleep, and gold
 --All these of by themselves, yours be
 As the Lady of the Chakra blesses you.`,
+    elaborationEnglish: `As the Mother of the Chakra blesses, you will be conferred
+with wealth, great estate, pilgrimage to holy waters, dilicious
+food, pleasant emotions, sound sleep and gold.
+
+GW TUYPSSOHe WTayp Guwrse`,
   },
   {
     id: 1304, tantraId: 4, verseNumber: 1303,
@@ -7699,6 +10134,19 @@ If you so proceed,
 You shall achieve all you wish
 None the enemies,
 In the World here below.`,
+    elaborationEnglish: `You shall achieve all you wish
+None the enemies,
+In the World here below.
+
+e
+
+Mantras 1303 & 1304
+
+Proceed the way of the five holy letters. They who bend
+low before Her, will stoop before no enemies. No more are
+they harassed by karma and its untoward manifestations. All
+good things will flow daily, cool as water, and without any
+impediment.`,
   },
   {
     id: 1305, tantraId: 4, verseNumber: 1304,
@@ -7736,6 +10184,10 @@ All may worship the Chakra of Sambhavi,
 She is Bliss-Form that none has seen,
 She is the earth, the sky, the sun and moon
 She is the sentience that pervades body and life.`,
+    elaborationEnglish: `All may chant the Five Letters and worship the Chakra
+Sambhavi. She is Bliss-Form that no one has visioned. S$
+is the earth, the sky, the moon, and the consciousness th
+is all-pervasive.`,
   },
   {
     id: 1307, tantraId: 4, verseNumber: 1306,
@@ -7753,6 +10205,12 @@ Is the way of union in God,
 Thus does Siva (Contriver) and Sakti (consort of the Contriver)
 Together in amity arise;
 She, the Beloved of Siva, (Sivakami) blesses you.`,
+    elaborationEnglish: `unite in God. Siva (Director) and His Sakti together arise
+amity; and Sakti {Sivakami) blesses you.
+
+12. yamaruS sso
+
+sagnQ Cunitprges srciaés GOoucirenw`,
   },
   {
     id: 1308, tantraId: 4, verseNumber: 1307,
@@ -7770,6 +10228,15 @@ The six letters beginning with "A" are red-hued
 The four letters beginning with "Sa" are pure white
 The mantras thus grouped leads to bliss below
 And to liberation above.`,
+    elaborationEnglish: `1) Ka, Aa, E, Le, Hrm (vakbhava group)
+2) Ha, Sa, Ka, Ha, La, Hrm (kamaraja group)
+
+The fifteen letters are collectively known |
+Pancha-dasa-akashari. (This is also the Sri Vidya Chakra.) T
+colors mentioned indicate the colors in which the letters shee
+be marked in the chakra.
+
+ans OAGsrest woomieru wgsHuys`,
   },
   {
     id: 1309, tantraId: 4, verseNumber: 1308,
@@ -7789,6 +10256,7 @@ This triangle is great unto the ocean
 Center your thoughts on it
 Bliss and Mukti shall yours be;
 You will Siva-form be.`,
+    elaborationEnglish: `wrsb ugnelsgas wraps ASHGw`,
   },
   {
     id: 1310, tantraId: 4, verseNumber: 1309,
@@ -7808,6 +10276,46 @@ She grants Mukti and Siddhi;
 Though one the Parasakti is,
 When Siva assumes the form of Yoga Guru,
 Parasakti has forms eight indeed.`,
+    elaborationEnglish: `The One Parasakti belongs to Lord as His part,
+Her Form is Paravidya
+
+She grants Mukti and Siddhi;
+
+Though one the Parasakti is,
+
+When Siva assumes the form of Yoga Guru,
+Parasakti has forms eight indeed.
+
+When Siva assumes the form of Yoga Guru, Parasakti assumes
+eight forms.
+
+The eight Saktis are counted differently. Several delineations
+are as follows:
+
+1. Isani, Purani, Arthi, Vami, Murthi, Arini, Rodayitri ahd
+Janani.
+
+2. Jayai, vijayai,
+Alambusai, Utpalai.
+3. Vamai, Sreshtai, Raudri, Kali, Kalvikarni, Balavikarmi,
+Balapradhamani, Sarva Bhoodhathamani.
+
+4. Arini, Janani, Rodayitri, Kali, Tatpurushi, Vamai, Aghori,
+Sadojathi. :
+
+Vide ‘‘Kadirvelpillai Dictionary.”’
+
+Jayanthi, Aparasithai, Siddhai, Rathai,
+
+gmint Au 65H atrigw Cures gis
+Wsriings Msgs srerh Opryp\\ssgi-
+The Eight’ Saktis Reunite in Yoga
+
+The eight Saktis belong to the eight-limbed yoga;
+When Nadanta is reached,
+
+The eight Saktis mingling one become, (Parasakti)
+The Bindu that stood apart disappeared,`,
   },
   {
     id: 1311, tantraId: 4, verseNumber: 1310,
@@ -7825,6 +10333,15 @@ When Nadanta is reached,
 The eight Saktis mingling one become, (Parasakti)
 The Bindu that stood apart disappeared,
 These experiences reach not the witless lowly ones.`,
+    elaborationEnglish: `That Yantra you establish firm
+
+Worship at that Yantra Raja’s feet,
+Chant the Mantra, Guru has taught you,
+Perform anga nyasas* and meditate
+
+And on copper plate describe
+
+The six-pointed (double) triangle`,
   },
   {
     id: 1312, tantraId: 4, verseNumber: 1311,
@@ -7844,6 +10361,9 @@ Perform anga nyasas and meditate
 And on copper plate describe
 The six-pointed (double) triangle
 For your birth to end.`,
+    elaborationEnglish: `s_Ganemp gonche ifibaiii gsreosflt_@
+
+A&Gsnosr wuonier sonowdlera srg`,
   },
   {
     id: 1313, tantraId: 4, verseNumber: 1312,
@@ -7861,6 +10381,14 @@ Place Srim, Hrim letters
 Above place Rim
 Describe a circle the entire diagram to encompass
 And place the letters eight times two, inclusive Aum.`,
+    elaborationEnglish: `Place Srim, Hrim and above these Rim on the six-pointed
+diagram. Inscribe a circle to encompass the whole diagram
+and place the sixteen letters (the 15 plus Aum) above all.
+
+The sixteen letters are made up of the fifteen letters referred
+to in Mantra 1307 plus ‘Aum.’
+
+Allan alti. Ber GuGea 2 cals`,
   },
   {
     id: 1314, tantraId: 4, verseNumber: 1313,
@@ -7879,6 +10407,13 @@ Above Ha place letter U (Hum)
 Close to petals,
 Place letters Krom and Srom
 And to the left of Chakra, place Am and Krom.`,
+    elaborationEnglish: `In the space above, place the letter ‘Ha’ between the eight
+
+petals. Above ‘Ha’ place ‘U,’ and ‘Krom’ and ‘Srom’ close
+to the petals. Place ‘Aum’ and ‘Krom’ to the left of the
+Chakra.
+
+CGsroawen_wGaugGormAGrra Oscriil Os`,
   },
   {
     id: 1315, tantraId: 4, verseNumber: 1314,
@@ -7896,6 +10431,16 @@ Place Krom and Srom together
 Surround the Chakra by Hrim,
 Then do you worship the Sakti
 That Bhuvanapathi is.`,
+    elaborationEnglish: `’ Then do you worship the Sakti
+
+That Bhuvanapathi is.
+
+Then surround the Chakra by ‘Hrim.’ Thus complete the
+double-triangle yantra and then worship Sakti, that is
+Bhuvariapathi.
+
+BED OSSHOAND moun sonlbuciere
+GuAu Ygrerts OPE or wes`,
   },
   {
     id: 1316, tantraId: 4, verseNumber: 1315,
@@ -7912,6 +10457,10 @@ When you perform the Puja to Bhuvanapathi,
 Evoke Her in your heart in purity
 Surrender your life (symbolic) at Her Feet, (Prana Prathishtai)
 And in glowing meditation sit.`,
+    elaborationEnglish: `Thus perform puja to Her and surrender all your life at Her
+Feet, and remain in glowing meditation.
+
+Asiiu AGGuefl Oebur_ Oot gsrem`,
   },
   {
     id: 1317, tantraId: 4, verseNumber: 1316,
@@ -7933,6 +10482,10 @@ On the body are dazzling jewels,
 Her body shining as gem purest
 And radiant Her crown
 Thus adorned, She appears.`,
+    elaborationEnglish: `Bhuvenesvari’s Form is pure red; Her robe is silky; she holds
+the weapons, goad and noose in Her hands; She gestures in
+a protective pose; She is adomed with dazzling jewels, radiant
+is Her crown. Thus She appears.`,
   },
   {
     id: 1318, tantraId: 4, verseNumber: 1317,
@@ -7950,6 +10503,23 @@ Land Her in endearment
 Offer the milk-rice oblation with mantra chanting
 Turning in directions four, pronounce "Naradaya Suvaha"
 Remove the food thus offered and serve it.`,
+    elaborationEnglish: `Baring the garment that covers your skin
+Land Her in endearment
+
+_ Offer the milk-rice oblation with mantra chanting
+
+Turning in directions four, pronounce “‘Naradayai
+Suvaha’’
+Remove the food thus offered and serve it.
+
+Bare the garment that covers your skin. Seek Her in endearing
+love and devotion. Offer the milk rice oblation and chant
+the mantra. Turn in four directions and pronounce ‘naradayai
+suvaha.’ Finally serve the food offered. This is the way to
+conduct the puja rituals.
+
+Gealus useincp st Goa CGsMouys cuTsargsrp
+unas Hsu swobd uPelssus`,
   },
   {
     id: 1319, tantraId: 4, verseNumber: 1318,
@@ -7969,6 +10539,16 @@ And then pray to Yantra Raja
 Who is beyond reach
 And hold Him fast within you,
 He will grant your wishes all.`,
+    elaborationEnglish: `Before serving thus, invoke ‘Her within your heart and then
+pray to Yantra Raja, who is beyond reach. Hold Him firm.
+He will grant everything.
+
+13. gamsamh séagpwb
+
+purée séan prejieng Oleuucsr
+BuUTssan Corp paunéssm wre
+
+pansen semus OsrGoaues wire`,
   },
   {
     id: 1320, tantraId: 4, verseNumber: 1319,
@@ -7985,6 +10565,17 @@ I shall speak of Navakkari (Nine-Lettered) Chakra,
 The One-lettered, becomes the Nine-lettered
 The Nine-lettered expands into Eighty-one lettered;
 Navakkari are the nine letters from Klim to Saum.`,
+    elaborationEnglish: `Navakkari Chakra is of nine letters. This nine-lettered
+Navakkari expands into 81 letters.
+
+As the nine mantras (Mantras 1320, 1324, 1329, 1334, 1339,
+1344, 1349, 1354, 1359) repeat in nine relations, with each
+manira for the beginning, the nine letters become 81 letters
+in all.
+
+Klim, Srim, Hrim, Aim, Gaum, Krim, Haum, Aum, Saum.
+
+Asarypseo scaGear® Gamera cammifd`,
   },
   {
     id: 1321, tantraId: 4, verseNumber: 1320,
@@ -8004,6 +10595,12 @@ Krim, Haum, Aum, and Saum
 Thus in order is the mantra
 In the end chant Sivayanama,
 At every rotation.`,
+    elaborationEnglish: `Srim, Hrim, Aim, Gaum, Krim, Haum, Aum, Saum and Kling
+are the nine mantras. Chant these nine mantras in order, ang
+at the end chant Sivayanama at every rotation.
+
+Banéan wragy Bro alsang
+purse worGerupth parenwscit srevevrld`,
   },
   {
     id: 1322, tantraId: 4, verseNumber: 1321,
@@ -8021,6 +10618,14 @@ In Navakkari arises all that is goodly,
 When you chant the Navakkari Mantra
 Deep within you,
 The Navakkari Sakti, all blessings, confers.`,
+    elaborationEnglish: `Chant Navakkari mantra deep within you. It confers all
+blessings and all jnana. It dispels your karmas.
+
+The nine Saktis enumerated are:
+
+WCOIANHWN—
+
+LIES udaencr widened Grimms`,
   },
   {
     id: 1323, tantraId: 4, verseNumber: 1322,
@@ -8038,6 +10643,9 @@ The Karmas hard will flee from you;
 No more will you evil deeds perform;
 All boons will be granted to you;
 The vision of Divine Light, yours shall be.`,
+    elaborationEnglish: `No more will you indulge in evil actions. You will be granted
+all boons. Navakkari Mantra leads to the vision of divine light.
+Seg. OC ssagb OeucroAQurc Geen`,
   },
   {
     id: 1324, tantraId: 4, verseNumber: 1323,
@@ -8056,6 +10664,8 @@ Your actions, all, will succeed;
 You shall triumph in the world
 The gifts of Chakra shall be as rich
 As your meditation on it is deep.`,
+    elaborationEnglish: `Meditate on the engraven Chakra of silver, gold or copper.
+You will succeed in all your endeavours.`,
   },
   {
     id: 1325, tantraId: 4, verseNumber: 1324,
@@ -8075,6 +10685,15 @@ Meditate on the Chakra within
 Offering rice grain and Kusa grass,
 Thus perform archanas,
 She shall appear before you.`,
+    elaborationEnglish: `Mantras 1324 & 1325
+
+Chant from Srim to Klim-continuously. Meditate on the Chakra
+within, offering rice, grain and kusa grass. Perform archanas.
+Srim Sakti will appear before you, like a golden flower of
+smoky hue. Adore Her — She will fulfil all your desires.
+
+1) The: order of chanting Srim Sakti is: Srim, Hrim, Aim,
+Gaum, Krim, Haum, Aum, Saum, Klim.`,
   },
   {
     id: 1326, tantraId: 4, verseNumber: 1325,
@@ -8092,6 +10711,10 @@ Of Her hue, you shall learn;
 She is unto a golden flower of smoky hue;
 All your wishes She will fullfil
 Do adore, Her Grace to receive.`,
+    elaborationEnglish: `“She will fulfil all your wishes’’. This is one of the main
+objects of Tantra Sadhana.
+
+BLBEDOW unio serenwasct srveumnl`,
   },
   {
     id: 1327, tantraId: 4, verseNumber: 1326,
@@ -8109,6 +10732,14 @@ Kala, God of Death, will bypass your days reckoned,
 your name and fame will spread like shafts of light,
 Close nearer and nearer to Her
 You shall reach Her.`,
+    elaborationEnglish: `You shall reach Her.
+
+You will find everything fair and pleasant. Srim Sakti confers
+name, fame and immortality.
+
+AM GIO wD wGeHs DGajo
+
+AM FIO sos gsZwotscit cunppayed`,
   },
   {
     id: 1328, tantraId: 4, verseNumber: 1327,
@@ -8125,6 +10756,17 @@ Gold, silver and precious stones shall yours be,
 Divine Grace and prosperity shall yours be,
 The heavenly Devas' celestial life shall yours be,
 That you may attain these, do meditate on Her.`,
+    elaborationEnglish: `Gold, silver and precious stones shall yours be,
+Divine Grace and prosperity shail yours be,
+
+The heavenly Devas’ celestial life shall yours be,
+That you may attain these, do meditate on Her.
+
+You will own gold, silver and precious stones. On you will
+be bestowéd divine grace and prosperity. You will be granted
+the celestial life of devas. Contemplate on Her constantly.
+
+ADGPO ants HMwgts mrss`,
   },
   {
     id: 1329, tantraId: 4, verseNumber: 1328,
@@ -8142,6 +10784,13 @@ That they immortals become,
 The Lord of immortals shall bless you;
 He who wears the Ganga and contains Her,
 Him you persevere to reach.`,
+    elaborationEnglish: `They become immortals who meditate on Her. The Lord who
+wears the Ganga and contains Her is the sole Persevere
+and Protector. Persevere to reach Him.
+
+Brush F557 CEs alicia macir
+
+urges wbad? aperyfiiors —`,
   },
   {
     id: 1330, tantraId: 4, verseNumber: 1329,
@@ -8158,6 +10807,15 @@ The letters in the Chakra you worship
 With Hrim commencing and Srim ending;
 Meditate on Her, the goodly famed one bedecked in garlands,
 You shall see Her
+As the cloud-laden flower-garden.`,
+    elaborationEnglish: `The letters in the Chakra you worship
+
+With Hrim commencing and Srim ending;
+Meditate on Her, the highly famed one bedecked
+in garlands,
+
+You shall see Her
+
 As the cloud-laden flower-garden.`,
   },
   {
@@ -8176,6 +10834,15 @@ Your face shall glow in consuming attraction
 Seek Her constant,
 The One who in the Param of Divine Light reposes
 Seek Her, the Eternal One.`,
+    elaborationEnglish: `Mantras 1330 & 1331
+
+Seek and adore the peerless and priceless Hrim Sakti — your
+face will glow in consuming attraction. The earthly rulers will
+
+be with you and your enemies will not flourish. Praise Her
+who shares the Lord’s Form.
+
+Cugict wirerser OuGenwenw crest oellig`,
   },
   {
     id: 1332, tantraId: 4, verseNumber: 1331,
@@ -8192,6 +10859,9 @@ Meditate on Her, who all blessings are;
 The earthly rulers will with you be
 Those against you will flourish not;
 Praise Her who the Lord's Form shares.`,
+    elaborationEnglish: `apie OS DnsEGs Smocdaow
+wiper sot 5 Swgrser ounppGeuesr
+Lorpiblest enouwilh cuGibanp) sotencaruy`,
   },
   {
     id: 1333, tantraId: 4, verseNumber: 1332,
@@ -8205,6 +10875,16 @@ māṟumiṉ vaiyam varumvaḻi taṉṉaiyum
 tēṟumiṉ nāyaki cēvaṭi cērntē`,
     english: `1332: Reach Holy Feet of Hrim Sakti
 Chant Her name (Hrim)`,
+    elaborationEnglish: `°
+
+Hrim Sakti pervades all the eight directions. Chant Her name
+and gain the life of celestials. Renounce everything and reach
+Her Holy Feet. You will know the way to reach Her. She
+is the Tani Nayaki Sakti.
+
+Graig. Garé Oahu Qossaur
+
+Broug worGor palcrgiiler Gms gyour`,
   },
   {
     id: 1334, tantraId: 4, verseNumber: 1333,
@@ -8221,6 +10901,7 @@ They flourish at Her Holy Feet
 Who chant Her name in silentness;
 Who adore Her Feet with flowers
 They know the way to reach Her Feet.`,
+    elaborationEnglish: `OMS Ts MwotHH? Borew`,
   },
   {
     id: 1335, tantraId: 4, verseNumber: 1334,
@@ -8237,6 +10918,17 @@ The Chakra expands with Aim to begin
 From Aim beginning in Hrim it ends;
 She who is dear unto Primal Lord
 Her, you meditate as Aim to begin.`,
+    elaborationEnglish: `The Chakra expands with Aim to begin
+From Aim beginning in Hrim it ends;
+She who is dear unto Primal Lord
+
+On Her, you meditate as Aim to begin.
+
+Commence chanting with Aim and end in Hrim. Meditate on
+Her, who is dear to the Primal Lord.)
+
+1) The order is: Aim, Gaum, Krim, Ham, Haum, Saum, Srim,
+Hrim.`,
   },
   {
     id: 1336, tantraId: 4, verseNumber: 1335,
@@ -8253,6 +10945,8 @@ The Sakti you adore is Vageswari (Goddess of Logos)
 Whom all Vedas and Agamas praise
 She who is within the grasp of our tongue's chant
 Shall reveal Herself to you, face to face.`,
+    elaborationEnglish: `Osreir: Gib wiDoH mssor GPwer
+beapaiar alsonsuy wreyit mswgrus`,
   },
   {
     id: 1337, tantraId: 4, verseNumber: 1336,
@@ -8273,6 +10967,7 @@ If this Vidya that is in the Golden Hall
 Shall come within a human's reach,
 Then this man shall conquer all,
 The slender Sakti, Her grace conferring.`,
+    elaborationEnglish: `udu ores LITEOSUp HTlL_Uv`,
   },
   {
     id: 1338, tantraId: 4, verseNumber: 1337,
@@ -8289,6 +10984,8 @@ She of the slender Form is the Truth Divine;
 Chant Her mantra and constant meditate;
 Your days, in diverse ways rolled on,
 Will in steady prosperity ascend thereafter.`,
+    elaborationEnglish: `Hail and worship Aim Sakti. Your future will be one of
+unalloyed joy and steady prosperity.`,
   },
   {
     id: 1339, tantraId: 4, verseNumber: 1338,
@@ -8308,6 +11005,16 @@ That is beyond words and meaning of words;
 With the blessing of Her, who is Queen of learning,
 You shall a master of all Learning be;
 No more enemies for you, here below.`,
+    elaborationEnglish: `You shall a master of all Learning be;
+No more enemies for you, here below.
+
+Chant this mantra ceaselessly. Manifold blessings will be
+conferred on you. With the Grace and blessings of Her, who
+is the Queen of Leaming, you will master all learning. No
+more will you have enemies. No more malicious occurences
+will be directed against you.
+
+Lasiidencn Gsarps movmg af mr`,
   },
   {
     id: 1340, tantraId: 4, verseNumber: 1339,
@@ -8327,6 +11034,15 @@ For those who meditate the Vine (Gaum) on the Chakra,
 All creation shall bow to them
 With exception none,
 No exaggeration this is.`,
+    elaborationEnglish: `Mantras 1339 & 1340
+
+Chant Gaum to Aim. All creation will bow before you. Adore
+Gaum Sakti and be blessed. You will be liberated from all
+mean desires and passions — lust, anger, ignorance, etc.
+
+BOHAG segyu grotenes Quicveurm
+
+s0HAOH smn Ougel wwssr`,
   },
   {
     id: 1341, tantraId: 4, verseNumber: 1340,
@@ -8362,6 +11078,17 @@ What he thinks is the right;
 He who meditates on Her,
 Who witnesses the Dance of Siva,
 Is verily the Master of all around.`,
+    elaborationEnglish: `‘What he thinks is the right;
+
+He who meditates on Her,
+Who witnesses the Dance of Siva,
+Is verily the Master of all around.
+
+What you speak will be the final word and the right word.
+Verily, you will become the master of all around. Meditate
+on Her and witness the Dance of Siva.
+
+Gow wusmersgid gw slbewys`,
   },
   {
     id: 1343, tantraId: 4, verseNumber: 1342,
@@ -8378,6 +11105,15 @@ She is the Mother that all life is
 She is the Lady that all life created
 Worship at Her Feet, and all things will yours be;
 Your Karmas will vanish, you shall holy become.`,
+    elaborationEnglish: `Mantras 1342 & 1343
+
+Gaum Sakti is the Mother of all. Worship at- Her Feet —
+
+all things will become yours. Rid of karmas, you will become
+
+holy. Remain close to Her.
+
+ssrohu enAs sasse AGESOm`,
   },
   {
     id: 1344, tantraId: 4, verseNumber: 1343,
@@ -8395,6 +11131,9 @@ Far and wide in this world;
 Honoured you shall there walk,
 Benevolent you shall be to one and all,
 Close to Her, you shall there tarry.`,
+    elaborationEnglish: `srorg) abibiaé Oscraigy wmmlb
+
+Siorg acoh subs vusTse§)`,
   },
   {
     id: 1345, tantraId: 4, verseNumber: 1344,
@@ -8413,6 +11152,16 @@ Those who meditate deep on it
 Will become dear unto that Parasakti,
 The Virgin of the sylvan glades;
 And they shall shine high in this world.`,
+    elaborationEnglish: `Mantras 1344 & 1345
+
+They who contemplate on the Chakra from Krim to Gaum
+will become dear to Parasakti, the Virgin of the sylvan glades.
+She takes them to her heavenly abode. There, they will revel
+and rejoice in joy, their thoughts filled with divine vision.
+Sunny fortune will smile at them and, they will enjoy wealth
+and prosperity forever.
+
+AgAMSGd weypytor Gedages LrséGwd`,
   },
   {
     id: 1346, tantraId: 4, verseNumber: 1345,
@@ -8432,6 +11181,20 @@ Clear vision fills your thoughts;
 Rains copious fall,
 Wealth and prosperity smile
 Thus shall it be for those who meditate on Her.`,
+    elaborationEnglish: `Your heart dances in joy;
+
+Clear vision fills your thoughts;
+
+Rains copious fall,
+
+Wealth and prosperity smile
+
+Thus shall it be for those who meditate on Her.
+
+ADGDOCH FEST BHF Foner Gur Gr
+THHAOW mows Hrome sresflos
+
+LWOGAD wercrayid cupscncr Gleusuyep`,
   },
   {
     id: 1347, tantraId: 4, verseNumber: 1346,
@@ -8448,6 +11211,11 @@ Meditate on the Chakra, worship performing
 Your obstacles, all, overcome will be;
 Kings shall go to you and pay their respect
 Your thoughts will glow, no sorrows emanating.`,
+    elaborationEnglish: `Meditate on the Chakra and perform worship: You will
+overcome all your obstacles. Royalty will respect the sadhaka
+of Krim Sakti.
+
+Gmsloveonw Gerac Harenwu) oro`,
   },
   {
     id: 1348, tantraId: 4, verseNumber: 1347,
@@ -8467,6 +11235,12 @@ Nothing else the refuge for all life on earth,
 Nothing else is their crown of glory
 For those who meditate on Krim
 In Chakra Navakkari.`,
+    elaborationEnglish: `They who meditate on Krim Sakti in the Chakra Navakkan
+will find Her their sole refuge and crown of glory. They will
+tise above sorrows and death. Everything the sadhaka touches
+will shine bright.
+
+Getisat conn DeosrQuraf wiresrounr`,
   },
   {
     id: 1349, tantraId: 4, verseNumber: 1348,
@@ -8486,6 +11260,14 @@ Their inner light spreads far and wide;
 Their egotiy perished,
 The light of differentiated knowledge
 Forever snuffed out.`,
+    elaborationEnglish: `Worship Krim Sakti — you will achieve fame in all directions
+for dispelling ignorance and egoity.
+
+esting Dan orupe Afwg rpm
+
+siug saan sop) unises
+
+AsHaug Grape Apagsuys Cop`,
   },
   {
     id: 1350, tantraId: 4, verseNumber: 1349,
@@ -8519,6 +11301,18 @@ She is the light behind the Adho-mukha
 (Downward looking face of Lord-Maya;)
 She is the One emanating, taste, sight, feel, sound and smell;
 She that is immanent in lives all.`,
+    elaborationEnglish: `Siva Sakti (Haum) is the light behind the Adho-mukha
+(Downward-looking face of the Lord). She is maya, immanent
+in all earth, water, fire, wind and sky.
+
+“She is the light
+**Adho-Mukhi’’,
+“*Avalokitesvari’’
+
+Regarding Adho-Mukha, see Introduction.
+behind Adho-Mukha’’ that would be
+corresponding, on this line of thought, to
+of Mahayana Buddhism.`,
   },
   {
     id: 1352, tantraId: 4, verseNumber: 1351,
@@ -8558,6 +11352,22 @@ Well may you see Her
 If in the depths of your heart you make way for Her;
 Stand firm,
 Seeking Her in your thoughts constant.`,
+    elaborationEnglish: `Well may you see Her
+
+If in the depths of your heart you make way for
+Her;
+
+Stand firm,
+
+Seeking Her in your thoughts constantly.
+
+Hold Her in your thoughts and you will behold Her with your
+physical eyes. ‘Make way for Her in the depths of your heart;
+stand firm, and constantly seek Her.
+
+AabNOd Tip yucmpwb gowrmras
+
+Osresiy Od Mawm Gessrbuso SeMmenc#ujiy`,
   },
   {
     id: 1354, tantraId: 4, verseNumber: 1353,
@@ -8575,6 +11385,7 @@ She stands immanent in all hearts everywhere;
 She stands bearing all goodly things of the world
 She stands as the Divine Truth
 That dispells Karmas hard.`,
+    elaborationEnglish: `SHOuTG oss soongsup CZovaull`,
   },
   {
     id: 1355, tantraId: 4, verseNumber: 1354,
@@ -8594,6 +11405,14 @@ Of that Chakra;
 She is Amudeswari, the Self-created
 As goodly riches,
 She in Chakra's midst stood.`,
+    elaborationEnglish: `Aum Sakti is the Divine Truth that runs through the Chakra
+commencing with Aum and ending with Haum. She is the central
+meaning of that Chakra. She is Amudesvari that stands in the
+centre of the Chakra as good riches.
+
+arg) Gere sapgin af Ayo
+
+BIT SICH ysgonuwaer Hoste Dos`,
   },
   {
     id: 1356, tantraId: 4, verseNumber: 1355,
@@ -8630,6 +11449,325 @@ Having seen the Way of Her Grace,
 No more the differences in power and pelf will be;
 Having reached the Land of Goal
 No more the forest of sorrow will be.`,
+    elaborationEnglish: `Gaum Sakti is-Mother of All
+
+She is the Mother that all life is
+
+She is the Mother that all life created
+Worship at Her Feet, and all things will yours be;
+Your Karmas will vanish, you shall holy become.
+
+Mantras 1342 & 1343
+
+Gaum Sakti is the Mother of all. Worship at- Her Feet —
+
+all things will become yours. Rid of karmas, you will become
+
+holy. Remain close to Her.
+
+Remain Close to Gaum Sakti
+
+Holy you shall remain,
+
+Far and wide in this world;
+
+Honoured you shall there walk,
+Benevolent you shall be to one and all,
+Close to Her, you shall there tarry.
+
+srg sol subs voTssS)
+
+Fifth Round
+Chant Krim to Gaum
+
+From Krim to Gaum
+
+That the Chakra, I know of;
+
+Those who meditate deep on it
+
+Will become dear unto that Parasakti,
+The Virgin of the sylvan glades;
+
+And they shall shine high in this world.
+
+Mantras 1344 & 1345
+
+They who contemplate on the Chakra from Krim to Gaum
+will become dear to Parasakti, the Virgin of the sylvan glades.
+She takes them to her heavenly abode. There, they will revel
+and rejoice in joy, their thoughts filled with. divine vision.
+Sunny fortune will smile at them and, they will enjoy wealth
+and prosperity forever.
+
+Blessings of Prosperity by Krim sakti (Para sakti)
+
+When the luminous Para sakti
+Within you takes Her abode,
+
+Your heart dances in joy;
+
+Clear vision fills your thoughts;
+
+Rains copious fall,
+
+Wealth and prosperity smile
+
+Thus shall it be for those who meditate on Her.
+
+TMEAOD mows Hiogona snresles
+
+DOBAG wercnayid cupsenet Cleuuyib
+
+Kings Shall Respect the Sadhaka of Krim Sakti
+
+Meditate on the Chakra, worship performing
+Your obstacles, all, overcome will be;
+
+Kings shall go to you and pay their respect
+Your thoughts will glow, no sorrows emanating.
+
+Meditate on the Chakra and perform worship: You wil
+overcome all your obstacles. Royalty will respect the sadhaka
+of Krim Sakti.
+
+Gmauldone Garces Hevrenwud eatGov
+
+The Sadhaka Shines Bright
+
+Sorrow’s fumes will not be;
+
+A golden light will suffuse their body;
+
+Hell none will be, as killing there is none,
+Nothing else the refuge for all life on earth,
+Nothing else is their crown of glory
+
+For those who meditate on Krim
+
+In Chakra Navakkari.
+
+They who meditate on Krim Sakti in the Chakra Navakkari
+will find Her their sole refuge and crown of glory. They will
+tise above sorrows and death. Everything the sadhaka touches
+will shine bright.
+
+Getgsart comms HeoerQuret wiresourr
+
+STWBOSUp Gowalenct srostG) oonrgourr
+
+Ignorance Dies by Worship of Krim Sakti
+
+Those who meditate on Her
+
+Glow in fame in directions all;
+
+They experience not the evils of--searing Karma;
+Their inner light spreads far and wide;
+
+Their egoity perished,
+
+The light of differentiated knowledge
+
+Forever snuffed out.
+
+Worship Krim Sakti — you will achieve fame in all directions
+for dispelling ignorance and egoity.
+
+TANTRA ‘FOUR 209
+
+Asiag Grape Abosys Con
+
+- Sixth Round
+Chrant From Hau(m) to Krim
+
+The Chakra with mantras from Hau(m) to Krim is
+all light,
+
+Happiness it is to those who meditate on it,
+Pure Jnana and clear vision fills their thoughts
+Meditating on it is meditating on Panchakshara.
+
+YGCLo Woes gut Sorayo5 wTGw. 1350
+
+Sadasiva Sakti (Haum) Immanent in All
+
+She (Haum) is the Sadasiva Sakti
+
+She is the light behind the Adho-mukha
+(Downward looking face of the Lord)
+
+She is the One emanating, taste, sight, feel, sound
+and smell;
+
+’ She that is immanent in lives all.
+
+Siva Sakti (Haum) is the light behind the Adho-mukha
+(Downward-looking face of the Lord). She is maya, immanent
+in all earth, water, fire, wind and sky.
+
+“She is the light
+**Adho-Mukhi”’,
+**Avalokitesvari’’
+
+Regarding Adho-Mukha, see Introduction.
+behind Adho-Mukha’’ that would be
+corresponding, on this line of thought, to
+of Mahayana Buddhism.
+
+SETHI HL Cowujeha sresrgy tomG. 1351
+
+Immanence of (Haum) Sakti Further Elaborated
+
+Within Herself She is,
+
+Without, in all World She is,
+
+Within me She is,
+
+Filling it entire
+
+Within earth, water, fire, wind and sky She is;
+Within the eye, within the body too
+
+May you behold Her.
+
+Well May We See Haum Sakti
+
+Well may you see all that She does,
+Immanent in our lives;
+
+Well may you see Her,
+
+If in your thoughts you hold Her;
+
+Well may you see Her
+
+If in the depths of your heart you make way for
+Her;
+
+Stand firm,
+
+Seeking Her in your thoughts constantly.
+
+Hold Her in your thoughts and you will behold Her with your
+physical eyes. ‘Make way for Her in the depths of your heart;
+stand firm, and constantly seek Her.
+
+HermMOid aup yoermupb Qearmres
+
+Osreary Gib oouw Gewmrbuc Sereno
+
+Neary. Gwd udvatencr GQuowriGung ong Gw. 1353
+
+Haum Sakti’s Pervasiveness
+
+She stands pervading the seven worlds at once;
+She stands immanent’ in all hearts everywhere;
+She stands bearing all good things of the world
+She stands as the Divine Truth
+
+That dispells Karmas hard.
+
+AwuwGuTG Arorwpse Ganerug FOTs
+
+Seventh Round
+
+Divine Truth it is,
+
+The Chakra from Au(m) to Hau(m) runs,
+She Aum is the meaning within
+
+Of that Chakra;
+
+She is Amudeswari, the Self-created
+
+As good riches,
+
+She in Chakra’s midst stood.
+
+Aum Sakti is the Divine Truth that runs through the Chakra
+commencing with Aum and ending with Haum. She is the central
+meaning of that Chakra. She is Amudesvari that stands in the
+centre of the Chakra as good riches.
+
+graf wionGar soonpsup Csaval
+
+Srvg DaroiG sopgin af Ay.
+
+Caorg sruupt CGaycione srgp Cw. 1355
+
+That Amudheswari do hold in your heart
+Rouse Kundalini with your breath coutsing upward
+Daily will you vision things newer and newer;
+Listen to this, your body perishes never.
+
+Gay. sre HorGQgonal sor cr
+FTHY.VOMY SMI FGHSSID Mt SgisCH. 1356
+
+eS ae
+
+Consciousness of Time and Space Lost
+
+Having the rising Light in the Chakra visioned
+
+_ No more the harm that comes to you;
+
+Having lost the sense of Time’s beginning,
+No more the spatial consciousness will be;
+Having seen the Way of Her Grace,
+
+No more the differences in power and pelf will be
+Having reached the Land of Goal
+
+No more the forest of sorrow will be.
+
+spp Queers sO@Qeuef wirergy
+
+bpp. Badaw arpuld&dana sreaflevens
+spp Bodeav ¢Stum HomiG. ~ 1357
+
+Transcendental State of Consciousness of
+Sadhaka in Aum Sakti
+
+All the space you sojourn becomes desolate
+nothingness
+
+All the space you have learned to be
+
+Becomes an interminable Void;
+
+None other place there is;
+
+Not a wee-bit space there is;
+
+Stand unfaltering, where you are,
+
+Firm in Aum Sakti.
+
+The Sadhaka engaged in Aum Sakti worship attains the
+transcendental State. All space turns into the interminable
+Space.
+
+PapOd apse gpa erovevid
+
+Aurt Sakti Appears as Light
+
+In the seven seas and seven worlds will your fame
+be,
+
+All your wishes granted will be,
+
+if your heart in constancy stands,
+
+When you see Sakti in you firm stands
+
+She appears as the Light Radiant High.
+
+Stand unfaltering and constant in Aum Sakti. If you incessantly
+seek and worship Aum Sakti, She appears as the Resplendent
+Light and fulfills all your wishes and desires.
+HorsQasrehl Coops Qoorag wor`,
   },
   {
     id: 1358, tantraId: 4, verseNumber: 1357,
@@ -8684,6 +11822,14 @@ From Sau(m) to Au(m) is light that illumines,
 That Chakra luminous is the Truth Eternal;
 The Sakti that is unto a shaft of lightning,
 Do you meditate and luminous be.`,
+    elaborationEnglish: `S210 _  TIRUMANTIRAM
+
+The Sakti that is like a shaft of lightning,
+Do you meditate and luminous be.
+
+The Saum to Aum Chakra is illuminating light. That luminosity
+in the Chakra-is the eternal truth. Meditate on the Sakti who
+is like a shaft of light and become luminous.`,
   },
   {
     id: 1361, tantraId: 4, verseNumber: 1360,
@@ -8702,6 +11848,43 @@ That verily is Sakti of Slender Form;
 Do seek Light that is Truth of Jnana;
 They who seek the Light
 Will themselves unto Light be.`,
+    elaborationEnglish: `Saum Sakti of slender form is the supreme jnana and the
+eternal truth.
+
+srGor wioerssiot sot sacvGw. 1361 -
+
+Saum Sakti is All
+
+She is spaces all, She filled spaces all;
+She is the space beyond spaces
+
+She created all, She preserved all,
+
+She is universe all, and lives all.
+
+Saum Sakti is space and beyond space. She created all,
+
+preserved all. She is the entire universe and all life.
+
+Yori sQ syorGer Qug@eah sort cua
+SIL SDH Herp soup) wrrsGer. 1362.
+
+She is in the Throat Centre Too
+
+Immeasurable She is, in universe immense
+
+In the body corporeal She vast spaces filled;
+Well may you see many good things in Muladhara,
+Yet may you not know that She stands
+
+In the very centre of your throat (Visuddha).
+
+You may well see many good things in the sacrificial pit.
+Yet, you may not know that She is in the very centre of
+your visuddhi chakra.
+
+SOLID WTTSL_D GU Dadam
+Aetug wuntAe Gaur 5745`,
   },
   {
     id: 1362, tantraId: 4, verseNumber: 1361,
@@ -8751,6 +11934,11 @@ They know not Her pervasiveness in the sea-girt world,
 They know not Her immanence in body and life,
 They know not Her Anklet, seeking other gods;
 Thus are they fated to be.`,
+    elaborationEnglish: `They do not know Her pervasiveness and immanence in the
+sea-girt world, in body and life. They are ignorant of Saum
+Sakti’s greatness.
+
+unGer wha USD mags siior`,
   },
   {
     id: 1365, tantraId: 4, verseNumber: 1364,
@@ -8767,6 +11955,15 @@ To speak of that Chakra, of its volition arose,
 Mark lines ten (horizontal and vertical)
 And thus form nine squares on each line,
 In all form squares eighty and one.`,
+    elaborationEnglish: `Mantras 1364 & 1365
+
+Mark ten horizontal and vertical lines and thus form nine
+squares on each. line. In all they form 81 squares. Forming
+the Chakra thus, color the outer circle in a golden shade,
+the ‘squares in red and the mantra letters in green.
+Qu FSG QHOwW Gorcnarer
+
+scrnlu Goons sas9Oes Gleibonwula`,
   },
   {
     id: 1366, tantraId: 4, verseNumber: 1365,
@@ -8783,6 +11980,7 @@ As thou form the Chakra thus,
 Colour the outer circle in hues of gold,
 Mark the squares red
 And the mantra letters green.`,
+    elaborationEnglish: `TUS woah sorohe crapHw`,
   },
   {
     id: 1367, tantraId: 4, verseNumber: 1366,
@@ -8800,6 +11998,15 @@ Fill Sakti in chambers eighty and one;
 Offer hot ghee and rice
 Perform homa,
 And Prana Oblations.`,
+    elaborationEnglish: `Inscribe the Sakti’s letters on the bark of a tree. Fill Sakti
+
+in the 81 chambers. Offer hot ghee and rice and thus perform.
+
+homa and prana oblations.
+
+ussoiw Quretencr ugtiLim GLI.
+
+Koren Brinipb BIeMIpac Qes Ie`,
   },
   {
     id: 1368, tantraId: 4, verseNumber: 1367,
@@ -8817,6 +12024,12 @@ As you meditate on it day after day
 You shall in felicity be;
 And as your name and fame unto Brahma's soar,
 One with Siva you in loved union be.`,
+    elaborationEnglish: `Contemplate on the Sakti Chakra in calmness incessantly day
+by day. You will then abide in felicity and serene tranquillity.
+As your name and fame will soar upward like Brahma’s, you
+will stand in union with Siva.
+
+Gurcim snbgi soirg) YG Osu`,
   },
   {
     id: 1369, tantraId: 4, verseNumber: 1368,
@@ -8833,6 +12046,32 @@ Sandal, saffron flower, musk of deer
 Fragrant paste, civet scent and ghee
 Camphor, bezoar, and rose water
 These nine you blend on the Chakra smear.`,
+    elaborationEnglish: `Smear the. Chakra with nine perfumes — sandal, saffron
+
+flower, deer musk, fragrant paste, civet scent, ghee, camphor,
+
+orpiment and scented water.
+
+aséAn) Darios SUBOS Up Soro nw gs
+
+aiéroncr wri suite, HpHGw. 1369 —
+Chant Mantra a Thousand Thousand Times
+
+To speak of the Worship
+
+That you ‘should perform at Sri Chakra;
+
+That holds the Virgin Sakti as its nodal pull
+
+Worship the mantra with incantations a thousand
+
+thousand times. .
+
+Thus do you on it continuous meditate.
+
+Sri Chakra holds the Virgin Sakti as its noda] pull. Chant
+the mantra 1 million times and thus meditate constantly.
+UbSWT GOW uismt_uneib aledevidly`,
   },
   {
     id: 1370, tantraId: 4, verseNumber: 1369,
@@ -8868,6 +12107,9 @@ She holds in them weapons six--
 The torch, the trident, the goad, the noose, bow, and arrow
 Chant the Mantra with Klim to begin,
 She before you appears.`,
+    elaborationEnglish: `3) bie SPs
+
+Qo@ssant sciofset stores srosriit`,
   },
   {
     id: 1372, tantraId: 4, verseNumber: 1371,
@@ -8884,6 +12126,13 @@ The Saktis sixty-four surrounding,
 The Virgins eight were there too,
 With bow and arrow in their hands two
 They seated were in the Chakra opposite.`,
+    elaborationEnglish: `Sakti appears in the Chakra surrounded by 64 minor saktis.
+including the eight virgins with bows and arrows in each of
+their two- hands.
+
+Osrert sors GOpUpy wrentwrws
+
+uemtuot Ger8U urms tprotcert`,
   },
   {
     id: 1373, tantraId: 4, verseNumber: 1372,
@@ -8912,6 +12161,9 @@ She pervading all, showers Her Grace;
 You shall perceive enveloping sound (Nada) and light (Bindu);
 From within the Chakras She rises
 And blesses you.`,
+    elaborationEnglish: `Soup wre Gommiaagor Horgy
+
+SGP WIGH somsoma wuss`,
   },
   {
     id: 1375, tantraId: 4, verseNumber: 1374,
@@ -8929,6 +12181,9 @@ That leads you to the Way Great;
 She grants you Tattva Jnana
 Through the Guru Way,
 Having sundered your birth's reckoning.`,
+    elaborationEnglish: `Gu@oreh wrw Qulhu Ouge;exti
+
+sr@ora) wnhu soneflens Gumettestlmid`,
   },
   {
     id: 1376, tantraId: 4, verseNumber: 1375,
@@ -8945,6 +12200,18 @@ The Luminous One, the dazzling Light,
 In soft radiance, Sakti emits Her brilliance divine;
 She is of the dark-golden hue of clouds,
 She stood as light through world entire.`,
+    elaborationEnglish: `6965 s7IG Darwsaires . ures
+
+QG5550 ore werl@uths gsorGp. 1376 .
+
+Klim Sakti’s Form
+
+The spreading hands two held lotus blooms,
+The blessing. hands two in tender grace gestured,
+The lovely breasts two wete in pearl and coral
+decked
+
+The comely garments in pure gems interlaced.`,
   },
   {
     id: 1377, tantraId: 4, verseNumber: 1376,
@@ -8981,6 +12248,7 @@ In the hearts of those in meekness pray
 She appears as Divine Grace,
 She grants Liberation
 To those in devotion seek Her.`,
+    elaborationEnglish: `MS BNR HUY GLp`,
   },
   {
     id: 1379, tantraId: 4, verseNumber: 1378,
@@ -8998,6 +12266,8 @@ The Virgins eight in concealment around Her,
 She bears lotus blossoms in hands both;
 The Holy Ones in devotion meditate on Her;
 --She the treasure of Mantra Srim.`,
+    elaborationEnglish: `SAD, anhu agua GrsH)
+STOOMU WHS SGD Operas`,
   },
   {
     id: 1380, tantraId: 4, verseNumber: 1379,
@@ -9016,6 +12286,23 @@ The burden of your worldly cares drops,
 Your thoughts soar high,
 Your heart, Sun's brilliance attains,
 --This the message of Chakra True.`,
+    elaborationEnglish: `If on Srim Sakti the treasure of Chakra
+You intensely meditate a year,
+
+The burden of your worldly cares drops,
+Your thoughts soar high,
+
+Your heart, Sun’s brilliance attains,
+—This the message of Chakra True.
+
+If you contemplate on Srim Sakti,.the burden of worldly cares
+drops. Then your thoughts soar high and the heart attains
+the brilliance of the sun. This is the message of this Chakra.
+Here, the number of letters becomes 52
+
+BAAD LS VSS WYwor
+Gunherm Gu@“greh wrw wagers
+GunAbcim oor wre Hombsiion`,
   },
   {
     id: 1381, tantraId: 4, verseNumber: 1380,
@@ -9032,6 +12319,8 @@ The full flower that in Muladhara arose
 Blossoms into Light Effulgent
 Pervading adharas all
 The Red Flame reached the Sphere of Fire.`,
+    elaborationEnglish: `Srim is the flower that arises in muladhara and blossoms into
+effulgent light and pervades all the adharas.`,
   },
   {
     id: 1382, tantraId: 4, verseNumber: 1381,
@@ -9065,6 +12354,9 @@ From Jewelled Crown to Feet
 Lustrous unto pearls She wears Her Form,
 The two pendant hands hold parrot and Jnana Mudra,
 The two upraised hands bear noose and goad.`,
+    elaborationEnglish: `ure shu Gass wns O@
+
+Garp 376 Hones DG cptbupGor`,
   },
   {
     id: 1384, tantraId: 4, verseNumber: 1383,
@@ -9081,6 +12373,8 @@ Sever your Pasa's roots,
 Adore Her in your heart's recesses,
 All evil will leave you;
 In five years you shall Siva be.`,
+    elaborationEnglish: `LItTeyD BTsb Usswp plorsiuy.cv
+Meserit Gerh Mews abfmieans`,
   },
   {
     id: 1385, tantraId: 4, verseNumber: 1384,
@@ -9115,6 +12409,8 @@ Vision it and on it meditate;
 The Sakti as the light within will appear;
 Verily is She the support of Sushumna,
 Adharas and the rest within.`,
+    elaborationEnglish: `Carmi sUphsaus Gerenomt curesoucir
+gas wGgHuond Qusarc wash`,
   },
   {
     id: 1387, tantraId: 4, verseNumber: 1386,
@@ -9133,6 +12429,8 @@ Immanent She is, the Aim Sakti;
 Meditate,
 And there in Nada you firm shall be
 Your birth-cycle its end shall see.`,
+    elaborationEnglish: `In the sphere of the navel centre (manipuraka) Aim Sakti
+abides immanent and all-pervasive.`,
   },
   {
     id: 1388, tantraId: 4, verseNumber: 1387,
@@ -9171,6 +12469,8 @@ They who reach Her
 By the Way to Hall of Dance,
 Verily behold
 The Primal Cause of all.`,
+    elaborationEnglish: `ergot 3 Dacir gibug Dacia _ ons
+argc aciuchsot gibus Daougsnws`,
   },
   {
     id: 1390, tantraId: 4, verseNumber: 1389,
@@ -9207,6 +12507,16 @@ This Flame shall in you merge;
 If steadfast in devotion you stand,
 You shall vision the Ruby
 That dances in the Hall of Spaces Vast.`,
+    elaborationEnglish: `If steadfast in devotion you stand,
+
+You shall vision the Ruby
+That dances in the Halleof Spaces Vast.
+
+Worship Aim Sakti with intense devotion steadfastness. Then
+you will vision the Ruby I that dances in the divine hail of
+vast spaces.
+
+Lewes amyl! Umasouw unmgsoer`,
   },
   {
     id: 1392, tantraId: 4, verseNumber: 1391,
@@ -9224,6 +12534,13 @@ That Sakti you visioned in Heart's lotus
 This (Gaum) the Queen of Tattvas all,
 This day, She, in my thoughts, is sweet seated
 That my life's enemy--Death--destroyed be.`,
+    elaborationEnglish: `_ That my life’s enemy—Death—destroyed be. f
+
+Gaum (Tattva. Nayaki) Sakti is seated in the hear.
+centre—anahatha. She resides in the thought of Her devotees,
+dispelling death, that is life’s enemy.
+
+STBDA CGsr_amb Deoowwy Osrern`,
   },
   {
     id: 1393, tantraId: 4, verseNumber: 1392,
@@ -9241,6 +12558,11 @@ Appeared with hands eight;
 Holding flower, parrot, noose, battle-axe and sword;
 The shield, bow and the arrow too--
 She danced in rapture divine.`,
+    elaborationEnglish: `2Sh5o0er Ouncrupy upssrgy wirses
+
+UIbS Uoionapb ult_neor srs
+
+WaTEOSIp Dartions wohsae soo bay`,
   },
   {
     id: 1394, tantraId: 4, verseNumber: 1393,
@@ -9260,6 +12582,7 @@ Dressed in richly silks,
 The rising breasts in gem-laid corset contained,
 There She was in glory,
 Her Form green-hued.`,
+    elaborationEnglish: `Sésom) Osrnosacr maul sriigsmus`,
   },
   {
     id: 1395, tantraId: 4, verseNumber: 1394,
@@ -9279,6 +12602,14 @@ Her breasts are in corset contained,
 Her hands pendant in blessing gesture,
 Thus the Sweet One appears,
 She of waist slender.`,
+    elaborationEnglish: `Gaum Sakti is surrounded by 48 minor saktis and eight: vestal
+Virgins.
+
+Here, the letters are given as 48 (or 56) in number.
+
+STG UTES SVHS SLD gb’ corey
+
+brag ans apun@ Gewgié`,
   },
   {
     id: 1396, tantraId: 4, verseNumber: 1395,
@@ -9296,6 +12627,9 @@ Course your breath to unite in Her in Anahatha
 And in devotion true the adhara above ascend,
 You shall into the heaven within rise,
 That is milky white pure (Solar Sphere).`,
+    elaborationEnglish: `Course the kundalim fire that rises in the muladhara to unite
+in Her in anahatha with true devotion: Then you shall rise
+into the heaven within that is pure milky white.`,
   },
   {
     id: 1397, tantraId: 4, verseNumber: 1396,
@@ -9313,6 +12647,10 @@ Between Centers, navel and heart,
 Is the Koopa (Krim) Sakti seated;
 There in the fiery Sphere of Sun;
 Unto the cool waters of a well was She.`,
+    elaborationEnglish: `In the mystic spheré between the navel and heart centres is
+seated Koopa (Krim) Sakti in the ‘sun’ sphere.
+
+&USHF FSH Goligpsb ugsgior`,
   },
   {
     id: 1398, tantraId: 4, verseNumber: 1397,
@@ -9330,6 +12668,9 @@ Has benignant faces ten;
 There in Sun's Sphere She gently appears;
 She assumes protecting hands four times five,
 And to sunder Pasa holds the Trident.`,
+    elaborationEnglish: `The Sakti thus seated has twin benignant faces. She has 20
+protective hands, and with the trident She sunders pasas.
+Gwpser Ouoacrursr situsp Erewons`,
   },
   {
     id: 1399, tantraId: 4, verseNumber: 1398,
@@ -9348,6 +12689,7 @@ The arrow, kettle-drum, parrot, the bow, these one side are;
 The bugle, flower, noose, battle-axe, knife, conch,
 The pendant hands in protecting gesture the other side are!
 --These meditate on.`,
+    elaborationEnglish: `Tomestit FEDPacr KIMUSS GTQyjr_or`,
   },
   {
     id: 1400, tantraId: 4, verseNumber: 1399,
@@ -9363,6 +12705,7 @@ eṇṇiya eṇṇam kaṭantuniṉ ṟāḷē`,
 Four and Forty are Saktis surrounding Her
 Four and Forty Saktis that meditate on Her
 She is seated within the lotus`,
+    elaborationEnglish: `Osr_itgsen! (pss) UTICTHGEés FTE`,
   },
   {
     id: 1401, tantraId: 4, verseNumber: 1400,
@@ -9382,6 +12725,20 @@ Her silken dress spreads below Her slender waist
 Her Feet hold the anklets
 Thus, adorned, as a girlish nymph,
 She stood before me.`,
+    elaborationEnglish: `‘Her silken dress spreads below Her slender waist
+
+Her Feet hold the anklets
+Thus, adorned, as a girl
+She stood before me.
+
+Mantras 1400 & 1401
+
+Krim Sakti appears as a girl. With Her appearance arises anima
+and the rest of the occult powers. The pasas are severed
+and the unique light of jnana dawns in those who realise
+Her.
+
+usreatw aneier Usler wyshr—`,
   },
   {
     id: 1402, tantraId: 4, verseNumber: 1401,
@@ -9415,6 +12772,12 @@ The Sakti of the Sadasiva,
 Has faces five and hands ten,
 Of these, the downward looking face (Athomukha)
 Is divine far indeed.`,
+    elaborationEnglish: `Haum Sakti (Sadasiva Sakti) is in the visuddhi (throat) centre
+with five faces and ten hands.
+
+216 : TIRUMANTIRAM
+
+uictes! preib wipssH) ubstea`,
   },
   {
     id: 1404, tantraId: 4, verseNumber: 1403,
@@ -9450,6 +12813,7 @@ With forty Saktis the worship offering,
 With forty Virgins making the retinue
 The Beloved One is seated in the Chakra;
 And there in uninterrupted rapture, they are.`,
+    elaborationEnglish: `Carag Geurca hor Omeitgy) to Goomiowe`,
   },
   {
     id: 1406, tantraId: 4, verseNumber: 1405,
@@ -9467,6 +12831,7 @@ To rouse it and send it upward over adharas,
 Do center your mind on the root mantra (Aum)
 Your mind-force then lifts it up, heavenward,
 Like the clouds over terrestrial sphere.`,
+    elaborationEnglish: `Meroe srapsg Aourw pw@ascirgy`,
   },
   {
     id: 1407, tantraId: 4, verseNumber: 1406,
@@ -9485,6 +12850,7 @@ Ascended upward
 And as Sivayanama to eye appeared;
 Invisible it is not to the naked eye;
 Visible it rose, for us to see.`,
+    elaborationEnglish: `Tap AGS HyYsS Sooo s`,
   },
   {
     id: 1408, tantraId: 4, verseNumber: 1407,
@@ -9504,6 +12870,7 @@ There She was, the ambrosial milk breasted;
 Her throat and hands shine unto silver and gold
 In Her Hand She held the hermit's pitcher of earth made,
 White-hued She is unto the ambrosia.`,
+    elaborationEnglish: `Apso E15 HypHwu Gres`,
   },
   {
     id: 1409, tantraId: 4, verseNumber: 1408,
@@ -9521,6 +12888,7 @@ As crystal pure She rises in me,
 Unto a lily She is,
 Unto the pearl of deep cool waters She is,
 Unto ambrosia rich, immortal She is.`,
+    elaborationEnglish: `AID UMS p 2crGor UGE —`,
   },
   {
     id: 1410, tantraId: 4, verseNumber: 1409,
@@ -9536,6 +12904,31 @@ nāḷili taṉṉai naṇukiniṉ ṟārkaḷē`,
 Virgins
 The goodly Saktis six and thirty
 The vestal Virgins six and thirty`,
+    elaborationEnglish: `Nest Qeuer srgb MNermBer -g61Gp. 1410:
+
+Practise Kundalini for a Year
+
+My thoughts stood still in meditation,
+The Kundalini Fire filled the adharas,
+I beheld the Light above in Sahasrara,
+And as I -held it in my heart,
+
+In a year Sakti appeared,
+
+‘The Sakti that is of luminous Aum.
+
+Mantras 1410 & 1411
+
+Concentrate your thoughts in meditation. The kundalinf fire
+fills the adharas and you vision the light in the cranium. In
+a year Aum Sakti of luminous form will appear. Indeed you
+too will become luminous and all the heavenly beings shall
+bow before you. On you will be conferred all things that are
+good and true.
+
+aNarwAg cureher. hlermency Gwicvevmtd
+
+pouhent petewss grocer Oernsae`,
   },
   {
     id: 1411, tantraId: 4, verseNumber: 1410,
@@ -9593,6 +12986,7 @@ Is the Celestial Garden
 There unto the Wishing tree of Kalpaka is Saum Sakti;
 She of golden vine-like Form
 Is on lotus seated.`,
+    elaborationEnglish: `Saum Sakti is seated in the moon sphere.`,
   },
   {
     id: 1414, tantraId: 4, verseNumber: 1413,
@@ -9610,6 +13004,15 @@ The exulting l-ness leaves you;
 In the Chakra Sahasarara that represents the spaces vast
 You shall see Her, close entwined,
 She, the Maiden Innocence.`,
+    elaborationEnglish: `\\
+Mantras 1413 & 1414
+
+When you worship Saum Sakti, the exulting ego leaves you,
+Saum Sakti is. the maiden innocence. She is of exotic beauty.
+She is surrounded by several maidens, and the vast world
+serves as Her tilak.
+
+STZ DugGegGs srgpicy wrdip HE`,
   },
   {
     id: 1415, tantraId: 4, verseNumber: 1414,
@@ -9629,6 +13032,7 @@ The world vast is Her tilak;
 Surrounded by maidens several
 She takes Her place,
 In the narrow crevice of Sahasrara.`,
+    elaborationEnglish: `BL Escort soroflact pr@Qevcsriot Gipll`,
   },
   {
     id: 1416, tantraId: 4, verseNumber: 1415,
@@ -9647,6 +13051,7 @@ Vestal Virgins thirty and two accompanying,
 In the spreading petalled lotus within
 She sat,
 She that has places several.`,
+    elaborationEnglish: `Here, the number (of letters) becomes 64.:`,
   },
   {
     id: 1417, tantraId: 4, verseNumber: 1416,
@@ -9665,6 +13070,10 @@ There they were, the Vedas, ancient, seeking Her everywhere,
 But this day,
 She in me as Her Home
 Reigns supreme.`,
+    elaborationEnglish: `_ Saum Sakti is immanent in Her devotees.
+
+Qorovers srs Aovug greed
+Qoexomrs srs Howwet g7Qwrdiourt`,
   },
   {
     id: 1418, tantraId: 4, verseNumber: 1417,
@@ -9685,6 +13094,23 @@ He who has Her in the home of his heart
 He has peers none among Celestials even;
 He who has Her in the home of his heart,
 For Him is the Lord that nothing lacks.`,
+    elaborationEnglish: `He who has Her in the home of his heart, diva Chakra of 64 Chambers
+For Him is the Lord that nothing lacks. Sixty and four are the instruments of enjoyments
+That tempt Jiva,
+: : Sixty and four are Kalas within Jiva,
+Boor ww Gd sinuses BITDDH) Sixty and four are the Chambers of Jiva’s Chakra
+syencn WMGSG MHUSS pr@euraf Sixty and four, where Siva Sakti are.
+
+1) This 64-chamber chakra is filled by the letters ‘A’ and
+‘U’
+4
+
+piers s5G7b pus Ouppg.
+Tantra Four Concluded
+
+1. 45 Mea
+
+Cups) eurercr Quen GNSHy or`,
   },
   {
     id: 1419, tantraId: 4, verseNumber: 1418,

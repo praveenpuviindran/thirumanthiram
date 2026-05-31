@@ -20,6 +20,66 @@ And counting time in measure appropriate
 Thus did Nandi reveal at length
 The eight-fold science of yoga great--
 Iyama, Niyama and the rest.`,
+    elaborationEnglish: `The science of yoga is a vast subject. It is eight-limbed, that
+is of cight organic parts; and so is known as ashtanga yoga.
+_ The secret of yoga was revealed by: Nandi (Sadasiva) initially
+_ to the four sages, Sanaka, Sanatana, Sanatkumara and
+_ Sanzntana.
+
+gwd utes) 2357 YGu
+
+— - Mntis sas Pursnixcr apsDenr
+
+ottig qyng Detar Qahaaw g7Gar. &50
+
+Yoga Includes Kavacha, Nyasa and Mudra
+
+| shall reveal herein,
+
+_ The ways of Yama and Niyama,
+
+_ The secret of Kavacha, Nyasa and Mudra
+
+The paths to reach the Samadhi State;
+
+And how Kundalini Sakti courses upward
+
+ag And reaches the thousand petailed lotus in the
+cranium.
+
+Bey
+a
+s=
+
+Kk teaches about kavacha, nyasa, mudra aiid the coursing of
+ne kundalini energy ‘roi the muladhara to sahasrara in the
+_ cranium peak through the six adharas within the body. “It
+is mot enough that there be devotion and an attitude of
+< nder to the Deity within oneself, in the heart and the
+d. It is a significant part of worship to express it bodily
+for the body too is a participant in the sadhana. For
+thi there are a number of gestures by movements
+a F the limbs of the body, *mudras’ as they are termed. These
+
+oe TLOE Drsy Gy
+aed Gaul Qearcit eis ox ob
+
+ea
+
+‘1. gene Cured
+
+external movements of the physical body, with hands and
+fingers, emphasize and affirm the intention of the heart and
+
+‘mind of the worshipper and by constant repetition establish
+
+the idea in the very physical matter of the body. The mudras
+
+are the language in which the body speaks to the ‘Deity.”’
+
+— “Lights on Tantra’’ by M.P. Pandit.
+
+ABOVE QEOGD. cromenrs Lomas`,
   },
   {
     id: 551, tantraId: 3, verseNumber: 550,
@@ -56,6 +116,17 @@ And reach Samadhi State;
 They who tread that blessed path
 Shall reach Jnana's peak;
 No more are they in this vile flesh born.`,
+    elaborationEnglish: `Yoga is the sure path to jnana or enlightenment. The
+
+enlightened are born no more. Att karmas are forever ended.
+
+Mular identifies samadhi with jnana’ This is similar to
+Buddhism, where the ultimate which is to be realised in
+Samadhi is prajna, at which duality disappears and jnana, the
+essence of the individual merges in the essences of the
+Universal.
+
+sug Qaearwr wh OSH wran7e`,
   },
   {
     id: 553, tantraId: 3, verseNumber: 552,
@@ -72,6 +143,11 @@ Iyama, Niyama, and Asana numberless
 Pranayama wholesome and Pratyahara alike,
 Dharana, Dhyana and Samadhi to triumph
 --These eight are the steely limbs of Yoga.`,
+    elaborationEnglish: `is a preparation for the next. Yoga holds the key to the
+
+attainment of samadhi or the unitive trance.
+
+Caripiser users Gotz. Gun`,
   },
   {
     id: 554, tantraId: 3, verseNumber: 553,
@@ -89,6 +165,29 @@ In directions eight;
 Yet perform the holy niyamas"
 --Thus spake the Lord of matted locks, cool and coral hued
 To the Sages Four, in devotion immersed.`,
+    elaborationEnglish: `Perform Iyamas Always
+
+“The heavens may torrents pour
+
+In directions eight;
+
+Yet perform the holy Iyamas’’
+
+—Thus spake the Lord of matted locks, cool and
+coral hued
+
+To the Sages Four, in devotion immersed.
+
+1) Santana, Sanatanam, Sanatkumara, Santana—the four
+rishis taught by Siva in His aspect as Dakshinamurthi
+(Southward-looking form). The Agamas descended to them
+from Nandi. They received the title, Nandi, and were included
+among the nathas (masters).
+
+vide—proem.
+
+.
+OsrodercrOQuru s.mret soraleviret cratt Goer cit`,
   },
   {
     id: 555, tantraId: 3, verseNumber: 554,
@@ -106,6 +205,19 @@ Of marked virtues is he; good, meek and just;
 He shares his joys, he knows no blemish
 Neither drinks nor lusts
 --This the man who in Niyama's ways stands.`,
+    elaborationEnglish: `The way of iyama consists in number of ‘do’s and
+
+dont’s’—non-killing, not lying, not drinking, not lusting,
+possessing marked virtues, being good, being just, sharing the
+good things of life with others, and knowing no blemish.
+Iyama is the background, the ethical preparation for the
+onward march on the yoga path.
+
+1) Nachinarkiniyar, the - celebrated commentator of
+Tholkappiyam, the great classic Tamil grammar, describes the
+elements of iyamam as five in the foliowing sutra:
+
+3. Plus`,
   },
   {
     id: 556, tantraId: 3, verseNumber: 555,
@@ -126,6 +238,16 @@ He who shares Himself
 Half-and-Half with His Sakti
 And the Divine Justice thereof
 --Them, he in Niyama's path knows.`,
+    elaborationEnglish: `.
+
+He’ who stands in niyama should have firm faith that the
+Supreme Being is the First Cause, that He is the central
+meaning of all Vedas, that He is the Light Divine, that He
+is the kundalini fire within that Light, and that He and Sakti
+are inseparable and indivisible, and that there is divine justice
+in that act of Siva/Sakti oneness.
+
+STH Sorey OaramvQuers sresrcney`,
   },
   {
     id: 557, tantraId: 3, verseNumber: 556,
@@ -144,6 +266,9 @@ Forthrightness, truth and steadfastness
 Killing, stealing and lusting, He abhors
 --Thus stands with virtues ten
 The one who Niyama's ways observes.`,
+    elaborationEnglish: `Niyama is the next step. It consists of the initial practice of
+
+8)abhorrence of killing.`,
   },
   {
     id: 558, tantraId: 3, verseNumber: 557,
@@ -160,6 +285,11 @@ Tapas, meditation, serenity, and holiness
 Charity, vows in Saiva Way and Siddhanta learning
 Sacrifice, Siva puja and thoughts pure
 --With these ten, the one in Niyama perfects his Ways.`,
+    elaborationEnglish: `Further on, niyama consists of ten more practices: 1)tapas;
+
+is
+
+OermBaeaw wires sushe Queries`,
   },
   {
     id: 559, tantraId: 3, verseNumber: 558,
@@ -178,6 +308,33 @@ Six among them are rated high
 With Svastika as faultless seventh
 He who postures on these asanas seven,
 Verily becomes Master, for sure.`,
+    elaborationEnglish: `The next step is the practice of asana or bodily postures.
+These asanas are numerous. But seven among them are basic.
+5)swastika; 6)vira; and 7)sukha. He who perfects these
+postures verily becomes the master. The four following
+mantras describe four of the asanas in detail. Asanas are
+postures practised for “‘health and lightness of body.”’ They
+give ‘“drdhata or strength” — vide Hatha Yoga Pradipika, i.ii.
+
+Tholkappiyam: Nachinarkiniyar commentary’, op. cit.
+Svastikasana is described thus in Siva Samhita, iii 95- Place
+the soles of the feet completely under the thighs, the body
+straight and sit at ease....."" This is also called asana (the
+
+Compare Gheranda Samhita, ii, 13: ‘Drawing the legs on
+thighs together and placing the feet-between them, the body
+
+- in its easy condition and sitting straight. This posture is called
+
+svastikasana.”’
+
+Compare Hatha Yoga Pradipika, i, 21: “‘Having kept the feet
+between the knees and the thighs, with body straight when
+one sits calmly, it is called svastikasana.”’
+
+Lag adssser Godenas SYGDEF
+
+GiBsp asa sigansgscr Codeussu`,
   },
   {
     id: 560, tantraId: 3, verseNumber: 559,
@@ -194,6 +351,13 @@ Sit cross-legged with soles of feet upturned
 Close draw the feet on thighs opposite,
 Stretch then the hands afore on feet
 That Padmasana is, famed far on earth.`,
+    elaborationEnglish: `Padmasana is the ‘lotus’ posture. The practitioner sits
+cross-legged, the soles’ of the feet tumed upward; the feet
+are drawn up onto the opposite thighs. The hands are stretched
+
+to the feet.
+
+stu (pista ofasou $4`,
   },
   {
     id: 561, tantraId: 3, verseNumber: 560,
@@ -210,6 +374,25 @@ Place the right leg over the left
 Stretch the hands over calf of leg
 Sit in posture firm and erect
 That indeed is Bhadrasana.`,
+    elaborationEnglish: `Bhadrasana is the ‘happy’ posture. The right leg is placed
+over the left, and the hands are stretched over the calf of
+the leg; and an erect and firm sitting posture is observed.
+
+Bhadrasana:
+
+Compare Hatha Yoga Pradipika, i, 55-7: ‘‘Place the heels
+on either side seam of the scrotum, keeping the left hecl
+on the left side, and the right on the right side; hold the
+feet firmly joined to’ one another with both the hands. This
+bhadrasana is the destroyer of all diseases.”
+
+Compare Gheranda Samhita, ii,9-10: ‘‘Place the heels
+crosswise under the testes attentively; cross the hands behind
+the back and take hold of the toes of the feet. Fix the gaze
+on the tip of the nose....’’
+
+The asana as described by Tirumular here differs from these
+two descriptions. Here it appears to be a standing posture.`,
   },
   {
     id: 562, tantraId: 3, verseNumber: 561,
@@ -226,6 +409,34 @@ Lift the feet on to the thighs,
 Control breath and on elbows raise your body
 Thus seated firm and immobile,
 Thou do reach the Kukkudasana.`,
+    elaborationEnglish: `Kukkudasana is the ‘cock’ posture. The feet are lifted onto
+
+the thighs, -and controlling the breath, the body: is raised on
+the elbows; and a firm, immobile sitting position is taken.
+(This asana, however, is not included by Tirumular in his
+list of seven important asanas. Istead he mentions the gomukha
+asana. However he describes the kukudasana, - but hot the
+
+Kukudasana—literally ‘cock’ posture:
+
+Compare Hatha Yoga Pradipika, i, 25: “Taking the posture
+of padmasana and carrying the hands between the knee and
+the thighs, when the yogi raises himself above the ground,
+with palms resting on the ground, it becomes kukudasana.”’
+
+Compare Gheranda Samhita, ii,31; ‘‘Sitting on the ground,
+cross the legs in the padmasana posture, thrust down the hands
+betweeen the thighs and the knees, stand on the hands,
+supporting the body on the elbows. This is called the
+kukudasana.”’
+
+Although Tirumular describes this asana, he does not refer
+to it as one of the seven important asanas. There instead
+he mentions ‘gomukha,’ which he does not describe.
+
+UTS (Upssrhh uncsil senorb_
+
+Cerhed swert Daryn epsA Cums`,
   },
   {
     id: 563, tantraId: 3, verseNumber: 562,
@@ -242,6 +453,26 @@ Stretch the hands over the calf of leg,
 Lift the mouth upward,
 Fix thy gaze on tip of nose,
 Thus do thou Simhasana posture.`,
+    elaborationEnglish: `Simhasana is the ‘lion’ posture. The hands are stretched over
+the calves of the legs, the chin is lifted upward, and the gaze
+is fixed on the tip of the nose.
+
+Compare. Hatha Yoga Pradipika, i, 52-54: ‘‘Press the heels
+on both sides of the seam of the scrotum in such a. away
+that the left heel touches the right side, and the right heel
+touches the left side. Place the hands on the knees, with
+stretched fingers and keeping the mouth open and the mind
+
+collected, gaze on the tip of the nose. This is simhasana,
+held sacred by the best of yogis.”
+
+Compare Gheranda Samhita, ii, 14-15: *‘The two heels to
+be placed under the scrotum contrariwise, and turned upwards,
+the knees to be placed on the ground, and the hands placed
+on the knees, mouth to be kept open..... and gaze fixed on
+the nose. This is simhasana, destroyer of all diseases.”
+
+ugSom Genypsh umswum Gael`,
   },
   {
     id: 564, tantraId: 3, verseNumber: 563,
@@ -259,6 +490,13 @@ Svastika, Veera, and Sukha
 These seven are asanas eminent and ancient;
 Numerous as, eight, eighty and hundred, however,
 Are asanas in all reckoned.`,
+    elaborationEnglish: `. Constitute the eight, Eighty and hundred, HOWE ERs,
+
+Are asanas in all reckoned.
+
+5. Worecanmniww
+
+OotwisGuunge@dsr@seGu Osrrg Curini`,
   },
   {
     id: 565, tantraId: 3, verseNumber: 564,
@@ -277,6 +515,7 @@ There is a steed he rides to his destined goal;
 The masterly one the steed carries,
 The feeble one it throws away
 --That steed the Prana breath is.`,
+    elaborationEnglish: `SFL Onsen Noah auniidiena`,
   },
   {
     id: 566, tantraId: 3, verseNumber: 565,
@@ -294,6 +533,10 @@ He has steeds two,
 But he knows not how to master them
 If the lordly Guru lends His Grace,
 The steeds will tame become.`,
+    elaborationEnglish: `In fact, he has two steeds to master, the idakala and pingla
+
+breaths that run in the left and right nostrils. It is by the
+grace of the Guru that he can attain mastery over them.`,
   },
   {
     id: 567, tantraId: 3, verseNumber: 566,
@@ -310,6 +553,14 @@ Faster than bird that steed flies,
 Far headier than wine the pleasure it gives;
 It infuses vigour, dispells laziness
 True we say this, let the wise listen.`,
+    elaborationEnglish: `The steed of prana breath moves faster than a bird. The
+pleasure it gives is headier than wine. It dispels laziness and
+
+infuses vigour.
+
+Gores oAGesAn Aptis Medeor
+
+Opreser wetuni Guged sg`,
   },
   {
     id: 568, tantraId: 3, verseNumber: 567,
@@ -338,6 +589,48 @@ Kumbhakam is to retain that breath for matras four and sixty
 Resakam is to exhale thereafter for matras two and thirty
 Thus alternate from left to right and right to left
 With Kumbhakam in between.`,
+    elaborationEnglish: `Inhalation of 16 matras of breath by the left nostril is
+
+purakam. Retention of 64 mantras of breath thus inhaled is
+kumbakam. Exhalation of 32 matras is rechakam. Thus in
+pranayama the breath is inhaled and exhaled from left to right
+and back from right-to left with retention in between. A matra
+is a specific time duration.
+
+1)Matra is a measure in time approximating a second,
+Vachaspati in his gloss on ‘‘Yoga Sutras of Patanjali’’ says,
+“A matra is the time which is taken up by thrice turning
+up one’s hand over one’s knee, and then snapping the fingers
+once.."— “Yoga Sutras of Patanjali,’’ ii, SO-S1, as quoted
+in ‘Hatha Yoga, *’ by Theos Bernard, p.56 n.
+
+2}According to Yogacharya Shantikumar, this is one of the
+two methods for cleaning. the subtle channels of
+breath—through bija. The aspirant should adopt the lotus
+posture and concentrate on vayu-bija which has the colour
+of smoke. He should then breathe in through the left nostril
+for 16 counts, and hold the breath for 64 counts. Then he
+should exhale through the right nostril for 32 counts. Then
+he should meditate on fire-bija and breath in through the
+Tight nostril and go through the round as-he did previously
+with the left. Thus he should alternate breathing through left
+and right.
+
+Oseiws Guler DGguger DusAnre
+
+Breath Control Makes Body Light as
+Carpenter -Bee
+
+Tf you control the breath within,
+
+However old your body,
+
+Young and crystal-hard it turns
+
+And with the goodly Guru’s benign Grace,
+Well may you become lighter than air.
+
+0Cs Bussg ALL a ag Weave`,
   },
   {
     id: 570, tantraId: 3, verseNumber: 569,
@@ -374,6 +667,14 @@ As you inhale, control and exhale in measure prescribed,
 Well may you become a trimphant Lord
 With the conch of victory,
 Your achievement heralding.`,
+    elaborationEnglish: `With the conch of victory,
+Your achievement heralding.
+
+Practise pranayama in prescribed measure wherever you are.
+The body will not perish. You will become a triumphant lord,
+the conch of victory heralding your achievement.
+
+Srmnconu OUGSEGm sorsaH curiae`,
   },
   {
     id: 572, tantraId: 3, verseNumber: 571,
@@ -391,6 +692,7 @@ The Science of Breath thus consisting
 They know not;
 They who know the Science of Breath
 Are destined to spurn the God of Death.`,
+    elaborationEnglish: `urenb Greasy srqyc UBasSgy`,
   },
   {
     id: 573, tantraId: 3, verseNumber: 572,
@@ -410,6 +712,15 @@ In Resakam it is absorbed within in due measure
 They who practise the Science of Breath thus
 Reach the Grace of Lord
 Who consumed poison deadly.`,
+    elaborationEnglish: `The purakam breath is inhaled deeply so that it pervades the
+
+upper, lower and middle regions of the body within. In
+kumbhakam, it is retained around the navel centre. In
+rechakam, it is absorbed within in due measure. Those who
+practise pranayama thus reach the grace of the Lord who
+swallowed the deadly poison.
+
+Srp Mhsavs somarrs )cual sex`,
   },
   {
     id: 574, tantraId: 3, verseNumber: 573,
@@ -427,6 +738,9 @@ Retaining four and sixty in the navel
 Exhaling two and thirty by the right nostril,
 They who control breath thus, chanting Aum
 Have verily seen the Light of Truth.`,
+    elaborationEnglish: `Qtr gad gaan PGrAsgu
+
+Gerlyd Morercr gquneigyn GoISg`,
   },
   {
     id: 575, tantraId: 3, verseNumber: 574,
@@ -444,6 +758,16 @@ That prana fills the nadis ten;
 Exhale slow
 That the body does not stir;
 Retain prana breath
+And downward move Apana breath
+Thus sit erect and vanquish Death.`,
+    elaborationEnglish: `Inhale deep and steady,
+
+That Prana fills the nadis ten;
+Exhale slow
+
+That the body does not stir;
+Retain prana breath
+
 And downward move Apana breath
 Thus sit erect and vanquish Death.`,
   },
@@ -464,6 +788,14 @@ Control that and purify within;
 Then shall your limbs glow red
 Your hair turn dark
 And God within shall leave you never.`,
+    elaborationEnglish: `And God within shall leave you never.
+
+Purification of the breath by control is an impostant element
+of the pranayama exercise. When breath that wanders as it
+lists is regulated, the limbs grow red, the hair turns dark,
+and the body does not decay.
+
+EOar comolyn somguut sroualt`,
   },
   {
     id: 577, tantraId: 3, verseNumber: 576,
@@ -483,6 +815,10 @@ If twelve matras inhaled
 Eight matras exhaled,
 The four matras retained
 Shall make you divine in Siva.`,
+    elaborationEnglish: `ucicigea tnect USeQ)T acrorgy
+
+ucoijest Lrmeeawl urs AnNHocs
+Lieigest Liecrouwl urset MO BSICHT`,
   },
   {
     id: 578, tantraId: 3, verseNumber: 577,
@@ -501,6 +837,14 @@ The mahout (Jiva) knows not elephant;
 When mahout learns to control elephant
 The elephant knows not night and day;
 (In eternity it exists.)`,
+    elaborationEnglish: `The 12 matra breath is an elephant that is awake night and
+day. Jiva is the mahout. The mahout should learn how to
+control the elephant.
+
+The elephant symbolises ‘‘ego’’, and it is in that sense that
+Siva is sdid to have killed and skinned the elephant.
+
+6. As Dursagw`,
   },
   {
     id: 579, tantraId: 3, verseNumber: 578,
@@ -520,6 +864,24 @@ And may you then meet the Lord,
 Now and here below
 Whom the ancient Vedas still searches
 Everywhere.`,
+    elaborationEnglish: `The next step in yoga is pratyahara or withdrawing the mind
+and looking inward. This should be practised step by step.
+Many blessings will follow from this practice.
+
+1) Pratyahara is the restraint of, and subjection of the senses
+of the mind, which is thereby steadied. The mind is withdrawn
+
+from the objects of the senses. Vide *‘The Serpent Power’’
+
+by Sir John Woodroffe, p.193. See also, Gaeranda Samhita,
+fourth Upadesa; Sandilya Upadesa, Chpt.1, etc; the Sarada
+Tilaka defines pratyahara as “‘the forcible obstruction of the
+senses wandering over their objects’’; quoted in ‘‘The Serpent
+Power’ op.cit— Steadiness is the aim and result of
+pratyahara.
+
+Compare ‘‘Tholkappiyam—Nachinarkiniyar Commentary”’
+op.cit., p.218: *`,
   },
   {
     id: 580, tantraId: 3, verseNumber: 579,
@@ -537,6 +899,15 @@ Of fixing breath twelve matra long,
 Below the navel region;
 Once they learn that art
 The Lord enters within, shouting in joy.`,
+    elaborationEnglish: `Once they learn that art
+The Lord enters within, shouting in joy. =
+
+Pratyahara helps in the act of breath retention below the navel
+region. It is a rare art that helps the practitioner to advance
+on the yoga path.
+
+YUS HGlsed Cogses Yorplarp
+unods5 Gurehé AgGalsm Siphon`,
   },
   {
     id: 581, tantraId: 3, verseNumber: 580,
@@ -571,6 +942,7 @@ You look twelve-finger length,
 And then concentrate and meditate (on navel centre),
 The mighty Siddha yoga shall yours be
 And imperishable shall your body be.`,
+    elaborationEnglish: `Gen @Grmse at Ooreh Corry t`,
   },
   {
     id: 583, tantraId: 3, verseNumber: 582,
@@ -590,6 +962,8 @@ If at the Throat's Center
 Lunar light you behold,
 Then will your body,
 In divine joy intoxicated be.`,
+    elaborationEnglish: `US guntsas Duoréar Mey G
+Cadarss somos Quchied aIPsOG`,
   },
   {
     id: 584, tantraId: 3, verseNumber: 583,
@@ -627,6 +1001,7 @@ If you can meditate on the light
 That burns there,
 You shall be one with Lord,
 Who all births destroys.`,
+    elaborationEnglish: `VAS Zemt uss 2TH Mheonus`,
   },
   {
     id: 586, tantraId: 3, verseNumber: 585,
@@ -647,6 +1022,12 @@ Melt in your heart for Lord,
 Attain and contemplate on Jnana,
 And look inward toward Him;
 These the precious Ways of Pratiyahara are.`,
+    elaborationEnglish: `ego .
+Which constitute the glory of Pratyahara.
+
+youu emmy ysalim access
+
+Hovuucl® pérugs Cerggron Horpred`,
   },
   {
     id: 587, tantraId: 3, verseNumber: 586,
@@ -663,6 +1044,11 @@ If breath that is exhaled
 Is contained within
 The thoughts too are contained there
 And the Lord shall leave you not.`,
+    elaborationEnglish: `Pranayama aids the practice of pratyahara. If breath that is
+exhaled is contained within, the thoughts too are contained
+within. Then the Lord leaves you not.
+
+Anuyo Apasous HEQsor picsrfev`,
   },
   {
     id: 588, tantraId: 3, verseNumber: 587,
@@ -682,6 +1068,12 @@ And seek Lord,
 If your thoughts be centered firm
 You shall Divine Light see
 And immortal thereafter be.`,
+    elaborationEnglish: `TANTRA .THREE 93
+
+7. Su DeCA
+
+Gsnosr wergmsé GMEQEroTH Spsary
+Nosnsscr FC Qaaluyns srGorrans`,
   },
   {
     id: 589, tantraId: 3, verseNumber: 588,
@@ -701,6 +1093,7 @@ See and yet see not;
 Hear and yet hear not;
 Thus in meditation sit;
 That the sure Way to bar death's way.`,
+    elaborationEnglish: `Aaowunt Ounrgales Dos wnOs`,
     transliteration: `malaiyār cirattiṭai vāṉīr aruvi
 nilaiyārap pāyum neṭunāṭi yūṭē
 cilaiyār potuvil tirunaṭa māṭun
@@ -731,6 +1124,7 @@ There on the stony arena (of Mount Meru within)
 The Lord performs His timeless dance;
 That unending Bliss Light,
 I witnessed.`,
+    elaborationEnglish: `CGoone HMagsPoare Cages Ques Deirenor`,
   },
 {
     id: 591, tantraId: 3, verseNumber: 590,
@@ -752,6 +1146,9 @@ And make Him meet Her,
 You shall then be forever young
 Upon lordly Nandi I avow,
 This true forever and ever.`,
+    elaborationEnglish: `SOL ATE DOVES YS STOW erp
+
+Qoc_aren Coréh Qolgicr QGS5D`,
   },
   {
     id: 592, tantraId: 3, verseNumber: 591,
@@ -788,6 +1185,9 @@ When Pranayama is in proper time-measure practised
 Breath retention will appropriate with Prana stand;
 He who trains breath that is Prana,
 With him shall Time and Life inseparate remain.`,
+    elaborationEnglish: `With him shal! Time and Life inseparate remain.
+
+arusou unGo och Oo unweeour`,
   },
   {
     id: 594, tantraId: 3, verseNumber: 593,
@@ -810,6 +1210,9 @@ Drive it to the Lunar Peak;
 There with its horns it knocks;
 And if the Gates of the Cave do not open,
 It turns tail in fear.`,
+    elaborationEnglish: `ATS Wibue sTayih wes Sony
+Gumpherp cumuy yowurrt urdiga ped
+giper Gus QrarG Quganisa`,
   },
   {
     id: 595, tantraId: 3, verseNumber: 594,
@@ -828,6 +1231,10 @@ Well may you sleep
 In the spacious bed chamber
 Of the Body Cave
 That has doors two and windows seven.
+And long, long may you live there too.`,
+    elaborationEnglish: `_Of the Body Cave
+
+That has doors two and windows seven
 And long, long may you live there too.`,
   },
   {
@@ -848,6 +1255,17 @@ What though you wake and pray?
 They who control breath in measure ordained,
 Will sure imprison mind-monkey
 Within the body-fortress.`,
+    elaborationEnglish: `- Within the body-fortress.
+
+If out of the ten vayus that fill the body, five leave by
+exhalation, nothing is achieved by waking and praying. Only
+breath control can imprison the mind-monkey.
+
+arab apsat adarnd (upset —
+
+Dorms apsars Oecret A7wresr Lb
+
+Ysain Gary 29168 Guhly®`,
   },
   {
     id: 597, tantraId: 3, verseNumber: 596,
@@ -868,6 +1286,18 @@ What then there to speak of the millions
 And their life to be?
 What delusion this!
 Will the sandy bank ever hold firm?`,
+    elaborationEnglish: `For those who come after?
+
+What then there to speak of the millions
+And their life to be?
+
+What delusion this!
+
+Will the sandy bank ever hold firm?
+
+Here, the core of yoga theory of life and death is explained.
+
+ANS YLaoowd ySsHOD masgi`,
   },
   {
     id: 598, tantraId: 3, verseNumber: 597,
@@ -890,6 +1320,10 @@ To contain Primal Reals
 In the Being Uncreated
 That, verily, is Dharana
 In stages practised.`,
+    elaborationEnglish: `8 Surestwb
+
+agus) JO or ass Gwen
+Qurgaurs ys9 yoorGurs Gwae`,
   },
   {
     id: 599, tantraId: 3, verseNumber: 598,
@@ -913,6 +1347,24 @@ That is on Sakti centered,
 And Siva Dhyana next
 That is by Guru blessed,
 These two the Ways of Dhyana Yoga.`,
+    elaborationEnglish: `Dhyana is born out of perfection of dharana; that is, when
+the five elements, the five senses, and the internal organs
+are contained, dhyana is born. Dhyana is of two kinds: Parai
+dhyana and Siva dhyana. Parai dhyana is centered on Sakti,
+Siva dhyana on Siva. Both the ways of dhyana yoga should
+be initiated by the Guru.
+
+1) Dhyana has been defined to be the state of the antakharana
+(mind) of those whose chaitanya holds to and is occupied
+by the thought, on one object, having first cast away the
+
+thought of all other objects. Through dhyana is acquired the
+quality of mental realization (pratyaksha). It is of two kinds:
+Saguna or meditation on a form (murti) and nirguna, in which
+the Self is its own object Vide ‘‘The Serpent Power’’ by Sir
+John Woodroffe, pp.193-194.
+
+AHorcrrsaer ootGer Yysomrr golem`,
   },
   {
     id: 600, tantraId: 3, verseNumber: 599,
@@ -932,6 +1384,12 @@ Inside the palatal cavity
 He shows the Cosmic Light;
 He gave the fleshly body,
 That we redeemed be.`,
+    elaborationEnglish: `In dhyana, the cosmic light flashes. Gaze on it. to heart’s
+
+content, mingle with it, get into the heavenly stream of the
+vast Space, and envision the Uncreated Being.
+
+Mersin vss Deuchsosr 1 Coury`,
   },
   {
     id: 601, tantraId: 3, verseNumber: 600,
@@ -951,6 +1409,8 @@ And mingle one with it;
 The Heavenly Stream will then surge
 To the spaces infinite of Void Vast;
 Then may the Uncreated Being witnessed be.`,
+    elaborationEnglish: `PGOurep gicternt 21 Gar Guleng
+PGOurID gictant Augean Abmsow`,
   },
   {
     id: 602, tantraId: 3, verseNumber: 601,
@@ -1014,6 +1474,11 @@ None that is "I";
 You and Siva one become.eek Him enlightened
 He within you is,
 Even unto reflection in the mirror.`,
+    elaborationEnglish: `Dhyana is seeking God within. It is seeing Siva’s reflection
+in the jiva mirror. All practice of yoga is vain without the
+secking within.
+
+QLLIPD BQadea 2 caridlevens Siracdency`,
   },
   {
     id: 605, tantraId: 3, verseNumber: 604,
@@ -1035,6 +1500,9 @@ Feelings none;
 Seekings none;
 None that is "I";
 You and Siva one become.`,
+    elaborationEnglish: `Therefore let the eyes be fixed on the tip of the nose. Let
+the roaming breath be retained within; so let the nadis be
+stilled. Then no more seeking; no fear of rebirth.`,
   },
   {
     id: 606, tantraId: 3, verseNumber: 605,
@@ -1052,6 +1520,9 @@ Retaining the roaming breath within
 They who can thus still the nadis,
 Will sure reach the Goal
 No fear of birth to be for them.`,
+    elaborationEnglish: `Doms wiener curtGipo Gwe
+
+Sool HOS (up prsmact srblencu uss`,
   },
   {
     id: 607, tantraId: 3, verseNumber: 606,
@@ -1069,6 +1540,7 @@ Bee, dragon-fly, conch, drum, and lute
 The subtle sounds of these ten are heard
 For them alone
 Who have stilled their mind in God.`,
+    elaborationEnglish: `AL Geupid Toner Heri gor sae`,
   },
   {
     id: 608, tantraId: 3, verseNumber: 607,
@@ -1088,6 +1560,9 @@ That glow in firmament vast,
 The melody of the flute; the resonance of conch,
 All these
 The yogi true alone hears.`,
+    elaborationEnglish: `Fear Quayb Qeowwout ru
+ureh Quagb uibgw gripped
+ems uscesb Cure AANGaGEsrT`,
   },
   {
     id: 609, tantraId: 3, verseNumber: 608,
@@ -1143,6 +1618,30 @@ Who involute in Tanmatras, their substrate;
 And they in turn in Nada;
 Then shall you reach Feet of Lord
 That is Refuge of All.`,
+    elaborationEnglish: `usta sian usGv QGalidaa
+
+eae? siuGanr Cgreoncr Bails!
+
+The Way to Ascension to Space lies through
+Meditation
+
+The mystic bed-chamber is day-light eternal
+No darkness invades;
+
+There is a way
+
+This body to fire-chamber consigned not be,
+The light of this knowledge
+
+Is by meditation prolonged;
+
+In the lunar region
+
+Knows not end of Light ever.
+
+Osram: 756 Gout prorreaHs
+
+WaTl ew pena PSH sUoTTES Mes`,
   },
   {
     id: 612, tantraId: 3, verseNumber: 611,
@@ -1180,6 +1679,7 @@ The Yogi that has to meditate learned,
 Coursing Kundalini through spinal column,
 And passing Mandalas Three with felicity equal
 He in fleshly body forever lives.`,
+    elaborationEnglish: `_He in fleshy body forever lives.`,
   },
   {
     id: 614, tantraId: 3, verseNumber: 613,
@@ -1197,6 +1697,7 @@ In each is its respective God;
 Be you blessed
 By the God appropriate
 Then each Mandala leads to the other.`,
+    elaborationEnglish: `(pamshern west wb eparieyid goris`,
   },
   {
     id: 615, tantraId: 3, verseNumber: 614,
@@ -1216,6 +1717,7 @@ And peirces Pasas
 Shall know weariness none;
 To transcend the three stages of heart
 Is exaltation exceeding indeed.`,
+    elaborationEnglish: `565 avi griflns snGSS`,
   },
   {
     id: 616, tantraId: 3, verseNumber: 615,
@@ -1253,6 +1755,22 @@ Two finger length still above is the Throat-Center;
 Those who can meditate on it in sea-like depth
 Sure knew Him;
 Him the Lord of Body Corporal.`,
+    elaborationEnglish: `Is the petalled Heart-Centre;
+
+TANTRA THREE ‘ 97
+
+Two finger length still above is the Throat-Centre;
+Those who can meditate on it in sea-like depth
+Sure knew Him;
+
+‘Him the Lord of Body Corporal.
+
+When the yogi shifts his centre of thought from the muladhara
+to the anahata (heart centre), and from anahata to the
+vishuddhi (throat centre), then he transcends the 36 tattvas,
+and becomes united with God.
+
+Opurs Curwm ommulGwd Oums/`,
   },
   {
     id: 618, tantraId: 3, verseNumber: 617,
@@ -1288,6 +1806,10 @@ Samadhi is end of Iyama and the rest
 Samadhi is consummation of Siddhis eight
 Who persevere in the path from Iyama to the end
 Will alone the end Samadhi attain.`,
+    elaborationEnglish: `Samadhi is the final stage in the eight-limbed “yoga
+commencing from yama through niyama, asana, pranayama,
+pratyahara, dharana, and dhyana. When it is attained, the
+miraculous powers (siddhis) come to the yogi of themselves.`,
   },
   {
     id: 620, tantraId: 3, verseNumber: 619,
@@ -1305,6 +1827,9 @@ Bindu and Nada flourish
 In their union will Samadhi be;
 And the Light Resplendent of Endless Jnana
 Will then visioned be!`,
+    elaborationEnglish: `Samadhi is to reach the Meru peak of sahasrara, where bindu
+and nada flourish, and to unite in them. It is to vision the
+light resplendent of endless jnana.`,
   },
   {
     id: 621, tantraId: 3, verseNumber: 620,
@@ -1323,6 +1848,19 @@ Where there is mind absorption none,
 There life none is;
 They who, in rapture, sit in mind absorption
 Are verily fixed in Yoga of absorption.`,
+    elaborationEnglish: `Where there is no mind absorption,
+
+There life none is;
+
+They who, in rapture, sit in mind absorption’
+Are Verily fixed in Yoga of absorption.
+
+Through samadhi, manolaya is attained; all things are absorbed
+in unitive consciousness.
+
+Mer_eor mupb Mess Sraduymy
+
+Ssebert unas 568 WeuuTEar`,
   },
   {
     id: 622, tantraId: 3, verseNumber: 621,
@@ -1354,6 +1892,14 @@ Within these they sit (in Samadhi);
 When through the door on top
 They vision the Void
 No more the word Death, aye, not even in dream.`,
+    elaborationEnglish: `On the top of the central spinal column is a habitat. It has
+three compartments (spheres of sun, moon and fire) and four
+doors (the cavities where the three nadis, ida, pingala and
+sushumaa, end and the fourth cavity of brahmarandra, or the
+final entrance to sahasrara). In samadhi the yogi visions the
+vast Space through the fourth door.
+
+eats PHD SYS wOnatwt`,
   },
   {
     id: 624, tantraId: 3, verseNumber: 623,
@@ -1373,6 +1919,9 @@ With thought centered on Him
 They well see Him there stand;
 Partaking of the Grace of His Dancing Feet
 They shall immortal be.`,
+    elaborationEnglish: `pL Onrs gs Onin Gurpulr amyomaugs
+— Sslc ap asphog CsGb uymaugssl
+gricgas SLO Bwoers PDGUuTTESGS`,
   },
   {
     id: 625, tantraId: 3, verseNumber: 624,
@@ -1392,6 +1941,10 @@ That no desire knows;
 They who fix their gaze on Goal True
 Will reach the Mango Fruit
 That in the garden there hangs.`,
+    elaborationEnglish: `‘Yhe youi climbs the mystic mango tree within, and tastes of
+the jruit that is Siva.
+
+aguas Guf spss wo Loit`,
   },
   {
     id: 626, tantraId: 3, verseNumber: 625,
@@ -1414,6 +1967,13 @@ And partook not of ambrosia there flows,
 For, they possess not
 The unwavering mind
 That soars in Samadhi high.`,
+    elaborationEnglish: `. a
+
+ach of ambrosia. But they did not think of the ambrosia
+» tlows within. Only the yogi in samadhi finds it. In
+thi, with breath halted, the yogi becomes one with God.
+
+1 wieow green ghows`,
   },
   {
     id: 627, tantraId: 3, verseNumber: 626,
@@ -1435,6 +1995,23 @@ They approached Him all desires devoid
 And climbed the Mystic Tree High;
 Their breath halted in Samadhi
 They with Him became One.`,
+    elaborationEnglish: `He is our Own
+
+He is the Primal One
+
+He taught the Vedas Four
+
+He is the light that glows within the purest gold
+They adored Him in love
+
+They approached Him all desires devoid
+And climbed the Mystic Tree High;
+
+Their breath haited in Samadhi
+
+They with him became One.
+
+Csras8arGsramacdr Garo Garay`,
   },
   {
     id: 628, tantraId: 3, verseNumber: 627,
@@ -1454,6 +2031,9 @@ Aloft that Center,
 Opposite the forehead
 Hangs the Crescent Moon,
 Of myriad shape and peerless beauty.`,
+    elaborationEnglish: `The yogi visions the mystic moon in the sahasrara cenire,
+
+where time and space mingle.`,
   },
   {
     id: 629, tantraId: 3, verseNumber: 628,
@@ -1473,6 +2053,32 @@ Him that is Light Beauteous,
 Reaching the Mystic Moon in union
 He becomes one with the Being Uncreated
 --That, in sooth, is Samadhi's tranquility.`,
+    elaborationEnglish: `SOV YOGHHLS FSF GOW
+GPouut YGSPOH Caruwb 23595
+
+Tranquillity in Samadhi
+
+Samadhi attained, Siva is attained;
+Sakti too will be caught in its fold;
+Distracting passions will be dispelled;
+In equanimity perfect,
+
+Like unto a balance ~
+
+629
+
+LEE EE ee
+
+TANTRA. THREE 99
+
+Will be the mind
+All this, for those who in ‘Samadhi sleep.
+
+in the tranquillity that is attained in samadhi all distracting
+passions are dispelled. The mind attains perfect equanimity,
+and the Grace of Sakti flows unhindered.
+
+Ba Dower Qughard arcor cor gytb`,
   },
   {
     id: 630, tantraId: 3, verseNumber: 629,
@@ -1509,6 +2115,14 @@ When Jiva in Samadhi merges in Him,
 Brahma that creates
 And Vishnu of the ocean-hue,
 Both stand adoring him.`,
+    elaborationEnglish: `Both stand adoring him.
+
+He who attains samadhi, merging in Siva, becomes the peerless
+Pillar of Light. Even Brahma and Vishnu worship him.
+
+FunBact Goacsttnb Qenmuyt. Garin
+
+euipsn eho gnerey canhp`,
   },
   {
     id: 632, tantraId: 3, verseNumber: 631,
@@ -1526,6 +2140,18 @@ Many the Yogas that come of themselves
 And the Siddhis eight that come unsought;
 But, Samadhi none is for those who walk with God
 Samadhi none is for those who become one in God.`,
+    elaborationEnglish: `Samadhi none is for those who become one in God.
+
+The yogi, who attains samadhi, does not seek the eight siddhis.
+He transcends them. He walks with God. He becomes one
+in God.
+
+10. gecomaGuirsc Gum
+FRUITS OF EIGHT-LIMBED YOGA
+
+Quwd
+
+Gurgish Gsmtb YMeot wirery.`,
   },
   {
     id: 633, tantraId: 3, verseNumber: 632,
@@ -1546,6 +2172,31 @@ That I grant"
 Thus blesses the Lord
 That mounts the Bull
 And dances to His Lady's delight.`,
+    elaborationEnglish: `The fruit of yama is teaching the abode of the Gods —
+Devaioka.
+
+sh) et 20 eh
+
+Devotees Reach World of Siva
+
+Hold fast unto His Feet,
+
+Adore them with love,
+
+Sing His praise
+Study His Sacred lore
+
+Constantly think of Him
+
+“You shall reach the World of Siva,
+Received in full regalia
+By the. sacred Rishi concourse.
+
+The fruit of niyama is reaching the world of Siva
+
+DF CTD
+
+anss sageQews anor Carrs`,
   },
   {
     id: 634, tantraId: 3, verseNumber: 633,
@@ -1953,6 +2604,435 @@ Within the body it permeates
 Nadis two hundred and twenty four
 If Dhananjaya does function not thus,
 This body will swell and burst.`,
+    elaborationEnglish: `The fruit of asana is the attainment of the status oi Indra,
+the king of devas.
+
+EN grees usr wb
+
+Gbus Sot Gprbhas OsSHtQaerarar
+
+“ peswaisir Qacir QucréOerdev
+
+Devotee Welcomed by Celestials
+
+“When devotee reaches the World of Siva
+‘He shail be received by Celestial throngs,
+_ “Hail! Here comes our Golden Lord”
+
+_ Thus shall they welcome;
+And he in rapturous pleasures shall revel.
+
+He who practises pranayama will be honoured by the celestials
+in the world of Siva.
+
+W769 wren pw
+
+Rete, envg Sashlerm Gsartsor
+
+TGH! Gsutacr adend oHiGasncrors
+
+The Devotee Hailed
+
+_ When he reaches the World of Siva
+_ The Celestials,
+_ Who in directions eight stand
+_ Ask, ‘Who is he?”
+_ And Hara says: ‘‘He is Mine;’’
+And the noble Devas foregather and hail him
+_ As well as if they met Siva Himself.
+
+‘The end of Pratyahara is to reach the world of Siva, and
+to be recognised by the Lord Himself.
+
+Srosees
+Baap bry pockayP wb hod
+
+— Sandianf unonit agmords QuGm@sren
+wrort Beawwemt stot nels
+
+Devotees
+
+the good path
+turn away from Death’s path;
+
+oot Dovey ujnoe KTS
+Perform Siddhis in Meekness
+
+They walk the path of Truth
+They seek the path of Liberation;
+Of limitless bounty they are;
+Well may the Celestials
+
+In directions eight roam
+
+They perforce have to come
+
+To this earth’s way of devotees,
+And there Him seek.
+
+SH wrecwb
+
+Devotee’s Way is the Seeking of Gods
+
+He is the refuge
+
+Of Vishnu who sleeps on the ocean
+
+Of Brahma who creates worlds seven
+
+Of Rudra who brings dissolution of all life,
+Of Devas who revel in bubbling nectar.
+
+In dhyana the yogi reaches all the worlds of Brahma, Vishnu,
+Rudra and Devas.
+
+ariw wrt ounBows srers__s
+
+sriu arpa gipisst uTaym
+
+srus shure Getse sor8Gu. 639
+
+In Samadhi Jiva Unites in Unhcaused Being
+
+Transcending Jiva’s caused limitations
+
+And accepting the Causal Tattvas
+
+Extinguishing the Causal sources themselves,
+Thus do tapasvins unite in the Being Uncaused
+That, in truth is Samadhi supreme.
+
+In sarwadhi, the yogi, transcending the liraitaticns of the caused
+experiences, himself becomes the Causal Tativas, and
+
+ultimately unites in the Uncaused Being.
+
+11. gjttuor 59)
+
+Adore the Lord with constancy in directions eight ;
+Attain Eight Siddhis Great in directions eight
+And in meekness perform in directions eight.
+
+Siddhis are supernatural powers which the tantric sadhaka
+gains through his yoga. They are usually said to be eight in
+number, and are classified in two categories, ‘‘the lower and
+merely psychic, and the higher the fruits of long periods of
+
+ASST ee Ee EE eee ee
+
+TANTRA THREE i01
+
+fruitful training.’’ (Christmas Humphreys in ‘A popular
+Dictionary’’ p.i82). ‘‘The former are involved in Self; the
+latter are only available to those in whom the Self is dead’
+(ibid). They include clairvoyance, clair-audience, telepathy,
+recalling one’s former lives and those of others. It is forbidden
+fo use these powers for one’s personal benefit (ibid). In
+Saivism, the eight siddhis bear the names, ‘‘anima, laghima,
+mahima......etc.. An enumeration of these will be found in
+verse 649-post and in verse 668-post.
+
+ume cumerait Lets Liett 9419. QUI cer 5
+ailem pry Gu gnGauoh acer Gro
+
+Nothing Impossible Then
+
+Lord is the Prized Being of Celestials,
+I sought His Feet in devotion
+
+All my blemish vanished
+
+And I visioned the Mystic Space
+Nothing impossible for me now;
+
+He blessed me with Eight Great Siddhis
+And ended my birth to be.
+
+Grac AGaipH GPoup eposir
+
+uaguicr wer Fema Lb UNTS HS
+OsMs smbuel Cae Gage
+
+Sambhavi and Kechari? Mudras ior Siddhis
+
+By the grace of Guru I realized,
+
+That if the fire in the Mula is united in the Parakasa
+Trouble will -ensue you,
+
+So I took up the practice of Sambhayi and Kechan
+
+yogas
+
+And attained the eight
+**Khechari Mudra” is the name of Yogic posture in Tantra,
+which bestows spiritual attainment and enables one to
+overcome disease and death” (p.400 of N.N. Bhattacharya’s
+“History of the Tantric Religion’). The Saraibhavi Mudra is
+related to Sambhevi diksha which is “a form of higher
+initiation which is conducted by the mere touch er glance
+or will of the guru. It is connected with the secret cult of
+
+siddhis and Siva’s abode.
+
+Ture ugsrub Gooey wirGw. 643
+
+Power of Transmigration
+
+The Elements, Kalas, Time and Maya
+Escape unentangled in them,
+
+That is but Wisdom;
+
+And embrace fast the Truth of the Lord
+That Uncreated and Unending One;
+Then can you transmigrate
+
+Into mortal coils of beings other.
+
+This is another one of Siddhi powers (Tantric) through which
+one can leave one’s own body and enter into that of another.
+Traditionally Mular is said to have done this (See
+{ntroduction). The great Sankaracarya is also said to have
+adopted this, during the course of a debate with Vacaspati
+Misra.
+
+WGww act. wmbss Gures
+
+age sroranh stumgGut ASHSEGCS.- 644
+
+Karma Yoga Practices are Inferior to Eight
+Siddhis
+
+Karma yoga is several, several in number.
+Twenty thousand eight hundred kinds they count;
+And all they can give is but physical bias
+Inferior are they to the Eight Siddhis Gre
+
+in the course of the practice of the eight-limbed yoga, eight
+siddhis or miraculous powers appear. The siddhis are far
+superior to what results from the numerous karmayoga
+practices.
+
+Mular considers Karma Yoga, which is not 2 yoga in the usual
+sense of the term, but which is preached as such in the
+Bhagavad Gita, as inferior to Tantric (Kundalini Yoga).
+wAssheo morpru: ware sence
+
+Twelve Years for Eight Siddhis
+
+od the Mcoon’s nadi to the left (Idakaia}
+
+e breath of Prana measures units twelve;
+eee exhale four;
+
+ir ihe eight saved is within retained,
+
+And that for welve years continuous practised,
+Then shall Siddhis Eight «ver abide.
+
+Of
+
+Brom Geturg Resaey Gssosred
+EOm amovavel farGnas «a ieranid
+BGs somGelied sergpy. of yp. 646
+
+Subile Sounds Signifying Siddhis
+
+Aboundig in wealth of men around,
+
+You but pave the way for birth again;
+
+Nor can Siddhi be attained
+
+By art, learning, genius and wisdom subtle;
+
+At the end of diverse melodies heard in Yoga
+For twelve years long
+
+Does it take Siddhi for fullness to attain.
+
+ain iB mestr ainyader Car Sweri
+Smpr psot_ico Guireon ser TTT GA HSS
+
+102 : TIRUMANTIRAM
+
+Siddhis in the Seventh, Eighth and Ninth Years
+
+In the seventh year of his practice
+
+The Yogi becomes fleet of foot like wind;
+
+His footfali touches not the ground
+
+He divines the thoughts of other beings;
+
+Tn the eighth year he becomes eternal by young,
+
+For ever berefi of graying hait and wrinkled muscles
+In the ninth. he transmigrates into other bodies
+mortal.
+
+Siddhis in the Tenth, Eleventh and Twelfth Years
+
+In the tenth year the yogi can expand and contract
+into space P
+
+Tn the eleventh he can assume the form he meditates
+on;
+
+In the twelfth all eight siddhis entire he masters;
+
+He then gains the powers to roam the worlds
+Seven above and seven bélow
+
+And take one cosmic form spanning space all.
+
+srGer ogcyss eadaidacr Ogrtuhomnutd
+MIGITS Saripih wats Seauog
+
+stera: gilbus smugyGet scicawups
+
+The Eight Siddhis Enumeraied
+
+Himself the atom, himself the cosmos
+
+Himself light, himself heavy
+
+Himself invisible air,
+
+Himself migrating into tiortal bodies other,
+fhmself possessing prowess of the Truthful One
+Himself immanent in all
+
+—These eight arc the Siddhis Great.
+
+STHGu serious sresey ucdgyir
+
+anmhu sragg: waGori Geameadoaw
+
+Arima Siddhi to Multi
+
+The Yogi assumes atom-size,
+
+Into fives of several beings enters.
+
+And then returns to his form original:
+Either way is he least affected:
+
+From that stage reached in Anima Siddhi,
+He rises further
+
+Into Nada chanting Aum,
+
+And thus toward Mukti bastens.
+
+As in 647 and 648, here also the time taken, and the process
+through which some of the Siddhis are attained, is explained.
+
+AUbS55! Eris caurcraps emus
+
+Apes OsuéOruw worse Coiba oé
+
+Light at the Manipura
+
+Days are counted by astral Nazhigai sixty
+
+And year by days three hundred and sixty;
+Do meditate incessant through time thus reckoned,
+And see the Light in- the Manipuraka.
+
+On the Way to Siva Mukti
+
+They are Siva Muktas
+
+Who turned.their thoughts to Siva
+
+Who became Siva-suffused,
+
+Who attained Mukti
+
+By silence that leads to it;
+
+They abandoned the senses five
+
+In search of Divine Purity
+
+Their thoughts centered on the Dance Cosmic.
+
+PSSQU Domnosugs amysyth Sgr
+
+2
+
+PSS YL Qib 2G QGgssGS. 653
+
+How the Vayus Stand for Yogis
+
+Nine the YVayus in body equal are,
+Dananjaya, the tenth superior is,
+When the nine in their channels accord
+Life and body weli accord, too.
+Prana, the vital force, takes the help of air and performs
+ten functions.
+
+The vayus are ten: I) prana; 2) apana; 3) samana,
+
+“The prana moves always in the heart; the apana in the
+sphere of the anus; the samana in the navel region; the udana
+in the throat; and the vyana pervades the whole body. These
+are the five principal vayus. known as ‘pranadi.’ They belong
+to the inner body. The ‘nagadi’ five vayus belong to the outer
+body.
+
+i now tell the seats of these five external vayus. The
+naga vayu performs the function of belching: the kurma opens
+the eVelids: the krikara causes sneezing; the devadatta does
+yawning; the dhunamiaya pervades the whole gross body, and
+does not teave it, even after death.
+
+The naga vayu gives rise to conscipusness, the kurma
+causes vision, the krikara, hunger and thirst, the devadatta
+produces yawning, and by dhanamjaya, sound is produced.
+This does not leave the body even for a minute.’’ Vide
+Gheranda Samhita, v., 58-68.
+
+Compare Siva Sdmkita, iii, 1-9: ‘‘From the different
+modifications of the prana, it receives various names, all of
+which cannot be stated here. Prana, apana, samana, udana,
+vyana, naga, kurma, krikara, devadatta, and dhanamjaya.
+These are the ten principal names, described by me in this
+sastra; they perform all the functions, incited thereto by their
+own actions. Again, out of these ten, the first five are the
+highest agents in my opinion. The seat of the prana is the
+heart; of the apana, the anus; of the samana, the region
+around the navel; of the udana, the throat; while the vyana
+moves all over the body. The five remaining. vayus, the naga,
+eric, perform the following functions in the body:’ eructation,
+opening the eyes, hunger and thirst, gaping or yawning, and
+lastly hiccuping. He who in this way knows the microcosm
+of the body, being absolved from all sins, reaches the highest
+state’’ — quoted in ‘“‘Hatha Yoga’’ by Theos Bernard, p.SOn.
+
+Vayus are nerve currents—‘‘Shakti and Shakta’’ by Sir
+John Woodroffe, p.686. "
+
+These three verses which deal with Vayu (Body-Wind) and
+physical health are medicinal in nature.
+
+Importance of Dhanamjaya
+
+Danamjaya pervades the other nine Vayus
+Within the body it permeates
+
+Nadis two hundred and twenty four
+
+If Dhanamjaya functions not thus,
+
+This body will swell and burst.
+
+The Importance of two Vayus is mentioned. This is a part
+of Ayur or Siddha Veda which was the specialty in the
+medicine of the Siddhars.`,
   },
   {
     id: 656, tantraId: 3, verseNumber: 655,
@@ -1972,6 +3052,9 @@ Paralysis, hunchback, arthritis
 And diseases of eye that bulging show
 All appear
 When Dananjaya in disorder functions.`,
+    elaborationEnglish: `Saree curcmasar Te Walaa
+
+Sssronichh mine suns orrsarp`,
   },
   {
     id: 657, tantraId: 3, verseNumber: 656,
@@ -1989,6 +3072,8 @@ The eye gets diseases like cataract and glaucoma
 But Kurma is goodly to the eye;
 If Kurma permeates not the eye,
 It receives light none.`,
+    elaborationEnglish: `Bryule QoF Gwen Hsu H
+Gsagor Feet DGured Mgweylb`,
   },
   {
     id: 658, tantraId: 3, verseNumber: 657,
@@ -2007,6 +3092,8 @@ Animates the one spark of Light Divine
 That is God;
 The Gods, Rudra, Vishnu, and Brahma
 Respective there seated art.`,
+    elaborationEnglish: `eamug are 2ootwGsar Mert sai
+eaug sry wyoorwGsr Gonmtw`,
   },
   {
     id: 659, tantraId: 3, verseNumber: 658,
@@ -2047,6 +3134,21 @@ That the way to reach
 The seven mystic worlds in Cranium
 To them we bade this
 That are wise to learn.`,
+    elaborationEnglish: `SOOUUCL anpsraxrd agua gry.
+
+AMVs Gare sous s Gsmi 055 5) cut Gun. 060
+
+va! you seek woman in lust
+
+Lo! like a fawn are you caught’in net;
+And you know how io make
+
+as entral Nadi the Way Great,
+
+Yt The sced (Bindu) you kept for sale,
+eA May your own be’to consume.
+
+BD gyorents rst srteptiysut`,
   },
   {
     id: 661, tantraId: 3, verseNumber: 660,
@@ -2081,6 +3183,10 @@ They who raise Nada within the Nadi
 In a flash behold the Being One;
 There they bibed the mystica nectar
 Vanquishing besieging foes all.`,
+    elaborationEnglish: `atte. sTLor GIMPHd gerugy
+
+7s ) ptgitie smchur wrgter Csitgsomt
+at el DO pet sormse? yQGumini`,
   },
   {
     id: 663, tantraId: 3, verseNumber: 662,
@@ -2099,6 +3205,21 @@ Joined the Lady (Kundalini)
 One by one they climbed the floors
 They reached the victorious top
 And there into Perfection transformed.`,
+    elaborationEnglish: `i ‘The aga adharas where they arg seated are as
+: Vamai is seated in the muladhara;
+ntai_ in svadhishtana;
+ri and Kali in manipuraka;
+i i, Palavikarni, Palapramadani and
+rva bhuta damani—these four are seated in anahatha;
+anonmani is seated in visuddhi;
+cata chakra, Adi Sakti is seated. She is the perfection,
+timate bestower of Siva yoga. The other saktis confer
+
+only” partial bls.
+
+on 55D stpepss popurs
+
+joah sciohwt crapgrdglG enéBoart`,
   },
   {
     id: 664, tantraId: 3, verseNumber: 663,
@@ -2117,6 +3238,23 @@ The Nine lovely Virgins became a hundred and five
 And as the Cause of Vishnu, Brahma
 And the rest of the Gods Five
 She expanded pervasive.`,
+    elaborationEnglish: `And as the Cause of Vishnu, Brahma
+And the rest of the Gods Five
+She expanded pervasive.
+
+Line 1—poorna sakti is Adi or Primal Sakti.
+
+Line 2—She evolves as ichcha, jnana and kriya and fills the
+seven adharas, including sahasrara.
+
+664.
+
+Poorna Sakti evolves in Nada
+
+The Damsel thus blossomed the expanded;
+But if’ She chooses to hide Herself within,
+The elements five and ali.that expanded out of Her
+Will evolves in the reverberant. primal sound, Nada.`,
   },
   {
     id: 665, tantraId: 3, verseNumber: 664,
@@ -2171,6 +3309,9 @@ Circling again and again
 Will in Jiva gently merge;
 Within that Jiva the Dancer dances
 And I stand seeking Him there.`,
+    elaborationEnglish: `prywler ocrGor grss ODgsreflujt oir
+
+uray Ham Uumsaassé si y1.O`,
   },
   {
     id: 668, tantraId: 3, verseNumber: 667,
@@ -2191,6 +3332,39 @@ And I had Her
 And seized and bound the enemies shielding Her;
 And thus I possessed the Jewelled Lamp of Undying Flame
 The Lamp that is of salvation's Treasure House.`,
+    elaborationEnglish: `And { had Her
+
+And seized and bound the enemies shielding Her;
+And thus T possessed the Jewelled Lamp of Undying
+Flame.
+
+ABYMDY ssyaor Oucgenrwuwed Gyrenw
+Qaversg Casati ugsru Goa
+
+Oacr@me Gi 668
+
+The Eight Siddhis Enumerated~
+
+To become tiny as the atom within atom (Anima)
+
+To become big in unshakeable proportions (Mahima)
+To become light as vapour in levitation (Laghima)
+To enter into other bodies in transmigration (Prapti)
+To be in all things, omni-pervasive (Prakamya)
+To be lord of all creation in omnipotence (Isatvam)
+To be everywhere in omnipresence (Vasitvam)
+—These eight are the Siddhis Great.
+
+These eight siddhis are: 1) aniraa; -2) laghima; 3) mahima;
+
+Some authorities on the subject mention another siddhi known
+as kamavasayitham in place of garima.Tirumular calls this
+kamaru tattva. Although the subtitle, Garima, finds a place
+in the Tamil text — strictly as a subtitle .— there is no
+description of it. Actually the mantra under it relates to prapti.
+The subtitle. Garima, therefore, seems to be a: later
+extrapolation by some scholars. Garima can be. included. in
+mahima.`,
   },
   {
     id: 669, tantraId: 3, verseNumber: 668,
@@ -2246,6 +3420,7 @@ Not only will Siddhis eight be
 And the Goal behind the Siddhis too;
 With effortless ease will they all be
 If but Tripura Sakti Her Grace grants.`,
+    elaborationEnglish: `Qer_w ganGor Qosav ugar`,
   },
   {
     id: 672, tantraId: 3, verseNumber: 671,
@@ -2299,6 +3474,10 @@ If he perseveres for a year,
 He will attain Anima Siddhi;
 Lighter than flimsiest cotton wool will he be
 Yet invincible will he be.`,
+    elaborationEnglish: `ARAM wuss Gru gers cir
+
+Gur€@ain SS5 gL THE yao sre
+arAan snows soranp Heraiy ot`,
   },
   {
     id: 675, tantraId: 3, verseNumber: 674,
@@ -2316,6 +3495,23 @@ And the Tattvas that go with Her,
 For five years the yogi perseveres steadfast
 He attains the Siddhi that is Laghima;
 The power to penetrate anywhere at will.`,
+    elaborationEnglish: `The power to penetrate anywhere at will.
+
+Laghima— The traditional interpretations are: 1) ‘‘The power
+of levitation;’’-2} ““The power to render the body light at
+will.’ This achievement is the mastery over the element ‘air’,
+the plane of ‘buddhi’ or spiritual discrimination. The soul,
+by rising up into the air, obtains “‘birds-eye-view’’ of the
+lower planes. — “‘The Book Of Signs’’ by G.H. Mees, Vol/T.,
+
+After attaining anima siddhi, the yogi should persevere for
+five years to attain the laghima siddhi. This is the power to
+render the body light at will. it is the power of levitation.
+It is the mastery over element ‘air’ The yogi will glow with
+divine light suffusing a radiance that is milk-white. In laghima
+the yogi visions the Melliyal Sakti (Sakti of Tender Form)
+
+brag aThu wruers soot Mes`,
   },
   {
     id: 676, tantraId: 3, verseNumber: 675,
@@ -2333,6 +3529,7 @@ He will glow with divine light;
 With that glow suffusing milk white radiance
 He will vision the heavenly glow
 That is Truth.`,
+    elaborationEnglish: `asuQurg anreé 659 Gurgrerig.or`,
   },
   {
     id: 677, tantraId: 3, verseNumber: 676,
@@ -2350,6 +3547,27 @@ When Tattvas take their refuge in Sakti of Form Tender,
 Will Mahima Siddhi be;
 As plain as his palm
 It shall be for the yogi to see.`,
+    elaborationEnglish: `Mahima —- The traditi<..a] interpretations are: 1} ““The power
+to expand one’s cuusciousness to the largest atom or form;”
+2) “Power, might, glory."’ It is the power of ‘greatness,”’
+referring to the element, ‘fire’, the mental plane. It is the
+mastery over thought, over the lower mind, over the ‘creative
+urges of that mind. The attainment of this mastery truly
+implies *‘greatness.”* Height is the dimension which symbolises
+this plane. it also requires greatness to overcome the
+adversaries on this plane, which in myths and fairy tales take
+the form of giants. — Vide G.H. Mees op. cit.
+
+A year after attaining laghima, the yogi attains mahima siddhi.
+it is the power of becoming great. It is the mastery over
+the element ‘fire’. It is the power to expand one’s
+consciousness to the largest atom or form. The yogi conquers
+time. It stops for him. The past merges into space. Of the
+future he becomes the Lord. His breath is transformed into
+light. From him emanaies jeana, and he visions Tattvanayaki
+
+Guniictn sromscr Curagy D&onowmb
+Gueflctm arab Qaluym Horner`,
   },
   {
     id: 678, tantraId: 3, verseNumber: 677,
@@ -2382,6 +3600,7 @@ Through him all Jnana grows
 Through him all world flourishes
 Through him all things prosper
 Himself in the Grace of Lord stands.`,
+    elaborationEnglish: `STL OT USL Lil.wency Gwevevmm`,
   },
   {
     id: 680, tantraId: 3, verseNumber: 679,
@@ -2399,6 +3618,26 @@ Visions the Lady of Tattvas (Tattva Nayaki)
 And the Celestial Bhutas,
 If the yogi thus perseveres continuous for a year
 Then he attains Prapti divine.`,
+    elaborationEnglish: `Prapti —- The iraditional interpretations are: 1) “‘The power
+
+to give indefinite extension to the subtle body or its
+members;"’ 2) “‘The power to obtain any desired objective
+anywhere; 3) “‘The connection of a being with his organs
+as their presiding deity known as attainment;’’ 4) ‘‘Arrival
+at the goal, deliverance, discovery, good fortune, joyful
+meaning..."" This particular achievement refers to mastery or
+tulership of the earth-sphere. — Vide G.H. Mees, op.cit..
+
+Mantra 679 — 681
+
+If the yogi retains this vision for a year, he attains the prapti
+siddhi. It is the power to obtain all desired objects, and yet
+not to desire anything in particular. In prapti, the siddha sces
+the vast cosmos unfolding like a flower. While the past merges
+into space, the future forever stops. There is no coming, no
+going, no ageing, no death, and Parasakti is visioned in prapti.
+unBem 14009 ugtiuienea: sect our
+Gwhap sraubGQechym Hermsy`,
   },
   {
     id: 681, tantraId: 3, verseNumber: 680,
@@ -2416,6 +3655,16 @@ The Siddha perceives the Cosmos vast
 That unto a flower unfolds,
 The past merged into Space
 And the future Time for ever stops.`,
+    elaborationEnglish: `Having visioned the dazzling Light of Sakti,
+The Siddha perceives the Cosmos vast,
+That unto a flower unfolds,
+
+The past merged into Space
+
+And the future Time for ever stops.
+
+Guradgrar Noone aGgag srefldenw
+sra@srer Nadbaw seopliug gireflcvenw`,
   },
   {
     id: 682, tantraId: 3, verseNumber: 681,
@@ -2434,6 +3683,7 @@ No delay in seeing Light of Breath (Nada)
 Nothing desired in particular,
 Thus it is with Siddhas
 Who attained this Siddhi.`,
+    elaborationEnglish: `UPGSS US Usotwenes Quevemm`,
   },
   {
     id: 683, tantraId: 3, verseNumber: 682,
@@ -2451,6 +3701,13 @@ Parasakti resides palpably within;
 And all Tattvas flee
 When he is for a year thus,
 He attains the power to transmigrate into alien bodies.`,
+    elaborationEnglish: `Mantras 682 & 683
+
+A year after attaining prapti siddhi, prakamyam is reached.
+Prakamyam is the power to transmigrate into another body.
+It is the mastery over the element water. Here the ” yogi is
+suffused with the light of nada, and visions the Sadasiva Sakti
+with her army of bhutas.`,
   },
   {
     id: 684, tantraId: 3, verseNumber: 683,
@@ -2469,6 +3726,17 @@ That Light is already within in Muladhara;
 With it they can see the Light of Nada above;
 Them who thus seek
 The Light Above leads to Liberation effortless.`,
+    elaborationEnglish: `1) Prakamya — The traditional interpretations are: 1) ‘‘The
+capacity to derive enjoyment from everything heard or seen;"’
+2) “The power to exercise an irresistible will upon the minds
+
+of others;’’ 3) ““The power to obtain more than one expects;””
+4) ‘‘The power to enter into the body of another;’’ 5) ““The
+power to maintain a youthful appearance for an unusual length
+of time.’’ It is the mastery over the element water,’’ the
+emotional or astral plane —- G.H. Mees, op.cit.
+
+SCT OT LL SLI LIGHL WEN sTOVeUITA!`,
   },
   {
     id: 685, tantraId: 3, verseNumber: 684,
@@ -2485,6 +3753,15 @@ A year rolls by after the Siddha attains Prakamya
 And he perseveres in his adoration
 Then he visions Sada Siva Sakti and Her hosts of Bhutas
 And attains Isatva.`,
+    elaborationEnglish: `And attains Bhutas Isatva.
+
+Mantras: 684-686
+
+A, year after attaining prakamyam siddhi, ‘isatva siddhi is
+attained. Isatva consists in the power to control and create.
+It is the power of mind over maya. He becomes the moon’s
+Tays, its cooling softness, acquire moon’s kalas, and himself
+the moon becomes.`,
   },
   {
     id: 686, tantraId: 3, verseNumber: 685,
@@ -2534,6 +3811,18 @@ If within the cool kala of the moon
 The Siddha contains the elements five
 In a year shall he attain
 The power rare to perceive the True One.`,
+    elaborationEnglish: `In a year shall he attain
+The power rare to perceive the True One.
+
+Mantras 687-689
+
+A year after attaining isatva comes vasitva or the power to
+perceive the True One. He can become immanent like God
+in all that comes within his reach. He becomes radiant like
+the sun. His body gleams golden. His sense organs die; he
+visions the Narkodi Sakti (Sakti of Glorious Vine).
+
+ars ssaub`,
   },
   {
     id: 689, tantraId: 3, verseNumber: 688,
@@ -2550,6 +3839,15 @@ That power rare to perceive the True One
 Is the divine Siddhi that is Vasitva
 In beings all that come within his reach
 He immanent becomes like God Himself.`,
+    elaborationEnglish: `Vasitva — The traditional interpretations are: 1) *“The power
+of command and control, resulting from non-attachment to
+objects: 2) **Self-control;’’ 3) “*Self-restraint and power over
+the elements.”’ Indeed, it is the power which controls maya,
+and the achievement of that power, controls and restrains
+the All contained in the ‘self, and the Self contained in the
+All —°G.H. Mees, op. cit.
+
+Qursieabu sre Ywersex Gurude.`,
   },
   {
     id: 690, tantraId: 3, verseNumber: 689,
@@ -2569,6 +3867,7 @@ Golden becomes his body
 Dead his sense organs,
 And he visions the goodly Sakti
 That lke a Tender Vine appears.`,
+    elaborationEnglish: `QurpOsry wihw yarcatiscr Cumwougym`,
   },
   {
     id: 691, tantraId: 3, verseNumber: 690,
@@ -2589,6 +3888,35 @@ He attains the powers to visit worlds all,
 That hang from the golden stalk of the Cosmic Flower;
 Sitting inert like a flag of stone
 Attains Siddhi Kamarutattva (Kamavasayitva).`,
+    elaborationEnglish: `Kamaru tattva — The- traditional interpretaions are: 1)
+“Consummation of any and every desire;’’ 2) **The power
+of suppressing desire;’’ 3) ‘“‘It is the achievement of the
+fulfilment of the heart’s supreme desire, which is liberation
+from. bondage and the salvation from suffering by the
+annihilation of all desire.’’ It is God-realization. It is the power
+which subdues the primordial kama or desire, the primal cause
+of existence... It is nirvana — G.H. Mees, op.cit.
+
+On the other hand, kamavasayitva is defined as attainment
+of whatever I desire’ (Srimad Bhagavata, quoted in
+“Principles of Tantra,”’ edited by Arthur Avalon) — Vide
+“Lights On Tantra’’ by M.P. Pandit, p.96. In this account
+there is no reference to garima as a siddhi.
+
+Also referred to as ‘sarva kama siddhi’ — in Bhavanopanisad
+of Bhaskararay2, as quoted in ‘Sri Chakra’ by S.
+
+Mantras 690-692
+
+A year after attaining vasitva, the siddha attains kamaru tattva
+or kamavasayitva siddhi. This is the power to visit all the
+worlds that hang from the golden stalk of the cosmic flower
+He receives the power to pervade, like the flower’s fragrance;
+in space. He is transformed into mayasakti, and he visions
+the light of the Divine Mother. He visits the myriad worlds
+and then sees the light of Supreme Siva.
+
+bing yoroear OnwshG wiresorrus`,
   },
   {
     id: 692, tantraId: 3, verseNumber: 691,
@@ -2607,6 +3935,7 @@ As unto the flower's fragrance in Space all
 Divine Fragrance yours shall be;
 Transformed unto Maya Sakti,
 You shall be the Lord of Light we adore.`,
+    elaborationEnglish: `Gute Loicr yucrmacr sosrt ot`,
   },
   {
     id: 693, tantraId: 3, verseNumber: 692,
@@ -2640,6 +3969,18 @@ He who has mastered the Siddhis eight high.
 Will be the Lord of globe entire,
 Gleaming shall be his garland of victory
 And His breath shall turn to peerless light.`,
+    elaborationEnglish: `Will be the Lord of globe entire,
+Gleaming shall be his garland of victory
+And His Prana shall turn to peerless light.
+
+When the yogi attains the eight siddhis, he will verily be the
+lord of the world. He will be its beacon-light. He will sport
+the gleaming garland of victory. His Prana shall turn into
+peerless light.
+
+STVS! HED. GWG) sorspyr it
+
+STV QHD DorGuss epcropy sy`,
   },
   {
     id: 695, tantraId: 3, verseNumber: 694,
@@ -2657,6 +3998,9 @@ Is through Sakti of the Tender Vine
 Prana pervades the five hundred then the ten.
 And then the three nadis
 And Sakti pervades Prana entire.`,
+    elaborationEnglish: `Prana pervades in five hundred-and-odd nadis; then the ten;
+then the three. When fhese eight siddhis are attained, Sakti
+pervades the prana and that prana mingles in jiva.`,
   },
   {
     id: 696, tantraId: 3, verseNumber: 695,
@@ -2673,6 +4017,8 @@ Inside the head ambrosia flows like a river
 In nadi channels a thousand three hundred and five in number
 The adharas are the Way to the thousand petalled Sahasrara;
 The twin breaths Idakala and Pingala shows the Way.`,
+    elaborationEnglish: `Prana breath draws the nectar within the sahasrara. When
+it pervades the nadis, the nectar flows.`,
   },
   {
     id: 697, tantraId: 3, verseNumber: 696,
@@ -2692,6 +4038,19 @@ As breath in double ascends further
 There is the Sahasrara of thousand petalled lotus;
 And on it are the Letters Fifty and One
 That in time became the Letters Five.`,
+    elaborationEnglish: `The ajna chakra between the eyebrows is the twin-petalled
+centre. There Sadasiva Sakti is seated. When the twin breaths,
+idakala and pingala, ascend beyond the ajna chakra, the
+
+109
+
+sahasrara, the thousand-petalled lotus, is reached. On it are
+inscribed all the Fifty-One Letters. The Fifty-One Letters in
+time become the Five Letters. (Na Ma Si Va Ya).
+
+AGFA MHF Guys wong
+
+AGFZ wor oars eurulgw`,
   },
   {
     id: 698, tantraId: 3, verseNumber: 697,
@@ -2710,6 +4069,19 @@ Without the five-lettered mantra
 No ascension is,
 From the twin petalled Center to the thousand petalled;
 The Five Letters in time the One Letter become (Aum).`,
+    elaborationEnglish: `Mantras 697 & 698
+
+Sadasiva Nayaki, who is seated in the ajna centre as five
+awe-inspring faces and holds ten deadly weapons. Without
+the aid of the. Five-Lettered mantra. there is no ascension
+from the two-petalled ajna centre to the thousand-petalled
+sahasrara. The Five Letters in time become the one letter,
+Aum. In the sahasrara is the QneBeing, Tattva Nayaki. When
+the twin breaths pass beyond the. twin-petalled ajna centre
+it begins to flow in a single 3tream through the Sushumna
+cavity; then is the sahasrard reached.
+
+earns QeucrAGQsrcar suob x lob`,
   },
   {
     id: 699, tantraId: 3, verseNumber: 698,
@@ -2728,6 +4100,22 @@ When breath ascends united through Spinal Cavity
 Then will that one breath reach the thousand petalled Sahasrara;
 Think of Her,
 A thousand year shalt thou live.`,
+    elaborationEnglish: `A thousand year shalt thou live.
+
+Sakta-Tantra -is closely linked with Nada or varna concepts,
+varna referring to letters of. the alphabets. (Varna-mala is a
+garland of letters, said to be worn by Sakti). Sir John Woodroff
+has explained this concept in his Varna-mala’’ In this
+philosophy, the concept of pancakshara or five’ letters
+(principal) plays an important, part. This ‘five-letter mantra’
+is not the same as ‘‘Om Namasivaya’’ which is the 5-lettered
+mantra of pure Saivism
+
+Mantras 698 & 699
+
+These also deal with ‘*Sakti-Tantra’’.
+
+Yagpnb gbhug Ogsreipiar sqerwri`,
   },
   {
     id: 700, tantraId: 3, verseNumber: 699,
@@ -2745,6 +4133,20 @@ Reaches the Kalai Nayaki in Sahasrara;
 And there it merges with the letters Fifty and One
 And then with the Letters Five
 That the final end of Prana art.`,
+    elaborationEnglish: `Coursed upwards-through Sushumna
+
+Reaches the Kalai Nayaki in Sahasrara;
+
+And there it merges with the letters Fifty and One
+And then with the Letters Five
+
+That the final end of Prana is.
+
+The prana that reaches sahasrara meets the kalainayaki, and
+merges with the Fifty-One Letters; then with the Five Letters.
+Prana that merges in that sakti remains exalted.
+
+QiaGg suny sorliug, Derdedigd`,
   },
   {
     id: 701, tantraId: 3, verseNumber: 700,
@@ -2761,6 +4163,7 @@ The life breath that rose with the Tani Nayaki
 Filled the nadis five hundred and thirty nine
 (Before it upward coursed)
 And remained in Sakti, total absorbed.`,
+    elaborationEnglish: `Qosiby wiusy wagrier a@emis`,
   },
   {
     id: 702, tantraId: 3, verseNumber: 701,
@@ -2777,6 +4180,9 @@ When the precious prana reached Siva
 It pervaded the nadis two hundred and thirty three
 And in the Letters Five
 Where Prana finally merges.`,
+    elaborationEnglish: `awAsipn cury Orwg Oeradar
+
+THD Hous Osresur orgs eres`,
   },
   {
     id: 703, tantraId: 3, verseNumber: 702,
@@ -2795,6 +4201,17 @@ Where Kundalini fire is,
 How Prana Pervaded the Nadis
 The Prana that reaches Sakti
 Emanating fro`,
+    elaborationEnglish: `In ali, by the time the prana travels from the four-petalled
+muladhara to the thousand-petalied sahasrara, it will have
+pervaded 729 nadis within.
+
+This verse introduces the concept of the general topic knqwn
+as “Varna Mala’’ by describing how ‘*Prana’’ (the vital
+principle), merges in the Letters Five (to be described in
+
+Apg s1A0sre3 yosb Deans OOw -
+
+ecig 610961687 yLams Outs stor`,
   },
   {
     id: 704, tantraId: 3, verseNumber: 703,
@@ -2812,6 +4229,54 @@ Then will nectar be;
 Then Prana reaches the Seventh Center of the Sun
 And further onward proceeds to the Eighth Center of the Moon
 In the Ninth Center Prana attains Samadhi.`,
+    elaborationEnglish: `> Mantras 703 & 704
+
+Beyond the sahasrara when the prana breath reaches the peaks
+of the sun and moon, the yogi attains samadhi.
+
+This is a unique contribution of Mular who teaches that Prana
+after crossing the 6th adhara, then passing the 7th (which
+is the Sun centre), and then the 8th (the Moon centre) finally
+attains Samadhi.
+
+In Samadhi Yogi Visions Light Divine
+
+The Moon and the Sun are in the Uncreated Being
+The Yogi that visions the Moon at the. mystic
+junction
+
+Nadis three
+
+Is in Light merged;
+
+He, attains Samadhi,
+
+That had its beginning at the Navel Centre.
+
+AMTHEHO asvauwur ejror WNGSS0
+
+ResmHsh HNGorgevarn Caisse HSC. 705.
+
+Conduct of Aspirant For Yoga Samadhi
+
+To give up thoughts of women
+
+To think no more of kith and kin
+
+To be meek in learning
+
+To abound in jnana
+
+To be sparing of speech
+
+To listen to deeds of Siddhi
+
+To sit unruffled ~
+
+—These the ways of the aspirant of yoga samadhi.
+
+Qoomes Getty QosGsrts sfhssa
+AWerc Ham curgsereap Couppr`,
   },
   {
     id: 705, tantraId: 3, verseNumber: 704,
@@ -2867,6 +4332,13 @@ He confers paradise to the dead
 He assumes form divine of Gods
 He becomes learned in the twenty-one branches of Sivagamic lore
 He who has mastered the Science of Breath.`,
+    elaborationEnglish: `* He who has mastered the Science of Prana.
+
+He who attains samadhi vanquishes age and death, acquires
+the power to transmigrate at will, to confer paradise to the
+dead; to assume the divine form of God, and is a master
+of the twenty-one branches of Sivagamic lore.
+urgmeacr Garey BL BgILb Liweflcvencw`,
   },
   {
     id: 708, tantraId: 3, verseNumber: 707,
@@ -2904,6 +4376,7 @@ Para Bindu and Para Nada
 In that ascending order
 They all seek
 Feet of Para-Para Beyond.`,
+    elaborationEnglish: `bsrot smueng Coad vusQern@`,
   },
   {
     id: 710, tantraId: 3, verseNumber: 709,
@@ -2925,6 +4398,65 @@ Ascend yet beyond
 There lies the region of Effulgent-Light;
 Yet above it is bliss
 Defying speech and thought.`,
+    elaborationEnglish: `Adhara yoga consists in worshipping the appropriate God at
+each of the centres, and ascending them one after another.
+In the sahasrara region eventually to be reached are Sakti
+and Siva with the 16 kalas in the mystic moon. Ascending
+still beyond is jnana, the light divine. Yet beyond this is
+unalloyed bliss, defying speech and thought, and which is
+reached through niradhara yoga.
+
+Each of the successive adharas (chakras) has its presiding
+deity — in muladhara, Brahma, in svadhishtana, Vishnu; in
+
+manipura, Rudra; in anahata, Mahesvara; in vishuddhi,
+Sadasiva; in ajna, the apara bindu; in sahasrara, the paranada,
+Sakti and Siva. Still beyond are the parabindu, the paranada,
+Parasakti and Parasiva, and finally there is the Space. Thus,
+in effect, the centres are eleven in number. Only the first
+six are known as adharas or centres, and piercing them by
+kundalini yoga and reaching the seventh is known as adhara
+yoga. When the prana ascends further beyond to the next
+four centres above the seventh — they are known as ‘sthanas’.
+When prana reaches the Paraparam in the Space this is known
+as ‘dvadasanta’ or the ‘twelfth end.” Prana’s ascension beyond
+sahasrara to the dvadaSanta space; known as niradhara yoga.
+
+By ‘Niradhara’’, Mular apparently means beyond the
+“‘adharas”’ of the body.
+
+Each of the adharas or centers within has a presiding deity:
+In muladhara is Brahma seated;
+In svadhishtana is Vishnu;
+
+In manipuraka is Rudra; ~
+
+anahata is Mahesvara;
+
+In visuddhi is Sadasiva;
+
+In ajna is Bindu (apara);
+
+—
+a
+
+Coursing the kundalini through these six centres and
+reaching the apara nada sakti and Siva in sahasrara is adhara
+yoga.
+
+Beyond are the categories para bindu, para nada, Parasakti,
+and Parasiva, These categories are the presiding deities of
+the eighth. ninth, tenth and eleventh sthanas. They are not
+centres as are met with in the lower adhara yoga.
+
+. Yet still beyond is the twelfth sthana where Paraipara is
+in the Space. That is the ‘ultima thule.’ It is known as
+dvadasanta Space’ (the twelfth end). Ascension from sahasrara
+to dvadasanta Space belongs to ‘niradhara yoga.’ This gives
+the eternal bliss that defies thought and speech:
+
+HAs udugout Osreveur oreuracir
+Mug DewAGdm Ouowwy wrraeu`,
   },
   {
     id: 711, tantraId: 3, verseNumber: 710,
@@ -2942,6 +4474,10 @@ Through Nadis breath in one flowing Moon and Sun
 Become Beings Celestial;
 To them who perform it unceasing true
 The Lord Himself reveals.`,
+    elaborationEnglish: `Mantras 710 & 711
+
+To the yogis, the Lord reveals Himself. They become
+pervasive, immanent and deathless.`,
   },
   {
     id: 712, tantraId: 3, verseNumber: 711,
@@ -2960,6 +4496,19 @@ They who pierce the Mystic Lotus
 Sending breath up through spinal column
 And taste of its fragrant nectar
 Will never death know.`,
+    elaborationEnglish: `EE
+
+They who pierce the Mystic Lotus
+Sending breath up through spinal column
+
+And taste of its fragrant nectar
+Will never know death.
+
+STsQ apes saren sd ores
+
+arse anp@suig sorenim CEréhuy.H
+
+S759 apOeig stios apsou`,
   },
   {
     id: 713, tantraId: 3, verseNumber: 712,
@@ -2994,6 +4543,9 @@ Impregnable then you shall be;
 Impregnable shall be your cognition organs four;
 Impregnable shall be Kalas six and ten of the Moon within;
 Impregnable shall be the Prana that is of life breath.`,
+    elaborationEnglish: `“Ultimate Thule’ is “‘the farthest limit or point possible
+geographically’’.
+save pam sorticou spuled`,
   },
   {
     id: 715, tantraId: 3, verseNumber: 714,
@@ -3015,6 +4567,13 @@ How the Lord stood commingled with Kalas
 Know the Way True;
 Even those in despair
 Will espouse that Way.`,
+    elaborationEnglish: `it is important in yoga practice that the prana is kept up,
+in a steady rhythm, unwavering as a still stone. This comes
+only by anchoring the thought on the Lord. By steadying of
+the prana, the vision of the Lord who wears the moon that
+has 16 kalas is obtained.
+
+tyr Quis PearIOud Wyss Dorencsr`,
   },
   {
     id: 716, tantraId: 3, verseNumber: 715,
@@ -3033,6 +4592,8 @@ The Lord of Bhuta hordes,
 Sankara of matted locks
 Appears before you
 Mounted on the Sacred Bull.`,
+    elaborationEnglish: `Kala is a Sakti Tantric term; the nature and evolution of Kalas
+is explained by Sir John Woodroffe in his **Varna-mala™`,
   },
   {
     id: 717, tantraId: 3, verseNumber: 716,
@@ -3052,6 +4613,7 @@ Through the single channel Sushumna
 To the void in cranium
 There he stands, all conflicts resolved,
 He truly is the Sadhaka.`,
+    elaborationEnglish: `Gurs6 oral ysgol undiéFlosmed`,
   },
   {
     id: 718, tantraId: 3, verseNumber: 717,
@@ -3088,6 +4650,13 @@ In single stream through spinal nadi;
 And then spreads into cranial space
 For the lotus there to blossom
 And finally merges into the Divine Flame there.`,
+    elaborationEnglish: `In single stream through spinal nadi;
+
+And then spreads into cranial space
+
+For the lotus there to blossom
+
+And finally merges into the Divine Flame there..`,
   },
   {
     id: 720, tantraId: 3, verseNumber: 719,
@@ -3107,6 +4676,16 @@ And She who created the worlds of Devas
 Churned the mystic ambrosia within;
 Drinking deep of it
 This body became Siva's temple.`,
+    elaborationEnglish: `Mantras 719-721
+
+Kundalini yoga turns the body into a temple of Siva. The
+guru’s guidance is essential for knowing how to course the
+prana through the successive adharas. The guru alone can
+guide this upward journey.
+
+Heap ugGu Osis sumy
+
+apuybd uncou 9A559c 559`,
   },
   {
     id: 721, tantraId: 3, verseNumber: 720,
@@ -3124,6 +4703,16 @@ None knows how it merges
 When you know how it merges
 Then can you reach the region
 Where Nandi holds His sway.`,
+    elaborationEnglish: `In Kundalini yoga, the body becomes the *““Temple of Siva,”
+that is Siva comes to dwell there. Mular’s message that
+Kundalini Yoga turns the Body into Temple of Siva is a very
+vital one and has had very fruitful*outcome in Temple art,
+whose basic design resembles the pathway to the
+“*garbhagrha’’, which corresponds to the position of the heart
+of the human body.
+
+Gsrgacr scree gels srevtcurp
+Brsab pruf gonchh Auger`,
     transliteration: `cōtaṉai taṉṉil turicaṟik kāṇalām
 nātaṉum nāyaki taṉṉiṟ piriyunāḷ
 cātaṉa mākuṅ kuruvai vaḻipaṭṭu
@@ -3154,6 +4743,26 @@ Prana leaving the Kundalini Sakti
 On its upward journey through Sushumna;
 That you gain through the Guru guiding;
 Take that as treasure precious gained.`,
+    elaborationEnglish: `Gurr sly Quigesrcr acdedGre
+
+immortality Through Samadhi Yoga
+
+The breath that arose twelve matras long,
+
+If you control and absorb within,
+
+Well may you live thousands upon thousands of
+years on land and sea
+
+The body perishes not;
+
+True this is,
+
+Upon Lord Nandi I declare.
+
+gare gapb gailulerscm gms
+Brauer epernwbd Braid QreOs
+CGsAys Cseays sorefh DMuypsreir`,
   },
 {
     id: 723, tantraId: 3, verseNumber: 722,
@@ -3193,6 +4802,10 @@ Three odors he smells,
 Two tastes he knows
 Thus has the Lord of Light
 The symptoms indicated.`,
+    elaborationEnglish: `13. snwAgH 2 rind
+WAY TO KAYASIDDHi
+
+Driwour Oowerejroes Gegay want`,
   },
   {
     id: 725, tantraId: 3, verseNumber: 724,
@@ -3209,6 +4822,27 @@ If the body pershes, so does Prana
 Nor will the Light of Truth be reached;
 I learned the way of preserving my body
 And so doing, my Prana too.`,
+    elaborationEnglish: `Nor will the Light of Truth be reached;
+I learned the way of preserving my body
+And so doing, my Prana too.
+
+Mantras 724 & 725
+
+Time was when I despised the body. Then I realised that
+the body is God's temple. If the body perishes, so does prana.
+
+So I began to preserve my body with infinite. care, and I
+saw God within. -
+
+This is one of the most important contributions of Mular: to
+Tamil life and culture, brought from the north. The body,
+~ according to Kaya Siddhi (Kaya - body) provides the best,
+and probably the only medium for attaining “*moksa’’, and,
+therefore, it has to be kept always in perfect trim through
+
+yoga.
+
+aruvays GorGar yQQuTgGe soir GL or`,
   },
   {
     id: 726, tantraId: 3, verseNumber: 725,
@@ -3226,6 +4860,9 @@ But then I saw the God within
 And the body, I realised, is the Lord's temple
 And so I began preserving it
 With care infinite.`,
+    elaborationEnglish: `\\
+
+Syp5 wagasé swwgagu Ws`,
   },
   {
     id: 727, tantraId: 3, verseNumber: 726,
@@ -3245,6 +4882,7 @@ And make it pervade the nadis entire;
 They who can do this
 Will gain a body
 That no fire can burn.`,
+    elaborationEnglish: `Ge Gey sroowlh OFiGyH DSsmid`,
   },
   {
     id: 728, tantraId: 3, verseNumber: 727,
@@ -3264,6 +4902,8 @@ At noon leaves the wind that is treacherous;
 At dawn practised, the bile leaves;
 Thus all poison from body expelled
 And you shall know no greying, nor wrinkling.`,
+    elaborationEnglish: `pee waged unbidger OM Gar
+Gato DQugOrd usrahgeis trig`,
   },
   {
     id: 729, tantraId: 3, verseNumber: 728,
@@ -3283,6 +4923,17 @@ When the two bags of spiration
 Are tight controlled,
 And you sit in meditation unwavering
 The body perishes not ever.`,
+    elaborationEnglish: `Mantras 728 & 729
+
+The yogi who controls inhalation and exhalation in prescribed
+measure shall live beyond a hundred years.
+
+Kaya means the body, and Kaya-Siddhi is the Tantric way
+of obtaining spiritual powers through disciplines connected
+with the body.
+
+BIOS AMuglbd smpbd Or_wags
+Sob wpiuged mow +rHA`,
   },
   {
     id: 730, tantraId: 3, verseNumber: 729,
@@ -3301,6 +4952,7 @@ And then reverse the rhythm
 If you do it in alternation thus
 You shall live long
 A hundred and sixty six years.`,
+    elaborationEnglish: `DSBS5 msg Augyd QuchiuGe`,
   },
   {
     id: 731, tantraId: 3, verseNumber: 730,
@@ -3320,6 +4972,13 @@ And Lord Siva will Himself reveal
 Dancing to rhythmic music;
 This we declare true
 In the name of Sadasiva.`,
+    elaborationEnglish: `In the body-temple, the sakti is seated. If breathing is
+practiced from right to left and vice versa in alternation, the
+yogi will hear mystic sounds. In the forehead centre (ajna),
+Siva will reveal Himself dancing to rhythmic music.
+
+ApsDob Ass Gow wens
+(youGun Gaflecrs Garg sanz`,
   },
   {
     id: 732, tantraId: 3, verseNumber: 731,
@@ -3339,6 +4998,7 @@ Lives the sound "Sa"
 Together they become the mantra "Soham"
 The yogi who silent chants it while breathing
 Sure attains the Holy Way.`,
+    elaborationEnglish: `YD Ys yc Hy SH Butea`,
   },
   {
     id: 733, tantraId: 3, verseNumber: 732,
@@ -3356,6 +5016,15 @@ By meditating and chanting Siva mantra;
 Retain that breath in the Ajna frontal
 Then rouse the apana breath by meditation;
 That way you Siva become.`,
+    elaborationEnglish: `‘Rouse the prana that resides in the navel centre by chanting
+Siva mantra in silence. Course it upwards to sahasrara.
+Similarly do with apana. Centre the thought on muladhara.
+There resides the Lord Supreme of all the six adharas.
+The inhalation and exhalation of breath is referred to as
+Hamsa (Otherwise meaning the Swan) made up of the two
+syllables ‘Ham’ and ‘Sa’, which are also sometimes reversed
+to read Sa Ham, or “*‘Soham’’. This is also part of the
+Nada _ philosophy.`,
   },
   {
     id: 734, tantraId: 3, verseNumber: 733,
@@ -3393,6 +5062,15 @@ With the azure-hued Sakti within
 Will shed greying and wrinkling
 And regain youth for all to see;
 This I say is true, by Nandi the Great.`,
+    elaborationEnglish: `With the azure-hued Sakti within
+
+Will shed greying and wrinkling
+
+And regain youth for all to see;
+
+This I say is true, by Nandi the Great.
+
+erty FGHanh Donec hlenovQupb`,
   },
   {
     id: 736, tantraId: 3, verseNumber: 735,
@@ -3413,6 +5091,12 @@ If food is eaten sparingly
 Many the good that flow;
 You may verily become
 The Lord of Dark-Hued throat.`,
+    elaborationEnglish: `Abstain from sexual union. Abstention thickens thé seminal
+seed. It will never be dried up. Lighten your body by ausiere
+discipline. Long shall you live. If food is eaten sparingly, many
+are the good things that flow.
+
+Oeri ssn 29m Wpsser suena`,
   },
   {
     id: 737, tantraId: 3, verseNumber: 736,
@@ -3430,6 +5114,17 @@ Is sent upward often to reach the space in cranium,
 Comely your body becomes;
 A desire-object for damsels bedecked with flowers
 Around which bees swarm humming.`,
+    elaborationEnglish: `Mantras 736,738 & 739
+
+Kundalini yoga, practised regularly, confers comeliness and
+
+youthfulness. The yogi will frisk like a tender fawn. He who
+
+attains kayasiddhi will flourish like a seed of paddy
+
+transplanted in a million, million fields.
+
+Apsbh Qrsssaicr smRust rect`,
   },
   {
     id: 738, tantraId: 3, verseNumber: 737,
@@ -3449,6 +5144,9 @@ If you vision His Holy Feet,
 Decked with triumphal anklet
 You shall for ever live
 In the canopied terrace above.`,
+    elaborationEnglish: `grcracat anys sfg —HEpGsr@wb
+
+Osnest. questa wagers`,
   },
   {
     id: 739, tantraId: 3, verseNumber: 738,
@@ -3466,6 +5164,30 @@ The Prana I kindled and coursed through Centers seven
 Pervades the body entire;
 With divine life that suffuses the fleshly body as ambrosia;
 I grow unto a tender fawn.`,
+    elaborationEnglish: `-Pervades the body entire;
+
+“ae. Vith divine life that suffuses the fleshy body as
+a ia;
+
+I grow unto a tender fawn. as
+
+: rraict Over susrtAerm Gprenweows
+
+-
+
+el of Time or Kala Chakra”
+
+In this chapter, Mular deals with the ordinary nature of time as
+
+aphenomenon. But the term ‘‘Kala Chakra’’ has a more specific
+
+_ connotation in Tantricism. It is a powerful yantra with very
+
+_ well-reasoned philosophical basis.” This is what Mular has‘in
+_ mind when he talks of ‘*Kalanta’’ as one of the six antas.
+
+Bard DIS ASNIOWSS GT
+: OsIL yi Bon pwths NscarMH`,
   },
   {
     id: 740, tantraId: 3, verseNumber: 739,
@@ -3503,6 +5225,12 @@ Leaving this I reach the Region of the Great Void of Twelve
 That lies in the Sphere of Pati Supreme;
 And from thence I pass on to the Farthest Beyond
 --These I seek to search here.`,
+    elaborationEnglish: `| lies in the Sphere of Pati Supreme;
+from thence I pass on to the Farthest Beyond
+I seek to search here.
+
+DP oupgibd cemitsh cmGnapei
+Aan Oe saps Qouncirugyd`,
   },
   {
     id: 742, tantraId: 3, verseNumber: 741,
@@ -3533,6 +5261,31 @@ Knowledge that comes from attachment that is tenth
 --Thus does knowledge that comes in diverse ways,
 But erode life span in succession;
 Knowing this not, they perish away.`,
+    elaborationEnglish: `Meditation on Appropriate Mantra to Attain Kaya
+Siddhi
+
+If you in ardour pursue
+
+The search for power to acquire Kaya Siddhi,
+You shail flourish far and wide,
+
+Like a seed of paddy planted
+
+In a‘million, million fields;
+
+Do you therefore meditate single-minded
+
+On the mantra that conquers Fate.
+
+14. SFO F557
+
+But erode life span. in succession;
+Knowing this not, they perish away.
+
+Knowledge comes in diverse ways. Through the senses,
+through discrimination, through judgement, through
+experience, through attachments — coming through all these
+in succession, knowledge erodes the life span.`,
   },
   {
     id: 743, tantraId: 3, verseNumber: 742,
@@ -3552,6 +5305,10 @@ From sixty to sixty two
 From hundred and beyond
 These are the critical ages in man's life span;
 When death may visit him.`,
+    elaborationEnglish: `Many are the critical years in the life of man when -death
+may assail him. 13, 33, 62 and beyond that, any time upto
+100 and over, are considered as critical years in a man's
+life. iB :`,
   },
   {
     id: 744, tantraId: 3, verseNumber: 743,
@@ -3569,6 +5326,14 @@ Any one of these is day appropriate for commencing yoga;
 Find the day suitable most,
 And easy shall be your entry
 Into the Mystic House within.`,
+    elaborationEnglish: `And easy shall be your entry .
+Into the Mystic House within.
+
+There are appropriate days for. commencing yoga. The
+birthday of the practitioner, and the Ist 2nd, 3rd and 8th
+day following it are considered suitable. If he chooses a
+suitable day, his entry into the mystic house within will be
+easy.`,
   },
   {
     id: 745, tantraId: 3, verseNumber: 744,
@@ -3589,6 +5354,13 @@ Exhale eight matra consciously
 The four matras retained
 Are in the six adharas to suffuse
 And thus breathing examine the Tattvas twenty and five.`,
+    elaborationEnglish: `Yoga consists in the following: inhalation of 12 matras;
+exhalation of eight matras; retention of four matras. Breathirig
+
+in this measure continuously, yoga suffuses the six adharas
+with prana which ascends beyond the 25 tattvas.
+
+Garon 5.55 Garssrom® apalgosr`,
   },
   {
     id: 746, tantraId: 3, verseNumber: 745,
@@ -3606,6 +5378,13 @@ Beyond the barriers of Tattvas twenty and four is He;
 Beyond the twenty and five Tattvas is His Guna
 Beyond the six adharas that rise like the spreading banyan tree is He,
 Who ever does know Him!`,
+    elaborationEnglish: `Mantras 745 & 746
+
+Ged is beyond the six adharas and the 25 tattvas. After the
+kundalini has been roused, it takes 20 days for a good
+practitioner to pierce the six adharas; on the 2Sth day, his
+prana reaches the fire mandala; on the 26th day, the solar
+mandala; ci the 27th day, the lunar mandala.`,
   },
   {
     id: 747, tantraId: 3, verseNumber: 746,
@@ -3625,6 +5404,7 @@ Twenty-fifth day Seventh Center of Fire Mandala
 Twenty-sixth day the Eighth Center of Solar Mandala
 Twenty-seventh day the Ninth Center of Lunar Mandala
 --These the days for yogi's Prana to reach Centers nine.`,
+    elaborationEnglish: `‘nine.`,
   },
   {
     id: 748, tantraId: 3, verseNumber: 747,
@@ -3644,6 +5424,9 @@ You gain their collective vision;
 Do Center your thoughts further
 And vision the tattvas twenty and four
 That to Earth and the rest of elements in order belong.`,
+    elaborationEnglish: `On the 28th day the yogi obtains the vision of the three
+mandalas, each apart; and on the 33rd day, he gains their
+collective vision.`,
   },
   {
     id: 749, tantraId: 3, verseNumber: 748,
@@ -3663,6 +5446,9 @@ Much less to near Him;
 No other secret the Vedas hold
 Trumpet this not;
 But in meekness accomplish it.`,
+    elaborationEnglish: `Let the yogi practise in successive stages; then he approaches
+God. Kindle the kundalini lamp within. Search for God with
+that biazing torch. That alone is the way to the goal.`,
   },
   {
     id: 750, tantraId: 3, verseNumber: 749,
@@ -3682,6 +5468,8 @@ They search with blazing torch
 While within them is the hand-lamp
 They who can kindle the Kundlini Fire within
 Will abide ever in this fleeting world.`,
+    elaborationEnglish: `They who can kindle the Kundalini Fire within
+Willi abide ever in this fleeting world.`,
   },
   {
     id: 751, tantraId: 3, verseNumber: 750,
@@ -3704,6 +5492,19 @@ When you journey further onward
 To the three Centers that end with Forehead
 You shall firm be
 As unto a picture painted.`,
+    elaborationEnglish: `Mantras 750 & 751
+
+The six adharas may be reached in two successive stages of
+three each. Traversing the first three, reach the heart centre;
+then from the heart centre, journey to the forehead centre.
+Be firm as a painted picture. Keep erect the spinal column.
+The body is evil karma’s product. Yet it possesses the precious
+stalk that holds the mystic lotuses. Through its central nadi,
+the sushumna, perfect consciousness is reached.
+
+eau wret cyostens 9 i ierser
+
+Bloor wiper wom wv apamaGw`,
   },
   {
     id: 752, tantraId: 3, verseNumber: 751,
@@ -3752,6 +5553,11 @@ Through their spinal hollow.ay that vision
 Saw the end of Karmas;
 Those who saw that not;
 But die to be born again.`,
+    elaborationEnglish: `The collective vision of the six adharas and the iriple mandalas
+ends the karmas. Missing that vision, however great the man,
+his body perishes.
+
+VYern® 29:N5DOb Gums Gaarg`,
   },
   {
     id: 754, tantraId: 3, verseNumber: 753,
@@ -3771,6 +5577,8 @@ And like the sun his prosperity spreads;
 And all bow to him in respect;
 A body that waxed in a life like thus
 Became a prey for prowling dogs to consume.`,
+    elaborationEnglish: `SVHay anilet Zinsser sresrrest
+SYM USHOS Soa oerwy`,
   },
   {
     id: 755, tantraId: 3, verseNumber: 754,
@@ -3791,6 +5599,9 @@ They who know the Way
 And seek His Victorious Feet
 See the Heavenly Dancer
 Through their spinal hollow.`,
+    elaborationEnglish: `He who courses the kundalini fire through the spinal column
+will not perish by the cremation fire. He will see the Heayenly
+Dancer within.`,
   },
   {
     id: 756, tantraId: 3, verseNumber: 755,
@@ -3836,6 +5647,18 @@ You well and deep meditate
 The Dancer on top of the Mountain of Gold
 Will appear,
 And You one with Him become.`,
+    elaborationEnglish: `You well and deep meditate
+
+The Dancer on top of the Mountain of Gold
+Will appear,
+
+And You one with Him become.
+
+At the end of 33 days after the kundalini sakti has been
+roused, the yogi may vision the Divine Dancer on the peak
+of the golden mountain (Meru) in the sahasrara.
+
+Gégiourt usHehsd crams Corot`,
   },
   {
     id: 758, tantraId: 3, verseNumber: 757,
@@ -3853,6 +5676,7 @@ They meditate on the tenth Center
 They see the directions eight in rapturous vision
 They glimpse the Lord seated on Lotus,
 And attain radiance a hundred fold.`,
+    elaborationEnglish: `Gerggiio gulseGer Bassa`,
   },
   {
     id: 759, tantraId: 3, verseNumber: 758,
@@ -3887,6 +5711,7 @@ And thus see the mind's end
 And within see Him as Entity Inseparate;
 And as one with Siva they live filled in divinity
 And so see countless ages of Life Exalted.`,
+    elaborationEnglish: `Osugyn annhot Agog corwp`,
   },
   {
     id: 761, tantraId: 3, verseNumber: 760,
@@ -3907,6 +5732,18 @@ Some strive after action
 With no thought of goal whatsoever;
 But none of them will see
 The Sakti of lovely eyes.`,
+    elaborationEnglish: `With no thought of goal whatsoever;
+But none of them will see
+The Sakti of lovely eyes.
+
+Mantras 760 & 761
+
+They who wallow in worldly thoughts have no goal whatsoever.
+They will nevet see Sakti of lovely eyes. They who do not
+vision Sakti will vanish, their riches and possessions
+untraceable.
+
+sre GQ onrant 5y5Gerg0 Gurmres rect`,
   },
   {
     id: 762, tantraId: 3, verseNumber: 761,
@@ -3941,6 +5778,10 @@ They who do not see the Treasure that surpasses all,
 But seek the treasures that perish,
 If within their melting heart they seek inside
 They will see the Treasure that dies not.`,
+    elaborationEnglish: `Seek the treasure within. It is imperishable. If you but seek,
+you can attain the imperishable Siva state.
+
+THT Honsyrm gars cans`,
   },
   {
     id: 764, tantraId: 3, verseNumber: 763,
@@ -3960,6 +5801,8 @@ He in solitariness pervades spaces all
 He stands as Siva, the goal unwavering
 That state you shall attain
 If you but seek.`,
+    elaborationEnglish: `BIL OnTéG soailreaw Cayaeana
+Gs5Laic aontacr Osits Quigg`,
   },
   {
     id: 765, tantraId: 3, verseNumber: 764,
@@ -3980,6 +5823,12 @@ They who seek
 But know this true;
 And well may it be told
 To those that aspire.`,
+    elaborationEnglish: `Great is the fruit of seeking. They who seek know no death,
+no evil. They become lords of earth and heaven.
+
+AQ Qurget sang asngmsar
+
+Csnib OurGgM@g Apasuyor Hors`,
   },
   {
     id: 766, tantraId: 3, verseNumber: 765,
@@ -4000,6 +5849,15 @@ And Mahara or the sound"m"
 Let them through thy Spinal Cavity rise upward;
 The six adharas will then be reached
 And you shall gain the Lord.`,
+    elaborationEnglish: `When practising ycga, chant the mantra ‘Aum’ continuously
+in silence. When you thus chant, as the prana rises through
+the spinal cavity and-courses through the’six adharas, the
+Lord will be reached.
+
+In this verse, Mular introduces us to that most basic and
+important **bija’’ mantra and its relationship to Siva and Sakti.
+
+Hemcaed ARUIb mw pgOancr anrses`,
   },
   {
     id: 767, tantraId: 3, verseNumber: 766,
@@ -4017,6 +5875,13 @@ To them who seek Him
 He resides eternal within;
 When you see the Lord
 He and you one become.`,
+    elaborationEnglish: `The Lord is within you. He resides eternally within you. Seek
+Him. And when you see Him, He and you will become one.
+
+HUM omgEd ume cunilecrona
+Anusha singwb ules Gaarsé
+
+Wushu Gerrans Qatuleyctr HeiralGb`,
   },
   {
     id: 768, tantraId: 3, verseNumber: 767,
@@ -4034,6 +5899,9 @@ This the Way how He and you one become:
 Hearken!
 He stands in your hearing and sight
 He stands in the Mystic Circle within you.`,
+    elaborationEnglish: `He is in your hearing. He is in your sight. He stands within
+the mystic circle within you. It is for you to become one
+with Him.`,
   },
   {
     id: 769, tantraId: 3, verseNumber: 768,
@@ -4051,6 +5919,158 @@ Transfixing your thoughts within you in the yogic way
 The seven circles inside will open
 And you shall see the abode of Lord
 Sweet as sugar-lump.`,
+    elaborationEnglish: `His abode is not beyond reach. Fix your thoughts within. The
+seventh adhara is the abode of the Lord. Inside it He sits,
+sweet as-a lump of sugar.
+
+Six adharas plus the sahasrara.
+
+SNM WIGH sopsscintor Feoners
+
+SIC WIG SVHSL or mussGS. 769.
+Vision of Gods in Adharas
+
+You may see Him as Brahma and Vishnu
+
+You may see Him as Rudra blue-throated and
+Mahesa,
+
+You may see Him as Sakti and Sadasiva
+
+You may see Him within you immanent (in Adharas).
+
+In the adharas. He is seated as Brahtma; as Vishnu; as Rudra;
+as Mahesvara; as Sadasiva and as Sakti. He that is immanent
+thus can be seen by you.
+
+15. guyer uiltone
+
+eagees Ossaldd Cofgrig Gsrapyad
+
+Measuring the Life-Span by observing breath
+
+Put your hand on forehead
+
+And look,
+
+If you see the breath rhythm unchanged
+Well and good;
+
+If you see it enlarged,
+
+Death awaits in six months;
+
+If you see it doubled,
+
+In a month shalt life depart.
+
+Indian astrology has developed a branch of techniques in
+measuring the life span based on observation of the breathing
+rhythm. This is known as ‘saravottam’ in Tamil as introduced
+by Bhoga Siddhar. In Sanskrit, it is known as
+*pavana-saravodaya sastra.”
+
+This is a curious, but nevertheless valuabale,Siddhar concept,
+savouring of fortune-telling. The whole of these three chapters
+deal’ with such’ concepts.
+
+“Learned Indian yogis of yore had critically studied the
+movement of air through the whole respiratory passage during
+inhalation and exhalation. They had discovered that just as
+the current of a river sometimes flows on the oneside, and
+at another time on-the other side, the air also changes sides
+in the nasal passages during inhalation and exhalation. They
+had discovered a close connection between the mental states
+and such sideway. movements of air.
+
+It has been observed that we sometimes breathe through the
+left nostril and sometimes through the right one. The nostrils
+thus work alternately. The left channel for the passage of
+the air is known as ‘ida’ while the right channel is the pingala.
+The left one is known as the lunar channel’ (chandra nadi),
+while the right one is the solar channel (surya nadi). When
+a person has obtained mastery, over pranayama,: and when
+he is physically and mentally heaithy and ready for higher
+spiritual practices, his breathing is from the middle channel
+known as ‘sushumna nadi.’
+
+In the bright half of the month and on the first, second,
+the seventh, eighth, ninth and fourteenth days, and on the
+fuli moon day one breathes through the left nostril in the
+mornings, but every hour this alternates with the right nostril.
+In the remaining days of: the bright half of the month, one
+breathes through the right nostril in the mornings, the direction
+changing every hour, the right and left nostrils alternating.
+
+In the dark half of the month, and on the first day one
+breathes through the right nostril, but alternating every hour
+with the left nostril. Then there is reverse movement every
+third day.
+
+When one breathes through the left nostril — lunar channel
+
+— the breath comes under the invisible influence of the moon’
+
+and such lunar qualities as coolness, steadiness, sobriety,
+discretion, etc., are thus born .or nourished.
+
+When one breathes through the right nostril — solar channel
+— the breath comes under the invisible influence of the sun
+and solar qualities such as heat, light, bravery, dynamism,
+enthusiasm, strength, etc., are thereby born or nourished.
+
+Breathing can be changed from the right nostril to the left
+one and vice versa. The technique is very simple. If you are
+breathing through the left nostril, and you want to breathe
+through the right one, lie down on the right side for sometime.
+If you are breathing through the right nostril and wish to
+
+breathe through the left, lie down on the left side for a short
+time.
+
+When one breathes through the right nostril, one should
+undertake such work which requires greater exertion, eg.,
+walking, running, arguing, physical exercise, eating or cleaning
+the bowels. Ancient Indian medical science advises people to
+rest on the left side after meals so that one breathes through
+the right nostril and the food is thus well digested.
+
+When one breathes through the left nostril, one should
+undertake such work which requires less exertion, such as
+light mental work, discretionary work or work of a permanent
+nature. Sleeping on the right side relieves mental stress, strain,
+and tension and gives more mental rest. In this state of
+breathing, holy activities may be undertaken. This is an ideal
+State for studies as well.
+
+When one breathes through the middle channel, one should
+practise concentration, meditation and spiritual activities. A
+true yogi or for that matter even a perfectly healthy person
+constantly breathes thus and maintains mental peace and
+equanimity even under the most trying circumstances.
+
+Ancient Indian astrology had developed a particular branch
+which was based on this. If one breathes through the left
+nostril and if a person sitting on his left asks if a certain
+work undertaken or to be undertaken would be successful,
+the answer should always be in the affirmative; but if one
+breathes through the right nostril and if a person sitting on
+his left asks if a certain work undertaken or to be undertaken
+would. be successful, the answer should always be in the
+negative.
+
+When one constantly breathes through the middle channel,
+one develops intuition, knows future events, can practise
+
+‘telepathy and transform the personality of others easily. Such
+
+breathing is compared with a mother-in-law who is difficult
+to be pieased but if once pleased becomes an additional
+blessing.
+
+Vide “The Science of Yogic Breathing’’ by Yogacharya
+
+ems MDnossat Ope Flagicr Feb`,
   },
   {
     id: 770, tantraId: 3, verseNumber: 769,
@@ -4106,6 +6126,12 @@ God appears in the heart
 Of them who Nada transcend
 This the truth I realized
 And so merged in Nada.`,
+    elaborationEnglish: `Knowing the breath rhythm is knowing the nada; and nada
+
+and God are one in consciousness.
+
+Go aPAcrp surysncu CpréBy.e
+prGb aeanherm pore wes QO`,
   },
   {
     id: 773, tantraId: 3, verseNumber: 772,
@@ -4123,6 +6149,23 @@ If turned upward to flow
 Will give the good that of fixity of mind comes;
 The Jnana that comes from cranial spaces will beam;
 And the yogi becomes Lord of earth.`,
+    elaborationEnglish: `The breath that is in vain spent
+
+If turned upward to flow
+
+Will give the good that of fixity of mind comes;
+
+The Jnana that comes from cranial spaces will beam;
+And the yogi becomes Lord of earth.
+
+Breath that is spent in vain, if made to course upwards, will
+Bive steadiness of mind. From steadiness of mind will beam
+the jnana that is in sahasrara. The yogi becomes the lord
+of the earth. Se
+
+saad eliiaag smBuuTi Qwan
+SOO Hida wruligad msZwed
+saenm ofi_baas sarap weed`,
   },
   {
     id: 774, tantraId: 3, verseNumber: 773,
@@ -4140,6 +6183,20 @@ Breathing from left to right and right to left;
 He who does it visions Sakti;
 The senses five his way come;
 To a hundred years, he sure lives.`,
+    elaborationEnglish: `To a hundred years,’he sure lives.
+
+Nadi suddhi (purification) is an important practice in yogic
+breathing. It consists in breathing from the. left nostril to the
+right, and from the right to the left in rhythmic alternation.
+Practised carefully, it enables the mastery of the senses and
+confers the vision of Sakti. The yogi can live a hundred years.
+
+Nadisuddhi - a Taniric term: “‘Purification of the nerves. When
+done by ‘‘mantras’’, it is known as Samanu, and when done
+by physical exercises like ‘dhauti’, ctc., it is known as
+
+gpu anode seitugy OseaDNOS
+CGspu ap AMSG aroma Qweea ced od`,
   },
   
   {
@@ -4158,6 +6215,17 @@ To matra six in length,
 Eighty the age you live up to;
 If seven, sixty;
 These two know clearly.`,
+    elaborationEnglish: `Mantras 774-776
+
+If the prana goes outwards in six matra length, eighty shall
+be the age of the subject. If it flows in seven matras outward,
+then he will live up to sixty years. When it is cight matras
+outward, fifty shall be his age. If nine, thirty three; if ten,
+twenty cight; if fifteen, twenty five; and so on.
+
+Qaams aL Ob @rwAun guy
+Atams gobuGs Querc shure
+Asdaams gexugies CerCu Mori cr`,
   },
 {
     id: 776, tantraId: 3, verseNumber: 775,
@@ -4175,6 +6243,8 @@ Through nostril left
 Fifty the age; know you;
 If nine, leaving three matras inside,
 Thirty and three but the age.`,
+    elaborationEnglish: `Gbypapnb gargid wyaqp pHorhyp
+Tarps Braid Qracms wruiplHEGw`,
   },
   {
     id: 777, tantraId: 3, verseNumber: 776,
@@ -4208,6 +6278,12 @@ The ten may you retain inside
 And direct into oneness upward;
 Thus may you practise
 The entire day of thirty naligas!`,
+    elaborationEnglish: `If the yogi practises retention of ten matras for an entire
+day of twelve hours, he shall achieve oneness. He will reach
+the stage of directing the breath into muladhara.
+
+Naligai is a time measure. Two and half naligais make an
+hour.`,
   },
   {
     id: 779, tantraId: 3, verseNumber: 778,
@@ -4226,6 +6302,13 @@ It will no obstacle from apana encounter;
 If for three days this is maintained glowing
 Then may you be certain
 The ascension through Centers Six come soon.`,
+    elaborationEnglish: `If he practises thus for two days continuously, the downward
+streaming apana vayu will not trouble him. On the third day
+it shall begin the ascension through the six adharas.
+
+MNasGd Qosrgy Qodiur HHgew
+
+TSG vmsousgs g1UO5H gyod`,
     transliteration: `aḷakkum vakainālum avvaḻiyē ōṭil
 viḷakkum orunālu meyppaṭa niṟkum
 tuḷakkum vakaiyaintun tūyneṟi ōṭil
@@ -4256,6 +6339,10 @@ The four petalled Muladhara will visioned be;
 If further continued,
 On the fifth day,
 The Second and Third adharas visioned art.`,
+    elaborationEnglish: `On the fourth day if the practice is continued, the
+four-petalled muladhara will be visioned. On the fifth day,
+the second and third adharas, svadhistanam and manipurakam
+will be reached by prana.`,
   },
 {
     id: 781, tantraId: 3, verseNumber: 780,
@@ -4274,6 +6361,7 @@ May visioned together be;
 On the fifteenth day,
 Shall be the collective vision
 On the five together.`,
+    elaborationEnglish: `G5 QGu gion stash`,
   },
   {
     id: 782, tantraId: 3, verseNumber: 781,
@@ -4311,6 +6399,9 @@ On the twenty-eighth day
 May revealed be
 The ten centers together
 In vision Collective rare.`,
+    elaborationEnglish: `On the twenty-seventh day will be seen the One Supreme
+Being that pervades all the adharas. On the twenty-eighth day,
+the Space will be visioned.`,
   },
   {
     id: 784, tantraId: 3, verseNumber: 783,
@@ -4327,6 +6418,28 @@ If the journey upwards resumes
 Ten the days that apana stands as impediment;
 If the journey takes thirty days
 Seven the days that take the apana to leave.`,
+    elaborationEnglish: `On the twenty-ninth day, if the journey upward is resumed,
+the apana will stand as an impediment for ten days. On the
+thirtieth day of the journey, the apana will take seven days
+to ledve.
+
+eaiu gairacar agpuus Wsrerprp
+
+On the 3ist Day and 32nd Day
+
+On the thirty-first dey of the journey upward,
+Three the days that still delay the union
+On thirty-second day that Prana takes to reach,
+Two the days that are still in the way.
+
+On the thirty-first day there will still be three days’ delay
+for union with God. On the thirty-second day there will still
+be an impediment for two more days.
+
+bacuIDVEgcr MTG wrsp eparmies
+
+Faculdger moras Deralgscact 5b)
+aawn Carn OauciGeig hermred`,
   },
   {
     id: 785, tantraId: 3, verseNumber: 784,
@@ -4361,6 +6474,11 @@ From within the fountain of nectar
 Nandi bellows aloud;
 If in the space within He reveals Himself,
 You shall truly be one in Lord.`,
+    elaborationEnglish: `On the thirty-third day prana reaches the mountain of Meru.
+Nandi bellows aloud. He reveals Himself in the Space within.
+The yogi shall truly be one in God.
+
+AG omurt NorsGoim sucrelenw`,
   },
   {
     id: 787, tantraId: 3, verseNumber: 786,
@@ -4377,6 +6495,22 @@ None knows Kundalini that spans high
 None knows the science of breath control
 They who know it not perish away
 I knew the truth that none know.`,
+    elaborationEnglish: `They who know it not perish away
+I knew the truth that none know.
+
+Mantras 786 & 787
+
+None knows the greatness of kundalini yoga. It is the science
+of breath control par excellence. It Spans the spaces within
+and measures the duration of prana. He who knows it meets
+no death. it is the supreme knowledge. It unites jiva in Siva,
+who is All- Knowledge. He is the knowledge of all worlds
+and all life. He is the knowledge non-separate from them.
+That knowledge is within. Seek it. It will glow in pervasive
+Tichness.
+
+sag amryQer ogo ourw
+OpfaQes wracns Guessiluyer. Birla.`,
   },
   {
     id: 788, tantraId: 3, verseNumber: 787,
@@ -4414,6 +6548,10 @@ He grants the vision of His Dancing Hall;
 The Sakti that grants all this
 Is the fragrant flower-bedecked Grace
 That is the Consort of Lord.`,
+    elaborationEnglish: `God, who’ is All-Knowledge, grants this world that is unreal.
+For yogis he grants the vision of His Dancing Feet. This is
+the work of His sakti, the fragrant flower-bedecked Grace,
+that is the Lord’s consort.`,
   },
   {
     id: 790, tantraId: 3, verseNumber: 789,
@@ -4431,6 +6569,20 @@ Ancient mansion haunted by repetitive births;
 Rend the bonds of desire asunder,
 Make the fetters flee, howling;
 Nandi Great will grant His Wisdom Eternal.`,
+    elaborationEnglish: `This body is full of desires. It is an ancient mansion haunted
+
+by repetitive births, Kend the bonds of desires asunder. Make
+the pasa flee, howling. Nandi Great will grant His Wisdom
+Eternal.
+
+“Sakti is Grace” This is Saivite thought.
+
+16. anger
+
+On different days of the week, breath rhythms differ as
+between the left and the right nadi.
+
+earaiu weser Qoal@ecd cumuascud`,
   },
   {
     id: 791, tantraId: 3, verseNumber: 790,
@@ -4452,6 +6604,15 @@ On Thursdays
 Prana flows in the left
 In the waxing moon's fortnight;
 And in the right in the waning moon's fortnight.`,
+    elaborationEnglish: `On Mondays, Wednesdays and Fridays, prana dominates on
+
+tne left (ida) nadi. On Tuesdays, Saturdays and Sundays it
+tuns high on the right nadi (Pingala). On Thursday, prana
+rises high in the left in the waxing moon’s fortnight; and in
+the right in the waning moon’s fortnight. 5
+
+AacAi@acsr Dasa NormgGbd cysosrepot gs i
+gahu snws gs mot WonvGwetm`,
   },
   {
     id: 792, tantraId: 3, verseNumber: 791,
@@ -4470,6 +6631,12 @@ The body will no harm know
 And it will in health glow;
 Thus did Lord Nandi tell us,
 In manner delectable.`,
+    elaborationEnglish: `In manner delectable.
+
+Good results follow, if the rhythm is as above. The body
+will glow in health.
+
+Dscieurds aDusriper sofleprud Gmereirssyeb`,
   },
   {
     id: 793, tantraId: 3, verseNumber: 792,
@@ -4490,6 +6657,13 @@ If this rhythm in the days stated
 Does obtain not,
 Let the Yogi force it into nostril right by skill subtle;
 Then shall he know nothing but joy.`,
+    elaborationEnglish: `Then shall he know nothing but joy.
+
+If this rhythm is not obtained, the yogi can by appropriate
+breathing exercise correct the flow, so that the proper rhythm
+is maintained.
+
+aD Qipuys Bore seoaueor.`,
   },
   {
     id: 794, tantraId: 3, verseNumber: 793,
@@ -4514,6 +6688,14 @@ If this rhythm thus obtains,
 Prana its strength derives;
 Know well this
 And according regulate breathing.`,
+    elaborationEnglish: `The breath rhythm alters from fortnight to fortnight, on two
+days —- Sunday and Monday. If on a Sunday in one fortnight
+the breath runs high on the right, it will run high on the
+left in the next fortnight. If on a Monday in one fortnight
+breath runs high on the left nostril, then in the next fortnight
+it runs high on the right nostril.
+
+295535) Cais Gon @ - ore`,
   },
   {
     id: 795, tantraId: 3, verseNumber: 794,
@@ -4534,6 +6716,28 @@ Then leave the practice and rest a while;
 If on the Right itself it flows
 Faster than in rhythm appropriate
 Then know the speed and suitable regulate.`,
+    elaborationEnglish: `May a sudden jolt know
+
+And in fear trembling flow;
+
+Then leave the practice and rest a while;
+If on the Right itself it flows
+
+‘Faster than in rhythm appropriate
+
+Then know the speed and suitably regulate.
+
+This is the correct rhythm and if this rhythm is obtained,
+prana derives proper strength. [f it is not obtained, it is for
+the yogi to correct it from time to time and bring the rhythm
+back to the norms indicated. However, this correction is:quite
+a feat. Sometimes in directing the breath’s course from -the
+right to the left, the body may experience a sudden jolt and
+trembling fear. In that case let the. yogi léave the -practice
+and rest awhile.
+
+BOayhe atw Qi-ibcucb gy
+QOGcap annGes Peru Geg`,
   },
   {
     id: 796, tantraId: 3, verseNumber: 795,
@@ -4552,6 +6756,13 @@ If Yogi gathers it proper
 And regulates to reach Kundalini,
 He shall stand before the Finite Light;
 Thus He said, Nandi Holy.`,
+    elaborationEnglish: `Prana runs helter skeleter to the right, and to the left. If
+the yogi regulates it appropriately, he shall reach kundalini,
+-the finite light.
+
+Buy OurnGe7bd wsolwoer Cows
+
+Guru wergensu QurGherm cursing`,
   },
   {
     id: 797, tantraId: 3, verseNumber: 796,
@@ -4572,6 +6783,22 @@ With mind in concentration united,
 Pierce the adharas;
 The days apt for thus reaching the Centers
 And the hour apropriate, know you well.`,
+    elaborationEnglish: `The art of rousing the kundalini and coursing the prana through
+the six adharas to reach the thousand-petalled flower above
+is a consummate one that requires knowledge of the sixteen
+ways of breath control and intense thought concentration.
+There are also days and hours appropriate for rousing the
+kundalini. For these, the Guru will be the guide.
+
+soe eed & Gast
+
+17. aung@ wb
+
+Indian astrology prescribes certain days of the week as not
+appropriate for undertaking journeys or tasks in certain
+directions. This may be called ‘directional astrology.’ The
+danger in the direction is referred to figuratively as ‘sula’
+or “trident.”`,
   },
   {
     id: 798, tantraId: 3, verseNumber: 797,
@@ -4589,6 +6816,19 @@ The Soola lies in directions different
 On Mondays and Saturdays it is in east;
 On Tuesdays and Wednesdays in north
 On Sundays and Fridays in west.`,
+    elaborationEnglish: `On Mondays and Saturdays it is in east;
+On Tuesdays and Wednesdays in north
+On Sundays and Fridays in west.
+
+1)Sula literally means the ‘trident;’ metaphorically it means
+“danger.”
+
+Thus on Mondays and Saturdays the sula lies in the direction
+
+of east; on Tuesdays and Wednesdays, north; on Fridays and
+Sundays, west; on Thursdays, it lies south.
+
+Ossaor wmlgbd Owmpsgise CeiBons`,
   },
   {
     id: 799, tantraId: 3, verseNumber: 798,
@@ -4606,6 +6846,30 @@ Little effect Soola has
 If breath to Left flows low,
 No harm befalls if Right dominates;
 Much good may actually swell.`,
+    elaborationEnglish: `This dangerous-effect of sula can, however, be counteracted
+by the appropriate alternations in the breathing rhythm. Thus
+sula has no effect if the flow of breath from the left nostril
+is low and if the flow from the right nostril is high. In fact,
+such a sxhythm may even actually be beneficial. The
+practitioner in breath rhythm can. apply the necessary
+corrections.
+
+18. Gaeh Curae
+
+After kundalini has been roused and the adharas have been
+pierced, the yogi arrives at a stage when he seeks to drink
+of the divine nectar that flows from the astral sphere within.
+For this there is a certain technique known as ‘kechari mudra.’
+
+The subtitle of the text, however, calls this ‘kechari yoga.’
+A mudra is a technical part of the total yoga practice. Some
+commentators have confused it with kesari yoga’ or ‘lion
+posture,’ as the Tamil spelling is identical for kechari and
+kesari. Literally, kechari means to traverse in the sky.
+
+SLL& Sporp Sipprongy of pric
+
+Migs yeu Copsusws gsr GCarggy`,
   },
   {
     id: 800, tantraId: 3, verseNumber: 799,
@@ -4626,6 +6890,117 @@ Lock the chimney up in the mouth;
 Bolt the cavity above with thy tongue's tip
 And sit erect in yoga Samadhi
 No more shall be death for you.`,
+    elaborationEnglish: `The keche:. yoga is the most important technique in kundalini
+yoga. It contains the breath within and sees that it is not
+wasted. The source of kundalini in the muladhara is dammed
+up and stopped so that breath does not escape downwards
+
+as apana. Similarly, the breath-escape of the prana in the
+mouth’s upper cavity is locked with the tongue’s tip. Having
+bolted’ the escapes below and above, the yogi sits erect in
+samadhi.
+
+1) Although the word yoga, is used here-in connection with
+kechari by Tirumular, the classical works like Hatha Yoga
+Pradipika (iii,1-9), Gheranda Samhita (iii,1-3) and Siva
+Samhita (iv,12-15) refer to the ptactice as a mudra. The
+word mudra means ‘to seal,’ ‘close,’ or ‘lock up.” The mudra
+is a technique for locking the breath within the body. After
+the practitioner has purified his system and gained control
+of his breath, the technique of mudra is imparted to him
+by the Guru. Mudras are sometimes referred to as ‘bandha’
+which means to ‘bind, fix or restrain.’ “Hatha yoga Pradipika
+and Gheranda Samhita refer to 25 mudras; Siva Samhita
+refers to 10 mudras.
+
+The word, kechari, has nothing to do with ‘kesari’ which
+means lion. As in Tamil both the words are written with the
+same spelling, some commentators have interpreted it as the
+lion posture or asana. Kechati means roaming through space
+or flying. Hence it is also called ‘vyoma’ or ‘sky chakra.’
+
+Hatha Yoga Pradipika (iii,32-40) describes it as follows:
+“The kechari mudra is accomplished by thrusting the tongue
+into the gullet, by turning it’ over on itself and keeping the
+eyesight in the middle of the eyebrows. To accomplish this,
+the tongue is lengthened by cutting the fraenum linguae,
+moving and pulling it. When it can reach the space between
+the eyebrows, then kechari can be accomplished. Taking a
+sharp, smooth, and clean instrument, of the shape of a cactus
+leaf, the fraenum of the tongue should be cut a little (as
+
+much as a hair’s thickness) at a time. Then rock salt and
+yellow myrobalan (both powdered) should be rubbed in. On
+the 7th day, it should be again cut a hair’s breadth. One
+should go on doing thus, regularly for six months. At the
+end of six months the fraenum of the tongue will be
+completely cut. Turning the tongue upwards, it is fixed on
+the three ways (esophagus, wind pipe and palate). Thus it
+makes the kechari mudra.”’
+
+Compare Ghéeranda Samhita (iii, 25-280); “Cut the lower
+tendon of the tongue, and move the tongue constantly; rub
+it with fresh butter, and draw it out (to lengthen it) with
+an iron instrument. By practising this always, the tongue
+becomes long; and when it reaches the space between the
+- eyebrows, then the kechari is accomplished. Then the tongue
+being lengthend, practise turning it upwards and backwards
+so as to touch the palate, till at length it reaches the holes
+of the nostrils opening into the mouth.-Close those holes with
+the tongue (thus stopping inspiration), and fix the gaze on
+the space between the eyebrows. This is called kechari.’’
+
+Compare Siva Samhita (iv,31-32): “‘The wise yogi sitting
+in vajrasana postpre, in a place free from disturbance, should
+firmly fix his gaze on the spot in the middle of the two
+eyebrows; and reversing the tongue backwards, fix it in the
+hollow under the epiglottis, placing it with great care on the
+mouth of the well of nectar (ie. closing up the air passage).
+This mudra...... is the kechari mudra.”’
+
+Compare: *‘According to Dhyana-bindu Upanishad, kechari
+mudra is so called, because citta moves in ‘kha’ (akasa), and
+the tongue through this mudra enters ‘kha.’ It consists in
+lengthening of the tongue until it reaches to the space between
+the eyebrows. It is then turned back in the throat, and closes
+the exit of the breath previously inspired. The mind is fixed
+in the ajna.....It is said that sometimes the fraenum is cut,
+but others can do it without physical injury. — vide “The
+Serpent Power’’ by Sir John Woodroffe, p.209
+
+Again Hatha Yoga Pradipika (iii, 41-53) says: “‘The siddhas
+have named this mudra, kechari, from the fact that the mind
+and the tongue reach akasa (ether) by its practise. If the hole
+behind the soft palate be stopped with kechari by turning
+the tongue upwards, then bindu (semen) cannot leave its place
+even if a woman were embraced. If the yogi drinks somarasa
+(vital fluid) by sitting with the tongue turned backwards, and
+mind concentrated, there is no doubt he conquers death within
+15 days. If the yogi, whose body is full of somarasa were
+bitten by taksaka (snake), its poison cannot permeate his body.
+As fire is inseparably connected with the wood, and light is
+connected with wick and oil, so does the soul not leave the
+body full of nectar exuding from the soma. Those who cat
+‘the flesh of the cow and drink the immortal liquor daily,
+are regarded as men of noble family. The word ‘goar’ (cow)
+means tongue; eating, is thrusting it in the gullet. Immortal
+liquor is the nectar exuding from the moon. It is produced
+by the fire which is generated by thrusting tongue. If the
+tongue can touch with its end the hole from which falls the
+tasa which is saltish, bitter, sour, milky and similar to ghee
+and honey, one can drive away disease... There is only one
+seed germinating the whole universe from it; and there is only
+mudra, called kechari.
+
+Compare Gheranda Samhita (iii,29-32); Siva Samhita
+(iv,33-37). See also W.H. Evans-Wentz's ‘‘The Tibetan Book
+of the Dead; Briggs’s *‘Goraknath and Kanphata Yogis,”’
+Chpt.xv.; and Rele’s ““The Mysterious Kundalini.’’ For Theos
+Bernard’s personal experience, See ‘Hatha Yoga,”’ pp.67-69.
+
+127
+
+Nesecrtn unwsHs Grsens Houdenre`,
   },
   {
     id: 801, tantraId: 3, verseNumber: 800,
@@ -4644,6 +7019,24 @@ Erect bunds that the sluices leak not (apana);
 And then let in the heavenly stream for the lake to fill;
 Thus sit looking skyward
 Be thou rid of impurity, all.`,
+    elaborationEnglish: `Jiva, the washerman, performs the cleansing act on the square
+
+plank (four-petalled muladhara). There the yogi erects a bund
+so that the apana does not escape through the sluice. He then
+lets in the prana stream upward to fill the body-lake within.
+Thus he sits looking skyward and courses the breath through
+the spinal cavity of sushumna alternating from left to right
+and vice versa.
+
+Kechari (otherwise Kechari) is spiritual attainment which
+
+enables one to overcome death.
+
+QLéms awvséns Qooremryb wnpis
+
+HPsosuned oosuntsee Gengajrd Gasesrtmp
+
+2955505 £5H) omg onrar`,
   },
   {
     id: 802, tantraId: 3, verseNumber: 801,
@@ -4663,6 +7056,12 @@ They can abolish sleep for ever
 And attain God-awareness;
 They die not;
 Immortal they shall be.`,
+    elaborationEnglish: `Immortal they shall be.
+
+The yogi who does this knows neither weariness nor sleep.
+He will be alert all day and night in divine consciousness.
+
+bigiog Ceiuied Heorwes tc wus`,
   },
   {
     id: 803, tantraId: 3, verseNumber: 802,
@@ -4681,6 +7080,22 @@ When it comes, with care manage it
 That you may swim in Moon's Region mystic;
 And that which flowed and roared
 May preserved be.`,
+    elaborationEnglish: `Mantras 802-805
+
+If the tongue’s tip is turned backwards to lock up the cavity
+
+in the gullet, and then skilfully rubbed, the mystic nectar will
+begin to coze from the moon's region. This nectar of the
+flesh is a heavenly stream. It springs from where the jiva
+and Siva reside at the peak of tHe cranium. This mudra confers
+lasting youthfulness and longevity. With the guidance of the
+guru, it will lead to divine wisdom.
+
+Some authorities advocate cutting the fraenum to facilitate
+this process. Tirumular, however. does not mention it. Both
+these methods seem to have been in practice.
+
+sroicst giofeuw BOGu HalDy.o`,
   },
   {
     id: 804, tantraId: 3, verseNumber: 803,
@@ -4699,6 +7114,24 @@ The Gods Three, and Devas three and thirty crores
 Will there appear;
 No death shall there be;
 A million, billion years this fleshly body will be.`,
+    elaborationEnglish: `Gained 268 Asalway wrGw. 604
+
+Transform Fleshy Stream Into Heavenly Stream
+
+From the lofty peaks of the cranium
+Flows the stream that is of the flesh:
+Tt is a heavenly stream;
+
+They know not how to make it so:
+They who know that art
+
+Will swill the divine nectar
+
+And be forever, doubt-free.
+
+STRMId Qooma ssp DosHQu
+
+STeb afwuw soanhog wrPGiw`,
   },
   {
     id: 805, tantraId: 3, verseNumber: 804,
@@ -4759,6 +7192,9 @@ They who let the restrained breath out
 Through the Sun Nadi
 And yet meditating sit
 Art verily to Evil Fate decreed.`,
+    elaborationEnglish: `EMacr wits Dosssu AGsSouT
+BIOcor Brine Hisyjs Gi_ilovonw
+UrMosr HTL! LWGINS . Kost out`,
   },
   {
     id: 808, tantraId: 3, verseNumber: 807,
@@ -4780,6 +7216,11 @@ They who seek proliferating Karma
 And render life useless,
 Will remain unto sugarcane
 Of its juicy sweetness pressed away.`,
+    elaborationEnglish: `Then no more is there room for death;
+
+Those who realize that. karmas are useless
+Do the divine work and
+Enjoy sweetness like that of the sugarcane juice.`,
   },
   {
     id: 809, tantraId: 3, verseNumber: 808,
@@ -4798,6 +7239,21 @@ Send tongue upward
 Their spinal chord erect as a stiff rod
 Then will trickle nectar from within
 And body becomes sweet as sugarcane.`,
+    elaborationEnglish: `Mantras 808-810, 813 & 814
+
+*When the yogi twirls the tongue into the cavity of the gullet
+
+through which saliva flows and drinks of the nectar that-wells
+up, chanting all the time ‘Sivaya mama’ in silence, verily the
+body becomes sweet as sugarcane. The water that kechari
+mudra brings streams pellucid as from the Ganga. The body
+becomes a cave temple within. The yogi is then in rapport
+with the mystic moon shedding the 16 kalas. He sees the
+kala worlds within the divine mansion shedding argent rays.
+He visions Sakti too, as a Divine Fawn enveloped by kalas.
+There, She silts enriching the ambrosia stream.
+
+oneit purse syorostena Cui Os`,
   },
   {
     id: 810, tantraId: 3, verseNumber: 809,
@@ -4819,6 +7275,24 @@ The waters that breath brings
 Streams as unto Ganga flow;
 Learn this Way
 To the flow of the Heavenly nectar.`,
+    elaborationEnglish: `Tongue’s interior
+
+Through which saliva flows
+
+And drink of nectar welling up
+
+And remain chanting ‘Sivaya Nama;’
+The waters that breath brings
+Streams as unto Ganga flow;
+
+Learn this Way
+
+To the flow of the Heavenly nectar.
+The mantra **Sivaya Namah”’ makes its appearance here. The
+word ‘“‘pariyanga’’ literally means bed-stead; here, it refers
+to the “‘vamacara’’ branch of tantricism, which advocates the
+““‘panca makara’’, the five Ms: mamsa, mithuna, mina, mudra,
+and madhu.`,
   },
   {
     id: 811, tantraId: 3, verseNumber: 810,
@@ -4839,6 +7313,9 @@ If they but know how to bolt the door within
 And check the flowing stream,
 Well then may they become
 Abiding cave temples within.`,
+    elaborationEnglish: `“Cave Temple’’ is esoteric language for the cranium.
+
+Gare 2erGor Guy-Oswg cuntpuaut`,
   },
   {
     id: 812, tantraId: 3, verseNumber: 811,
@@ -4858,6 +7335,7 @@ He is within them too,
 Whom He deals harsh;
 For those of evil deeds,
 He is deadlier than fire itself.`,
+    elaborationEnglish: `Slocr wrarises Oecrefhu ayciroragr`,
     transliteration: `tīviṉai yāḷarttañ ceṉṉiyi luḷḷavaṉ
 pūviṉai yāḷarttam poṟpati yāṉavaṉ
 pāviṉai yāḷarttam pākavat tuḷḷavaṉ
@@ -4892,6 +7370,11 @@ He is in the imagination
 Of those who sing of Him;
 He is in the intelligence
 Of those who perform deeds rare.`,
+    elaborationEnglish: `‘He is in the intelligence
+
+Of those who perform deeds rare.
+
+Upbeat mo BID DousaA srorus`,
   },
 {
     id: 814, tantraId: 3, verseNumber: 813,
@@ -4910,6 +7393,15 @@ In His Mansion that is body,
 Art Kala worlds two hundred and twenty four;
 And within that Divine Mansion shedding rays,
 He sat Supreme in accord within.`,
+    elaborationEnglish: `Total 224
+
+(Ref: Abhithana- Chintanami. The total for pratishtakala is 56
+and not S9 as is given here.) Vide “Garland of Letters,”
+pp.269-272 for a tabulated list.
+
+Qossucr s§Huj wsaenm Gp
+
+Qossacr serchuy w5E@ ans`,
   },
   {
     id: 815, tantraId: 3, verseNumber: 814,
@@ -4928,6 +7420,9 @@ There She sat, the Divine Fawn,
 Her Visage shedding rays soft;
 There She sat,
 Herself too streaming ambrosia down.`,
+    elaborationEnglish: `Qurpss QGQaucreh .Qurczwesm, sarsor_ ud
+
+6)b5aq Gurarng srésad anaes`,
   },
   {
     id: 816, tantraId: 3, verseNumber: 815,
@@ -4947,6 +7442,19 @@ In the astral sphere above;
 They who can guard it from flowing out,
 Will become eternal young;
 That its blessing, for sure, for sure.`,
+    elaborationEnglish: `Mantras 815 & 816
+
+From within the golden region of the cranium the sparkling
+nectar flows in silvery cascades. The yogi who can guard it
+from flowing out will remain eternally young. Inside the astral
+
+wae
+
+sphere from where the nectar flows is Sakti, the tender vine
+of goodness and haunting fragrance, in unity with Sys the
+Treasure House of tattva jnana.
+
+perms ans wDHpHsn AGssed`,
   },
   {
     id: 817, tantraId: 3, verseNumber: 816,
@@ -4963,6 +7471,7 @@ If Sakti that is unto a tender Vine of Goodness
 Resides within in fragrant delight;
 Then Lord that is a treasure-house of Tattva Jnana
 Also stood in amity within.`,
+    elaborationEnglish: `QGss Dorowayd 2 crGar crapwmbd`,
   },
   {
     id: 818, tantraId: 3, verseNumber: 817,
@@ -4980,6 +7489,8 @@ Through Sushumna cavity
 To blossoming Lotus at cranial heights,
 Then opened Moon's Mystic Region;
 And there may you for long live.`,
+    elaborationEnglish: `There in that mystic moon’s region the yogi can sit for an
+indefinite, length of time.`,
   },
   {
     id: 819, tantraId: 3, verseNumber: 818,
@@ -4999,6 +7510,25 @@ Then in dazzling brightness of sun
 The Lord with Kundala in his ear lobe
 Stands transfixed in their awareness,
 His dance having ceased to a stop.`,
+    elaborationEnglish: `Uddiyana is a mudra. It literally means ‘flying up or soaring;’
+being so galled because the great bird, prana, tied to it, flies
+without being fatigued. The belly above the navel is passed
+backwards towards the spine. The portions above and below
+the navel should be drawn backwards towards the spine. Of
+all the bandhas, uddiyana is the best; for, by binding it firmly,
+liberation comes spontaneously. — Hatha Yoga Pradipika, iii,
+pp.54-59. Compare Gheranda Samhita, iii, pp.10-11; Siva
+Samhiia.
+
+A Practice that aids in the successful performance of kechari
+mudra is ‘uddiyana bandha. In fact, this is a preliminary
+exercise to the performance of kechari mudra.
+
+“Uddiy ana Bandha’’ — According to Kalika Purana, Uddiyana
+is the place (pitha) where the thighs of Sati fell. (p.132 of
+NN. Bhattacharya’s ‘History of Sakta religion’).
+
+epferm ourueyb 2orGor SO GH`,
   },
   {
     id: 820, tantraId: 3, verseNumber: 819,
@@ -5017,6 +7547,21 @@ In due time,
 From the Moon's Region starts ambrosial flow;
 When it ceases,
 Undo the Uddiyana Bandha.`,
+    elaborationEnglish: `Uddiyana means rising upwards; bandha is arresting it. It is
+damming the course of downward apana at the muladhara.
+Uddiyana bandha is an exercise in the lower regions parallel
+to the kechari mudra at the higher regions. The uddiyana ~
+bandha closes the lower sluice.
+
+By drawing in the mulasthana (anus), uddiyana bandha should
+be performed. The flow of the air should be directed to the
+sushumna by closing the ida and the pingala. The prana then
+becomes calm and latent by this means. — Vide Hatha Yoga
+Pradipika, iii, pp.69-77.
+
+Cnuuief sctGer Marmgwd gous
+
+nauleyat anys 6955 CaupsHy.ct`,
   },
   {
     id: 821, tantraId: 3, verseNumber: 820,
@@ -5035,6 +7580,11 @@ The Lightwill shine inside;
 If breath that is controlled spurts there upwards
 Then will this dark body
 As a temple lamp lustrous bejewelled be.`,
+    elaborationEnglish: `It is after this that the yogi can open the ‘‘wicket gate’’ (fourth
+door) above and Jey the prana slowly stream upwards to
+sahasrara.
+
+Vert HAG) wei vib wuTWsHi& Gos`,
   },
   {
     id: 822, tantraId: 3, verseNumber: 821,
@@ -5053,6 +7603,38 @@ In the mystic regions of Fire and Sun
 Around navel and throat;
 And there be fixed in thought
 What stood there, how possible to say?`,
+    elaborationEnglish: `In doing so the breath should still be retained in kumbhaka,
+
+in the region of fire and sun around the navel and throat,
+and thought should be transfixed there. The experience that
+follows is indeed indescribable.
+
+Osraogy worbsis Dsfeené gnGan. 622
+
+Distant Vision of Five-Element Combination
+
+Well may described be air in the body
+
+Well may described be earth and water
+
+Well may described be all these elements five,
+But when all these together combine,
+
+Well may then be
+
+The power of Vision is cranium distant.
+
+Mantras 822 & 823
+
+There, the combined yision of the five elements results ‘in
+the distant vision. This distant vision consists in attaining the
+grace of Sakti in the first instance, and then when thought
+is centred deeper, the divine light of the Lord appears; and
+all worlds too appear as in bright daylight.
+
+SIT SMecreh Oarcvaqyect soso
+
+STITH Kore Sool Chret (pr Quws`,
   },
   {
     id: 823, tantraId: 3, verseNumber: 822,
@@ -5088,6 +7670,48 @@ Having attained Grace of Sakti of collyruim eyes
 If thought is centered on the Divine Light that is Lord
 Then may you vision worlds all
 As in day-light bright.`,
+    elaborationEnglish: `Having attained Grace of Sakti of collyruim eyes
+If thought is centred on-the Divine Light that is .
+Lord
+Then may you vision worlds all
+As in day-light bright.
+
+pare srsss BHSub mugO_s
+
+Reach Nada Through. Kundalini
+
+Twelve finger measure below the navel
+The light bright as day (Kundalini) shines.
+Thus say the Vedas;
+
+If with that Light A
+
+The Nada Lamp above is lighted
+
+You become the Master great
+
+Of Mansion. that within you rises.
+
+Kundalini is the lamp burning as radiant as the day. With
+
+that lamp the yogi lights the nada lamp; and so becomes the
+master of the mystic mansion that rises within.
+
+19. uflwme Guraiwd
+
+The Tamil commentators interpret ‘pariyanga’ as ‘cot’, and
+“yoga’ as that practised on a ‘cot’ (euphemistically with woman
+in bed). But the classical Sanskrit texts, however, use the
+term vajroli’ and refer to it as a mudra. The Tamil scholiasts
+call it a yoga, even as they call kechari mudra a yoga.
+
+The word ‘pari’ means ‘hard,’ and ‘anga’ refers to the male
+sexugl organ. In fact, this seems to be the main import of
+the vajroli mudra aswell as pariyanga yoga.
+
+In this mudra, the main object seems to be to restrain the
+fiow of semen without loss of enjoyment through control of
+breath.`,
   },
   {
     id: 825, tantraId: 3, verseNumber: 824,
@@ -5126,6 +7750,26 @@ Do you enjoy the damsel in passion's union;
 If you but know how to shoot
 Prana breath through the Spinal Cavity
 Your enjoyment never ceases.`,
+    elaborationEnglish: `Mantras 825 & 826
+
+The yogi anoints the woman’s body with diverse perfumes.
+He bedecks her tresses with fragrant flowers and then
+proceeds to enjoy the damsel in heightened passion. But as
+he does so, he draws the breath inward through the spinal
+cavity. The breath stands still. As the full-breasted damsel
+and the skilled yogi thus seek enjoyment, the liquid silver
+(sukhla) draws in the liquid gold (sronita) and the yogi, with
+breath stilled, masters the retention of his semen. The couple
+commingle in ecstatic passion the whole time.
+
+’ Pariyanga Yoga, which deals with sexual acts in terms of yoga,
+
+is a Vamacara concept. Mular who had earlier, condemned
+Vamacara. now describes this very yoga in laudatory terms.
+
+Guragag yororGar Gurerg aurujay
+Guragang Geucrofuy Bead DurpsHa
+GOsrs5 Goearpean uD GSQIb`,
   },
   {
     id: 827, tantraId: 3, verseNumber: 826,
@@ -5165,6 +7809,33 @@ Upward they drive the coach of breath
 That has its wheels in regions right and left;
 There they collect the waters of the heaven
 And never the organs tiring know.`,
+    elaborationEnglish: `In that conjugal yoga thus practised, the yogi drives the
+two-wheeled coach of breath upward. His organ knows no
+weariness, and he collects the “‘waters of the heaven.”
+
+In the Sakta Tantras the aspirant is known as hero or Veera.
+
+Restraint of Semen Flow Through Breath Control
+
+This the meaning of that union;
+When in the sex act semen flows
+The yogi lets it not;
+
+But checks it
+
+And within retaineth
+
+And a Master he then becometh.
+
+Mantras 828 & 829
+
+This then is the meaning of that mudra; in the conjugal act
+‘the yogi icts not the semen flow, but checks it and holds
+it within. Verily he becomes the master. He becomes master
+of jnana. He becomes master of enjoyment. He becomes
+master of himself. He becomes master of the five senses.
+
+savag unIOs scrayp Curse`,
   },
   {
     id: 829, tantraId: 3, verseNumber: 828,
@@ -5199,6 +7870,55 @@ He becomes master of Jnana all
 He becomes master of enjoyment all
 He becomes master of himself
 He becomes master of senses five.`,
+    elaborationEnglish: `Bae Ogncims gincara) gimearactuns
+
+Sex Union Through the Pariyanga Lasts Five
+Ghatikas and is Bliss
+
+This is Pariyanga Yoga
+
+That lasts five ghatikas;
+
+Beyond in the sixth
+
+The damsel sleeps in the arms of lover
+In union blissful
+
+That fills the heart
+
+And passes description.
+
+This union lasts for five naligas (two and half hours). Then
+in the sixth naliga the damsel goes to sleep in the arms of
+the yogi lover,.in blissful union that ‘“‘fills’’ her heart in an
+experience that defies description.
+
+Successful Practitioners Alone Can Resort to
+Pariyanga Yoga
+
+Unless it be,
+
+He had on success practised
+The Pariyanga yoga
+
+Of five ghatika length
+
+No yogi shall
+
+A woman embrace.
+
+Mantras 831 & 832
+
+Let no yogi embrace a woman unless he has successfully
+practised this technique of the five naliga duration. I¥ it is
+asked who is the yogi that had accomplished this audacious
+practice, the answer is, “‘Lord Siva that wears the heavenly
+Ganga on his matted lccks.”’ Siva, the Supreme Yogi,
+embraced Sakti of ambrosial-sweet voice, thinking and not
+thinking of the act.
+
+Mer corniss SHO MNNsor_ nussoucit
+uiotomnt sipHeanca Ee Syomsisd`,
   },
   {
     id: 831, tantraId: 3, verseNumber: 830,
@@ -5277,6 +7997,23 @@ Her mind exhausted becomes,
 When she climax reaches;
 But no weariness the man knows
 Neither does his silvery emission flow.`,
+    elaborationEnglish: `Then does high rapture ensue;
+
+The five senses of woman desert her,
+Her mind exhausted becomes,
+
+When she climax reachés;
+
+But no weariness ithe man knows
+Neither does his silvery emission flow.
+
+For practise of this yoga the apt age for the woman is twenty,
+and for the yogi, thirty. Then high rapture ensures. The five
+senses of the woman desert her. She swoons and reaches
+the climax. But the yogi knows no weariness, nor does his
+silvery fluid get ejected.
+
+SaronssL coos shu @ epoca`,
   },
   {
     id: 835, tantraId: 3, verseNumber: 834,
@@ -5295,6 +8032,14 @@ The artful goldsmith (practitioner) covered it up with yogic breath
 The sparks (Kundalini) that flew travelled up by the way of Spinal tube
 There above,
 He contained them with tongue's tip (Kecari).`,
+    elaborationEnglish: `Only tose who have practised kechari mudra successfully can
+take to pariyanga yoga. The yogi is an artful goldsmith. He
+does not allow the liquid silver semen to run into the liquid
+gold (sronita). As the goldsmith covers the melting metal with
+carbon, the yogi covers up the seminal flow with his breath
+control. The sparks that fly in this alchemic process by way
+of the spinal tube reach above; there it is contained by the
+tongue’s tip or kechari mudra.`,
   },
   {
     id: 836, tantraId: 3, verseNumber: 835,
@@ -5312,6 +8057,12 @@ Unexcited performs this yoga with woman
 Becomes radiant like the sun,
 An acknowledged master in directions ten,
 And of Ganas of groups eighteen.`,
+    elaborationEnglish: `If the yogi, though experiencing ecstatic joy, performs this
+Mudra unexcited, he becomes radiant as the sun, an
+acknowledged master in ten directions and head of the
+cighteen Gana hordes.
+
+Suan Gunciefer. Goucrolsr poruperp`,
   },
   {
     id: 837, tantraId: 3, verseNumber: 836,
@@ -5332,6 +8083,16 @@ Lest the male silvery liquid flow not
 Ahead of female golden one
 He had his red mouth buried in the Mystic Moon.
 (Note: This Budha spelling is the author's dub on Buddha)`,
+    elaborationEnglish: `While the yogi practises it, he does not allow the silvery liquic
+to flow. He should ‘‘bury his red mouth in the mystic moon”
+
+1)A play on the word ‘budha,” Wednesday is in the middle
+of the week from Sunday to Saturday.
+
+2)He practised kechari yoga simultaneously.
+
+There is much esoterism in these verses. The names of the
+planets are used in a double sense.`,
   },
   {
     id: 838, tantraId: 3, verseNumber: 837,
@@ -5350,6 +8111,10 @@ Will know grief none,
 Though by woman's side he be;
 The liquid silver remains unspent
 And flows not into the vaginal bag of woman.`,
+    elaborationEnglish: `He, who, in perfect wisdom, embraces a woman knows no
+
+grief. Although he is by the woman's side, the silvery semen
+does not flow into the vaginal track.`,
   },
   {
     id: 839, tantraId: 3, verseNumber: 838,
@@ -5369,6 +8134,21 @@ Will no more indulge in it,
 When wisdom dawns;
 To those who have attained Wisdom of Void
 The liquid silver no exit knows.`,
+    elaborationEnglish: `Will no more indulge in it,
+
+When wisdom dawns;
+
+To those who have attained Wisdom of Space
+The liquid silver no exit knows. :
+
+His body, which in sexual union melts like wax on fire, will
+no more indulge in it when wisdom dawns. They who have
+attained the wisdom of Space will know no exit of the liquid
+silver.
+
+2 to
+Paictoou sis: Qasah aGGour
+stiaw aS gyalioSurGuo`,
   },
   {
     id: 840, tantraId: 3, verseNumber: 839,
@@ -5388,6 +8168,21 @@ After having tasted of the nectar
 I saw the Void
 With goodly Nandi guiding;
 Beyond, I knew not.`,
+    elaborationEnglish: `When the yogi knows the Space and. the light in the Space,
+then the mind shall become strong as bronze. The vision of
+the Space comes after tasting of the nectar through ‘the-kechari
+yoga with the guidance of Nandi.
+
+(Coot wyeonssoart Dearie. wre ae. &40
+
+_ Pariyanga Yoga was Expounded by Sadasiva to
+ba Sakti
+“Who are those that rank high above? ~
+ae Mal, Brahma and Nandi (Rudra) are they;
+? In the Fourth is that Sadasiva,
+_ _Who to the slender-waisted Sakti
+Rue This expounded.
+Berean. wires her coreg G Stes`,
   },
   {
     id: 841, tantraId: 3, verseNumber: 840,
@@ -5422,6 +8217,15 @@ Inside the Golden Circle within (Cranium)
 And then join them in union,
 You may live on earth
 A million, trillion years.`,
+    elaborationEnglish: `}
+
+Lp is a technique of urine’ therapy which is
+d in yoga to achieve longevity. The fact that this
+is advocated after pariyanga yoga (or vajroli mudra)
+
+x kad
+
+of Is auch tb agen) aurercib`,
   },
   {
     id: 843, tantraId: 3, verseNumber: 842,
@@ -5463,6 +8267,60 @@ In youthfulness eternal,
 And the One Sakti will inward abide;
 In due accord
 Dispelling worldly longings all.`,
+    elaborationEnglish: `The yogi who reaches the mystic circle of Siva and Sakti
+will. despise all worldly longings. That Sakti is seated with
+Siva on the lotus above. That lotus knows neither land nor
+water; no stalk; no roof. Yet that lotus blossoms.
+
+uridenw ieee umiswLbd Qergici
+Sifldene Galleon stom WSS)
+safldanse sre anhug gape ®
+Exloane Godda Gaaralulh 14 Go. 644
+
+Lotus Cranial
+
+There is a lotus
+
+That neither land nor water knows;
+
+No stalk,-no root, the lotus blossomed yet!
+
+City there was none; yet Light there is one!
+Neither above nor below is a flower, none had heard
+of.
+
+There is a city above; there is a light above; but no habitation.
+The flower that has “‘neither the above nor the below’’ is
+a‘flower none has heard of.
+
+The lotus is in Hinduism a symbol of many things, here of
+the cranium.
+
+A, ‘URI DHARANA
+
+shows that this requires advanced preliminary yoga
+preparation. In fact, Hatha Yoga Pradipika couples this
+practice along with vajroli,’ and so calls it ‘amaroli.’
+
+CUAL irk Deeds ch UR Bid i 82 Lk
+
+ee Pe
+
+Amuri Dharana
+
+“The drinking of human urine-once formed part of ancient
+fertility rites, and the significance of yellow-coloured water
+used in certain Hindu festivals, such as Holi is believed to
+be a relic of this scatalogical practice. The claim that drinking
+human urine enhances sexual powers has been substantiated,
+according to a recent writer, by Dr. Butenandt’s discovery
+in 1931 that the male sex hormone could be extracted from
+human urine’. (Benjamin Walker under the caption
+“‘Scatology’ in his ‘*Hinduism’’).
+
+2189 Ar f5 agQDs Guts
+
+21 Sep gous earnis Homes`,
   },
   {
     id: 845, tantraId: 3, verseNumber: 844,
@@ -5499,6 +8357,21 @@ If that is fed once a day
 In way appropriate,
 Life will know distress none;
 Well may you seek it.`,
+    elaborationEnglish: `The practice is referred to in Hatha Yoga Pradipika, pp.82-96,
+as quoted in Theos Bernard’s ‘‘Hatha Yoga,” pp.71:72; “In
+the doctrine of. the sect of Kapalikas, the ‘amaroli’ is the
+drinking of the cool mid-stream leaving the first, as it is a
+mixture of too much bile, and the last which is useless. He
+who drinks amari, snuffs it daily, practises ‘vajroli’ is called
+practising amaroli.’’ Auri (Tamil) is synonymous with amari
+(Sanskrit), meaning deathlessness.
+
+For a controversy on this practice see ‘ITlustrated Weekly
+of India,’’ July 24, 1977, p.24. The Prime Minister of India,
+Sri Morarji Desai, recently revealed that he practises this with
+good effect.
+
+e505 GCurgresriy.c omerQiuret Perens`,
   },
   {
     id: 847, tantraId: 3, verseNumber: 846,
@@ -5518,6 +8391,14 @@ Prana control will realised be;
 The mind will center in Letter "A" (Pranava)
 And will uplifted be
 And the body into gold will turned be.`,
+    elaborationEnglish: `Mantra 846 & 850
+
+Nandi called it the hero’s recipe, heaven’s liquor, and Sakti’s
+potion. It is a medicine of radiant light. If taken in the way
+appropriate, it helps prana control and thought concentration.
+The body will turn golden and the mind will’become uplifted.
+
+Goo Qsmers OschysA sor`,
   },
   {
     id: 848, tantraId: 3, verseNumber: 847,
@@ -5536,6 +8417,15 @@ No medicine beyond this, know men;
 But rub it clear on crest of head
 Your greying vanishes away
 And fresh black hair shoots forth.`,
+    elaborationEnglish: `If a hundred pepper measures of this ‘“‘divine water’
+(presumably a pepper measure is a drop) are drunk everyday,
+the body requires no other medicine. If it is rubbed on the
+crown of the head, grey hair vanishes and fresh black hair
+shoots forth.
+
+sarug Gshletp asnere 2a
+
+deaguecs eerut wHulen wrpsit`,
   },
   {
     id: 849, tantraId: 3, verseNumber: 848,
@@ -5557,6 +8447,11 @@ Rid of foam and wave
 That arises first and last,
 Will immortal be;
 And all greying and wrinkling disappears.`,
+    elaborationEnglish: `Urine, “‘the water on the banks of the body is like a mirage
+on the sea.’’ Thus say those who do not know the truth.
+They who can drink the midstream of their urine, rid of foam
+and wave, omitting the first and last portions, will become
+immortal.`,
   },
   {
     id: 850, tantraId: 3, verseNumber: 849,
@@ -5575,6 +8470,8 @@ In this Water hidden in the body
 Mix pepper, amla, turmeric, and neem
 Soft will your body be;
 And dark thine hair on head.`,
+    elaborationEnglish: `If it is mixed with certain ingredients like pepper, amla,
+turmeric and neem, the body becomes miraculously soft.`,
   },
   {
     id: 851, tantraId: 3, verseNumber: 850,
@@ -5591,6 +8488,11 @@ He the Nandi called it: the Hero's recipe, Heaven's exlixir, and Sakti's potion
 Some know it as the Medicament Primus
 It is specific that is of radiant light
 Hard to describe to world at large.`,
+    elaborationEnglish: `Some know it as the Medicament Primus
+It is specific that is of radiant light
+Hard to describe to world at large.
+
+21. 6907 Guirsb`,
   },
   {
     id: 852, tantraId: 3, verseNumber: 851,
@@ -5609,6 +8511,18 @@ The two breaths through Ida and Pingala run gross;
 They rise and fall unto the kalas that wax and wane;
 Pure is that Sukshma (Subtle)
 Gross is that runs in the body.`,
+    elaborationEnglish: `The Prana that we breathe, ida and pingala, is gross. It rises
+and falls like the moon that waxes and wanes. But when this
+prana, ziter the practice of kechari mudra, ascends to the
+mivon's kala, it becomes sukshma or subtle. The subtle prana
+is pure.
+
+The 16 Kalas of the Moon are the 16 phases (Tne New Moon
+andthe Full Moon are each counted as two); the 12 Kalas
+of the Sun are the months; Agni as such has no Kalas, but
+the ten Agnis are apparently treated as 10 Kalas.
+
+gHap assenw Queen Aontayp`,
   },
   {
     id: 853, tantraId: 3, verseNumber: 852,
@@ -5627,6 +8541,42 @@ And Ten of the Fire
 The Yogi experiences them all
 In the upward journey of Prana through Sushumna
 And all that becomes his mystic knowledge.`,
+    elaborationEnglish: `Kalas are rays of energy bodies. The mystic moon within has
+16 kalas; the sun, 12; and fire 10. The yogi experiences them
+all in the upward journey of prana through sushumna and
+all kalas become known tc him.
+
+Kalas of Fire Merge into Sun, Which in Turn
+Merge into Those of Moon
+
+The Twelve Kalas of Sun
+
+Absorb Kalas ten of Fire
+
+Together are they absorbed
+
+In Sixteen Kalas of Moon;
+
+Those who have thus learned to merge
+In Moon’s Kala
+
+Verily become Masters of Earth,
+
+All Kalas entire filled.
+
+Mantras 853-857
+
+In that journey in kundalini yoga, the ten kalas of fire are
+first absorbed by the 12 kalas of the sun. Together the kalas
+of the sun and fire are absorbed in the 16 kalas of the moo..
+Thus the kalas of three different origins merge into one. Tuto
+them finally merge the four kalas of kundalini in the cranium
+top. There in the sahasrara, the yogi pays homage at the Feet
+of the Lord. Those who have learned to merge the kalas of
+fire and sun in the kalas of the moon, verily become. masters
+of themselves.
+
+95550 QJHGw OS5C0L4 Quirsene`,
   },
   {
     id: 854, tantraId: 3, verseNumber: 853,
@@ -5665,6 +8615,18 @@ Sixteen the Kalas of Moon
 Ten the Kalas of Fire
 Thus are the Kalas in number,
 Know you well and true.`,
+    elaborationEnglish: `The Disparate Kalas Merge inte One
+
+Ten the Kalas of Fire
+
+Tweive of the scorching Sun
+Sixteen that emanate from Moon;
+All these Kalas which alike are not,
+Into oneness merge.
+
+Te OL Oi rongid FOO Sé5Hir
+Slicer Gerais Gsrorgim sauQ@ucrs
+secu u@ssr7 maar prayer`,
   },
   {
     id: 856, tantraId: 3, verseNumber: 855,
@@ -5717,6 +8679,29 @@ Pass through the Central Nadi;
 Kindle the Kundalini Fire in Muladhara;
 They reach the Cranium at top,
 To pay homage at Feet of the Goodly One.`,
+    elaborationEnglish: `Nine Kalas of Nava Chakra
+
+Two each of Kalas,
+
+Fire, Star“ Moon and Sun,
+
+And Kala of Parai
+
+Who is unto a Star
+
+Together are the nine beams of Parai
+
+In the Nava Chakra this world below..
+
+*jiva
+
+The four kalas of kundalini belong to the ‘energy-body star.”
+
+Two kalas each for the star, fire,-moon and sun, and one
+
+kaia of Parai who is unto a star, together form the nine lights
+
+of Parai in the navel chakra.`,
   },
   {
     id: 859, tantraId: 3, verseNumber: 858,
@@ -5752,6 +8737,7 @@ Earth, Water, Fire, Air, Space
 Sun, Moon, Agni and Star
 These nine constitute Pranava
 The Way that is Great.`,
+    elaborationEnglish: `Srgas anh F5egQ Curofscr`,
   },
   {
     id: 861, tantraId: 3, verseNumber: 860,
@@ -5768,6 +8754,11 @@ When moon wanes, the stars twinkle bright
 When moon waxes, they do not
 Unto stars (innumerable) are Jivas of universe,
 Unto Star of Stars is the Divine Manifestness.`,
+    elaborationEnglish: `When moon waxes, they do not
+Unto stars (innumerable) are Jivas of universe,
+Unto Star of Stars is the Divine Manifestation.
+
+uD mereyeibd a Duroc VITEL GE`,
   },
   {
     id: 862, tantraId: 3, verseNumber: 861,
@@ -5785,6 +8776,15 @@ In the waning fortnight they shrink and small become;
 They who can know the mystery of Kalas Fifteen
 May well reach the Feet of Lord
 Of glory indescribable.`,
+    elaborationEnglish: `1) Out of sixteen, fifteen are the eternal kalas of the moon.
+One kala remains there always. That kala is nothing but chit
+itself. We call Her, Tripurasundari. It is understcod by this,
+that in order to rouse the kundalini, one should practise in
+the lunar fortnight alone, and not in the solar one.’’ —
+Commentary of verse 32 of Anandalahari, as quoted in “The
+Serpent Power’’ by Sir John Woodroffe, pp.234-235.
+
+SIGE FHurdy sroibes aspen`,
   },
   {
     id: 863, tantraId: 3, verseNumber: 862,
@@ -5803,6 +8803,17 @@ Merge all in Moon,
 Merge Jiva Star
 Of senses and sense organs rid,
 That verily is Chandra yoga.`,
+    elaborationEnglish: `This, in short, is chandra yoge. Through kundalini yoga rouse
+the Kalas of fire. Merge them in the kalas of the sun. Merge
+them in the moon’s kalas. Finally merge them all in jiva,
+cf senses and sense organs rid.
+
+This verse describes the Kalas and how they shanld be
+handled.
+
+earphu Oger sau 21 ayp
+
+sorgu sract sGsgip maugsien`,
   },
   {
     id: 864, tantraId: 3, verseNumber: 863,
@@ -5821,6 +8832,10 @@ The despicable men!
 When Death his trap lays
 Then there they fall,
 Forever bewildered.`,
+    elaborationEnglish: `138 : TIRUMANTIRAM
+
+Ha SHiwset ang wHOQureP
+AH sHAsHit mrags sngjws`,
   },
   {
     id: 865, tantraId: 3, verseNumber: 864,
@@ -5840,6 +8855,7 @@ When Kundalini Fire unites in Siva
 The Kalas of the Star merge;
 And the Jiva who resides in Star,
 Becomes life all.`,
+    elaborationEnglish: `Fon] Quexsana cresresigesr tircaacne`,
   },
   {
     id: 866, tantraId: 3, verseNumber: 865,
@@ -5895,6 +8911,15 @@ Is in exaltation high,
 There you shall stand as Starry Light;
 And the Sun shall blow the conch
 To announce your arrival.`,
+    elaborationEnglish: `Mantras 867 & 868
+
+As this merger takes place in the ninth centre of the moon’s
+sphere, the yogi’s heart resounds in high exultation to the
+triumphant beatings of the divine sound of nada. The jiva
+stands there as a stellar light. There, traversing beyond the
+sun and moon, he meets the Lord.
+
+HATa crest YMe;@eor mimiu`,
   },
   {
     id: 869, tantraId: 3, verseNumber: 868,
@@ -5914,6 +8939,15 @@ When he travels beyond the spheres
 And knocks,
 There he meets Lord
 In His very Abode.`,
+    elaborationEnglish: `Into him who has great become,
+Rains the nectar of Grace;
+
+When he travels beyond the spheres
+And knocks,
+
+There he meets Lord
+
+In His very Abode.`,
   },
   {
     id: 870, tantraId: 3, verseNumber: 869,
@@ -5932,6 +8966,9 @@ None know this;
 When they know that mantra secret,
 Then is the Son that is Jiva
 In the presence of Father that is God.`,
+    elaborationEnglish: `There is the light of Aum that rises from the navel lotus.
+It is the mantra finite and if that mantra secret is known,
+the son, that is jiva, stands before the Father, that is God.`,
   },
   {
     id: 871, tantraId: 3, verseNumber: 870,
@@ -5967,6 +9004,16 @@ The Fire consumes Kalas of Sun, too
 If you can resolve the conflict of Serpent and Moon
 Merging the Kalas of Moon in Kundalini
 The Lord will leave you not, ever ever.`,
+    elaborationEnglish: `Merging the Kalas of Moon in Kundalini
+The Lord will leave you not, ever, ever.
+
+1) - She (kundalini) runs to sahasrara and bites the
+chandra....Then nectar begins to flow — vide commentary on
+verse 32 of Anandalahiri, as quoted in ““The Serpent Power’’
+by Sir John Woodroffe, p.235.
+
+HINGIS Spucr aso Qos
+SUES Loner octet 5.59`,
   },
   {
     id: 873, tantraId: 3, verseNumber: 872,
@@ -5987,6 +9034,12 @@ Then may you take your sleep;
 Your mind shall then luminous as full moon be
 Then the Mystic Moon inside
 Will shed its dazzling Kalas full.`,
+    elaborationEnglish: `The kundalini that moves up ‘‘devours the moon.”’ Let not
+the yogi sleep until the serpent throws it out. When it throws
+it out, the mind becomes luminous as the full moon. Then
+the yogi may sleep.
+
+eFaNs Hormer apgu ovr`,
   },
   {
     id: 874, tantraId: 3, verseNumber: 873,
@@ -6005,6 +9058,12 @@ Eat not until Moon rises;
 Sleep not until Moon moves;
 Sleep the Yogi may
 When but the Moon moves.`,
+    elaborationEnglish: `1) This reminds us of a parallel of the Sastraic injunction
+not to sleep and eat when there is a lunar (or solar) eclipse;
+when Rahu, the serpent, is mythologically said to devour the
+moon (or sun) for a time.
+
+BPs wis BHeoer Horliuniser`,
   },
   {
     id: 875, tantraId: 3, verseNumber: 874,
@@ -6022,6 +9081,14 @@ Conquer Death;
 They will live in this world aeons beyond;
 They are worthy of our obeisance,
 They who, this Moon's Yoga in success practises.`,
+    elaborationEnglish: `Mantras 874 & 875
+
+The yogi who practises chandra yoga will conquer death. He
+visions the past, present and future and until the moon drops
+back from kundalini, time comes to a stop.
+
+sorn uneyés shy Gu @serm
+bean sramacr aperpiib appacxrG`,
   },
   {
     id: 876, tantraId: 3, verseNumber: 875,
@@ -6039,6 +9106,10 @@ And see vision of Past, Present and Future earth;
 And in that Full Moon day the nectar ripens;
 Until the Moon drops back from Kundalini,
 Time stands to a stop.`,
+    elaborationEnglish: `Compare Shelly in ‘*Prometheus:’’ *‘Plunge into eternity,
+where recorded time seems but a point.”’
+
+srnhicipn ¢hHoe7 scram wing`,
   },
   {
     id: 877, tantraId: 3, verseNumber: 876,
@@ -6056,6 +9127,12 @@ The waning Kalas six of Moon
 Woke to life to twelve angula running
 And then the Moon droped out
 Who knows this!`,
+    elaborationEnglish: `When the waxing kalas six of the sun, and the waning kalas
+six of the moon wake to life, twelve angulas running, that
+is the indication that the moon has dropped out of kundalini’s
+mouth. :
+
+Gurbanp crmsepid Gureng, Gur@heGs`,
   },
   {
     id: 878, tantraId: 3, verseNumber: 877,
@@ -6074,6 +9151,7 @@ The Yogi's semen flows not where it lists;
 Devoid of passions, it firm collects in Muladhara;
 Chanting Aum in heart's silentness,
 He remains Pure, Awareness filled.`,
+    elaborationEnglish: `GOD prGs Dsr_tigip CGuflpew`,
   },
   {
     id: 879, tantraId: 3, verseNumber: 878,
@@ -6092,6 +9170,15 @@ To these ten Kalas goodly
 Will be the Six Kalas of Moon
 Thus are they Kalas Sixteen
 In the Full Moon emitted.`,
+    elaborationEnglish: `ill be the Six Kalas of Moon
+Shas are they Kalas Sixteen
+In the Full Moon emitted.
+
+thus making sixteen kalas in all, of the full moon.
+Lomita gy Gsresfl 2 maiercr alatb
+Yyoaralpg Sen sHip Goanuew
+
+Lewtaidb 21 biyb 2eaaQurésés AHA`,
   },
   {
     id: 880, tantraId: 3, verseNumber: 879,
@@ -6109,6 +9196,7 @@ Emits Sun's Kala,
 If Sun's Kala is low, semen ejects quick;
 When mind and body balanced stand
 Never will they let semen flow.`,
+    elaborationEnglish: `Burg HasuHen gagu Oarepald`,
   },
   {
     id: 881, tantraId: 3, verseNumber: 880,
@@ -6128,6 +9216,7 @@ The five senses that run blind
 Will their restraint meet;
 And the interminable bliss of delectable Nectar
 Leaves them not ever.`,
+    elaborationEnglish: `souussca Gurl ys shésuwd anise`,
   },
   {
     id: 882, tantraId: 3, verseNumber: 881,
@@ -6148,6 +9237,19 @@ They who thus remain,
 Death do not have;
 Good their Kalas arr;
 Time-bound they are not.`,
+    elaborationEnglish: `: Ultimately, the moon reappears, now with six waxing kalas
+of the sun, six kalas of the moon and four kalas of kundalini.
+
+Where waters of Nectar flow
+Course the Five Pranas
+Through central- Sushumna;
+They who thus remain,
+Death do not have;
+
+Good their Kalas are;
+Time-bound they are not.
+
+Osemretkis sur worhyS orp ty`,
   },
   {
     id: 883, tantraId: 3, verseNumber: 882,
@@ -6165,6 +9267,40 @@ They walk toward the Lotus Feet cool as water;
 Sitting in undisturbed Samadhi;
 Coursing through the Spinal channel
 They alter the breathing right and left.`,
+    elaborationEnglish: `The yogi who continues opens up the springs of necter 2
+walks to the Lotus Feet of the Lord that are cool as water.
+There he sits in undisturbed samadhi, coursing through the
+spina! channel and breathing through nadis right ‘and left in
+alternation.
+
+2p) LLmgt.co GarcsrG@ tb 2 Limucpibd
+
+Benefits of Yoga
+
+If breaths of Moon (Ida) and Sun (Pingala)
+Course their way through Spinal channel
+unhindered,
+
+Thine body imperishable shail be;
+
+And abiding joys well up here below,
+
+This the Way of -Yoga True.
+
+Imperishable becomes his body and abiding his joy. This is
+the true way that chandra yoga leads to.
+
+Tantra Three Concluded
+
+BTOTh & %G) Tw
+: TANTRA FOUR
+
+1. Jeu
+
+Gurbp Aer Gperys ips gS GHIeIsOSS
+Gsaniior GncrAipeans sruser Crary
+
+sro pier Gpcrsyom Gun&loeu Gurssons`,
   },
   {
     id: 884, tantraId: 3, verseNumber: 883,

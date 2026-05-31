@@ -19,6 +19,15 @@ Granted me the Grace of His Feet;
 And after interrogation holy, testing me entire,
 Revealed to me the Real, the Unreal and Real-Unreal;
 Of a certain is Siva-Guru Lord Himself.`,
+    elaborationEnglish: `Mantras 1573 & 1574
+
+The holy Guru is Siva Himself. He granted me his grace.
+He taught me meckness. Testing me He revealed the
+real, the unreal and the real/unreal. Immense is the power
+of the presence of the divine Guru that liberated me
+from the bonds of the carnal body.
+
+urggmsh ety Guw 6h yu uMghc@`,
   },
   {
     id: 1575, tantraId: 6, verseNumber: 1574,
@@ -38,6 +47,7 @@ Freeing me thus from my fond body,
 Straight to Mukti he led me-
 Behold, of such holy potent
 Is the Presence of the Guru Divine!`,
+    elaborationEnglish: `*Syb stevF SDS goons Curad ae`,
   },
   {
     id: 1576, tantraId: 6, verseNumber: 1575,
@@ -57,6 +67,16 @@ The mystic powers of occult Yoga,
 Of Mantra, of Bhakti, and of Jnana,
 All these shall you attain
 If the Guru but his grace confers.`,
+    elaborationEnglish: `Mantras 1575 & 1576
+
+The Guru grants the miraculous powers of eight siddhis, the
+immaculate purity of the eight saktis, and the mystic powers
+of the hidden yoga through conferment of his grace. The Siva
+Guru — the pure being — is above all the worlds, bestowing
+
+.grace and liberating souls from their bondage. Truly,
+
+inexplicable is his. glory.`,
   },
   {
     id: 1577, tantraId: 6, verseNumber: 1576,
@@ -94,6 +114,11 @@ All things in categories three;
 By his sacred precepts sunders the bonds of Pasu-Pasa
 And makes me drink of the milk of Mukti
 All in benign compassion the Gurupara does.`,
+    elaborationEnglish: `The holy Guru, a true deva full of compassion, snaps the fetters
+
+of Pasu-pasa, and makes me savour the nectar of liberation.
+
+ASS AAG andasg giliowseuw`,
   },
   {
     id: 1579, tantraId: 6, verseNumber: 1578,
@@ -112,6 +137,17 @@ The witless ones of vision faulty;
 But the holy ones take to him
 In endearment as unto kith and kin,
 And worship him as Lord Himself.`,
+    elaborationEnglish: `Mantras 1578 & 1579
+
+Through purification, the Guru grants Godhood. The witless
+Tealise this not, while the holy ones receive this knowledge
+with deep gratitude. Only through the Guru’s blessing can one
+experience the false- dissolving in the true, learn the
+omnipotence of Truth, possess the bountiful Grace of Siva
+and realise the miraculous powers of the eight siddhis.
+
+Dowenwwyid germs Flouorw svousor
+aeweninujLd ot OL L OF ASH wwsscupid`,
   },
   {
     id: 1580, tantraId: 6, verseNumber: 1579,
@@ -130,6 +166,7 @@ To possess the bounty of splendorous Siva's Grace,
 To realize the fantasy of the famed Siddhis eight
 Who learns all these
 But with Guru's blessing?`,
+    elaborationEnglish: `FaGen Augie wutgorh «5%`,
   },
   {
     id: 1581, tantraId: 6, verseNumber: 1580,
@@ -147,6 +184,13 @@ And they who seek his feet as Siva's
 Shall in sooth the wondrous Tattva mukti gain;
 They shall no more be in the cycle of births;
 Sure their reward, the Liberation Finite.`,
+    elaborationEnglish: `Mantras 1580 & 1581
+
+Seek the feet of the Guru as of Siva’s, and gain ‘tattva mukti’;
+for the Guru is none other than Siva Himself. He sunders
+the cycle of births and grants the liberation of the soul.
+
+GGCau Aagwris Cargyuond HHGw`,
   },
   {
     id: 1582, tantraId: 6, verseNumber: 1581,
@@ -165,6 +209,14 @@ Guru will to you Siva be,
 And your Guide too;
 Guru in truth is Lord,
 That surpasses speech and thought, all.`,
+    elaborationEnglish: `Guru will to you Siva be,
+
+And your Guide too;
+
+Guru in truth is Lord,
+That surpasses speech and thought, all.
+
+AS50 wneouys HomFleu wrersard`,
   },
   {
     id: 1583, tantraId: 6, verseNumber: 1582,
@@ -181,6 +233,9 @@ Let all your thoughts be thoughts of Siva,
 And the Lord by His Grace shall reveal all;
 If your thoughts be Siva-saturated
 In you shall He then close abide.`,
+    elaborationEnglish: `The Guru, the true lord and guide, ‘stands peerless above
+speech and thought. When saturated with thoughts of Siva,
+Siva abides in you.`,
   },
   {
     id: 1584, tantraId: 6, verseNumber: 1583,
@@ -201,6 +256,12 @@ To them that rejoice in Him
 As the Nandi of heavenly might,
 Verily is He the peerless luminosity
 Of crimson twilight fire.`,
+    elaborationEnglish: `Nandi is the king of kings. To his devotees truly he is the
+god of heavenly might and unrivalled luminosity.
+
+Doanrw AFSHuyw wsHNuyid Firenww
+
+Gurngenw Cugsrés Gursipib srscr`,
   },
   {
     id: 1585, tantraId: 6, verseNumber: 1584,
@@ -220,6 +281,10 @@ And the Jnana that is essence of Vedas
 All these,
 When the Guru himself imparts not,
 Never, never shall you learn.`,
+    elaborationEnglish: `Only by the Guru’s’ divine grace can the siddhis, that are
+genuine treasures, descend; the mukti, that is the ultimate
+liberation be attained; and the heavenly jnana that ends doubts
+and fears be known.`,
   },
   {
     id: 1586, tantraId: 6, verseNumber: 1585,
@@ -238,6 +303,11 @@ In turn, these lead to Sivoham;
 And in Sivoham shoots the Jnana for Mukti,
 And that shoot yours easy shall be
 If Sakti but Her Grace bestows.`,
+    elaborationEnglish: `Bhakti and resoluteness, the seeds of the supreme state, lead
+to Sivoham meditation in which jnana leads to mukti, when
+Sakti confers Her Grace.
+
+Sates mussGart Qorucd Ym Gener`,
   },
   {
     id: 1587, tantraId: 6, verseNumber: 1586,
@@ -255,6 +325,15 @@ The Lord for you of yore ordained
 That you may the Greater Pleasure attain;
 Where your mind reaches to Him in resolve,
 Then of Himself, He reveals to you.`,
+    elaborationEnglish: `This is repeated as Mantra 1629 infra.
+Mantras 1586 & 1587
+
+Concentration of God leads to the revelation of God Himself.
+Achieve the luminous siddhis; realise the jnana of Siva; and
+attain mukti. Siva jnana leads to Sivananda.
+
+Panta gros DshuGancsr ASH
+Paunes Greases AouussCSR Cuse`,
   },
   {
     id: 1588, tantraId: 6, verseNumber: 1587,
@@ -273,6 +352,9 @@ When you realize the Jnana of Siva,
 You shall attain the Mukti resplendent;
 When your Jnana of Siva reaches to Siva Supreme,
 Then shall it yield the Bliss of Sivananda.`,
+    elaborationEnglish: `ADs crit Csofleu sc (PODIG
+
+Lossip  GscrwG wrest cunpsons`,
   },
   {
     id: 1589, tantraId: 6, verseNumber: 1588,
@@ -291,6 +373,14 @@ Adoring with devotion replete
 I received His Grace Divine;
 Now am I past all rememberance of Ignorance exceeding,
 For ever have I bidden adieu to birth recurring.`,
+    elaborationEnglish: `Mantras 1588 & 1589
+
+Deep devotion and intense meditation made Tirumular realise
+and receive the Lord’s Divine Grace. He. met Siva, the seed
+of all causal phenomena, and so ended the cycle of recurring
+births. :
+
+QGsAam saomwemu ggb 2 cmgnt`,
   },
   {
     id: 1590, tantraId: 6, verseNumber: 1589,
@@ -307,6 +397,10 @@ He is the Lord of all living creation
 Yet naught they know of His State Existent;
 I cut the tangle that separated Him from me,
 And lo! I met the Lord, the seed of all causal phenomenon.`,
+    elaborationEnglish: `2. Doaye Cup
+
+umsrpOSZup Feng une gg gae
+Pass GGupg Derehans mass`,
   },
   {
     id: 1591, tantraId: 6, verseNumber: 1590,
@@ -326,6 +420,34 @@ Then the godly Guru comes
 And lays his hand on your head,
 And lo! in you wells up
 The rapturous Grace of His Holy Feet.`,
+    elaborationEnglish: `And lo! in you wells up_
+The rapturous Grace of His Holy Feet.
+
+args GunGs gsmagis erbilenp
+
+wT $s Grr adeounys F5HUO
+
+Grace of Feet is Kingdom Won
+
+Ever as mine Master granted me the Grace of His
+Feet
+
+He had made me the head of all;
+
+And investing me with the regalia-might of
+Jnana-sword,
+
+He: placed on my head the Crown of Grace
+Abounding,
+
+And thus proclaimed:
+
+““May you forever hold sway over this Land of
+Deliverance”
+
+—All these He did, descending on earth, here below.
+
+Sroreu cmmhs Oerejus supHe@`,
   },
   {
     id: 1592, tantraId: 6, verseNumber: 1591,
@@ -365,6 +487,15 @@ He, Nandi, my goodly Saviour
 Blessed me;
 It was He who of yore
 Planted His Feet of Grace on me.`,
+    elaborationEnglish: `Siva, Sakti, nada, bindu
+Mantras 1592 & 1593
+
+The Guru is God in human form, signifying the mudra of
+jnana. By making me unite in Sivam, he granted me the
+boundless form that. transcends the four states — Nada,
+Nadanta, Kala and Kalanta.
+
+2e7wh nertun pultug wns`,
   },
   {
     id: 1594, tantraId: 6, verseNumber: 1593,
@@ -402,6 +533,17 @@ He assumed the Mudra of Jnana
 And drew me to his Feet so godly;
 Bereft of speech, I melted in bliss
 Thus did He work my redemption eternal.`,
+    elaborationEnglish: `Bereft of speech, I melted in bliss
+Thus did He work my redemption eternal.
+
+* Gross, subtle and causal
+
+Nandi, my divine preceptor, transcending all three states —
+form, formless and form/formless—assumed the mudra of
+jnana. Drawing myself towards his benign feet, I worked my
+way to liberation. $
+
+Gussin Qorugsgu Gurnere 55HGCo`,
   },
   {
     id: 1596, tantraId: 6, verseNumber: 1595,
@@ -423,6 +565,12 @@ Yet drank dry the three seas of mine impurities;
 And annihilating my primal ego to its traces
 He granted me His Feet of Grace;
 And there does he abide, forever, in me.`,
+    elaborationEnglish: `Cleansed from blemishes, I was immersed in infinite bliss that
+is beyond words, and was transformed into Supreme Sivam.
+
+QsusHb pci sgb aorpsr Ags gid
+
+SAMUSS sup Guwar yweusrmd`,
   },
   {
     id: 1597, tantraId: 6, verseNumber: 1596,
@@ -442,6 +590,13 @@ He laid me the Path,
 He showed me the Truth,
 He settled the course of my Destiny
 Truly, truly, all that I can not describe.`,
+    elaborationEnglish: `Mantras 1596 & 1597
+
+Nandi, my monarch, gently planted his loving hallowed feet
+on my head, and showed the True Path, thus settling the
+course of my destiny. Truly inexplicable are his gracious acts.
+
+Guy Anse. CarononQua Carenud`,
   },
   {
     id: 1598, tantraId: 6, verseNumber: 1597,
@@ -460,6 +615,9 @@ And he granted me the Form Mighty,
 He, mine Nandi Great;
 I saw him, my monarch, in Guru Form,
 And saw the end of all births to come.`,
+    elaborationEnglish: `Seay Grae Hawréae DEGE
+
+Soqay. Gree Hoanwow bs`,
   },
   {
     id: 1599, tantraId: 6, verseNumber: 1598,
@@ -478,6 +636,11 @@ Jnana of Holy Feet makes you Siva,
 Jnana of Holy Feet takes you to world of Siva,
 Jnana of Holy Feet free you from imprisoned impurities,
 Jnana of Holy Feet is Siddhi and Mukti too.`,
+    elaborationEnglish: `The jnana of the holy feet is so great that by liberating me
+from the impurities it took me to the world of Siva Himself.
+Siva is siddhi and mukti too.
+
+uTaougss Oecrefts UL-Ggraf suresteucst`,
   },
   {
     id: 1600, tantraId: 6, verseNumber: 1599,
@@ -496,6 +659,17 @@ The Karma of yore shall distort your thoughts;
 Only when the resplendent Lord of milk-white brow
 Places his blessed Feet on you,
 Only then, arr you truly instructed.`,
+    elaborationEnglish: `Mantras 1599-1601
+
+Only with the grace of the holy feet comes true instruction,
+
+enlightenment, and liberation. They who have reached his holy
+
+feet are superior to earthly monarchs. These at best can but
+
+sway the world; but the joy of devotees is boundless indeed.
+
+aypwtt sows DGwy srengpyid`,
   },
   {
     id: 1601, tantraId: 6, verseNumber: 1600,
@@ -533,6 +707,18 @@ Know this:
 The heavenly beings attired in kingly diadems
 But turned his vassals;
 And thus became for ever blemishless free.`,
+    elaborationEnglish: `the worlds three;
+
+But they who reached His Holy Feet
+
+Their power no bounds shall know;
+
+Know this:
+
+The heavenly beings attired in kingly diadems
+But turned his vassals;
+
+And thus became, for ever blemishless free.`,
   },
   {
     id: 1603, tantraId: 6, verseNumber: 1602,
@@ -551,6 +737,10 @@ And so, shunned the deceitful course of scorching senses,
 I swam past the dangerous swirls of twin Karma,
 And I tasted the nectar of Truth
 -The end of all Vedas.`,
+    elaborationEnglish: `Shun the scorching senses. Then you will taste the nectar
+of Truth of his hallowed feet. Thus say the holy scriptures.
+
+uysnibs Qu upsug Glusrors`,
   },
   {
     id: 1604, tantraId: 6, verseNumber: 1603,
@@ -570,6 +760,14 @@ This earth has known;
 And the goal of the Pure Ones
 That walk the Path of Truth;
 May you reach those Feet.`,
+    elaborationEnglish: `Mantras 1603 & 1604
+
+The sages of yore, bearing the blissful and hoary Feet of
+the Lord on their crowns, trod the path of Truth — the goal
+of the pure. Truly the Lord’s Feet is all — mantra and
+medicine; tantra and wisdom; beauty and the pure way.
+
+557 WIM g1WOsoH wrosgyd`,
   },
   {
     id: 1605, tantraId: 6, verseNumber: 1604,
@@ -586,6 +784,11 @@ Verily are they, all mantra and all medicine;
 All tantra and all giving;
 All beauty and all pure way;
 Mine Holy Father's Feet Twain.`,
+    elaborationEnglish: `3. GIG rer Cq@ub
+
+JNATHRU. JNANA, JNEYA
+
+UTmETot UTE Ut_omr Lit Maexytb`,
   },
   {
     id: 1606, tantraId: 6, verseNumber: 1605,
@@ -603,6 +806,7 @@ There the Primordial Pasa enmeshes you not;
 When it ever envelops you,
 You but throw your egoity out and stand firm;
 Yours shall then be the ambrosial bliss eternal.`,
+    elaborationEnglish: `CqusHar Cqusas Gquseas yonourt`,
   },
   {
     id: 1607, tantraId: 6, verseNumber: 1606,
@@ -621,6 +825,9 @@ The Subject that seeks the Object shall in the Object merge;
 They that have cognised the Object of Knowledge
 Through Knowledge
 Have the Knowledge of union with the Object.`,
+    elaborationEnglish: `They that have sought and apprehended the object of
+knowledge through knowledge possess the knowledge of union
+with the object.`,
   },
   {
     id: 1608, tantraId: 6, verseNumber: 1607,
@@ -637,6 +844,11 @@ The two categories-You and He
 See them both in you and He;
 Offer the flower "you" at the Feet of He;
 Then no more be it proper to say: "You and He."`,
+    elaborationEnglish: `*You’ becomes ‘He’ when the flower ‘You’ is offered at the
+Feet of ‘He.’
+
+Onset ugsiner Qursgicr Goo@
+peru wrshF Hours Coqnussrd`,
   },
   {
     id: 1609, tantraId: 6, verseNumber: 1608,
@@ -659,6 +871,12 @@ And through the Subject-Object identity
 Dispelled my ignorance
 Thus He redeemed me
 He, Nandi of blessed memory.`,
+    elaborationEnglish: `Enveloping me in the infinite expanse of spirit, he, Nandi
+of blessed memory, imparted to me the state of permanence,
+ultimately changing me into Siva Divine. Thus, Nandi, worked
+for my: liberation in jneya.
+
+Qeroncr whout) wrentocwt ‘Gusset`,
   },
   {
     id: 1610, tantraId: 6, verseNumber: 1609,
@@ -678,6 +896,20 @@ And made me know my Self;
 He transformed me into Para
 And intimated me into very Siva;
 He, Nandi of hallowed name.`,
+    elaborationEnglish: `Mantras 1609 & 1610
+
+I, who was ignorant of the distinction between knowledge
+and ignorance, was taught the same. Knowing myself, he,
+Nandi of hallowed name, transformed me into Para and made
+me intimate with Siva. He, Nandi of immortal fame, showed
+me diverse wonders that had never before been heard and
+seen.
+
+sromts sorentor Gaorrg GaciraSuyni
+
+Ganong Gursupm gL mL Uplb
+
+Bromrs Bromiplb BrgEThs Gurs lpm`,
   },
   {
     id: 1611, tantraId: 6, verseNumber: 1610,
@@ -699,6 +931,15 @@ The Nada that ceases not,
 The Bodha that arises at Nada's End,
 All these, may you have," He said,
 He, the Nandi of immortal fame.`,
+    elaborationEnglish: `The rapture that cloys not,
+
+The union that had been not,
+
+The Nada that ceases not,
+
+The Bodha that arises at Nada’s End,
+All these, may you have.”’ He said,
+He. the Nandi of immortal fame.`,
   },
   {
     id: 1612, tantraId: 6, verseNumber: 1611,
@@ -720,6 +961,25 @@ They shall gain the power
 For the five divine acts to perform
 Creation, Preservation, Dissolution,
 Obfuscation and Grant of Grace.`,
+    elaborationEnglish: `Shall reach the very bliss of Mukti;
+
+And all Siddhis of themselves seek them
+Into the Silent Word* would in perfection evolve;
+Mastering Mauna thus, ;
+
+They shall gain the power
+
+For the five divine acts to perform
+
+Creation, Preservation, Dissolution,
+Obfuscation and Grant of Grace.
+
+Mastery through divine mauna leads to the very bliss of mukti
+and then confers the power for the five divine acts —
+Création, Preservation, Dissolution, Obfuscation, and the
+Granting of Grace.
+
+* Ajapa or Soham.`,
   },
   {
     id: 1613, tantraId: 6, verseNumber: 1612,
@@ -739,6 +999,23 @@ And coursed its rhythm in finger-measure four,
 Joyous at lumniscent Guru Feet,
 Have for ever sundered bonds all,
 And never be born and dead again.`,
+    elaborationEnglish: `1) Sambhavi, bhairavi, kechari or chinmudra, jnana mudra
+and yoga mudra.
+
+Some fefer to the three categories, jnathru, jnana and jneya,
+as mudras — triputika jnana. But it does not seem appropriate
+here, as the three mudras are referred to in connection with
+
+yoga.
+2) Sun, moon and fire
+
+Mantras 1612 & 1613
+
+Snap the cycle of birth and death by performing yoga at the
+feet of the Guru. The supreme jnani, after attaining the three
+higher forms, himself becomes the primal form of spirit —
+
+Goawé Osrejumanr apag bers`,
   },
   {
     id: 1614, tantraId: 6, verseNumber: 1613,
@@ -756,6 +1033,13 @@ The Jnani Supreme attains Higher Forms Three;
 And in rapturous dance he enters Jneya
 And himself the Primal Form of Spirit becomes;
 The Jiva that is Jnathru (Knower).`,
+    elaborationEnglish: `The Jiva that is Jnathru (Knower).
+
+Qoiiyb Mpriybd QGgrwyd fuHs
+
+nos sumsonr GenBs Ygrencs
+
+opie gripsswb curdiOQwomp cunts`,
   },
   {
     id: 1615, tantraId: 6, verseNumber: 1614,
@@ -792,6 +1076,13 @@ When at last the hidden Grace of Siva bursts forth,
 And chases the Night away,
 Then is the moment for the soul to renounce;
 When it does then, a radiant Light it becomes.`,
+    elaborationEnglish: `Innumerable times they are bom; they die and forget the
+myriad follies they commit. In darkness they are enveloped.
+Even so, they can find light in the hidden Grace of Siva,
+if they but renounce at the right moment.
+
+Anpucr Mp9) wing Berger
+FIMUD/E Soret gIMsSout Sidenwes`,
   },
   {
     id: 1617, tantraId: 6, verseNumber: 1616,
@@ -810,6 +1101,17 @@ Know you, He has renounced all;
 And to all those who renounce,
 He sunders their bonds of birth
 You insensate ones! Know thus.`,
+    elaborationEnglish: `Mantras 1616 & 1617
+
+The Renunciate.Lord is dharma, birthless and kinless; He
+dwells in the wilds and lives by alms. To all those who
+renounce sincerely, He snaps the fetters of birth. The
+renunciates walk in the straight path; the rest tread crooked
+paths full of thorns that prick.
+
+ApHeours um sore ODEGEGHAY usm ssrer
+Opmured suapader OsGeHled uprumuytd
+ApAuIc cuapur Qumscucd wae`,
   },
   {
     id: 1618, tantraId: 6, verseNumber: 1617,
@@ -827,6 +1129,8 @@ When you from the path deviate
 The thorns of temptation shall prick you;
 They that deviate not,
 Them the thorns prick not.`,
+    elaborationEnglish: `Bry cinorbsg Bots GoucrGover
+Alo aont_uwjont_ Howreat sd holy.`,
   },
   {
     id: 1619, tantraId: 6, verseNumber: 1618,
@@ -845,6 +1149,13 @@ That indeed is not of my seeking;
 Firm in tapas, I stand;
 Seeking the hallowed Feet of the dancing Lord,
 That on the sacred bull rides.`,
+    elaborationEnglish: `The renunciate is not interested in spotting his failings or
+
+demanding praise for his virtues. He stands in tapas firmly,
+
+secking the hallowed Feet of the Lord.
+
+2 [pauctt opalefl 135 Goer`,
   },
   {
     id: 1620, tantraId: 6, verseNumber: 1619,
@@ -863,6 +1174,24 @@ The ploughman then to the ploughwoman left,
 As unto her eyes the flowers are,
 To watch, and guard and tender;
 The ploughman thus for ever ceased`,
+    elaborationEnglish: `flowered;
+
+The ploughman then to the ploughwoman left,
+As unto her eyes the flowers are,
+
+To watch, and guard and tender;
+
+‘The »ploughman thus for ever ceased
+
+All efforts at ploughing further.
+
+The ploughman ploughed at the right moment and Grace
+blossomed in abundance. Then he left it to the: ploughwoman
+to guard and tender, himself ceasing from ploughing
+thereafter. That is, when Grace blossoms, tapas ceases.
+
+Goegink serer Oerm@srat smmmioucs
+STTZIDG SUMTESUCH Sosy s suruihly Gd`,
   },
   {
     id: 1621, tantraId: 6, verseNumber: 1620,
@@ -884,6 +1213,12 @@ The guiding light of all those
 Who Darkness renounced;
 Only to those who abandoned this world,
 Will His Feet within reach be.`,
+    elaborationEnglish: `The Lord, the Shining Light above, renounced all. He, -the
+Friend of “All, vanquished death. He, devoid of desires, is
+the guiding light of those who seek His Feet abandoning things
+worldly.
+
+BTS Qo) UL_WPHs HIV!`,
   },
   {
     id: 1622, tantraId: 6, verseNumber: 1621,
@@ -902,6 +1237,8 @@ In its twain body, subtle and gross
 It raised its hoods and danced away;
 Then into a single hood it merged (Kundalini)
 Into the very body within.`,
+    elaborationEnglish: `gap apuipse a8 Morgpb
+Qausipr Gerenper Ophwgyid sooo`,
   },
   {
     id: 1623, tantraId: 6, verseNumber: 1622,
@@ -921,6 +1258,21 @@ Many, many lives may it take
 For Siva's Feet to reach;
 Who knows how and when
 The Loved One comes?`,
+    elaborationEnglish: `Not that easy may He -come by;
+Many, many lives may it take
+For Siva’s Feet to reach;
+
+Who knows how and when
+
+The Loved One comes!
+
+There is little comfort in the thought that the Primal Lord
+is the First of Renunciates and it will take many many lives
+to reach His Holy Feet. Nobody knows how He, the Loved
+One. comes, and when.
+
+giby Spgs gorugs auTiggy
+BbuUIGSypONMe serch ut g`,
   },
   {
     id: 1624, tantraId: 6, verseNumber: 1623,
@@ -941,6 +1293,9 @@ Climbed the mast of Negation Bitter,
 And looked atop from the cranium roof;
 And lo! beheld the budded vine bloom,
 As in temple lofty and sacred.`,
+    elaborationEnglish: `5. gab
+
+QOwveuyd Qo Qoriusd Qearenw`,
   },
   {
     id: 1625, tantraId: 6, verseNumber: 1624,
@@ -959,6 +1314,14 @@ Neither is there death
 Nor pain, nor night nor day,
 Nor fruits of Karma to experience;
 That truly is the state of the desire-renounced.`,
+    elaborationEnglish: `Mantras 1624 & 1625
+
+The renunciates are calm and serene. They do not tremble
+in fear, and are not shaken by the fury of passions, fear
+of death, by night, or by day, by fruits good and bad of
+karma. They rest in absolute tranquillity. Blessed are they
+who know the mystery of life, the origin of earth and the
+greatness and might of pure deeds of tapas.`,
   },
   {
     id: 1626, tantraId: 6, verseNumber: 1625,
@@ -976,6 +1339,33 @@ The might of pure deeds of tapas
 Who knows them all
 But they that receive Lord's Grace?
 The rest know naught of tapas supreme.`,
+    elaborationEnglish: `Qptugd wrtue IéeosOsd wrpset
+ApiOur® Gucwyw Oscdand Qugiout
+upiniea gr@u wipes Oasuseurt
+
+Yptwdacr SSG QuGewQupH pTG7. — 1626
+
+Tapasvin Ends Birth
+
+The Tapasvins many that live by alms
+Have no life hereafter;
+
+On them shall’ be showered
+
+All blessings of Spiritual wealth;
+
+They that perform tapas incessant
+Attain the power to end
+
+All births to ke.
+
+Mantras 1626 & 1627
+
+The tapasvins who live by alms will be born no more; and
+on them will be bestowed all spiritual wealth. Transfixed in
+mind, tortured in body, stout-of heart, and unyielding to |
+temptations, they perform splendorous tapas with determined |
+thought centred on Siva alone.`,
   },
   {
     id: 1627, tantraId: 6, verseNumber: 1626,
@@ -1032,6 +1422,21 @@ The gold-hued;
 None but they of hard tapas may near Him;
 Do hasten and Him adore,
 He, the mighty one of the white moon crest.`,
+    elaborationEnglish: `He of the spreading matted locks:
+The gold-hued;
+
+None but they of hard tapas may near Him;
+Do hasten and Him adore,
+
+He, the mighty one of the white moon crest.
+
+The Lord hides and yet hides not. He, of the spreading matted
+locks and the Gold-Hued form cannot be visioned by our
+naked eyes. The inner eyes of the tapasvins of hard penance
+can, however, vision Him. So, intensely adore the mighty God
+Sporting the milk white crescent moon.
+
+UerGerig mugs sGart Qeruc Mpc’ omer`,
   },
   {
     id: 1630, tantraId: 6, verseNumber: 1629,
@@ -1049,6 +1454,16 @@ He made me reach now and here,
 He-the Primal One:
 When the mind transfixed reaches God,
 He of Himself reveals, sure.`,
+    elaborationEnglish: `Mantras 1629 & 1630
+
+When the concentrated mind reaches the Primal One, He
+reveals Himself. In this perishable world where everything is
+transient, tapas alone is the imperishable wealth. It alone can
+confer immortality.
+
+1) Same as Mantra 1586 ante.
+
+umMsEsSOSUpL sq ult_ot BOG`,
   },
   {
     id: 1631, tantraId: 6, verseNumber: 1630,
@@ -1065,6 +1480,13 @@ Amidst the tumult of raging hatred, they perished,
 The kings, their ministers and their elephantine hordes;
 But fixing their sights on divine Jnana and universal love,
 The tapasvins immortals became, their eyelids batting not.`,
+    elaborationEnglish: `But fixing their sights on divine Jnana and universal
+love,
+
+The tapasvins immortals became, their eyelids
+batting not.
+
+FTSHID HSC FRE ai_Obr`,
   },
   {
     id: 1632, tantraId: 6, verseNumber: 1631,
@@ -1081,6 +1503,11 @@ Come apart from the clever argumentation of contending theology,
 And for a brief brief while, look inward;
 That one look shall drive the nail into the coffin of birth
 And forever end its cycle recurring.`,
+    elaborationEnglish: `Neither argumentation of contending theologies nor knowledge
+of scriptures can end the recurring cycle of birth. Look inward
+even for a brief while. That can take you far.
+
+SaunGacrG Ererh soour Garesrig vd`,
   },
   {
     id: 1633, tantraId: 6, verseNumber: 1632,
@@ -1098,6 +1525,15 @@ Tapas you need not, when Jnana Samadhi you attain;
 Tapas you need not, when you are in Sahamarga of Yoga;
 Tapas they seek not, who the Self to transform
 Know not.`,
+    elaborationEnglish: `The aspirant for jnana needs tapas. After attaining jnana
+samadhi in Sahamarga (Yoga) tapas is not necessary. They
+who have realised the Self, and who seek to transform the
+self into the Over-Self do not need tapas.
+
+6. su Heong
+
+Sragiib Goucsin@uwws snuff Dimascrmn
+srsgilb Gossime, ForGes gay.cmrp`,
   },
   {
     id: 1634, tantraId: 6, verseNumber: 1633,
@@ -1114,6 +1550,12 @@ You need not pray, if the Soul of Souls enters in you;
 You need not adore, if Siva abides true in you;
 You need not die, if Samadhi you attain,
 You need not renounce, if you go not the way of senses.`,
+    elaborationEnglish: `the senses.
+
+There is no need for prayer and adoration if the Soul of
+Squls enters and abides in you. When the state of samadhis
+is attained, death ceases. Renunciation is not demanded when
+you do not concern yourself with the ways of the senses.`,
   },
   {
     id: 1635, tantraId: 6, verseNumber: 1634,
@@ -1134,6 +1576,28 @@ You need no baptismal rites
 When you stand detached;
 You need no meditation,
 When you have reached actionless state.`,
+    elaborationEnglish: `When in understanding you withdraw
+You need no speaking
+
+When in Samadhi you are seated:
+
+You need no baptismal rites
+
+When you stand detached;
+
+You need no meditation,
+
+When you have reached actionless state.
+
+In the act of supreme understanding, shouting counts for little.
+Speech is not necessary when seated in samadhi. Baptismal
+rites matter not when you are detached. Nor is meditation
+needed in the stilled’ actionless-state of samadhi that
+transcends all meditation.
+
+Narap sntusro. Gwwssoes, Oswouri
+
+Pass cuttusset Guouwwse7 Oewount`,
   },
   {
     id: 1636, tantraId: 6, verseNumber: 1635,
@@ -1154,6 +1618,16 @@ They who stand in righteous way
 Shall enjoy the fruit thereof
 They who are great on earth
 Shall reap heaven's fruit.`,
+    elaborationEnglish: `Mantras 1635 & 1636
+
+Great are those on earth who receive heaven's fruit, which
+can be reaped only by performing true tapas, speaking truth
+and following the path of virtue. Performance of tapas with
+oneness of mind and eagerness of heart will grant the Lord’s
+triumphant Feet and the Siva-state. Seeking in the yearning
+of heart alone is tapas.
+
+C545 pug;Oelg souG_or Ass`,
   },
   {
     id: 1637, tantraId: 6, verseNumber: 1636,
@@ -1191,6 +1665,17 @@ The tapasvins true their heaven reached;
 Let them that are tossed in the sea of births about
 Listen but to their Commandments holy,
 Then can they see Nandi, face to face, for sure.`,
+    elaborationEnglish: `The tapasvins true their heaven reached;
+
+Let them that are tossed in the sea of births about
+Listen but to their Commandments holy,
+
+Then can they see Nandi, face to face for sure.
+
+basher perm wHancr 2 Gad
+
+QasBor. $59 Qoosrm Srsgi
+yousheon. agabh Gursnow wiser`,
   },
   {
     id: 1639, tantraId: 6, verseNumber: 1638,
@@ -1208,6 +1693,15 @@ Flash it across the bonds of pasa, hacking them twain;
 And watch your Self, lest senses five run wild;
 Then, shall light that is of tapas born
 Become light of the Self.`,
+    elaborationEnglish: `Mantras 1638 & 1639
+
+Unsheath your sword of jnana from thought’s scabbard and
+snap the fetters of pas%. Then will the light of tapas dawn,
+which becomes the light of the Self. He, the Lord, stands
+very close with us. It is tapas which grants bhakti, mukti and
+makes munis divine.
+
+9531 Davy Hermrencr wengeiuigy`,
   },
   {
     id: 1640, tantraId: 6, verseNumber: 1639,
@@ -1245,6 +1739,19 @@ And my heart ebbed low;
 But I stood in tapas
 And touched Cranium heights
 Lo! met mine Lord.`,
+    elaborationEnglish: `Formal worship like adoming the Lord with garlands of leaves
+and multi-coloured flowers, and analysing the lofty lore of
+scriptures will not take you to God. Tapas is the supreme
+
+_ means which takes one to the cranium heights, and confers
+
+the vision of the Lord.
+
+ae aaal ee : 257
+
+ULféeot wrsab uppw users,
+ALI wirccirosrlh Teer CHORD
+Qrom Qewisat Oows5c Carshov`,
   },
   {
     id: 1642, tantraId: 6, verseNumber: 1641,
@@ -1266,6 +1773,14 @@ And my heart ebbed low;
 But I stood in tapas
 And touched Cranium heights
 Lo! met mine Lord.`,
+    elaborationEnglish: `Mantras 1641 & 1642
+
+By the Grace of. the Lord, the devout tapasvins are freed
+from harm. In their oneness of mind, tapasvins block the births
+to come’ Evasion of tapas will bring ever-lasting hunger. He
+who does not seek to perform tapas is like the man who
+falls into the embrace Of a bear on the bank when escaping
+from the crocodile in the river.`,
   },
   {
     id: 1643, tantraId: 6, verseNumber: 1642,
@@ -1283,6 +1798,7 @@ And on the bank they fell into the embrace of the bear
 Thus are they the ignorant of scriptures,
 Who from austere tapas run away
 For food and in hunger roam for ever.`,
+    elaborationEnglish: `Gypssarn gictohws Ganosieours udvarp`,
   },
   {
     id: 1644, tantraId: 6, verseNumber: 1643,
@@ -1301,6 +1817,10 @@ For the fruit to ripe and for the ripened fruit to eat;
 They that can tether the lusty legged calf to the yard
 Shall no more have pulls within;
 Their thoughts will in oneness center.`,
+    elaborationEnglish: `Get the lusty-legged calf, which jumps about inside the body
+sack, into the yard of knowledge. No more will there be pulls
+within. The thoughts will be centred in oneness on Siva.
+That is the real state of tapas.`,
   },
   {
     id: 1645, tantraId: 6, verseNumber: 1644,
@@ -1321,6 +1841,17 @@ Then shall you be one with Siva;
 Then is truly Siddhi and Mukti;
 But your thoughts shall be of all Siva
 Only by tapas intense.`,
+    elaborationEnglish: `‘But your thoughts shall be of all Siva
+
+Only by tapas intense. i
+
+‘There is no need of undergoing any sort of penance,
+if your thoughts are of Siva; if your thought finds kinship
+in Siva bliss and you become one with Siva. Only through
+intense tapas can this be attained. That is verily siddhi
+and mukti.
+
+7. HGOGOeooule Cred aGqee`,
   },
   {
     id: 1646, tantraId: 6, verseNumber: 1645,
@@ -1337,6 +1868,17 @@ If you have Lord's Grace, you have all riches;
 If you have Lord's Grace, you have true Jnana;
 If you have Lord's Grace, you have greatness too;
 If you have Lord's Grace, you shall be the great God Himself.`,
+    elaborationEnglish: `Mantras 1645 & 1648
+
+They who have God's Grace have all the riches — true jnana,
+and greatness. They will become the great God Himselt. When
+the right moment arrives, He grants benediction with His Grace
+standing by-and ends the cycle of recurring births; ultimately
+bestowing mukti. .
+
+aipugs Gur 2vap Sreunt
+
+AM womipiberd MuPaye | _`,
   },
   {
     id: 1647, tantraId: 6, verseNumber: 1646,
@@ -1354,6 +1896,21 @@ Exuding Jnana that is beyond Tamil mandalas; Five
 Tamil mandalas are but Siva Tattvas;
 There it is the blossoming mind
 And attainment of Lord's Jnana.`,
+    elaborationEnglish: `Tamil mandalas are but Siva Tattvas;
+There it is the blossoming of mind
+And attainment of Lord’s Jnana. ‘
+
+1) Tamil is used-in the specific meaning of ‘Siva’.
+
+Men go about saying jnana is beyond the five “Tamil
+mandalas’’ — spatially. They are very ignorant. The ‘‘Tamil
+mandalas” are the five Siva tattvas themselves.
+
+yosofu umouib B)rerGer piu
+
+prey Ours anil eieflact
+
+stoss ossf Quoi yd Carns gsuyms`,
   },
   {
     id: 1648, tantraId: 6, verseNumber: 1647,
@@ -1370,6 +1927,8 @@ Good and evil, they are two in this world
 As they seek God, some Jnanis know them;
 As you cognize them two and uproot them
 Then shall you perceive Lord's Abode Beyond.`,
+    elaborationEnglish: `Inanis realise that God is beyond good and evil, beyond time
+and space.`,
   },
   {
     id: 1649, tantraId: 6, verseNumber: 1648,
@@ -1387,6 +1946,10 @@ And blesses you with His Grace;
 A Benevolent Force, He stands as life-center of world
 Still standing by you, He ends your birth to be,
 Lo! He stood before me, and bestowed Mukti on me.`,
+    elaborationEnglish: `Aas onpfet Csaig wroat
+
+Ase ormmfloet OswaugsGsa O_omciuit
+Aas ommvdencr Geg® curenw`,
   },
   {
     id: 1650, tantraId: 6, verseNumber: 1649,
@@ -1404,6 +1967,15 @@ By Siva's Grace some equal Gods
 By Siva's Grace Karmas near not;
 When you have Siva's Grace,
 You shall enter His Kingdom, indeed.`,
+    elaborationEnglish: `Receiving the Grace of Siva, some become devas, some equal
+God, some are freed from karma. Possessing that Grace, some
+will enter His kingdom itself.
+
+yourotucr shams Yhgor Qoowwy
+
+poucd AadQser Grd Monga
+
+Wewesa Tragylh aero gravgyeb`,
   },
   {
     id: 1651, tantraId: 6, verseNumber: 1650,
@@ -1422,6 +1994,11 @@ And lo! Jnana shone forth as a beacon light;
 You remain an earthly being
 Or a Heavenly Being become;
 All, as my Lord's Grace dawns.`,
+    elaborationEnglish: `If you seek the Holy Feet of the Immaculate One with jnana
+
+-as the bedcon light, Grace decides your birth to be — an~
+
+earthly being or a heavenly being.`,
   },
   {
     id: 1652, tantraId: 6, verseNumber: 1651,
@@ -1444,6 +2021,16 @@ And receive Grace of the Pure One,
 They shall sure be drawn
 In the triumphant Chariot of Unity
 And be one in God, obliterating I and He.`,
+    elaborationEnglish: `Realisation of the truth that the body-chariot is only illusion’s
+chariot that produces fantasies will make men to mount
+
+the chariot of love instead; to receive the Grace of the ,
+
+Pure One, which unites the soul in God.
+
+Auayw 6365 Wnsho 21 Qor@w
+
+Aueyo 6365 wyerg MmBout`,
   },
   {
     id: 1653, tantraId: 6, verseNumber: 1652,
@@ -1460,6 +2047,11 @@ If born in body in the Other World
 Tapasvins will pursue tapas there;
 And will there reach Lord's Feet
 And receive His Grace for sure.`,
+    elaborationEnglish: `The tapasvins will certainly receive His Grace through tapas,
+even if they are born in body and flesh in the other world.
+
+SPiscmr asnpsal sorcdor culty cud
+wisemt sibs woslfit cu cure`,
   },
   {
     id: 1654, tantraId: 6, verseNumber: 1653,
@@ -1476,6 +2068,8 @@ Form within Sun-Stone is red hot ember,
 Form within Moon-Stone is pearly drop of water,
 Form within Fire-Stone is crackling fire,
 Form of Lord that holds fire aloft
+Is Beauty Surpassing.`,
+    elaborationEnglish: `Form of Lord that holds fire aloft
 Is Beauty Surpassing.`,
   },
   {
@@ -1511,6 +2105,11 @@ Your pretension but helps you gorge yourself fast with food;
 Well may you sing and dance and weep and wail
 And thus may Siva seek,
 Yet never, never shall you glimpse His Feet.`,
+    elaborationEnglish: `They are knaves who deceive people by putting on false robes,
+while gorging themselves with delicious dishes. They may sing,
+dance, weep and wail; yet they cannot glimpse His Feet.
+
+rot CsQel Dossier 4. Guienid`,
   },
   {
     id: 1657, tantraId: 6, verseNumber: 1656,
@@ -1529,6 +2128,18 @@ And go about the land begging,
 And evil ways pursuing,
 The rains fail and famine strikes the land;
 Better by far, these evil men are de-robed straight.`,
+    elaborationEnglish: `Mantras 1656 & 1657
+
+Wearing holy attire and going the rounds for alms without
+attaining jnana; they but walk the perilous evil paths that
+are forbidden. They will lead the land to famine. A land enjoys
+affluence or adversity according to the good and bad deeds
+performed by its people. It is the duty of the ruler to lead
+the people in virtuous and righteous paths. The land is then
+sure to remain in prosperity and peace.
+
+Qauwps gistuagpb pmiimw Mggicrer
+acu Qompry srGopb pri_uyoflon`,
   },
   {
     id: 1658, tantraId: 6, verseNumber: 1657,
@@ -1546,6 +2157,20 @@ Out of good deeds and evil do they spring;
 And so,
 If the ruler unceasing leads the multitude in virtue's way,
 That land in prosperity waxes ever.`,
+    elaborationEnglish: `UPSos srw urpescr. great
+seus Caria smorwiut GimrGo.
+
+Why they don the Holy Robes
+
+The lowly-born don the rove
+
+That they may the high become;
+
+The high-born don the robe
+
+That they may the Gods become;
+
+To infamy-born are the knaves in robes`,
   },
   {
     id: 1659, tantraId: 6, verseNumber: 1658,
@@ -1581,6 +2206,11 @@ They shall not become the holy ones;
 False tapas is deceit and vain effort
 A ruse for worldly enjoyment;
 Only by Truth of Jnana can tapas firm abide.`,
+    elaborationEnglish: `Only by truth of jnana can be performed true tapas.
+
+QurliGuribd yout Gunga uwemre
+
+260 ‘`,
   },
   {
     id: 1661, tantraId: 6, verseNumber: 1660,
@@ -1597,6 +2227,20 @@ They don the false robe their bellies to fill;
 They don the true robe and receive exalted oblations above;
 Even if false robes are donned to simulate the true,
 The discerning see through, and make themselves free.`,
+    elaborationEnglish: `The discerning see through, and make themselves
+free. i
+
+Practising false tapas is ignoble and unholy, full of deceit
+and conceit. It is but an artifice to indulge in mundane
+materialistic pleasures. The discerning eyes are capable of
+seeing through the false robes, and free themselves from the
+clutches of ‘the Wearers.
+
+subs soaiGl Somowner Gait
+
+aubs suGrwAQastrenc Gant
+
+subs sarGaurLgs srangu Cais`,
   },
   {
     id: 1662, tantraId: 6, verseNumber: 1661,
@@ -1613,6 +2257,11 @@ The true tapasvins are the truly robed;
 The sinful are but murderous hunters;
 These are not for holy robe entitled;
 None but tapasvins true deserve robe true.`,
+    elaborationEnglish: `uD usiag ergot wrhudp
+
+aIgsh sribiy GML ova Hons
+
+oD watsgeb 26587 srgenh`,
   },
   {
     id: 1663, tantraId: 6, verseNumber: 1662,
@@ -1629,6 +2278,8 @@ To smear holy ashes is first step to tapas;
 Rings of copper in ears, and garland of rudraksha beads around neck
 --These too are other emblems to Siva reach;
 Thus do the blemishless Siva Yogins for tapas prepare.`,
+    elaborationEnglish: `CwTHSé AQwg ACS OS aehacii
+pissy foot wiisdé SUTVES`,
   },
   {
     id: 1664, tantraId: 6, verseNumber: 1663,
@@ -1648,6 +2299,45 @@ Ashes smeared all over,
 A begging bowl of human skull shape
 A cowl staff of hard cane
 --Thus is Siva Yogi accoutred.`,
+    elaborationEnglish: `Mantras 1663 & 1664
+
+The prescribed mendicant equipment for a Siva yogin are:
+1) a waist-strip for an undervest, and a long tunic to wrap
+the body; 2) matted hairlock done in peacock style; 3) ashes
+smeared all over the body; 4) kundala to adorn the ears and
+kandika to fill the nose; 5S) a begging bowl, of skull shape,
+and kamandalu pot to-hold water; 6) a conch to blow and
+a kappara vessel to hold ashes; 7) the yogic sandals; 8) the
+yogic seat: 9) the yogic sash; 10) the yogic staff. These ten
+constitute the equipment of the Siva yogin.
+
+STFC GML VE HTM GTS (Lp
+
+g500 urgaib Gurargs wrgostd ;
+gee Gurauc LgsemLWb Font bCS 1664
+
+Ten appurtenances of Siva Yogins
+
+Kundalam the ears to adorn,
+
+Kamandalam the water to hold,
+
+Kandikai the neck to fill
+
+A conch to blow, a ‘bowl to beg ‘
+
+And a Kapparai to hold the ashes
+
+The correct sandals and Yogic seat
+
+The Yoga sash and Yogic staff
+
+—These ten consist Siva Yogi's appurtenances.
+
+gives Nensuph coumipfer aptiasir
+
+greg Buatiah wosPens wyremomb
+iwTQwistgnd sppert uritiurt ugapedt`,
   },
   {
     id: 1665, tantraId: 6, verseNumber: 1664,
@@ -1686,6 +2376,21 @@ Brahmins true who live in accord thus,
 Shall see Jiva in Siva uniting;
 Chant sacred mantra "Aum"
 And lo! the Two merge forever in One.`,
+    elaborationEnglish: `Fools know not what thread and tuft are;
+Thread is but Vedanta, and tuft is Jnana;
+Brahmins true who live in accord thus,
+
+TANTRA SIX : 261
+
+Shall see Jiva in Siva uniting;
+Chant sacred mantra ‘‘Aum’’
+And lo! the Two merge forever in One.
+
+Fools are ignorant of the fact that thread and tuft are but
+symbolic of Vedanta and jnana. True brahmins, knowing this,
+unite in Siva by continuous chanting of the mantra, ‘Aum.’
+
+Saat Monsees FTG FlusH`,
   },
   {
     id: 1667, tantraId: 6, verseNumber: 1666,
@@ -1705,6 +2410,12 @@ For them who in joy smear it
 Karmas take flight,
 And Siva-state comes seeking;
 And they shall reach His handsome Feet.`,
+    elaborationEnglish: `The power of the holy ashes of Siva is so great that they
+
+alts ier
+
+OHromupsironni Gout dQ arya sorips sit
+Grr wpargsrs Goucs@Gant séaorured`,
   },
   {
     id: 1668, tantraId: 6, verseNumber: 1667,
@@ -1741,6 +2452,53 @@ Sans robe, Jnana yet leads to Mukti;
 When they seek Jnana,
 They shall seek Lord and pray,
 Their hearts robed in Jnana way.`,
+    elaborationEnglish: `_ They shall seek Lord and pray,
+
+Their hearts robed in Jnana way.
+
+Mantras 1668 & 1669
+
+Without jnana that leads to mukti, mere robes are
+insignificant. They of dubious jnana wear the robes in vain.
+Jnanis seek jnana; that is everything. Robed in the attire of
+jnana, they pray deep in their hearts. The perfect jnanis, filled
+with Grace, do not speak.
+
+gisnerergs GCaritew weg aonGornt
+
+Perfect Jnanis speak not
+
+They of lowly Jnana in.vain assume robes;
+Filled with Grace, they of true Jnana covet it not;
+The bigots of faiths are of evil Jnana;
+
+The perfect of Jnana speak not.
+
+who smear it in exultation will be freed from karmas; finally
+reaching His Handsome Feet.
+
+Mysore alway coms)
+
+Holy Ashes elevate to Brahma Status
+The holy ash shall make you a king —
+
+.And all regalia shall you have;
+
+They that are in its fire purified
+
+Shall in truth be transformed divine;
+Reaching the Feet of the Eternal, the Immaculate
+They shall attain Brahman’s form
+
+And ever be of Order Divine. -
+
+Cleansed in the fire of the holy ashes, they reach a regal
+status. They reach the Feet of the Eternal, Immaculate Lord,
+attaining ultimately the form of Brahman.
+
+Gam_wb
+
+Aur srgorb wmarg, Gao`,
   },
   {
     id: 1670, tantraId: 6, verseNumber: 1669,
@@ -1774,6 +2532,13 @@ Is it meet superfluous ways to adopt;
 In sooth, needless indeed are the sadhanas Four for them,
 When they can see the Peerless One
 Within themselves full.`,
+    elaborationEnglish: `* Chariya, Kriya, Yoga and Jnana
+
+Neither for the Siva jnanis nor for the Siva yogis is it necessary
+to adopt the four sadhanas when they can feel the
+omnipresence of the Peerless Lord within themselves.
+
+6585 Hout sepuy srwGurn`,
   },
   {
     id: 1672, tantraId: 6, verseNumber: 1671,
@@ -1792,6 +2557,36 @@ They frisk about like monkeys in merriment
 They of false Jnana;
 But quiescent are the Siva Jnanis true,
 Dead to the world, though living in body and senses.`,
+    elaborationEnglish: `262 ' TIRUMANTIRAM
+
+But quiescent are the Siva Jnanis true,
+Dead to the world, though living in body and senses.
+
+ayuw7 guGog ww gergrr
+
+a3uT7g wrangd Gog wren
+
+agwu7 gers sy uniscr so1Gp. ~° 1672
+
+Siva Jnanis alone are of the Holy Order
+
+They truly are of Holy Order
+
+Who have attained Sivajnana;
+
+They truly are of Holy Order,
+
+The rest are not;
+
+Nor their robes holy;
+
+They are never, never by reckoning any.
+
+Mantras 1672 & 1673
+
+Siva jnanis alone are of the Holy Order and fit to wear the
+holy robes. The rest will never be esteemed. Whatever robe
+the Siva jnani adopts, that shall aid him to jnana.`,
   },
   {
     id: 1673, tantraId: 6, verseNumber: 1672,
@@ -1826,6 +2621,8 @@ Even the gayest attire becomes the Jnani,
 Albeit his own robe is of Siva Yogin;
 Whatever robe he adopts, that shall aid him to Jnana,
 Nothing is becoming him, and not-becoming him.`,
+    elaborationEnglish: `GrrsH omrmpugs Horrgoics5 Foscpresil
+SIGSHHD uss soflure wssoortd`,
   },
   {
     id: 1675, tantraId: 6, verseNumber: 1674,
@@ -1842,6 +2639,15 @@ The Siva Jnani that seeks deliverance through Jnana
 Is a shrine unto himself, unique of status;
 He observes mauna, and so is a Mukta and Siddha;
 How can other tapasvins be like unto him'`,
+    elaborationEnglish: `Mantras 1674 & 1675
+
+A jnani is superior to a tapasvin, because he is a shrine unto
+himself. His status is unique. He observes mauna, and is a
+mukta and a siddha too. Through destruction of the self, ‘Il’
+becomes ‘He,’ in Siva/jiva identity. All these andthe blessings
+still beyond they receive at the Feet of Nandi.
+
+goncrw cso wirer Qwmensuys`,
   },
   {
     id: 1676, tantraId: 6, verseNumber: 1675,
@@ -1860,6 +2666,11 @@ The identity in Siva
 The Mudra setting the state ultra,
 All these and the rest they had,
 They who received deliverance at Feet of Nandi.`,
+    elaborationEnglish: `12. Fa Cantw
+
+Curate Zorgit-p QurpuH sry
+
+Dore Dap GoEGHOswd .IHCort`,
   },
   {
     id: 1677, tantraId: 6, verseNumber: 1676,
@@ -1876,6 +2687,8 @@ By Hara's Grace they become His liege-men;
 Within the body mansion, they seek His golden throne;
 Darkness dispelled, they know of deeds none, good and bad;
 Thus they stand steadfast in the liege-robe of Siva.`,
+    elaborationEnglish: `ei Oe gadPu Gatwh audtaearar
+aicaper prvGarwb 21 Gor spgyb`,
   },
   {
     id: 1678, tantraId: 6, verseNumber: 1677,
@@ -1892,6 +2705,10 @@ The robe is for the body; not for the Soul
 When the body falls, the garb with it falls;
 Those that know not that the Soul within the body is real,
 Are tossed about like a log caught in wavy sea.`,
+    elaborationEnglish: `Polemics against the ‘anatman’ concept of Buddhism,
+Lokayata, etc. E
+
+suginn sorohur maulensords snd`,
   },
   {
     id: 1679, tantraId: 6, verseNumber: 1678,
@@ -1908,6 +2725,21 @@ Sans illusions, sans ignorance, sans intelligence,
 Sans the embraces of fish-eyed damsels and their attachment
 Themselves as themselves, in solitude remain one in Siva-Sakti;
 Thus are they, the Holy ones in Siva's robe.`,
+    elaborationEnglish: `attachment,
+
+Themselves as themselves; in solitude remain one
+in Siva-Sakti;
+
+Thus are they, the Holy ones in Siva’s robe.
+
+Cognition of the truth that it is the soul within the body that
+matters rather than the body with the garb — that truth frees
+and protects men from the wavy sea of illusions. The holy
+ones in Siva robes remain in solitude, one in Siva/Sakti. They
+are not perturbed by illusions, ignorance, intelligence and
+allurements of the fish-eyed damsels of the world.
+
+uO ou BiDoow BUG WiTeTHZcroners -`,
   },
   {
     id: 1680, tantraId: 6, verseNumber: 1679,
@@ -1924,6 +2756,12 @@ What avails thee, vain men, these holy robes?
 Rein fast the fleeting mare of the twin breath;
 And seek Nandi, Our Lord Beloved,
 You shall attain sure the Bliss you crave.`,
+    elaborationEnglish: `Casting aside all these holy robes, seek Nandi, the Beloved
+Lord. Then shall you attain the bliss that is final.
+
+{
+
+GGLyuoor farts FGM Oancrount`,
   },
   {
     id: 1681, tantraId: 6, verseNumber: 1680,
@@ -1940,6 +2778,15 @@ They seek not the Guru that blindness cures
 They seek the Guru that cures not blindness;
 The blind and the blind in a blind dance shuffled
 And the blind and the blind in a deep pit together fell.`,
+    elaborationEnglish: `Mantras 1680 & 1681
+
+/The acts of the unfit are like the blind leading the blind,
+both finally falling into a deep pit. False disciples do not think
+of the fruits of karma, but rather of the temptations of the
+backyard drain.
+
+Aeororider ssoher Hipenovue srosmrit
+Mencriuwer Cure ersGuym Oanrcironmn`,
   },
   {
     id: 1682, tantraId: 6, verseNumber: 1681,
@@ -1956,6 +2803,7 @@ From out of mind, mirror of illusion rises
 Think of it, even its shadows they see not
 And nothing they do for the fruits of Karma to drop;
 The temptations of the backyard drain, they go after.`,
+    elaborationEnglish: `enipene Quiw wgoper pIDOs`,
   },
   {
     id: 1683, tantraId: 6, verseNumber: 1682,
@@ -1974,6 +2822,20 @@ The mother's milk flows sweet in the mouth,
 But even the dear and near know not
 How the mother's breast becomes so;
 Verily, it is the Formless Being that shapes this body-form.`,
+    elaborationEnglish: `But even the dear and near know not
+
+How the mother’s breast becomes so;
+
+Verily, it is the Formless Being that shapes this
+body-form.
+
+Mantras 1682 & 1683
+
+They, the ignorant multitude, do not understand the mystery
+of the body. Realise the Gracious Lord in purity of thought,
+word. and deed. You become the clite.
+
+BQuct Da Ecrmeags Ogsohcucr Oso ps Now`,
   },
   {
     id: 1684, tantraId: 6, verseNumber: 1683,
@@ -1994,6 +2856,7 @@ Gracious Lord! You Rock of Ages!
 I know You as the Fire-hued Lord,
 And having known that
 None dares know me as creature insensate.`,
+    elaborationEnglish: `wees sows Gynt Capac AGES td`,
   },
   {
     id: 1685, tantraId: 6, verseNumber: 1684,
@@ -2028,6 +2891,29 @@ In Siva they stand;
 Even Celestials know this not;
 They who know not Siva in tapas-standing,
 Stood in tangle of births to endless sorrow condemned.`,
+    elaborationEnglish: `Mantras 1685S & 1687
+
+Tapasvins, having consumed Karma, stand in Siva. Tapasvins
+who seek God are.not concerned about their likes and dislikes.
+They look neither to the dawn, nor to the vast spaces outside,
+but look inward to glimpse’ the light that ends births.
+
+Uspgyh Opmagyth Quen sama
+
+apa Qeanurea Qwpns syoeGa. ~ 1686
+
+Qualities unbecoming Tapasvins
+
+Feeling, thinking, doing
+Eating. tasting, hurting
+Falling, rising, boasting ,
+These come’ not
+
+To those who walk in God.
+
+Mga sHwat Osuchanoss woot
+
+aywuGar Gesofow + Qiler anesthe`,
   },
   {
     id: 1687, tantraId: 6, verseNumber: 1686,
@@ -2064,6 +2950,7 @@ Close your inner eyes hard
 And then see;
 Behold, there is the Light
 That brings not another day!`,
+    elaborationEnglish: `Quss WOYPsS cA Inpypns -`,
   },
   {
     id: 1689, tantraId: 6, verseNumber: 1688,
@@ -2083,6 +2970,17 @@ Nor aught of Tattvas and the way ahead;
 But takes a wayward course,
 A disciple exceeding mad;
 To him is not the gift of Grace granted.`,
+    elaborationEnglish: `Mantras 1688 & 1689
+
+Grace is not for the false disciple, who instead of striving
+for mukti, yearns for worldly pleasure. He does not snap the
+bonds of the soul, nor free himself from incessant lust. He,
+a mean liar, is indifferent to birth and death. Verily, Grace
+finds him a ‘stranger.
+
+Lerayid WObEhgLbd wap cues Gwrgresr
+giciohu stun Ganys OsmpPodséaisnet
+Oerofu Qurdiwer Mnudnd ughergrer`,
   },
   {
     id: 1690, tantraId: 6, verseNumber: 1689,
@@ -2100,6 +2998,9 @@ Nor of deliverance from incessant lust immersed;
 A mean liar, fears neither birth nor death
 Verily, a stranger to Grace shall be
 He, the disciple false.`,
+    elaborationEnglish: `THE FIT DISCIPLE
+
+anpus aumipe ayPwg) ayrant`,
   },
   {
     id: 1691, tantraId: 6, verseNumber: 1690,
@@ -2117,6 +3018,39 @@ The Disciples Fit
 Find the blemishless Guru;
 They know their job and so find the Path;
 The rest are to destruction destined.`,
+    elaborationEnglish: `ussOsmi pe Gsorug wrajencr pir.
+Aags5y. Cusralencs Abpsencr Br
+
+Lord! Grant me Your Grace
+
+You, Supreme Lord!
+
+Seeking You, I lost all sense of fear;
+Now I wander not,
+
+And seek not another’s company;
+Shatter, Lord, my Karmas
+
+Uproot them from my very thoughts
+And kick them off:
+
+ssn 5 SRE Oo RTO!
+
+esheets
+
+TANTRA SIX 4 265
+
+Grant me Your Grace
+Own me,
+And make me Your slave forever.
+
+Mantras 1691 & 1692
+
+““God, my Lord, in seeking You as my sole companion, I
+have lost all sense of fear. Eradicate the very roots of karma
+from my thoughts. Grant me your Grace and make me your
+slave and leigeman.” Grace is granted to those whose thoughts
+Tun thus, and are centred solely on oneness with the Lord.`,
   },
   {
     id: 1692, tantraId: 6, verseNumber: 1691,
@@ -2157,6 +3091,9 @@ Para the Seed of seeds;
 And rally your thoughts to oneness
 And stand thus in love and accord;
 To such that do, He grants His Grace.`,
+    elaborationEnglish: `Oarcsratayid BYU GGIMUMs Darcreps
+
+aorons sSoneruyid Qontadion Gsplerm`,
   },
   {
     id: 1694, tantraId: 6, verseNumber: 1693,
@@ -2176,6 +3113,11 @@ Your body, life and wealth;
 And in constancy learn clear,
 Not a moment distracting,
 You shall sure reach Siva's State.`,
+    elaborationEnglish: `Submit everything — your body, life and wealth to the holy
+Guru whom you'seek. Then you will surely in constancy reach
+Siva’s state.
+
+EAuot bron Honorpsurs asvvgl`,
   },
   {
     id: 1695, tantraId: 6, verseNumber: 1694,
@@ -2193,6 +3135,18 @@ In the conjunction of Lagnas Vrischika and Kataka,
 Of the Guru, the holy precepts you receive;
 Except it be them who stand in the path of virtue
 The Primal One knows none.`,
+    elaborationEnglish: `Only the virtuous know the Primal Lord and receive the holy
+
+precepts of the Guru in the asterisms of swati and visakha,.
+
+in the conjunctions of lagnas, vrischika and kataka.
+
+‘
+
+Mular’s faith in astrological concepts is demonstrated here.
+
+Osmporg wines g1lisrer Fens
+Npemt Mnwnh Mencrmg Gurss`,
   },
   {
     id: 1696, tantraId: 6, verseNumber: 1695,
@@ -2213,6 +3167,9 @@ Rooted deep unto undying weeds,
 Disappear;
 And you shall glimpse the Grace
 Of the valorous Feet of Lord Holy.`,
+    elaborationEnglish: `Discipline creates pure thoughts, and there dwells the
+beauteous Lord. Deep-rooted karmas disappear with the
+glimpse of the Grace-filled Feet of the Holy Lord.`,
   },
   {
     id: 1697, tantraId: 6, verseNumber: 1696,
@@ -2231,6 +3188,18 @@ His vision clear through conflicting faiths;
 Abhorrent of recurring cycle of births;
 Straight in Dharma's path he easy walks;
 He, sure, is disciple good and true.`,
+    elaborationEnglish: `Mantras 1696 & 1697
+
+A true disciple is a sattvic. He treads the path of dharma,
+with his thoughts centred on the final Truth, with vision clear
+on escape from the cycle of recurring births. He analyses
+that which severes the real from the unreal. Having known
+it, he melts in his soul for the love of God. With Siva’s Grace
+as his guide, he seeks the bliss of His Sakti in humility.
+
+Ags ynahs Houser mssm_ee
+
+usOoer Gremb Quntuchs srombss`,
   },
   {
     id: 1698, tantraId: 6, verseNumber: 1697,
@@ -2248,6 +3217,13 @@ He melts in the soul of his being
 And with Siva's Grace to guide,
 He receives Jnana in devotion true;
 And he humbles himself before Lord`,
+    elaborationEnglish: `He receives Jnana in devotion true;
+
+And he humbles himself before Lord
+And seeks the bliss of His Sakti;
+He is the fit one, the disciple good and true.
+
+AGOUSS worcipy cwomwey Amad`,
   },
   {
     id: 1699, tantraId: 6, verseNumber: 1698,
@@ -2269,6 +3245,14 @@ This body that was blessed thus
 Received Grace of Arul Sakti
 And I became a Jnani ripe,
 Forever, blemish devoid.`,
+    elaborationEnglish: `Mantras 1698 & 1699
+
+When the holy Guru, the master of the four difficult paths,
+and possessor of divine grace placed his feet on my head,
+all births vanished. Blessed thus, the Grace of Arul Sakti
+descended on me and I became a ripe jnani. My ardour in
+jnana soared higher and my love for Gurupara welled up freed
+of blemishes.`,
   },
   {
     id: 1700, tantraId: 6, verseNumber: 1699,
@@ -2286,6 +3270,33 @@ He is the seeker incessant of Jnana divine;
 And as he placed his feet on my head,
 Higher and higher, my ardour in Jnana soared,
 Higher and higher, my love for Gurupara welled up.`,
+    elaborationEnglish: `1) Mantra, yantra, yoga, jnana.
+
+QersAH usruss Dsvmayor Qe Os
+
+Gents gw carat wrergcienen worofGu. 1300
+
+Rules of Instruction
+
+Impart divine knowledge only to those fully ripe to
+receive it,
+
+Taking the disciple gently to the limits of the Infinite
+Vast:
+
+You facing east or south, your disciple facing west
+or north
+
+Thus instruct, the Sakti of Lord centred in mind.
+
+The holy Guru imparts divine knowledge only to those who
+are fully ripe to receive it. He takes the disciple to the limits
+of the infinite vast. He, facing east or south and the disciple
+the opposite direction (west or north), instructs, the Sakti of
+the Lord being centred in his mind.
+
+Qapuy Spgs ais sap TUS
+gapug HDs GommOsrorG Gutpps`,
   },
   {
     id: 1701, tantraId: 6, verseNumber: 1700,
@@ -2321,6 +3332,12 @@ Praises Master's virtues;
 Guru then shows the way of deliverance from mortal prison
 And imparts Siva Jnana
 He is truly the Guru that is of Sanmarga (Jnana Guru).`,
+    elaborationEnglish: `The holy Guru shows the path of deliverance from the mortal
+prison and imparts Sivajnana to his disciple when he, the
+disciple, in humility bows in five ordained postures, is regretful
+of his faults and praises his master’s virtues.
+
+Gatas ADO. Gusrés wrsored`,
   },
   {
     id: 1703, tantraId: 6, verseNumber: 1702,
@@ -2339,6 +3356,17 @@ And take to Siddhanta-Vedanta Way
 And humble your head at the feet of Guru
 That has renounced all in the Vedanta way.
 Then verily are you disciple true.`,
+    elaborationEnglish: `Mantras 1702 & 1703
+
+Vedanta is the way of renouncing desires. So divert your
+life-course to Siddhanta/Vedanta way and be humble at the
+feet of the Guru, who has renounced all. Truly he is a perfect
+disciple, who follows the Guru like a shadow in virtue, truth,
+compassion, discrimination and love, constantly and forever.
+He receives the nectar of crystal clear final jnana and
+witnesses the many miracles it brings in its train.
+
+Anus Gros Dsohus ODsahGauntsa`,
   },
   {
     id: 1704, tantraId: 6, verseNumber: 1703,
@@ -2357,5 +3385,11 @@ You pursue the Holy Feet of Guru true
 Constant as unto a shadow;
 You then gain the nectar of Finite Jnana in its crystal clarity,
 And witness the many miracles it brings in train.`,
+    elaborationEnglish: `Bpr HDI wpya Quppgs-
+Tantra Six Concluded
+
+Typrh SHS TW
+
+THE SIX ADHARAS`,
   },
 ];
