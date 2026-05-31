@@ -1863,11 +1863,11 @@ Chant AUM and be doubt-free.`,
     tamil: `எட்டும் இரண்டும் இனிதுஅறி கின்றிலர்
 எட்டும் இரண்டும் அறியாத ஏழையர்
 எட்டும் இரண்டும் இருமூன்று நான்கெனப்
-பட்டது சித்தாந்த சன்மார்க்க பாதமே. 73.`,
+பட்டது சித்தாந்த சன்மார்க்க பாதமே.`,
     transliteration: `eṭṭum iraṇṭum iṉituaṟi kiṉṟilar
 eṭṭum iraṇṭum aṟiyāta ēḻaiyar
 eṭṭum iraṇṭum irumūṉṟu nāṉkeṉap
-paṭṭatu cittānta caṉmārkka pātamē. 73.`,
+paṭṭatu cittānta caṉmārkka pātamē.`,
   },
   {
     id: 988, tantraId: 4, verseNumber: 987,
@@ -2804,11 +2804,11 @@ Seek that Holy One within your head.`,
   {
     id: 1039, tantraId: 4, verseNumber: 1038,
     tamil: `கலந்திரு பாதம் இருகர மாகும்
-மலர்ந்திரு குண்ட மகாரத்தார் Yமூக்கு
+மலர்ந்திரு குண்ட மகாரத்தார் மூக்கு
 மலர்ந்தெழு செம்முகம் மற்றைக்கண் நெற்றி
 உணர்ந்திரு குஞ்சி அங்கு உத்தம னார்க்கே`,
     transliteration: `kalantiru pātam irukara mākum
-malarntiru kuṇṭa makārattār Ymūkku
+malarntiru kuṇṭa makārattār mūkku
 malarnteḻu cemmukam maṟṟaikkaṇ neṟṟi
 uṇarntiru kuñci aṅku uttama ṉārkkē.`,
     english: `1038: Siva's Form in Sacrificial Fire
@@ -5952,6 +5952,13 @@ Realize Her;
 The Only One in this world;
 She will make you bide here below for ever
 You may attain eight attributes* of Siva too.`,
+  },
+  {
+    id: 1207, tantraId: 4, verseNumber: 1206,
+    tamil: `ஆமையொன் றேறி அகம்படி யானென
+ஓம்என் றோதிஎம் உள்ளொளி யாய்நிற்கும்
+தாம நறுங்குழல் தையலைக் கண்டபின்
+சோம நறுமலர் சூழநின் றாளே`,
     transliteration: `āmaiyoṉṟu ēṟi akampaṭi yāṉeṉa
 ōmeṉṟu ōtiem uḷḷoḷi yāyniṟkum
 tāma naṟuṅkuḻal taiyalak kaṇṭapiṉ
@@ -6586,6 +6593,13 @@ But with Lord
 Center Her in your thoughts,
 And there in Jnana
 You shall absorbed be.`,
+  },
+  {
+    id: 1242, tantraId: 4, verseNumber: 1241,
+    tamil: `ஆமயன்மால் அரன் ஈசன்மா லாங்கதி
+ஓமய மாகிய ஒன்பதும் ஒன்றிட
+தேமயன் ஆளும் தெனாதென என்றிடும்
+மாமய மானது வந்தெய்த லாமே`,
     transliteration: `āmayaṉmāl araṉ īcaṉmā lāṅkati
 ōmaya mākiya oṉpatum oṉṟiṭat
 tēmayaṉ āḷum teṉāteṉa eṉṟiṭum
@@ -7182,6 +7196,13 @@ That Smoky Light enveloped universe all,
 It became light of earth, water, fire, wind and sky,
 Thus as it flamed and rose together,
 As One Divine Light it pervaded everywhere.`,
+  },
+  {
+    id: 1276, tantraId: 4, verseNumber: 1275,
+    tamil: `நின்றது அண்டமும் நீளும் புலியெலாம்
+நின்றவிவ் வண்ட நிலைபெறக் கண்டிட
+நின்றவிவ் வண்டமு மூல மலமொக்கும்
+நின்றைவ் வண்டம் பலமது விந்துவே`,
     transliteration: `niṉṟatu aṇṭamum nīḷum puliyelām
 niṉṟaviv vaṇṭa nilaipeṟak kaṇṭiṭa
 niṉṟaviv vaṇṭamu mūla malamokkum

@@ -798,10 +798,12 @@ Then the plunge in water, heart-whole they, graceless band.`,
   },
   {
     id: 159, tantraId: 1, verseNumber: 158,
-    tamil: `குளத்தின் மண்கொண்டு குயவன் வனைந்தான்
+    tamil: `வளத்திடை முற்றத்தோர் மாநிலம் முற்றுங்
+குளத்தின் மண்கொண்டு குயவன் வனைந்தான்
 குடமுடைந் தால் அவை ஓடென்று வைப்பர்
 உடலுடைந் தால்இறைப் போதும் வையாரே`,
-    transliteration: `kuḷattiṉ maṇkoṇṭu kuyavaṉ vaṉaintāṉ
+    transliteration: `vaḷattiṭai muṟṟattōr māṉilam muṟṟuṅ
+kuḷattiṉ maṇkoṇṭu kuyavaṉ vaṉaintāṉ
 kuṭamuṭain tāl avai ōṭeṉṟu vaippar
 uṭaluṭain tāliṟaip pōtum vaiyārē`,
     english: `158: When Body-Pot Breaks None Cares To Retain It
@@ -3011,11 +3013,11 @@ Bounding in Bliss Supreme, That this becomes.`,
   {
     id: 285, tantraId: 1, verseNumber: 284,
     tamil: `உற்றுநின் றாரொடும் அத்தகு சோதியைச்
-சித்தர்கள் என்றும் தொ஢ந்தறி வாரில்லை
+சித்தர்கள் என்றும் தெரிந்தறி வாரில்லை
 பத்திமை யாலே பணிந்தடி யார்தொழ
 முத்தி கொடுத்தவர் முன்புநின் றானே`,
     transliteration: `uṟṟuniṉ ṟāroṭum attaku cōtiyaic
-cittarkaḷ eṉṟum to஢ntaṟi vārillai
+cittarkaḷ eṉṟum terīntaṟi vārillai
 pattimai yālē paṇintaṭi yārtoḻa
 mutti koṭuttavar muṉpuniṉ ṟāṉē`,
     english: `284: Faith Leads to Liberation

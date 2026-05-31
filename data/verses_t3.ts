@@ -4140,16 +4140,6 @@ Breathing from left to right and right to left;
 He who does it visions Sakti;
 The senses five his way come;
 To a hundred years, he sure lives.`,
-    transliteration: `ēṟiya vāṟiṉil eṇpatu ceṉṟiṭun
-tēṟiya ēḻiṟ ciṟakkum vakaiyeṇṇil
-āṟoru pattāy amarnta iraṇṭaiyun
-tēṟiyē niṉṟu tauiyiv vakaiyē`,
-    english: `774: Exhalation Measure for Ages 80 and 60
-If Prana flows outward
-To matra six in length,
-Eighty the age you live up to;
-If seven, sixty;
-These two know clearly.`,
   },
   
   {
@@ -4157,11 +4147,11 @@ These two know clearly.`,
     tamil: `ஏறிய வாறினில் எண்பது சென்றிடுந்
 தேறிய ஏழிற் சிறக்கும் வகையெண்ணில்
 ஆறொரு பத்தாய் அமர்ந்த இரண்டையுந்
-தேறியே நின்று தௌiயிவ் வகையே`,
+தேறியே நின்று தெளியிவ் வகையே`,
     transliteration: `ēṟiya vāṟiṉil eṇpatu ceṉṟiṭun
 tēṟiya ēḻiṟ ciṟakkum vakaiyeṇṇil
 āṟoru pattāy amarnta iraṇṭaiyun
-tēṟiyē niṉṟu tauiyiv vakaiyē`,
+tēṟiyē niṉṟu teḷiyiv vakaiyē`,
     english: `774: Exhalation Measure for Ages 80 and 60
 If Prana flows outward
 To matra six in length,

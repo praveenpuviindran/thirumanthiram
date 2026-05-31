@@ -4039,15 +4039,15 @@ He is the Transcendental Light
 Whom those who have bonds none
 Surround;
 He is the One,
-Whom those who have2872: Kundalini Yoga
-In the Triangular Field,
-Are the Ploughs Three;
-Yoke the bulls tight with rope;
-Drive the ploughshare deep
-They who held not their tongue,
-Ploughed not in the Center
-Closing their legs together,
-They plough the waste in vain.ின் மறைப்பறி யேனே`,
+Whom those who have reached,
+Have ceased to prattle about.`,
+  },
+  {
+    id: 2867, tantraId: 9, verseNumber: 2866,
+    tamil: `காயம் பலகை கவறைந்து கண்மூன்றாய்
+ஆயம் பொருவதோர் ஐம்பத்தோர் அக்கரம்
+ஏய பெருமானிருந்து பொருகின்ற
+மாயக் கவற்றின் மறைப்பறி யேனே`,
     transliteration: `kāyam palakai kavaṟaintu kaṇmūṉṟāy
 āyam poruvatōr aimpattōr akkaram
 ēya perumāṉiruntu porukiṉṟa
@@ -5383,11 +5383,11 @@ He entered my thoughts.`,
     tamil: `கண்டறி வார்இல்லைக் காயத்தின் நந்தியை
 எண்டிசை யோரும் இறைவன் என்று ஏத்துவர்
 அண்டங் கடந்த அளவிலா ஆனந்தத்
-தொண்டர் முகந்த துறையறி யோமே. 7`,
+தொண்டர் முகந்த துறையறி யோமே`,
     transliteration: `kaṇṭaṟi vārillaik kāyattiṉ nantiyai
 eṇṭicai yōrum iṟaivaṉ eṉṟu ēttuvar
 aṇṭaṅ kaṭanta aḷavilā āṉantat
-toṇṭar mukanta tuṟaiyaṟi yōmē. 7`,
+toṇṭar mukanta tuṟaiyaṟi yōmē`,
     english: `2942: Bliss of Devotees is Beyond Description
 None have seen Him and known Him,
 He, the Nandi, within the body is;
@@ -5396,6 +5396,42 @@ Praise Him as Lord;
 The unending bliss of His devotees many;
 Surpasses universes vast
 -How much they joyed Him, little do we know!`,
+  },
+  {
+    id: 2944, tantraId: 9, verseNumber: 2943,
+    tamil: `தற்பரம் அல்ல சதாசிவன் றானல்லன்
+நிட்கள மல்ல சகள நிலையல்ல
+அற்புத மாகி அநுகோக் காமம்போல்
+கற்பனை யின்றிக் கலந்துநின் றானே`,
+    transliteration: `taṟparam alla catācīvaṉ ṟāṉallaṉ
+niṭkaḷa malla cakaḷa nilaiyalla
+aṟputa māki aṉukōk kāmampōl
+kaṟpaṉai yiṉṟik kalantauniṉ ṟāṉē`,
+    english: `2943: Felicity of Union of Jiva and Siva
+Tat-Para He is not,
+Sadasiva He is not,
+Formless is He,
+Formed is He not,
+Wondrous indeed like felicity of sex-union enjoyed
+Imagination baffling,
+He in me in union stood.`,
+  },
+  {
+    id: 2945, tantraId: 9, verseNumber: 2944,
+    tamil: `முகத்திற் கண்கொண்டு காண்கின்ற மூடர்காள்
+அகத்திற் கண்கொண்டு காண்பதே ஆனந்தம்
+மகட்குத் தாய்தன் மணாளனோ டாடிய
+சுகத்தைச் சொல்லென்றாற் சொல்லுமா றெங்கனே`,
+    transliteration: `mukattir kaṇkoṇṭu kāṇkiṉṟa mūṭarkāḷ
+akattir kaṇkoṇṭu kāṇpatē āṉantam
+makaṭkut tāytaṉ maṇāḷaṉō ṭāṭiya
+cukataic collēṉṟāṟ collumā ṟeṅkaṉē`,
+    english: `2944: Divine Felicity Beyond Words
+Thou fools who see with fleshy eyes Know!
+To see with inner eye is bliss true;
+How can mother tell the daughter
+Of the felicity in the union with her husband?
+In what terms will she that describe?`,
   },
   {
     id: 2946, tantraId: 9, verseNumber: 2945,
@@ -5907,12 +5943,15 @@ piṉṉamceytu eṉṉaip piṇakkaṟut tāṉē`,
     english: `2973: In the Presence of Siva
 The Lord filled my thoughts,
 His Feet I beseeched;
-As I thus2981: Mind Blossomed into Mukti
-The mind blossomed and converged in tapas great;
-The mind blossomed and converged in yoga breath;
-The mind blossomed and converged for the Jiva;
-When the mind blosso- beyond words to describe,
-Then is Mukti Finale.்பறுத்து எண்ணும்
+As I thus entered His Presence,
+He ended my birth's whirl;
+He the Lord that has Thoughts none;
+My Fate He fragmented,
+My bonds He sundered.`,
+  },
+  {
+    id: 2975, tantraId: 9, verseNumber: 2974,
+    tamil: `பிணக்கறுத் தான்பிணி மூப்பறுத்து எண்ணும்
 கணக்கறுத் தாண்டவன் காண்நந்தி என்னைப்
 பிணக்கறுத்து என்னுடன் முன்வந்த துன்பம்
 வணக்கலுற் றேன்சிவன் வந்தது தானே`,
