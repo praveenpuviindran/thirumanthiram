@@ -63,7 +63,7 @@ export default function TantraScreen() {
               </View>
 
               {/* Back nav inside gradient */}
-              <TouchableOpacity onPress={() => router.back()} style={styles.backBtn} hitSlop={8}>
+              <TouchableOpacity onPress={() => router.push('/tantras' as any)} style={styles.backBtn} hitSlop={8}>
                 <LinearGradient
                   colors={['rgba(0,0,0,0.3)', 'rgba(0,0,0,0.15)']}
                   style={styles.backChip}
