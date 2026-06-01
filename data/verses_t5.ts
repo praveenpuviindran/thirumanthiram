@@ -2846,14 +2846,6 @@ FORMAL RELIGIONS)`,
     elaborationEnglish: `arwsgion Horn sans snosrS)our
 
 wTws GPurovd alapat wonenw saci`,
-    transliteration: `āyattuḷ niṉṟa aṟucama yaṅkaḷuṅ
-kāyattuḷ niṉṟa kaṭavuḷaik kāṇkilar
-māyak kuḻiyil viḻuvar maṉaimakkaḷ
-pācattil uṟṟup pataikkiṉṟa vāṟē`,
-    english: `1530: The Six Faiths Avail Not
-The Six faiths severally congregate,
-Yet, not one knows the God within;
-Deep into the pit of illusion, their adherents drop,`,
   },
   
   {

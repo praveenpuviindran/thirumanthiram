@@ -16,7 +16,6 @@ He who has the five hands and the elephant's face,
 Whose tusk is even as the crescent moon,
 The son of Nandi, the Flower of Wisdom,
 Him I cherish in thought, His feet adore.`,
-    elaborationEnglish: `The One—The Uncreated Etemal Being—Sivam. Sakti is the dynamic aspect of static Sivam. She confers grace on the Jivas — Dr. B. Natarajan`,
     elaborationTamil: `ஐந்து கரங்களையே ஐந்து பூதங்களாக (நிலம், நீர், காற்று, நெருப்பு, ஆகாயம்) கொண்டவனும், உலகத்தையே தனது திருமுகமாக கொண்டவனும், இளப் பிறை நிலாவைப் போன்ற கூர்மையான கொம்புகளை உடையவனும், குருவாக இருக்கின்ற இறைவனின் மகனாக இறை தன்மையாகவே இருப்பவனும், உண்மை ஞானத்தின் உச்சமாகவும் இருப்பவனை எமது அறிவுக்கு உள்ளே வைத்து அவனது திருவடிகளை யான் எப்போதும் போற்றி வணங்குகின்றேன்.`,
   },
   {
@@ -140,7 +139,6 @@ The Holy One who all life sustains,
 Lord of Her, beloved of all the world,
 He who spurned Yama, the Southern Qrarter's King
 Of Him I sing, His glory and praise.`,
-    elaborationEnglish: `Both the Jain Arhat, and Siva are usually described thus — Dr. B. Natarajan`,
     elaborationTamil: `இறைவனைப் போற்றிப் புகழ்ந்து, இசைத்துப் பாடும் அடியவர்களின் உள்ளத்தில் வீற்றிருக்கும் புனிதமானவனும் நான்கு திசைகளுக்கும் (உலகமனைத்திற்கும்) நன்மை புரியும் மாதுவாகிய சக்திக்குத் தலைவனானவனும். மேற்கூறிய நான்கு திசைகளுக்குள் தென் திசைக்கு தலைவனானவனும் காலத்தின் அதிபதியான எமனை எட்டி உதைத்ததால் காலத்தை வென்றவனும் ஆகிய இறைவனை யான் கூறிகின்றேன்.`,
   },
   {
@@ -158,7 +156,9 @@ He who stands the same to all,
 The Pure One, whom immortal Gods adore,
 Whom, even they, that daily stand beside, know not,
 Him I seek, praise, and meditate.`,
-    elaborationEnglish: `Siva Is Nonpareil Search where ye will,.there’s no God like Siva, None here — Dr. B. Natarajan`,
+    elaborationEnglish: `The word ‘'séacw'* literally means the ‘‘naked,”’ unclothed
+one (from Sanskrit nagna). Both the Jain Arhat, and Siva
+are usually described thus.`,
     elaborationTamil: `அனைத்து உயிர்களுடனும் கலந்திருக்கும் இறைவனை எண்ணிலடங்காத தேவர்கள் தினந்தோறும் போற்றித் தொழுகின்ற இறைவனை தத்துவங்களைக் கடந்து அனைத்திற்கும் தலைவனாக இருக்கும் இறைவனை பக்கத்தில் இருந்தாலும் அறிந்துகொள்ள முடியாத இறைவனை யாம் அவனுள் அடங்கி நின்று அவனைத் தியானித்து அவன் புகழைப் போற்றி உரைப்போம்.`,
   },
   {
@@ -218,7 +218,11 @@ Without Him, there be Celestials none,
 Without Him, penance is not,
 Without Him, naught the Three accomplish,
 Without Him, I know not the City's Gate.`,
-    elaborationEnglish: `The Lotus is a very important and very frequently adgpted symbol in Hindu ahd Buddhisi literature — Dr. B. Natarajan`,
+    elaborationEnglish: `City’s Gate - liberation.
+
+(arenes Quads unuysran apautée apgssoussr
+serous urQurcigns Qadeons sonowacit
+gemonuts irsrelled cicigg) Lomvse_oret`,
     elaborationTamil: `சிவத்தைத் தவிர பிறப்பு இறப்பு இல்லாத அமரர்கள் யாரும் இல்லை. சிவத்தை நோக்கி செய்யப்படும் தவத்தை விட சிறந்த தவம் வேறு இல்லை. சிவமுடைய அருள் இல்லாமல் படைத்தல் காத்தல் அழித்தல் ஆகிய தொழில்களைச் செய்யும் தெய்வங்களால் எதுவும் செய்ய இயலாது. சிவமில்லாமல் முக்தி அடையும் வேறு எந்த வழியையும் நான் அறியவில்லை.`,
   },
   {
@@ -236,7 +240,23 @@ Primal First is He, older than the Co-eval Three
 But the Lord is He peerless, unequalled;
 Call Him "Father," and Father He to thee,
 Inside you He flames in the Lotus of golden hue.`,
-    elaborationEnglish: `Gurnee Ounisen Qwesreste’. Veroany Inws Qossucr Curse cbQenpwopHmaict — Seemed Osmpru® aunfidverso s1Gor. Siva is also frequently referred to as Nandi by Tirumular Nandi is — Dr. B. Natarajan`,
+    elaborationEnglish: `The Lotus is a very important and very frequently adgpted
+symbol in Hindu ahd Buddhisi literature. Amongst other things
+
+it stands for the primeval evoiution of the Universe from the
+One, as well as for the Energy (Sakti) thus released. .Jt is
+not only the One, all pervasive Power, but also the individual
+separate items that constitute the essence of Life, whose
+location in the human body is deemed to be the heartchakra.
+The Brahma- randra of the cranium is also often referred
+to as a thousand petalled LOTUS. There are cther concepts
+also which are symbolized by the LOTUS.
+
+Co-eval three = These are the three I namety, Brahma,
+the creator, Vishnu, the protector, and Rudra, the destroyer,
+‘respectively.
+
+Bulctyrd Ooudiwier yor Sans scereahwos`,
     elaborationTamil: `ஆதியிலிருந்து இருக்கும் மூன்று தெய்வங்களான சிவன், விஷ்ணு, பிரம்மா ஆகிய மூவருக்கும் மூத்தவன் சதாசிவமூர்த்தி. தனக்கு ஈடுஇணை இல்லாத தலைவன் அவன். அவனை அப்பா என்று அழைத்தால் உயிர்களுக்கு அப்பாவாகவே தோன்றுவான் (அவனை என்ன சொல்லி அழைத்தாலும் அதுவாகவே உயிர்களுக்குத் தோன்றி அருள்பாலிப்பான்). பொன் போன்ற அறிவு ஒளியைத் தரும் பல உபதேசங்களை குருவாக நின்று வழங்குபவனும் அவனே. பொன்னைப் போன்ற பேரொளியாக இருப்பவன் வேதங்களை தனக்குள்ளே கொண்டவன் அவன்.`,
   },
   {
@@ -672,7 +692,6 @@ The Birthless is He, the Divine Mad, of Compassion vast,
 The Deathless is He, the Boundless One, Granter of Joys all,
 To Him kneel, and, kneeling, shall find
 Naught becomes Maya, the bond immemorial.`,
-    elaborationEnglish: `oncer pss FET CoQuetrmny BEAoow Greapld ccs: UDiwWsour YEQuU sqorCor YS mIGor. 27 He Enters Into You The Infinite of Lotus-Face, rivalling the rose of sunset, May ours be His Grace Divine. And they who thus Nandi daily beseech, Into their Heart He walks in and abides. QermaApor prererig wrApen mTepstb Dea iaAPNer — Dr. B. Natarajan`,
     elaborationTamil: `பிறப்பில்லாதவனும் பிறை நிலாவைத் தலைமுடியில் சூடியவனும் மிகப்பெரும் அருளாளனும் இறப்பில்லாதவனும் எல்லோருக்கும் இன்பங்களை வழங்கி அருளுபவனும் எவரையும் விட்டு எப்போதும் நீங்காதவனுமாகிய எம்பெருமான் சதாசிவமூர்த்தியைத் தினமும் வணங்குங்கள். அவனை வணங்கி வந்தால் மாயையால் மறைக்கப்பட்டிருக்கும் சிற்றறிவு நீங்கி இறைவனின் திருவடியை என்றும் மறக்காத பேரறிவைப் பெறலாம்.`,
   },
   {
@@ -1032,7 +1051,12 @@ They alone attain His Feet, who seek and praise;
 To them He shall grant the world the Four-Headed one made;
 Full well the elect come, the world of Maya girdling,
 One is He with Her of the shoulders reed-shaped.`,
-    elaborationEnglish: `GunpPeres unitsjio giych gor Hig Gunpperor Lint ye TTLoA 565-919. GurppPeret unto sryeh Zoit~9/19CuriMerct soryst QunSucnugs GsGor — Dr. B. Natarajan`,
+    elaborationEnglish: `The Lord, the consort of the Mother of shoulders
+reed-shaped.
+
+ugomyg pry. Gu Lire Bre@HLd
+
+ogorn. Oewism Dargmaad anieG`,
     elaborationTamil: `சிவபெருமானை அடைக்கலம் புகுந்து துதிப்பவர்கள் பெறத்தக்க பயன் என்னவென்றால் நான்கு திருமுடியுடைய பிரம்மன் படைப்பான மாய உலகில் மறுபடியும் மறுபடியும் பிறக்க வேண்டியவர்கள் ஆனாலும் மூங்கில் போன்ற திரட்சியான தோள்களையுடைய உமாதேவியின் தலைவனான சிவபெருமான் அவர்களுடன் பொருந்தி இருப்பான்.`,
   },
   {
@@ -1289,7 +1313,7 @@ In the beauteous Veda, aptly named the Rig,
 As the moving mood behind, He stood;
 In the trembling chant of the Vedic priests He stood,
 Himself the Eye of vision Central.`,
-    elaborationEnglish: `Vedanta—end of the Vedas — usually refers to the conclusions of philosophy in the Upanishads. wirlicuG wim gHenws ANN GooTLuNc ourevoncv Gamais wre enora eu SLiLypLD Gupme worse OuGgeEGGer mrGz. Consider it a privilege and thus waste their time — Dr. B. Natarajan`,
+    elaborationEnglish: `QuG sD wrw Wgrencx Hlencr 5S!`,
     elaborationTamil: `சொல்லழகு மிகுந்த வேதத்தின் உள்ளே மந்திர வடிவாக இருப்பவனும் உணர்ந்து வேத‍த்தை சொல்லும் வேதியர் உள்ளத்தில் உணர்வாக இருப்பவனும் வேதம் சொல்லும் வழி நடக்கும் சிறந்த வேதியர்கள் ஓதும் வேதத்தின் சொற்களில் மறைப் பொருளாகவும் அனைத்தையும் உருவாக்கிய சக்தியாக நின்று அருளுபவனும் எம்பெருமான் முக்கண் முதல்வன் சிவபெருமானே ஆவான்.`,
   },
   {
@@ -1770,7 +1794,7 @@ aḻuntiya nālvarkku aruḷpurin tāṉē`,
 Yet shall you the Holy rites and pure perform;"
 So spoke He of the matted locks and coral hue,
 And His Grace conferred on the steadfast Four.`,
-    elaborationEnglish: `Oates Aoursiwrd crorgyid9L1 GuT@uppi saorOupys piven weihed shims ge sorIor GinIs opCary — Dr. B. Natarajan`,
+    elaborationEnglish: `5. DGEewpor avyenpi`,
     elaborationTamil: `ஏழு கடல்களும் பொங்கியெழுந்து ஏழு மேகங்களும் மும்மாரி மழையைப் பொழிந்து எட்டுத் திசைகளும் நீரால் நிரம்பினாலும் (நீரினால் வரும் ஊழிக்காலப் பேரழிவு வந்தாலும்) பிறப்புக்கு உயர்வைத் தருகின்ற தன்மையுடைய நியமங்களைச் (நல் அறங்கள்) செய்துகொண்டே இருங்கள் என்று அனைத்தையும் பாதுகாத்து அருளுபவனும் சிவப்பான தன்மையுடைய பவளம் போன்ற மேனியை உடையவனும் குளிர்கொண்ட மேகம் போன்ற தன்மையுடைய விரிந்த சடையை உடையவனுமான இறைவன் தன் திருவடியைப் பணிந்து தொழுத நான்கு சனகாதி முனிவர்களுக்கும் (சனகர், சனந்தனர், சனாதனர், சனற்குமாரர்) அருளினான்.`,
   },
   {
@@ -1788,7 +1812,7 @@ High on my bowed head Nandi's sacred Feet I bore,
 Intoning loud His Name in my heart's deepest core,
 Daily musing on Hara wearing high the crescent moon,
 Thus I ventured the Agamas to compose.`,
-    elaborationEnglish: `The deep impact it has made on Tamil mind is reflected in every branch of literature and art, music, pa — Dr. B. Natarajan`,
+    elaborationEnglish: `piven weihed shims ge sorIor`,
     elaborationTamil: `குருநாதராக வந்த இறைவனின் இணையில்லாத திருவடிகளை என் தலை மேல் வைத்துக்கொண்டு அவர் அருளிய அனைத்தையும் எனது புத்திக்குள் புகுந்து நிற்கும்படி நினைவில் நிறுத்திக்கொண்டு சூரியன் மறைவில் தோன்றும் இளம்பிறைச் சந்திரனை தனது திருமுடியில் அணிந்துகொண்டிருக்கும் அரன் என்று அழைக்கப்படும் அந்த இறைவனின் பெருமைகளைப் போற்றி அவன் திருவடிகளை தியானித்துக் கொண்டு நாள்தோறும் அவன் அருளிய ஆகமங்களை சொல்கின்றேன்.`,
   },
   {
@@ -1874,7 +1898,7 @@ Sadasiva, Tattva, the Muthamil and Veda
 Them I sought not while here I stood;
 I held them not in the heart; but soon my mind turned,
 And indifference abandoning, realised them all.`,
-    elaborationEnglish: `Gpfhenp wreuner HAs wrenhses Gugen wnQGerer Mntugis seer aucit Fo wireTrGla ord Sor Henn SGoL wreruses CerbBGs G5Gor. Ger bOGs CsorFla wiim — Dr. B. Natarajan`,
+    elaborationEnglish: `porns wre Ouomip5s Dosa. 5 Hor`,
     elaborationTamil: `பிரம்மன், திருமால், உருத்திரன், மகேசுவரன், ஈசன் ஆகிய ஐந்து தெய்வங்களின் மூலம் படைத்தல், காத்தல், அழித்தல், அருளல், மறைத்தல் ஆகிய ஐந்து தொழில்களைச் செய்யும் இறைவனாகிய சதாசிவமூர்த்தி அருளிய ஆகமத் தத்துவங்களையும் இயல், இசை, நாடகம் ஆகிய மூன்று தமிழ் மொழிகளையும் நான்மறையாகிய வேதங்களையும் அளவின்றி யாம் பெற்றுக் கொண்டு அவற்றிலேயே மனம் திளைத்து கொண்டிருக்கும் காலங்களின் மேல் மனதைச் செலுத்தாமல் இருந்தபோது இனியும் சென்று கொண்டிருக்கும் காலங்களை உதாசீனப்படுத்தாமல் உடனே காலத்தின் தேவையை உணர்ந்து இவற்றை மற்றவர்களுக்கு வழங்கவேண்டும் என்பதை என்னுடன் இருந்த இறைவன் உணர்த்தினான்.`,
   },
   {
@@ -1892,7 +1916,11 @@ This it was, O Malanga, urged me here to come,
 The Veda to expound and the Dance Divine's deep import;
 These mysteries occult the Lord first unveiled
 To Her of the azure hue and jewels bright.`,
-    elaborationEnglish: `Ger bOGs CsorFla wiimagor umacners Ceit5DGE CecmFla crm ses Honn GerpAGE CsorFla CunBuler biped CsrEBGs CsonFlocr prumact gHGu — Dr. B. Natarajan`,
+    elaborationEnglish: `Gpfhenp wreuner HAs wrenhses
+
+Gugen wnQGerer Mntugis seer aucit
+
+Fo wireTrGla ord Sor Henn`,
     elaborationTamil: `எமது சீடனாகிய மாலாங்கனே இறைவனோடு இருந்த யான் இந்த உலகத்திற்கு வந்ததின் காரணத்தைக் கேட்டுக்கொள். நீல நிற மேனியைக்கொண்டு இறைவனின் திருமேனியில் சரிபாகமாக இருக்கும் சக்தி தேவியும் ஆதிமூலமாகிய இறைவனும் சேர்ந்து உயிர்கள் உய்யும் பொருட்டு புரிந்த திருநடனத்தின் தத்துவங்களையும் இறைவனை அடைய வழிவகுக்கும் அரும்பெரும் ஒழுக்கங்களையும் உள்ளடக்கிய வேதத்தை மற்றவர்களுக்கு எடுத்து உரைக்கவே யான் வந்தேன்.`,
   },
   {
@@ -2238,7 +2266,6 @@ Nandi, by bull, deer and axe ever attended,
 Nandi, my Lord, the Cause without Cause,
 Creation's limit in His Thought conceived to me revealed,
 And on my lowly head He planted His Holy Feet.`,
-    elaborationEnglish: `Tirumular claims in line 4 (Tamil) that he has explained in full in this text all the categories mentioned in. These are the core essentials of Saiva Siddhanta philosophy — Dr. B. Natarajan`,
     elaborationTamil: `காளையும் (இடபம்) மானும் மழுவும் (ஆயுதம்) தரித்துத் தானே தோன்றிய இறைவனின் கற்பனையிலிருந்து (எண்ணத்திலிருந்து) தோன்றியதே இந்த அண்ட சராசரங்கள் அனைத்தும். அப்படிப்பட்ட இறைவன் என்மேல் கொண்ட கருணையினால் உண்மைப் பொருளையும் வழங்கி அடியவன் என் தலைமேல் தன்னுடைய நன்மை தரும் பொற்பாதங்களையும் வைத்து ஆகமங்கள் அனைத்தையும் எங்களின் குருநாதராக இருந்து வழங்கினான்.`,
   },
   {
@@ -2746,7 +2773,6 @@ The Supreme is one, Absolute, without lapse,
 In descent thereof, Mal and Aya becoming;
 Thus He, the One into many ranked;
 By conscious choice a Self-deduction made.`,
-    elaborationEnglish: `Part in Heaven resides; One Kingly Part, the spirit that the body heaves; One His Part to all motion transformed. Special Introduction Concluded — Dr. B. Natarajan`,
     elaborationTamil: `பரம்பொருள் என்பதில் ஒன்றானவனாகவும் உயிர்களுக்குள்ளும் வெளியிலும் இருப்பவனும் ஆன்மா மாதவம் செய்து பெற்ற வரத்தினால் திருமாலாகவும் பிரம்மனாகவும் தவம் செய்த தகுதிக்கேற்ப வெவ்வேறு விதமான தரங்களில் பலவித தன்மைகள் கொண்ட தெய்வங்களாகவும் செய்கின்ற தொழில்களில் பலவிதமாக நின்று அருளுகின்றவன் சதாசிவமூர்த்தியாகிய ஒருவனே.`,
   },
   {

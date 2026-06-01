@@ -1094,15 +1094,6 @@ Hear and yet hear not;
 Thus in meditation sit;
 That the sure Way to bar death's way.`,
     elaborationEnglish: `Aaowunt Ounrgales Dos wnOs`,
-    transliteration: `malaiyār cirattiṭai vāṉīr aruvi
-nilaiyārap pāyum neṭunāṭi yūṭē
-cilaiyār potuvil tirunaṭa māṭun
-tolaiyāta āṉantac cōtikaṇ ṭēṉē`,
-    english: `589: Lord Dances in Sahasrara
-From the peaks of Cranium ranges
-The heavenly waterfall
-Unceasing cascades
-Coursing prana through the spinal channel;`,
   },
   
   {
@@ -4713,17 +4704,6 @@ of the human body.
 
 Gsrgacr scree gels srevtcurp
 Brsab pruf gonchh Auger`,
-    transliteration: `cōtaṉai taṉṉil turicaṟik kāṇalām
-nātaṉum nāyaki taṉṉiṟ piriyunāḷ
-cātaṉa mākuṅ kuruvai vaḻipaṭṭu
-mātaṉa māka matittukkoḷ ḷīrē`,
-    english: `721: Treasure Guru's Guidance for Yoga
-As through breath you pierce the adharas
-You shall vision clear;
-Prana leaving the Kundalini Sakti
-On its upward journey through Sushumna;
-That you gain through the Guru guiding;
-Take that as treasure precious gained.`,
   },
   
   {
@@ -6309,17 +6289,6 @@ it shall begin the ascension through the six adharas.
 MNasGd Qosrgy Qodiur HHgew
 
 TSG vmsousgs g1UO5H gyod`,
-    transliteration: `aḷakkum vakainālum avvaḻiyē ōṭil
-viḷakkum orunālu meyppaṭa niṟkum
-tuḷakkum vakaiyaintun tūyneṟi ōṭil
-kaḷakka maṟamūṉṟiṟ kāṇalu māmē`,
-    english: `779: Vision of the First Three Adharas in the Fourth and Fifth
-Day
-If thus the practice is for days four continued,
-The four petalled Muladhara will visioned be;
-If further continued,
-On the fifth day,
-The Second and Third adharas visioned art.`,
   },
   
   {
@@ -7336,19 +7305,6 @@ Whom He deals harsh;
 For those of evil deeds,
 He is deadlier than fire itself.`,
     elaborationEnglish: `Slocr wrarises Oecrefhu ayciroragr`,
-    transliteration: `tīviṉai yāḷarttañ ceṉṉiyi luḷḷavaṉ
-pūviṉai yāḷarttam poṟpati yāṉavaṉ
-pāviṉai yāḷarttam pākavat tuḷḷavaṉ
-māviṉai yāḷarttam matiyiluḷ ḷāṉē`,
-    english: `812: God's Abodes
-He is seated at the Forehead Center
-Of those who perform yoga with Kundalini Fire;
-He is in the Golden City
-Of those who reach the Flower of cranial spaces;
-He is in the imagination
-Of those who sing of Him;
-He is in the intelligence
-Of those who perform deeds rare.`,
   },
   
   {

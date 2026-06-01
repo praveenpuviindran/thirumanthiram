@@ -1818,15 +1818,6 @@ It roots lie deep in the navel;
 They who know it not, come by it not;
 They but prayed at sunset
 And with loud noise departed.`,
-    transliteration: `cēvikku mantiram cellum ticaipeṟa
-āvikkuḷ mantiram ātāra māvaṉa
-pūvikkuḷ mantiram pōkkaṟa nōkkiṭil
-āvikkuḷ mantiram aṅkuca māmē`,
-    english: `959: "Aum" Mantra Sustains Life
-"Hamsa" Mantra chanted within
-In directions all spreads;
-It is the Mantra of life, sustaining breath;
-It is the Mantra in the lotus of heart;`,
   },
   
   {
@@ -3270,17 +3261,6 @@ It is square shaped, pentagon shaped;
 And hexagon shaped, triangle upon triangle made;
 Other pits that blaze in fire, we later relate.`,
     elaborationEnglish: `ups sere psp , Heng)`,
-    transliteration: `mēleṟintu uḷḷē veḷiceyta apporuḷ
-kālaṟintu uḷḷē karuttuṟṟa ceñcuṭar
-pāraṟintu aṇṭam ciṟakaṟa niṉṟatu
-nāṉaṟintu uḷḷē nāṭikkoṇ ṭēṉē`,
-    english: `1017: Pervasiveness of Kundalini Fire
-Breath through Sushumna coursing,
-Kundalini fire blazed aloft;
-Light on top emanated,
-Pervaded world,
-And engulfed entire cosmic space
-That I saw in me, and sought within.`,
   },
   
   {
@@ -3761,14 +3741,6 @@ That One Being Great, do you seek;
 The Celestials in Jnana sacrifice excelled
 Verily merged in Him,
 That is Truth Unalloyed.`,
-    english: `1038: Siva's Form in Sacrificial Fire
-Feet two, hands two,
-The nose shaped as letter "Ma"
-The face as red lotus bloom,
-The third eye in Forehead
-Thus is Lord,
-From Sacrificial Fire Pit arises;
-Seek that Holy One within your head.`,
   },
   
   {
@@ -4041,15 +4013,6 @@ Manonmani—Sakti of. Sadasiva
 
 Srorrcr psy Cangas gsorenwower
 snoires Qurcr@sibenw Ceucwoslns grciracvod`,
-    transliteration: `tāṉā amaintaam muppuram taṉṉiṭait
-tāṉāṉa mūvuru ōrurut taṉmaiyuḷ
-tāṉāṉa poṉcemmai veṇṇiṟat tāḷkalvi
-tāṉāṉa pōkamum muttiyum nalkumē`,
-    english: `1047: Blessings of Tiripurai
-In the Three Cities--(Triangle)--of themselves arose,
-Of three forms, the One She is;
-Of color gold, red, and white She is,
-Knowledge, enjoyment and Mukti she grants.`,
   },
   
   {
@@ -5696,13 +5659,6 @@ name for Vishnu. ‘Children Five refers to the five gods of
 Ganapati in Puranic mythology.
 
 urges yorour Gurasgict Q)oruwb`,
-    transliteration: `iruḷatu catti veḷiyatuem aṇṇal
-poruḷatu puṇṇiyar pōkattuḷ iṉpam
-teruḷatu cintaiyait teyvameṉṟu eṇṇil
-aruḷatu ceyyumem ātip pirāṉē`,
-    english: `1119: Truth is Bliss
-Dark is Sakti, Space is Lord,
-Truth is Union in God,`,
   },
   
   {

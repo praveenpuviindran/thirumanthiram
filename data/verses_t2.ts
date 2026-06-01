@@ -2932,15 +2932,6 @@ The infant lay, its tiny feet entangled;
 That the sweet life in patience waiting
 Its onward course may seek,
 He ordained, releasing the Pranas ten.`,
-    transliteration: `iṉpuṟu kālat tiruvarmuṉ pūṟiya
-tuṉpuṟu pācat tuyarmaṉai vāṉuḷaṉ
-paṇpuṟu kālamum pārmicai vāḻkkaiyum
-aṉpuṟu kālat tamaittoḻin tāṉē`,
-    english: `453: The Course of Life Was Ordained at Time of Union
-When parents two in pleasure united,
-Then was ordained, this body,
-The sorrow-house of vexing pasa;
-When that is to be,`,
   },
   
   {
@@ -3037,17 +3028,6 @@ As unto when flower blossoms, the breeze spreads fragrance,
 In spaces all around
 So does Prana over Jiva extend,
 Gently unfolding at the time destined.`,
-    transliteration: `pōkiṉṟa eṭṭum pukukiṉṟa patteṭṭum
-mūḻkiṉṟa muttaṉum oṉpatu vāytalum
-nākamum eṭṭuṭaṉ nālu puraviyum
-pākaṉ viṭāṉeṉiṟ paṉṟiyu māmē`,
-    english: `457: The Lord Drives in the Tattvas into the Infant Body
-The eight constituents of body subtle
-That ultimately leave,
-The eight and ten Tattvas that sneak in,
-With Purusha in them immersed
-The orifices nine,
-The Kundalini that serpent-like coils,`,
   },
   
   {
