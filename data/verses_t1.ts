@@ -1015,11 +1015,9 @@ uss ONGSZ UTI SL_LMD`,
     id: 153, tantraId: 1, verseNumber: 152,
     tamil: `பந்தல் பிரிந்தது பண்டாரங் கட்டற்ற
 ஒன்பது வாசலும் ஒக்க அடைத்தன
-துன்புறு கால152: Kith and Kin Wept and Left
-The roof to pieces went, the bonds of life broke loose,
-The mansion's nine gates closed fast for ever and aye,
-Time's painful march fast gaining apace,
-One by one weeping they left him as the hours passed by.intatu paṇṭāraṅ kaṭṭaṟṟa
+துன்புறு காலன் துரிசுவர மேன்மேல்
+அன்புடை யார்கள் அழுதகன் றார்களே`,
+    transliteration: `pantal piriṉtatu paṇṭāraṅ kaṭṭaṟṟa
 oṉpatu vācalum okka aṭaittaṉa
 tuṉpuṟu kālan turicuvara mēṉmēl
 aṉpuṭai yārkaḷ aḻutakaṉ ṟārkaḷē`,
@@ -1028,7 +1026,6 @@ The roof to pieces went, the bonds of life broke loose,
 The mansion's nine gates closed fast for ever and aye,
 Time's painful march fast gaining apace,
 One by one weeping they left him as the hours passed by.`,
-    elaborationEnglish: `BIL OSS BTwacr Hibeprs Snowaesr`,
     elaborationTamil: `மரண வேதனையில் துன்பப்பட்டுக்கொண்டிருக்கும் கடைசி காலத்தில் ஒரு நாள் மரணம் வந்துவிடும். அப்போது உயிராகிய பொக்கிஷத்தின் மேல் போர்வை போல் இருந்த உடம்பாகிய பந்தல் பிரிந்துவிட உடலோடு இருந்து இதுவரை வழிநடத்திவந்த உயிரும் வெளியேறிவிடும். அவ்வாறு உயிர் வெளியேறியபின் காற்றில்லாத உடலில் ஒன்பது வகை துவாரங்களும் (2 கண், 2 காது, 2 மூக்குத்துவாரங்கள், வாய், பால்குறி, ஆசனவாய்) அடைபட்டுவிடும். அவ்வாறு உயிர்காற்று வெளியேறியபின் அந்த உடலின்மேல் அன்பு கொண்டிருந்தவர்கள் எல்லோரும் வந்து அழுது ஒப்பாரி வைத்துவிட்டு பின்பு சென்றுவிடுவார்கள்.`,
   },
   {
@@ -4062,6 +4059,10 @@ Sura Bump sere Qurdu agyinPepnd`,
 poṉpōṟ kaṉaliṟ poriya vaṟuppiṉum
 aṉpōṭu uruki akaṅkuḻai vārkkaṉṟi
 eṉpōl maṇiyiṉai eytaoṇ ṇātē`,
+    english: `272: Melt in Love and Possess Him
+You may turn your bone to fuel, your flesh to meat,
+And let them roast and sizzle to the gold-red blaze;
+But unless your heart melts in the sweet ecstasy of Love,`,
     elaborationTamil: `உடல் எலும்புகளை விறகுகளாக்கி தங்கம் போன்ற பொன்னிறத்தில் தகதகவென எரியும் தீயில் உடல் தசைகளை அறுத்து போட்டு பொன்னிறத்தில் பொரிய வறுத்தாலும் அன்போடு மனம் உருகி உள்ளம் குழைந்தவர்களைத் தவிர வேறு எவராலும் செதுக்கப்படாத தூய்மையான மாணிக்கம் போன்ற இறைவனை சென்று அடைய முடியாது.
 கருத்து: உயிர்கள் தமது உடலைக் கொடூரமாக வருத்திக்கொண்டு தவம் புரிந்தாலும் தமது உடலையே தீயிலிட்டு யாகம் புரிந்தாலும் அவர்களிடத்தில் உண்மையான அன்பு உள்ளத்தில் இல்லை என்றால் அவர்கள் என்ன செய்தாலும் இறைவனை அடைய முடியாது.  தூய்மையான அன்பே இறைவனை அடையும் மிகச்சிறந்த வழியாகும்.`,
   },
@@ -4957,6 +4958,7 @@ ee Tg Fach HDowucr GncrOnois onl
 kallēṉ araneṟi aṟiyāt takaimaiyiṉ
 vallēṉ vaḻaṅkum poruḷē maṉattiṉuḷ
 kallēṉ kaḻiyaniṉṟu āṭaval lēṉē`,
+    english: ``,
     elaborationTamil: `சிவநெறியைக் கல்லாமல் இறைவுணர்வை அறிய ஆற்றல் இல்லாத உயிர்கள் மாயையில் மயங்கி வினைப் பயனால் கிடக்கும் துன்பங்களை மேலும் மேலும் உருவாக்கி அனுபவித்துக் கொண்டே இருக்கின்றார்கள். உலகத்தில் இருக்கும் அனைத்து பொருள்களையும் கொடுத்து அப்பொருளாகவே இருக்கும் இறைவன் தனக்குள்ளும் இருக்கின்றான் என்று தெரியாமல் நாட்களை வீணாகக் கழித்துக்கொண்டு உலக இன்பங்களிலேயே இருந்து ஆடிக்கொண்டிருக்கின்றார்கள்.`,
   },
   {

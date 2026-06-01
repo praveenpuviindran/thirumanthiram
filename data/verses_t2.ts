@@ -1756,6 +1756,11 @@ gorw Goro ew Gaips gioouugb`,
 ōrāya mēula kēḻum aḷippatum
 ōrāya mēula kēḻun tuṭaippatum
 ōrāya mē ula kōṭuyir tāṉē`,
+    english: `407: The One Holy Family Performs All
+The One Family creates the worlds seven;
+The One Family preserves the worlds seven;
+The One Family destroys the worlds seven;
+The One Family pervades all life and body.`,
   },
   {
     id: 409, tantraId: 2, verseNumber: 408,
@@ -2517,6 +2522,9 @@ That leads to the Celestial Lake.`,
 aruḷum vakaiceyyum ātip pirāṉuñ
 curuḷuñ cuṭaruṟu tūveṇ cuṭarum
 iruḷum aṟaniṉ ṟiruṭṭaṟai yāmē`,
+    english: `435: He Dispels the Darkness Within
+The Primal Lord blesses all
+Denizens of earth below and heaven above;`,
   },
   {
     id: 437, tantraId: 2, verseNumber: 436,
@@ -3520,15 +3528,9 @@ Righteous indeed was that Lumninous One.`,
   {
     id: 479, tantraId: 2, verseNumber: 478,
     tamil: `ஆண்மிகில் ஆணாகும் பெண்மிகிற் பெண்ணாகும்
-பூணிரண் டொத்துப் பொருந்தில் அலியாக479: Age is Determined
-If after emission,
-The male's breath five finger-length extends,
-The infant born lives a hundred years;
-When breath to four finger measure stretches,
-To age eighty the infant lives;
-The Yogi who knows the science of breath control
-If in sex act He indulges,
-He, the vital flow, accordingly regulates.மிக்கிடில் பாய்ந்ததும் இல்லையே`,
+பூணிரண் டொத்துப் பொருந்தில் அலியாகும்
+தாண்மிகு மாகில் தரணி முழுதாளும்
+பாணவ மிக்கிடில் பாய்ந்ததும் இல்லையே`,
     transliteration: `āṇmikil āṇākum peṇmikiṟ peṇṇākum
 pūṇiraṇ ṭottup poruntil aliyākum
 tāṇmiku mākil taraṇi muḻutāḷum
@@ -3687,13 +3689,9 @@ Inside, it took form appropriate.`,
   },
   {
     id: 486, tantraId: 2, verseNumber: 485,
-    tamil: `உருவம் வளர்ந்திடும் ஒண்டிங்கள் 487: In Manhood Jiva Seeks God
-Seeking pleasure, the two met;
-In pasa's misery was it born and bred;
-And having grown to stature
-Grew to manhood here below;
-Well may it seek the Ancient One
-That before all worlds was.ி னாலே
+    tamil: `உருவம் வளர்ந்திடும் ஒண்டிங்கள் பத்திற்
+பருவம தாகவே பாரினில் வந்திடும்
+மருவி வளர்ந்திடு மாயையி னாலே
 அருவம தாவதிங் காரறி வாரே`,
     transliteration: `uruvam vaḷarntiṭum oṇṭiṅkaḷ pattiṟ
 paruvama tākavē pāriṉil vantiṭum
@@ -4111,15 +4109,14 @@ aromiu Nsgieun BTS. saoorB`,
   },
   {
     id: 499, tantraId: 2, verseNumber: 498,
-    tamil: `விஞ500: How Jivas Reach Siva
-Rid themselves of Anava entire
-And consciousness lost of all Jiva memory,
-They Bindu and Nada become,
-The highest heavenly goal
-Of one-ness with Siva Tattva;
-Albeit all three, Sakala and the rest of yore possessed,
-The primal impurities triple,
-Anava, Maya and Karma.ṟuyirkaḷē`,
+    tamil: `விஞ்ஞான கலர்முதல் விண்ணவர் மூவரும்
+வன்னிய ரோடு உயிர் ஒன்பது வகையர்
+தன்னியல் பாகிய சாக்கிரா தீதர்
+துன்னிய ஒன்பது தோற்றமும் ஆமே`,
+    transliteration: `viññāṉa kalarmutal viṇṇavar mūvarum
+vaṉṉiya rōṭu uyir oṉpatu vakaiyar
+taṉṉiyal pākiya cākkkirā tītarkaḷ
+tuṉṉiya oṉpatu tōṟṟamum āmē`,
     english: `498: Nine Gradations of Jivas
 Vijnanakalas are of gradations three;
 Those who in quiescent Anava alone abides; (the Pralayakala among Vijnanas)
@@ -4567,6 +4564,11 @@ Sure the crisis; certain the ruin;
 pōṟṟaru maṉṉarum pōrvali kuṉṟuvar
 kūṟṟutait tāṉtiruk kōyilkaḷ ellām
 cāṟṟiya pūcaikaḷ tappiṭil tāṉē.`,
+    english: `517: Dangers of Skipping Performance of Puja
+Rains fail; epidemics spread;
+All this sure happens,
+If worship in Lord's temples falters,
+—The Lord who spurned the very God of Death.`,
   },
   {
     id: 519, tantraId: 2, verseNumber: 518,
@@ -4940,6 +4942,13 @@ QMUDDGS sreoguyie Cuesrmt swoutsar`,
 uṟṟirun tārai uḷaivaṉa colluvar
 kaṟṟirun tārvaḻi uṟṟirun tāravar
 peṟṟirun tāraṉṟi yārpeṟum pēṟē.`,
+    english: `530: The True Disciples are Blessed
+The lowly ones
+Care not for their parents,
+They abuse their kith and kin and words foul
+Nor do they follow the Guru's behest
+Only those who revere the parents, kith and kin and the Guru
+Are in truth blessed, none else indeed.`,
   },
   {
     id: 532, tantraId: 2, verseNumber: 531,

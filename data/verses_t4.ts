@@ -881,6 +881,11 @@ QossQau actwmacr ron Crome`,
 irunta irēkaimēl īrāṟu irutti
 irunta maṉaikaḷum īrāṟu pattoṉṟu
 irunta maṉaiyoṉṟil eytuvaṉ tāṉē`,
+    english: `914: How to Form the Chakra
+Draw twelve vertical lines and cross them
+With twelve horizontal lines
+Thus are formed hundred and twenty-one squares,
+In this chakra the Lord dances.`,
   },
   {
     id: 916, tantraId: 4, verseNumber: 915,
@@ -1155,11 +1160,9 @@ Si, Va, Ya, Na, Ma.`,
   {
     id: 929, tantraId: 4, verseNumber: 928,
     tamil: `பேர்பெற் றதுமூல மந்திரம் பின்னது
-சோர்வுற்ற சக்கர வட்டத்துள் சந்தியின்928: How to Fill in the Mula Chakra
-This the Mula Chakra famed,
-In space between circles two
-Fill entire with Letters Five stated,
-Then does Chakra its loveliness take.மே`,
+சோர்வுற்ற சக்கர வட்டத்துள் சந்தியின்
+நேர்பெற் றிருந்திட நின்றது சக்கரம்
+ஏர்பெற் றிருந்த இயல்பிது வாமே`,
     transliteration: `pērpeṟ ṟatumūla mantiram piṉṉatu
 cōrvuṟṟa cakkara vaṭṭattuḷ cantiyiṉ
 nērpeṟ ṟiruntiṭa niṉṟatu cakkaram
@@ -1169,9 +1172,6 @@ This the Mula Chakra famed,
 In space between circles two
 Fill entire with Letters Five stated,
 Then does Chakra its loveliness take.`,
-    elaborationEnglish: `Qwayfid woud cruigybd cuypudesr
-
-Ywaybd yorsyid QurnGesu& wert adcsr`,
   },
   {
     id: 930, tantraId: 4, verseNumber: 929,
@@ -2521,6 +2521,8 @@ TL Ob QreObd sapwrs genpur
 eṭṭum iraṇṭum aṟiyāta ēḻaiyar
 eṭṭum iraṇṭum irumūṉṟu nāṉkeṉap
 paṭṭatu cittānta caṉmārkka pātamē.`,
+    english: `986: Aum Denotes Tattva Manifestations of Siva
+They know not well Letter Eight and Two`,
   },
   {
     id: 988, tantraId: 4, verseNumber: 987,
@@ -2827,6 +2829,15 @@ You shall attain powers of Mohana (Fascination).`,
 pāṅku paṭavē palācap palakaiyil
 kāṅkaru mēṭṭil kaṭuppūci vintuviṭṭu
 ōṅkāmal vaittiṭum uccāṭa ṉattukkē`,
+    english: `999: Uchchatana Chakra
+On a plank of portia tree wood
+At the north-west corner
+Where Aiyanar his temple has,
+And on a dark leaden-plate smear poison,
+Inscribe mark of Bindu (dot)
+And surround it by "Om"
+Then concentrate on the Mantra,
+Uchchatana (the Science of Exorcism) will be yours.`,
   },
   {
     id: 1001, tantraId: 4, verseNumber: 1000,
@@ -3446,6 +3457,14 @@ as the fire from the sacrifical pit reaches to Siva above.`,
 akkaṇaṉ tāṉē akilamum uṇṭavaṉ
 tikkaṇaṉ ākit tikaieṭṭum kaṇṭavaṉ
 ekkaṇaṉ tāṉukkum entai pirāṉē`,
+    english: `1025: Sacrificial Fire is Siva Himself
+"The Three-eyed Lord is Fire entire;
+The Lord of self-same eye,
+Engulfed universe entire;
+With eyes in directions all,"
+He sees directions eight;
+He is Lord, my Father,
+And for all lives everywhere.`,
   },
   {
     id: 1027, tantraId: 4, verseNumber: 1026,
@@ -5086,12 +5105,10 @@ Asrasperp C5587 WSBT Gorb`,
     tamil: `சிகைநின்ற அந்தக் கவசங்கொண்டு ஆதிப்
 பகைநின்ற அங்கத்தைப் பாரென்று மாறித்
 தொகைநின்ற நேத்திர முத்திரை சூலம்
-வகைநின்ற யோனி வகுத்தலும் ஆமே1096: Devi is in Conch Mudra
-Thus chant "Sam" to pervade Jiva's Prana,
-And adopt Conch Mudra
-That dispells (Ya's) Jiva's Maya;
-The Supreme Devi there in center
-Shall luminous appear.am
+வகைநின்ற யோனி வகுத்தலும் ஆமே`,
+    transliteration: `cikainiṉṟa antak kavacaṅkoṇṭu ātip
+pakaiiniṉṟa aṅkattaip pāreṉṟu māṟit
+tokainiṉṟa nētira muttirai cūlam
 vakainiṉṟa yōṉi vakuttalum āmē`,
     english: `1093: Perform Nyasa, Kavacha and Mudra
 Chant Kavacha Mantra exalted,
@@ -5282,15 +5299,14 @@ She does reveal Supreme Siva to us.`,
 தெளிப்படு வித்துஎன் சிந்தையின் உள்ளே
 களிப்படு வித்துக் கதிர்ப்படு சோதி
 ஒளிப்படு வித்துஎன்னை உய்ய்க்கொண்டாளே`,
-    transliteration: `veḷippaṭu vitt1104: She Enters the Heart in Endearment
-She of shoulders slender as bamboo,
-She of tresses laden with fragrant blossoms,
-She adorns crescent moon for a jewel,
-She of matted locks pure,
-She holds the trident
-She the Beautiful,
-She in endearment,
-In my heart constant stood.de my thoughts doubt-free
+    transliteration: `veḷippaṭu vittu viḷaivuaṟi vittut
+teḷippaṭu vittueṉ cintaiyiṉ uḷḷē
+kaḷippaṭu vittuk katirppaṭu cōti
+oḷippaṭu vittueṉṉai uyyykkoṇṭāḷē`,
+    english: `1101: How She Redeems
+Having revealed Siva,
+She spoke to me of blessings that follow,
+She made my thoughts doubt-free
 She infused joy in me,
 She made the divine light shine in me,
 And redeemed me too.`,
@@ -5365,16 +5381,15 @@ In my heart constant stood.`,
 நனிப்படு வித்துள்ளம் நாடிநின் றாளே`,
     transliteration: `iṉiyateṉ mūlai irukkuṅ kumari
 taṉiyoru nāyaki tāṉē talaivi
-taṉippaṭu vittaṉaḷ cārvu paṭu1108: She Contained Desires
-She taught me the miracle,
-She quelled the terrors of my heart,
-She fostered love divine in me,
-In the Sushumna that bathes the Moon in full light
-She contained my desires and said,
-"Fear not." Mistress peerless,
-She is Lady Supreme,
+taṉippaṭu vittaṉaḷ cārvu paṭuttu
+naṉippaṭu vittuḷḷam nāṭiniṉ ṟāḷē`,
+    english: `1105: She Cleanses the Heart
+She is Virgin
+In Muladhara seated,
+She is Mistress peerless,
+She is Mother Supreme,
 She beckoned me apart
-She separated my impurities
+She Separated my impurities
 She loved my heart,
 And there She entered.`,
   },
@@ -5611,6 +5626,16 @@ All speech from ignorance arises.`,
 muyaṟṟiyiṉ muṟṟi aruḷum mutalvi
 kayaṟṟikaḻ mukkaṇṇuṅ kampalaic cevvāy
 mukattaruḷ nōkkamum muṉṉuḷḷa tāmē`,
+    english: `1116: She Grants Mukti to Tried Devotees
+Prattling in ignorance,
+They spent their lives away,
+Alas! these poor men!
+She, Primal One, grants Mukti
+To all those
+Who in constant devotion seek;
+She has eyes three fish-shaped,
+She has lips red
+That warble words sweet,`,
   },
   {
     id: 1118, tantraId: 4, verseNumber: 1117,
@@ -6301,6 +6326,11 @@ Balabrahmadam,. Sarvabhudadamani, Manonmani.`,
 eṭukkum tāmarai illakattu uḷḷatu
 maṭukkum tāmarai mattakac tēcela
 muṭukkum tāmarai muccatu rattē`,
+    english: `1144: Lotuses of Sakti
+That Lotus in folds several is Primal Sakti's abode;
+The Lotus that lifts soul is in the heart;
+When the Lotus in Muladhara is roused,
+The Lotus in Sahasrara blossoms.`,
   },
   {
     id: 1146, tantraId: 4, verseNumber: 1145,
@@ -7293,15 +7323,13 @@ That, indeed, is union true.`,
   {
     id: 1187, tantraId: 4, verseNumber: 1186,
     tamil: `அதுஇது என்னும் அவாவினை நீக்கித்
-துதியது செய்து சுழ1190: There She Abides
-There She abided, the bejewelled One
-There She abided in Center Finite
-There She abided as Holy Way
-There She abided as Bliss Infinite,
-There She abided
-All worlds praising her,
-And yearning for Her;
-There She abided, the Goodly Lady.mūṉṟē`,
+துதியது செய்து சுழுமுனை நோக்கித்
+வென்றும் விலக்கில் வினைகடந் தோர்க்குமே
+குன்றரும் கமலத்துள் மூன்றது வாமே`,
+    transliteration: `atuitu eṉṉum avāviṉai nīkkitt
+tutiyatu ceytu cuḻumuṉai nōkkitt
+veṉṟum vilakkil viṉaikaṭan tōrkkumē
+kuṉṟarum kamalattul mūṉṟatu vāmē`,
     english: `1186: Adore Her and Vanquish Fate
 This and that--thus your desire runs
 Get rid of it;
@@ -7311,11 +7339,6 @@ Well may you even Fate conquer,
 She of the Flower in Sahasrara
 In the Spheres Three,
 Of Sun, Moon and Fire.`,
-    elaborationEnglish: `‘In the Spheres Three,
-
-Of Sun, Moon and Fire.
-
-epergioar wesc Gore Gerad w`,
   },
   {
     id: 1188, tantraId: 4, verseNumber: 1187,
@@ -7698,6 +7721,15 @@ FeutBu ange Aoagys smteor`,
 civātiyi lārum cilainuta lāḷai
 navātiyi lāka nayantatu ōtil
 uvāti avaḷukku uṟaivila tāmē`,
+    english: `1202: In Samadhi, Sakti is in Moon's Sphere
+She stands as the goal of
+Those who in Samadhi enter,
+She of the arched brows
+Who resides in Si, Va, and rest of letters Five;
+Chant the Mantra in love endearing
+As the First of Saktis Nine
+She in your Full Moon Sphere,
+Ever abides.`,
   },
   {
     id: 1204, tantraId: 4, verseNumber: 1203,
@@ -8480,18 +8512,19 @@ OQscarp Opresisar Apes Cacwy.w`,
     id: 1237, tantraId: 4, verseNumber: 1236,
     tamil: `என்றும் எழுகின்ற ஏரினை எய்தினார்
 அன்றது ஆகுவர் தார்குழ லாளொடு
-மன்றரு கங்க1242: Worship Siva-Sakti and be Worshipped by Celestials
-The Celestials, Vanavas and Dhanavas*
+மன்றருகு மதிமிளிர் பொன்னணி யாளொடு
+நின்ற சிவனை வழிபடு வாரே`,
+    transliteration: `eṉṟum eḻukinṟa ēriṉai eytināraṉ
+aṉṟatu ākuvar tārukuḻa lāḷoṭu
+maṉṟaruku matimilir poṉṉaṇi yāḷoṭu
+niṉṟa civaṉai vaḻipaṭu vārē`,
+    english: `1236: Worship Siva-Sakti and be Worshipped by Celestials
+The Celestials, Vanavas and Dhanavas
 Will come to you and worship your feet,
 And Indra and other Gods too in direction eight;
 Seek therefore the way of worship to reach
 The Lady of tresses, in flower clusters festooned,
-And Her Lord, too.me one with Her,
-Of tresses, garland-festooned,
-With fragrant Ganga and Moon,
-And men of holy tapas
-Self-realized praying;
-Thus She stood in stellar brilliance.`,
+And Her Lord, too.`,
   },
   {
     id: 1238, tantraId: 4, verseNumber: 1237,
@@ -8893,11 +8926,11 @@ Qboeacr Deus QsHo whensuyd`,
   {
     id: 1254, tantraId: 4, verseNumber: 1253,
     tamil: `அம்மனை அம்மை அரிவை மனோன்மணி
-செம்ம1259: Cosmos Chakra Expanded into Five Elements
-The Earth Chakra expanded,
-When the Bindu and Nada conjoint became
-That Adhara (Muladhara) to immense distance lengthened,
-As Earth the letters thus expanded.kai yāyniṟṟum
+செம்மை மனை செய்த செம்மல் கையாய் நிற்றும்
+இம்மனை செய்த இன்நில மங்கையும்
+அம்மனை யாகி அமர்ந்து நின்றானே`,
+    transliteration: `ammaṉai ammai arivai maṉōṉmaṇi
+cemmai maṉai ceyta cemmal kaiyāy niṟṟum
 immaṉai ceyta iṉṉila maṅkaiyum
 ammaṉai yāki amarntu niṉṟāṉē`,
     english: `1253: Sakti Fashions Body-Home and Heavenly Home
@@ -10422,12 +10455,10 @@ Asiiu AGGuefl Oebur_ Oot gsrem`,
     id: 1317, tantraId: 4, verseNumber: 1316,
     tamil: `செய்ய திருமேனி செம்பட்டு உடைதானும்
 கையிற் படைஅங் குசபாசத் தோடபய
-வெய்யில் அணிகலன் இரத்1322: Blessings of Navakkari Mantra
-Jnana and knowledge all, shall yours be;
-The Karmas hard will flee from you;
-No more will you evil deeds perform;
-All boons will be granted to you;
-The vision of Divine Light, yours shall be.ṭaiaṅ kucapācat tōṭapaya
+வெய்யில் அணிகலன் இரத்தின மாமேனி
+துய்ய முடியும் அவயவத்தில் தோற்றமே`,
+    transliteration: `ceyya tirumēṉi cemppaṭṭu uṭaitāṉum
+kaiyiṟ paṭaiaṅ kucapācat tōṭapaya
 veyyil aṇikalaṉ irattiṉa māmēṉi
 tuyya muṭiyum avayavattil tōṟṟamē`,
     english: `1316: Evoke Bhuvaneswari's Form
@@ -12100,6 +12131,13 @@ uemtuot Ger8U urms tprotcert`,
 kaṇṭaim mūrttam kaṉaltiru mēṉiyāyp
 paṇṭamar cōtip paṭaritaḻ āṉavaḷ
 uṇṭu aṅku orutti uṇaraval lārukkē`,
+    english: `1372: Form of Klim Sakti in the Chakra
+Bedecked in jewels of gold,
+With ear-rings, crown, and apparel fine,
+Like the choicest pearl, and of crimson-hued form,
+And on lotus petals seated,
+There She is,
+For those who on the Chakra meditate.`,
   },
   {
     id: 1374, tantraId: 4, verseNumber: 1373,
@@ -12392,14 +12430,14 @@ abides immanent and all-pervasive.`,
     id: 1388, tantraId: 4, verseNumber: 1387,
     tamil: `நாவுக்கு நாயகி நன்மணி பூணாரம்
 பூவுக்கு நாயகி பொன்முடி யாடையாம்
-பாவுக்கு நாயகி பாலொத்த வண்ணத்தள1394: Gaum Sakti is Surrounded by Forty-Eight Saktis and
-Eight Vestal Virgins
-This green-hued Lady has serving companions six times eight,
-And vestal virgins eight that take up her train,
-Her breasts are in corset contained,
-Her hands pendant in blessing gesture,
-Thus the Sweet One appears,
-She of waist slender.She is Queen of Speech,
+பாவுக்கு நாயகி பாலொத்த வண்ணத்தாள்
+நாபியில் ஆகமம் நண்ணி இருந்தாளே`,
+    transliteration: `nāvukku nāyaki naṉmaṇi pūṇāram
+pūvukku nāyaki poṉmuṭi yāṭaiyām
+pāvukku nāyaki pālotta vaṇṇattāḷ
+nāpiyil ākamam naṇṇi irunttāḷē`,
+    english: `1387: Aim Sakti is Vageswari
+She is Queen of Speech,
 She is decked in garland of gems pure,
 She is Queen of Songs,
 She is milk-hued,

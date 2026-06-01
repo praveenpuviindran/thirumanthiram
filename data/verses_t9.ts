@@ -2757,6 +2757,10 @@ That peerless dance is bliss Perfect.`,
 உற்றுற்றுப் பார்க்க ஒளிவிடு மந்திரம்
 பற்றுக்குப் பற்றாற்ப் பரமன் இருந்திடம்
 சிற்றம் பலமென்று சேர்ந்துகொண் டேனே`,
+    transliteration: `neṟṟikku nērē puruvatt iṭaveḷi
+uṟṟuṟṟup pārkka oḷiviṭu mantiram
+paṟṟukkup paṟṟāṟp paramaṉ iruntiṭam
+ciṟṟam palameṉṟu cērntukoṇ ṭēṉē`,
     english: `2770: Ajna Center is Astral Temple of Lord
 Straight within the fore-head
 Between the eye-brows
@@ -2767,8 +2771,6 @@ The place where they in yearning sought Him
 Is the place where He in yearning is;
 That verily is the Holy Temple of Chittambalam
 And there did I firm sit.`,
-    elaborationEnglish: `Ami aan S551 wihs sarHous
-seryohh sr550) sribual wrsorh`,
   },
   {
     id: 2772, tantraId: 9, verseNumber: 2771,
@@ -2998,15 +3000,10 @@ He dances the Dance Mighty.`,
 ஆடிய நந்தி புறம்அகந் தானே`,
     transliteration: `āṭal patiṉōr uṟuppum aṭaivākak
 kūṭiya pātam cilampukaik koḷtuṭi
-nīṭiya nātam pa2784: Dance of Triple Pasa-Riddance-Mohanta Dance
-The three letters A, U and M (Aum)
-The five letters Na, Ma, Si, Va, Ya became;
-And as three hundred and sixty rays they became;
-Commencing from Muladhara that the waters hold
-In through the centers six (Adharas) and spheres three (Sun, Moon, Fire)
-That the triple Karanas their end may see,
-He in ancient Pasas Triple danced
-The Dance of Mohanta (Impurity-riddance).eleven
+nīṭiya nātam parāṟpara nēyattē
+āṭiya nanti puṟamakaṉ tāṉē`,
+    english: `2781: He Dances Inside and Outside the Heart
+With the accompaniments eleven
 That dance has,
 With anklet feet and drum in hand,
 The Nada reverberated,
@@ -3262,14 +3259,15 @@ That indeed is Vedanta-Siddhanta.`,
 நாதப் பிரமம் சிவநாட மாமே`,
     transliteration: `nātattiṉ antamum nāṟpōta antamum
 vētattiṉ antamum meyccivā ṉāntamum
-tātaṟṟa nalla cat2796: Dance of Bliss is Union in Siva
-"Bliss Bliss," they say;
-Witless are they;
-None know the Dance of Bliss;
-Having witnessed the Dance of Bliss,
-The Jiva its separateness ends,
-And in Divine Bliss unites.s end of Vedas
-Sivananda that is Bliss of Siva,`,
+tātaṟṟa nalla catācivā nantattut
+nātap piramam civānāṭa māmē`,
+    english: `2792: Siva Natana
+Nadanta that is end of Nada,
+Bodhanta that is end of Bodha,
+Vedanta that is end of Vedas
+Sivananda that is Bliss of Siva,
+Sadasivananda that is without end,
+In all these, He dances the Siva Natana.`,
   },
   {
     id: 2794, tantraId: 9, verseNumber: 2793,
@@ -3871,6 +3869,16 @@ And then no more was the thought of I and He.`,
 ஞானத்தின் நன்னெறி நானென்று அறிவோர்தல்
 ஞானத்தின் நல்யோக நன்னிலை யேநிற்றல்
 ஞானத்தின் நன்மோக நாதாந்த வேதமே`,
+    transliteration: `ñāṉattiṉ naṉṉeṟi nātānta naṉṉeṟi
+ñāṉattiṉ naṉṉeṟi nāṉeṉṟu aṟivōrtal
+ñāṉattiṉ nalyōka naṉṉilai yēniṟṟal
+ñāṉattiṉ naṉmōka nātānta vētamē`,
+    english: `2821: Jnana Way is the Truth
+The Jnana Way is the Nadanta Way,
+The Jnana Way is the Knowledge of Self,
+The Jnana Way of yoga is to centre on Siva,
+The Jnana Way of Silence
+Is the Veda Truth of Nadanta.`,
   },
   {
     id: 2823, tantraId: 9, verseNumber: 2822,
@@ -3941,6 +3949,21 @@ Quourgbh Qaoanr AnwuD analarus`,
 முப்பாழும் கீழுள முப்பாழும் முன்னியே
 இப்பாழும் இன்னாவாறு என்பதில்லா இன்பத்துத்
 தற்பரஞா னானந்தர் தானது வாகுமே`,
+    transliteration: `eppāḻum pāḻum yāvumāy aṉṟāki
+muppāḻum kīḻuḷa muppāḻum muṉṉiyē
+ippāḻum iṉṉāvāṟu eṉpatillā iṉpattut
+taṟparañā ṉāṉantar tāṉatu vākumē`,
+    english: `2825: In the Seventh Space is Siva-Knowledge-Bliss
+All spaces as space
+As all and nothing,
+The three Spaces below,
+And the three Spaces above,
+Seeking them,
+And knowing not what this Space is like,
+In that Supreme Bliss
+Is the Tat-Para Jnanananda;
+Siva-Knowledge-Bliss
+In that He and I one become.`,
   },
   {
     id: 2827, tantraId: 9, verseNumber: 2826,
@@ -4017,6 +4040,10 @@ Blended with Six attributes above (Sat-Chit-Ananda).`,
 தரநிற்ப போல்உயிர் தற்பரன் தன்னில்
 மருவச் சிவம்என்ற மாமுப் பதத்தின்
 சொரூபத்தின் சத்தியாதி தோன்றநின் றானே`,
+    transliteration: `uruuṟ palaṉiṟam oṇmaṇam cōpai
+taraniṟpa pōluyir taṟparaṉ taṉṉil
+maruvac civameṉṟa māmup patattil
+corūpattil cattiyāti tōṉṟaniṉ ṟāṉē`,
     english: `2829: Satya-Jnana-Bliss is Above the Three States
 Unto the Blue Lily blossom that is blended
 With Color, Purity, Beauty, Fragrance and Radiance,
@@ -4488,7 +4515,9 @@ Took me to the Fair Land of Bliss.`,
 kūṟiṭṭuk koṇṭu cumantaṟi vārillai
 nīṟiṭṭa mēṉi nimircaṭai nantiyaip
 pēṟiṭṭueṉ uḷḷam piriyakil lāvē`,
-    english: ``,
+    english: `2849: Understanding Logic of Karmaic Law
+The sands the river deposits
+Are by the river carried away;`,
     elaborationEnglish: `To none else is that task apportioned;
 
 I sought Nandi
@@ -4613,15 +4642,12 @@ gocerds apssp Oancwiar_t groans`,
     transliteration: `paraṉāyp parāpara ṉākiap pālceṉṟu
 uraṉāy vaḻakkaṟa oṇcuṭar tāṉāy
 taraṉāy taṉateṉa āṟuaṟi voṇṇā
-araṉāy ulakil a2861: Svarupa Siva Beyond Bliss of Satya-Jnana-Ananda
-Paran He is not,
-Nor the expanding Paraparan is He;
-Nor the abiding Object Beyond;
-Nor the Vibrant Light above it;
-Nor the One who supports all;
-He is they and not they;
-Hara He is not
-Beyond Bliss is He.edge of Self,
+araṉāy ulakil aruḷpurin tāṉē`,
+    english: `2855: The Unknowable Bestows Grace as Hara
+As Paran, as Paraparan and Beyond
+As constant interminable Light Transcendental;
+As Support definite of all,
+As One beyond knowledge of Self,
 As Hara here below,
 He, His Grace showers.`,
   },
@@ -4765,6 +4791,14 @@ Beyond Bliss is He.`,
 pattiyuḷ niṉṟu parantaṉṉuḷ niṉṟumā
 cattiyuḷ niṉṟōrkkut tattuvaṅ kūṭalāl
 cutti yakaṉṟor cukāṉanta pōtarē`,
+    english: `2862: Aim of Suddha State
+Mukti, Siddhi and mature Jnana attained,
+In devotion standing,
+In Param standing,
+In the mighty Sakti standing
+They realize the Tattvas;
+Then from that Suddha State
+They pass to Sukhananda Bodha State.`,
   },
   {
     id: 2864, tantraId: 9, verseNumber: 2863,
@@ -6034,17 +6068,17 @@ sruak@ saat sabgihen mrgar`,
 காப்பிடு கள்ளர் கலந்துநின் றார்உளர்
 காப்பிடு கள்ளரை வெள்ளர் தொடர்ந்திட்டுக்
 கூப்பிட மீண்டதோர் கூரை கொண் டாரே`,
+    transliteration: `kūppuṭum āṟṟilē vaṉkāṭu irukātam
+kāppiṭu kaḷḷar kalantunin ṟārullar
+kāppiṭu kaḷḷarai veḷḷar toṭarntiṭṭuk
+kūppiṭa mīṇṭatōr kūrai koṇ ṭārē`,
     english: `2900: Conquer Senses and Reach Siva
 In the Way of Loud Call of Jiva
 Is a Forest that stretches two leagues far;
 Inside stand Robber that ceases and binds,
-If the White Guard chases the B2907: Reach the Holy Temple of Sahasrathala
-Seven the circling Seas, eight the Mountain ranges
-In the depths of Space is Fire, Rain and Wind
-And the Land expansive;
-Visioning it, if you dwell in it
-That verily a Holy Temple is. loud
-Then does Jiva the Roof of Safety reach.`,
+If the White Guard chases the Black Robber
+And back it sends,
+The Jiva the Roof of Safety reaches.`,
     elaborationEnglish: `The robbers (senses) stand in the forest that is in the
 way of the loud call of jiva (seeking). If the white guard
 (yoga) chases these black thieves (senses), then jiva will
@@ -6260,6 +6294,8 @@ Mar OéGs srMsGwd ureag uc Ogserutr`,
 koṭṭukkum tālikkum pārai valiteṉpar
 koṭṭukkum tālikkum pāraikkum mūṉṟukkum
 iṭṭam valiteṉpar īcaṉ aruḷē`,
+    english: `2909: Lord's Love is Supreme
+Two there are, the wedding drum and the wedding Thali;`,
   },
   {
     id: 2911, tantraId: 9, verseNumber: 2910,
@@ -6521,6 +6557,10 @@ upget_.t_buwueer. unjpurt GarsHearh`,
 கட்டுவிட்டு ஓடின் மலர்தலும் காணலாம்
 பற்றுவிட்டு அம்மனை பாழ்பட நோக்கினால்
 கட்டுவிட் டார்க்கு அன்றிக் காணஒண் ணாதே`,
+    transliteration: `moṭṭittu eḻuntator moṭṭuṇṭu moṭṭiṉaik
+kaṭṭuviṭṭu ōṭiṉ malarthalum kāṇalām
+paṟṟuviṭṭu ammaṉai pāḻpaṭa nōkkiṉāl
+kaṭṭuviṭ ṭārkkuk aṉṟik kāṇaoṇ ṇātē`,
     english: `2919: Freedom From Fetters
 Unopened a Bud there is;
 Freed from Fetters,
@@ -8346,18 +8386,18 @@ To their Jnana according.`,
 தந்த உலகெங்கும் தானே பாராபரன்
 வந்து படைக்கின்ற மாண்பது வாமே`,
     transliteration: `antam kaṭantum atuatu vāyniṟkum
-panta ulaki3012: He is Transcendental and Immanent
-Beyond the Kalas Three He stands,
-Seek Him;
-He is the Lord;
-He is the Master of Tattvas,
-Priceless is He;
-Peerless is He;
-Beyond Celestials all is He;
-Ageless is He;
-Yet is He within you,
-You but seek Him.y
-Transcending all,`,
+panta ulakinil kīḻōr perum poruḷ
+tanta ulakeṅkum tāṉē pārāparaṉ
+vantu paṭaikkinṟa māṇpatu vāmē`,
+    english: `3003: He is the Object Mighty
+Transcending all,
+Yet immanent in each
+He stands;
+For the world here below in Pasa bound
+He is the Object Mighty;
+Himself the Parapara Supreme,
+For all worlds He gave
+That the Way His Greatness extends.`,
   },
   {
     id: 3005, tantraId: 9, verseNumber: 3004,
@@ -8424,19 +8464,16 @@ On their way.`,
 பலம்முழுது எல்லாம் படைத்தனன் முன்னே
 புலம்முழு பொன்னிற மாகிநின் றானே`,
     transliteration: `ulavucey nōkkam peruṅkaṭal cūḻa
-nilammuḻutu ellām niṟaintaṉaṉ3016: He is Bounteous
-Within heart is He,
-Without, too, He says, "I am;"
-The inscrutable Lord;
-Nandi of fragrant matted locks;
-Those who adore Him constant
-Their sea of birth He severs;
-He, of Bounteous Magnificence. He Created All
+nilammuḻutu ellām niṟaintaṉaṉ īcaṉ
+palammuḻutu ellām paṭaittaṉaṉ muṉṉē
+pulammuḻu poṉṉiṟa mākinīṉ ṟāṉē`,
+    english: `3007: He Created All
 All worlds by vast oceans girt
 He, my Lord, filled pervasive;
 In omniscience over-seeing all;
 Of yore He created, all, entire,
-And stood diffusing His golden hue,`,
+And stood diffusing His golden hue,
+In worlds everywhere.`,
   },
   {
     id: 3009, tantraId: 9, verseNumber: 3008,
@@ -8663,6 +8700,10 @@ He our Lord.`,
 நித்திலச் சோதியன் நீலக் கருமையன்
 எத்தனை காலமும் எண்ணுவர் ஈசனைச்
 சித்தர் அமரர்கள் தேர்ந்தறி யாரே`,
+    transliteration: `uttamaṉ eṅkum ukakkum peruṅkaṭal
+nittilac cōtiyaṉ nīlak karumaiyaṉ
+ettaṉai kālamum eṇṇuvar īcaṉaic
+cittar amararkaḷ tērntaṟi yārē`,
     english: `3019: None Knows Him Full Well
 The Noble One is He,
 A Sea of Joy beloved by all,

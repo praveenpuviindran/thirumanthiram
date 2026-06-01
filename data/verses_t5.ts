@@ -934,6 +934,14 @@ your heart, unfettering all worldly shackles.`,
 vāṉuṟu māmala riṭṭu vaṇaṅkiṉum
 ūṉiṉai nīkki uṇpavark kallatu
 tēṉamar pūṅkaḻal cēravoṇ ṇātē`,
+    english: `1452: True Worship is Worship Within
+You may adore Him with sandal fragrance exceeding,
+That grows on peaks atop in forests interior,
+You may worship Him with flowers rare,
+That bloom in Heaven's gardens
+Unless you shed your fleshy attachments
+And realize Him in the depths of your heart
+You shall never never reach His Holy Feet`,
   },
   {
     id: 1454, tantraId: 5, verseNumber: 1453,
@@ -3574,6 +3582,9 @@ Bas Hg) cromgeng wrens`,
 eṉṟatu pōla irumuc camayamum
 naṉṟitu tītitu eṉṟurai yāḷarkaḷ
 kuṉṟu kuraitteḻu nāyaiyot tārkaḷē`,
+    english: `1558: All Faiths Lead but to Lord
+One, the Great City,
+Six, the roads that lead to it;`,
   },
   {
     id: 1560, tantraId: 5, verseNumber: 1559,

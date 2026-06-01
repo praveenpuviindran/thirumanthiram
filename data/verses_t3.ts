@@ -572,6 +572,13 @@ Opreser wetuni Guged sg`,
 pirāṇa ṉirukkiṟ piṟappiṟap pillai
 pirāṇaṉ maṭaimāṟip pēccaṟi vittup
 pirāṇa ṉaṭaipēṟu peṟṟuṇṭīr nīrē`,
+    english: `567: Breath Control Yields Life-Nectar
+Let Prana merge in Mind
+And together the two be stilled
+Then no more shall birth and death be;
+Therefore, learn to direct breath
+In streams alternating left and right
+Then shall you taste the nectar of life.`,
   },
   {
     id: 569, tantraId: 3, verseNumber: 568,
@@ -1863,6 +1870,12 @@ Ssebert unas 568 WeuuTEar`,
 kaṇṭuṇar vākak karuti yirupparkaḷ
 ceṇṭu vauிyiṟ ceḻuṅkiri yattiṭai
 koṇṭu kutirai kucaiceṟut tārē`,
+    english: `621: Mystic Vision in Samadhi
+They who sit in Samadhi of Pure Consciousness
+Vision the Mystic Woods and the Blooming Pond;
+They roam in the royal expanse of space
+And there at the foot of Fertile Mountain Meru,
+They bridled their Horse of Breath to a stop.`,
   },
   {
     id: 623, tantraId: 3, verseNumber: 622,
@@ -2338,14 +2351,10 @@ And in meekness perform in directions eight.`,
   },
   {
     id: 642, tantraId: 3, verseNumber: 641,
-    tamil: `பரிசறி வானவர் பண்பன் அடியெ642: Sambhavi and Kechari Mudras for Siddhis
-By Muladhara Way,
-With Grace of Guru
-Vision Sakti,
-Seated fragrant and lovely;
-Practise Sambhavi and Kechari mudras
-You shall attain Siddhis Eight,
-That to mighty Siva's goal leads.`,
+    tamil: `பரிசறி வானவர் பண்பன் அடியென்னத்
+துரிசற நாடியே தூவய் கண்டேன்
+அரிய தெனக்கில்லை அட்டமா சித்தி
+பெரிதருள் செய்து பிறப்பறுத் தானே`,
     transliteration: `paricaṟi vāṉavar paṇpaṉ aṭiyeṉat
 turicaṟa nāṭiyē tūvaui kaṇṭēṉ
 ariya teṉakkillai aṭṭamā citti
@@ -5697,11 +5706,11 @@ And so see countless ages of Life Exalted.`,
     id: 761, tantraId: 3, verseNumber: 760,
     tamil: `உயருறு வாருல கத்தொடுங் கூடிப்
 பயனுறு வார்பலர் தாமறி யாமற்
-செயலுறு வார்சிலர் சிந762: Treasure Within is Imperishable
-They who do not see the Treasure that surpasses all,
-But seek the treasures that perish,
-If within their melting heart they seek inside
-They will see the Treasure that dies not.ceyaluṟu vārcilar cintaiyi lāmaṟ
+செயலுறு வார்சிலர் சிந்தையி லாமற்
+கயலுறு கண்ணியைக் காணகி லாரே`,
+    transliteration: `uyaruṟu vārula kattōṭuṅ kūṭip
+payaṉuṟu vārpalar tāmaṟi yāmaṟ
+ceyaluṟu vārcilar cintaiyi lāmaṟ
 kayaluṟu kaṇṇiyaik kāṇaki lārē`,
     english: `760: Worldly Thoughts do not Lead to Sakti
 Some seek to exalt themselves
@@ -8188,18 +8197,14 @@ of Is auch tb agen) aurercib`,
     tamil: `வாங்க லிறுதலை வாங்கலில் வாங்கிய
 வீங்க வலிக்கும் விரகறி வாரில்லை
 வீங்க வலிக்கும் விரகறி வாளரும்
-ஓங்கிய தன்னை உதம்பண்ண845: Effect of Urine Therapy in Yoga
-The urinary liquid within the body
-Is unto a picot of small well;
-Dipped into sea vast
-If that is fed once a day
-In way appropriate,
-Life will know distress none;
-Well may you seek it. valikkum virakaṟi vāḷarum
+ஓங்கிய தன்னை உதம்பண்ணி னாரே`,
+    transliteration: `vāṅka liṟutulai vāṅkalil vāṅkiya
+vīṅka valikkum virakaṟi vārillai
+vīṅka valikkum virakaṟi vāḷarum
 ōṅkiya taṉṉai utampaṇṇi ṉārē`,
     english: `842: Yogis Offered Themselves Entire to God
 Inhaling, exhaling and retaining the breath inhaled
---None knows its technique of control
+—None knows its technique of control
 And those of skill who know it
 Offered themselves to Lord entire.`,
   },

@@ -12039,6 +12039,10 @@ And adored His Holy Feet.`,
 பொய்கலந் தார்முன் புகுதா ஒருவனை
 உய்கலந் தூழித் தலைவனுமாய் நிற்கும்
 மெய்கலந் தின்பம் விளைந்திடும் மெய்யர்க்கே`,
+    transliteration: `meykalan tāroṭu meykalan tāṉtaṉṉai
+poykalan tārmun pukutā oruvaṉai
+uykalan tūḻit talaivaṉumāy niṟkum
+meykalan tiṉpam viḷaintum meyyarkkē`,
     english: `2600: The Truthful Are Beloved of God
 Into them that are Truthful
 He in Truth merged;
