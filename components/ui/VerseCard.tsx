@@ -45,7 +45,11 @@ export function VerseCard({ verse, onPress, isFavorite, showTantraLabel }: Props
         )}
       </View>
 
-      <Text style={[styles.tamil, { color: theme.text }]}>{tamilPreview}</Text>
+      <View style={styles.tamilLines}>
+        {tamilPreview.split('\n').map((line, i) => (
+          <Text key={i} style={[styles.tamil, { color: theme.text }]}>{line}</Text>
+        ))}
+      </View>
       <Text style={[styles.english, { color: theme.textSub }]} numberOfLines={2}>
         {englishPreview}
       </Text>
@@ -84,6 +88,9 @@ const styles = StyleSheet.create({
   star: {
     color: '#D4A017',
     fontSize: FontSize.md,
+  },
+  tamilLines: {
+    gap: 2,
   },
   tamil: {
     fontSize: FontSize.md,

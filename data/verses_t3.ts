@@ -293,6 +293,7 @@ Tapas, meditation, serenity, and holiness
 Charity, vows in Saiva Way and Siddhanta learning
 Sacrifice, Siva puja and thoughts pure
 --With these ten, the one in Niyama perfects his Ways.`,
+    elaborationTamil: `தவம் செய்தல், 2. ஜெபித்தல், 3. பேரின்பம் அடைதல், 4. தெய்வ நம்பிக்கையோடிருத்தல், 5. தானம் செய்தல், 6. சிவ விரதம் கடைபிடித்தல், 7. ஞானத்தைப் பற்றிய உண்மையைக் கேட்டறிதல், 8. யாகம் செய்தல், 9. சிவ பூஜை செய்தல், 10. எண்ணத்தையும் இறைவனையும் இரண்டறக் கலத்தல் ஆகிய பத்தையும் உணர்ந்து பிறருக்குக் அறியக் கூறவும் செய்பவனே நியமத்தின் வழி நடப்பவனாவான்.`,
     elaborationEnglish: `Further on, niyama consists of ten more practices: 1)tapas;
 
 is
@@ -1573,6 +1574,7 @@ Retaining the roaming breath within
 They who can thus still the nadis,
 Will sure reach the Goal
 No fear of birth to be for them.`,
+    elaborationTamil: `இரண்டு கண்களையும் புருவ மத்தியிலுள்ள மூக்கின் மேல் வைத்து உள்ளிழுத்த மூச்சுக்காற்றை வெளியே விடாமல் அடக்கி வைத்து கர்மாவினால் வரும் உடல் மற்றும் மன துன்பங்கள் நீங்க வேண்டி தியானம் செய்தால் அதன் பயனாக உடலுக்குத் துன்பம் எதுவும் வராது. மனதில் எந்த பயமும் இருக்காது.`,
     elaborationEnglish: `Doms wiener curtGipo Gwe
 
 Sool HOS (up prsmact srblencu uss`,
@@ -4687,6 +4689,7 @@ That showed the path of Love Divine;
 Seek Him in love intense;
 The Ganga in cranium will in grace flow;
 And in love exceeding, He your saviour will be.`,
+    elaborationTamil: `தன்னை அடைவதற்கு உண்மையான அன்பை வழியாக வைத்த நெற்றிக்கண்ணையுடைய இறைவனை உண்மையான அன்போடு இருகண்களுக்கு நடுவே இருக்கும் சுழுமுணை நாடியின் உச்சியை நோக்கி தியானத்தில் இருந்தால் தலை உச்சியிலுள்ள சகஸ்ரதளத்தில் ஒளிப்பிரவாகமாக வீற்றிருக்கும் இறைவனைச் சென்றடையும் வழி கிடைக்கும். அந்த வழியை அன்போடு பின்பற்றி அடைந்து விட்டால் எப்போதும் பேரின்பத்தில் திளைத்து என்றும் அழியாமல் இறையருள் காத்து நிற்கும். கருத்து: நாடிகளின் வழியே இறைவனை அடைவதற்கு உண்மையான அன்பு ஒன்றே வழியாகும்.`,
   },
   {
     id: 714, tantraId: 3, verseNumber: 713,

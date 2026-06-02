@@ -1874,6 +1874,7 @@ The ignorant ponder not even awhile,
 The Kalas twice-eight within them stand;
 When Death sets his snare-pit for them to fall,
 Headlong they drop to utter stupefaction abandoned.`,
+    elaborationTamil: `பெளர்ணமி அன்று முழுவதாக இருக்கும் நிலா பிறகு 16 கலைகளில் கொஞ்சம் கொஞ்சமாகத் தேய்ந்துப் பின் முழுவதுமாக அமாவாசை அன்று மறைந்துவிடும் வழக்கத்தை ஒவ்வொரு மாதமும் பார்த்தாலும் அதன் பொருளை நினைக்காமல் இருக்கின்றனர் மூடர்கள். உயிர்களின் மூடத்தன்மையினால் அவர்கள் செய்யும் பல வினைகளைக் கண்டு கோபம் கொள்ளும் எமதர்மன் அவர்கள் மீண்டும் பிறக்க வைக்கும் குழிகளை (ஆசைகளை) வைத்தவுடன் அந்த குழிகளில் ஆசையினால் சென்று விழுகின்றன உயிர்கள். அப்படி ஆசையில் விழுந்தபின் இளமை அழிந்து முதுமைப் பெற்று இறக்கும் தறுவாயில் எமனைக் கண்டு ஏன் இப்படி நமக்கு நடக்கிறது என்று திகைப்பு மாறாமல் இருக்கின்றார்கள் இந்த மூடர்கள்.`,
   },
   {
     id: 187, tantraId: 1, verseNumber: 186,
@@ -1927,6 +1928,7 @@ One field lay ready and ripe for the Five senses to work,
 The Five, that one field watched and tilled;
 But when the grim summons came from the Lord of the Five,
 All the Five for ever fled and quitted the field.`,
+    elaborationTamil: `ஐந்து நபர்களுக்கு ஒரு நிலம் கிடைத்தது. அதில் நன்றாக விவசாயம் செய்து விளைச்சல் விளைந்து கிடந்தது. ஐந்து நபர்களும் அந்த நிலத்தையும் அதன் விளைச்சலையும் கெட்டுப்போகாமல் நன்றாக காத்து பராமரித்து வந்தனர். ஒரு நாள் அந்த ஐந்து நபர்களின் தலைவன் அவர்களை உடனே தன் இடத்திற்கு வந்து சேரும்படி ஓலை அனுப்பினான். அந்த ஓலை வந்தவுடனே ஐவரும் உடனே தாங்கள் இதுவரைக் காத்து பராமரித்து வைத்திருந்த நிலத்தை விட்டுவிட்டு தங்களின் தலைவனை நாடிச் சென்றுவிட்டனர். இதில் ஐவர்கள் என்பது உடலில் இருக்கும் உயிரின் ஐந்து புலன்கள் (கண் – பார்த்தல், காது – கேட்டல், மூக்கு – நுகர்தல், வாய் – பேசுதல், தோல் – தொடுதல்), நிலம் என்பது உயிர் உலகில் எடுத்த உடல் ஆகும். ஐவர்களின் தலைவன் இறைவன் ஆவார். ஐந்து புலன்களும் உடலை கெட்டுப்போகாமல் நன்றாக காத்து பராமரித்து வந்தனர். எப்போது உயிர்களின் உலகப் பிறப்பு வினையின் காலம் முடிகிறதோ அப்போது இறைவன் அழைத்தவுடன் ஐந்து புலன்களும் உடலைவிட்டு பிரிந்து சென்றுவிடும்.`,
     elaborationEnglish: `of death,
 All the Five for ever fled and quit the field.
 
@@ -2581,6 +2583,7 @@ The Vedic Brahmins who holy sacrifices perform,
 On Salvation intent, give before they eat;
 Even as in knowledge true, supreme they stand,
 So in conduct they lead--to the One Goal headed straight.`,
+    elaborationTamil: `அரிய பொக்கிஷமான வேதங்களை முறையாக மந்திரங்கள் ஓதி ஹோமத் தீயை வளர்க்கும் அந்தணர்கள் தமது முக்திக்கு வழி தேடி ஹோமம் செய்து பெற்றதை பிறருக்கும் கொடுத்து மிஞ்சியதை மட்டுமே உண்டு வாழ்வார்கள். அப்படி வாழும் அந்தணர்கள் இறைவனை அடையக்கூடிய வாழ்க்கை முறையை உண்மை நெறிப் பாதையை அவர்கள் தவறாமல் செய்த ஹோமத்தின் பயனால் அறிந்து கொண்டு அதன் படியே வாழ்ந்து முக்தி அடைவார்கள். கருத்து: வேத முறைப்படி யாகங்கள் தவறாமல் செய்து அதில் கிடைக்கும் பொருட்களைப் பிறருக்கும் கொடுத்து மீதி இருப்பதை உண்டு நெறி தவறாமல் வாழும் அந்தணர்கள் முக்தி அடைவார்கள். shiva lingam hd wallpapers Beautiful Photographs 821 best Mahadev images on Pinterest`,
     elaborationEnglish: `Such Brahmins are elevated in knowledge and conduct. They
 feed others before they feed themselves.
 
@@ -3645,6 +3648,7 @@ Earthly desires to worldly objects attached,
 No end know; but in charity's noble way,
 E'en the little things you give, sure props provide;
 All the rest meekly take as the Lord's gift for the day.`,
+    elaborationTamil: `இறைவனின் திருவடிகளையே பற்றிக்கொண்டு உலகத்திதை உண்மையை பேசி குற்றம் குறை கூறாமல் அறநெறிகளின் வழியே நடப்பது மட்டுமின்றி நம்மால் இயன்றதை வேண்டும் என்று கேட்பவர்களுக்கு மனமுவந்து கொடுப்பதும் ஆகிய இவையே முக்தி அடைந்து இறைவனை அடைவதற்க்கான வழிகள் என்று இறைவன் வகுத்தவை என்பதைத் தெரிந்துகொண்டு அந்த வழிமுறைகளை கடைபிடித்து வாழுங்கள்.`,
   },
   {
     id: 261, tantraId: 1, verseNumber: 260,
@@ -5096,6 +5100,7 @@ Some saintly became, because they in middle path stood,
 Some to heavenly beings turned, because they in justice stood,
 Some to Siva-state attained, because they in justice stood,
 And so in the good company of the just, I, too, unfaltering stood.`,
+    elaborationTamil: `பாடல் #320ல் உள்ளபடி நடுநிலையுடன் இருப்பவர்களில் சிலர் சிறந்த ஞானிகளாகி தேவர்களாகி சிவமாகவே ஆகின்றார்கள், யாமும் நடுநிலையுடன் இருப்பவர்களுடன் கலந்து இருக்கின்றேன்.`,
   },
   {
     id: 324, tantraId: 1, verseNumber: 323,
