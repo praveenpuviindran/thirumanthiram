@@ -337,11 +337,9 @@ Vijnanamaya-knowledge-body
 
 Anandamaya-bliss-body
 
-?The yogic way of reaching the light with sixteen beams within
-the visuddhi adhara, where Sakti stands.
+?The yogic way of reaching the light with sixteen beams within the visuddhi adhara, where Sakti stands.
 
-Ten states of transcendental consciousness, beyond which is the
-final goal of supreme awareness.`,
+Ten states of transcendental consciousness, beyond which is the final goal of supreme awareness.`,
   },
   {
     id: 2666, tantraId: 9, verseNumber: 2665,
@@ -780,8 +778,7 @@ That beams Jnana;
 It is the Light of Adharas six ascended,
 It is the Light born of constant thought on Pure Word (Aum)
 It is the Light that is blended of these lights all.`,
-    elaborationEnglish: `Weonors Oencvay ders Gumrgy tb
-woohoo Norn ut Horm`,
+    elaborationEnglish: `Weonors Oencvay ders Gumrgy tb woohoo Norn ut Horm`,
   },
   {
     id: 2688, tantraId: 9, verseNumber: 2687,
@@ -923,9 +920,7 @@ He the Light of Astral Sphere (Chidambaram) within.`,
 
 He as Light Effulgent in them is;
 
-He the Light of Astral Sphere (Chidambaram)
-within.
-
+He the Light of Astral Sphere (Chidambaram) within.
 
 ALGO wrewd caniiger al Fav`,
   },
@@ -1283,8 +1278,7 @@ And hearts melting in love
 Let them chant His name;
 With the alchemic pill of Sivaya Nama
 He will turn thy body gold.`,
-    elaborationEnglish: `Parcs Geninw wrew
-fact 9 saga Pucint Geo`,
+    elaborationEnglish: `Parcs Geninw wrew fact 9 saga Pucint Geo`,
   },
   {
     id: 2711, tantraId: 9, verseNumber: 2710,
@@ -1627,10 +1621,8 @@ You, then, become the arena
 
 For Lord’s Ananda Dance to perform.
 
-3) Sivanandakuthu is the dance of Siva united with Sakti. He
-dances in boundless space, beyond the frontiers of jnana.
-When this dance occurs, the Vedas and Agamas, all, all dance
-with Tim. Out of this dance emerges His five-fold Acts of
+3) Sivanandakuthu is the dance of Siva united with Sakti. He dances in boundless space, beyond the frontiers of jnana.
+When this dance occurs, the Vedas and Agamas, all, all dance with Tim. Out of this dance emerges His five-fold Acts of
 Creation, Preservation, Dissolution, Obfuscation — and
 
 Revealing.
@@ -1720,8 +1712,7 @@ The Five acts He performs
 With Sakti-Grace in Him;
 And so the Lord dances with Sakti
 That is of honey-speech.`,
-    elaborationEnglish: `Were. Gugnest.. Gurenosri
-psresrt geno. Gursnessi`,
+    elaborationEnglish: `Were. Gugnest.. Gurenosri psresrt geno. Gursnessi`,
   },
   {
     id: 2729, tantraId: 9, verseNumber: 2728,
@@ -1759,8 +1750,7 @@ The Universe of Mukti,
 
 The Universe of Passions
 
-The Universe of Appetites
-these universes
+The Universe of Appetites these universes
 
 That He created,
 
@@ -1819,11 +1809,9 @@ The Great Siddha-Lord dances.
 
 These are known as the Siva tattvas:
 
-i) In suddha vidya tattva, jnana predominates and kriyas is
-subdued.
+i) In suddha vidya tattva, jnana predominates and kriyas is subdued.
 
-ii) In isvara vidya tattva, kriya predominates, and jnana is
-subdued.
+ii) In isvara vidya tattva, kriya predominates, and jnana is subdued.
 
 In sadakya tattva, jnana and kriya are in balance.
 
@@ -1904,16 +1892,10 @@ And in Tillai? and in
 
 —He the King Supreme.
 
-1) Sundara Kuthu is the Dance of Compassion. It has eight
-variations: Kodukotti, Pandarangam, Kuthu,
-Muntandavam, Anavarata tandavan, Ananda
-tandavam, and Samhara tandavam. All the worlds come into
-being when this dance begins, and come to an end when the
-dance ends.
+1) Sundara Kuthu is the Dance of Compassion. It has eight variations: Kodukotti, Pandarangam, Kuthu,
+Muntandavam, Anavarata tandavan, Ananda tandavam, and Samhara tandavam. All the worlds come into being when this dance begins, and come to an end when the dance ends.
 
-2) This was the forest where the rishis performed their
-sacriligious homas, and challenged Siva’s might. He destroyed
-them and danced.
+2) This was the forest where the rishis performed their sacriligious homas, and challenged Siva’s might. He destroyed them and danced.
 
 3) Chidambaram (in the South Arcot District of Tamil Nadu)
 4) Tirvalangadu (in the North Arcot District of Tamil Nadu).`,
@@ -2045,11 +2027,7 @@ In south, north, east, west and crest
 In the five faces wondrous therein,
 In the void within void of peerless Bliss,
 The Tat-Para dances the dance rare.`,
-    elaborationEnglish: `1) In Porpathi Kuthu, Siva dances with five faces, and in
-three stages — form, formless and form/formless. This dance
-takes place separately on each of the five elements. Those
-who witness it experience certain physical emotions, such as
-sobbing, trembling, and loss of consciousness.
+    elaborationEnglish: `1) In Porpathi Kuthu, Siva dances with five faces, and in three stages — form, formless and form/formless. This dance takes place separately on each of the five elements. Those who witness it experience certain physical emotions, such as sobbing, trembling, and loss of consciousness.
 
 2) Aghora, Vama, Tatpurusa, Satyojata, and Isana.
 weGr wiywes grr
@@ -2353,7 +2331,6 @@ With them all,
 
 Para’s Holy Feet danced and danced.
 
-
 SLAYS Dovacri epovld`,
   },
   {
@@ -2398,8 +2375,7 @@ And the seven sacred hills too;
 In that land are born the Veda-Agamas;
 Thus blessed,
 The South is the Holy Land indeed.`,
-    elaborationEnglish: `prss Deflory prpugs Gewmry
-anys sposs Bary`,
+    elaborationEnglish: `prss Deflory prpugs Gewmry anys sposs Bary`,
   },
   {
     id: 2757, tantraId: 9, verseNumber: 2756,
@@ -2479,8 +2455,7 @@ Ascendes to heavens high,
 And reaches to Five-lettered Nada's point;
 He does descend to you and bless you,
 His Siva-State confer on you.`,
-    elaborationEnglish: `Aww srgyd Guremsyo
-urigw un uesner pm
+    elaborationEnglish: `Aww srgyd Guremsyo urigw un uesner pm
 
 fau.w Oansirms`,
   },
@@ -2547,14 +2522,8 @@ As Sakti Tiripurai as well;
 She verily is Uma
 That is Form-Formless.`,
     elaborationEnglish: `When Siva dances the Atbhuta (Wonder) Dance, He is
-Formless, and His consort is mingled into Him as Tiripurai
-(or Uma). This dance is beyond the comprehension of ordinary
-human cognition. It can be witnessed only by those who are
-rid of maya, and mamaya. In this Dance, His partner, Uma,
-first separates Herself from Him during the dance and then
-later coalesces with Him. The visualization here is that of
-Siva dancing before His consort wearing on His body, fire,
-drum, beads, noose, goad, spear, skull, etc. The Five Letters,
+Formless, and His consort is mingled into Him as Tiripurai (or Uma). This dance is beyond the comprehension of ordinary human cognition. It can be witnessed only by those who are rid of maya, and mamaya. In this Dance, His partner, Uma, first separates Herself from Him during the dance and then later coalesces with Him. The visualization here is that of
+Siva dancing before His consort wearing on His body, fire, drum, beads, noose, goad, spear, skull, etc. The Five Letters,
 Si Va Ya Na Ma, are represented here.
 
 Hoap wurage Appbd`,
@@ -2598,8 +2567,7 @@ That the Place where
 Our Lord of Nadanta dances;
 That verily is the Holy Temple.`,
     elaborationEnglish: `Meaalvagy aners Garons
-Aseiu Dab Hapsq
-shQuret wry supgitor Goupru`,
+Aseiu Dab Hapsq shQuret wry supgitor Goupru`,
   },
   {
     id: 2766, tantraId: 9, verseNumber: 2765,
@@ -2764,8 +2732,7 @@ The Sakti Kundalini
 -These seven are Siva's pedestals;
 On them He dances
 He, the Being Transcendental.`,
-    elaborationEnglish: `wan Homss tomer
-pups srohsip grmencu`,
+    elaborationEnglish: `wan Homss tomer pups srohsip grmencu`,
   },
   {
     id: 2773, tantraId: 9, verseNumber: 2772,
@@ -2999,16 +2966,10 @@ He danced the Dance of Divine Bliss.`,
 d)Bhairava, Vama, - Kalamukha, Mavirata, Pasupata,
 Saivam—these are held as ‘‘outer faiths’’ of Saivam.
 e)Lokayata, Buddha, Jaina (Samana). Mimamsa, Pancharata,
-Bhattacharya—these too are held as ‘‘outer philosophies’’ by
-the Saiva school.
-4) The seven primal melodies are: Sa, Ri, Ga, Ma, Pa, Da
-and Ni. In Tamil literature, they are described as, kurtuttam,
-kaikilai, uzhai, ili, vilari, and tharam.
-5) 28 modes commencing from kandam and
-prabandavuru. Kandam has a basic measure and a sing beat;
-prabhandayuru has no basic measure and has multi beats. In
-between are permutations and combinations. The 28
-measures belong to the inner measures of dance`,
+Bhattacharya—these too are held as ‘‘outer philosophies’’ by the Saiva school.
+4) The seven primal melodies are: Sa, Ri, Ga, Ma, Pa, Da and Ni. In Tamil literature, they are described as, kurtuttam, kaikilai, uzhai, ili, vilari, and tharam.
+5) 28 modes commencing from kandam and prabandavuru. Kandam has a basic measure and a sing beat;
+prabhandayuru has no basic measure and has multi beats. In between are permutations and combinations. The 28 measures belong to the inner measures of dance`,
   },
   {
     id: 2784, tantraId: 9, verseNumber: 2783,
@@ -3056,8 +3017,7 @@ He in ancient Pasas Triple danced
 
 The Dance of Mohanta (Impurity-riddance).
 
-Presumably, the reference is to the combined 360 rays of
-fire (118), sun (106), and moon (136). They constitute kala
+Presumably, the reference is to the combined 360 rays of fire (118), sun (106), and moon (136). They constitute kala
 
 (time) as the 360 rays or 360 days that ‘comprise a year.
 
@@ -3099,8 +3059,7 @@ He transcends worlds all.
 
 By yuma omg
 
-Ashpsauct Agans
-corny pucsd Usmact Gb`,
+Ashpsauct Agans corny pucsd Usmact Gb`,
   },
   {
     id: 2787, tantraId: 9, verseNumber: 2786,
@@ -3264,8 +3223,7 @@ Holy indeed is the Jnana Dance
 That Sivananda Bliss fills.
 
 auypier sraggs
-Miper sracca srngsagss
-prahs EpGart apap`,
+Miper sracca srngsagss prahs EpGart apap`,
   },
   {
     id: 2795, tantraId: 9, verseNumber: 2794,
@@ -3680,9 +3638,7 @@ Then the Dream, where bliss experienced be;
 Beyond it, is (sushupti) where Bliss experience certain is;
 Ascend still, there is the Void (Turiya)
 Where are only Two-Bliss and Lord of Bliss.`,
-    elaborationEnglish: `shuct TED
-amhuyib Gibbs wrener
-afuer gaan`,
+    elaborationEnglish: `shuct TED amhuyib Gibbs wrener afuer gaan`,
   },
   {
     id: 2815, tantraId: 9, verseNumber: 2814,
@@ -3857,8 +3813,7 @@ For them who seek liberation
 Pranava is the center of divine union;
 The Lord is the Knowledge within Knowledge,
 Of those who liberation seek.`,
-    elaborationEnglish: `sreaad entésac scachcr
-artégu Yopuded Cuipss`,
+    elaborationEnglish: `sreaad entésac scachcr artégu Yopuded Cuipss`,
   },
   {
     id: 2824, tantraId: 9, verseNumber: 2823,
@@ -3940,8 +3895,7 @@ In the Turiya Third is Asi-Pada State,
 Beyond is the Subtlety
 Immense that transcends Space
 There, the Holy Truth of Nandi, verily, is.`,
-    elaborationEnglish: `1) In jiva turiya, jiva realises its spiritual nature, and
-is in God-consciousness—but duality still exists.
+    elaborationEnglish: `1) In jiva turiya, jiva realises its spiritual nature, and is in God-consciousness—but duality still exists.
 
 2) In Para turiya, jiva realises Siva, and is union with
 Him, but not united—duality still exists.
@@ -3949,8 +3903,7 @@ Him, but not united—duality still exists.
 3) In Siva turiya, jiva unites in God totally, himself becoming
 God—the unitive state is reached.
 
-4) In Beyond turiya, jiva himself becomes undifferentiated
-in God, and attains the subtle Siva state of Luminous
+4) In Beyond turiya, jiva himself becomes undifferentiated in God, and attains the subtle Siva state of Luminous
 
 Qoahu ahueb goat Ahweesb`,
   },
@@ -4128,8 +4081,7 @@ The Self-illuminating Manifestness (Svarupa) is.`,
     elaborationEnglish: `
 Bryn thse ado
 
-Poy Dergusgicr BOC) Gareputd
-au ghusg soorig Der prGen, 2835
+Poy Dergusgicr BOC) Gareputd au ghusg soorig Der prGen, 2835
 
 Parasivam is Immanent in Svarupa State
 
@@ -4141,8 +4093,7 @@ In that immanent state,
 Extends His Self-illuminating Manifestness;
 When Jiva the Final Turiya State attains.
 
-FAD Gaow
-ancet feats`,
+FAD Gaow ancet feats`,
   },
   {
     id: 2836, tantraId: 9, verseNumber: 2835,
@@ -4232,13 +4183,9 @@ Verily become Lord of Immortals in High Heavens.
 
 1) Lust, anger, ignorance, greed, hatred, vengefulness,
 
-possessiveness. The Kularnava Tantra
-eight bonds: pity (daya or inferior benevolence
-to divine compassion); ignorance and delusion
+possessiveness. The Kularnava Tantra eight bonds: pity (daya or inferior benevolence to divine compassion); ignorance and delusion
 
-miserliness,
-enumerates
-as opposed
+miserliness, enumerates as opposed
 
 (kula); habit and observance (shila), and caste (varna).
 , Vide and Shakta,’’ by Sir John Woodroffe, p.530.
@@ -4436,8 +4383,7 @@ Or with cool sandal paste soften them?
 All these are but by Fate, Nandi decreed,
 Thus realizing they impassive remain,
 They, the Holy Jnanis, that Truth perceived.`,
-    elaborationEnglish: `Oels Map srorvanew
-ourcripsicr Gs DEIWSUG como`,
+    elaborationEnglish: `Oels Map srorvanew ourcripsicr Gs DEIWSUG como`,
   },
   {
     id: 2849, tantraId: 9, verseNumber: 2848,
@@ -4641,8 +4587,7 @@ He is Sentience, He is Life;
 He is union, He is separation;
 He is Continuity beyond thought;
 He stands in the fragrance of flower within.`,
-    elaborationEnglish: `HAM Hot orerscroncr worehlupssr cred G
-yoach wuts Goneauw
+    elaborationEnglish: `HAM Hot orerscroncr worehlupssr cred G yoach wuts Goneauw
 
 worefu Gacral wanwoact wrgaict`,
   },
@@ -4785,24 +4730,15 @@ The Form too is altered;
 
 How to describe it!
 
-“A thing cannot be described and clarified in terms of
-itself, but only with reference to something else in the
-universe...
+“A thing cannot be described and clarified in terms of itself, but only with reference to something else in the universe...
 
-The field from which the substance and the form of
-are taken is nature. There is no other field
-from which to derive them. Nature takes the two aspects
+The field from which the substance and the form of are taken is nature. There is no other field from which to derive them. Nature takes the two aspects
 
-ot “human nature’ and the nature of the surroundings
-of man. Man’s ‘animal nature’ is of a particular
-aspect of human nature, derived from the nature of animals
-in man’s surroundings.
+ot “human nature’ and the nature of the surroundings of man. Man’s ‘animal nature’ is of a particular aspect of human nature, derived from the nature of animals in man’s surroundings.
 
 Substance and form of belong to external nature.
 
-The meaning applies to the internal nature. Nature is
-the mirror of cofisciousness, and the pictures in the mirror
-reflect the of consciousness.’’ ‘“The Book of
+The meaning applies to the internal nature. Nature is the mirror of cofisciousness, and the pictures in the mirror reflect the of consciousness.’’ ‘“The Book of
 Signs,’” by G.H. Mees, Vol.I.
 
 16. Cush, 5G (6) aurress ib z`,
@@ -4874,15 +4810,9 @@ I know not.`,
 2) Malas—anava, maya and karma
 3) Fifty-one letters of nada pervading the body.
 
-Chapter 17 is given the caption “Sunya Sambhasana (Dialogue
-of But it is more popular esoteric than
-and resemble in this respect the popular
-and other ‘‘sandabhasa"’, literature of Bengal which began
-to appear from about the 10th century onwards with
+Chapter 17 is given the caption “Sunya Sambhasana (Dialogue of But it is more popular esoteric than and resemble in this respect the popular and other ‘‘sandabhasa"’, literature of Bengal which began to appear from about the 10th century onwards with
 
-the decay of Buddhism {See ‘Obscure Religious cults
-of Bengal’’ by Das Gupta). The verses in this chapter
-are typical siddhar poetry.
+the decay of Buddhism {See ‘Obscure Religious cults of Bengal’’ by Das Gupta). The verses in this chapter are typical siddhar poetry.
 
 uns ALSGD aiomsuw cunlhocw
 
@@ -4925,8 +4855,7 @@ And there I saw the seas seven.`,
 I ascended the palm’s heights;
 And there I saw the seas seven.
 
-Climb the four juicy palm trees (nadis—sun, moon, meru,
-and sushumna) in the junction of the six streets (adharas).
+Climb the four juicy palm trees (nadis—sun, moon, meru, and sushumna) in the junction of the six streets (adharas).
 Then you will behold the seven seas, sahasfara).
 Uysowo unsev anssgi
 
@@ -4957,9 +4886,7 @@ Full well ripened the fruit of plantain.`,
 4) Siva (suggesting a Linga covered with holy ashes)
 
 5) The indriyas or sense organs; may also refer to malas.
-6) Mukti or liberation from birth. The plantain is thought
-of as being seedless (vazhai comes from ‘vazh’ and ‘i’—
-creating a pun on the word to mean ‘life-giving fruit’).
+6) Mukti or liberation from birth. The plantain is thought of as being seedless (vazhai comes from ‘vazh’ and ‘i’— creating a pun on the word to mean ‘life-giving fruit’).
 
 Oewuler Asahan curfcronw`,
   },
@@ -5044,8 +4971,7 @@ They plough the waste in vain.
 
 4) Course breath through sushumna.
 
-5) Thrusting the tongue upward into the uluva—a yogic
-practice for realisation: known as kechari mudra.
+5) Thrusting the tongue upward into the uluva—a yogic practice for realisation: known as kechari mudra.
 
 6) Sahasrara in the cranium
 
@@ -5073,8 +4999,7 @@ Verily is it unto the fowl
 That the harlot rears.`,
     elaborationEnglish: `1) Nadis—ida and pingala
 
-2) Seven centres—the six adharas leading to the seventh,
-sahasrara.
+2) Seven centres—the six adharas leading to the seventh, sahasrara.
 
 3&4) Breaths—exhalation and inhalation
 
@@ -5147,15 +5072,13 @@ Thus the smith made it his own.`,
     elaborationEnglish: `1) The cranium
 
 2) Jiva’s body-house—‘thattan’ is composed of ‘thattu’ and
-‘an,’ creating a pun on the word which means, ‘striking
-jiva.’
+‘an,’ creating a pun on the word which means, ‘striking jiva.’
 
 3) flower bud in sahasrara
 
 4) Ruddy in color.
 
-5) “Vay’ and ‘mai’ creates a pun on the word
-to mean closing the uluva opening in the mouth.`,
+5) “Vay’ and ‘mai’ creates a pun on the word to mean closing the uluva opening in the mouth.`,
   },
   {
     id: 2878, tantraId: 9, verseNumber: 2877,
@@ -5187,9 +5110,7 @@ Then plough with the good young bull,
 And transplant the cucumber seedling;
 That shall indeed into good seed ripe.
 
-Plough the eroding seed bed (thoughts that are filled
-with sorrow) with the good young bull (yoga), and transplant
-the cucumber seedling (bindu). Truly, it will ripen into
+Plough the eroding seed bed (thoughts that are filled with sorrow) with the good young bull (yoga), and transplant the cucumber seedling (bindu). Truly, it will ripen into
 
 yeys Dor apoarew
 Querer aap memir`,
@@ -5215,9 +5136,7 @@ Gently should they consume it;
 This they do not;
 How then do they the sweet rice crop harvest,
 Lying indifferent?`,
-    elaborationEnglish: `Strew the seed; apply manure; plough it; remove the
-weeds—then in produced rice (liberation). How can you
-reap a good harvest if you have not: striven like this?
+    elaborationEnglish: `Strew the seed; apply manure; plough it; remove the weeds—then in produced rice (liberation). How can you reap a good harvest if you have not: striven like this?
 Liberation will not be bestowed to those who do not
 Strive in the yogic way.
 
@@ -5245,8 +5164,7 @@ The three spaces above, too, ripened.`,
 1) The three turiya states—jiva turiya, Para turiya, and
 Siva turiya.
 
-2) The three space beyond, one in each of the three
-turiya states.
+2) The three space beyond, one in each of the three turiya states.
 
 STG suntacr soricr ipmnss`,
   },
@@ -5303,10 +5221,7 @@ The rich ripe fruit from bunch above dropped;
 Unto the metal on the smith's furnace,
 It melted;
 And over the heart, He made it flow.`,
-    elaborationEnglish: `It rained (nectar flowed) on the mountain (cranium), and
-the dear (Sakti) leapt. From the bunch (sahasrara) dropped
-the rich fruit (bliss of Grace). Like the metal in the
-furnace, it melted, and sweet ambrosia flowed.
+    elaborationEnglish: `It rained (nectar flowed) on the mountain (cranium), and the dear (Sakti) leapt. From the bunch (sahasrara) dropped the rich fruit (bliss of Grace). Like the metal in the furnace, it melted, and sweet ambrosia flowed.
 
 Qa Oaisgs Dhar`,
   },
@@ -5325,10 +5240,7 @@ In Brahmin's home are Milk Cows Five
 With none to herd them, they stray uncontrolled,
 If a cowherd there is, and controlled they are,
 The Five Cows will milk in abundance give.`,
-    elaborationEnglish: `If there is a cowherd (yogi) to control the five milky
-cows (senses) in the brahmin’s home (yogi’s body), they
-will give milk (ambrosia) in abundance. So hold firm
-control over your senses. You will remain youthful forever.
+    elaborationEnglish: `If there is a cowherd (yogi) to control the five milky cows (senses) in the brahmin’s home (yogi’s body), they will give milk (ambrosia) in abundance. So hold firm control over your senses. You will remain youthful forever.
 
 Borsa osgod Muugs
 Bros gH orores`,
@@ -5360,8 +5272,7 @@ If not, they put fire to it®
 
 3) Nadis—ida and pingala
 
-4) Nine centres—the six adharas and the three spheres
-of sun, moon, and fire.
+4) Nine centres—the six adharas and the three spheres of sun, moon, and fire.
 
 Asqganrg sore Cars
 
@@ -5386,10 +5297,7 @@ As the Bee its fragrance drank,
 Unborn it became.`,
     elaborationEnglish: `Unborn it became.
 
-When the immaculate virgin (kundalini): chants the truth
-of the unwritten book (Aum), the nectar of the flower
-(sahasrara) gushes out. -When the bee (yogi) savours that
-fragrant liquid, immortality ensues.`,
+When the immaculate virgin (kundalini): chants the truth of the unwritten book (Aum), the nectar of the flower (sahasrara) gushes out. -When the bee (yogi) savours that fragrant liquid, immortality ensues.`,
   },
   {
     id: 2887, tantraId: 9, verseNumber: 2886,
@@ -5407,8 +5315,7 @@ The false seed that enters;
 The Five who eat of the broth made
 Of the ripe fruit of flourishing Jamun tree;
 -All, all, went the burning roof's way.`,
-    elaborationEnglish: `If breath is controlled through the yogic way, surely death
-can be vanquished.
+    elaborationEnglish: `If breath is controlled through the yogic way, surely death can be vanquished.
 
 1) Exhaling breath
 
@@ -5446,8 +5353,7 @@ But Jiva has the straying uncontrolled ones alone.
 Yoga Way to Transcend Tattvas
 
 Twenty and four the cows' that are in calf;
-Better far a pitcher of milk from cows” that
-yield;
+Better far a pitcher of milk from cows” that yield;
 
 When you know how to milk the cows of breath
 
@@ -5465,8 +5371,7 @@ Quortiinr Quapssgy Debune wargssl
 Yogic Kechari Mudra For Liberation
 
 In the upper storey’ of the house of smith?
-Was a bud-like that like (sheet)
-expanded;
+Was a bud-like that like (sheet) expanded;
 
 He ‘shaped it round, folding it in Truth®
 
@@ -5475,15 +5380,13 @@ Thus the smith made it his own.
 1) The cranium
 
 2) Jiva’s body-house—‘thattan’ is composed of ‘thattu’ and
-‘an,’ creating a pun on the word which means, ‘striking
-jiva.’
+‘an,’ creating a pun on the word which means, ‘striking jiva.’
 
 3) flower bud in sahasrara
 
 4) Ruddy in color.
 
-5) and ‘mai’ creates a pun on the word ‘vay
-to mean closing the uluva opening in the mouth.
+5) and ‘mai’ creates a pun on the word ‘vay to mean closing the uluva opening in the mouth.
 POANEDAD Daca gals 2877
 
 Sublimate Bindu Within into Para Bindu
@@ -5500,9 +5403,7 @@ Then plough with the good young bull,
 And transplant the cucumber seedling;
 That shall indeed into good seed ripe.
 
-Plough the eroding seed bed (thoughts that are filled
-with sorrow) with the good young bull (yoga), and transplant
-the cucumber seedling (bindu). Truly, it will ripen into
+Plough the eroding seed bed (thoughts that are filled with sorrow) with the good young bull (yoga), and transplant the cucumber seedling (bindu). Truly, it will ripen into
 
 wens Hor
 
@@ -5526,9 +5427,7 @@ This they do not;
 
 How then do they the sweet rice crop harvest,
 
-Strew the seed; apply manure; plough it; remove the
-weeds—then in produced rice (liberation). How can you
-reap a good harvest if you have not: striven like this?
+Strew the seed; apply manure; plough it; remove the weeds—then in produced rice (liberation). How can you reap a good harvest if you have not: striven like this?
 Liberation will not be bestowed to those who do not
 Strive in the yogic way.
 
@@ -5547,8 +5446,7 @@ The three spaces” above, too, ripened.
 1) The three turiya states—jiva turiya, Para turiya, and
 Siva turiya.
 
-2) The three space beyond, one in each of the three
-turiya states.
+2) The three space beyond, one in each of the three turiya states.
 
 STG untscr Bevenw
 
@@ -5566,7 +5464,6 @@ Like the young weeds
 
 That waste shoots.
 
-
 Yoga Leads to Grace
 
 Within the shed’ where jackals? howl,
@@ -5582,7 +5479,6 @@ And there in the home, you shall be well.
 
 3) Chanting of the mantra, ‘Aum.’
 
-
 Experiences in the Sphere of Sahasrara
 
 On the mountain it rained,
@@ -5596,13 +5492,9 @@ It melted;
 
 And over the heart, He made it flow.
 
-It rained (nectar flowed) on the mountain (cranium), and
-the dear (Sakti) leapt. From the bunch (sahasrara) dropped
-the rich fruit (bliss of Grace). Like the metal in the
-furnace, it melted, and sweet ambrosia flowed.
+It rained (nectar flowed) on the mountain (cranium), and the dear (Sakti) leapt. From the bunch (sahasrara) dropped the rich fruit (bliss of Grace). Like the metal in the furnace, it melted, and sweet ambrosia flowed.
 
-Qa Oasys Dhaca
-unruuncs use uncwné Cw. 2883
+Qa Oasys Dhaca unruuncs use uncwné Cw. 2883
 
 Control Senses
 
@@ -5612,13 +5504,9 @@ With none to herd them, they stray uncontrolled,
 If a cowherd there is, and controlled they are,
 The Five Cows will milk in abundance give.
 
-If there is a cowherd (yogi) to control the five milky
-cows (senses) in the brahmin’s home (yogi’s body), they
-will give milk (ambrosia) in abundance. So hold firm
-control over your senses. You will remain youthful forever.
+If there is a cowherd (yogi) to control the five milky cows (senses) in the brahmin’s home (yogi’s body), they will give milk (ambrosia) in abundance. So hold firm control over your senses. You will remain youthful forever.
 
-Bors opgibd
-pars s.noNger ape Oho 2884
+Bors opgibd pars s.noNger ape Oho 2884
 
 How to be Youthful
 
@@ -5637,8 +5525,7 @@ If not, they put fire to it®
 
 3) Nadis—ida and pingala
 
-4) Nine centres—the six adharas and the three spheres
-of sun, moon, and fire.
+4) Nine centres—the six adharas and the three spheres of sun, moon, and fire.
 
 bems Ue: wea
 Upnaurs act weripes. 2885
@@ -5655,10 +5542,7 @@ As the Bee its fragrance drank,
 
 Unborn it bécame.
 
-When the immaculate virgin (kundalini) chants the truth
-of the unwritten book (Aum), the nectar of the flower
-(sahasrara) gushes out..-When the bee (yogi) savours that
-fragrant liquid, immortality ensues.
+When the immaculate virgin (kundalini) chants the truth of the unwritten book (Aum), the nectar of the flower (sahasrara) gushes out..-When the bee (yogi) savours that fragrant liquid, immortality ensues.
 
 yelp Qurwa sg ms
 
@@ -5675,8 +5559,7 @@ The Five? who eat of the made
 Of the ripe fruit® of flourishing Jamun tree;
 —All, all, went the burning roof’s way®
 
-If breath is controlled through the yogic way, surely death
-can be vanquished.
+If breath is controlled through the yogic way, surely death can be vanquished.
 
 1) Exhaling breath
 
@@ -5695,11 +5578,8 @@ In that Palm is a Snake
 Knowing not to drive that Snake and eat it,
 The Margosa tree withered away.
 
-From the bamboo shoot (karma) arose a margosa tree
-(body), and very close to that was a palmyrah (sushumna).
-Knowing not how to drive the snake (kundalini) that
-was in the palm, the margosa withered away (the body
-perishes if yoga is not practised).`,
+From the bamboo shoot (karma) arose a margosa tree (body), and very close to that was a palmyrah (sushumna).
+Knowing not how to drive the snake (kundalini) that was in the palm, the margosa withered away (the body perishes if yoga is not practised).`,
   },
   {
     id: 2889, tantraId: 9, verseNumber: 2888,
@@ -5720,8 +5600,7 @@ Three that are upright
 Six the physicians,
 Five the lordly ones,
 There they all stand.`,
-    elaborationEnglish: `2) Ten sense organs (karmendriyas and jnanendriyas), and
-five sense potencies (tanmatras)
+    elaborationEnglish: `2) Ten sense organs (karmendriyas and jnanendriyas), and five sense potencies (tanmatras)
 
 5) Sun, moon and fire spheres
 
@@ -5742,12 +5621,9 @@ Two the bulls in this hamlet,
 One the servant for the bulls two;
 Control the bulls two, firm,
 As one they will then be.`,
-    elaborationEnglish: `Control the two bulls (breaths—right, pingala, and lett,
-ida) in this hamlet (body). Then they will become one
-as prana coursing througn the sushumna.
+    elaborationEnglish: `Control the two bulls (breaths—right, pingala, and lett, ida) in this hamlet (body). Then they will become one as prana coursing througn the sushumna.
 
-95 yor sucess yu
-oWors eparaca 2a or`,
+95 yor sucess yu oWors eparaca 2a or`,
   },
   {
     id: 2891, tantraId: 9, verseNumber: 2890,
@@ -5767,11 +5643,7 @@ Daily do they ascend thus,
 Who perfection filled are.`,
     elaborationEnglish: `Who perfection filled are.
 
-Level up the mind-garden, and plant the cotton tree (coursing
-the thread-like prana through sushumna). Then enter the
-place of three (ajna) by liberation’s rope (yoga practice),
-where Siva, Sakti and jiva are. Thus, by practising yoga,
-ascend daily. You will become perfect.
+Level up the mind-garden, and plant the cotton tree (coursing the thread-like prana through sushumna). Then enter the place of three (ajna) by liberation’s rope (yoga practice), where Siva, Sakti and jiva are. Thus, by practising yoga, ascend daily. You will become perfect.
 
 Lipib 2 emacs
 BIDSOWS MOS FOS QIN SQ Hs`,
@@ -5792,20 +5664,11 @@ The Mynah and the Quail
 They, all, within dwell;
 As the Owl nears the Mynah
 The Mouse warns Mynah, screeching loud.`,
-    elaborationEnglish: `The six base traits—lust, hatred, infatuation, avarice,
-arrogance (egoity), and malice (the owl, snake, parrot,
-cat, and quail) within. The mouse (kundalini
-yoga power) warns the (jiva) as the owl (lust)
-nears it.
+    elaborationEnglish: `The six base traits—lust, hatred, infatuation, avarice, arrogance (egoity), and malice (the owl, snake, parrot, cat, and quail) within. The mouse (kundalini yoga power) warns the (jiva) as the owl (lust) nears it.
 
-1-6) for the six transgressions: kama (lust),
-(ahankara—ego), matsarya (vengefulness). For the
-of birds as transgressions (avengers), vide—‘‘The Book
-of Signs,’’ by G.H. Mees, Vol.I, p.255-
+1-6) for the six transgressions: kama (lust), (ahankara—ego), matsarya (vengefulness). For the of birds as transgressions (avengers), vide—‘‘The Book of Signs,’’ by G.H. Mees, Vol.I, p.255-
 
-7) The shrew-mouse is of the divine self which
-works in the ‘unconscious’’ and interferes with man’s
-ahankara stores, and in the plane for the future. One
+7) The shrew-mouse is of the divine self which works in the ‘unconscious’’ and interferes with man’s ahankara stores, and in the plane for the future. One
 Ganapathi tradition says, “It is Isavara who enjoys all.
 He lives there like a thief. He is said to be a mouse.’’
 The shrew-mouse is the mount of Ganapathi, the guardian
@@ -5832,8 +5695,7 @@ Of flesh-born,
 How will they ever go?`,
     elaborationEnglish: `Kundalini yoga alone drives away the triple pasas.
 
-2) Pasas—the rat (unlike the mouse which the
-divine) pasas. Vide G.H. Mees, op.cit.`,
+2) Pasas—the rat (unlike the mouse which the divine) pasas. Vide G.H. Mees, op.cit.`,
   },
   {
     id: 2894, tantraId: 9, verseNumber: 2893,
@@ -5852,10 +5714,7 @@ The Five Steeds together entered,
 The Six Camels were closed up, entire;
 If they leave the Forest dense,
 The Three will near come.`,
-    elaborationEnglish: `If the five steeds (senses), and the six camels (evils)
-leave the dense forest (thought), the three (Siva, Sakti
-and Grace) will near them. Renounce everything—you will
-be liberated. .
+    elaborationEnglish: `If the five steeds (senses), and the six camels (evils) leave the dense forest (thought), the three (Siva, Sakti and Grace) will near them. Renounce everything—you will be liberated. .
 
 SIG MUL gy Host cuit`,
   },
@@ -5877,9 +5736,7 @@ Fly away
 Unto a garment piece on a high rock laid,
 Into the deep pit of six sins they fall
 And there immersed are.`,
-    elaborationEnglish: `They who desire for earthly riches are like a ‘fragile
-garment piece laid on,a high rock. At the blow of the
-slightest wind, it falls into the deep pit of the six sins.
+    elaborationEnglish: `They who desire for earthly riches are like a ‘fragile garment piece laid on,a high rock. At the blow of the slightest wind, it falls into the deep pit of the six sins.
 
 soos Gunocurtapo Gumrgib`,
   },
@@ -5920,8 +5777,7 @@ The Kite and Parrot together beat the drum loud
 The Shapely Lady her wedding celebrated,
 The Form of the holy Element she attained,
 In that state, rapturous She remained.`,
-    elaborationEnglish: `1) The Tamil word for kite, ‘parunthu,” also means bangle
-of conch shell worn by women.
+    elaborationEnglish: `1) The Tamil word for kite, ‘parunthu,” also means bangle of conch shell worn by women.
 
 2) Parrot held by Sakti good and evil in balance
 3) Kundalini ;
@@ -5944,9 +5800,7 @@ And approaching its partner fed it
 Unto it easy is the Goal to reach
 For those who eat of Ghee in the melting Fire within
 And away the Darkness drive.`,
-    elaborationEnglish: `Indéed, reaching the destined goal (liberation) is easy
-for those -who eat of the ghee (Grace) in the melting
-fire (love of God) within, driving away the darkness.
+    elaborationEnglish: `Indéed, reaching the destined goal (liberation) is easy for those -who eat of the ghee (Grace) in the melting fire (love of God) within, driving away the darkness.
 
 3) Spiritual energy or ambrosia
 
@@ -5971,9 +5825,7 @@ Head none to wear;
 The Branch that bent withers not.`,
     elaborationEnglish: `No leaves, no bees, but the flower (sahasrara) is there
 
-(in the cranium). No top, no sheath, but the root (Siva)
-is there. No head to wear that flower. The branch
-(Grace) that bends does not wither.`,
+(in the cranium). No top, no sheath, but the root (Siva) is there. No head to wear that flower. The branch (Grace) that bends does not wither.`,
   },
   {
     id: 2900, tantraId: 9, verseNumber: 2899,
@@ -5999,8 +5851,7 @@ Are the truly great;
 Low at Lord’s Feet they lie; .
 And there they remain.
 
-Having visioned the banyan tree (Siva) that stands aloft
-(in sahasrara), they adore the Holy Lord and unite in
+Having visioned the banyan tree (Siva) that stands aloft (in sahasrara), they adore the Holy Lord and unite in
 Him. Truly great are those who rise above the five sorrows.
 
 saat sabgihen`,
@@ -6022,10 +5873,7 @@ Inside stand Robber that ceases and binds,
 If the White Guard chases the Black Robber
 And back it sends,
 The Jiva the Roof of Safety reaches.`,
-    elaborationEnglish: `The robbers (senses) stand in the forest that is in the
-way of the loud call of jiva (seeking). If the white guard
-(yoga) chases these black thieves (senses), then jiva will
-reach the roof safely.
+    elaborationEnglish: `The robbers (senses) stand in the forest that is in the way of the loud call of jiva (seeking). If the white guard (yoga) chases these black thieves (senses), then jiva will reach the roof safely.
 
 sLyuys sohgiones waltnagii`,
   },
@@ -6047,13 +5895,9 @@ With candy and honey mixed,
 Lo! hanker after the fruit of nux vomica.`,
     elaborationEnglish: `ae cr
 
-Sweet ambrosia (liberation) and bitter nux vomica (passions)
-are both there within the body. They do not taste the
-salad of sweet plaintain mixed with candy and sugar (eternal
-life), but hanker after nux vomica (earthly life).
+Sweet ambrosia (liberation) and bitter nux vomica (passions) are both there within the body. They do not taste the salad of sweet plaintain mixed with candy and sugar (eternal life), but hanker after nux vomica (earthly life).
 
-Ge Oster. unssgdé Garowpanw H
-sigeigyt searaus Dew`,
+Ge Oster. unssgdé Garowpanw H sigeigyt searaus Dew`,
   },
   {
     id: 2903, tantraId: 9, verseNumber: 2902,
@@ -6074,13 +5918,9 @@ Drinks of (nectar), the She-Bee by Her glance grants;
 That verily is rapture surpassing.`,
     elaborationEnglish: `That verily is rapture surpassing.
 
-The Lord is seated on the (sahasrara) as He-bee (Siva)
-and She bee (Sakti). The lowly bee (jiva), of pasa embodied,
-swills the nectar which the She-bee grants by her glance
+The Lord is seated on the (sahasrara) as He-bee (Siva) and She bee (Sakti). The lowly bee (jiva), of pasa embodied, swills the nectar which the She-bee grants by her glance
 
-
-ST GU GN GV SLUDS Doanuys Ga Gus
-aeedsu srpne crdogy`,
+ST GU GN GV SLUDS Doanuys Ga Gus aeedsu srpne crdogy`,
   },
   {
     id: 2904, tantraId: 9, verseNumber: 2903,
@@ -6119,11 +5959,8 @@ In the Water Below, the Lily arose
 To those who can see light in the Cross-beam above
 The Lord is unto a cool Watermelon,
 That fruits even in regions low.`,
-    elaborationEnglish: `The lotus (sahasrara) and lily (kundalini) blossomed in
-the water above (cranium), and water below (muladhara)
-respectively. Vision the light in the crossbeam (ajna) above.
-'You will find. the Lord a cool watermelon that flourishes
-even in dry regions.
+    elaborationEnglish: `The lotus (sahasrara) and lily (kundalini) blossomed in the water above (cranium), and water below (muladhara) respectively. Vision the light in the crossbeam (ajna) above.
+'You will find. the Lord a cool watermelon that flourishes even in dry regions.
 
 BO upeaa Cucwer`,
   },
@@ -6147,13 +5984,10 @@ Mantra 2891, Tantra Nine, n. supra.
 
 2) Body of the five senses
 
-3) The sahasrara of 1,000 petals, sometimes indicated
-us one hundred petals also. Vide Mantra 2527, Tantra
+3) The sahasrara of 1,000 petals, sometimes indicated us one hundred petals also. Vide Mantra 2527, Tantra
 Eight,n.
 
-4) The six adharas, and the seventh ultimate centre of
-sahasrara.
-
+4) The six adharas, and the seventh ultimate centre of sahasrara.
 
 alvcert yo oGglas sD Qm`,
   },
@@ -6193,10 +6027,7 @@ In the depths of Space is Fire, Rain and Wind
 And the Land expansive;
 Visioning it, if you dwell in it
 That verily a Holy Temple is.`,
-    elaborationEnglish: `This land (sahasrara) is expansively vast with seven circling
-seas (the spaces) and eight mountain ranges (the
-flower with eight petals). in that land, for it is
-truly a holy temple.`,
+    elaborationEnglish: `This land (sahasrara) is expansively vast with seven circling seas (the spaces) and eight mountain ranges (the flower with eight petals). in that land, for it is truly a holy temple.`,
   },
   {
     id: 2909, tantraId: 9, verseNumber: 2908,
@@ -6253,15 +6084,13 @@ See the Hidden Truth,
 His form golden becomes.`,
     elaborationEnglish: `.2) Astral vision of the moon within.
 
-
 Lord is Hidden Deep Within
 
 In the Tank' where Reeds? flourished,
 
 In Creepers? spread and entwined filled,
 
-The Lord is not like the stork that on them
-gently walks
+The Lord is not like the stork that on them gently walks
 
 Deep into the Rocky Floor, He dives
 
@@ -6305,10 +6134,7 @@ Can quick cross the backyard
 And reach the Hamlet safe.`,
     elaborationEnglish: `And reach the Hamlet safe.
 
-The two routes (night and left breath) from the garden
-below (muladhara) and the forest above (sahasrara)
-intermingled, and they who can discern the blurring frontiers
-clearly reach the hamlet (liberation) safely and quickly.
+The two routes (night and left breath) from the garden below (muladhara) and the forest above (sahasrara) intermingled, and they who can discern the blurring frontiers clearly reach the hamlet (liberation) safely and quickly.
 
 Osmoeap Quiwr Oecad
 
@@ -6329,7 +6155,6 @@ The Lord of flourishing matted locks.
 No more karmas will trouble you, if yoga is consummated.
 you will surely reach the Lord of Flourishing Matted
 + Locks.
-
 
 anita woop gimp`,
   },
@@ -6388,10 +6213,8 @@ To him as a rich fruit of nectar sweet
 Is that Divine Water that flows.`,
     elaborationEnglish: `The good man, jiva, while voyaging in the yoga sea,.
 
-lost his heart to a she-devil (mayaic senses) and under
-her spell dropped in spirit. To him the divine water.
-that flows (from cranium) is like a rich fruit laden with
-nectar.
+lost his heart to a she-devil (mayaic senses) and under her spell dropped in spirit. To him the divine water.
+that flows (from cranium) is like a rich fruit laden with nectar.
 
 BONG epargia anenipscr
 
@@ -6417,9 +6240,7 @@ They who are with the Lord exceeding,
 Hoisted their Flag;
 And seeking the Virgin through Central Sushumna,
 Inhaled the Flower's fragrance, divine sweet.`,
-    elaborationEnglish: `They who hail the name of the Lord and seek the virgin
-(Sakti Kundalini) through central sushumna will inhale the
-divine flower’s (sahasrara) sweet fragrance.`,
+    elaborationEnglish: `They who hail the name of the Lord and seek the virgin (Sakti Kundalini) through central sushumna will inhale the divine flower’s (sahasrara) sweet fragrance.`,
   },
   {
     id: 2918, tantraId: 9, verseNumber: 2917,
@@ -6437,12 +6258,9 @@ At the tip end high is the Bamboo triple crested,
 With flag and army are evil spies five times five
 Destroyed they shall be,
 And the Sacred Conch in victory blow.`,
-    elaborationEnglish: `1) A tree (bauhina racemosa), whose flowers are dear
-to Siva. Here, it is of the body from muladhara
-to sahasrara.
+    elaborationEnglish: `1) A tree (bauhina racemosa), whose flowers are dear to Siva. Here, it is of the body from muladhara to sahasrara.
 
-2) The spinal column through which the sushumna nadi
-runs.
+2) The spinal column through which the sushumna nadi runs.
 
 3) Ida, pingala, and prana nadis
 
@@ -6468,9 +6286,7 @@ Joining them not and debasing himself not,
 When, in balance, deeds good and bad are equal weighed
 The Jiva, tinier than crab's-eye berry,
 Its ego's diminution saw.`,
-    elaborationEnglish: `Give up the five senses. When good and bad deeds are
-weighed in balance, the jiva, tinier than the crab’s eye,
-sees its ego diminishing.
+    elaborationEnglish: `Give up the five senses. When good and bad deeds are weighed in balance, the jiva, tinier than the crab’s eye, sees its ego diminishing.
 
 59
 
@@ -6493,13 +6309,9 @@ The bud soon blossoms, that you see
 Give up desires, the Tattvas perish;
 Unless they be from Fetters free,
 They see not the Blossom.`,
-    elaborationEnglish: `The bud blossoms as soon as it is freed from the plant’s
-fetters. Similarly, unless you are freed from the bonds
-you will not be liberated. So rend the fetters asunder
-and destroy the tattvas. -
+    elaborationEnglish: `The bud blossoms as soon as it is freed from the plant’s fetters. Similarly, unless you are freed from the bonds you will not be liberated. So rend the fetters asunder and destroy the tattvas. -
 
-unww usemsurwbd
-wre ib stomgib Aiud onidvanw
+unww usemsurwbd wre ib stomgib Aiud onidvanw
 
 mh weopump wig .`,
   },
@@ -6518,9 +6330,7 @@ Green that Land, you no water flows,
 None know it ever;
 The Water that flows rain devoid
 Stands not in Land untilled.`,
-    elaborationEnglish: `Though no water flows, there is a land that remains
-ever green. The water that doesn’t flow from rain (Grace,
-does not stand in the’ land (body) untilled (by yoga).
+    elaborationEnglish: `Though no water flows, there is a land that remains ever green. The water that doesn’t flow from rain (Grace, does not stand in the’ land (body) untilled (by yoga).
 
 Braiplb gory Geli`,
   },
@@ -6544,9 +6354,7 @@ And Jiva, Siva becomes.
 
 When the owl (jiva) on the top of the ‘kurunda’ tree
 
-(cranium) realises that desire is the source of the world,
-the snake (kundalini) standing in the centre (of sushumna)
-teaches jnana. Then jiva becomes Siva.
+(cranium) realises that desire is the source of the world, the snake (kundalini) standing in the centre (of sushumna) teaches jnana. Then jiva becomes Siva.
 
 UTEP Geogyd mw Gancsrr ow
 
@@ -6574,14 +6382,11 @@ The Plantain extending flourishes sure.`,
 The Surai creeper is stronger by far, than the
 Plantain tree they say;
 
-Cutting down the Plantain tree and Surai creeper,
-together,
+Cutting down the Plantain tree and Surai creeper, together,
 
 The Plantain extending flourishes sure.
 
-They say that the ‘surai’ creeper (pasa) -is stronger than
-the plantain tree (jiva). Cut down the creeper — the
-plaintain flourishes well.
+They say that the ‘surai’ creeper (pasa) -is stronger than the plantain tree (jiva). Cut down the creeper — the plaintain flourishes well.
 
 Hogans Doss
 Goat yorrpgs Darap Wer`,
@@ -6604,10 +6409,7 @@ Let him give it up;
 (Rather let him the Earth dig)
 There is a way of a Rich Catch,
 That is Wealth and Food for all.`,
-    elaborationEnglish: `Let the ‘kurava’ (inland fisherman) give up the fatty fish-
-(sense enjoyment) which he has caught; for, there is
-a way to a rich catch that is wealth and food (liberation)
-for all.`,
+    elaborationEnglish: `Let the ‘kurava’ (inland fisherman) give up the fatty fish- (sense enjoyment) which he has caught; for, there is a way to a rich catch that is wealth and food (liberation) for all.`,
   },
   {
     id: 2925, tantraId: 9, verseNumber: 2924,
@@ -6648,11 +6450,7 @@ Five and Four.`,
 The Citizens closed the- Gates,
 Five and Four.
 
-The temple buffalo (jiva) left the shed (yoga) and tured
-back seeing the army (senses). The chief (jiva) held counsel
-with the minister (Guru). The nine citizens (indriyas) closed
-the gates (orifices) by way of sense control. The indriyas
-are the impediments that obstruct the yoga journey.
+The temple buffalo (jiva) left the shed (yoga) and tured back seeing the army (senses). The chief (jiva) held counsel with the minister (Guru). The nine citizens (indriyas) closed the gates (orifices) by way of sense control. The indriyas are the impediments that obstruct the yoga journey.
 
 BAU usigsor gearugy anmwisayib
 Breipib 1 grey`,
@@ -6677,13 +6475,9 @@ The Kundalini that serpent-like coils,
 The life breath twelve finger-measure (angula) long,
 -If these, the Divine Charioteer drives not in,
 Verily may the infant less than human be (say, pig).`,
-    elaborationEnglish: `The eight constituents of the subtle body that leave ultimately,
-the eighteen tattvas with purusha immersed in them that
-enter at conception; the nine orifices, the kundalini, the
-twelve-finger measure long life-breath—if all these are not
+    elaborationEnglish: `The eight constituents of the subtle body that leave ultimately, the eighteen tattvas with purusha immersed in them that enter at conception; the nine orifices, the kundalini, the twelve-finger measure long life-breath—if all these are not
 
-driven into the womb by the Divine Charioteer, truly
-the infant born will be far inferior to human (say, a`,
+driven into the womb by the Divine Charioteer, truly the infant born will be far inferior to human (say, a`,
   },
   {
     id: 2928, tantraId: 9, verseNumber: 2927,
@@ -6700,9 +6494,7 @@ In the Lagoon that is Moss covered,
 Gently walking, the Shy Heron feeds;
 When the Marching Warrior's guidance got,
 Pasa, to ground laid, fluttered away.`,
-    elaborationEnglish: `The shy heron (jiva) feeds in the lagoon (body) covered
-by moss (pasa). Pasa disappears with the guidance of
-the marching warrior (Guru).`,
+    elaborationEnglish: `The shy heron (jiva) feeds in the lagoon (body) covered by moss (pasa). Pasa disappears with the guidance of the marching warrior (Guru).`,
   },
   {
     id: 2929, tantraId: 9, verseNumber: 2928,
@@ -6726,8 +6518,7 @@ There blossomed a Flower that its fragrance spread
 Within that Flower, a Bee its Nectar imbibed,
 There the Lord iike Himself Jiva draws.
 
-A gusty wind (prana) blows beyond the high summit
-(cranium). There blossomed a fragrant flower (sahasrara).
+A gusty wind (prana) blows beyond the high summit (cranium). There blossomed a fragrant flower (sahasrara).
 The Lord draws jiva towards Himself. here.`,
   },
   {
@@ -6745,8 +6536,7 @@ Lute and Flute, their melody intermingling,
 Siva marched ahead in Cranium within;
 Even before the Bargain was struck,
 The Land was up there for Him to possess.`,
-    elaborationEnglish: `Jiva marched ahead within the cranium with the music
-of vina and flute that comes of yoga in the nada sphere.
+    elaborationEnglish: `Jiva marched ahead within the cranium with the music of vina and flute that comes of yoga in the nada sphere.
 Even before the bargain talks began (between jiva and
 Siva), the land (liberation) was up there for jiva to possess.`,
   },
@@ -6788,8 +6578,7 @@ Thus it is where the Holy Lord abides;
 That Sphere the Damsel reached and remained.`,
     elaborationEnglish: `The day dawned and shed its golden hue on the high
 
-banks (of sahasrara) where the Holy Lord abides. The
-damsel (kundalini) reached that sphere and remained there.
+banks (of sahasrara) where the Holy Lord abides. The damsel (kundalini) reached that sphere and remained there.
 
 bun Qadeaew Arrg`,
   },
@@ -6811,9 +6600,7 @@ Jiva takes the True Way to Frontier;
 From that born none ever return;
 From that very plane shall he transcend,
 The Five-States-Beyond.`,
-    elaborationEnglish: `Properly guided, jiva takes the true way to the frontier
-(sahasrara). From that plane he reaches the final state
-beyond the five states (of consciousness).`,
+    elaborationEnglish: `Properly guided, jiva takes the true way to the frontier (sahasrara). From that plane he reaches the final state beyond the five states (of consciousness).`,
   },
   {
     id: 2934, tantraId: 9, verseNumber: 2933,
@@ -6832,9 +6619,7 @@ What matters if Jackals outside howl?
 When the Primal One was by Kundalini Fire reached,
 The fleshly body that led to it,
 Forever left.`,
-    elaborationEnglish: `The howling of the jackals (senses) outside matters little
-when the ripened mango fruit (Siva) drops within the
-garden (sahasrara). The. body counts for little when the
+    elaborationEnglish: `The howling of the jackals (senses) outside matters little when the ripened mango fruit (Siva) drops within the garden (sahasrara). The. body counts for little when the
 Primal One (Siva) is reached by kundalini fire.`,
   },
   {
@@ -6876,10 +6661,7 @@ Thus on the river route they trade;
 If in the midst the Rudder wobbles,
 That becomes This.
 (No more the world trade.)`,
-    elaborationEnglish: `The five boatmen (senses) row the’ boat (body) in the
-river ghat (life). If in the middle, the rudder wobbles
-(pasas leave), no more will there be world trade when
-pasas are sundered, jiva unites in Siva.
+    elaborationEnglish: `The five boatmen (senses) row the’ boat (body) in the river ghat (life). If in the middle, the rudder wobbles (pasas leave), no more will there be world trade when pasas are sundered, jiva unites in Siva.
 
 18. Gores sur
 
@@ -7002,8 +6784,7 @@ Contentionless is He,
 Bhoota-army possessed is He,
 Attachmentless is He,
 He entered my thoughts.`,
-    elaborationEnglish: `seu Pp arhamas smug
-am & 6.55 Naar`,
+    elaborationEnglish: `seu Pp arhamas smug am & 6.55 Naar`,
   },
   {
     id: 2943, tantraId: 9, verseNumber: 2942,
@@ -7025,8 +6806,7 @@ Surpasses universes vast
 -How much they joyed Him, little do we know!`,
     elaborationEnglish: `universes vast,
 
-—How much they enjoyed Him, little do we
-know!
+—How much they enjoyed Him, little do we know!
 
 Ailsa paw Pavucdes`,
   },
@@ -7119,8 +6899,7 @@ Nandi He was, in Street-Center (of Sahasrara),
 Samadhi and other ways of union, of themselves went
 Into the Light, within navel center rises,
 By my Jnana, I merged.`,
-    elaborationEnglish: `Jiva light merges into Siva Light of jnana that rises from
-below the navel’ centre.`,
+    elaborationEnglish: `Jiva light merges into Siva Light of jnana that rises from below the navel’ centre.`,
   },
   {
     id: 2949, tantraId: 9, verseNumber: 2948,
@@ -7495,7 +7274,6 @@ How shall the worldly father and worldly mother knoweth me?
 The Father, Mother and I were together seated;
 My Father and Mother, I adoring.`,
     elaborationEnglish: `
-
 aomiucr Gor`,
   },
   {
@@ -7634,8 +7412,7 @@ And as a tapasvin the Holy Lord was before me;
 He the Desired Lord, who accepted me in His service
 Him I stood adoring, the Lord Eternal.`,
     elaborationEnglish: `
-BoA 5 5) Hot Gop ost G) oof Lo 1 O) prem gy tb Gou os G_ oat
-ahigiper Gnoaro 2A Dormers`,
+BoA 5 5) Hot Gop ost G) oof Lo 1 O) prem gy tb Gou os G_ oat ahigiper Gnoaro 2A Dormers`,
   },
   {
     id: 2973, tantraId: 9, verseNumber: 2972,
@@ -7709,8 +7486,7 @@ And. Siva, of Himself appeared.
 
 Hawuspg Coat Giprapret mL
 
-uabas Sipem uréabh ans
-wires 4391 Ougumrer`,
+uabas Sipem uréabh ans wires 4391 Ougumrer`,
   },
   {
     id: 2976, tantraId: 9, verseNumber: 2975,
@@ -7749,8 +7525,7 @@ In eagerness my heart sought it
 And I visioned the Void;
 Then did the cane taste bitter
 And honey sour.`,
-    elaborationEnglish: `acer ¢slun® agi uGu SU
-erored oss`,
+    elaborationEnglish: `acer ¢slun® agi uGu SU erored oss`,
   },
   {
     id: 2978, tantraId: 9, verseNumber: 2977,
@@ -7789,8 +7564,7 @@ She the Sakti appeared,
 She the Jewel of worlds all;
 The one, he died, my Egoity
 And the One, He appeared, my Siva.`,
-    elaborationEnglish: `And as with the fat of my heart’s love, I made
-it blaze,
+    elaborationEnglish: `And as with the fat of my heart’s love, I made it blaze,
 
 She the Sakti appeared, -
 
@@ -8024,8 +7798,7 @@ He the Rare Truth;
 Even if the Celestials and their King Indra ask
 What will they get, but the music of lovely damsels?
 But that which devotees get is beyond all their heaven.`,
-    elaborationEnglish: `bere sonmhu srCure wollsitacr
-oh) = Q oop aici Q) ou Dest corm ir`,
+    elaborationEnglish: `bere sonmhu srCure wollsitacr oh) = Q oop aici Q) ou Dest corm ir`,
   },
   {
     id: 2992, tantraId: 9, verseNumber: 2991,
@@ -8466,9 +8239,7 @@ Beyond Celestials all is He;
 Ageless is He;
 Yet is He within you,
 You but seek Him.`,
-    elaborationEnglish: `1) The three kalas in Siva tattva: nivirti, pratista, and
-vidya. Beyond santi and santiyatita are the kalas of Sakti
-and Siva. Vide Mantra 2377, Tantra Eight, n.supra.`,
+    elaborationEnglish: `1) The three kalas in Siva tattva: nivirti, pratista, and vidya. Beyond santi and santiyatita are the kalas of Sakti and Siva. Vide Mantra 2377, Tantra Eight, n.supra.`,
   },
   {
     id: 3014, tantraId: 9, verseNumber: 3013,
@@ -9167,28 +8938,24 @@ He is Paraparam, He is Siva, Our Lord,
 He is the walking Jiva here below,
 Deathless He is.
 
-
 eo aperpiib 3046
 
 Tirumular’s Songs, Mantras and Instructions Have
 But One Import
 
 The Three times Thousand that Mula composed,
-The Three Times Hundred Mantras that Mula
-chanted,
+The Three Times Hundred Mantras that Mula chanted,
 
 The Three Times Ten Instructions that Mula gave,
 These Three that Mula said
 
 Are all, all, of one import.
 
-Long may they be, Long may they be, the Feet
-of Him who severed Malas!
+Long may they be, Long may they be, the Feet of Him who severed Malas!
 Long may they be, Long may they be, the Feet
 
 of Him of Divine Jnana;
-Long may they be, Long may they be, the Feet
-of Him who has Mala none.
+Long may they be, Long may they be, the Feet of Him who has Mala none.
 
 Tantra Nine Concluded`,
   },

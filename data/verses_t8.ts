@@ -144,20 +144,11 @@ Into Param that pervades all
 As unto space in every pot,
 Inside and out!`,
     elaborationTamil: `தூல உடம்புக்குள் சூக்கும உடம்பாய் நிற்கின்ற அந்தக்கரணங்கள் நான்கிற்கும், மேலும் நுண்ணிதான அதிசூக்கும உடம்பைக் கொண்டு இயக்கும் முதற்பொருளாய் உள்ள சீவான்மாத் தான் பரமான்மாவாகிய சிவத்தில் வியாப்பியமாய் நிற்கும். ஆகவே, எப்பொருளிலும் எஞ்சாது நிறைந்து நிற்கும் பிரமப் பொருளாகிய சிவம், தான் ஒன்றேயாயினும் பல சீவான்மாக்களிலும் வியாபித்து அதனதன் தன்மைக்கேற்ப ஏகதேசமாயும் நின்று, பின் சீவான்மா சீவத்துவம் (பசுத்துவம்) நீங்கிய பொழுது தன்னைப் போலவே வியாபகமாகிவிடுதலால் அவ்வேகதேசத் தன்மை நீங்கி வியாபகமாகி விடுகின்ற தன்மை, ஞாயிறு ஒன்றேயாய் வியாபகமாயினும் பல குடங் களில் உள்ள நீரில் எல்லாம் அதனதன் அளவிற்கேற்ப வேறு வேறு அளவில் பலவாய்த் தோன்றி, அக்குடங்களில் நீர் நீங்கிய பொழுது முன்பு நின்ற சிறு நிலையின் நீங்கி வியாபகமாகிவிடுகின்ற தன்மையை ஒக்கும் என்னும் உண்மையை அறிந்தனர் எத்துணைப் பேர்!`,
-    elaborationEnglish: `Jiva standing in avastas, undergoes the five experiences —
-jagrat, svapna, sushupti, turiya and turiyatita—before it
-merges into Param that animates all.
+    elaborationEnglish: `Jiva standing in avastas, undergoes the five experiences — jagrat, svapna, sushupti, turiya and turiyatita—before it merges into Param that animates all.
 
-_ This is a doctrine unique to Tirumular. ‘‘Beyond the fourth
-state (Turiya) stands the fifth (Turiyatita),"’ he says. It is
-like *‘a tortoise with the limbs withdrawn, when the Jiva is
-pervaded by Aum and the Light Divine beams from within,
-(whereby) the Self its sentience loses’’. (The influence of
-Buddhism is to be noted). In this state, ‘the Senses Five
-and the Tattvas’’ are left behind (verse 2165). Jiva stands
-in experience as AVASTA; It has FIVE experiences, namely,
-Jagrat, Swapna, Sushupti, Turiya and Turiyatita. (The Sth is
-not known (in Vedanta), but is peculiar to Sakta Religion (see
+_ This is a doctrine unique to Tirumular. ‘‘Beyond the fourth state (Turiya) stands the fifth (Turiyatita),"’ he says. It is like *‘a tortoise with the limbs withdrawn, when the Jiva is pervaded by Aum and the Light Divine beams from within, (whereby) the Self its sentience loses’’. (The influence of
+Buddhism is to be noted). In this state, ‘the Senses Five and the Tattvas’’ are left behind (verse 2165). Jiva stands in experience as AVASTA; It has FIVE experiences, namely,
+Jagrat, Swapna, Sushupti, Turiya and Turiyatita. (The Sth is not known (in Vedanta), but is peculiar to Sakta Religion (see
 = a Woodroffe, They all merge in Para
 
 Geshu eparpnigs
@@ -180,9 +171,7 @@ The nine orifices tightly controlled will be;
 The body within of Kalas eighteen formed* will be;
 That the body of Jiva will be.`,
     elaborationTamil: `யோகமுறையால் ஆறு ஆதாரங்களும் கீழாகி யதனால், அவற்றிற்குமேல் உள்ள பிரமரந்திரத்தை அடைந்தால், அங்ஙனம் அடைந்தவருடைய தூல உடம்பு விரையில் அழிந் தொழியாது உறுதி பெற்று நெடுநாள் இருக்கும். அந்நிலையில் சூக்கும உடம்பும் அதற்கு சார்பாய் உறுதிப்பட்டு நின்று, அதனை என்றுமே உயிர் உள்ள உடம்பாகச் செய்யும்.`,
-    elaborationEnglish: `The causal or kala body is yet another. It is formed of eighteen
-tattvas and is truly the body that enters the womb and holds
-life.
+    elaborationEnglish: `The causal or kala body is yet another. It is formed of eighteen tattvas and is truly the body that enters the womb and holds life.
 
 1) Five external senses, three internal organs, and ten vayus.
 
@@ -199,8 +188,7 @@ And the Causal body that by inference is,
 —All these bodies are
 That in Lord’s Feet merge.
 
-All the three bodies, that is their tattvas or basic principles
-of existence—gross, subtle and causal bodies — merge in the
+All the three bodies, that is their tattvas or basic principles of existence—gross, subtle and causal bodies — merge in the
 Lord’s Feet.
 
 Gew aiwesew Gedaajib aang`,
@@ -241,8 +229,7 @@ As unto those who doff one garment
 And another
 The Jiva, too, from one to the other body moves.`,
     elaborationTamil: `பகைவரைச் சினக்கின்ற வேகம் பொருந்திய போர்க் குதிரை அண்மை, சேய்மை என்னும் இடங்கட்குத் தக்கபடி முன்கால்களை எட்டி வைத்துப் பின் கால்களை வாங்கிக்கொண்டு தடையின்றி ஓடுதல் போலச் சூக்கும உடல் அண்மை சேய்மைகளுக்கு ஏற்ப விரைந்து செல்ல வல்லது. அதனால், உயிர் அவ்வுடலைப் பற்றிக் கொண்டு, அத்தன்மையில்லாத தூல உடம்புகளுள் ஒன்றை விட்டு நீங்கி மற்றொன்றை எங்கு வேண்டுமானாலும் சென்று எடுத்துக் கொள்ளும். தூல சரீரம் சூக்கும சரீரத்தின் மேல் போர்வைபோலவே உள்ளதாகும். அதனால், உயிர் தூல உடம்பில் ஒன்றை நீக்கி விட்டு, மற்றொன்றை எடுத்துக் கொள்ளுதல் மக்கள் தமது போர்வை ஒன்றை நீக்கிவிட்டு மற்றொன்றை எடுத்துப் போர்த்துக் கொள்ளுதல் போல்வதே.`,
-    elaborationEnglish: `UpLeyh Gurgygd osm
-brs Borah STH`,
+    elaborationEnglish: `UpLeyh Gurgygd osm brs Borah STH`,
   },
   {
     id: 2133, tantraId: 8, verseNumber: 2132,
@@ -287,10 +274,7 @@ And unto the Yogi that transmigrates
 Enters yet another body;
 Thus entangled in cycle of birth and death.`,
     elaborationTamil: `ஓர் உயிர் நிலத்தில் இறந்தபின் சூக்கும சரீரம் பற்றாகச் சென்று நரக சுவர்க்கங்களை அடைந்து அங்கு உள்ளவைகளைப் பார்த்து அவற்றால் வரும் துன்ப இன்பங்களை நுகர்ந்து, அந்த உலகங்களை விடுத்துத் தான் செய்த வினையில் மேற் கூறிய உலகங்களில் நுகரப்பட்டு எஞ்சி நிற்கின்ற வினைகள் தொடர்த லால், யோக சித்தர் ஓர் உடம்பை விட்டும் மற்றோர் உடம்பில் புகுதல் போல வேறு பிறப்பை அடைந்து மீண்டு நிலவுலகத்தில் அப்பிறப்பிற் குரிய உடம்பை எடுத்துக் கொள்ளும்.`,
-    elaborationEnglish: `After experiencing heaven and hell, jiva leaves the subtle body
-and continues its birth course with the causal body. Like the
-yogi that transmigrates, the causal body enters another body,
-and is.thus caught in the of births and deaths.
+    elaborationEnglish: `After experiencing heaven and hell, jiva leaves the subtle body and continues its birth course with the causal body. Like the yogi that transmigrates, the causal body enters another body, and is.thus caught in the of births and deaths.
 
 sro emu sous
 Bao wonrpps usos
@@ -340,11 +324,8 @@ Beyond Voids Three.`,
     elaborationTamil: `மெய்ஞ்ஞானிக்கு உடம்பாவது சிவனது அரு ளாகிய உடம்பேயாம், அஞ்ஞானிக்கு உடம்பாவது புலாலால் ஆகிய அந்த உடம்பேயாம். அஞ்ஞானிக்குமேல் நிற்பவனாகிய யோகிக்குப் பைசந்தி வாக்கும் அதற்கு மேல் உள்ள சூக்குமை வாக்கும் தக்கபடி உடம்பாகும். ஞானத்தின் மேல் எல்லையாகிய மோன நிலையை எய்தியவன் முப்பாழையும் கடந்த முத்தி நிலையையே உடம்பாகக் கொண்டிருப்பான்.`,
     elaborationEnglish: `Mantras 2135 & 2136
 
-Siva is the ground or substrate of the jnani’s body. The ground
-or substrate of the -yogi’s body is nada and bindu. Mukti
-beyond the three voids is the substrate of the -mauni’s body.
-Anava (egoity) is the ground of the vijnani’s body. Maya is
-that of the pralayakalas and karma that of the sakalas.`,
+Siva is the ground or substrate of the jnani’s body. The ground or substrate of the -yogi’s body is nada and bindu. Mukti beyond the three voids is the substrate of the -mauni’s body.
+Anava (egoity) is the ground of the vijnani’s body. Maya is that of the pralayakalas and karma that of the sakalas.`,
   },
   {
     id: 2137, tantraId: 8, verseNumber: 2136,
@@ -430,10 +411,7 @@ No more, the thoughts of body be.`,
     elaborationTamil: `நன்கு அமைந்த உடலால் எழுகின்ற காமமும், பலவகையாகப் பேசுகின்ற பேச்சுக்களும், வெளிச்செல்லும் பொழுது விளங்கி நிற்கின்ற மூச்சும், அம்மூச்சுப் பெரிதாயவழி எழுகின்ற ஓசையும், புலால் வடிவாகிய உடம்பின் உள்ளே இருப்பதாகிய மனமும் ஆகிய இவைகளையெல்லாம் பிறர், 'எங்கே போயின' என்று திகைத்து அண்ணாந்து பார்க்கும்படி உடல் முதலில் நிலையழிந்து, பின்னர் உருவும் அழிந்தொழியும்.`,
     elaborationEnglish: `Mantras 2139 & 2140
 
-Divert your hearing, speech, and mind in the yogic way
-towards God while you are in the fleshy body. You will no
-more think of your body. When the body perishes, nothing
-remains behind.
+Divert your hearing, speech, and mind in the yogic way towards God while you are in the fleshy body. You will no more think of your body. When the body perishes, nothing remains behind.
 
 span srac Ogsmact send
 
@@ -462,7 +440,6 @@ Nothing left, for flesh’ to lean on.
 
 Qeoowr Heuer crupherm srw
 
-
 Smowrw Heri wv suas 6
 
 Aomounru Aauper 2141
@@ -479,8 +456,7 @@ And Will made of iron
 
 Are for Siva’s presence destined.
 
-Purity and steadfastness take you Godward, while mean love
-and-lust immerse you in distress and misery forever.`,
+Purity and steadfastness take you Godward, while mean love and-lust immerse you in distress and misery forever.`,
   },
   {
     id: 2142, tantraId: 8, verseNumber: 2141,
@@ -527,11 +503,7 @@ In Turiya State (Fourth)
 He (Purusha) stands
 In Center that is Navel.`,
     elaborationTamil: `மேற்கூறிய அவத்தைகளில் மத்தியாலவத்தை ஐந்தும், கீழாலவத்தைச் சாக்கிரமும் நிகழும் இடம்புருவநடு, அவற்றுள் மத்தியா லவத்தைச் சாக்கிரமும் ஒன்றிலேதான் எல்லாக் கருவிகளும் குறை வின்றிச் செயற்படும். மற்றையவற்றில் சிற்சில கருவிகள் செயற்படாது நிற்கும். அவற்றைப் பிரிந்தும், கூடியும் வரும் கருவிகளாகக் கூறுவர். மத்தியாலவத்தையை விட்டு, ஆன்மாக் கீழாலவத்தையில் சாக்கிரத்தை அடைதற்குக் காரணம் ஆன்ம தத்துவங்களில் சிலவும், தாத்துவிகங் களில் சிலவும் குறைதலேயாகும். அந்நிலையில், கீழாலவத்தைச் சாக்கிரத்தில் செயற்படும் கருவிகள் முப்பத்தைந்து' என்று சொல்லப் படுகின்றது. 'சாக்கிரம் முப்பத்தைந்து நுதலினில்' என்பது சிவஞான சித்தியார்.3 முப்பத்தைந்தில் தத்துவம் பதினைந்து; தாத்துவிகம் இருபது. ஞானேந்திரியம் ஐந்து, கன் மேந்திரியம் ஐந்து, அந்தக்கரணம் நான்கு, புருடன் ஒன்று. இவை தத்துவங்கள், ஞானேந்திரிய விடயம் ஐந்து, கன் மேந்திரிய விடயம் ஐந்து, பிராணாதி வாயுக்கள் பத்து. இவை தாத்து விகங்கள். 'முப்பத் தைந்து' எனத் தொகை கூறி வரையறுத்தது பிரிந்தும், கூடியும் வரும் நிலைமையுடைய கருவிகளை நோக்கியேயாம். ஆகவே, பிரிவின்றி எஞ்ஞான்றும் கூடியே நிற்கும் கருவிகள் இந்த அவத்தை பேதங்களில் நீங்குவன அல்ல. அவை வித்தியா தத்துவம் ஏழும், சிவ தத்துவம் ஐந்துமாம். 'புருடன்' என்பது ஒரு தத்துவம் அன்று. காலம், நியதி, கலை, வித்தை, அராகம் ஐந்தும் கூடிய நிலையேயாம். இவை ஐந்திற்குக் காரணம் 'மாயை' என்னும் தத்துவம். எனவே, புருடன்' என்றதனால், மேற்கூறியவற்றோடு சிவ தத்துவமும் பெறப்படும். ஆகையால் 'முப்பத்தைந்து' எனச் சுருக்கமாகக் கூறியபோதிலும் 'நாற்பத்தாறு' என்பதே உண்மையாம். எனவே, கீழாலவத்தை தொடங் குங்கால், தொண்ணூற்றாறு கருவிகளில், நீங்குவன ஐம்பதே' என்பது விளங்கும். ஐம்பதில் தத்துவம் பத்தும், தாத்துவிகம் நாற்பதும் ஆகும். தத்துவம் பத்தாவன மாபூதங்கள் ஐந்து; தன்மாத்திரை ஐந்து, தாத்துவிகம் நாற்பதவான. மேற்கூறிய சத்தாதி ஐந்து, வசனாதி ஐந்து, பிராணாதி பத்து ஆகிய இருபது தவிர மற்றவையாம்.`,
-    elaborationEnglish: `The lower avasta pertains to jiva in its pre-biological kevala
-state, and has two aspects, the causal and the caused. The
-caused state has the five experiences: jagra (waking); svapna
-and turiyatita (beyond turiya). Tirumular does not refer to
-turiyatita in this context.
+    elaborationEnglish: `The lower avasta pertains to jiva in its pre-biological kevala state, and has two aspects, the causal and the caused. The caused state has the five experiences: jagra (waking); svapna and turiyatita (beyond turiya). Tirumular does not refer to turiyatita in this context.
 
 aus) wrew pw`,
   },
@@ -556,9 +528,7 @@ This the Order do know,
 The Siva that stands in the Beginning
 Becomes verily in End of Experience all.`,
     elaborationTamil: `முப்பத்தாறு தத்துவங்களாலும் (எனவே, தாத்து விகம் அறுபதும் உளவாம் ஆதலின் தொண்ணூற்றாறு கருவிகளாலும்) நிரம்பிய அறிவாய்க் கீழாலவத்தைக்கு முன்னே உள்ள மத்தியா லவத்தையில் சாக்கிரம் நிகழும். அதுபொழுது சிவதத்துவம் ஐந்து உள்ளனவாம். அதன் பின் மத்திய சொப்பனம், மத்திய சுழுத்தி, மத்திய துரியம், மத்திய துரியாதீதம் - என்பவை முறையே சிவ தத்துவங்களில் ஒன்று, இரண்டு, மூன்று. நான்கு குறைய நிற்கும் தத்துவங்கள் நான்கு, மூன்று, ஒன்று, ஆகுமாற்றால் நிகழும் நீங்குவன சுத்த வித்தை முதலாகவாம் ஆதலின், இறுதியில் நிற்பது 'சிவம்' என்பதொன்றுமே யாம். தத்துவங்கள் செலுத்துவனவும், கலை முதலிய ஐந்தும் செலுத்தப் படுவனவும் ஆதலின், செலுத்துவன நான்கும் நீங்கிய பொழுது செலுத்தப்படுவனவற்றிலும் நான்கும் நீங்கும். அவை, 'அராகம், வித்தை, கலை, நியதி - என்பன. எனவே, எப்பொழுதும் நீங்காது நிற்பன 'சிவம்' என்னும் தத்துவமும், அதனால், செலுத்தப்படுகின்ற காலமும் ஆம். ஆகவே, மத்திய துரியாதீதத்தில் நிற்பன அவை மட்டுமேயாம். இவற்றை ஆராய்ந்து உணர்ந்து கொள்ளுங்கள்.`,
-    elaborationEnglish: `Among the final thirty-six tattvas, twenty-five exist in the
-waking state; fourteen, in svapna state; one each in sushupti
-and turiya states.`,
+    elaborationEnglish: `Among the final thirty-six tattvas, twenty-five exist in the waking state; fourteen, in svapna state; one each in sushupti and turiya states.`,
   },
   {
     id: 2145, tantraId: 8, verseNumber: 2144,
@@ -612,10 +582,7 @@ Atma tattvas — 24, Nadis — 10, Avastas — 5, Malas —
 
 Mantras 2145 & 2146
 
-The five elements — earth, water, fire, wind and space —
-are concealed within the body. The organs of avastas are in
-all ninety-six, including the three malas, three gunas, six
-adharas, and thirty-six tattvas.
+The five elements — earth, water, fire, wind and space — are concealed within the body. The organs of avastas are in all ninety-six, including the three malas, three gunas, six adharas, and thirty-six tattvas.
 
 et`,
   },
@@ -685,8 +652,7 @@ Potencies (tanmatras) — Intelligence organs 4
 
 Atman — I
 
-2 ibyib 21 bous spat
-erie perm siwrir`,
+2 ibyib 21 bous spat erie perm siwrir`,
   },
   {
     id: 2149, tantraId: 8, verseNumber: 2148,
@@ -709,8 +675,7 @@ Unto the dog that into a kitchen abrupt strays.`,
     elaborationTamil: `அதிசூக்கும சரீரம் முதலில் சூக்கும சரீரத்தைப் பற்றிப் பின்பு அவ்விரண்டும் கூடித் தூல சரீரத்தைப் பற்றுதலினால் உயிர் அம்மூன்று சரீரத்தோடும் பொருந்தித் தனது செயலைச் செய்துவரும் நிலையைப் பலர் அறியாது, 'உடம்புதான் உயிர்' எனமயங்குகின்றனர். உடம்போடு உயிருக்குள்ள தொடர்பு, வினை காரணமாகச் சிறிது கால அளவினதே என அறியாதவர்கள் தூய திருமடங்களின் உள்ளே எவ்வாறோ புகுந்துவிட்ட நாய் 'இந்த இடம் நமக்கு நிலையாது' என்பதை உணராமல், நிலைத்த ஒன்றுபோல நினைத்து, அங்கு அமைக்கப்பட்டுள்ள உணவைத் தனக்கே உரியன வாக எண்ணிக் களிப்பதுபோலக் களித்திருக்கின்றார்கள்.`,
     elaborationEnglish: `Know the relationship between the body and jiva. Otherwise
 
-you will be left in confusion, like a dog that enters a kitchen
-abruptly.`,
+you will be left in confusion, like a dog that enters a kitchen abruptly.`,
   },
   {
     id: 2150, tantraId: 8, verseNumber: 2149,
@@ -764,14 +729,11 @@ That to me lend grace,
 He placed, to none beknown,
 My thoughts in Him to center.`,
     elaborationTamil: `அறிவுப் பொருளேயாயினும் ஆணவ மறைப் பால் அவ்வறிவை இழந்து நின்ற உயிரை இறைவன் கருவிக் கூட்டத்துள் மறைந்து நிற்கும்படி செய்தான். (பின்பு அவ்வுயிர் பக்குவம் எய்திய காலத்தில்) குருவாகி வந்து எனக்கு உபதேசித்த நூல்கள் வழியாக என் உடம்பினுள்ளே மறைந்திருந்த பிராசாத கலைகள் பதினாறையும் விளக்கினான்.`,
-    elaborationEnglish: `Fourteen inner tattvas: the five elements; the five sense
-potencies (tanmatras); and the four intelligence organs
+    elaborationEnglish: `Fourteen inner tattvas: the five elements; the five sense potencies (tanmatras); and the four intelligence organs
 
 Mantras 2150 & 2151
 
-The Lord revealed in secret the sixty-four knowledge branches
-and the fourteen inner tattvas. Stand Victoriously vanquishing
-the five elements and the four karanas.
+The Lord revealed in secret the sixty-four knowledge branches and the fourteen inner tattvas. Stand Victoriously vanquishing the five elements and the four karanas.
 
 were Worry SH wrmenob gOgrenpris`,
   },
@@ -796,8 +758,7 @@ Then victorious you stand, the elements vanquishing.`,
     elaborationTamil: `மண்ணிலிருந்து தோன்றிய பல மலர்களை உடைத் தாய் விளங்குகின்ற நீர், பொன்னிறத்தை உடைத்தாகிய தீயினின்றும் அதற்குப்பின் தோன்றியதாம். இனி அத்தீக் காற்றி லிருந்தும், காற்று ஆகாயத்திலிருந்தும் தோன்றினவாம். புத்தியினின்றும் தோன்றிய தாகிய அகங்காரத்திலிருந்து தோன்றியது மனம். இவ்வாறு தூல சூக்கும தேகங்களின் உற்பத்தியைப் பகுத்துப் பகுத்து உணர்ந்தால், அவற்றை ஒடுக்கி, ஆன்மாத் தூய்மை அடைகின்ற நிலை கைகூடும்.`,
     elaborationEnglish: `TANTRA
 
-Then victorious
-vanquishing.
+Then victorious vanquishing.
 
 you stand, the elements
 
@@ -824,8 +785,7 @@ This was not of yore there, before creation began
 Before the Virgin Sakti (Spirit), the Virgin Maya (Matter) loved.`,
     elaborationTamil: `ஐவர் சத்திகளில் முன்னவளாகிய மனோன் மணிக்கு மகன் ஒருவன்தான். அவளிடத்தினின்றும் தோன்றிய மகேசுரனுக்கு மக்கள் இருவர். நெருப்புப்போலும் உருவத்தையுடைய உருத்திரனுக்கு மக்கள் மூவர். மணமகள் போல அழகு மிக உடைய திருமகளுக்கு மக்கள் நால்வர். கணவனது இயல்பு நோக்கிக் கன்னி யாகச் சொல்லத்தக்க வாணிக்கு மக்கள் ஐவர். இவையெல்லாம் அநாதியில் யில்லை. ஆயினும் அநாதியாகிய சிவன் அவ்வாறாகிய தனது சத்தியை அநாதியே தாய்மை அடையுமாறு கருதினான்.`,
     elaborationEnglish: `Out of the five elements — space, wind, fire, water and earth
-- are born the five senses: sound, touch, sight smell and
-taste.`,
+- are born the five senses: sound, touch, sight smell and taste.`,
   },
   {
     id: 2154, tantraId: 8, verseNumber: 2153,
@@ -848,10 +808,7 @@ There he stood in full knowledge of world.`,
     elaborationTamil: `சுழுத்திக்குப் பின் கண்ட கனவிலே செயற்பட்ட ஓசை முதலிய புலன்கள் ஐந்தும், பின்னர்ச் சென்று கலந்த பொறிகள் ஐந்தோடும் கூடியிருக்கும் நிலையில் அப்பொறிகளின் வழியாகப் புறப்பொருள்களை அந்தக்கரணங்கள் நான்கும் உணர்வுறும் நிலைமையை ஒருங்கே அடைந்தபின் புருடன் முன்னை நிலையை அடைந்து, விரிந்த பரந்த சிறந்த சாக்கிராவத்தையையுடையனாய், உலகமே தானாயது போன்ற வியாபக நிலையைப் பெற்று, வினைகளை நுகர்தலும் ஈட்டலும் செய்திருப்பான்.`,
     elaborationEnglish: `Mantras 2153 .& 2154
 
-Jiva experiencing the fourteen tattvas in the dream state,
-returns to the jagra state where it stands in full knowledge
-of the world. But in the throat centre, jiva visions dreams
-only with the four antakaranas without involvement of the
+Jiva experiencing the fourteen tattvas in the dream state, returns to the jagra state where it stands in full knowledge of the world. But in the throat centre, jiva visions dreams only with the four antakaranas without involvement of the
 - other ten tattvas. :`,
   },
   {
@@ -898,12 +855,7 @@ He (Jiva) reached the Deep Sleep State of Sushupti.
 
 Mantras 2155 & 2156
 
-Leaving that centre, the soul enters the heart centre where
-egoity, intellect, and cognition are lost. Jiva reaches the deep
-sleep state of sushupti in the heart centre. Having reached
-that state, jivd with citta (will), prana (vital breath) and
-sentience of self enters in, and stands one with the subtle
-object. ;
+Leaving that centre, the soul enters the heart centre where egoity, intellect, and cognition are lost. Jiva reaches the deep sleep state of sushupti in the heart centre. Having reached that state, jivd with citta (will), prana (vital breath) and sentience of self enters in, and stands one with the subtle object. ;
 
 .
 Gaihgior aperpitot s#m_&)
@@ -921,8 +873,7 @@ of Self,
 
 ‘Thus into the Heart-Centre Jiva enters
 
-There one with the Subtle Object he stands
-(In the state of Sushupti Deep}.
+There one with the Subtle Object he stands (In the state of Sushupti Deep}.
 
 Nada. Peaks in Turiya or Fourth State
 
@@ -1040,10 +991,7 @@ The swiftly steed of Prana flees,
 How that State beyond Turiya (Turiyatita) is,
 Impossible to state, indeed.`,
     elaborationTamil: `சுழுத்தியைக் கடந்து உள்ள 'துரியம், துரியாதீதம்' - என்னும் இரண்டனுள் துரியம், 'எவ்வாறு இருந்தது' என வினாவு பவர்க்கு, 'இவ்வாறு இருந்தது' என விடையிறுக்கக் கூடியதாகும். துரியா தீதமோ எனில், அவ்வாறு வினாவுவார்க்கு இவ்வாறு இருந்தது' எனச் சொல்லவாராத நிலையாகும். ஏனெனில், சாக்கிராவத்தையில் அடக்கினும் அடங்காது, யாதானும் ஓர் ஆற்றால்தப்பிப் புறத்தே ஓடுதலால், 'நரிகள்' என்று சொல்லத்தக்கனவாகிய ஞானேந்திரியம், கன்மேந் திரியம், அந்தக்கரணம் என்னும் பதினான்கு பொறிகளும் (கரணங்களும்) பிரகிருதியின் தமோ குணமாகிய விடத்தை உண்டமையால் இறந்து போய்விட்டன. அப்பொறிகளின் வழிச் செல்லும் உணர்விற்கு ஊர்தியாகிய 'பிராணன்' என்னும் குதிரையும் தனது ஓட்டம் அடங்கி ஒழிந்தது.`,
-    elaborationEnglish: `The state beyond turiya is turiyatita. Experiencing turiya in
-jagrat, the fourteen foxes {indriyas, etc.) perish; prana stands
-still. It is impossible to describe adequately the state of
-turiyatita. :`,
+    elaborationEnglish: `The state beyond turiya is turiyatita. Experiencing turiya in jagrat, the fourteen foxes {indriyas, etc.) perish; prana stands still. It is impossible to describe adequately the state of turiyatita. :`,
   },
   {
     id: 2161, tantraId: 8, verseNumber: 2160,
@@ -1066,8 +1014,7 @@ Are by Karma alike struck.`,
     elaborationEnglish: `Are by Karma alike struck.
 All souls (sakalas) contaminated by the five primordial
 
-impurities, and caught in the of recurring birth and
-death, can experience these five states of consciousness. _
+impurities, and caught in the of recurring birth and death, can experience these five states of consciousness. _
 
 SMESH OTA FI yO Lomenwujl`,
   },
@@ -1100,9 +1047,7 @@ Them Maya nears not;
 And contemplating in Jnana
 They direct’ attain Mukti.
 
-Maya feeds jiva with avasta experiences and by Gods’ Grace,
-jiva attains mukti. Jnanis contemplating in jnana attain mukti
-directly.`,
+Maya feeds jiva with avasta experiences and by Gods’ Grace, jiva attains mukti. Jnanis contemplating in jnana attain mukti directly.`,
   },
   {
     id: 2163, tantraId: 8, verseNumber: 2162,
@@ -1129,11 +1074,9 @@ Until he becomes Para Supreme.`,
 
 actions. -Thus passing out from the primordial state
 
-of jiva’s sleep’-(kevala state), he experiences the five states
-until he becomes the Supreme Para.
+of jiva’s sleep’-(kevala state), he experiences the five states until he becomes the Supreme Para.
 
-seroniper Lorem cused
-somined crapliyes`,
+seroniper Lorem cused somined crapliyes`,
   },
   {
     id: 2164, tantraId: 8, verseNumber: 2163,
@@ -1179,10 +1122,8 @@ Ends as an empty pot."`,
     elaborationEnglish: `“That from clouds aloft streams forth
 Ends as an empty pot.”
 
-Life after death They who say that after death
-nothing remains, may even say that the heavenly Ganga
-Mandakini, which streams from the clouds, ends as an empty
-pot.
+Life after death They who say that after death nothing remains, may even say that the heavenly Ganga
+Mandakini, which streams from the clouds, ends as an empty pot.
 
 Ligne.  weterouer wimuiuh ea)`,
   },
@@ -1207,11 +1148,7 @@ That vibrant once was.`,
     elaborationTamil: `இம்மந்திரம் ஒட்டணியாய் நின்று பொருளைத் தருகின்றது. படி - நாடு; என்றது புற உலகத்தை. அதனை இறைவன் ஆணையால் தனதாகக் கொண்டு இன்பத்துன்பங்களை எய்திவரும் உயிரையே, 'உடை மன்னவன்' என்றார். வடிவு - பல உள்ளமைப் புக்கள். மாநகர் - கோநகர்; என்றது உடம்பை. வருதல் - உலாவருதல். என்றது, எல்லா இடங்களிலும் வியாபித்து, எல்லாப் புலன்களையும் உணர்ந்தும் அவற்றிற்கு ஏற்ற எல்லாச் செயல்களையும் செய்தும் வரும் சாக்கிராவத்தையை. அடியுடை ஐவர் - அணுக்கமாய் நிற்கும் அமைச்சர்கள். என்றது, ஞானேந்திரியங்கள் ஐந்தையும், அவற்றால் உணரப்படும் பொருள்கள் அந்தக்கரணங்களாலே தெளிவுபடும் ஆதலின், அந்த அந்தக்கரணங்களும் 'ஐவர்' என்றதிலே அடங்கின. அங்கு உறைவோர் - அமைச்சர்களுக்குக் கீழாய் அரசனது உலாவில் பலவகைப் பணிகளையும் செய்துநிற்கும் பல பணியாளர்கள் என்றது பிறகருவிகளை. இம்முறையை, 'கால்கொடுத்து இருகை மூட்டி' என்னும் ஞானாமிர்த அகவலிலும் காண்க. (அகவல் - 9) இச்சாக்கிர நிலை, ''படைகொடு பவனிபோதும் பார் மன்னன்'' எனச் சித்தியாரிலும் கூறப்பட்டது. (சுபக். சூ. 4)`,
     elaborationEnglish: `Mantras 2165 & 2166
 
-When the soul, the earthly king, mounting the swift steed
-(consciousness) arrives at the ‘lovely city’ of turiyatita, all
-the five senses and the other tattvas remain behind in the
-body. During that fifth state, the jiva is freed from the five
-malas to reach God directly.
+When the soul, the earthly king, mounting the swift steed (consciousness) arrives at the ‘lovely city’ of turiyatita, all the five senses and the other tattvas remain behind in the body. During that fifth state, the jiva is freed from the five malas to reach God directly.
 
 Gor wasens fob sausengulesr
 
@@ -1284,13 +1221,8 @@ In the Fourth Turiya State
 Within the Waking State
 Is Maya (Pure). 1`,
     elaborationTamil: `மத்தியாலவத்தையாகிய சாக்கிர சாக்கிரத்தில் மட்டுமே திரோதானமலம் செயற்படும். (எனவே இந்நிலையில்தான் அனைத்துக் கருவிகளும் செயற்பட, ஆன்மா உலகினை நன்கு உணர்வதாகும்). சாக்கிர சொப்பனத் தளவிலேதான் - அஃதாவது, சாக்கிர சாக்கிரம், சொப்பனம் என்னும் இரண்டில் மட்டுமே ஆன்ம தத்துவம் செயற்படும். (அவற்றுள் சாக்கிரத்தில் மட்டுமே புறக் கருவிகள் செயற்படச் சொப்பனத்தில் அந்தக்கரண நிகழ்ச்சியாகிய சிந்தனை மட்டுமே உளதாகும்) சாக்கிர சுழுத்தியளவில்தான் - அஃதாவது சாக்கிர சாக்கிரம், சாக்கிர சொப்பனம், சாக்கிர சுழுத்தி என்னும் மூன்றளவிலேதான் கன்மங்கள் நிகழும். (எனவே, அந்த மூன்றளவிலேதான் ஆன்மாவிற்குச் சுக துக்கங்கள் விளங்கித் தோன்றும்). சாக்கிர துரியத்தளவில்தான் வித்தியா தத்துவங்கள் செயற்படும். (எனவே, அந்த நான்களவில்தான் ஆன்மாவிற்கு 'யான்' என்னும் தன்னுணர்வு உளதாகும்).`,
-    elaborationEnglish: `This Peioncs to the sakala or the living state. of the jiva on
-earth. In the-four states of consciousness that jiva experiences
-— jagrat, svapna, sushupti, and turiya — maya manifests
-herself as tirodhayi (obscuring sakti) mamaya (impure maya
-sakti that gives differentiated knowledge), kamya (sakti that
-gives self-delusion), and finally pure maya (sakti that lends grace)
-in this avasta.
+    elaborationEnglish: `This Peioncs to the sakala or the living state. of the jiva on earth. In the-four states of consciousness that jiva experiences
+— jagrat, svapna, sushupti, and turiya — maya manifests herself as tirodhayi (obscuring sakti) mamaya (impure maya sakti that gives differentiated knowledge), kamya (sakti that gives self-delusion), and finally pure maya (sakti that lends grace) in this avasta.
 Doran auss gihusgs`,
   },
   {
@@ -1360,9 +1292,7 @@ Where the senses in merriment dance
 Experiences the sensations five,
 Sound and the rest four.`,
     elaborationTamil: `ஐம்பொறிகளைக் கருவியாக உடைய அந்த உடம் பாகிய ஆடரங்கத்துள் நின்று சத்தம் முதலிய புலன்களை உயிர் நுகரும் முறை, சிலந்தியானது வலைக்குள் ஏற்புடைய இடத்தில் இருந்து கொண்டு, அங்குவந்த உயிர்களை உண்ணும் முறைபோல்வது. ஆதலின், அதற்கு ஏற்புடையன மத்தியாலவத்தைகளே.`,
-    elaborationEnglish: `Like the spider situated at the centre of its web catches its
-prey, the jiva also experiences all the actions of the five senses
-through being situated in the body web.`,
+    elaborationEnglish: `Like the spider situated at the centre of its web catches its prey, the jiva also experiences all the actions of the five senses through being situated in the body web.`,
   },
   {
     id: 2172, tantraId: 8, verseNumber: 2171,
@@ -1421,9 +1351,7 @@ And Para,
 Are Tattvas as eight and twenty reckoned,
 In the school of Vedanta.
 
-The Vedanta school count the tattvas differently as
-twenty-eight. That reckoning includes purusa and the Void,
-which is not Para.
+The Vedanta school count the tattvas differently as twenty-eight. That reckoning includes purusa and the Void, which is not Para.
 
 Lire, sresrgy wir. 2173 -
 
@@ -1483,10 +1411,7 @@ In the your goodly body.`,
     elaborationTamil: `நாடிகள் பத்தும், நன்மை விளங்குகின்ற வாயுக்கள் பத்தும் நாடிகளில் சிறப்புடைய, 'இடை, பிங்கலை, என்னும் இரு நாடிகள் வழியாக இயங்குகின்ற 'பிராணன்' என்னும் வாயுவிற்குக் கீழ்ப்பட்டு, அவற்றின்வழி நிற்கும். ஆணும், பெண்ணும் கூடியதனால் விளைகின்ற இன்பத்தில் உயிர் மூழ்குதற்குக் காரணமான சுக்கில சோணிதங்களும், அவ்வின்பத்தை விரும்புவதாய் அன்பைச் செய்கின்ற மனமும் உடல் முழுவதுமாய் இருக்கும்.`,
     elaborationEnglish: `Mantras 2174 & 2175
 
-Yoga brings a rapturous state, agreeable taste and perfect
-mind. The body becomes good and holy. The ‘Kingly Nandi
-of tender love aids us.to see all. He guides and witnesses
-all.
+Yoga brings a rapturous state, agreeable taste and perfect mind. The body becomes good and holy. The ‘Kingly Nandi of tender love aids us.to see all. He guides and witnesses all.
 
 Aacr mao Hip sa
 
@@ -1538,8 +1463,7 @@ The Tattvas reckoned are.`,
 —Thus it is as eight and twenty, too
 The Tattvas reckoned are.
 
-The tattvas are enumerated as twenty-eight in another: way
-also—ten sense organs, ten subtle potencies, four internal
+The tattvas are enumerated as twenty-eight in another: way also—ten sense organs, ten subtle potencies, four internal
 
 cognitive organs (antahkaranas), turiya state, time, the
 
@@ -1564,10 +1488,7 @@ So do the Tattvas, according.`,
     elaborationTamil: `முந்நூறு, அதனுடன் முப்பதொருபான்; அஃதா வது முந்நூறு, இரண்டும் கூட அறுநூறு. தளம் - படி. இரட்டிய தாகிய ஆறு. ஆறாறு = முப்பத்தாறு, அறுநூற்றை முப்பத்தாறு படியாக உறழ வருவது இருபத்தோராயிரத்து அறுநூறு. இஃது ஒரு நாளைக்கு வெளிச்சென்றும், உட்புகுந்தும் நடக்கின்ற மூச்சின் எண்ணிக்கை யாகும். இவ்வாறு வாயு - பிராணன். எழுந்து நடந்தால், உயிரைப் பற்றி யுள்ள பஞ்சமலங்களும் தன் தன் வேலையைச் செய்யும். அப்பொழுது தான் மாயா காரியமாகிய தத்துவங்களின் செயல்களும் விளங்குவனவாம்.`,
     elaborationEnglish: `Mantras 2177 & 2178
 
-If prana ascends upward three hundred and thirty one times,
-the five malas are subdued. By breath control the ninety-six
-tattvas subside within the body which, in turn, merges in the
-twenty-five tattvas.`,
+If prana ascends upward three hundred and thirty one times, the five malas are subdued. By breath control the ninety-six tattvas subside within the body which, in turn, merges in the twenty-five tattvas.`,
   },
   {
     id: 2179, tantraId: 8, verseNumber: 2178,
@@ -1625,9 +1546,7 @@ Illumined in Knowledge Divine,
 False devotion no more shall be;
 The Tattva Supreme is the primal letter-sound.`,
     elaborationTamil: `'மெய்' என்பன யாவும் ஒருவனது அறிவினுள்ளே அடங்கித் தோன்றுமாயின் அவன் ஏனையோர் பலரினும்திறம் மிக உடையனாய் விளங்கலாம். அப்பொழுது பயனில்லாத செயல்கள் யாவும் ஒழிந்து, பயனுள்ள செயல் கைவரும். அங்ஙனம் உணரப்படும் மெய்களில் நாதம் தலையாயது.`,
-    elaborationEnglish: `Jiya is wisé when he can make the tattvas function in the
-illumined way. With illumination in divine knowledge attained,
-false devotion leaves. The letter-sound ‘A’ is the primal tattva.`,
+    elaborationEnglish: `Jiya is wisé when he can make the tattvas function in the illumined way. With illumination in divine knowledge attained, false devotion leaves. The letter-sound ‘A’ is the primal tattva.`,
   },
   {
     id: 2182, tantraId: 8, verseNumber: 2181,
@@ -1652,9 +1571,7 @@ I have now known.`,
     elaborationEnglish: `Mantras 2181 & 2182
 
 Among the thirty-six tattvas, jiva alone is the sentient being.
-In the waking state mala creates the five experiences. In union
-with God, jiva is disentangled from these five states and from
-the unreal tattvas.
+In the waking state mala creates the five experiences. In union with God, jiva is disentangled from these five states and from the unreal tattvas.
 
 wih soflovgopgid
 
@@ -1737,8 +1654,7 @@ Two hundred and twenty four are the Bhuvanas; global constellations;
 Eighty and one are the Padas Primal,
 Five, the Kalas rare.`,
     elaborationTamil: `ஆறத்துவாக்களில், 'தத்துவம் முப்பத்தாறு' என்பது முன்பே குறித்து, விளக்கம் தரப்பட்டது. (எனவே, அஃது இங்கு நினை வூட்டும் அளவே கூறப்பட்டதாம்.)`,
-    elaborationEnglish: `Mantram, padam, varnam, bhuvanam, kalas ‘and tattvas —
-these constitute the six adhvas or the higher paths.
+    elaborationEnglish: `Mantram, padam, varnam, bhuvanam, kalas ‘and tattvas — these constitute the six adhvas or the higher paths.
 Wem epag SUBS AS
 
 ays Gudscrp :`,
@@ -1803,10 +1719,8 @@ Drinking the fill of bliss
 They Siva Become;
 All these five, the Grace-fruits of Siva are.`,
     elaborationTamil: `'நமசிவாய' என்னும் ஐந்தெழுத்து மந்திரத்தை (ஏனைக் கிரியா மந்திர யோக மந்திரங்களைப் போல எண்ணாமல், உண்மையை அனுபவமாக உணர்விக்கும் ஞான மந்திரமாகக் கொண்டு) சகலசாக்கிரத்தில் (சகலஐந்தவத்தைகள் நிகழாதவாறு தடுத்து,) ஞானவத்தைகளாகிய சுத்த சாக்கிரம் முதலியனவே நிகழுமாறு, அந்தச் சாக்கிரம் முதலிய ஐந்திலும் ஐந்து வகையாகச் சுத்த மானதம் ஆகிய அறிவினாலே கணித்து, ஆதாரங்கள் ஆறும், அவற்றிற்கு மேல் ஏழாவதாகிய நிராதாரமும் உடம்பளவினவாய் நீங்க, உடம்பைக் கடந்த துவாதசாந்தமாகிய மீதானத்தில் சென்று பொருந்திய அன்பே வடிவாய் நிகழும் திருக்கூத்தை உயிர் சென்று அடைவதே, எல்லையில் இன்பத்தைச் சிவம் பெருக்கி, அதற்கு வழங்குகின்ற சிவமாம் நிலையாகும்.`,
-    elaborationEnglish: `This chapter deals elaborately in 39 yerses (2187-2226) with
-the Agamic view of Tattvas, Turiyas, including the Sth namely
-Turiyatita acquisition of Knowledge, and the final merging
-with Siva.
+    elaborationEnglish: `This chapter deals elaborately in 39 yerses (2187-2226) with the Agamic view of Tattvas, Turiyas, including the Sth namely
+Turiyatita acquisition of Knowledge, and the final merging with Siva.
 
 Agios gouwpgiid 5H`,
   },
@@ -1835,7 +1749,6 @@ Boral 9385 Onpsnt Gi psnt
 
 pre Hapoart
 
-
 Progression of the States of Consciousness
 
 Towards Siva-Goal
@@ -1863,8 +1776,7 @@ Within the Waking State
 Are Jivas hastening towards the good Goal.
 
 In dream, jiva marches towards the divine goal; in the sushupti
-State he rises further and still further in the turiya state. In
-turiyatita state the jiva lies impassive.
+State he rises further and still further in the turiya state. In turiyatita state the jiva lies impassive.
 
 OeDuye Aflow Auss giauontd`,
   },
@@ -1917,8 +1829,7 @@ All Cosmic creation at once.`,
     elaborationEnglish: `‘
 
 The acts of kriya lead to Siva tattva; and of yoga, to divine
-Grace and Knowledge. Charya bestows benediction; and in
-jnana the entire cosmic creation is comprehended.
+Grace and Knowledge. Charya bestows benediction; and in jnana the entire cosmic creation is comprehended.
 
 Gurgh saosre wreow`,
   },
@@ -1942,15 +1853,11 @@ Bodha, Kalas, Time, Niyati and Mamaya (Impure Maya)
 He established,
 In wonder surpassing indeed!`,
     elaborationTamil: `'சிவம், சத்தி, சதாசிவம், ஈசுரம், சுத்தவித்தை' என்னும் சிவ தத்துவங்களையும், அவற்றின் கீழ் உள்ள 'கலை, காலம், நியதி, வித்தை, அராகம், மாயை' என்னும் வித்தியா தத்துவங் களையும் அநாதி நிலையினின்றும் இறங்கி ஆதியாய் நிற்கின்ற சிவன் படைத்தருளினான் என்று உணர்க.`,
-    elaborationEnglish: `five are the first evolutes of Param. They are known as Siva
-tattvas, and are in the pure maya sphere.
+    elaborationEnglish: `five are the first evolutes of Param. They are known as Siva tattvas, and are in the pure maya sphere.
 
 Mantras 2190 & 2191
 
-Siva, Sakti, Sadasiva, Isa and the (suddha) pure vidya and
-sadakya tattvas, bodha, kalas, time (kala), niyati (order) and
-mamaya (impure maya) are the evolutes of Paraparam, and
-must be ascended by the jiva.
+Siva, Sakti, Sadasiva, Isa and the (suddha) pure vidya and sadakya tattvas, bodha, kalas, time (kala), niyati (order) and mamaya (impure maya) are the evolutes of Paraparam, and must be ascended by the jiva.
 
 Ligaen algongs wanionenw
 
@@ -1970,17 +1877,11 @@ Together these twelve
 
 (Are for the Jiva to ascend.).
 
-Below the five Siva tattvas in the pure maya sphere, are the
-seven tattvas in the impure maya (or mamaya) sphere. This .
-sphere is also referred to as misra (mixed) or pure/impure
-maya. These seven tattvas are known as vidya tattvas and
-should not be confused with the suddha (pure) vidya tattvas
-in the pure maya (or Siva tattva) sphere. These seven are:
+Below the five Siva tattvas in the pure maya sphere, are the seven tattvas in the impure maya (or mamaya) sphere. This .
+sphere is also referred to as misra (mixed) or pure/impure maya. These seven tattvas are known as vidya tattvas and should not be confused with the suddha (pure) vidya tattvas in the pure maya (or Siva tattva) sphere. These seven are:
 and (vii)purusha.
 
-These 12 tattvas (S plus 7) are above the 24 prakriti or
-atma tattvas. Of these, seven belong to the lower strata (vidya
-tattvas) and five to the upper strata (Siva tattva).`,
+These 12 tattvas (S plus 7) are above the 24 prakriti or atma tattvas. Of these, seven belong to the lower strata (vidya tattvas) and five to the upper strata (Siva tattva).`,
   },
   {
     id: 2192, tantraId: 8, verseNumber: 2191,
@@ -2126,10 +2027,7 @@ In the Waking State and the Dream State
 Experiences in ways diverse.
 
 The consciousness of the self ceases in the turiyatita state.
-In the turiya state, consciousness of the~-self still burns,
-through comprehension of the spoken word. In the sushupti
-state, which is maya bound, desire exists; and disparate
-experiences are undergone in the waking and dream states.
+In the turiya state, consciousness of the~-self still burns, through comprehension of the spoken word. In the sushupti state, which is maya bound, desire exists; and disparate experiences are undergone in the waking and dream states.
 
 Bah soralvennw bs Borah`,
   },
@@ -2155,10 +2053,7 @@ Maya still is.`,
 இங்ஙனம் கூறியதனானே, சொப்பனத்தில் சாக்கிரம் ஒழிந்த நான்கும் உளவாதல் பெறப்பட்டது.
 நனவில் சொல்லப்படும் துரியமும், துரியாதீதமும் தாமே தனித்து நிகழும் நிலையில் துரியத்தில் இரண்டும், துரியாதீதத்தில் அஃது ஒன்றுமாகவே நிகழும். (அவை, 'துரியத்தில் துரியம்' துரியத்தில் துரியாதீதம்' எனவும், 'துரியாதீதத்தில் துரியாதீதம், எனவும் சொல்லப்படும்.)
 ''ஐந்துசாக்கிரத்தில்; நான்கு கனவினில்'' என்னும் சிவஞான சித்திச் செய்யுளுக்கு இதுவும் பொருளாமாறு அறிந்து கொள்க.`,
-    elaborationEnglish: `Turiyatita state has inner divisions, such as turiyatita-jagrat
-and turiyatita-sushupti. In turiyatita-sushupti state the self
-experiences the Self, and in turiyatita-jagrat-state maya still
-lingers; but turiyatita has no dream state.
+    elaborationEnglish: `Turiyatita state has inner divisions, such as turiyatita-jagrat and turiyatita-sushupti. In turiyatita-sushupti state the self experiences the Self, and in turiyatita-jagrat-state maya still lingers; but turiyatita has no dream state.
 
 Bord gous Horrpoar
 
@@ -2195,10 +2090,7 @@ Then ensues Sushupti in Turiyatita
 
 Where Maya alone functions.
 
-When six tattvas out of the twenty-five in the waking state
-within-waking state leave, that is dream state-in-waking. In
-sushupti-in-waking state, five more tattvas leave, and maya
-functions.`,
+When six tattvas out of the twenty-five in the waking state within-waking state leave, that is dream state-in-waking. In sushupti-in-waking state, five more tattvas leave, and maya functions.`,
   },
   {
     id: 2199, tantraId: 8, verseNumber: 2198,
@@ -2217,8 +2109,7 @@ The Maya too leaves,
 And if one with Kevala (Primordial) Bindu comes;
 Then no more the body its uses has.`,
     elaborationTamil: `(முன்னை மந்திரத்திற் கூறியவாறு) உயிர் மாயா காரியங்களையெல்லாம் கடந்து எஞ்சி நின்ற காரண நிலையில் உள்ள சுத்த மாயை தாரகமாகச் சிவத்தை உணர்ந்து நிற்றலே சகல சாக்கிரத்தில் சுத்த துரியமாகும். பின்னர் ஆன்மா அந்த நிலையிலும் நில்லாமல் விட்டு நீங்கி, அந்தக் காரணமாயையும் தொடர்பின்றி நிற்கச் சிவமே தாரகமாக அதனை உணர்ந்து நிற்றல் சகல சாக்கிரத்தில் சுத்த துரியாதீதமாகும். இந்நிலையில் உடம்பு இருந்தும் இல்லாததேயாம்.`,
-    elaborationEnglish: `In turiyd state maya too leaves, and jiva merges in primordial
-bindu. Then the body will be of no use.
+    elaborationEnglish: `In turiyd state maya too leaves, and jiva merges in primordial bindu. Then the body will be of no use.
 
 — 855 Siu \\`,
   },
@@ -2249,9 +2140,7 @@ Where Jiva the Knower is
 He merges into Luminous Turiya (Siva Turiya)
 That the ultimate state is.
 
-In the turiyatita states the soul is the knower. Passing that
-state, jiva merges into “‘luminous turiya’’ (Siva turiya) that
-is the. ultimate state.
+In the turiyatita states the soul is the knower. Passing that state, jiva merges into “‘luminous turiya’’ (Siva turiya) that is the. ultimate state.
 
 Quriscort. pour a pencsudas`,
   },
@@ -2315,31 +2204,20 @@ In the state of Turiyatita
 
 Is Nandi verily.
 
-Thirty-five tattvas constitute the jagrat state. With
-twenty-five tattvas jiva functions in the throat centre: that
-is the dream state. Purusha is in sushupti with three tattvas.
-When purusha and prana reach the navel centre, then it is
-the turiya state.
+Thirty-five tattvas constitute the jagrat state. With twenty-five tattvas jiva functions in the throat centre: that is the dream state. Purusha is in sushupti with three tattvas.
+When purusha and prana reach the navel centre, then it is the turiya state.
 
-1)In the jagrat (waking) state, purusha, the experient soul,
-functions with 35 tattvas in the eyebrow centre. These 35
-are: five jnanendriyas (sense organs); five karmendriyas
-ten vayus (airs); five vaks (sounds); one jiva (purusha)—in
-all 35 tattvas functions in the eyebrow centre. Vide—‘‘Saiva
+1)In the jagrat (waking) state, purusha, the experient soul, functions with 35 tattvas in the eyebrow centre. These 35 are: five jnanendriyas (sense organs); five karmendriyas ten vayus (airs); five vaks (sounds); one jiva (purusha)—in all 35 tattvas functions in the eyebrow centre. Vide—‘‘Saiva
 
-Jagrat-in-jagrat is functioning with the senses; svapna-in-jagrat
-is thinking and forgetting; seeking inward is sushupti-in-jagrat;
+Jagrat-in-jagrat is functioning with the senses; svapna-in-jagrat is thinking and forgetting; seeking inward is sushupti-in-jagrat;
 turiya-in-jagrat is abstaining from seeking. Nandi is truly in
 
 Siddhanta Kattalaigal,’’ edited by K. Narayanasami Naidu,
 
-2)In the dream state, the five sensoria, and the five motoria
-are left behind in the eyebrow centre, and the rest of the
+2)In the dream state, the five sensoria, and the five motoria are left behind in the eyebrow centre, and the rest of the
 25 tattvas stand in the throat centre—op.cit.
 
-3)In the deep sleep state (sushupti), chitta, prana, and jiva
-stand in the heart centre—op.cit.
-
+3)In the deep sleep state (sushupti), chitta, prana, and jiva stand in the heart centre—op.cit.
 
 aperm soray`,
   },
@@ -2371,12 +2249,9 @@ With Purusha.`,
 மூலப் பிரகிருதி ஒன்றும், வித்தியா தத்துவம் ஏழும் ஆக எட்டும் கூடியது பர சரீரம்.
 எனவே, 'புரியட்டகம்' என்பது இவ்விரு சரீரங்கட்கும் பெயராதல் விளங்கும். (இவை இரண்டுமே இம் மந்திரத்திற் குறிக்கப்படுகின்றன.)
 இரு புரியட்டக சரீரங்களும் தூல சரீரத்தோடு பொருந்தி நிற்கும் நிலையே இருவகைச் சாக்கிராவத்தையாகும். (இருவகை சகலமும், கேவலமும், இவ்வாறு சுருங்கக் கூறினாராயினும் கேவல சாக்கிரத்திலும் கனவிற் போலவே புரியட்டக சரீரம் நிற்கும் என்க.) சத்தாதி ஐந்தும், வசனாதி ஐந்தும், பிராணாதி பத்தும் ஆக இருபதும் தாத்துவிகங்கள். ஆகையால் அவற்றை எண்ணாமல் விடுக்கச் சூக்கும சரீரத்தில் மூன்று அந்தக்கரணங்கள் மட்டுமே செயற்படும் நிலை கேவல சொப்பனமாம். கேவல சாக்கிரத்தல் இருவகை இந்திரியங்கள் செயற்படும். கேவல சொப்பனத்தில் அவை செயற்படா. (இங்குப் பரசரீரம் கருத்தில் கொள்ளப்படவில்லை.) பரசரீரத்தில் 'பிரகிருதி, புருடன்' என்னும் இரண்டு மட்டுமே தொழிற்படும் நிலை கேவல சுழுத்தியாம். (இங்கும் பிராணன் எண்ணப்படவில்லை.) பரசரீரத்தில் புருடன் ஒன்று மட்டுமே செயற்படும் நிலை கேவல துரியமாம். (இங்கும் பிராணன் எண்ணப்பட வில்லை. ஒரு கருவியும் இன்றி ஆணவ மாத்திரம் இருத்தலே கேவல துரியாதீதம்' என்பது கருத்து.)`,
-    elaborationEnglish: `In the jagrat state the subtle body has eight tattvas. In the
-dream state it has three; in the sushupti state, two. Only one
-is left behind in the turiya state with purusha.
+    elaborationEnglish: `In the jagrat state the subtle body has eight tattvas. In the dream state it has three; in the sushupti state, two. Only one is left behind in the turiya state with purusha.
 
-1)Sound, touch, shape, taste, smell, intellect, mind and
-egoity—vide Mantra 2123 supra.
+1)Sound, touch, shape, taste, smell, intellect, mind and egoity—vide Mantra 2123 supra.
 
 2)Intellect, mind and egoity.
 
@@ -2432,9 +2307,7 @@ To infer events
 
 Is Turiya in Dream State.
 
-The four inner states of the dream state are jagrat in-dream
-state, dream-in-dream state, sushupti-in-dream state and
-turiya-in-dream state.`,
+The four inner states of the dream state are jagrat in-dream state, dream-in-dream state, sushupti-in-dream state and turiya-in-dream state.`,
   },
   {
     id: 2204, tantraId: 8, verseNumber: 2203,
@@ -2482,14 +2355,9 @@ Is to know that there is no knowledge of it;
 Turiya in Sushupti
 Is inexplicable Void.`,
     elaborationTamil: `சுழுத்தியில் ஒருகால், 'இது நல்ல உறக்கம்' என அதனை உணர்தல் சுழுத்தியில் சாக்கிரம். சுழுத்தியில் 'நாம் நன்கு உறங்குகின்றோம்' எனத் தன்னை உணர்தல் சுழுத்தியில் சொப்பனம். (இவை இரண்டும் நிகழில் சுழுத்தி யில்லையாம் என்பது சித்தாந்தம்.)`,
-    elaborationEnglish: `Of the four inner divisions of sushupti, jagrat-in-sushupti is
-to vision and not vision at all; dream-in-sushupti is to know
-it as dream; sushupti-in-sushupti is to have the knowledge
-of it. The inexplicable void is turiya-in-susuhpti.
+    elaborationEnglish: `Of the four inner divisions of sushupti, jagrat-in-sushupti is to vision and not vision at all; dream-in-sushupti is to know it as dream; sushupti-in-sushupti is to have the knowledge of it. The inexplicable void is turiya-in-susuhpti.
 
-gimu peranr Gurss
-gus scan Gurgs
-gifws saps Gums gus`,
+gimu peranr Gurss gus scan Gurgs gifws saps Gums gus`,
   },
   {
     id: 2206, tantraId: 8, verseNumber: 2205,
@@ -2517,8 +2385,7 @@ Is to vision Param Supreme.`,
     elaborationEnglish: `Jagrat-in-turiya, svapna-in-turiya, sushupti-in-turiya, and-
 
 turiya-in-turiya — God-consciousness external,
-God-consciousness internal, consciousness of Void and vision
-of Param — these belong to the four substates in turiya.
+God-consciousness internal, consciousness of Void and vision of Param — these belong to the four substates in turiya.
 
 wire went ws sear
 
@@ -2765,9 +2632,7 @@ Take to the True Way;
 You shall indeed meet
 The mighty Lord of your soul.`,
     elaborationTamil: `துன்பத்தால் அலறிக் கொண்டு, ஒரு வழிபடாது பதினெட்டு வழிகளில் போவதற்குப் பலமுகமாய் எழுகின்ற மனத்தை, நீவிர், நும் வாழ்நாள் முடிவதற்கு முன்னே மெய்ந்நெறியில் நிறுத்தினால், முன் மந்திரத்தில் கூறிய அந்த ஆனைகள் ஐந்தும் நடுங்கும்படி ஒப்பற்ற ஒரு பெரிய யானை உங்கள் அருகில் வந்து உங்களை எடுத்துச் செல்லும்.`,
-    elaborationEnglish: `. The five sensoria, the five motoria, the five tanmatras, and
-the three — these eight distract you from God. Give up
-distractions and take to the true way.
+    elaborationEnglish: `. The five sensoria, the five motoria, the five tanmatras, and the three — these eight distract you from God. Give up distractions and take to the true way.
 
 ‘“Pemmoucr sener Hapgil
 
@@ -2864,13 +2729,8 @@ With its stalk stemming deep in my heart.`,
     elaborationEnglish: `He is the Lotus that blooms in the cranium,
 With its stalk stemming deep in my heart.
 
-He is the Lord of maya land with the three spheres — sun,
-moon and fire within. He is immanent in me. The Lord is
-also the lotus that blooms in the cranium with its stem, deep
-in my heart. He is the One whom I pine for.
-GuTsm wrg youer Letafes
-wraeos perp
-wreesrib Hermencr cribilenm`,
+He is the Lord of maya land with the three spheres — sun, moon and fire within. He is immanent in me. The Lord is also the lotus that blooms in the cranium with its stem, deep in my heart. He is the One whom I pine for.
+GuTsm wrg youer Letafes wraeos perp wreesrib Hermencr cribilenm`,
   },
   {
     id: 2221, tantraId: 8, verseNumber: 2220,
@@ -3023,8 +2883,7 @@ Is the Timeless Para Turiya;
 Transcending it is Turiyatita;
 Rarer even far that State is.`,
     elaborationTamil: `'பரவெளி' எனப்படுகின்ற திருவருள் வழி நிகழ் கின்ற நின்மலாவத்தைகளில், 'பேருறக்கம்' என்னும் நிலையை அடைதலையே சிறந்ததாகக் கூறினோம். அதற்குக் கீழ் உள்ள நனவு, கனவு, உறக்கம், என்பவைகளும் எல்லார்க்கும் எளியன அல்ல. எனினும் நின்மலாவத்தையும் காலத்தொடு பட்டு நிகழ்வனவாகலின் அவை கழித்தற்குரியனவே. காலத்தைக் கடந்து எல்லையற்று நிகழ்வன பராவத்தைகள். அவைகளில் ஈற்றில் உள்ளது துரியம். அரிதாகிய, துரியத்தையும் கடந்த நிலை துரியா தீத நிலையாகும்.`,
-    elaborationEnglish: `brawn Gegorer wor
-brawler wing basen Lonenwwr`,
+    elaborationEnglish: `brawn Gegorer wor brawler wing basen Lonenwwr`,
   },
   {
     id: 2227, tantraId: 8, verseNumber: 2226,
@@ -3148,18 +3007,11 @@ All, all, are Sakalas verily.`,
     elaborationTamil: `ஆன்மதத்துவங்கள் கூடுதல் குறைதல்களால் நிகழும் அவத்தைகளே சகலாவத்தைகள் ஆதலின், அவைகளை அடைந்தோர் யாவரும் சகல வருக்கத்தினரே. ஏனெனில், அவர்களே முக்குண வடிவாகிய பிரகிருதியுட்பட்டு, மும்மலங்களை உடையவர் -களாய் இருத்தலின். எழுவகைப் பிறவியும் எய்தும் உயிர்கள் யாவும் சகல வருக்கத்தினவாதல் தெளிவு. இனி அவ் உயிர்களின் மேம்பட்டவர்களாக எண்ணப்படுகின்ற 'அயன் மால்' என்பவர்களும் பிரகிருதி புவனத்துள் பிறந்து இறந்தமை புராண இதிகாசங்களில் கேட்கப்படுதலால், அவர்களும் சகல வருக்கத்தினரே.`,
     elaborationEnglish: `Mantras 2230, 2231, 2240 & 2241
 
-Souls are ranked as vijnanakalas, pralayakalas, and sakalas
-according to the number of malas they possess. Vijnanakalas
-possess only anava, but they are inert. Pralayakalas possess
-maya, in addition anava. They belong to the world of
-suddha/asuddha maya. The 108 Srikanta Rudras are of
-to his catergory. The sakalas are the souls soaked in
-all the three malas — anava, karma and maya
+Souls are ranked as vijnanakalas, pralayakalas, and sakalas according to the number of malas they possess. Vijnanakalas possess only anava, but they are inert. Pralayakalas possess maya, in addition anava. They belong to the world of suddha/asuddha maya. The 108 Srikanta Rudras are of to his catergory. The sakalas are the souls soaked in all the three malas — anava, karma and maya
 
 srw wrenuule smu Ogerw
 
-Goalw whim gitwuriis
-ev Qossomrt gormiu Faosrtor`,
+Goalw whim gitwuriis ev Qossomrt gormiu Faosrtor`,
   },
   {
     id: 2232, tantraId: 8, verseNumber: 2231,
@@ -3246,12 +3098,7 @@ Yet, of themselves they leave all;
 When the Lord His Grace bestows;
 And together the Malas sunders.`,
     elaborationEnglish: `There are. four divisions of vijnanakalas, all shrouded in kevala
-State. "Some are in pure kevala (kevala-kevala), some more
-evolved are in kevala-sakala by the power of bindu; some
-even more evolved are in kevala-suddha, and the furthest
-evolved, having totally merged in Siva are in Arul-kevala
-state. Albeit, gripped by mayaic desire, they are freed
-by the Grace of God and with that they sever the malas.`,
+State. "Some are in pure kevala (kevala-kevala), some more evolved are in kevala-sakala by the power of bindu; some even more evolved are in kevala-suddha, and the furthest evolved, having totally merged in Siva are in Arul-kevala state. Albeit, gripped by mayaic desire, they are freed by the Grace of God and with that they sever the malas.`,
   },
   {
     id: 2236, tantraId: 8, verseNumber: 2235,
@@ -3344,14 +3191,7 @@ This the order (in reverse of evoluting too)
 
 Mantras 2238 & 2239
 
-The twenty-five tattvas then involute into the soul and merge
-into the six vidya tattvas. From there it passes into the suddha
-state, merging in suddha vidya tattva. The first three of the
-pure maya category (suddha vidya, isvaram and sadakyam)
-involute in Sakti tattva (bindu). Beyond Sakti tattva is Siva
-tattva (nada). This is the process of the graded involution
-of the tattvas into the ultimate Siva. The reverse order of
-this is the devolution of the tattvas.
+The twenty-five tattvas then involute into the soul and merge into the six vidya tattvas. From there it passes into the suddha state, merging in suddha vidya tattva. The first three of the pure maya category (suddha vidya, isvaram and sadakyam) involute in Sakti tattva (bindu). Beyond Sakti tattva is Siva tattva (nada). This is the process of the graded involution of the tattvas into the ultimate Siva. The reverse order of this is the devolution of the tattvas.
 
 Qoupg wremoraie 1 H&G`,
   },
@@ -3374,22 +3214,13 @@ Who with Siva (Nada) stands;
 --Thus is the ultimate of involution reached
 Into Tattvas four and seven.`,
     elaborationTamil: `(மேல், 'நாலாறுடன் புருடன்' - என்னும் மந்திரத்தில் 'வேதாந்தி தத்துவம்'-எனக் கூறப்பட்ட இருபத்தெட்டுத் தத்துவங்களில்) ஒடுக்க முறையில் முதல் இருபத்தைந்து தத்துவங்கள் சீவனில் அடங்கும். இருபத்தாறாம் தத்துவமாகிய ஈசுரன் உட்பட மற்றைய மூன்று தத்துவங்களும் மெயப்பொருளாகிய பரப்பிரமத்தில் சீவன் ஒன்றாகும் பொழுது அதில் அடங்கிவிடும். சுருக்கமாகச் சொல்வதென்றால், 'விவகாரத்திற்குக் காரண சத்தியாகிய மாயை, அதற்கு அதிட்டானமாம் பாரமார்த்திகப் பொருளாகிய பரப்பிரமம் என்னும் அவ்விரண்டிலே எல்லாம் தோன்றுதலால், எல்லாம் ஒடுங்குதலும் அவற்றிலேதான்' எனலாம்.`,
-    elaborationEnglish: `1) 2S prakriti or atma tattvas including the experient
-soul—purusa.
+    elaborationEnglish: `1) 2S prakriti or atma tattvas including the experient soul—purusa.
 the Siva tattvas.
 3) Eleven tattvas — six vidya tattvas plus the five Siva tattvas.
 The Saiva Siddhanta of philosophy postulates
-‘thirty-six tattvas. Of these, twenty-five (including jiva) belong
-to the body (atma tattvas), six to higher knowledge (vidya
-tattvas); and five to the spirit (Siva tattvas). At the time of
-involution the twenty-five bodily tattvas involute into the jiva
-(soul); they do not involute into Siva tattvas. So Tirumular
-here skips them and enumerates the tattvas that involute into
-the Siva tattvas as twenty-five only. Of the remaining five
-Siva tattvas, the important three, namely suddha vidya
-(God-equality) involute into Siva. As Sakti stands one with
-Siva, it is not considered as a separate category. Thus the
-tattvas are enumerated in the verse as twenty-eight in all.
+‘thirty-six tattvas. Of these, twenty-five (including jiva) belong to the body (atma tattvas), six to higher knowledge (vidya tattvas); and five to the spirit (Siva tattvas). At the time of involution the twenty-five bodily tattvas involute into the jiva (soul); they do not involute into Siva tattvas. So Tirumular here skips them and enumerates the tattvas that involute into the Siva tattvas as twenty-five only. Of the remaining five
+Siva tattvas, the important three, namely suddha vidya (God-equality) involute into Siva. As Sakti stands one with
+Siva, it is not considered as a separate category. Thus the tattvas are enumerated in the verse as twenty-eight in all.
 
 Horus sioner Cason
 
@@ -3457,8 +3288,7 @@ Become activated as Sakalas within Kevala;
 And so attain the truth of Mamaya
 Who the power of Mantra holds.`,
     elaborationTamil: `(ஒன்று இடையிட்டு முன்னை மந்திரத்தில் கூறிய கேவல வகைகளில்) தமக்குரிய கேவலநிலை அடைபவராகக் கூறப்பட்ட விஞ்ஞானகலர், அக்கேவல நிலையினின்றும் எழுச்சி பெறுதல் 'விந்து' எனப்படும் சத்தி தத்துவத்தினாலாம். (எனவே, கேவல நிலையில் அவர்கள்' நாதம்' எனப்படும் சிவதத்துவத்தைப் பற்றியிருந் -தமை பெறப்படும். ) அந்த விந்து சத்தியோடு பிற சுத்த மாயா தத்துவங் -களைப் பற்றிச் செயற்படுதலே அவர்களது சகல நிலை யாகும். (ஆகவே சகலருக்குப் போலப் பிரகிருதி தத்துவங்களைப் பற்றும் சகல நிலை அவர்கட்கு இல்லையாம்.) அந்தச் சகல நிலையில் அவர்களுடைய தனு கரணங்கள், மந்திர வடிவாகிய சுத்த மாயையால் ஆயினவேயாம்.`,
-    elaborationEnglish: `brewuder weigiib Operwr sourcpsi
-breawuys amshns
+    elaborationEnglish: `brewuder weigiib Operwr sourcpsi breawuys amshns
 
 brw sifu`,
   },
@@ -3673,10 +3503,7 @@ Sakala-Suddha is the State of Tat-para (self-illumined)
 All these in the state of Sakala occur.`,
     elaborationTamil: `மத்தியாலவத்தையில் நிகழும் அதீதமே சகலத்திற் கேவலமாகும். மத்தியாலவத்தையில் நிகழும் சாக்கிரமே சகலத்திற் சகலமாகும். சகலத்தில் சுத்தாவத்தையே சகலத்தில் சுத்தமாகும்.`,
     elaborationEnglish: `The inner divisions of suddha-sakala state are sakala-kevala;
-sakala-sakala and sakala-suddha. Sakala-kevala is the state
-of jagrat-atita; sakala-sakala is jagrat-in-jagrat. Sakala~suddha
-is the state of Tat-Para (Self-Illumined). These subdivisions
-are of the suddha-sakala state of the jiva.`,
+sakala-sakala and sakala-suddha. Sakala-kevala is the state of jagrat-atita; sakala-sakala is jagrat-in-jagrat. Sakala~suddha is the state of Tat-Para (Self-Illumined). These subdivisions are of the suddha-sakala state of the jiva.`,
   },
   {
     id: 2253, tantraId: 8, verseNumber: 2252,
@@ -3693,9 +3520,7 @@ Suddha-Kevala is State of Upasantha
 Suddha-Sakala is Turiya expansive state;
 Suddha-Suddha is State of Siva-Becoming;`,
     elaborationTamil: `பரமசிவனோடு இரண்டறக் கலந்த நிலையே சுத்தத்தில் சுத்தம். சீவன் முத்தி நிலையில் பிராரத்தத்தால் விளையும் இன்பத் துன்பங்களில் விருப்பு வெறுப்பற்றிருக்கும் நிலையே சுத்தத்தில் கேவலம். சீவன் முத்தி நிலையில் உலகர்பால் இரக்கம் மிக்கு அவர்கட்கு உய்தியை வலிந்து சென்றும் உணர்வித்தலும், அதிகார முத்தி, போக முத்தி, இலய முத்தி இவைகளை அடைந்து அவ்வந் நிலையில் விளையும் சுத்த போகங்களை நுகர்தலும் சுத்தத்தில் சகலம்.`,
-    elaborationEnglish: `The inner divisions of suddha-suddha state are: suddha-kevala,
-suddha-sakala, and suddha-turiya. Suddha-kevala is the state
-of upasanta; suddha-sakala is the state of expansive turiya.
+    elaborationEnglish: `The inner divisions of suddha-suddha state are: suddha-kevala, suddha-sakala, and suddha-turiya. Suddha-kevala is the state of upasanta; suddha-sakala is the state of expansive turiya.
 The state of Siva-becoming is suddha-suddha or suddha-turiya.
 These three states belong to the suddha-suddha state of jiva.
 
@@ -3825,21 +3650,12 @@ In the Waking State
 Activated is the Body Gross.`,
     elaborationTamil: `(உயிர்கள் யாதானும் ஓர்யோனியிற்புக்குப் பிறந்த பின்பு தான் சாக்கிரம் முதலிய அவத்தைகளை அடையும்' எனக் கருத வேண்டா. அவ்வவ் யோனியிற் புக்கிருக்கும் நிலையிலு ஐந்தவத்தை -களை அடையும். அவை கருவளர் அவத்தைகளாம்.) 
 வித்தில் நின்ற உயிரை முளையாகிய உடம்போடு முதற்கண் கலக்கச் செய்வதாகிய 'காரண சரீரம்', அல்லது, 'ஆனந்தமயகோசம்' எனப்படுகின்ற மாயா தத்துவத்தோடு உயிர்தொடர்பு கொள்வதே கருவினில் துரியாதீதம். பின்பு 'கஞ்சுக சரீரம்' அல்லது, 'விஞ்ஞானமய கோசம்' - எனப்படுகின்ற, அராகம் முதலிய ஐந்து தத்துவங்களோடு உயிர் தொடர்பு கொள்வதே கருவினில் துரியம். பின்பு, 'குணசரீரம்', அல்லது, 'மனோமய கோசம்' எனப்படுகின்ற மூலப் பிரகிருதியோடு உயிர் தொடர்பு கொள்வதே கருவினில் சுழுத்தி. பின்பு, 'சூக்கும சரீரம்', அல்லது 'பிராணமய கோசம்' எனப்படுகின்ற சித்தம் ஒழிந்த அந்தக்கரணம் மூன்று, தன்மாத்திரை ஐந்து ஆக எட்டுத் தத்துவங் களோடு உயிர் தொடர்பு கொள்வதே கருவினில் சொப்பனம். (சித்தம் பிரகிருதியில் அடங்கும்.) பின்பு, 'தூல சரீரம்', அல்லது அன்னமய கோசம்' எனப்படுகின்ற ஞானேந்திரியம் ஐந்து, கன்மேந்திரியம் ஐந்து, மாபூதம் ஐந்து ஆகப் பதினைந்து தத்துவங்களோடு உயிர் தொடர்பு கொள்வதே கருவினில் சாக்கிரம்.`,
-    elaborationEnglish: `1)Although in the dream state, the subtle body has 18 tattvas,
-ten of them (the five sense organs and five motor organs)
-do not function actually. Only the five tanmatras (sense
-potencies) and the three antahkaranas (cognitive organs) are
-active.
+    elaborationEnglish: `1)Although in the dream state, the subtle body has 18 tattvas, ten of them (the five sense organs and five motor organs) do not function actually. Only the five tanmatras (sense potencies) and the three antahkaranas (cognitive organs) are active.
 
 Mantras: 2258-2260
 
-Maya (pure) that originated from Hara permeates the tunya
-state. Anava works in jiva’s atita state and there he realises
-that para kamya sakti (seed of karma) is there in sushupti.
-Mamaya (illusory perception) or asuddha maya rules the dream
-state.-Tirodhayi sakti (obscuration) joins in the waking state
-and activates the gross body. Thus are the five malas attached
-to the jiva in the sakala state.
+Maya (pure) that originated from Hara permeates the tunya state. Anava works in jiva’s atita state and there he realises that para kamya sakti (seed of karma) is there in sushupti.
+Mamaya (illusory perception) or asuddha maya rules the dream state.-Tirodhayi sakti (obscuration) joins in the waking state and activates the gross body. Thus are the five malas attached to the jiva in the sakala state.
 
 Bom wigb comenuuyid
 Les gues srwd
@@ -3968,8 +3784,7 @@ They reach the State of Suddha
 
 That no birth thereafter gives.
 
-Ao! genus sosoos Gur
-eor gus Da Oeniisci
+Ao! genus sosoos Gur eor gus Da Oeniisci
 
 Gunter seigu Gumbis`,
   },
@@ -4083,26 +3898,16 @@ These in three divisions are thus parted
 As Suddha (Pure), Suddha-Asuddha (Pure-Impure), and Asuddha (Impure)
 All these with Jiva at appropriate stages stand.`,
     elaborationTamil: `முப்பத்தாறு தத்துவங்களில் கீழ் உள் ஆன்ம தத்துவம் இருபத்து நான்கும் அசுத்த தத்துவங்களாகும். அவை அவ் வியத்தமாகிய மூலப்பிரகிருதியினின்றும் நோறி ஒடுங்கும். இடையில் உள்ள வித்தியா தத்துவம் ஏழும் மிச்சிர தத்துதவமாகும். அவை அசுத்த மாயையினின்றும் தோன்றி ஓடுங்கும். மேலே உள்ள சிவ தத்துவம் ஐந்தும் சுத்த தத்துவங்களாகும். அவை சுத்த மாயை யினின்றும் தோன்றி ஒடுங்கும். இம் மூவகைத் தத்துவங்களும் மூன்று காண்டங்களாய்ப் பிரிந்து ஆன்மாவோடு கூடி, அதற்கு அறிவிச்சை செயல்கள் நிகழக் கருவிகளாய் நிற்கும்.`,
-    elaborationEnglish: `Out of the 36 tattvas enumerated in the Saiva Siddhanta school
-of philosophy, 24 are considered as atma tattvas. They belong
-to this world and are pervaded by prakriti maya.
+    elaborationEnglish: `Out of the 36 tattvas enumerated in the Saiva Siddhanta school of philosophy, 24 are considered as atma tattvas. They belong to this world and are pervaded by prakriti maya.
 
 Purusa, the experient sol, is considered as another tattva.
-Here he is counted -with the next category of vidya tattvas,
-which are six in number. They belong to higher knowledge,
-and are under the influence of misra (mixed) or pure/impure
+Here he is counted -with the next category of vidya tattvas, which are six in number. They belong to higher knowledge, and are under the influence of misra (mixed) or pure/impure
 
-maya. In all; the tattvas in this sphere are numbered here
-as seven.
+maya. In all; the tattvas in this sphere are numbered here as seven.
 
-The next five tattvas are known as Siva tattvas. They are
-pervaded’ by pure maya. They are of the spiritual sphere,
-par-excellence. Paraparam, or the Supreme, is above the 36
-tattvas.
+The next five tattvas are known as Siva tattvas. They are pervaded’ by pure maya. They are of the spiritual sphere, par-excellence. Paraparam, or the Supreme, is above the 36 tattvas.
 
-Tattvas are universal principles evoluted from maya — pure,
-pure/impure, and impure — which may affect the soul in
-its journey to God.`,
+Tattvas are universal principles evoluted from maya — pure, pure/impure, and impure — which may affect the soul in its journey to God.`,
   },
   {
     id: 2269, tantraId: 8, verseNumber: 2268,
@@ -4125,7 +3930,6 @@ And journeying the states of Kevala, and Sakala
 Final reaches the Suddha State.`,
     elaborationTamil: `சிவனே எல்லாம் செய்பவன் ஆகையால், உலக மாகிய மகவிற்கு அவனை, 'தந்தை' எனலாம். உலகிற்கு முதற் காரணமான 'சுத்த மாயை, அசுத்த மாயை' என்னும் இரு மாயைகளுள் சுத்த மாயையையே சிவன் தான் நேரே பற்றிச் செயற்படுத்துதலால் அதனைச் சிவனோடு புணர்ந்து உலகமாகிய மகவை ஈன்ற, 'நற்றாய்' எனலாம்; அசுத்த மாயையைச் சிவன் தான் நேரே பற்றிச் செயற் படுத்தாமல், அனந்த தேவரைக் கொண்டும், அவர்வழியாகச் சீகண்ட உருத்திரரைக் கொண்டும் செயற்படுத்துதலால் அதனை, உலகமாகிய மகவை வளர்க்கும் 'செவிலித் தாய்' எனலாம். எனவே, சுத்த மாயை, அசுத்த மாயை என்னும் இரு முதற் காரணங்களாலும், சிவனாகிய கருத்தாவினாலும் உலகம் தோன்றி நிலை பெற, உயிர்கள் அவ் வுலகத்தைப் பற்றி நின்று, 'சகலம், கேவலம்' என்னும் இருநிலைகளில் மாறி மாறி உழன்று, முடிவில் சிவனது அருளாலே ஞானத்தைப் பெற்று, அவற்றினினின்றும் விடுதலை அடைந்து சுத்த நிலையை அடையும்.`,
     elaborationEnglish: `PARA-AVASTA
-
 
 Opens srw Hive
 
@@ -4401,7 +4205,6 @@ And unite in Lord,
 
 Pervasive and Pure.
 
-
 Qoauge semet yor`,
   },
   {
@@ -4488,7 +4291,6 @@ That transcending, Jiva reaches Siva Turiya State.`,
     elaborationEnglish: `357
 
 Sac gifuw (psenssé Foren
-
 
 LOT E® * user on & Grr nou) Gus`,
   },
@@ -4664,7 +4466,6 @@ Think of Param,
 
 Thought-of elements recedes.
 
-
 Font user Qoannm`,
   },
   {
@@ -4784,9 +4585,7 @@ There the Soul is All-Existence
 
 And Non-Existence at once.
 
-Sakala avasta — impure maya sphere (atma tattvas) Para
-avasta — pure/impure maya sphere (vidya tattvas) Suddha
-avasta — pure maya sphere (Siva tattvas).
+Sakala avasta — impure maya sphere (atma tattvas) Para avasta — pure/impure maya sphere (vidya tattvas) Suddha avasta — pure maya sphere (Siva tattvas).
 
 HII pes Gorwiupib
 
@@ -4982,11 +4781,7 @@ Only in the Eleventh State, nothing of Tattvas is.`,
 
 Mantras 2300 & 2301
 
-The tattvas gradually fade at various stages and in the eleventh
-state none lingers. Nandi alone is there and jiva will have
-attained the jnana-body. So meditate in order that you surely
-reach that immutable goal.
-
+The tattvas gradually fade at various stages and in the eleventh state none lingers. Nandi alone is there and jiva will have attained the jnana-body. So meditate in order that you surely reach that immutable goal.
 
 ALL EGO wig Guplenesr`,
   },
@@ -5067,9 +4862,7 @@ And you shall vision the Space interminable.
 
 13. Peamonageas
 
-Inthe 41 verses that constitute this chapter, Tirumular reiterates
-much (philosophical, metaphysical and religious material of what
-has been mentioned in earlier verses.`,
+Inthe 41 verses that constitute this chapter, Tirumular reiterates much (philosophical, metaphysical and religious material of what has been mentioned in earlier verses.`,
   },
   {
     id: 2305, tantraId: 8, verseNumber: 2304,
@@ -5382,8 +5175,7 @@ The celestial music,
 That the chanting Vedas and Agamas produces;
 All these in nadis within I experienced.`,
     elaborationTamil: `நான் எனது விருப்பப்படியேவிட்டும், வாங்கியும் இயக்குகின்ற பிராணவாயுவையும், மிகுத்தெழுக்கின்றதமருக ஓசையையும், வல்லுநர்கள் பாடுதலால் எழுகின்ற வேதாகம ஒலிகளையும், நான் கண்ட முறை, சுழுமுனா நாடியினுள்ளாக, நடனத்தில் தூக்கிய காலின் கீழாம்.`,
-    elaborationEnglish: `yacmcr wie Oews Upssosd
-saac wie sMorw series`,
+    elaborationEnglish: `yacmcr wie Oews Upssosd saac wie sMorw series`,
   },
   {
     id: 2319, tantraId: 8, verseNumber: 2318,
@@ -5414,8 +5206,7 @@ In present be discerned;
 The rest is but knowledge demented.
 
 Insight into the past results from true knowledge.
-Self-Knowledge is true knowledge. The rest is but false and
-demented.
+Self-Knowledge is true knowledge. The rest is but false and demented.
 
 Arwen Noancbs LOT
 
@@ -5662,8 +5453,7 @@ When the two as Grace descend
 Then he knows himself,
 And with Siva one becomes.`,
     elaborationTamil: `புருடன், (ஆன்மா) பிறிதொரு பொருள் அறிவியாமல் தானாகவே ஒன்றையும் அறியும் தன்மையுடைய னல்லன்; அதனால், அவன் அறிவில்லாத சடப்பொருளும் அல்லன். ('அறிவித்தால் அறிவான்' என்றபடி). இத்தன்மை உடைய இவன், பிறர் அறிவிக்க வேண்டாது, தானே எல்லாவற்றையும் அறிபவனாகிய சிவனது அறிவைக்கொண்டு தன்னை முன்மந்திரத்திற் கூறியவாறு, 'சதசத்து' என அறிவானாயின்' அப்பொழுது இவனும், இவனால் சாரப்பட்ட கருவித்தொகுதியும் சிவனது அருளாகியே நிற்கும். ('இவனும் சிவமாகி, இவனது கரணங்களும் சிவகரணமாய்விடும்' என்றபடி). அங்ஙனம் நிற்கவே, முன்பு அசித்தோடு கூடி அசித்தாய் இருந்த, அல்லது ஏகதேசமாய் அறியும் சிற்றறிவை உடையவனாய் இருந்த இவனே, எல்லாவற்றையும் அறியும் அறிவுடையவனாகிச் சிவத்தோடே கூடி இரண்டற்றிருப்பான்.`,
-    elaborationEnglish: `When the two, Siva and Sakti, descend as Grace, jiva knows
-both himself and the Lord.`,
+    elaborationEnglish: `When the two, Siva and Sakti, descend as Grace, jiva knows both himself and the Lord.`,
   },
   {
     id: 2331, tantraId: 8, verseNumber: 2330,
@@ -5770,8 +5560,7 @@ Is Lord Himself,
 And not Jiva;
 It is Lord that acts from within Jiva.`,
     elaborationTamil: `[முன்மந்திரத்தில் சிவனுக்கு உள்ளனவாகக் கூறிய ஞான சத்தி இச்சா சத்தி கிரியா சத்திகள் உயிர்கட்கும் உள்ளன, அஃது எவ்வாறு பெறப்படுகின்றது எனின்,], 'சடப்பொருள்கட்கு வேறாய் உயிர் உண்டு' என உணரவைப்பதே உயிரினது ஞான சத்திதான், (அஃதாவது, எங்கே அறிவு நிகழ்கின்றதோ அங்கெல்லாம் 'உயிர் உள்ளது' என உணரப்படுகின்றது என்பதாம்). இனி, அந்த அறிவு 'யான்' எனத் தன்னைப் பற்றியும், 'எனதும்' எனப் பிற பொருளைப் பற்றியும் கொள்கின்ற பற்றும் இச்சாசத்தியின் செயலேயாகும், அந்தப் பற்றுக் காரணமாக உயிர் பலவான மாயா காரியப் பொருள்களைச் செயற்படுத்தி, அவற்றால் பயன் உறுவது கிரியா சத்தியின் செயற் பாடே. இவ்வாறு இவை நுட்பமாக ஓர்ந்துணரத்தக்கன. (அங்ஙனம் உணராமல், 'உயிர்கட்கு இந்தச் சத்திகள் இல்லை' என்று கருதிவிடுதல் கூடாது). எனினும், உயிர்கட்கு அவற்றின் வினைப்பயன்களை ஊட்டுவிக்கின்ற சிவன் செயற்படுத்தவே இச்சத்திகள் செயற்படும். ஆகையால், உயிர்கள் செய்யும் செயல்கள் அவைகளே தனி நின்று செய்யும் செயல்கள் ஆகாது, அவற்றுள் உயிர்க்கு உயிராய் நிறைந்து நிற்கும் சிவன் செயல்களே ஆகின்றன.`,
-    elaborationEnglish: `Samm wriorenw Lorenwuil ese
-uipwuin srocr srfuibd umppad`,
+    elaborationEnglish: `Samm wriorenw Lorenwuil ese uipwuin srocr srfuibd umppad`,
   },
   {
     id: 2335, tantraId: 8, verseNumber: 2334,
@@ -5965,11 +5754,7 @@ She pervades too Malas Three;
 And then by Light of Grace
 She makes Jiva the very Siva.`,
     elaborationTamil: `['சிவன் அருள்' என்றும், 'சிவனது சத்தி' என்றும் சொல்லப்படுவது ஒருபொருளேயாகும். அதனால்,] அருளாகிய சத்தி, தீ பொருளாய் இருக்க, சூடு அதன் பண்பாய் அதன்கண் வேற்றுமையின்றியிருத்தல்போல, சிவம் பொருளாய் இருக்க, தான் அதன் பண்பாய் அதன்கண் வேற்றுமையின்றி யிருக்கும். அங்ஙனம் இருக்கும்பொழுது அறிவாகியேயிருக்கும். (இது சத்தியின் 'உண்மை' எனப்படும் சொரூபம்) அதுவே, 'ஆணவம், மாயை, கன்மம்' என்னும் மும் மலங்களாயும் நின்று (உயிர்கள் சிவனை அறியாதபடி மறைக்கும். இந்நிலையில் அது, 'திரோதனகரி, திரோதாயி' - என்னும் பெயர்களைப் பெறும். இஃது அதன், 'பொது' எனப்படும் தடத்தம்) பின்பு அதுவே தனது உண்மையான அருளாகும்பொழுது, சிவன் உயிர்களுக்கு முன்போல மறைந்து நில்லாமல், இனிது விளங்கும் பொருளாய்த் திகழ்வான்.`,
-    elaborationEnglish: `Siva and Sakti are like fire and heat. She is with Him,
-espousing divine awareness. She is darkness (obfuscation) and
-light (Revealing Grace). As darkness She pervades the three
-malas. Then by the light of Grace She liberates the jiva and
-aids him to become Siva — the Nandi that is Pure Truth.
+    elaborationEnglish: `Siva and Sakti are like fire and heat. She is with Him, espousing divine awareness. She is darkness (obfuscation) and light (Revealing Grace). As darkness She pervades the three malas. Then by the light of Grace She liberates the jiva and aids him to become Siva — the Nandi that is Pure Truth.
 
 ; Ceram agwug`,
   },
@@ -6001,9 +5786,7 @@ Differing states of Grace.`,
 Are result of
 Differing states of Grace.
 
-The yogi then beholds in this fleshy body Jnana Siva—the
-beginning of celestials and the peerless gem-light that shines
-effulgent — and the immaculate jnana sakti of Grace too.
+The yogi then beholds in this fleshy body Jnana Siva—the beginning of celestials and the peerless gem-light that shines effulgent — and the immaculate jnana sakti of Grace too.
 
 Gurgb Gurgupib prgsupb`,
   },
@@ -6210,10 +5993,7 @@ But they see not the eyes;
 So too is Lord to Jiva.`,
     elaborationTamil: `குடம், சால், சாடி முகலாகக்கலங்கள் பல வகையால் இருப்பினும் அவை அனைத்திலும் ஒருமண்ணே பொருந்தியிருத்தல் போலப் பிறப்பு வகையால் உயிர்களின் அறிவு பல்வேறு வகைப்பட்டிருப்பினும் ஒரு பேரறிவாகிய சிவன் அவை அனைத்தின் அறிவினுள்ளும் இருக்கின்றான், அங்ஙனமாயினும், கண் எல்லாப் பொருளையும் பார்க்க. பார்க்கப்பட்ட பொருள்கள் கண்ணைப் பாராததுபோல, அறிவுக்கறிவாய் உள்ள சிவன் அனைத்துயிர்களையும அறியினும் அவ்வுயிர்களுள் ஒன்றேனும் அவனை அறிதல் இல்லை.`,
     elaborationEnglish: `Though the pots are different, the clay is one Similarly the
-Lord is the One pervading all His creations. The eyes behold
-diverse objects; but the objects do not see the eyes. So too
-is Siva for jiva. God is immanent and omnipresent; yet jiva
-does not see Him.`,
+Lord is the One pervading all His creations. The eyes behold diverse objects; but the objects do not see the eyes. So too is Siva for jiva. God is immanent and omnipresent; yet jiva does not see Him.`,
   },
   {
     id: 2353, tantraId: 8, verseNumber: 2352,
@@ -6293,8 +6073,7 @@ That joys in the bliss?
 The men who think they know all,
 Know not why they are born, and why they die.`,
     elaborationTamil: `உயிர் உடம்பொடு கூடி நிற்கும் நிலையில் வருகின்ற இன்பத் துன்பங்களை நுகர்வது உடம்பா? உயிரா? இதனை எண்ணிப் பார்த்து உண்மையை உணரமாட்டாமல் திரோதான சத்தியால் வரும் மயக்கத்திலே இருந்து கொண்டு, 'யான் உண்மையைநன்கறிவேன்' என்றுசொல்கின்ற மனிதன்தான் பிறந்ததாகிய 'பிறப்பு' என்பதும், பின்பு இறக்கப்போவதாகிய 'இறப்பு' என்பதையுமே 'இன்ன' என அறியமாட்டான்.`,
-    elaborationEnglish: `sciecr wupws
-sormer sPou Abs ICH-`,
+    elaborationEnglish: `sciecr wupws sormer sPou Abs ICH-`,
   },
   {
     id: 2356, tantraId: 8, verseNumber: 2355,
@@ -6459,8 +6238,7 @@ Thus did Nandi know jiva jnana as Siva jnana.`,
     elaborationTamil: `மெய்யறிவு வேண்டுவீர், உமது வேட்கை நிரம்ப வேண்டுமாயின் நீவிர் சிவனையே பொருளாக உணர்ந்து அவனிடம் அன்புசெய்யுங்கள் (பிறரைப் பொருளாக அறியும் அறிவுகள் எல்லாம் போலியறிவே.) யான் சிவனை உணர்ந்து பயன் பெற்றேன். (''நான் பெற்ற இன்பம் பெறுக இவ்வையகம்'') இவ்வாற்றால் உமது அறிவு உண்மை மெய்யறிவாயின், அதனைச் சிவனும் அறிந்து, பயன் தருவான். அதனால் அத்தகைய அறிவால் நிலையான வீடுபேறே யன்றி, இடையில் அணிமாதி சித்திகளும் தாமே வந்து வாய்க்கும்.`,
     elaborationEnglish: `ii) Mahima is to becomes as great as infinity.
 
-Garima is to materialise whole objects (pervasiveness)
-from diverse fragments.
+Garima is to materialise whole objects (pervasiveness) from diverse fragments.
 
 iv) Laghuma is to become weightless.
 
@@ -6472,8 +6250,7 @@ Vii) Isatvam is to attain vast regal powers.
 
 Vasitvam is to attain powers of total attraction.
 
-For a fuller discussion of the eight siddhis, vide Tantra Three
-supra.
+For a fuller discussion of the eight siddhis, vide Tantra Three supra.
 
 aon wrento wr
 Aout wrento KS) ouremre`,
@@ -6510,8 +6287,7 @@ Between Knowledge and Ignorance.
 
 ano wreriew fal
 
-Qurier sioner Gurgy
-wuuopieaict great wiades`,
+Qurier sioner Gurgy wuuopieaict great wiades`,
   },
   {
     id: 2364, tantraId: 8, verseNumber: 2363,
@@ -6650,8 +6426,7 @@ I unite in Him, in mind's fulness.`,
     elaborationEnglish: `(aac geen wre. s Gert
 Yeamens QuGgweb assur
 
-sacs scr Utes Sonvcargsret
-berohsé Hours cungr 2369.
+sacs scr Utes Sonvcargsret berohsé Hours cungr 2369.
 
 diva’s Journey to Liberation is Lord’s Play
 
@@ -6673,10 +6448,7 @@ Thus, they Siva became
 With birth no more to be.
 
 Jivas in Saiva Siddhanta philosophy are as eternal as God.
-By’ what is meant here is that they were ‘activated’
-from the primordial (kevala state) inert condition by Siva
-acting on Sakti, and given the milieu and instruments for
-development, such as thanu (body), karana (organs), bhuvana
+By’ what is meant here is that they were ‘activated’ from the primordial (kevala state) inert condition by Siva acting on Sakti, and given the milieu and instruments for development, such as thanu (body), karana (organs), bhuvana
 
 15. 2055
 THE SIX ESSENCES`,
@@ -6724,8 +6496,7 @@ The End of Kalas (Kalanta)
 --These the Ends Six, the Ultimates
 Finale.`,
     elaborationTamil: `அந்தங்கள், அவையாவன சமயநூல்களின் முடிவுகள் ஆறு. அவை, 'வேதாந்தம், சித்தாந்தம், நாதாந்தம், போதாந்தம், யோகாந்தம், கலாந்தம்' - என்பன.`,
-    elaborationEnglish: `Vedanta, Siddhanta, Nadanta, Bodhanta, Yoganta and Kalanta
-are the six final ‘essences.
+    elaborationEnglish: `Vedanta, Siddhanta, Nadanta, Bodhanta, Yoganta and Kalanta are the six final ‘essences.
 
 assur grpibd sont`,
   },
@@ -6837,7 +6608,6 @@ The peerless Divine Jnana dawns;
 That indeed is Jnana (Bodha)
 That Nadanta beyond reached.
 
-
 Yoganta State
 
 Seeking. Yama and Niyama
@@ -6899,9 +6669,7 @@ That Nadanta beyond reached.`,
 Nadanta, Sakti, Ananthai, Anathai,
 Anasiruthai, Samanai, Unmanai,
 
-The sixteen kalas within. belong to the sixteen saktis in the
-sixteen-petalled-flower of the visuddhi adhara. The realisation
-of these sixteen kalas is known as ‘sodasa kala prasada.’
+The sixteen kalas within. belong to the sixteen saktis in the sixteen-petalled-flower of the visuddhi adhara. The realisation of these sixteen kalas is known as ‘sodasa kala prasada.’
 
 Onnrehusr Ganga. oonitst—`,
   },
@@ -6968,7 +6736,6 @@ Yoga), Upadesa and Jnana.`,
     elaborationTamil: `(முன் மந்திரத்தில் கூறப்பட்ட கலாந்தம் ஒழுக்கம் பற்றியது. இனி), நூல் அறிவு பற்றி நோக்குங்கால் உள்ள கலாந்தம் வேறு ஐந்தாகும். அவை, 'மந்திர கலாந்தம், தந்திர கலாந்தம், தெளிவுக் கலாந்தம், ஞான கலாந்தம். உபதேச கலாந்தம்' என்பன. அவையும் ஞானப் பகுதிகளேயாம். அவை ஆராய்ச்சியில் வேட்கை உடையவர்கட்கு ஆவனவாம்.`,
     elaborationEnglish: `BED orth sown snGagib
 
-
 Tantra, Mantra Upadesa
 
 Beginningless are Agama Vedas
@@ -6978,8 +6745,7 @@ Tantra is to act their way,
 Mantras are of the mind and beyond the body;
 Upadesa is the teaching of Siva-Jnana.
 
-Hanns saugrangs Hasna
-erp Cow wennuym sonpssgiti
+Hanns saugrangs Hasna erp Cow wennuym sonpssgiti
 Gusr aqjnguest app`,
   },
   {
@@ -7192,13 +6958,10 @@ That Bodha leads to;
 Beyond still is Asipada.
 
 The Vedanta goal transcends the seven causal expericnces.
-The Nadanta goal in dissolving the malas reaches to the
-state. The Bodhanta goal leads to the tatpada state.
+The Nadanta goal in dissolving the malas reaches to the state. The Bodhanta goal leads to the tatpada state.
 Beyond, transcending the seven causal experiences is asipada.
 
-From 2387 onwards, Mular discusses the ‘‘Tat Asi’’
-of the Upanisads from various angles, trying to fit the three
-phrases into Agamic concepts.
+From 2387 onwards, Mular discusses the ‘‘Tat Asi’’ of the Upanisads from various angles, trying to fit the three phrases into Agamic concepts.
 
 WHT Tp SLKSECT`,
   },
@@ -7555,8 +7318,7 @@ Thus be merged;
 
 —So says Vedanta-Siddhanta.
 
-bereflu Cersin wren wrentse
-geachu 650 2403
+bereflu Cersin wren wrentse geachu 650 2403
 
 Siddhanta Agamas Are Filled With Vedic Wisdom
 
@@ -7614,9 +7376,7 @@ The Vedas and Agamas,
 In gradualness appropriate
 Evolved Vedanta-Siddhanta
 That is great, great indeed.`,
-    elaborationEnglish: `Mular has coined the phrase He says
-it is evolved out of the Vedas and Agamas. It is apparent
-that Mular feels keenly the need for somehow reconciling the
+    elaborationEnglish: `Mular has coined the phrase He says it is evolved out of the Vedas and Agamas. It is apparent that Mular feels keenly the need for somehow reconciling the
 Agamic and Vedic
 
 16. uBusutsb Caplerceow
@@ -7740,10 +7500,8 @@ And living Sakala;
 
 Then enters the Atita Jagrat plane.
 
-The once sundered will not touch jiva again, even as,
-the poison, once extracted, does not retum to the body.
-jiva, having sundered pasa through the states of keval and,
-sakala, enters the atita jagrat plane, which is beyond pasas.-
+The once sundered will not touch jiva again, even as, the poison, once extracted, does not retum to the body.
+jiva, having sundered pasa through the states of keval and, sakala, enters the atita jagrat plane, which is beyond pasas.-
 
 Jiva and pasa are also eternal like the Lord, whom you seek.
 Nandi grants freedom from the’ eternal bondage of pasa to
@@ -8040,8 +7798,7 @@ And as days pass,
 Jiva acquires love of God--(Pati-Pasam)
 In which am I steeped.`,
     elaborationTamil: `பதி, பசுவை இயல்பாகவே உள்ள ஒரு பாசத்தின்மேல் மற்றொரு பாசம் பற்றும்படி அதனுள்ளே புகுத்தும். (இப்பாசம் மாயை, இயல்பாக உள்ளது ஆணவம்) அதன்பின், இருவினைகளாகிய குழியிலே ஆழச் செய்யும். அதன்பின், அந்த இருவினைகளுக்கு ஈடான துன்பத்தையும், இன்பத்தையும் பசு நுகர்தற்பொருட்டு அதனை நரகத்திலும். சுவர்க்கத்திலும் சேர்த்து, அங்கே சிலநாள் தங்க வைக்கும், இவையெல்லாம் இப்படித் தொடர்ச்சியாக நிகழ்தல் திரோதான சத்தியாலாம். அச்சத்தி இவ்வாறு செய்வித்தல், பசுக்கள் தம் பசுத்துவத்தின் நீங்கிப் பதியை அடையும் நாளைக் கிட்டுதற் பொருட்டாம்.`,
-    elaborationEnglish: `uesesiu torcnwuie) om tm Up Sores
-scachu somcups Guoamer`,
+    elaborationEnglish: `uesesiu torcnwuie) om tm Up Sores scachu somcups Guoamer`,
   },
   {
     id: 2422, tantraId: 8, verseNumber: 2421,
@@ -8134,12 +7891,8 @@ their Self-realizing.`,
 And as with their hands they held fast to His feet,
 They reached the Way of Truth, their Self-realizing.
 
-Sanatana, Sanatkumara, Sanantana—these are the
-four holy rishis, said to be the spiritual sons of Brahma, who
-sought of Siva the truth of holy wisdom. Siva sitting under
-the wild banyan tree as Guru Dakshinamurt, facing southward, .
-taught them the Divine Truth by chin-mudra (gesture 9f jnana)
-in silence. Dakshinamurthi is held as the Supreme Siva Guru.
+Sanatana, Sanatkumara, Sanantana—these are the four holy rishis, said to be the spiritual sons of Brahma, who sought of Siva the truth of holy wisdom. Siva sitting under the wild banyan tree as Guru Dakshinamurt, facing southward, .
+taught them the Divine Truth by chin-mudra (gesture 9f jnana) in silence. Dakshinamurthi is held as the Supreme Siva Guru.
 
 Also see the Prologue.
 
@@ -8170,8 +7923,7 @@ Then shall Liberation be.`,
 ''கோள் இல் பொறியிற் குணம் இலவே, எண்குணத்தான் 
 தாளை வணங்காத் தலை''* 
 என்றதும் இக்குறிப்பினதே.) காலாகிய சிவசத்தி உதிப்பிக்கின்ற ஞானத்தின் பயன் அந்த உயிர் வீடு பெறுதலாம்.`,
-    elaborationEnglish: `somouwy wre shunt snug
-soouwy oacrarg aps`,
+    elaborationEnglish: `somouwy wre shunt snug soouwy oacrarg aps`,
   },
   {
     id: 2427, tantraId: 8, verseNumber: 2426,
@@ -8289,7 +8041,6 @@ Will in time your salvation grant;
 
 Do wait and pray.
 
-
 SNS srs Fos`,
   },
   {
@@ -8357,8 +8108,7 @@ To take me into His Fold;
 What more can I say
 Of my Holy State?`,
     elaborationTamil: `சிவபெருமான் பக்குவம் எய்திய என்னைத் தனது திருவடியாகிய மலர்கள் எனது தலையிலே எனது பாசக்கட்டு நீங்குமாறு மலரும்படி செய்யும் முகத்தால், மயக்கம் கொண்ட எனது மனத்தால் திகைத்து நிற்கின்ற திகைப்பை நீக்கி ஆட்கொள்ள நினைத்தான். அதனால் நான் கோணங்கள் எல்லாம் நீங்கி, நேர்மையை அடைந்தேன் அந்த நேர்மை இது' எனச் சொல்லவாராது.`,
-    elaborationEnglish: `Quin Curd Guesu sromupm
-upeanu SF guts`,
+    elaborationEnglish: `Quin Curd Guesu sromupm upeanu SF guts`,
   },
   {
     id: 2435, tantraId: 8, verseNumber: 2434,
@@ -8605,8 +8355,7 @@ All these subside;
 Thus subsiding, the Beginningless One wakes
 Into the Turiyatita Jagrat State.
 
-MAI sorab Osyu
-sifu sapeory Aoctune`,
+MAI sorab Osyu sifu sapeory Aoctune`,
   },
   {
     id: 2445, tantraId: 8, verseNumber: 2444,
@@ -8758,8 +8507,7 @@ And then beyond Parasiva reached be;
 Then shall the transcendental Siva Bliss (Parasivananda) be;
 Jiva Becoming Siva is indeed Knowledge Divine.`,
     elaborationTamil: `பாசங்களோடு சிறிதும் தொடர்பின்றி, மேலானதற்கும் மேலானதாய் நிற்கின் அதுவே மிகமேலான பரம்; பதி. (என்றது 'பசு பரம்' என்றபடி பாசங்களின் மேலானது பசு; அது பரம். அதற்கு மேலானது பதி; அது பரம்பரம் 'தற்பரம்' என்றும் சொல்லப் படும். தற்பரம் தனக்கு மேலானது. 'தன்' என்பது ஆன்மா தற்பரம், பரமான்மா 'தத்துவ பரம்' என்பது தத்துவங்களைக் கடந்த நிலையை மட்டும் குறிப்பது. 'பசு - பரம்' என்பது, கன்மம் திரோதாயி இவற்றிற்கு மேல் பசு இவற்றையும் கடந்தது பசுபரம்) இவ்வாறான 'பரம்' என்றும் 'சிவம்' என்றும் சொல்லப்படுகின்ற அந்தப் பொருளை உயிர், மாயா காரியப் பொருள்களில் எந்த ஒன்றினின்றும் அடையப்படாத பேரானந்தத்தையுடையதாகும். அந்த ஆனந்தத்தைப் பொருளாகக் கொண்டு முயன்று அடையும் அறிவே, 'அறிவு' என்று சொல்லப்படும்.`,
-    elaborationEnglish: `paraln sornhur pacity
-shlunp goes groarh`,
+    elaborationEnglish: `paraln sornhur pacity shlunp goes groarh`,
   },
   {
     id: 2451, tantraId: 8, verseNumber: 2450,
@@ -8927,7 +8675,6 @@ Into the deep well of Pranava (Aum) within,
 And glimpse Him
 
 Will no more birth have.
-
 
 Qurinbews saupemrr Gurgs Geum ibumpo`,
   },
@@ -9199,8 +8946,7 @@ Is Jiva Turiya; .
 
 The Turiya beyond
 
-The Waking, Dreaming and Deep Sleep States (in
-the Jiva Turiya State)
+The Waking, Dreaming and Deep Sleep States (in the Jiva Turiya State)
 
 In Para Turiya;
 
@@ -9280,8 +9026,7 @@ They really are states Ten.`,
     elaborationTamil: `பெத்த துரியம் அனைத்தையும் 'சீவ துரியம்' என ஒன்றாகவும் முத்தி துரியம் இரண்டையும் ஒன்றாகவும் ஆக்க. அவ்விரண்டிலும் துரியம் முதலாகக் கீழ் நோக்க உளவாம் அவத்தைகள் இருநான்கு; எட்டு. இனி இவ்விரண்டிலும் உள்ள துரியா தீதங்களைக் கூட்ட அவத்தைகள் பத்தாகும். இவைகளில் பெத்தா வத்தை ஐந்தில் ஆன்மாக்கீழ் நிலையதாயும், முத்தியவத்தை ஐந்தில் மேல்நிலையை எய்தியும் இருக்கும்.`,
     elaborationEnglish: `And the four states of Siva Turiya
 
-As the end of one Turiya is the beginning state of
-next
+As the end of one Turiya is the beginning state of next
 
 They really are states Ten.
 
@@ -9301,8 +9046,7 @@ S.Jiva turiya jagrat
 12.Para turiya turiya
 
 States 4 & S merge into one state. Similarly states 8 and
-9 merge into one state. Thus they become ten avastas—the
-tunya of one state being the jagrat of the next.
+9 merge into one state. Thus they become ten avastas—the tunya of one state being the jagrat of the next.
 
 Gorbs wore OpHayp Gusergy
 
@@ -9534,8 +9278,7 @@ And in the End,
 Vision Truth of Para (Siva) Eternal.`,
     elaborationTamil: `பெத்தம் தடத்தமாக, முத்தியே சொரூபம் ஆதலின், முன் அதிகாரத்தில் கூறிய மும்முத்திகளையே இவ்வதிகாரத்தில் 'முச்சொரூபம்' என ஏழு மந்திரங்களால் வேறொரு வகையாக விளக்குகின்றார். 'பெத்தம் தடத்தமே, முத்தியே சொரூபம்' என உணர்தலே இவ்வதிகாரத்தின் பயன். (தடத்தம் - செயற்கை, சொரூபம் - இயற்கை.)
 'ஆணவம், திரோதாயி, மாயை, மாயேயம், கன்மம்' என இவ்வாறு ஐந்து மலங்களும் ஆன்மாவை வந்து பற்றி, ஒன்று, இரண்டு, மூன்று', என இவ்வாறு தொகை மிகுந்த முறையிலே அவற்றினின்றும் ஒவ்வொன்றாக நீங்கி, முழுதும் விடுபட்ட ஆன்ம ஞானம், பின் 'சிவோகமஸ்மி' என்னும் அனுபவத்தைப் பெற்று, அதற்குப் பின்னும் மேலே மேலே சென்று முச்சொரூபமாகிய மும்முத்திகளைப் பெற்று, முடிவில் அநாதியான சொரூப சிவனை அடைந்து நலம் பெறும்.`,
-    elaborationEnglish: `wiefins apart wb
-wapeics uus spl`,
+    elaborationEnglish: `wiefins apart wb wapeics uus spl`,
   },
   {
     id: 2480, tantraId: 8, verseNumber: 2479,
@@ -9556,8 +9299,7 @@ May well the Jiva vision;
 Then ended will birth's cycle be
 That endless was.`,
     elaborationTamil: `'சகலர், பிரளயாகலர், விஞ்ஞானகலர்' என்னும் மூவகை உயிர்களுக்கும் மூன்றுவகையான மாளிகை போன்ற, 'பிராகிருத சரீரம், மாயேய சரீரம், வைந்தவ சரீரம்' என்னும் மூன்று வகையான உடம்புகள் இருப்பிடமாய் உள்ளன. அந்த மூன்று வகை உடம்புகட்குள்ளேதான் தத்துவங்களும் உள்ளன. அவ்வுடம்புகளில் ஒவ்வொன்றிலுமே 'ஆன்மா,சிவம், பரம்' என்னும் மூன்று ஒளிப்பொருள்களும் வெளிப்படுகின்றன. அவ்வொளிகளை நேரே உணரும் வாய்ப்பு உளதாயின், அதன்பின் மேற்கூறிய உடம்புகளுக் குள்ளே உயிர் இருக்க வேண்டிய விதி இல்லையாய்விடும்.`,
-    elaborationEnglish: `Poa «Gone prmw
-usagi uncienwysr Freon`,
+    elaborationEnglish: `Poa «Gone prmw usagi uncienwysr Freon`,
   },
   {
     id: 2481, tantraId: 8, verseNumber: 2480,
@@ -9592,8 +9334,7 @@ He immanent in Jivas became
 
 And transcendent too.
 
-Geren Wassomrid orgs
-onuberm Guregs`,
+Geren Wassomrid orgs onuberm Guregs`,
   },
   {
     id: 2482, tantraId: 8, verseNumber: 2481,
@@ -9657,8 +9398,7 @@ There contemplate on Aum in Silentness
 In that Mudra of Jnana
 The final Grace is.`,
     elaborationTamil: `பிற மணிகளில் ''ஒளி'' என்றும், 'நிறம்' என்றும் 'சோபை' என்றும் இங்ஙனம் பல பெயர்களால் சொல்லப்பட்டு விளங்குகின்ற கதிர்கள் ஒரு படிக மணியிலே பொருந்த, அப்படிக மணிவேறு பல மணிகளாய்க் காட்சியளிப்பது போன்றதே 'தத்துமசி' மகாவாக்கியத்தால் உபதேசிக்கப்படும் பொருள். அஃதாவது, 'உயிர் சார்ந்ததன் வண்ணமாம் இயல்புடையது ஆதலின், பாசத்தைச் சார்ந்து பாசமாய் இருந்த நீ, அந்நிலை நீங்கிச் சிவத்தைச் சார்ந்து சிவம் ஆகிறாய்' என்பதாம். (சீவன் பாசமாய் இருந்த நிலை சொல்லால் சொல்லப்படும். அஃது அந்நிலையினின்றும் நீங்கிச் சிவமாகிய நிலை) சொல்லால் சொல்ல வாராது, முத்தி பஞ்சக்கரமும் மொழியாய் இராது அனுபவமான ஒளி நிலையாகும். இது முப்பாழும் கடந்த நிலையும், குரு பஞ்சாக்கரத்தை உபதேசித்து, சின்முத்திரையால் அஞ் ஞானத்தைப் போக்கி, மெய்ஞ்ஞானத்தை உணர்த்திய முடிந்த நிலையும் ஆகும்.`,
-    elaborationEnglish: `sro yorepg Cer
-aos uGurgh wii went geo`,
+    elaborationEnglish: `sro yorepg Cer aos uGurgh wii went geo`,
   },
   {
     id: 2485, tantraId: 8, verseNumber: 2484,
@@ -9685,7 +9425,6 @@ And closing Muladhara where She imprisoned is,
 Ascend upward (through Sushumna in Yogic
 
 And open wide the gate above at cranium top.
-
 
 Gourd Garg
 
@@ -9897,11 +9636,7 @@ Attaining True Jnana
 Jiva becomes Para Siva.`,
     elaborationTamil: `'சோயம் தேவதத்தன்' என்பது 'தேவதத்தனாகிய அவனே இவன்' என்பது இதன் பொருள். ஒரு வடமொழி உதாரணம். இதன் விளக்கம் இல்லற நிலையில் அதற்குரிய கோலமும், உடையும், பெயருமுடையவனாய் இருந்த ஒருவன் அவற்றையெல்லாம் விடுத்துத் துறவியாகி, அதற்குரிய கோலம், தண்டு கமண்டலம், வேறு பெயர் ஆகியவற்றைக் கொண்டால், 'அவன்' எனப்பட்ட நிலையில் அவனிடம் இருந்த சேர்க்கைப் பொருள்களையெல்லாம் விடுத்து, அவற்றை உடையவனாய் இருந்த அவனை மட்டுமே கொண்டு, 'இவன்' எனச் சுட்டுதல் போல்வதே 'சீவன் சிவமாகிறது' என்றலும் - என்பது அஃதாவது பசுத்துவத்தால் 'சீவன்' எனப்படுகின்ற உயிர் அப்பசுதுவத்தின் நீங்கித் தூயதாகிய நடுநிலையிலேதான் சிவனைச் சார்ந்து சிவமாகின்றது என்பதாம்.`,
     elaborationEnglish: `Datta is a fictional name used in Vedanta literature.
-Here the name is used to illustrate how the individual remains
-the same, though time and place states may differ. Deva Datta
-was a bachelor in Benares, a householder in Chidambaram,
-and a sannyasin in Madurai — all one and the same person
-in different places.
+Here the name is used to illustrate how the individual remains the same, though time and place states may differ. Deva Datta was a bachelor in Benares, a householder in Chidambaram, and a sannyasin in Madurai — all one and the same person in different places.
 
 gros sriilw
 
@@ -9948,8 +9683,7 @@ Experiencing and sundering the Cause-Caused States (above)
 The Upasanta Void is left behind;
 Then alone is End Finale.`,
     elaborationTamil: `காரிய தத்துவங்களாகிய தூல உடம்பு, தூல பூதம், சூக்கும பூதம், ஞானேந்திரியம், கன்மேந்திரியம், அந்தக்கரணம், பிரகிருதி ஆகிய ஏழினையும் தன்னின் வேறாகக் கண்டு அவற்றின் நீங்கிய நிலை 'மாயப் பாழ்' எனப்படும். அதைக் கடந்து காரண தத்துவங்களாகிய வித்தியா தத்துவம் ஏழினையும் தன்னின் வேறாகக் கண்டு நீங்கிய நிலை 'போதப் பாழ்' எனப்படும். அதைக் கடந்து முன் நீங்கியவற்றின் வாசனை உளதாகிய சுத்த தத்துவங்களையும் வேறாகக் கண்டு கடந்த நிலை 'உபசாந்தம்' எனப்படும் இதனையும் கடந்த நிலையே பந்தம் முழுதும் நீங்கிய வீட்டு நிலையாம்.`,
-    elaborationEnglish: `rut Foust wenger
-gu Puree Que wuun`,
+    elaborationEnglish: `rut Foust wenger gu Puree Que wuun`,
   },
   {
     id: 2497, tantraId: 8, verseNumber: 2496,
@@ -9998,8 +9732,7 @@ And in that Space
 That imagination transcends
 I merge.
 
-giiuib x2» HAW Osrdamibd umentp
-au ugibuglb sremurascr 2517`,
+giiuib x2» HAW Osrdamibd umentp au ugibuglb sremurascr 2517`,
   },
   {
     id: 2499, tantraId: 8, verseNumber: 2498,
@@ -10038,8 +9771,7 @@ Parai to Jiva ("Ya") Her Grace granting,
 Into Paran ("Va" Sakti and "Si" Siva) makes it merge,
 That indeed is "Si Va Ya Na Ma" (the Five-letter mantra).`,
     elaborationTamil: `'மெய்ப் பொருளை அருளாசிரியர் பக்குவம் வாய்ந்தவர்கட்கு உபதேசிக்கும் உபதேச மொழி, 'சிவாய நம' என்னும் மந்திரமே என்பதைச் சைவப் பெருமக்களன்றிப் பிறர் தெளிய மாட்டாராயினும் சைவப் பெருமக்கள் அதனைத் தெளிந்து அதன் உண்மையை ஆராயுமிடத்து, முப்பத்தாறு தத்துவங்களும் தம்மின் வேறாகி நீங்கிய பொழுது அந்த ஐந்தெழுத்தில் பாசத்திற்கு வழியாகிய 'நம' என்பதை நீக்கி, முன்பு நகரத்தின் பொருளாய்த் திரோதானமாய் இருந்த சத்தி வேறுபட்டு அருட்சத்தியாய் வகாரத்தின் பொருளாகி, யகாரத்தின் பொருளாகிய ஆன்மாவை, யகாரம் நீங்கிய இரண் டெழுத்தில் ஈற்றெழுத்தாகிய வகாரம், முதலெழுத்தாகிய சிகாரத்தின் பொருளாகிய உண்மைச் சிவத்தில் பின் என்றும் நீங்காதவாறு சேர்ப்ப தாகவே யன்றோ உணரப்படும்! 'பிறிதாக ஒன்றும் உணரப்படாது' என்பதாம்.`,
-    elaborationEnglish: `Qoob 2 2 Geib 2 orGiwocsrpyid
-unas Garg wate ec
+    elaborationEnglish: `Qoob 2 2 Geib 2 orGiwocsrpyid unas Garg wate ec
 
 Q)dene .Bifidens umpedene`,
   },
@@ -10185,8 +9917,7 @@ Seed of Siddhi is Self, Siva-Para Becoming;
 Seed of Sakti is State of Upasanta.`,
     elaborationTamil: `''பற்றுக பற்றற்றான்; பற்றினை; அப்பற்றைப் பற்றுக பற்று விடற்கு''* 
 என்றபடி, உலகப் பற்றை நீக்குதற்கு வழி சிவப்பற்றைக் கொள்ளுத -லாகும். அப்பற்று உண்டாதற்கு வழி, சிவனைக் குருலிங்க சங்கமங் -களை வழிபட்டு உறுதுணையாகப் பற்றுதலாகும். மனம் புலன்களின் வழி ஓடாது தன் வயப்படுதற்கு வழி யோகசமாதி. முத்திக்கு வழி சிவ ஞானம். அந்த ஞானம் வருதற்கு வழி உயிர் உபசாந்தத்தை அடைதலாம்.`,
-    elaborationEnglish: `srfiuibd gape! wreowysir
-erfu snes anmgencati unmpls`,
+    elaborationEnglish: `srfiuibd gape! wreowysir erfu snes anmgencati unmpls`,
   },
   {
     id: 2508, tantraId: 8, verseNumber: 2507,
@@ -10304,8 +10035,7 @@ That is ambrosial sweet
 Jiva reaches the Shore Beyond
 That indeed defies speech.`,
     elaborationTamil: `பர சிவத்தின் சத்தியாகிய பராசத்தியின் தடத்த நிலை அதன் அபரமும், சொரூபநிலை அதன் பரமும் ஆகும். பெத்தத்தின் நீங்கிய உயிர் முதற்கண் நின்மலாவத்தையிலும், பராவத்தையில் அதீதத்திற்குக் கீழ்ப்பட்ட நான்கு நிலைகளிலும் பராசத்தியின் அபர நிலையைப் பொருந்தியும் அதீதத்தில் அதன் பர நிலையைப் பொருந்தியும் அலையற்றுள்ள கடல்நீர் போல யாதோர் அலைவுமின்றியிருக்கும். எனினும், அபர நிலையில் தேவாமுதத்தைப் பெற்று உண்பவன், அதனைத் தான் பெற்ற அருமை, அதன் சுவை மிகுதி, அதன் பயன் முதலியவற்றை உணர்ந்து நிற்பவன் போலவும், பர நிலையில் அவ்வாறு உணர்தல் இன்றி அந்த அமுதத்தின் சுவையிலே மூழ்கித் தன்னை மறந்து நிற்பவன் போலவும் இருப்பான். இவ்விருவரில் தன்னை மறந்து, உரையுணர்விறந்தவன் நிலையே முடிந்த நிலையாம்.`,
-    elaborationEnglish: `Yenpyt Ags (pusw aiamnet
-seapwesh eum Oanem Lorgew Cures`,
+    elaborationEnglish: `Yenpyt Ags (pusw aiamnet seapwesh eum Oanem Lorgew Cures`,
   },
   {
     id: 2513, tantraId: 8, verseNumber: 2512,
@@ -10437,8 +10167,7 @@ The Pure One who is brighter than gold
 The Great One, in all life, unvarying glows,
 On Him contemplate, in ways appropriate.
 
-Pagid Aipgbd Hives
-earpib Qurgersea 2 engtiuea
+Pagid Aipgbd Hives earpib Qurgersea 2 engtiuea
 Maceanbh yagib Mangsg Dorsags`,
   },
   {
@@ -10696,24 +10425,13 @@ Varuna, Vayu, Kubera, and Isanana
 They (gods) in order according
 Filled the cardinal directions eight.`,
     elaborationTamil: `''அண்ட பிண்டம் அவை சமம்''* *கோயிற் புராணம் - பதஞ்சலி சருக்கம் - 70. என்பது எல்லார்க்கும் ஒப்ப முடிந்தது ஆதலின், இதய கமலம் எட்டிதழ்களை உடையதாகக் கொள்ளப்படுதல் போலவே நில வுலகமும் எட்டிதழ்களையுடைய தாமரை மலர்களும், அவ்விதழ்களில் திசைக் காவலர்கள் இருப்பதாகவும் பாவித்து அவர்களை வழிபடல் வேண்டும் - என்பது வைதிகக் கொள்கை. அவரளவிற்கு அது வேண்டுவதே என்பதை முதற்கண் கூறுகின்றார். இதன் பொருள் வெளிப்படை.`,
-    elaborationEnglish: `“The eight gods of the cardinal points of earth are
-enumerated to indicate that they are all seated within the
-eight-petalled lotus in the cranium—the microcosm in the
-macrocosm.
+    elaborationEnglish: `“The eight gods of the cardinal points of earth are enumerated to indicate that they are all seated within the eight-petalled lotus in the cranium—the microcosm in the macrocosm.
 
-In most of the books dealing with kundalini yoga, the flower
-in sahasrara is usually pictured as a thousand-petalled lotus.
-Hence the name,- sahasrara (thousand petall). Tirumular
-however, visions it as an eight-petalled lotus. The term,
-sahasrara, however, is used in the translation for convenience
-of understanding only. As it is not a centre (chakra or adhara),
-Tirumular only refers to the experiences in the eight-petalled
-lotus of the cranium. The region usually referred to as
-sahasrara is indicated by Tirumular as Mount Meru (in the
+In most of the books dealing with kundalini yoga, the flower in sahasrara is usually pictured as a thousand-petalled lotus.
+Hence the name,- sahasrara (thousand petall). Tirumular however, visions it as an eight-petalled lotus. The term, sahasrara, however, is used in the translation for convenience of understanding only. As it is not a centre (chakra or adhara),
+Tirumular only refers to the experiences in the eight-petalled lotus of the cranium. The region usually referred to as sahasrara is indicated by Tirumular as Mount Meru (in the
 
-For a different presentation of the petals in the adharas
-and for the number of adharas, vide ‘‘The Serpent Power
-by Sir John Woodroffe.
+For a different presentation of the petals in the adharas and for the number of adharas, vide ‘‘The Serpent Power by Sir John Woodroffe.
 
 . Indra—god of the Eastern quarter.
 
@@ -11127,7 +10845,6 @@ Those who these perceive not
 Are in Karma's wheel forever caught.`,
     elaborationTamil: `அநாதியே பற்றிய மலத்தால் அறியாமையை யுடையதாய் நிற்கின்ற உயிர்களின் அறிவு அவ்வறியாமை நீங்கித் தெளிவடைதற் பொருட்டுத் தெளிவிற்கு வித்தாக, தம்முள் மாறுபட்ட நரகலோக சுவர்க்க லோகங்களிலும் பூலோகத்திலும் வினைக்கீடாகச் சென்று பிறக்கும் பிறப்புக்களையும் சிவன் உயிர்கட்கு அமைத்திருக் -கின்றான். அங்ஙனம் அமைத்தது அருள் காரணமாகவேயாம். அதனை வன்கண்மையாக நினைக்கும் தங்கள் நினைப்பை விட்டு, அருளாகத் தெளியமாட்டாதார் தெளிதற்கு வாயிலான மானுடப் பிறப்பைப் பெற்றதும் வினையின் விளைவேயாம்.`,
     elaborationEnglish: `
-
 -Goal of Siddhanta Philosophy
 
 In the nine states of experience
@@ -11189,9 +10906,7 @@ Such indeed is Lord's greatness.`,
 Of this was hesitant to speak;
 Such indeed is Lord’s greatness.
 
-Giflenwujks sHerwupi pergyid
-wrug pore
-srs suggit. 2547
+Giflenwujks sHerwupi pergyid wrug pore srs suggit. 2547
 Away From Karmas
 
 The Karmas,
@@ -11320,8 +11035,7 @@ Then shall they find,
 
 The human birth itself is unclean.
 
-They who know the yogic do not feel that human
-birth is unclean.`,
+They who know the yogic do not feel that human birth is unclean.`,
   },
   {
     id: 2553, tantraId: 8, verseNumber: 2552,
@@ -11424,8 +11138,7 @@ In dark stupor lie.`,
     elaborationEnglish: `Caught in whirl of misery,
 In dark’ stupor lie.
 
-wegsg Menor gieergnit
-al Cicrgyid Causupbd`,
+wegsg Menor gieergnit al Cicrgyid Causupbd`,
   },
   {
     id: 2558, tantraId: 8, verseNumber: 2557,
@@ -11472,8 +11185,7 @@ In search of food they run.`,
 With horse’s speed,
 In search of food they run.
 
-entpub Cubs Hiartscr
-enjac ules`,
+entpub Cubs Hiartscr enjac ules`,
   },
   {
     id: 2560, tantraId: 8, verseNumber: 2559,
@@ -11571,6 +11283,7 @@ They see it not;
 Fools are they;
 They roam about,
 Only evil destiny action to reach.`,
+    elaborationTamil: `தாமரைத் தண்டின் நூல்போல் அறிவுடையார் முன் எளிதில் அற்றுப்போகின்ற நூல்களால், உண்மை நூல்களின் வழிச் செல்வாரைத் தடுக்கின்றவர்கள் தாங்கள் மேல்நிலையை அடைய விரும்பி, அதற்கு மாறான வழிகளில் சென்று அலைவார்கள் அவர்களது செயல்கள், தெரிய வேண்டிய வழியைத் தெரிந்தவர் காட்டினாலும் அதனைக் கண் கொண்டு பாராத குருடர்கள் தாங்கள் அறிந்ததே வழியாகக் கொண்டு துன்பம் தரும் வழிகளில் திரியும் செயல் போன்றனவேயாம்.`,
     elaborationEnglish: `397
 
 Fools are they;
@@ -11669,32 +11382,20 @@ Transcends grammatical conventions all.`,
 'ஆன்மா, மேல், கீழ், நடு உலகங்களில் பிறந்தும், இறந்தும் உழலும்' என்றால், ஆன்மா உண்மையில் வியாபகப் பொருள் ஆகையால், அதற்குப் போக்கு வரவு இல்லையாதலின், ஆன்மாவை விட்டு, 'அதன் சூக்கும, பரசரீரங்களே அவ்வாறு உழல்வன' எனக் கொள்கின்றோம். ஆகவே இது விட்ட இலக்கணை. 
 இனி, 'ஆன்மாச் சகலத்திற் கேவலம், சகலம், சுத்தம் என்னும் அவத்தைகளை அடைகின்றது' என்றால், அவ்வவத்தைகளில் உணர்வு வேறுபடுவது ஆன்மாவே ஆகையாலும், அதன் கருவிகளின் கூடுதல் பிரிதல்கள் என்பவற்றாலும், சீவ கரணங்கள் சிவ கரணங்களாய் வேறுபடுதலாலுமே அவத்தைகள் நிகழ்தலாலும் ஆன்மாவை விடாமலே அதன் கருவிகளின் கூடுதல் குறைதல் -களையே கொள்கின்றோம். அதனால் இது விடாத இலக்கணையாம். 
 இனி, 'ஆன்மா புறத்தே உள்ள ஓசையைக் கேட்கின்றது, உருவத்தைக் காண்கின்றது' என்றால், கேட்டல் காண்டல்களைத் தான் நேரே செய்யாது, செவியும், கண்ணுமாகிய பொறிகளே அவற்றைச் செய்கின்றன என்றும், ஆயினும் அப்பொறிகள் அச்செயல்களைச் செய்யுமாறு ஆன்மா அவற்றை அதிட்டித்து (வாயிலாகப் பற்றி ஏவி) நிற்கின்றது என்றும் கொள்கின்றோம். இதனால், இது விட்டும் விடாத இலக்கணையாம்.`,
-    elaborationEnglish: `a) The use of the word in its secondary sense, its primary
-sense having been lost--Tamil, vitta-ilakkanai.
+    elaborationEnglish: `a) The use of the word in its secondary sense, its primary sense having been lost--Tamil, vitta-ilakkanai.
 
-b) The use of the word in which the primary sense is retained
-along with its secondary sense-—Tamil vidatha-ilakkanai.
+b) The use of the word in which the primary sense is retained along with its secondary sense-—Tamil vidatha-ilakkanai.
 ce) The use of the word in which the primary sense is partly
 
 discarded and partly
 
-retained—Tamil, vittum
-vidatha-ilakkanai. ;
+retained—Tamil, vittum vidatha-ilakkanai. ;
 
-The theory of lakshana is important in all Indian philosophical
-in trying to discuss the nature of the Ultimate Reality,
-which is beyond expression. The Vedantins employ this widely
-in trying to explain expressions like tattvamasi, aham
-brahmasmi, etc.—vide ‘‘Indian Theories of Meaning,’’~ by
+The theory of lakshana is important in all Indian philosophical in trying to discuss the nature of the Ultimate Reality, which is beyond expression. The Vedantins employ this widely in trying to explain expressions like tattvamasi, aham brahmasmi, etc.—vide ‘‘Indian Theories of Meaning,’’~ by
 Dr.K. Kunjunni Raja, pp.249-255
 
-When jiva reaches the Space, the state that ensues is one
-of total. effacement of all attributes. Upasanta is thc state
-of non-attachment and attachment yet. Jiva reaching Nadanta
-is the state of renunciation and non-renunciation at once.
-Transcending the grammatical conventions of
-lakshanatrayam—that is the same jiva being in different places
-with different experiences—is the state of jiva in Final
+When jiva reaches the Space, the state that ensues is one of total. effacement of all attributes. Upasanta is thc state of non-attachment and attachment yet. Jiva reaching Nadanta is the state of renunciation and non-renunciation at once.
+Transcending the grammatical conventions of lakshanatrayam—that is the same jiva being in different places with different experiences—is the state of jiva in Final
 
 MAD Nens provi Gaui g9 car`,
   },
@@ -11718,15 +11419,11 @@ Will behold the Radiant Light
 Beaming unto gems several in splendor set.`,
     elaborationTamil: `[இம்மந்திரம் ஒட்டணியாய் நின்றது.]
 வில்லினிடத்து விசையைத் தருகின்ற நாணை ஏற்றி, அதன்கண் அம்பைப்பூட்டி தொலைவில் உள்ள இலக்கை எய்ய வல்லார் அங்ஙனம் எய்வாராயின் அந்த இலக்கிற்குக் குறுக்கே நிற்கின்ற கொலையானைகள் ஐந்தும் அந்த அம்பாலே வீழ்ந்துவிடும். (அம்பு இலக்கைச் சென்று அடையும்.) இனி அவ்வாறு எய்யும் ஒருவன் தனக்கு வாய்ப்பான இடத்தில் இருந்து கொண்டு எய்யும் பொழுது அச்சாதனையால் இனியதோர் ஒளி மாணிக்கக்கலன் போல் வெளிப்பட்டு விளங்கும்.`,
-    elaborationEnglish: `— Jiva vanquished the five deadly elephants in one shot. He
-who has shot thus will see the radiant light beaming like gems
-in diverse colors.
+    elaborationEnglish: `— Jiva vanquished the five deadly elephants in one shot. He who has shot thus will see the radiant light beaming like gems in diverse colors.
 
 399
 
-The reference is to the yogic practice of coursing the kundalini
-energy through the sushumna and ascending the adharas up
-to the cranium, where God is visioned.
+The reference is to the yogic practice of coursing the kundalini energy through the sushumna and ascending the adharas up to the cranium, where God is visioned.
 
 -36. ars Aud`,
   },
@@ -11769,8 +11466,7 @@ Ultimate is the blessed State
 Of Tvam-Tat-Asi that is
 Tat-Tvam-Asi.`,
     elaborationTamil: `(சகலாவத்தையில் தொம்பதப்பொருளாய் நின்ற தத்துவ வன்ன ரூபியான ஆன்மாச்) சுத்தாவத்தையில் தத்துவம் அனைத் தினின்றும் நீங்கித் தூயதாய்த் தொம்பதப் பொருளாய் நிற்கும். தத்பதப் பொருளாகிய, எல்லாப் பொருட்கும் முடிவாய் உள்ள சொரூப சிவம் எப் பொழுதுமே பரதுரியத்தில் உள்ளது. அதனை அத்துரியத்தில் அடைந்த ஆன்மா அவ்வாறு குருவருளால் அசுத்தத்தின் நீங்கிச் சுத்தத்தை எய்தி, சிவமாய் நிற்கும் பேற்றினையளிக்கின்ற, 'தொம் தத்தசி' என்னும் பதத்தின் பொருளே 'தத்துவமசி' மகாவாக்கியத்தின் பொருளாகும்.`,
-    elaborationEnglish: `Au usGerws Sores
-srAw at @ Irrg alwsanoags`,
+    elaborationEnglish: `Au usGerws Sores srAw at @ Irrg alwsanoags`,
   },
   {
     id: 2571, tantraId: 8, verseNumber: 2570,
@@ -12269,8 +11965,7 @@ Expanding, unintermittent
 This the fate of universe,
 Inevitable it is.
 
-wruso Ger 2
-agimmcr scrurc cumpsgiop cup.
+wruso Ger 2 agimmcr scrurc cumpsgiop cup.
 
 86
 
@@ -12371,11 +12066,9 @@ In the rare state beyond Siva Turiya
 Is Supreme Siva
 That engrosses worlds all.`,
     elaborationTamil: `'சீவ அவத்தை, சிவ அவத்தை, பர அவத்தை' என மேற்கூறிய மூன்று அவத்தைகளிலும் அரியனவாம் துரிய நிலையில் சிவபெருமான் அனைத்துலகங்களையும், அவற்றில் வாழும் உயிர் -களையும் அவற்றது முன்னை இழிநிலை மாறி, உயர்நிலையாகும்படி விழுங்கிவிடுவான்.`,
-    elaborationEnglish: `“The shell remains intact, while the inside is eaten
-out without a trace.
+    elaborationEnglish: `“The shell remains intact, while the inside is eaten out without a trace.
 
-ASSP Bew ugmugen
-upibuger gerehh or`,
+ASSP Bew ugmugen upibuger gerehh or`,
   },
   {
     id: 2595, tantraId: 8, verseNumber: 2594,
@@ -12990,8 +12683,7 @@ One wih the Lord.`,
     elaborationEnglish: `And then cooling him,
 
 ‘Again consign him to fresh birth;
-Thus in the’ whirl of creation ‘endless they them
-ordain words;
+Thus in the’ whirl of creation ‘endless they them ordain words;
 
 He severed my desires
 
@@ -13303,14 +12995,12 @@ Seeks the Rich Fruit (that is Siva);
 When within the heart that Fruit it seeks,
 Lighting the Sushumna lamp
 
-cermisch Ceyw Lipenc In the Flaming Fire of Kundalini within,
-comsefi Goy uypsqb Gurg It reaches its great goal;
+cermisch Ceyw Lipenc In the Flaming Fire of Kundalini within, comsefi Goy uypsqb Gurg It reaches its great goal;
 samsch wiih cisaers Capp) Its four cognitive organs,
 
 43, Gergen
 
-Quiborer Gulerus Goursé mim mes
-m1 Gornid spur ASST`,
+Quiborer Gulerus Goursé mim mes m1 Gornid spur ASST`,
   },
   {
     id: 2635, tantraId: 8, verseNumber: 2634,
@@ -13644,7 +13334,6 @@ He, the Tatpara, entered.`,
 Tantra Eight Concluded
 
 409
-
 
 1. 6G sieorbd
 
