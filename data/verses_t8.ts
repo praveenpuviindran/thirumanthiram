@@ -21,7 +21,7 @@ When the Thief (Jiva)
 The body bag leaves,
 The Maya bag
 Unto dust becomes.`,
-    elaborationEnglish: `$55 UME CHU TFEHSD`,
+    elaborationEnglish: `$55 UME CHU`,
   },
   {
     id: 2124, tantraId: 8, verseNumber: 2123,
@@ -96,7 +96,7 @@ Who knows this body
 Of Tattvas six and ten and eight!
 Who knows that
 He is its Yeoman Guard!`,
-    elaborationEnglish: `LYorared MBNUSOsL LTS Lyowr T&A GET`,
+    elaborationEnglish: ``,
   },
   {
     id: 2128, tantraId: 8, verseNumber: 2127,
@@ -117,7 +117,7 @@ He conjoins Tattvas twenty and four
 In love divine;
 Thus this body He fashions,
 That has four more to speak of.`,
-    elaborationEnglish: `SL EOSrp Horm semsagy sry`,
+    elaborationEnglish: `SL Horm semsagy sry`,
   },
   {
     id: 2129, tantraId: 8, verseNumber: 2128,
@@ -151,11 +151,11 @@ and the Tattvas’’ are left behind (verse 2165). Jiva stands
 in experience as AVASTA; It has FIVE experiences, namely,
 Jagrat, Swapna, Sushupti, Turiya and Turiyatita. (The Sth is
 not known (in Vedanta), but is peculiar to Sakta Religion (see
-= a Woodroffe, *‘Mahamaya’’. They all merge in Para
+= a Woodroffe, They all merge in Para
 
-Geshu eparpnigs ASOacr NGLBOU
+Geshu eparpnigs
 
-ANH Snosc UPOent Qe gay. Gu`,
+ANH Snosc Qe gay. Gu`,
   },
   {
     id: 2130, tantraId: 8, verseNumber: 2129,
@@ -178,8 +178,7 @@ life.
 
 1) Five external senses, three internal organs, and ten vayus.
 
-Quminieh Gsabd OuTGsgId 2 Lencvuyt
-oauleicd gicvoNum sTL_ Od 2 enauuyel
+Quminieh 2 Lencvuyt
 
 Bodies — Gross, Subtle and Causal Merge In Para
 
@@ -232,8 +231,8 @@ The Jiva, too, traverses near and far;
 As unto those who doff one garment
 And another
 The Jiva, too, from one to the other body moves.`,
-    elaborationEnglish: `BTS UpLeyh Gurgygd osm
-brs Borah STH SVVSs`,
+    elaborationEnglish: `UpLeyh Gurgygd osm
+brs Borah STH`,
   },
   {
     id: 2133, tantraId: 8, verseNumber: 2132,
@@ -279,14 +278,14 @@ Thus entangled in cycle of birth and death.`,
     elaborationEnglish: `After experiencing heaven and hell, jiva leaves the subtle body
 and continues its birth course with the causal body. Like the
 yogi that transmigrates, the causal body enters another body,
-and is.thus caught in the cycle of births and deaths.
+and is.thus caught in the of births and deaths.
 
-sro emu sous s1m&\\Goanesr
-Bao wonrpps usos Fo1r_HHOHwW
+sro emu sous
+Bao wonrpps usos
 
 — ‘aplicenae oe
 
-geancr wutadencrs Osis, Hi eHQecrpyd`,
+geancr wutadencrs Osis, Hi`,
   },
   {
     id: 2135, tantraId: 8, verseNumber: 2134,
@@ -348,7 +347,7 @@ Anava (Egoity) is the (Dhanu) ground of Vijnanis
 Maya is the ground of Pralayakalas
 Karma is the ground of Sakalas
 Siva is the ground of Jnanis True.`,
-    elaborationEnglish: `SVOnen Cun SISSOW Hosmer`,
+    elaborationEnglish: `Cun SISSOW Hosmer`,
   },
   {
     id: 2138, tantraId: 8, verseNumber: 2137,
@@ -373,7 +372,7 @@ In their body tenacious`,
 
 In their body tenacious
 
-Ave Osalsss5 wr wersonsuyid`,
+Ave wr wersonsuyid`,
   },
   {
     id: 2139, tantraId: 8, verseNumber: 2138,
@@ -393,7 +392,7 @@ The Pure One gently sports;
 Those who are
 Of evil ears, speech, and mind
 Emaciated they live, their faces in hunger drawn.`,
-    elaborationEnglish: `SMewcarid Ogres Oeormhu £55 pio`,
+    elaborationEnglish: `Ogres Oeormhu £55 pio`,
   },
   {
     id: 2140, tantraId: 8, verseNumber: 2139,
@@ -420,7 +419,7 @@ remains behind.
 
 span srac Ogsmact send
 
-Onorpaep aurée wpyHerm grin`,
+Onorpaep aurée grin`,
   },
   {
     id: 2141, tantraId: 8, verseNumber: 2140,
@@ -440,15 +439,14 @@ Fasts and gifts;
 Nothing left, for dying flesh to lean on.`,
     elaborationEnglish: `Fasts and gifts;
 
-Nothing left, for dying flesh’ to lean on.
+Nothing left, for flesh’ to lean on.
 
 Qeoowr Heuer crupherm srw
 
-Yoovurw OQsGFSS EYPSGb 2055/5
 
-Smowrw Heri wv suas HAuwy 6
+Smowrw Heri wv suas 6
 
-Aomounru AS565 Aauper ofen_éGa, 2141
+Aomounru Aauper 2141
 The Pure Will Reach God
 
 The heart that lusts after
@@ -514,7 +512,7 @@ caused state has the five experiences: jagra (waking); svapna
 and turiyatita (beyond turiya). Tirumular does not refer to
 turiyatita in this context.
 
-aus) wrew pw wsorss`,
+aus) wrew pw`,
   },
   {
     id: 2144, tantraId: 8, verseNumber: 2143,
@@ -560,7 +558,7 @@ And Purusha, the Experient Jiva,
 Are again and again entangled`,
     elaborationEnglish: `Are again and again entangled
 
-In the cycle of life’s awareness.`,
+In the of life’s awareness.`,
   },
   {
     id: 2146, tantraId: 8, verseNumber: 2145,
@@ -595,9 +593,7 @@ are concealed within the body. The organs of avastas are in
 all ninety-six, including the three malas, three gunas, six
 adharas, and thirty-six tattvas.
 
-et
-
-g5b ur Fel HGS Yypplenw`,
+et`,
   },
   {
     id: 2147, tantraId: 8, verseNumber: 2146,
@@ -617,9 +613,8 @@ Gunas three, and Adharas six;
 Together with Tattvas thirty and six,
 The organs of Avastas
 Are six and ninety, in all.`,
-    elaborationEnglish: `Qrasms Gerad QGusseh stems
-
-u@uz Geenenuyid unwuh gpg`,
+    elaborationEnglish: `
+Geenenuyid unwuh`,
   },
   {
     id: 2148, tantraId: 8, verseNumber: 2147,
@@ -664,8 +659,8 @@ Potencies (tanmatras) — Intelligence organs 4
 
 Atman — I
 
-QLibsywd 2 ibyib 21 bous spat
-erie perm 2Weng siwrir`,
+2 ibyib 21 bous spat
+erie perm siwrir`,
   },
   {
     id: 2149, tantraId: 8, verseNumber: 2148,
@@ -799,9 +794,7 @@ This was not of yore there, before creation began
 Before the Virgin Sakti (Spirit), the Virgin Maya (Matter) loved.`,
     elaborationEnglish: `Out of the five elements — space, wind, fire, water and earth
 - are born the five senses: sound, touch, sight smell and
-taste.
-
-Dsort_or HISIGW_EGHQuGs 2 cmrbador`,
+taste.`,
   },
   {
     id: 2154, tantraId: 8, verseNumber: 2153,
@@ -849,9 +842,9 @@ And aided by the memory
 Of earthly life here below,
 He (Jiva) in the Throat-Center,
 Dreams visioned.`,
-    elaborationEnglish: `gros iphg sohys AZwWSSI
-Aor Mie wraucs aus 5spor
-Goo wipig sapsaw s7Gw.
+    elaborationEnglish: `gros iphg sohys
+Aor Mie wraucs aus
+Goo wipig sapsaw
 
 Deep Sleep in Heart-Centre
 
@@ -880,7 +873,7 @@ sentience of self enters in, and stands one with the subtle
 object. ;
 
 .
-Kypocious Gaihgior aperpitot s#m_&)
+Gaihgior aperpitot s#m_&)
 Asupiu Ass Doreacipnsr #11)
 
 Tattvas in Deep Sleep
@@ -1029,10 +1022,10 @@ Are by Karma alike struck.`,
     elaborationEnglish: `Are by Karma alike struck.
 All souls (sakalas) contaminated by the five primordial
 
-impurities, and caught in the cycle of recurring birth and
+impurities, and caught in the of recurring birth and
 death, can experience these five states of consciousness. _
 
-LST SMESH OTA FI yO Lomenwujl`,
+SMESH OTA FI yO Lomenwujl`,
   },
   {
     id: 2162, tantraId: 8, verseNumber: 2161,
@@ -1064,9 +1057,7 @@ They direct’ attain Mukti.
 
 Maya feeds jiva with avasta experiences and by Gods’ Grace,
 jiva attains mukti. Jnanis contemplating in jnana attain mukti
-directly.
-
-Qsure CGsaia WSHne, Oecrm`,
+directly.`,
   },
   {
     id: 2163, tantraId: 8, verseNumber: 2162,
@@ -1090,13 +1081,13 @@ He the Five States (Avastas) experiences,
 Until he becomes Para Supreme.`,
     elaborationEnglish: `Egoity (anava) gives rise to consciousness and jiva pursues
 
-_diverse actions. -Thus passing out from the primordial state
+actions. -Thus passing out from the primordial state
 
 of jiva’s sleep’-(kevala state), he experiences the five states
 until he becomes the Supreme Para.
 
-seroniper GerguNcd Lorem cused
-Gserw somined crapliyes OewerGure`,
+seroniper Lorem cused
+somined crapliyes`,
   },
   {
     id: 2164, tantraId: 8, verseNumber: 2163,
@@ -1140,7 +1131,7 @@ Ends as an empty pot."`,
     elaborationEnglish: `“That from clouds aloft streams forth
 Ends as an empty pot.”
 
-Life after death still!continues. They who say that after death
+Life after death They who say that after death
 nothing remains, may even say that the heavenly Ganga
 Mandakini, which streams from the clouds, ends as an empty
 pot.
@@ -1177,7 +1168,7 @@ Gor wasens fob sausengulesr
 
 Gores cungiciesfl 6G) poalesflev
 
-Goon .upggi_er Aougs HsSsGw- 2166
+Goon Aougs 2166
 
 Be. Freed of Malas to Reach God
 
@@ -1197,10 +1188,9 @@ Then shall you with Para direct,
 
 Forever and ever be. ~
 
-: 4.058wu srdéRgTAges
 MID-JAGRAT -AVASTA
 
-sréAg Oenciucns gsoreflen comomenu`,
+sréAg Oenciucns comomenu`,
   },
   {
     id: 2167, tantraId: 8, verseNumber: 2166,
@@ -1250,8 +1240,7 @@ herself as tirodhayi (obscuring sakti) mamaya (impure maya
 sakti that gives differentiated knowledge), kamya (sakti that
 gives self-delusion), and finally pure maya (sakti that lends grace)
 in this avasta.
-Gsw Doran auss gihusgs
-Csrues Hlpmor somrport ap gicroxfl`,
+Doran auss gihusgs`,
   },
   {
     id: 2169, tantraId: 8, verseNumber: 2168,
@@ -1335,7 +1324,7 @@ With them in my body I abide;
 --Thus in endearment I sought Him;
 And by the Grace He granted,
 Redeemed am I.`,
-    elaborationEnglish: `BIOT Hil HYG opps gupta`,
+    elaborationEnglish: `BIOT Hil opps gupta`,
   },
   {
     id: 2173, tantraId: 8, verseNumber: 2172,
@@ -1366,7 +1355,7 @@ Thus are Tattvas five and twenty;
 Differently reckoned as five and twenty,
 And with Purusha
 
-And the Void (Vyoma) which is not Para,
+And the Void which is not Para,
 And Para,
 
 Are Tattvas as eight and twenty reckoned,
@@ -1376,7 +1365,7 @@ The Vedanta school count the tattvas differently as
 twenty-eight. That reckoning includes purusa and the Void,
 which is not Para.
 
-srenQsres Lire, sresrgy wir. 2173 -
+Lire, sresrgy wir. 2173 -
 
 Practise Yoga
 
@@ -1437,9 +1426,9 @@ mind. The body becomes good and holy. The ‘Kingly Nandi
 of tender love aids us.to see all. He guides and witnesses
 all.
 
-Aacr mao Hip sa Poes#
+Aacr mao Hip sa
 
-sroacer Gurbp®) sTL_Y SIS Sosrl ason`,
+sroacer Gurbp®) SIS Sosrl ason`,
   },
   {
     id: 2176, tantraId: 8, verseNumber: 2175,
@@ -1460,7 +1449,7 @@ The Kingly Nandi makes us see all
 And Himself, witnesses all;
 All things appropriate He does;
 He, of tender love.`,
-    elaborationEnglish: `Owouwss NGuroip Goaws gs Mwups`,
+    elaborationEnglish: ``,
   },
   {
     id: 2177, tantraId: 8, verseNumber: 2176,
@@ -1482,8 +1471,7 @@ The undifferentiated Void
 And the Turiyatita above
 --Thus it is as eight and twenty, too
 The Tattvas reckoned are.`,
-    elaborationEnglish: `TANTRA EIGHT : . 341
-
+    elaborationEnglish: `
 —Thus it is as eight and twenty, too
 The Tattvas reckoned are.
 
@@ -1534,7 +1522,7 @@ Then cessation there shall be for Prana's movement;
 It in the ninety-six (Tattvas) subsides;
 The ninety-six in turn
 In Tattvas five and twenty merge.`,
-    elaborationEnglish: `BAD DsregyTGot Lop Ourgsetomut`,
+    elaborationEnglish: `BAD Lop Ourgsetomut`,
   },
   {
     id: 2180, tantraId: 8, verseNumber: 2179,
@@ -1600,9 +1588,9 @@ In the waking state mala creates the five experiences. In union
 with God, jiva is disentangled from these five states and from
 the unreal tattvas.
 
-sréGgy sraOo wih soflovgopgid
+wih soflovgopgid
 
-GuréA WeunGnor@w Gundiwrer cunprpy`,
+GuréA Gundiwrer cunprpy`,
   },
   {
     id: 2183, tantraId: 8, verseNumber: 2182,
@@ -1622,7 +1610,7 @@ Disentangling from these states five,
 And from Tattvas unreal, thirty and six,
 In the holy way Jiva stood,
 And one with Him union attained.`,
-    elaborationEnglish: `Boru wr wnoswgs suGorgis /
+    elaborationEnglish: `Boru wr suGorgis /
 
 aor umBeper Sars Doiron`,
   },
@@ -1659,7 +1647,7 @@ Two for Mahesa
 Anava and Karma;
 One alone for Sadasiva—Anava.
 
-Ssgiubh Borg somogy CaypGary.`,
+Borg somogy`,
   },
   {
     id: 2185, tantraId: 8, verseNumber: 2184,
@@ -1680,9 +1668,9 @@ Eighty and one are the Padas Primal,
 Five, the Kalas rare.`,
     elaborationEnglish: `Mantram, padam, varnam, bhuvanam, kalas ‘and tattvas —
 these constitute the six adhvas or the higher paths.
-BTW Wem epag SUBS AS
+Wem epag SUBS AS
 
-aOaT ays GMa Gudscrp :`,
+ays Gudscrp :`,
   },
   {
     id: 2186, tantraId: 8, verseNumber: 2185,
@@ -1747,7 +1735,7 @@ the Agamic view of Tattvas, Turiyas, including the Sth namely
 Turiyatita acquisition of Knowledge, and the final merging
 with Siva.
 
-Agios gouwpgiid Mpgiaer 5H`,
+Agios gouwpgiid 5H`,
   },
   {
     id: 2188, tantraId: 8, verseNumber: 2187,
@@ -1771,9 +1759,8 @@ States, and thus permeates tattvas.
 
 Boral 9385 Onpsnt Gi psnt
 
-pre gfurd Hapoart saypssnt
+pre Hapoart
 
-BUI F4psH BL BST cuentpsrt
 
 Progression of the States of Consciousness
 
@@ -1853,7 +1840,7 @@ The acts of kriya lead to Siva tattva; and of yoga, to divine
 Grace and Knowledge. Charya bestows benediction; and in
 jnana the entire cosmic creation is comprehended.
 
-Gurgh saosre HwGwr wreow`,
+Gurgh saosre wreow`,
   },
   {
     id: 2191, tantraId: 8, verseNumber: 2190,
@@ -1884,9 +1871,9 @@ sadakya tattvas, bodha, kalas, time (kala), niyati (order) and
 mamaya (impure maya) are the evolutes of Paraparam, and
 must be ascended by the jiva.
 
-Ligaen algongs HwS wanionenw
+Ligaen algongs wanionenw
 
-BAY YGLTH mororal prGp. ~- 2191
+BAY mororal prGp. ~- 2191
 
 Jiva Ascends These evolutes to Reach Paraparam
 
@@ -1908,7 +1895,7 @@ sphere is also referred to as misra (mixed) or pure/impure
 maya. These seven tattvas are known as vidya tattvas and
 should not be confused with the suddha (pure) vidya tattvas
 in the pure maya (or Siva tattva) sphere. These seven are:
-Mmamaya; and (vii)purusha.
+and (vii)purusha.
 
 These 12 tattvas (S plus 7) are above the 24 prakriti or
 atma tattvas. Of these, seven belong to the lower strata (vidya
@@ -1969,7 +1956,7 @@ His guiding staff shows,
 
 The cows will not their Master leave.
 
-A Ganct nahos mHwrenw wonoils`,
+A Ganct nahos wonoils`,
   },
   {
     id: 2194, tantraId: 8, verseNumber: 2193,
@@ -2079,10 +2066,9 @@ and turiyatita-sushupti. In turiyatita-sushupti state the self
 experiences the Self, and in turiyatita-jagrat-state maya still
 lingers; but turiyatita has no dream state.
 
-Bord gous FSO Horrpoar
+Bord gous Horrpoar
 
-amr peat w1G soaréscar
-Gaiprer @6gib alt_Ga ponralesficd`,
+amr peat soaréscar`,
   },
   {
     id: 2198, tantraId: 8, verseNumber: 2197,
@@ -2115,9 +2101,7 @@ Where Maya alone functions.
 When six tattvas out of the twenty-five in the waking state
 within-waking state leave, that is dream state-in-waking. In
 sushupti-in-waking state, five more tattvas leave, and maya
-functions.
-
-Lorene US YGLor gHNwsHov`,
+functions.`,
   },
   {
     id: 2199, tantraId: 8, verseNumber: 2198,
@@ -2138,7 +2122,7 @@ Then no more the body its uses has.`,
     elaborationEnglish: `In turiyd state maya too leaves, and jiva merges in primordial
 bindu. Then the body will be of no use.
 
-— 855 Siu wsemrp YApsTd \\`,
+— 855 Siu \\`,
   },
   {
     id: 2200, tantraId: 8, verseNumber: 2199,
@@ -2170,7 +2154,7 @@ In the turiyatita states the soul is the knower. Passing that
 state, jiva merges into “‘luminous turiya’’ (Siva turiya) that
 is the. ultimate state.
 
-Quriscort. pour YGLT a pencsudas`,
+Quriscort. pour a pencsudas`,
   },
   {
     id: 2201, tantraId: 8, verseNumber: 2200,
@@ -2249,9 +2233,8 @@ are left behind in the eyebrow centre, and the rest of the
 3)In the deep sleep state (sushupti), chitta, prana, and jiva
 stand in the heart centre—op.cit.
 
-yfuc. tsGw OQungisd morcy
 
-yfuc tLesbscrcier aperm soray`,
+aperm soray`,
   },
   {
     id: 2202, tantraId: 8, verseNumber: 2201,
@@ -2288,7 +2271,7 @@ egoity—vide Mantra 2123 supra.
 3)Intellect and egoity.
 
 Boralen parcy Lovely cuypsard
-BUH sora Honcorsscd wysse0`,
+BUH sora Honcorsscd`,
   },
   {
     id: 2203, tantraId: 8, verseNumber: 2202,
@@ -2334,9 +2317,7 @@ Is Turiya in Dream State.
 
 The four inner states of the dream state are jagrat in-dream
 state, dream-in-dream state, sushupti-in-dream state and
-turiya-in-dream state.
-
-FSH sorS“ancins Gsrermrenw Gsroimev`,
+turiya-in-dream state.`,
   },
   {
     id: 2204, tantraId: 8, verseNumber: 2203,
@@ -2384,8 +2365,8 @@ to vision and not vision at all; dream-in-sushupti is to know
 it as dream; sushupti-in-sushupti is to have the knowledge
 of it. The inexplicable void is turiya-in-susuhpti.
 
-gimu peranr Dspert Gurss
-gus scan wsgpert Gurgs
+gimu peranr Gurss
+gus scan Gurgs
 gifws saps Gums gus`,
   },
   {
@@ -2412,7 +2393,7 @@ turiya-in-turiya — God-consciousness external,
 God-consciousness internal, consciousness of Void and vision
 of Param — these belong to the four substates in turiya.
 
-ADou) wire went ws sear
+wire went ws sear
 
 anup wee) wren «ips`,
   },
@@ -2484,7 +2465,7 @@ To the Suddha Maya belong;
 He who that Turiya-in-Turiya State attains
 Master, indeed, Becomes.
 
-Osc OMGS UH gd IDFGHCwon`,
+Osc OMGS UH gd`,
   },
   {
     id: 2210, tantraId: 8, verseNumber: 2209,
@@ -2542,7 +2523,7 @@ And to primordial Pasas five,
 Conjoined Tattvas thirty and six
 And fashioned the body organs too,
 --That your Malas sundered be.`,
-    elaborationEnglish: `sréGor 856 gMwsDH preps
+    elaborationEnglish: `sréGor 856 preps
 
 sréAgr $5590 Boma groans`,
   },
@@ -2594,7 +2575,7 @@ Was Param obscured;
 He who is freed
 Of Mala-Contamination
 Is verily the Enlightened One.`,
-    elaborationEnglish: `Aasséhcimn Afponsuyct Amsmsct aperpy`,
+    elaborationEnglish: `Afponsuyct aperpy`,
   },
   {
     id: 2215, tantraId: 8, verseNumber: 2214,
@@ -2616,10 +2597,8 @@ Are the elephants five (taste, sight, touch, sound,
 smell)
 These the foes (internal and external)
 Of the contending mind.`,
-    elaborationEnglish: `S50! UPA OS somsenu Curses
-Asp HpHBOG Aimsouw SG
-
-AMSn ULNiperembd Ououianup Porprd`,
+    elaborationEnglish: `UPA OS somsenu Curses
+Asp Aimsouw SG`,
   },
   {
     id: 2216, tantraId: 8, verseNumber: 2215,
@@ -2642,9 +2621,9 @@ The mighty Lord of your soul.`,
 the three — these eight distract you from God. Give up
 distractions and take to the true way.
 
-‘“Pemmoucr sener Hapgil wssonruws
+‘“Pemmoucr sener Hapgil
 
-smuss Coy. soosrme GorrG®)`,
+smuss Coy. soosrme`,
   },
   {
     id: 2217, tantraId: 8, verseNumber: 2216,
@@ -2738,8 +2717,8 @@ moon and fire within. He is immanent in me. The Lord is
 also the lotus that blooms in the cranium with its stem, deep
 in my heart. He is the One whom I pine for.
 GuTsm wrg youer Letafes
-bTsD wraeos perp wwe
-GasD wreesrib Hermencr cribilenm`,
+wraeos perp
+wreesrib Hermencr cribilenm`,
   },
   {
     id: 2221, tantraId: 8, verseNumber: 2220,
@@ -2759,8 +2738,7 @@ Their mother (Sakti) unrecognising;
 Beyond Vedas stood He my Lord;
 They who knew the Mystic Way (of Yoga)
 Reached to Him inside their very head.`,
-    elaborationEnglish: `QurGss Ps Coney mus prys
-Boqs505 CoorlG Csout Ygnencr`,
+    elaborationEnglish: `Ps Coney mus prys`,
   },
   {
     id: 2222, tantraId: 8, verseNumber: 2221,
@@ -2780,9 +2758,9 @@ Distinct I saw Him,
 He, the Lord of Celestials all;
 Intense I sought Him,
 And He in my thoughts unfailing stood.`,
-    elaborationEnglish: `arer aNors@Qanoh wreps srgorgs
+    elaborationEnglish: `arer wreps srgorgs
 
-Gsonct wAHuwcar wHGasercsr Or Mu Gow 2222
+Or Mu Gow 2222
 
 Kundalini Yoga Experience
 
@@ -2841,7 +2819,7 @@ At a junction
 
 Where the Five, in control, meet.
 
-ADTs apn sioner sHouresr`,
+apn sioner sHouresr`,
   },
   {
     id: 2225, tantraId: 8, verseNumber: 2224,
@@ -2864,7 +2842,7 @@ The Jiva the Five Avastas knows not;
 He, Lord, makes him know
 To none beknown;
 Who indeed does Him know?`,
-    elaborationEnglish: `ANuct Flor weet ounrH
+    elaborationEnglish: `Flor weet
 Qumuer sre wg miMutd`,
   },
   {
@@ -2887,9 +2865,8 @@ Great, great, by far
 Is the Timeless Para Turiya;
 Transcending it is Turiyatita;
 Rarer even far that State is.`,
-    elaborationEnglish: `brawn Gegorer wor UGH)Gwres
-brawler wing basen Lonenwwr
-Gsals wnGs ssown Guiresflujer`,
+    elaborationEnglish: `brawn Gegorer wor
+brawler wing basen Lonenwwr`,
   },
   {
     id: 2227, tantraId: 8, verseNumber: 2226,
@@ -2910,14 +2887,10 @@ To be born again and again
 As diverse life forms,
 Is the State--Sakala;
 In Para Turiya is Siva State.`,
-    elaborationEnglish: `7. Gaal F5Q) HSE
-
+    elaborationEnglish: `
 KEVALA, SAKALA, SUDDHA
 
-sane upasser mpGsa @v GST DT BY Ld
-Borer wpphicim Gus savaytd
-
-weichu F555 SFR FSS oH`,
+Borer Gus savaytd`,
   },
   {
     id: 2228, tantraId: 8, verseNumber: 2227,
@@ -2961,7 +2934,7 @@ Himself his Karmas
 He experiences;
 Himself unto himself
 His master be.`,
-    elaborationEnglish: `Ssripult wrew au x9Hoymmis`,
+    elaborationEnglish: ``,
   },
   {
     id: 2230, tantraId: 8, verseNumber: 2229,
@@ -2985,8 +2958,8 @@ In Pasa it full enters;
 That the State of Sakala is.`,
     elaborationEnglish: `T7
 
-FE Bussum snigGant seovr
-Ysgy Weep aensyid resmisGsnt`,
+FE Bussum seovr
+Weep aensyid`,
   },
   {
     id: 2231, tantraId: 8, verseNumber: 2230,
@@ -3019,7 +2992,7 @@ all the three malas — anava, karma and maya
 
 srw wrenuule smu Ogerw
 
-Goalw whim gitwuriis @sitorer
+Goalw whim gitwuriis
 ev Qossomrt gormiu Faosrtor`,
   },
   {
@@ -3039,7 +3012,7 @@ Of comeliness eternal are they;
 The Srikanta
 And the eight and hundred Rudras;
 --(These the Pralayakalas are.)`,
-    elaborationEnglish: `RAM Gsawogsg snows gsrers`,
+    elaborationEnglish: ``,
   },
   {
     id: 2233, tantraId: 8, verseNumber: 2232,
@@ -3059,8 +3032,8 @@ The eight Vidyesvaras beginning with Ananta
 The (Maha) Mantraresvaras that seven crore number,
 --(These the Vijnanakalas are.)`,
     elaborationEnglish: `Boa Ape emoger Qunp)Gennt
-Gurbes sore Yysipalss srsibaNr -
-Gurow wrnh Qur@msed chermas`,
+Gurbes sore -
+Gurow wrnh chermas`,
   },
   {
     id: 2234, tantraId: 8, verseNumber: 2233,
@@ -3080,9 +3053,9 @@ Transcending the states of Bindu (light) and Nada (sound)
 As Aum (Pranava) they become;
 And in Siva Pure they merge;
 That verily is the Suddha (Pure) State (Avasta).`,
-    elaborationEnglish: `Gsh SNeoaGs acuwrenw Gahéons
+    elaborationEnglish: `acuwrenw Gahéons
 
-erfu orwcno s17Gw sestlitienal`,
+erfu orwcno sestlitienal`,
   },
   {
     id: 2235, tantraId: 8, verseNumber: 2234,
@@ -3109,9 +3082,7 @@ evolved are in kevala-sakala by the power of bindu; some
 even more evolved are in kevala-suddha, and the furthest
 evolved, having totally merged in Siva are in Arul-kevala
 state. Albeit, gripped by mayaic desire, they are freed
-by the Grace of God and with that they sever the malas.
-
-Ouidwres soreg wnwiGeuch gsorepi_ys`,
+by the Grace of God and with that they sever the malas.`,
   },
   {
     id: 2236, tantraId: 8, verseNumber: 2235,
@@ -3132,7 +3103,7 @@ And pervading all Creation
 He enters the Void true;
 This the Suddha State,
 That of himself the Jiva reaches.`,
-    elaborationEnglish: `Ho uscdurgH wire Blesenca`,
+    elaborationEnglish: `Ho wire Blesenca`,
   },
   {
     id: 2237, tantraId: 8, verseNumber: 2236,
@@ -3153,7 +3124,7 @@ And consigns to Sakala State;
 Thence,
 Freed from unceasing whirl of birth
 The Jiva, Suddha State reaches.`,
-    elaborationEnglish: `Aerunre gus Hom Gu wpeayns`,
+    elaborationEnglish: `Aerunre gus Hom Gu`,
   },
   {
     id: 2238, tantraId: 8, verseNumber: 2237,
@@ -3172,7 +3143,7 @@ When it reachs Turiya
 Receives knowledge of Tatpara,
 --Who beyond States, Kevala and Suddha, exists--
 Thus realizing the Self within.`,
-    elaborationEnglish: `Sous DSrOAGd gornwtaled sco Tajip`,
+    elaborationEnglish: `Sous gornwtaled sco Tajip`,
   },
   {
     id: 2239, tantraId: 8, verseNumber: 2238,
@@ -3210,10 +3181,7 @@ tattva (nada). This is the process of the graded involution
 of the tattvas into the ultimate Siva. The reverse order of
 this is the devolution of the tattvas.
 
-Qoupg wremoraie .Gpr 1 H&G
-OQnuiscar Guoeraperm CuajGQuui Gurasha
-
-osscrl FSS) Foiurss Csaroor`,
+Qoupg wremoraie 1 H&G`,
   },
   {
     id: 2240, tantraId: 8, verseNumber: 2239,
@@ -3237,7 +3205,7 @@ Into Tattvas four and seven.`,
 soul—purusa.
 the Siva tattvas.
 3) Eleven tattvas — six vidya tattvas plus the five Siva tattvas.
-The Saiva Siddhanta system of philosophy postulates
+The Saiva Siddhanta of philosophy postulates
 ‘thirty-six tattvas. Of these, twenty-five (including jiva) belong
 to the body (atma tattvas), six to higher knowledge (vidya
 tattvas); and five to the spirit (Siva tattvas). At the time of
@@ -3250,9 +3218,9 @@ Siva tattvas, the important three, namely suddha vidya
 Siva, it is not considered as a separate category. Thus the
 tattvas are enumerated in the verse as twenty-eight in all.
 
-Horus sioner nMuts Cason
+Horus sioner Cason
 
-Guew§u worcowts OSoerur sournen`,
+Guew§u worcowts sournen`,
   },
   {
     id: 2241, tantraId: 8, verseNumber: 2240,
@@ -3272,9 +3240,9 @@ In addition;
 They see with form unseen;
 The Sakalas are Souls
 In all three Malas steeped.`,
-    elaborationEnglish: `UYU WIG Meher sUGEGU
+    elaborationEnglish: `UYU WIG Meher
 
-Guesfiu wrew Oorur sugeGs
+Guesfiu wrew Oorur
 
 MoT wirenuujm sor aperp/Gro`,
   },
@@ -3294,9 +3262,7 @@ The Pralayakalas have Maya too;
 Anava, Maya, and Karma
 --All three the Sakalas have
 These their Malas are.`,
-    elaborationEnglish: `Cans gorchh HertssaNG; EHrscvr
-
-AUD Cavs FFF5 VSMHWLD`,
+    elaborationEnglish: ``,
   },
   {
     id: 2243, tantraId: 8, verseNumber: 2242,
@@ -3317,9 +3283,9 @@ Become activated as Sakalas within Kevala;
 And so attain the truth of Mamaya
 Who the power of Mantra holds.`,
     elaborationEnglish: `brewuder weigiib Operwr sourcpsi
-breawuys CGsrenr amshns acaTal
+breawuys amshns
 
-brw F5esss sifu wwmlorenuw`,
+brw sifu`,
   },
   {
     id: 2244, tantraId: 8, verseNumber: 2243,
@@ -3337,7 +3303,7 @@ Yet that Maya affects them not;
 They stand with Anava;
 With Mamaya's (Asuddha) Kamya desires that Sakalas possess;
 They verily are the Rudras One Hundred and Eight.`,
-    elaborationEnglish: `Onuidemouied Cust alnie S155s`,
+    elaborationEnglish: `Onuidemouied Cust alnie`,
   },
   {
     id: 2245, tantraId: 8, verseNumber: 2244,
@@ -3379,8 +3345,8 @@ Having thus rid them entire,
 They become Suddhas ever.`,
     elaborationEnglish: `351
 
-Huth ssom sorh DoaugsrE
-Osrpunh yess Crores sréh75`,
+Huth sorh
+Osrpunh yess Crores`,
   },
   {
     id: 2247, tantraId: 8, verseNumber: 2246,
@@ -3406,7 +3372,7 @@ Then is Suddha (Kevala) Jagra Mukti;
 Still beyond,
 The Soul Itself within Itself stands
 Then is Suddha-within-Suddha-Mukti State.`,
-    elaborationEnglish: `wach wsser soTsn® Gegrost`,
+    elaborationEnglish: `wach soTsn® Gegrost`,
   },
   {
     id: 2248, tantraId: 8, verseNumber: 2247,
@@ -3427,9 +3393,9 @@ Actionless,
 Incapable of daily experiences,
 By Malas deceitful infused,
 --Thus is Jiva in Kevala-Mukti State.`,
-    elaborationEnglish: `AMPS wrenuuid Guo Hleoouuyes
+    elaborationEnglish: `AMPS wrenuuid Guo
 
-MigaNer Ouoiwiere;ror Cuoayd gor`,
+Ouoiwiere;ror Cuoayd gor`,
   },
   {
     id: 2249, tantraId: 8, verseNumber: 2248,
@@ -3450,7 +3416,7 @@ In Bindu they attain Divine Knowledge;
 Thus are the Pralayakalas of this world;
 Albeit Sakalas,
 They are Suddhas here below.`,
-    elaborationEnglish: `Csaw wrBilh Gugm ArséGHD
+    elaborationEnglish: `wrBilh Gugm ArséGHD
 
 Bauder pag wuhsess apr Ga`,
   },
@@ -3474,9 +3440,9 @@ Sakala-Kevala, Sakala-Sakala, and Sakala-Suddha,
 Suddha-Kevala, Suddha-Sakala, and Suddha-Suddha
 --Thus are the combinations nine in all
 For those in depth see.`,
-    elaborationEnglish: `CGsaiws SHFe onmiser aus Sour
+    elaborationEnglish: `onmiser aus Sour
 
-Csans Abas5m Canad, Gravis`,
+Canad, Gravis`,
   },
   {
     id: 2251, tantraId: 8, verseNumber: 2250,
@@ -3513,11 +3479,7 @@ All these in the state of Sakala occur.`,
 sakala-sakala and sakala-suddha. Sakala-kevala is the state
 of jagrat-atita; sakala-sakala is jagrat-in-jagrat. Sakala~suddha
 is the state of Tat-Para (Self-Illumined). These subdivisions
-are of the suddha-sakala state of the jiva.
-
-F5SSDD Goarwg Danedgyu srpswres
-
-G55 FEVH FIMw alors EF`,
+are of the suddha-sakala state of the jiva.`,
   },
   {
     id: 2253, tantraId: 8, verseNumber: 2252,
@@ -3578,8 +3540,8 @@ But sure it confers Upasantha
 That by Para caused;
 Will Jiva, thereafter,
 Ever look at Malas and Gunas?`,
-    elaborationEnglish: `MSS HWSDuyd Cusys siMuap~e
-G35 UBS Csretprwh prepiesptd`,
+    elaborationEnglish: `Cusys siMuap~e
+UBS prepiesptd`,
   },
   {
     id: 2256, tantraId: 8, verseNumber: 2255,
@@ -3599,7 +3561,7 @@ By Lord's Grace they come;
 And when that knowledge by Grace dawns,
 Neither thought nor action
 The Jiva any more has.`,
-    elaborationEnglish: `agTwgLb Ter GCoralonor wri_Gior`,
+    elaborationEnglish: ``,
   },
   {
     id: 2257, tantraId: 8, verseNumber: 2256,
@@ -3674,9 +3636,9 @@ state.-Tirodhayi sakti (obscuration) joins in the waking state
 and activates the gross body. Thus are the five malas attached
 to the jiva in the sakala state.
 
-Bom wigb wASsGuer comenuuyid
-Les gues eepsHDOuruis srwd
-Guepim soncyid writen #Gorgsnud`,
+Bom wigb comenuuyid
+Les gues srwd
+Guepim soncyid writen`,
   },
   {
     id: 2260, tantraId: 8, verseNumber: 2259,
@@ -3735,7 +3697,7 @@ In Sushupti Karma Mala comes in;
 In Dream State Mamaya (Asuddha) envelops,
 In Waking State comes Tirodayi, that obfuscates
 Thus the Jiva in Sakala State stands.`,
-    elaborationEnglish: `agué Oewounis ¢550Q muha`,
+    elaborationEnglish: `agué Oewounis muha`,
   },
   {
     id: 2262, tantraId: 8, verseNumber: 2261,
@@ -3756,7 +3718,7 @@ They get attached to Karmas
 They abide in Tanmatras
 Thus are they born
 --These Jivas in Sakala State.`,
-    elaborationEnglish: `GGMeans Oar Ge s§Dyr ay`,
+    elaborationEnglish: ``,
   },
   {
     id: 2263, tantraId: 8, verseNumber: 2262,
@@ -3795,10 +3757,10 @@ They reach the State of Suddha
 
 That no birth thereafter gives.
 
-Ao! wimMHer genus sosoos Gur
-eor 0$5s gus Da Oeniisci
+Ao! genus sosoos Gur
+eor gus Da Oeniisci
 
-Gunter seigu Gumbis srFgsgI`,
+Gunter seigu Gumbis`,
   },
   {
     id: 2264, tantraId: 8, verseNumber: 2263,
@@ -3863,7 +3825,7 @@ Speech and thought cease to be.`,
 
 Speech and thought cease to be.
 
-HUY Morgyh Msvsg) Goraungr`,
+HUY Morgyh Goraungr`,
   },
   {
     id: 2267, tantraId: 8, verseNumber: 2266,
@@ -3885,7 +3847,7 @@ Sakti (Water) and Siva (Fire), there.`,
     elaborationEnglish: `That way are the mingled
 Sakti (Water) and Siva (Fire), there.
 
-Qupiiot Heosuepsrnim ser ssrh CuBs`,
+Qupiiot Heosuepsrnim ser CuBs`,
   },
   {
     id: 2268, tantraId: 8, verseNumber: 2267,
@@ -3947,9 +3909,8 @@ And journeying the states of Kevala, and Sakala
 Final reaches the Suddha State.`,
     elaborationEnglish: `PARA-AVASTA
 
-AGH S55 Horrh upsOswieu
 
-Opens srw Hive MmciIed
+Opens srw Hive
 
 NED ot gut Cun UMSHL`,
   },
@@ -3994,9 +3955,7 @@ When Jiva these Saktis receive,
 Then it reposes integral in the Divine.`,
     elaborationEnglish: `Sakti in Maya is Kriya Sakti; ; |
 When Jiva these Saktis receive,
-Then it reposes integral in the Divine.
-
-Bors suuTrv HPourw Houre_Cs`,
+Then it reposes integral in the Divine.`,
   },
   {
     id: 2272, tantraId: 8, verseNumber: 2271,
@@ -4020,7 +3979,7 @@ Only to them, is He the Divine Bliss;
 He the Hara
 That is beyond the Tattvas,
 Six times six.`,
-    elaborationEnglish: `AGI pIAgm 5-555 Gouyseu`,
+    elaborationEnglish: `AGI 5-555 Gouyseu`,
   },
   {
     id: 2273, tantraId: 8, verseNumber: 2272,
@@ -4079,9 +4038,9 @@ Turiya-Jagrat, Turiya Svapna, Turiya Sushupti, and Turiya-Turiya
 In that Para Turiya State the Jiva is Para;
 In the Turiya State still beyond, (Para-Turiya-atita)
 Jiva becomes Siva.`,
-    elaborationEnglish: `ugwrb. x$5CGw upp upp
+    elaborationEnglish: `ugwrb. upp upp
 
-ugunib w$5b ue ules`,
+ugunib ue ules`,
   },
   {
     id: 2275, tantraId: 8, verseNumber: 2274,
@@ -4121,9 +4080,9 @@ When you are freed from it,
 Your knowledge becomes purified;
 It is transmuted into Sivananda
 And becomes a protective roof over you.`,
-    elaborationEnglish: `gue unuie Q@qssHAF Foascnoss
+    elaborationEnglish: `gue unuie Foascnoss
 
-Bihar Guns gs9w prsrs`,
+Bihar Guns prsrs`,
   },
   {
     id: 2277, tantraId: 8, verseNumber: 2276,
@@ -4183,7 +4142,7 @@ Albeit in that Turiya State
 Maya will still be.
 (The Soul should further ascend to the Turiyatita
 State.)`,
-    elaborationEnglish: `Samer wHPSLdD pa sosrcurrsre`,
+    elaborationEnglish: `Samer pa sosrcurrsre`,
   },
   {
     id: 2280, tantraId: 8, verseNumber: 2279,
@@ -4214,10 +4173,8 @@ And unite in Lord,
 
 Pervasive and Pure.
 
-SGogb unAw srw gwd
 
-Qoauge semet MnuXn yor
-GGagb Qupmat gmauyw Werener`,
+Qoauge semet yor`,
   },
   {
     id: 2281, tantraId: 8, verseNumber: 2280,
@@ -4236,8 +4193,8 @@ These subject to birth and death are;
 When on them Grace of Holy Guru descends,
 Two there is none,
 Jiva in Siva unites one.`,
-    elaborationEnglish: `Aspaner gNwugsH cures poseytd
-ADIUME MNKs ote Komoyid`,
+    elaborationEnglish: `Aspaner cures poseytd
+ADIUME ote Komoyid`,
   },
   {
     id: 2282, tantraId: 8, verseNumber: 2281,
@@ -4256,7 +4213,7 @@ Jagra, Svapna, Sushupti states within,
 Perseveres further,
 Then he enters Para Turiya;
 There verily Jiva becomes Para.`,
-    elaborationEnglish: `Miss upper. soraQuwe e159`,
+    elaborationEnglish: ``,
   },
   {
     id: 2283, tantraId: 8, verseNumber: 2282,
@@ -4275,7 +4232,7 @@ That engrosses the universe entire;
 Then is Para Turiya Sushupti State
 Where Upasantha (Peace beyond understanding) is;
 That transcending, Jiva reaches Siva Turiya State.`,
-    elaborationEnglish: `Anwmit senajes Apes apSB`,
+    elaborationEnglish: `Anwmit senajes Apes`,
   },
   {
     id: 2284, tantraId: 8, verseNumber: 2283,
@@ -4298,9 +4255,8 @@ That transcending, Jiva reaches Siva Turiya State.`,
 
 Sac gifuw (psenssé Foren
 
-Au Houcsrgl wrpgsb WMuUusZsn5us
 
-Gsreayid LOT E® * user on & Grr nou) Gus`,
+LOT E® * user on & Grr nou) Gus`,
   },
   {
     id: 2285, tantraId: 8, verseNumber: 2284,
@@ -4326,7 +4282,7 @@ All eleven States thus ensured.`,
 
 vii)Para turiya jagrat
 
-viii)Para turiya svapna
+turiya svapna
 
 ix)Para tyriya sushupti
 
@@ -4352,7 +4308,7 @@ Thus are states ascending;
 From Para Siva Jagra, to Para Siva Svapna, and to Para Siva Sushupti
 The Jiva that has Para Siva become reaches
 The Finite Truth that is Para Nandi.`,
-    elaborationEnglish: `urenins Oguer syfuw ous`,
+    elaborationEnglish: `urenins Oguer ous`,
   },
   {
     id: 2287, tantraId: 8, verseNumber: 2286,
@@ -4418,7 +4374,7 @@ When my ego awareness ended,
 Then I knew my Self;
 And bliss am I.`,
     elaborationEnglish: `Qurcsicncr wenssgl Quncrencsf 141 osrtd
-Qurcieiier wonnssg) Ounctoncsfl 141 cvrld`,
+Qurcieiier wonnssg) Ounctoncsfl 141`,
   },
   {
     id: 2290, tantraId: 8, verseNumber: 2289,
@@ -4467,9 +4423,8 @@ Think of Param,
 
 Thought-of elements recedes.
 
-Aor nscrgy Boat 1 Hour&)
 
-Font user Qoannm sHuTer`,
+Font user Qoannm`,
   },
   {
     id: 2292, tantraId: 8, verseNumber: 2291,
@@ -4522,7 +4477,7 @@ In Para Turiya-Turiya State.`,
 
 4.Para turiya turiya—Paramam
 
-SHG Favs Boop YAupge`,
+SHG Favs Boop`,
   },
   {
     id: 2294, tantraId: 8, verseNumber: 2293,
@@ -4542,9 +4497,7 @@ That in intensity experiencing,
 The Para Avasta (Supreme Experience) of Nandi is attained;
 Then, as before light darkness flees;
 The Five Malas for ever vanish.`,
-    elaborationEnglish: `QOuss WE OU uGHuyd wrenwuyd
-Qurwiscitt  wriotew sreyd LYChL_cresosr
-OQiuyed euguwirus croupponds yormrG`,
+    elaborationEnglish: `Qurwiscitt wriotew sreyd`,
   },
   {
     id: 2295, tantraId: 8, verseNumber: 2294,
@@ -4591,7 +4544,7 @@ Sakala avasta — impure maya sphere (atma tattvas) Para
 avasta — pure/impure maya sphere (vidya tattvas) Suddha
 avasta — pure maya sphere (Siva tattvas).
 
-HII MGW LITUp pes Gorwiupib
+HII pes Gorwiupib
 
 Bante enets Hen srs gnGer.
 
@@ -4625,9 +4578,7 @@ He,
 Of
 
 the Lordly Guru, the Natha,
-Divine Jnana.
-
-9. PEGou HisGeawd`,
+Divine Jnana.`,
   },
   {
     id: 2296, tantraId: 8, verseNumber: 2295,
@@ -4666,10 +4617,9 @@ Rajas in Dream State,
 Tamas in Deep Sleep State,
 Nirguna, that other three Gunas destroys,
 Is attribute of Turiya State Pure.`,
-    elaborationEnglish: `10. gjeatn® Gugib
-
-TMS oot womcdsor UTS
-Ose hud ocr woreots Csourt otGon.
+    elaborationEnglish: `
+oot womcdsor UTS
+Ose hud ocr woreots otGon.
 
 Cosmic Space is God’s Seat of Throne
 
@@ -4689,8 +4639,8 @@ That dazzles
 They form His Seat of Throne
 —For Him, the Lord of Celestials.
 
-AMS SSG orn sosHorGow
-Goefleas sre Murgssuplr ussrmmws`,
+AMS orn
+Goefleas sre Murgssuplr`,
   },
   {
     id: 2298, tantraId: 8, verseNumber: 2297,
@@ -4737,9 +4687,7 @@ Himself beyond Tattvas' end.`,
     elaborationEnglish: `Thirty-six the Tattvas He pervades; Are eight times by far-as numerous
 Nay, As universes in spaces Vast,
 
-The Tattvas He pervades Himself beyond Tattvas’ end.
-
-YeAGora srgGur Opreruncr UB Oerregr A ov`,
+The Tattvas He pervades Himself beyond Tattvas’ end.`,
   },
   {
     id: 2300, tantraId: 8, verseNumber: 2299,
@@ -4760,7 +4708,7 @@ Illumined the Jiva standeth;
 Abiding there He the (Divine) Body, attains;
 Listen damsel that is red-mouthed as parrot!
 --These the attainments of the Higher States (of Jiva) are.`,
-    elaborationEnglish: `awguGur crpid 91855 sifu`,
+    elaborationEnglish: `crpid 91855 sifu`,
   },
   {
     id: 2301, tantraId: 8, verseNumber: 2300,
@@ -4788,9 +4736,8 @@ state none lingers. Nandi alone is there and jiva will have
 attained the jnana-body. So meditate in order that you surely
 reach that immutable goal.
 
-SIL_Ob uP@“errcrnH Maoh FTG ov
 
-ALL EGO wig ugiaNS) Guplenesr`,
+ALL EGO wig Guplenesr`,
   },
   {
     id: 2302, tantraId: 8, verseNumber: 2301,
@@ -4809,10 +4756,9 @@ There is none but Nandi;
 That Being Immutable
 Contemplate in order;
 Sure believe, you can the Goal reach.`,
-    elaborationEnglish: `12. KHNq, Gena
-
-Gaaiws sorohi srs sagHon
-Cwayes Dawa; aD cuG eas gu
+    elaborationEnglish: `
+Gaaiws sorohi srs
+Dawa; aD cuG eas gu
 
 Litas smorsaroir ot epompsid UL tounn`,
   },
@@ -4836,7 +4782,7 @@ Released from there,
 It realizes the Self;
 When it transcends all the states three,
 It enters the Jagratatita State;`,
-    elaborationEnglish: `Audayid sora al@iiler Oheugeionw
+    elaborationEnglish: `Audayid sora Oheugeionw
 Osragqyd sorae, Deqsgiler Abogsoow`,
   },
   {
@@ -4907,8 +4853,8 @@ And into Higher States enter,
 Will never death see;
 Thoughts none other will they have
 Except be of God.`,
-    elaborationEnglish: `AorotGar mhs canufercr srosgy
-MOTTA Ld QB) Vencvwired gonw HHI ld`,
+    elaborationEnglish: `canufercr srosgy
+MOTTA Ld QB) Vencvwired gonw ld`,
   },
   {
     id: 2307, tantraId: 8, verseNumber: 2306,
@@ -4930,9 +4876,7 @@ None the Tattvas five times five be.`,
     elaborationEnglish: `The Jiva indeed is the Son of Hara;
 For, without Jiva,
 
-None the Tattvas five times five be.
-
-UWDSG Cssencr ubpme gfws`,
+None the Tattvas five times five be.`,
   },
   {
     id: 2308, tantraId: 8, verseNumber: 2307,
@@ -4974,8 +4918,8 @@ To Tattvas six times six;
 Divine Knowledge (Bodha)
 It will attain;
 And so reach Siva-State.`,
-    elaborationEnglish: `STWGS GLY seamed wseoammeytd
-TWGS SIT Qnss giusgs`,
+    elaborationEnglish: `STWGS GLY seamed
+TWGS SIT giusgs`,
   },
   {
     id: 2310, tantraId: 8, verseNumber: 2309,
@@ -5022,9 +4966,7 @@ Then shall you the very Para be.`,
 
 You shall reach the Atita State
 Bereft of Malas;
-Then shall you the very Para be.
-
-ASS F55055 Somrns sunPOsus`,
+Then shall you the very Para be.`,
   },
   {
     id: 2312, tantraId: 8, verseNumber: 2311,
@@ -5087,7 +5029,7 @@ Enter hell, heaven and earth
 And stand sore troubled;
 --All these away vanished
 When Grace does descend.`,
-    elaborationEnglish: `iter Gemupth ugrsmwr ays Buyed`,
+    elaborationEnglish: `iter Gemupth ays Buyed`,
   },
   {
     id: 2315, tantraId: 8, verseNumber: 2314,
@@ -5151,7 +5093,7 @@ Drives the darkness within;
 For him
 It is easy
 To ascend the Heavenly Home (Siva Loka).`,
-    elaborationEnglish: `ABiyw seo sonsrsHorpM ouruoys`,
+    elaborationEnglish: `seo ouruoys`,
   },
   {
     id: 2318, tantraId: 8, verseNumber: 2317,
@@ -5205,11 +5147,11 @@ Insight into the past results from true knowledge.
 Self-Knowledge is true knowledge. The rest is but false and
 demented.
 
-Arwen NGgess Noancbs LOT GSS
+Arwen Noancbs LOT
 
-Aswoh Nguunt AuGurss Coen
+Aswoh AuGurss Coen
 
-Oewon Agdunt OsssQarQe gator`,
+Oewon Agdunt gator`,
   },
   {
     id: 2320, tantraId: 8, verseNumber: 2319,
@@ -5250,7 +5192,7 @@ Their body (as Divine Light)
 Will in Siva's World be;
 They in Siva unite
 Devoid of blemishes eight.`,
-    elaborationEnglish: `Ogsranownr x76. Corer +5`,
+    elaborationEnglish: `Ogsranownr Corer +5`,
   },
   {
     id: 2322, tantraId: 8, verseNumber: 2321,
@@ -5314,8 +5256,8 @@ I know not;
 Thus blessed Nandi;
 Then I knew
 That I am the Knower.`,
-    elaborationEnglish: `Src cInBu Chrorgs Senvaiones
-Fealet Gieis House FF5Honu`,
+    elaborationEnglish: `Src Chrorgs Senvaiones
+Fealet Gieis House`,
   },
   {
     id: 2325, tantraId: 8, verseNumber: 2324,
@@ -5337,7 +5279,7 @@ And She, Sakti-Grace
 Of Jnana Pure,
 She, the Immaculate
 --Them I saw in this fleshly body.`,
-    elaborationEnglish: `amy Qa@@exbd uesgyid vienguysir`,
+    elaborationEnglish: `amy uesgyid vienguysir`,
   },
   {
     id: 2326, tantraId: 8, verseNumber: 2325,
@@ -5581,7 +5523,7 @@ That is the Real, Unreal and Real-Unreal;
 Beyond, beyond speech is He;
 Hasten and realize,
 He will be the Life of your life.`,
-    elaborationEnglish: `2uIMFnsr wy ig wigym conor`,
+    elaborationEnglish: `wy ig wigym conor`,
   },
   {
     id: 2337, tantraId: 8, verseNumber: 2336,
@@ -5602,9 +5544,9 @@ As She who infuses desires into Jiva
 Is within,
 Do you scorch your worldly desires,
 And attain the State Exalted.`,
-    elaborationEnglish: `GeGe Hoawrcmnt wbweps Sipser
+    elaborationEnglish: `GeGe Sipser
 
-eOrraD) arent wedge 2 Hmpar`,
+arent wedge 2`,
   },
   {
     id: 2338, tantraId: 8, verseNumber: 2337,
@@ -5649,8 +5591,8 @@ By forces of world desires
 Behave that way;
 --All these they do
 Are acts of Lord's Grace.`,
-    elaborationEnglish: `So5scer Merat Pogo eapss
-Qossor MetArt HDoant surésp
+    elaborationEnglish: `Merat Pogo eapss
+Qossor surésp
 Hopsar Mont OePnws mG`,
   },
   {
@@ -5682,7 +5624,7 @@ Depart from all things unworthy;
 
 And so Siva become.
 
-ape Aaypo s9Hhwer saiwar .
+ape Aaypo saiwar .
 aupe Aaywwo sant sHeurt`,
   },
   {
@@ -5707,8 +5649,7 @@ When both these they know,
 By His Grace,
 They shall of His Grace know;
 Both these are.`,
-    elaborationEnglish: `AGonres «59 wereGetbentn Gurevts
-urges caragsrer Gurgsib yosrtd`,
+    elaborationEnglish: `urges caragsrer Gurgsib yosrtd`,
   },
   {
     id: 2342, tantraId: 8, verseNumber: 2341,
@@ -5735,9 +5676,7 @@ light (Revealing Grace). As darkness She pervades the three
 malas. Then by the light of Grace She liberates the jiva and
 aids him to become Siva — the Nandi that is Pure Truth.
 
-; BOsser Ceram agwug .wonBaci
-
-BDSscr MeTEH ora Gaeti_ydu`,
+; Ceram agwug`,
   },
   {
     id: 2343, tantraId: 8, verseNumber: 2342,
@@ -5770,7 +5709,7 @@ The yogi then beholds in this fleshy body Jnana Siva—the
 beginning of celestials and the peerless gem-light that shines
 effulgent — and the immaculate jnana sakti of Grace too.
 
-Gurgb yoontGurgib Gurgupib prgsupb`,
+Gurgb Gurgupib prgsupb`,
   },
   {
     id: 2344, tantraId: 8, verseNumber: 2343,
@@ -5795,8 +5734,7 @@ All these come by Grace of the Holy One.`,
 
 All these come by Grace of the Holy: One.
 
-urdu ysa@sres cm gt venus
-youe mr gsrp Gurgib ynssaor`,
+urdu cm gt venus`,
   },
   {
     id: 2345, tantraId: 8, verseNumber: 2344,
@@ -5818,7 +5756,7 @@ And consigning it to life and worldly ways,
 Infuses the Light of Jnana
 And finally plants it (Jiva) in Life of Grace;
 All, all, the work of Grace.`,
-    elaborationEnglish: `ForA wiray Bury soleus`,
+    elaborationEnglish: `wiray Bury soleus`,
   },
   {
     id: 2346, tantraId: 8, verseNumber: 2345,
@@ -5846,9 +5784,9 @@ And Siva became.`,
 He doubt-free Jnana attained
 And Siva became.
 
-Serim shu Dgay Cousas
+Serim shu Cousas
 
-Soria Floughror wnolencrs siGorHs`,
+Soria Floughror`,
   },
   {
     id: 2347, tantraId: 8, verseNumber: 2346,
@@ -5868,7 +5806,7 @@ Then by way appropriate journeying,
 He rouses the mighty steed of Sivajnana
 And mounting it passes beyond,
 And so reaching Siva Himself.`,
-    elaborationEnglish: `aribsonr srgcat sar sunQwir`,
+    elaborationEnglish: `aribsonr srgcat sar`,
   },
   {
     id: 2348, tantraId: 8, verseNumber: 2347,
@@ -5886,7 +5824,7 @@ Are the Charanars, Siddhas, and Samadhi Yogis
 The Jnanis who in God-Truth stood,
 The Anandas who in love adored,
 And Nathas--all, blessed of Grace Divine.`,
-    elaborationEnglish: `Sr@erar mai Glesrest Boost Qt cirvsrt SSRIS`,
+    elaborationEnglish: `mai Glesrest Boost Qt cirvsrt`,
   },
   {
     id: 2349, tantraId: 8, verseNumber: 2348,
@@ -5926,9 +5864,8 @@ That is Self within,
 Will seek forth Siva in the Self;
 They who do not reach Siva in the Self,
 Will reach Siva never.`,
-    elaborationEnglish: `OpManpGu@“sern Gpiutt Merenet
-
-Qos m8 Qwhmasd sured`,
+    elaborationEnglish: `
+Qos m8 sured`,
   },
   {
     id: 2351, tantraId: 8, verseNumber: 2350,
@@ -5971,9 +5908,7 @@ So too is Lord to Jiva.`,
 Lord is the One pervading all His creations. The eyes behold
 diverse objects; but the objects do not see the eyes. So too
 is Siva for jiva. God is immanent and omnipresent; yet jiva
-does not see Him.
-
-QbyFicr mrad Gsonpyid 2 orplesrgy`,
+does not see Him.`,
   },
   {
     id: 2353, tantraId: 8, verseNumber: 2352,
@@ -6050,8 +5985,8 @@ Is it body or soul
 That joys in the bliss?
 The men who think they know all,
 Know not why they are born, and why they die.`,
-    elaborationEnglish: `sciecr wupws gseraQarG Gay.cdenw
-sormer wmuyib sPou Abs ICH-`,
+    elaborationEnglish: `sciecr wupws
+sormer sPou Abs ICH-`,
   },
   {
     id: 2356, tantraId: 8, verseNumber: 2355,
@@ -6091,9 +6026,7 @@ And the Lady of tresses exuberant,
 With bangles of conch-shell
 And anklets resounding
 Sang "Hail My Lord."`,
-    elaborationEnglish: `apa uy Qeaucr pPwrg stcrenca
-
-spa ayQauc pgard P5385`,
+    elaborationEnglish: `apa uy Qeaucr stcrenca`,
   },
   {
     id: 2358, tantraId: 8, verseNumber: 2357,
@@ -6137,7 +6070,7 @@ ej7
 h;
 Jnana has ground none but Jnana;
 It is Jnana tha`,
-    elaborationEnglish: `By woner sowot sorGwGa
+    elaborationEnglish: `By woner sowot
 
 gu ae Aouronps wr&) Gu`,
   },
@@ -6160,8 +6093,8 @@ When jnana of Self
 In it merged
 Jiva united in Siva
 And as one remained.`,
-    elaborationEnglish: `oarohher pronsr Ghomip Cgc (pSUVasgyILd
-Ourcrofas srGerrityspHAG Giweflenwes`,
+    elaborationEnglish: `oarohher pronsr Ghomip
+Ourcrofas Giweflenwes`,
   },
   {
     id: 2361, tantraId: 8, verseNumber: 2360,
@@ -6194,7 +6127,7 @@ Nandi thus knew
 
 Jiva Jnana as Siva Jnana.
 
-aut ors aAossorL Oeuibesr`,
+aut ors Oeuibesr`,
   },
   {
     id: 2362, tantraId: 8, verseNumber: 2361,
@@ -6212,7 +6145,7 @@ Thus anima and the rest of the eight siddhis are attained
 Thus did Nandi know jiva jnana as Siva jnana.`,
     elaborationEnglish: `ii) Mahima is to becomes as great as infinity.
 
-iii) Garima is to materialise whole objects (pervasiveness)
+Garima is to materialise whole objects (pervasiveness)
 from diverse fragments.
 
 iv) Laghuma is to become weightless.
@@ -6223,13 +6156,12 @@ vi) Prakamyam is to become all-weight.
 
 Vii) Isatvam is to attain vast regal powers.
 
-viii) Vasitvam is to attain powers of total attraction.
+Vasitvam is to attain powers of total attraction.
 
 For a fuller discussion of the eight siddhis, vide Tantra Three
 supra.
 
-Adu Ooucstma KDI 2. vsid
-aon wrento wr x9iwo4r
+aon wrento wr
 Aout wrento KS) ouremre`,
   },
   {
@@ -6261,10 +6193,10 @@ Thus much is if after all,
 
 Between Knowledge and Ignorance.
 
-ano wreriew fal wosGesr
+ano wreriew fal
 
-Qurier QunpsOsugs sioner Gurgy
-ADon wuuopieaict great wiades`,
+Qurier sioner Gurgy
+wuuopieaict great wiades`,
   },
   {
     id: 2364, tantraId: 8, verseNumber: 2363,
@@ -6302,7 +6234,7 @@ The heart of Jnani is Tapas rare;
 The heart of Jnani is Lord's abode;
 There He stood, in the heart of Jnanis.`,
     elaborationEnglish: `STUB CHT DS SHS reac
-Geucr soofucr DSHEGE Smad`,
+Geucr soofucr Smad`,
   },
   {
     id: 2366, tantraId: 8, verseNumber: 2365,
@@ -6322,7 +6254,7 @@ Of the corporeal world;
 Distant, and near is He;
 He is sugar cane-sweet and ambrosia divine;
 Thus He stands close to Jiva.`,
-    elaborationEnglish: `across upps der agiib x9ibHGovow`,
+    elaborationEnglish: `across upps der agiib`,
   },
   {
     id: 2367, tantraId: 8, verseNumber: 2366,
@@ -6348,8 +6280,8 @@ Of my welfare in loving care.`,
 And within me He enquires
 Of my welfare in loving care.
 
-bru Acnrésg Hoan omps9Os
-Gew AméAencys CaOAoa CpGen. 2367 ©
+bru Acnrésg Hoan
+Gew AméAencys 2367 ©
 
 Seek Pure Lamp
 
@@ -6360,7 +6292,7 @@ The Pure Lamp steadily burning;
 The body’s Lamp within heats;
 The Distant Lamp I seek.
 
-BI@hea Gnome Goyer wry`,
+Gnome Goyer wry`,
   },
   {
     id: 2368, tantraId: 8, verseNumber: 2367,
@@ -6394,11 +6326,11 @@ I seek in directions eight and two,
 I seek, in goodness, the Feet of Lord
 I sing, "Param is my Refuge"
 I unite in Him, in mind's fulness.`,
-    elaborationEnglish: `(aac geen wre. s zpos Gert
-Yeamens QuGgweb assur CGursh_OS
+    elaborationEnglish: `(aac geen wre. s Gert
+Yeamens QuGgweb assur
 
-sacs ADsNig scr Utes Sonvcargsret
-berohsé Hours cungr MmGu. 2369.
+sacs scr Utes Sonvcargsret
+berohsé Hours cungr 2369.
 
 diva’s Journey to Liberation is Lord’s Play
 
@@ -6420,7 +6352,7 @@ Thus, they Siva became
 With birth no more to be.
 
 Jivas in Saiva Siddhanta philosophy are as eternal as God.
-By’ ‘*‘created’’, what is meant here is that they were ‘activated’
+By’ what is meant here is that they were ‘activated’
 from the primordial (kevala state) inert condition by Siva
 acting on Sakti, and given the milieu and instruments for
 development, such as thanu (body), karana (organs), bhuvana
@@ -6472,7 +6404,7 @@ Finale.`,
     elaborationEnglish: `Vedanta, Siddhanta, Nadanta, Bodhanta, Yoganta and Kalanta
 are the six final ‘essences.
 
-assur grpibd sont Hswvgst`,
+assur grpibd sont`,
   },
   {
     id: 2372, tantraId: 8, verseNumber: 2371,
@@ -6492,7 +6424,7 @@ Will the Ends Six know not;
 They who know not the Ends Six
 Will not know Lord,
 He that is End and Beginning.`,
-    elaborationEnglish: `Gserrt usruge, Genes Gwreiorus`,
+    elaborationEnglish: ``,
   },
   {
     id: 2373, tantraId: 8, verseNumber: 2372,
@@ -6539,9 +6471,7 @@ Contemplating beyond
 Where the Suddha and Asuddha (Mayas) pursue not,
 Reaching thus Para that is Lord,
 That, verily, is the Truth of Siddhanta.`,
-    elaborationEnglish: `CGwaQsii Weer sanflact Wssciuned
-
-Gwe use bs BIg aDt_neurpr`,
+    elaborationEnglish: `Weer sanflact`,
   },
   {
     id: 2375, tantraId: 8, verseNumber: 2374,
@@ -6580,7 +6510,6 @@ The peerless Divine Jnana dawns;
 That indeed is Jnana (Bodha)
 That Nadanta beyond reached.
 
-ur@psF Fact ugwral uppps
 
 Yoganta State
 
@@ -6600,9 +6529,9 @@ Realizes Upasanta
 
 That verily is the Truth of Yoganta.
 
-Osrotensu orcr sorgsn GMs@anciraicd
+Osrotensu orcr sorgsn
 
-Osorno wuss Dsoisgy wrGw. > 2377
+Osorno wuss wrGw. > 2377
 
 Kalanta State
 
@@ -6639,14 +6568,14 @@ The peerless Divine Jnana dawns;
 That indeed is Jnana (Bodha)
 That Nadanta beyond reached.`,
     elaborationEnglish: `Medha, Arghisa, Vida, Bindu, Artha candra, Nirodpini,. Nada,
-Nadanta, Sakti, Vyapini, Vyomaupini, Ananthai, Anathai,
+Nadanta, Sakti, Ananthai, Anathai,
 Anasiruthai, Samanai, Unmanai,
 
 The sixteen kalas within. belong to the sixteen saktis in the
 sixteen-petalled-flower of the visuddhi adhara. The realisation
 of these sixteen kalas is known as ‘sodasa kala prasada.’
 
-Onnrehusr s3onugsgicror Ganga. oonitst—`,
+Onnrehusr Ganga. oonitst—`,
   },
   {
     id: 2377, tantraId: 8, verseNumber: 2376,
@@ -6708,7 +6637,6 @@ Dear unto Siva are the Five
 Yoga), Upadesa and Jnana.`,
     elaborationEnglish: `BED orth sown snGagib
 
-AG wer wyr_adar wsHsb
 
 Tantra, Mantra Upadesa
 
@@ -6719,9 +6647,9 @@ Tantra is to act their way,
 Mantras are of the mind and beyond the body;
 Upadesa is the teaching of Siva-Jnana.
 
-Gsenit Hanns saugrangs Hasna
+Hanns saugrangs Hasna
 erp Cow wennuym sonpssgiti
-Gusr aqjnguest app WuGssMNS`,
+Gusr aqjnguest app`,
   },
   {
     id: 2380, tantraId: 8, verseNumber: 2379,
@@ -6758,7 +6686,7 @@ Sans speech, sans sentience
 Jiva becomes Being Great
 Unto Nandi Himself,
 That is beyond speech and thought.`,
-    elaborationEnglish: `geacuw Gurgrésb Hssrbs wrergy`,
+    elaborationEnglish: `geacuw Gurgrésb wrergy`,
   },
   {
     id: 2382, tantraId: 8, verseNumber: 2381,
@@ -6778,7 +6706,7 @@ And in Bodhanta and Siddhanta
 Is Jnana reached
 Of Knowledge, the Known and the Knower
 One uniting.`,
-    elaborationEnglish: `atu eres GMuyror aft Ga`,
+    elaborationEnglish: `atu eres aft Ga`,
   },
   {
     id: 2383, tantraId: 8, verseNumber: 2382,
@@ -6836,11 +6764,11 @@ Beckoning me to Him
 He revealed the Truth Exalted
 Of Vedanta-Siddhanta,
 --Him, the Lord, meditate on.`,
-    elaborationEnglish: `seg warigh sGgs9gQé Dsriu
+    elaborationEnglish: `seg warigh
 
-ages Dsligget wag SaIehed
+ages wag SaIehed
 
-agro wihyp wirenwiwT wire`,
+agro wihyp wire`,
   },
   {
     id: 2386, tantraId: 8, verseNumber: 2385,
@@ -6888,7 +6816,7 @@ The finale imprint
 
 Is in Silence (Mauna) Immersed-to-be.
 
-Gusnhss soci 2unhGw Goypad`,
+Gusnhss soci Goypad`,
   },
   {
     id: 2388, tantraId: 8, verseNumber: 2387,
@@ -6912,7 +6840,7 @@ That Bodha leads to;
 Beyond still is Asipada.`,
     elaborationEnglish: `Nadanta goal rids of Pasa
 
-And reaches to Tvam-pada State
+And reaches to State
 
 Beyond are Causal (Karana) Upadhis seven,
 Above which is Tatpada of Para Real,
@@ -6922,14 +6850,14 @@ Beyond still is Asipada.
 
 The Vedanta goal transcends the seven causal expericnces.
 The Nadanta goal in dissolving the malas reaches to the
-tvam-pada state. The Bodhanta goal leads to the tatpada state.
+state. The Bodhanta goal leads to the tatpada state.
 Beyond, transcending the seven causal experiences is asipada.
 
-From 2387 onwards, Mular discusses the ‘‘Tat Tvam Asi’’
+From 2387 onwards, Mular discusses the ‘‘Tat Asi’’
 of the Upanisads from various angles, trying to fit the three
 phrases into Agamic concepts.
 
-HTL WHT Tp SLKSECT MLILITAYLd`,
+WHT Tp SLKSECT`,
   },
   {
     id: 2389, tantraId: 8, verseNumber: 2388,
@@ -6949,7 +6877,7 @@ Lord is Light of that Light,
 Of yore, He with Parasakti stood;
 There He stands lofty, all by Himself,
 He, Our Lord.`,
-    elaborationEnglish: `Carayomis 16569 unGo GPeusgis`,
+    elaborationEnglish: `Carayomis 16569 unGo`,
   },
   {
     id: 2390, tantraId: 8, verseNumber: 2389,
@@ -6970,9 +6898,7 @@ Sing in full His holy praise,
 Thus worship Him,
 Then shall you meet the Being One
 Who, existence interminable, engrosses.`,
-    elaborationEnglish: `PHUMer westerns 2. Sitgence ujssomirit
-QoeMeancr ycstornt QGurew wyororit
-SGD Cyst ComisHHer prep`,
+    elaborationEnglish: `westerns 2. Sitgence ujssomirit`,
   },
   {
     id: 2391, tantraId: 8, verseNumber: 2390,
@@ -6993,8 +6919,8 @@ The One Being within
 Stands as Sentience and fosters,
 Formless is He,
 He supports all.`,
-    elaborationEnglish: `ATorcsrut grep FTF Foassy
-Oran ¢6HD Gayuu acpi`,
+    elaborationEnglish: `grep Foassy
+Oran Gayuu acpi`,
   },
   {
     id: 2392, tantraId: 8, verseNumber: 2391,
@@ -7013,7 +6939,7 @@ The Saktis that are of Siva
 Then in His mighty Presence they (Saktis) act;
 There the devotees remain ever
 Immersed in Siva Bliss.`,
-    elaborationEnglish: `Gausnbs GDsribus Gwaywb uUsGeeru`,
+    elaborationEnglish: ``,
   },
   {
     id: 2393, tantraId: 8, verseNumber: 2392,
@@ -7077,7 +7003,7 @@ Siddhanta-Vedanta
 Is the Path Exalted.`,
     elaborationEnglish: `Accents ugwgy Fogy sir Gud
 
-SUD Nageagsuled Eehrore5s Hours`,
+SUD Nageagsuled Hours`,
   },
   {
     id: 2396, tantraId: 8, verseNumber: 2395,
@@ -7115,8 +7041,7 @@ The Bindu, Nada and Sadasiva too
 Are Tattvas verily;
 So too is Jiva's (Tvam Pada and Tat Pada);
 Tattva truly is where Tatpara is in Siva-Sayujya.`,
-    elaborationEnglish: `GugGur trswwb Oowwrbd Qennacrpre
-esib Ourgiae Anuiy@wer gioreresr`,
+    elaborationEnglish: `esib Ourgiae gioreresr`,
   },
   {
     id: 2398, tantraId: 8, verseNumber: 2397,
@@ -7138,7 +7063,7 @@ Their goals two, they say;
 Search them both,
 For the truly learned,
 There is difference none.`,
-    elaborationEnglish: `ugtengs Guoraperpibd urippt cmpgib
+    elaborationEnglish: `ugtengs Guoraperpibd urippt
 
 Beyond Bliss of Voids is the Bliss of Siva Dance
 
@@ -7156,8 +7081,7 @@ Is the Bliss of Siva’s Dance within;
 
 It is the State that fills Soul in rapture.
 
-AGU SOTPSH Qypoa 5 GrsT hsb
-BD QurepHH smomupsr wrgediov`,
+BD smomupsr wrgediov`,
   },
   {
     id: 2399, tantraId: 8, verseNumber: 2398,
@@ -7219,7 +7143,7 @@ Then will you reach the Yoganta,
 And there will you envision the Feet
 Of the Eternal Dancer,
 That is Siva.`,
-    elaborationEnglish: `Hoar wi sAsS sadsom toons`,
+    elaborationEnglish: `Hoar wi sadsom toons`,
   },
   {
     id: 2402, tantraId: 8, verseNumber: 2401,
@@ -7271,7 +7195,7 @@ Thus be merged;
 —So says Vedanta-Siddhanta.
 
 bereflu Cersin wren wrentse
-geachu 650 RIOvcrs GsrergiGw, 2403
+geachu 650 2403
 
 Siddhanta Agamas Are Filled With Vedic Wisdom
 
@@ -7327,10 +7251,10 @@ The Vedas and Agamas,
 In gradualness appropriate
 Evolved Vedanta-Siddhanta
 That is great, great indeed.`,
-    elaborationEnglish: `Mular has coined the phrase *‘Vedanta-Siddhanta’’. He says
+    elaborationEnglish: `Mular has coined the phrase He says
 it is evolved out of the Vedas and Agamas. It is apparent
 that Mular feels keenly the need for somehow reconciling the
-Agamic and Vedic systems.
+Agamic and Vedic
 
 16. uBusutsb Caplerceow
 
@@ -7373,8 +7297,7 @@ When bonds of Pasa are sundered,
 And Jiva-nature altered,
 Jivas will cling to Lord
 And never leave Him.`,
-    elaborationEnglish: `BLaherp Gross grC_rgy GoréHs
-Asr_é Gancrpid QearNsOsraphHer Dsrapsrp`,
+    elaborationEnglish: `Gross GoréHs`,
   },
   {
     id: 2408, tantraId: 8, verseNumber: 2407,
@@ -7395,7 +7318,7 @@ Unintermittent do pray;
 Praying thus,
 Yours will be a Light that shall beam
 As from a hill-top high.`,
-    elaborationEnglish: `CGpe@QqQew srmGs Hocrtiunl Pmeiss oy ti`,
+    elaborationEnglish: ``,
   },
   {
     id: 2409, tantraId: 8, verseNumber: 2408,
@@ -7415,7 +7338,7 @@ Thinking, they shrink from Pasas
 And Godward seek;
 Lo! for this it is why
 He placed them (Jivas) in Pasas.`,
-    elaborationEnglish: `Mi. usure OQuwscrGrmrer GCwapren`,
+    elaborationEnglish: ``,
   },
   {
     id: 2410, tantraId: 8, verseNumber: 2409,
@@ -7449,8 +7372,8 @@ And living Sakala;
 
 Then enters the Atita Jagrat plane.
 
-The pasaS, once sundered will not touch jiva again, even as,
-the poison, once extracted, does not retum to the body. The*
+The once sundered will not touch jiva again, even as,
+the poison, once extracted, does not retum to the body.
 jiva, having sundered pasa through the states of keval and,
 sakala, enters the atita jagrat plane, which is beyond pasas.-
 
@@ -7461,7 +7384,7 @@ those who seek Him in the Siddhanta way with love and:
 
 devotion.
 
-EQur PgSsor Hoowwm cuthcvenw`,
+Hoowwm cuthcvenw`,
   },
   {
     id: 2411, tantraId: 8, verseNumber: 2410,
@@ -7482,9 +7405,7 @@ That granted knowledge
 Of Freedom Eternal
 From Bondage Eternal
 To Saiva Siddhantins that seek Him true.`,
-    elaborationEnglish: `Bu ubsrer aGHo Omswmb
-
-ew uF wrGpH unewmid`,
+    elaborationEnglish: `Bu ubsrer Omswmb`,
   },
   {
     id: 2412, tantraId: 8, verseNumber: 2411,
@@ -7503,7 +7424,7 @@ The Pasa (Bond) is the altar;
 Thus in the temple
 The Lord stands
 For them that searching see.`,
-    elaborationEnglish: `uXue uted uudolwur Hssw`,
+    elaborationEnglish: `uXue uted uudolwur`,
   },
   {
     id: 2413, tantraId: 8, verseNumber: 2412,
@@ -7526,14 +7447,14 @@ The bonds of Pasu-Pasam,
     elaborationEnglish: `The bonds of Pasu-Pasam,
 —But Himself stands untouched by Pasu-Pasam.
 
-WDS5S sunerps wns snes
+sunerps snes
 
 Lord Placed Pati-Pasu-Pasam Truth in Suddha
 Saiva Thought
 
 The truth of
 
-Pati, Pasu dnd Pasam,
+Pati, Pasu Pasam,
 
 The beautitude of Mukti,
 
@@ -7658,9 +7579,9 @@ That the Five Acts perform,
 
 —He, the Isanan Pure.
 
-Gwajwb upc CGonssD prsupib
+upc prsupib
 
-Gwajib upg giipser CaSscr`,
+upg giipser CaSscr`,
   },
   {
     id: 2418, tantraId: 8, verseNumber: 2417,
@@ -7680,7 +7601,7 @@ And Rudra, Mal and Brahma
 --Thus in order were they created,
 All by Hara.`,
     elaborationEnglish: `Hetty weft udSemens undpis
-AGO wepiipsca Csreiy HAGGHES`,
+AGO wepiipsca HAGGHES`,
   },
   {
     id: 2419, tantraId: 8, verseNumber: 2418,
@@ -7718,8 +7639,7 @@ And with the last of them (Prakriti Maya)
 Forged the (Tattvic) instruments;
 Then were let in the Pasas to Jiva belong
 He, the Pati (Lord), who apart is.`,
-    elaborationEnglish: `an Gd Qgxencr wrmiscuph prgyoaitp
-STL G BIS FUrsss9H profl_O`,
+    elaborationEnglish: `an Gd wrmiscuph prgyoaitp`,
   },
   {
     id: 2421, tantraId: 8, verseNumber: 2420,
@@ -7742,7 +7662,7 @@ And as days pass,
 Jiva acquires love of God--(Pati-Pasam)
 In which am I steeped.`,
     elaborationEnglish: `uesesiu torcnwuie) om tm Up Sores
-scachu CGegorcr somcups Guoamer`,
+scachu somcups Guoamer`,
   },
   {
     id: 2422, tantraId: 8, verseNumber: 2421,
@@ -7784,9 +7704,9 @@ Even as the cloth's dirt is removed
 By earth-dirt (saline earth),
 Pati-Pasam Grace works out
 Jiva's purity.`,
-    elaborationEnglish: `uréb uuddeyut grGer LTUpse
+    elaborationEnglish: `uréb uuddeyut grGer
 
-ureb uueti uB@ug wrserp`,
+ureb uueti wrserp`,
   },
   {
     id: 2424, tantraId: 8, verseNumber: 2423,
@@ -7831,7 +7751,7 @@ their Self-realizing.`,
 And as with their hands they held fast to His feet,
 They reached the Way of Truth, their Self-realizing.
 
-*Sanaka, Sanatana, Sanatkumara, Sanantana—these are the
+Sanatana, Sanatkumara, Sanantana—these are the
 four holy rishis, said to be the spiritual sons of Brahma, who
 sought of Siva the truth of holy wisdom. Siva sitting under
 the wild banyan tree as Guru Dakshinamurt, facing southward, .
@@ -7864,7 +7784,7 @@ When to Jiva the Feet of Grace
 Shows the Head of Jnana
 Then shall Liberation be.`,
     elaborationEnglish: `somouwy wre shunt snug
-soouwy wshuie oacrarg aps`,
+soouwy oacrarg aps`,
   },
   {
     id: 2427, tantraId: 8, verseNumber: 2426,
@@ -7884,11 +7804,11 @@ The Foot in Muladhara;
 Those who visioned thus in the Yogic way,
 Remained in Prayer
 Their heads bowed at Lord's feet.`,
-    elaborationEnglish: `Parprsr Poypyp sor_whb Cogip
+    elaborationEnglish: `Parprsr Poypyp Cogip
 
-ustprer sagt mug Gtd 2.5 Brw
+ustprer sagt mug 2.5 Brw
 
-Derprar 2 vat Ue gsouc Guit5 6D`,
+Derprar 2 vat Ue 6D`,
   },
   {
     id: 2428, tantraId: 8, verseNumber: 2427,
@@ -7928,7 +7848,7 @@ At my Father's Holy Feet;
 Are my thoughts centered
 If my Father knows me not,
 Neither will I my Father know.`,
-    elaborationEnglish: `users un@grehs sliyms scivirev`,
+    elaborationEnglish: `users sliyms scivirev`,
   },
   {
     id: 2430, tantraId: 8, verseNumber: 2429,
@@ -7977,10 +7897,8 @@ Will in time your salvation grant;
 
 Do wait and pray.
 
-snggiher mrery. gscrchti OpeHe
-SASZI blot mresw gr) BTS ot
 
-SNS ZBI ONeISG srs Fos`,
+SNS srs Fos`,
   },
   {
     id: 2432, tantraId: 8, verseNumber: 2431,
@@ -8044,8 +7962,8 @@ The Lord then sought
 To take me into His Fold;
 What more can I say
 Of my Holy State?`,
-    elaborationEnglish: `Quin yseart Curd Guesu sromupm
-upeanu SF guts uNcIMDaEgEs`,
+    elaborationEnglish: `Quin Curd Guesu sromupm
+upeanu SF guts`,
   },
   {
     id: 2435, tantraId: 8, verseNumber: 2434,
@@ -8064,9 +7982,9 @@ He removes them and mends their ways;
 Thus is God's love for Man;
 To each according to his deeds
 In compassion He bestows His care.`,
-    elaborationEnglish: `epergior GHD YYS Beoicr
+    elaborationEnglish: `epergior GHD Beoicr
 
-braiger gi wwm&s Gipson
+braiger gi Gipson
 
 eperpencr sufert psHort Susrgait`,
   },
@@ -8109,7 +8027,7 @@ As though I was within the sound of "Aum"
 Of a chiming bell, swinging struck.`,
     elaborationEnglish: `379
 
-Ban ugg wongw WMpruup`,
+Ban ugg wongw`,
   },
   {
     id: 2438, tantraId: 8, verseNumber: 2437,
@@ -8134,9 +8052,9 @@ And when he departs
 
 He shall indeed Siva be.
 
-Guns soncruonofts psnh GCugsgapb
+Guns soncruonofts psnh
 
-SHH SHMNOSies oop gory!`,
+SHH oop gory!`,
   },
   {
     id: 2439, tantraId: 8, verseNumber: 2438,
@@ -8163,11 +8081,11 @@ Transcend Nadanta State of glory;
 
 Ascend beyond;
 
-There indeed is the Tvam-Pada., State,
+There indeed is the State,
 
 The Truth Vedas speak of.
 
-Bou ghuggicr CGafonp wroruseEs`,
+Bou ghuggicr`,
   },
   {
     id: 2440, tantraId: 8, verseNumber: 2439,
@@ -8185,7 +8103,7 @@ But Siva remains still beyond,
 Beyond the reach of speech
 In unimaginable immanence
 In all, in all.`,
-    elaborationEnglish: `sepad urpbh H#fugs Cawdps
+    elaborationEnglish: `sepad urpbh Cawdps
 
 sqaure Parg Aah suggrn`,
   },
@@ -8206,7 +8124,7 @@ And in pervasive Siva merge,
 Then as sweetness compounded
 Of milk, honey, and ambrosia
 Will He in the Silentness agreeable appear.`,
-    elaborationEnglish: `bus Goons Oerepunr cursQues`,
+    elaborationEnglish: `bus Goons Oerepunr`,
   },
   {
     id: 2442, tantraId: 8, verseNumber: 2441,
@@ -8232,7 +8150,7 @@ Revealing that Truth,
 
 Nandi accepted me in His Grace.
 
-abu shut sag wortGeur`,
+abu shut sag`,
   },
   {
     id: 2443, tantraId: 8, verseNumber: 2442,
@@ -8282,8 +8200,8 @@ All these subside;
 Thus subsiding, the Beginningless One wakes
 Into the Turiyatita Jagrat State.
 
-MAI sorab Osyu s1h5S
-sifu sapeory Gurae5 Aoctune`,
+MAI sorab Osyu
+sifu sapeory Aoctune`,
   },
   {
     id: 2445, tantraId: 8, verseNumber: 2444,
@@ -8332,9 +8250,7 @@ I clung to the tender vine of Kundalini Sakti
 That she, Her Grace may shower.`,
     elaborationEnglish: `1)Fire, sun and moon mandalas.
 
-beep Honsss wrug wrwgs
-
-Aen Hopsss CarsGq SLByr`,
+beep wrug wrwgs`,
   },
   {
     id: 2447, tantraId: 8, verseNumber: 2446,
@@ -8355,7 +8271,7 @@ When He came in tender love
 As cow that yearns for calf,
 Beaming was Jiva,
 As lamp upon hill-top placed.`,
-    elaborationEnglish: `apr quGseu mpm Flouupw
+    elaborationEnglish: `apr quGseu Flouupw
 
 Capris Qeueitucr Gagt Uselernr`,
   },
@@ -8379,13 +8295,10 @@ He is the God
 Of whom Vedas speak;
 Then shall Divine Rapture well up in you;
 Do foster it, and enlarge.`,
-    elaborationEnglish: `TSI
+    elaborationEnglish: `
+upon upp wrwgy
 
-upon upp pupbuB wrwgy
-
-uppp uni user Gesmgibd
-
-uppp upPeAp uppacd Gomis Gs`,
+uni user Gesmgibd`,
   },
   {
     id: 2449, tantraId: 8, verseNumber: 2448,
@@ -8407,7 +8320,7 @@ Then shall the Knowledge of God be;
 Only those who in intense (Divine) desire seek Him,
 Bereft of desires (worldly),
 Will (Param Param) Siva become.`,
-    elaborationEnglish: `upbug wnrer uBursb uppres
+    elaborationEnglish: `upbug uBursb uppres
 
 upwbug wrest wiper caps`,
   },
@@ -8429,9 +8342,8 @@ Then shall the transcendental Para be;
 And then beyond Parasiva reached be;
 Then shall the transcendental Siva Bliss (Parasivananda) be;
 Jiva Becoming Siva is indeed Knowledge Divine.`,
-    elaborationEnglish: `paraln sornhur pr@encs pacity
-shlunp CGsuegs goes groarh
-fawapppsap #8ssgicr Cpu`,
+    elaborationEnglish: `paraln sornhur pacity
+shlunp goes groarh`,
   },
   {
     id: 2451, tantraId: 8, verseNumber: 2450,
@@ -8456,8 +8368,8 @@ Then shall you the very Tat-Para be.`,
 
 the: sphere of Siva tattvas — vide Mantra 2377.
 2)One in God-union.
-Shsert g1uyps gsorchics Neoreupib
-Upsregs Sms srepibd IMppapns`,
+Shsert Neoreupib
+Upsregs Sms srepibd`,
   },
   {
     id: 2452, tantraId: 8, verseNumber: 2451,
@@ -8496,7 +8408,7 @@ That with “‘A’’ begins; ‘‘Aum.’’
 
 ATTRIBUTES OF PARA
 
-wHOun Demrelct wort getmrd`,
+Demrelct wort getmrd`,
   },
   {
     id: 2453, tantraId: 8, verseNumber: 2452,
@@ -8533,9 +8445,9 @@ And rid of dark Ignorance
 
 Will with God (Pati) One be.
 
-BHyd MHF ph Qoor aGgwoup
+ph Qoor aGgwoup
 
-Gen use ett CarormsGsrcr prenwuder
+Gen use ett prenwuder
 
 Bu srwhogeo sow cut`,
   },
@@ -8557,10 +8469,9 @@ He is seen and yet unseen;
 Those who attain Jnana
 Of that Para
 Are Holy indeed.`,
-    elaborationEnglish: `gfud osgy glue 35565
+    elaborationEnglish: `osgy glue 35565
 
-au ANwrstiGares buss FIOw
-Oulu Dore Soorus s.uUsCS`,
+Oulu Dore Soorus`,
   },
   {
     id: 2455, tantraId: 8, verseNumber: 2454,
@@ -8596,7 +8507,6 @@ And glimpse Him
 
 Will no more birth have.
 
-Msbeawupest ohut «CGuss HMNeaGurew
 
 Qurinbews saupemrr Gurgs Geum ibumpo`,
   },
@@ -8620,9 +8530,8 @@ In Jnana's Void
 That absorbs universes so unreal,
 Siva stands high aloft
 As a flag planted on Meru Mountain top.`,
-    elaborationEnglish: `Ouse SOT UGSSS mas
-Muss Qauwreauw CGaunrs Carns
-géF UPAa WI pesrew GQwremGa`,
+    elaborationEnglish: `Ouse SOT mas
+Muss Qauwreauw Carns`,
   },
   {
     id: 2457, tantraId: 8, verseNumber: 2456,
@@ -8682,7 +8591,7 @@ Sun and Moon,
 Pervasive and immanent,
 Hara stood;
 Supporting the firmament vast.`,
-    elaborationEnglish: `20556 Wémsuled eHremnG Guugu,`,
+    elaborationEnglish: `20556 Guugu,`,
   },
   {
     id: 2460, tantraId: 8, verseNumber: 2459,
@@ -8703,7 +8612,7 @@ Then Jnana Sakti and other forms
 She assumes;
 Thus acting in love surpassing
 She daily, daily moves this world.`,
-    elaborationEnglish: `Garou prota Grom arom raNGs`,
+    elaborationEnglish: `Garou prota Grom arom`,
   },
   {
     id: 2461, tantraId: 8, verseNumber: 2460,
@@ -8722,7 +8631,7 @@ From above descending, to here below,
 It imparted sentience to the cognitive Organs four,
 --This the story of Jivas,
 That inherent no sentience has.`,
-    elaborationEnglish: `Capt wscrgcrenw Gurgy sé srwgHov`,
+    elaborationEnglish: ``,
   },
   {
     id: 2462, tantraId: 8, verseNumber: 2461,
@@ -8762,7 +8671,7 @@ That engrosses universe;
 Enter in the Splendorous Light,
 In the Void that is beyond words,
 No more is there anything to compare.`,
-    elaborationEnglish: `ueTelL beans upcrer 21 Oovciss`,
+    elaborationEnglish: `beans upcrer 21 Oovciss`,
   },
   {
     id: 2464, tantraId: 8, verseNumber: 2463,
@@ -8802,7 +8711,7 @@ He is Tat-Para of love infinite;
 Sakti that is manifested
 In space, air, fire, water and earth
 Is but of His Form Divine.`,
-    elaborationEnglish: `384 _TIRUMANTIRAM`,
+    elaborationEnglish: ``,
   },
   {
     id: 2466, tantraId: 8, verseNumber: 2465,
@@ -8831,11 +8740,11 @@ There is none other too.
 
 paranh eaten Fu giMws
 
-sas78 epapeim urgifl wHsren.
-Heasres GDsrpss sHugss SC 2466
+epapeim urgifl wHsren.
+Heasres sHugss SC 2466
 
 Three Turiyas—Jiva, Para and Siva; and Their
-Respective Reaches Tvam Pada, Tat Pada and Asi
+Respective Reaches Pada, Tat Pada and Asi
 Pada
 
 The Turiya beyond (in Jagrat) ©
@@ -8856,7 +8765,7 @@ Is Siva Turiya;
 
 In these are reached
 
-Tvam, Tat and Asi States respective.
+Tat and Asi States respective.
 
 great paddle gihugser Osnbuss
 
@@ -8904,7 +8813,7 @@ At the end of Para Turiya
 Is Para Pada (Tat-Pada)
 Three steps beyond,
 In the fourth, is Siva Turiya (Asi Pada).`,
-    elaborationEnglish: `shh ugwrhé sri_ps gus`,
+    elaborationEnglish: `shh ugwrhé gus`,
   },
   {
     id: 2469, tantraId: 8, verseNumber: 2468,
@@ -9012,7 +8921,7 @@ Crush the crowding Maya
 With Lord's Grace;
 Then will be the Divine Grace abiding;
 That way, the holy ones knew.`,
-    elaborationEnglish: `sorguIT Osribdugs wont Gurew
+    elaborationEnglish: `Osribdugs wont Gurew
 Monon Fouct porcun wrags`,
   },
   {
@@ -9034,7 +8943,7 @@ Again, commencing from Jiva Turiya
 Is the Jagrat State in Para Turiya;
 Reach Turiya in Para Turiya State,
 There indeed is Tat-Pada State.`,
-    elaborationEnglish: `There Jiva attains Tvam-Pada;
+    elaborationEnglish: `There Jiva attains
 
 The Karmas end;
 
@@ -9043,7 +8952,7 @@ Is the Jagrat State in Para Turiya;
 Reach Turiya in Para Turiya State,
 There indeed is Tat-Pada State.
 
-pddwu eens gihwsgsi SHpTLo1Lbd`,
+eens gihwsgsi`,
   },
   {
     id: 2474, tantraId: 8, verseNumber: 2473,
@@ -9082,11 +8991,11 @@ That from Nadanta branchs
 Where Pranava (Aum) as letters Three (A,U,M) are.`,
     elaborationEnglish: `All three are Svarupa Muktis
 
-That from Nadanta_ branch
+That from branch
 
 Where Pranava (Aum) as letters Three (A,U,M) are.
 
-ABaudsrot Povenw warps Oserpsct`,
+Povenw warps Oserpsct`,
   },
   {
     id: 2476, tantraId: 8, verseNumber: 2475,
@@ -9106,7 +9015,7 @@ Nothing here to be in home or outside,
 Thus renouncing all,
 Be one with Siva
 That verily is Mukti.`,
-    elaborationEnglish: `gout Hus GeraQuner Cunrage`,
+    elaborationEnglish: `gout Hus Cunrage`,
   },
   {
     id: 2477, tantraId: 8, verseNumber: 2476,
@@ -9127,7 +9036,7 @@ One with Tattvas uniting
 That the way of "So-ham" is;
 Unto those who follow this Way
 The Immaculate Siva Himself reveals.`,
-    elaborationEnglish: `s5DYd YB Opransges sarenps`,
+    elaborationEnglish: `YB Opransges sarenps`,
   },
   {
     id: 2478, tantraId: 8, verseNumber: 2477,
@@ -9149,7 +9058,7 @@ And the Samadhi Exalted
 --All these the work of Divine Lord
 Who thine bonds sunders.`,
     elaborationEnglish: `apw anGp webpes Sa Hors
-Gag; Quernyps Genepusg SF OooH`,
+Gag; Quernyps Genepusg SF`,
   },
   {
     id: 2479, tantraId: 8, verseNumber: 2478,
@@ -9170,8 +9079,8 @@ And be liberated
 Attaining Svarupa Mukti triple;
 And in the End,
 Vision Truth of Para (Siva) Eternal.`,
-    elaborationEnglish: `gpergiet wiefins apart Q)GuLoL wb
-wapeics uus spl (YPUYer`,
+    elaborationEnglish: `wiefins apart wb
+wapeics uus spl`,
   },
   {
     id: 2480, tantraId: 8, verseNumber: 2479,
@@ -9191,8 +9100,8 @@ The Light that rises from within the Three
 May well the Jiva vision;
 Then ended will birth's cycle be
 That endless was.`,
-    elaborationEnglish: `Poa «Gone epoargiOure prmw
-usagi UN@er®@ uncienwysr Freon`,
+    elaborationEnglish: `Poa «Gone prmw
+usagi uncienwysr Freon`,
   },
   {
     id: 2481, tantraId: 8, verseNumber: 2480,
@@ -9226,8 +9135,8 @@ He immanent in Jivas became
 
 And transcendent too.
 
-LemQuret Geren Wassomrid orgs
-beAhQuer onuberm cnng Guregs`,
+Geren Wassomrid orgs
+onuberm Guregs`,
   },
   {
     id: 2482, tantraId: 8, verseNumber: 2481,
@@ -9288,7 +9197,7 @@ Beyond is Void that defies speech,
 There contemplate on Aum in Silentness
 In that Mudra of Jnana
 The final Grace is.`,
-    elaborationEnglish: `2LF5Oe5 sro yorepg Cer
+    elaborationEnglish: `sro yorepg Cer
 aos uGurgh wii went geo`,
   },
   {
@@ -9316,11 +9225,10 @@ Ascend upward (through Sushumna in Yogic
 
 And open wide the gate above at cranium top.
 
-gaerr yoqurds HGYG wth
 
-Gourd aGersD Garg Lctrenw
+Gourd Garg
 
-QeGerrgG apo Seowss Geurcgpeuci
+apo Seowss Geurcgpeuci
 
 S.wg Gunes Haug Pat`,
   },
@@ -9386,7 +9294,7 @@ By a sleight of hand, as it were--My Nandi
 As the lovely Manonmani (Sakti) left,
 Unmani (Sakti) no less lovely entered,
 Do take to Her in Samadhi inward.`,
-    elaborationEnglish: `Osrius wags giiuggs CsrppGa`,
+    elaborationEnglish: `Osrius wags giiuggs`,
   },
   {
     id: 2489, tantraId: 8, verseNumber: 2488,
@@ -9457,8 +9365,7 @@ That Siva (Tat) stands first
 Thus meditate on it and ascend.`,
     elaborationEnglish: `Thus meditate on it and ascend.
 
-ausgs Hugags wHOsrG uncrgss
-gusgu Gera wrbeau Csegang
+gusgu Gera wrbeau
 Onuss Oswsgi .4.@® Qo wiuy oer 75`,
   },
   {
@@ -9497,8 +9404,7 @@ Tat-Pada in comely Parai (Sakti)
 Asi-Pada leads to Santhi (Kala)
 That Vakya (expression) is verily of Celestials,
 Thom-Tat-Asi by Yogic breathing attained.`,
-    elaborationEnglish: `Bw asCsrws CGoags soc s
-srw ooeliinm srmwib 2 uTgirestbd`,
+    elaborationEnglish: `srw ooeliinm srmwib 2 uTgirestbd`,
   },
   {
     id: 2494, tantraId: 8, verseNumber: 2493,
@@ -9520,16 +9426,16 @@ In Thom-Tat-Asi,
 Jiva in body one with Primal Cause is;
 Attaining True Jnana
 Jiva becomes Para Siva.`,
-    elaborationEnglish: `*Deva Datta is a fictional name used in Vedanta literature.
+    elaborationEnglish: `Datta is a fictional name used in Vedanta literature.
 Here the name is used to illustrate how the individual remains
 the same, though time and place states may differ. Deva Datta
 was a bachelor in Benares, a householder in Chidambaram,
 and a sannyasin in Madurai — all one and the same person
 in different places.
 
-gros sriilw wlhs SEGGoor
+gros sriilw
 
-brew eperpid sant yaenosGsr
+brew eperpid sant
 
 Lig) welajiey autujion epesrplev`,
   },
@@ -9550,8 +9456,7 @@ No more are;
 A, U and the consonant M,
 In those letters Three are Turiya Three
 All these are of Thom-Tat-Asi, forsooth.`,
-    elaborationEnglish: `satu GCupscs Lgumwes umpent &
-‘sn Mw &rrgoes UTFCNCM STL DIC`,
+    elaborationEnglish: ``,
   },
   {
     id: 2496, tantraId: 8, verseNumber: 2495,
@@ -9571,8 +9476,8 @@ The Bodha Void is left behind;
 Experiencing and sundering the Cause-Caused States (above)
 The Upasanta Void is left behind;
 Then alone is End Finale.`,
-    elaborationEnglish: `rut Foust ANGwriotiump wenger
-gu Puree Que wuun PTLAbSS`,
+    elaborationEnglish: `rut Foust wenger
+gu Puree Que wuun`,
   },
   {
     id: 2497, tantraId: 8, verseNumber: 2496,
@@ -9657,10 +9562,10 @@ Denoted by letters "Na" and "Ma"--
 Parai to Jiva ("Ya") Her Grace granting,
 Into Paran ("Va" Sakti and "Si" Siva) makes it merge,
 That indeed is "Si Va Ya Na Ma" (the Five-letter mantra).`,
-    elaborationEnglish: `Qoob 2 GOeucitpyid 2 Geib 2 orGiwocsrpyid
-2erer unas Garg wate ec
+    elaborationEnglish: `Qoob 2 2 Geib 2 orGiwocsrpyid
+unas Garg wate ec
 
-Ldroripls Q)dene .Bifidens umpedene`,
+Q)dene .Bifidens umpedene`,
   },
   {
     id: 2501, tantraId: 8, verseNumber: 2500,
@@ -9698,7 +9603,7 @@ Para
 Leave,
 Cause and Caused Difference vanish,
 Then Jiva becomes Siva for sure.`,
-    elaborationEnglish: `Gann sora WGSS soarpear`,
+    elaborationEnglish: `Gann sora soarpear`,
   },
   {
     id: 2503, tantraId: 8, verseNumber: 2502,
@@ -9735,9 +9640,8 @@ Letter A is Jiva; U is Para; M is Siva;
 In the three States of Mukti;
 Si is Siva, Va is Para; Ya is Jiva
 Thus the Mantras "Aum" and "Sivaya" are as one interpreted.`,
-    elaborationEnglish: `2uITs GU or Qurplaum mpyplaup
-
-guoriyobd reer o1nhss gsroverrp`,
+    elaborationEnglish: `
+guoriyobd reer`,
   },
   {
     id: 2505, tantraId: 8, verseNumber: 2504,
@@ -9798,7 +9702,7 @@ Seed of Mukti is Knowledge of Primal One;
 Seed of Bhakti is intense adoration meek;
 Seed of Siddhi is Self, Siva-Para Becoming;
 Seed of Sakti is State of Upasanta.`,
-    elaborationEnglish: `srfiuibd gape! s759@ wreowysir
+    elaborationEnglish: `srfiuibd gape! wreowysir
 erfu snes anmgencati unmpls`,
   },
   {
@@ -9816,9 +9720,8 @@ The Seven Caused Experiences lie latent in Maya;
 The Seven Causal Experiences lie latent in Void;
 When Cause-Caused experiences disappear,
 Then is pervasive Upasanta.`,
-    elaborationEnglish: `wschu sréBor $55 sipiyAh
-
-bag urmen A wre gl IDNs`,
+    elaborationEnglish: `
+bag urmen A wre gl`,
   },
   {
     id: 2509, tantraId: 8, verseNumber: 2508,
@@ -9836,7 +9739,7 @@ In Turiya of the Jagratatita (Para Turiya)
 Is Vision of Param;
 That extending into Siva Turiya
 Is Upasanta pervasive.`,
-    elaborationEnglish: `Bot powpsror agagsysr SSG5H`,
+    elaborationEnglish: `Bot powpsror agagsysr`,
   },
   {
     id: 2510, tantraId: 8, verseNumber: 2509,
@@ -9859,8 +9762,8 @@ In the Jagratatita Turiya (Para Turiya)
 That defies speech;
 When that is crossed and Siva Turya is reached,
 Then is Upasanta pervasive.`,
-    elaborationEnglish: `gups Auwrs Nealant aps5sgS
-Csrwigspe- Goreré sarquuags GgsrGr`,
+    elaborationEnglish: `gups Auwrs Nealant
+Goreré sarquuags`,
   },
   {
     id: 2511, tantraId: 8, verseNumber: 2510,
@@ -9883,9 +9786,8 @@ That Experience engrosses
 All the ten of Jiva
 (From Jagrat Upwards to Siva
 Turiya.)`,
-    elaborationEnglish: `Leger upal LUTssior TsnTWS
-Bagiefica prBu gery Guta
-Diesysarts soup Dgsrée ajooritp gi Gornos`,
+    elaborationEnglish: `Bagiefica prBu gery Guta
+Diesysarts soup ajooritp gi Gornos`,
   },
   {
     id: 2512, tantraId: 8, verseNumber: 2511,
@@ -9948,9 +9850,7 @@ We know the Way;”’
 
 Such shall never see,
 
-As in their hearts they hold Him not.
-
-SGSSIL_ SGLeT aed omuus`,
+As in their hearts they hold Him not.`,
   },
   {
     id: 2514, tantraId: 8, verseNumber: 2513,
@@ -9969,7 +9869,7 @@ The black-hued serpent in deep well dies;
 Stop bragging of your greatness, O heart!
 Be unto the river
 That into the wavy ocean merges.`,
-    elaborationEnglish: `WGacur Qewierm wrgab gssrv`,
+    elaborationEnglish: ``,
   },
   {
     id: 2515, tantraId: 8, verseNumber: 2514,
@@ -9988,7 +9888,7 @@ Silly heroism indeed!
 If suitable the Tapas of holy ones are,
 He, who all gifts gives,
 Will with Celestials seat them.`,
-    elaborationEnglish: `soribuG) Ger Oa spy snot`,
+    elaborationEnglish: `Ger Oa spy snot`,
   },
   {
     id: 2516, tantraId: 8, verseNumber: 2515,
@@ -10030,12 +9930,12 @@ The Pure One who is brighter than purest gold
 The Great One, in all life, unvarying glows,
 On Him contemplate, in ways appropriate.`,
     elaborationEnglish: `The Lord who is dearer than dearest life in me,
-The Pure One who is brighter than Pprest gold
+The Pure One who is brighter than gold
 The Great One, in all life, unvarying glows,
 On Him contemplate, in ways appropriate.
 
-Pagid QGsgim Aipgbd Hives
-earpib Qurgersea 2 engtiuea rr@eytd
+Pagid Aipgbd Hives
+earpib Qurgersea 2 engtiuea
 Maceanbh yagib Mangsg Dorsags`,
   },
   {
@@ -10056,8 +9956,7 @@ Do conquer your Senses Five,
 And quick sunder contending Pasas;
 Thus seek Him and know Him,
 He in you one will be.`,
-    elaborationEnglish: `corer) cums Petm crbmgs Dorersctoneats
-Newer cunont Dwyer mrGe.
+    elaborationEnglish: `corer) cums Petm Dorersctoneats
 
 He is Pervasive Knowledge
 
@@ -10109,7 +10008,7 @@ If thus you perservere,
 You shall become the very Paraparam.`,
     elaborationEnglish: `392 ‘TIRUMANTIRAM
 
-Yernr ageaQseuis Gugg onmoraer`,
+Yernr Gugg onmoraer`,
   },
   {
     id: 2521, tantraId: 8, verseNumber: 2520,
@@ -10129,10 +10028,10 @@ Goodly is He in Jnana
 Of the holy ones of constant heart;
 He who is festooned in flower unfading,
 He, the Famed One.`,
-    elaborationEnglish: `GurpAQucr Gpcrerpons Quncieater Gray.
-gpnGy Asergid awe sroamss
+    elaborationEnglish: `Quncieater Gray.
+Asergid awe sroamss
 
-snpper Masses STW wWwWsGHI`,
+snpper Masses STW`,
   },
   {
     id: 2522, tantraId: 8, verseNumber: 2521,
@@ -10153,7 +10052,7 @@ Of life within sparkled;
 And then I heard the bewitching sound,
 That my body in rapture immersed;
 And lo! there was His Dance!`,
-    elaborationEnglish: `aOys Cspgip Spmracr Carnomacin`,
+    elaborationEnglish: `aOys Spmracr Carnomacin`,
   },
   {
     id: 2523, tantraId: 8, verseNumber: 2522,
@@ -10175,9 +10074,7 @@ And ascended Adharas;
 And eyes closed in trance
 I saw His Form Divine;
 And the Seven Worlds too.`,
-    elaborationEnglish: `Ba ys sowpsGart Grays
-CGsqi DGEGSH AQT Quretg sce
-CaQuwre Par yorta ews curts_G`,
+    elaborationEnglish: `CaQuwre Par yorta ews`,
   },
   {
     id: 2524, tantraId: 8, verseNumber: 2523,
@@ -10243,8 +10140,7 @@ They rid themselves of Anava,
 They transcended "I" and "mine" consciousness,
 They in constancy remained,
 They, verily, are Siva Siddhas.`,
-    elaborationEnglish: `Asst Ausss Somat PGLor
-esgneée ssgiicr GaripgipGsr wits oir`,
+    elaborationEnglish: `esgneée wits oir`,
   },
   {
     id: 2527, tantraId: 8, verseNumber: 2526,
@@ -10266,7 +10162,7 @@ Possessed are they of Muladhara prowess
 Alike are they unto Sadasiva.`,
     elaborationEnglish: `EXPERIENCE IN THE EIGHT-PETALLED
 
-DHSEGH GGure at-Deng Weer`,
+DHSEGH at-Deng Weer`,
   },
   {
     id: 2528, tantraId: 8, verseNumber: 2527,
@@ -10308,7 +10204,7 @@ by Sir John Woodroffe.
 
 . Yama—god of the Southern quarter.
 
-. Nruti—god of the South Western quarter.
+. of the South Western quarter.
 .. Varuna—god of the Western quarter.
 Vayu—god of North Western quarter.
 Kubera—god‘of the -Northem quarter.
@@ -10316,7 +10212,7 @@ Isanana—god of the North Eastern quarter.
 
 SIAALRWN—
 
-SGuaw waGur Giiys pred`,
+waGur Giiys pred`,
   },
   {
     id: 2529, tantraId: 8, verseNumber: 2528,
@@ -10335,8 +10231,8 @@ Through the lean stalk of Sushumna,
 Contemplate on its radiance,
 And ascend upward;
 Redeemed are you then.`,
-    elaborationEnglish: `Quoriiter gsmwens eporpion eporPapid
-Mtv Aerperct CarH afar`,
+    elaborationEnglish: `Quoriiter eporpion
+Aerperct afar`,
   },
   {
     id: 2530, tantraId: 8, verseNumber: 2529,
@@ -10378,8 +10274,7 @@ Into Siva-State penetrate;
 There indeed is the Precious Truth,
 Himself with Sakti stands,
 --She of bouncing breasts and tender vine form.`,
-    elaborationEnglish: `HaaQucOQs CsOQoL OS Csams Guu Gd
-amsQue@ wruiserm «Ati Ogrencr`,
+    elaborationEnglish: `wruiserm «Ati Ogrencr`,
   },
   {
     id: 2532, tantraId: 8, verseNumber: 2531,
@@ -10401,7 +10296,7 @@ Reach Him,
 Who fills within
 From eight to four petalled center;
 He Who blooms within petals eight.`,
-    elaborationEnglish: `Tye Fort Qurubdym Hs FO5t yd`,
+    elaborationEnglish: `Tye Fort Qurubdym Hs yd`,
   },
   {
     id: 2533, tantraId: 8, verseNumber: 2532,
@@ -10420,7 +10315,7 @@ And beyond in Eighth is Param;
 In Ninth is Paraparam, that is Void;
 The exalted Tenth is State of Oneness
 Where Anava is finally shed.`,
-    elaborationEnglish: `prop gsBeicr Gonflerp gy Pscr
+    elaborationEnglish: `prop Gonflerp gy Pscr
 Asagip wewsgs Gecrpacs gy luc`,
   },
   {
@@ -10441,7 +10336,7 @@ Were many aeons minor
 The universe through several aeons passed;
 In the aeon above aeons countless,
 Was (God) Bhagava, unique.`,
-    elaborationEnglish: `oriuy wenpyid Q)wmGib Glasofiujtd`,
+    elaborationEnglish: `oriuy wenpyid Glasofiujtd`,
   },
   {
     id: 2535, tantraId: 8, verseNumber: 2534,
@@ -10488,7 +10383,7 @@ And there is a lotus bloom
 From no soil mud springs;
 Without that bloom,
 
-He decks* not Himself
+He not Himself
 
 He of matted locks.`,
   },
@@ -10576,7 +10471,7 @@ Aones Apso Focr Flongsw
 
 Usuoner (pibioewb unm uplw
 
-Bure AbsSHoa BHF Gurss`,
+Bure BHF Gurss`,
   },
   {
     id: 2540, tantraId: 8, verseNumber: 2539,
@@ -10602,7 +10497,7 @@ And Himself no more is.`,
 
 And Himself no more is.
 
-SarQer vo veross or F551 Qheurcst wrest Gougier`,
+vo veross or wrest Gougier`,
   },
   {
     id: 2541, tantraId: 8, verseNumber: 2540,
@@ -10638,7 +10533,7 @@ And world rejoiced;
 "My Lord, My Lord"--
 Thus I prayed day and night;
 And He severed my fetters strong.`,
-    elaborationEnglish: `GVbue acrerm GMUUTOa so Gw`,
+    elaborationEnglish: ``,
   },
   {
     id: 2543, tantraId: 8, verseNumber: 2542,
@@ -10674,9 +10569,9 @@ Param the Light, Jiva and Tattvas,
 The Kala, the Mayas Two and Mukti
 These are categories nine
 To the Primal One belong.`,
-    elaborationEnglish: `Gsprg Abang Asus Oshasgy
+    elaborationEnglish: `Abang Asus Oshasgy
 
-Gant 575 Karsaupbd GuwGef`,
+Gant 575 Karsaupbd`,
   },
   {
     id: 2545, tantraId: 8, verseNumber: 2544,
@@ -10697,9 +10592,7 @@ And endless births too
 In Grace Abounding;
 Those who these perceive not
 Are in Karma's wheel forever caught.`,
-    elaborationEnglish: `earunehie AHuGsrr msg wsgims
-
-@Qeburp Aawrsn Hs5r55 FFHCw. 2545 -
+    elaborationEnglish: `
 
 -Goal of Siddhanta Philosophy
 
@@ -10717,7 +10610,6 @@ Then shall he Siva become;
 
 This the goal of Siddhanta (Philosophy).
 
-33. HF STHSSWD
 SUDDHA-ASUDDHAM`,
   },
   {
@@ -10762,9 +10654,9 @@ Such indeed is Lord's greatness.`,
 Of this was hesitant to speak;
 Such indeed is Lord’s greatness.
 
-Giflenwujks sHerwupi pergyid Wmals
-SGM wrug SeTL_acrt pore
-Yfuct srs suggit. YyeCw: 2547
+Giflenwujks sHerwupi pergyid
+wrug pore
+srs suggit. 2547
 Away From Karmas
 
 The Karmas,
@@ -10781,7 +10673,7 @@ Will what you do ever after
 
 Reach the Karma Pond?
 
-Liew Weanss Wenss wenpiiQunger`,
+Liew Weanss Wenss`,
   },
   {
     id: 2548, tantraId: 8, verseNumber: 2547,
@@ -10820,9 +10712,9 @@ The Truth of Himself reveals;
 Those who can make Maya vanish
 Merge in God;
 No more is body; no more is mind.`,
-    elaborationEnglish: `Garay -uariernm gsorcrh GALA
+    elaborationEnglish: `Garay -uariernm GALA
 
-BP AML HSH SIIH YE Osig)`,
+BP AML SIIH YE Osig)`,
   },
   {
     id: 2550, tantraId: 8, verseNumber: 2549,
@@ -10862,8 +10754,7 @@ He, the Nandi,
 Him they seek in lands all;
 They know not,
 He within the body stands.`,
-    elaborationEnglish: `BG od MGW aount 9sPodevar
-BSF UMA th Bob mpPpsden`,
+    elaborationEnglish: `UMA th Bob`,
   },
   {
     id: 2552, tantraId: 8, verseNumber: 2551,
@@ -10883,17 +10774,15 @@ Of that place "unclean"
 Then shall they find,
 The human birth itself is unclean.`,
     elaborationEnglish: `They know not the place “‘unclean’’ is,
-When they know the (Yogic) mysteries
+When they know the (Yogic)
 Of that place ‘‘unclean’
 
 Then shall they find,
 
 The human birth itself is unclean.
 
-They who know the yogic mysteries do not feel that human
-birth is unclean.
-
-SIGs Dodane s7ncyts ours`,
+They who know the yogic do not feel that human
+birth is unclean.`,
   },
   {
     id: 2553, tantraId: 8, verseNumber: 2552,
@@ -10914,7 +10803,7 @@ Uncleanness none is for those
 Who the sacred Fire tend;
 Uncleanness none is for those
 Who in Vedic Jnana versed are.`,
-    elaborationEnglish: `Puc G heamGsrr given Ogi aga`,
+    elaborationEnglish: `Puc G given Ogi aga`,
   },
   {
     id: 2554, tantraId: 8, verseNumber: 2553,
@@ -10953,8 +10842,7 @@ Where His source is, they know not,
 They who know the Source,
 Themselves,
 Crystal pure and fire pure become.`,
-    elaborationEnglish: `sug uran oussgi s1O5H)
-sug cunenn gprgcr DOstwOS`,
+    elaborationEnglish: `sug uran oussgi`,
   },
   {
     id: 2556, tantraId: 8, verseNumber: 2555,
@@ -10992,9 +10880,8 @@ In dark stupor lie.`,
     elaborationEnglish: `Caught in whirl of misery,
 In dark’ stupor lie.
 
-MAanwwr wegsg Menor gieergnit
-Macwegras gsorchc: oFtays Gsonr
-NeneraI al Cicrgyid Causupbd gst`,
+wegsg Menor gieergnit
+al Cicrgyid Causupbd`,
   },
   {
     id: 2558, tantraId: 8, verseNumber: 2557,
@@ -11015,9 +10902,7 @@ For liberation from Karma;
 --This Vedic teaching they know not;
 They who wallow in Karma
 Will never the Rich Harvest reap.`,
-    elaborationEnglish: `34. YSN GOS
-
-UTsH) wort Qt_ oa QermaQ@uer Guntscir`,
+    elaborationEnglish: ``,
   },
   {
     id: 2559, tantraId: 8, verseNumber: 2558,
@@ -11041,8 +10926,8 @@ In search of food they run.`,
 With horse’s speed,
 In search of food they run.
 
-Br_LA® entpub Cubs Hiartscr
-uTr_LAw enjac OFws ules`,
+entpub Cubs Hiartscr
+enjac ules`,
   },
   {
     id: 2560, tantraId: 8, verseNumber: 2559,
@@ -11085,16 +10970,16 @@ And in my heart I held Him close;
 
 I held Him as God;
 
-““You my Holy Lord!’’
+““You my Holy
 
 Thus I besought Him;
 
 And in my heart I held Him close;
 “‘What is this here?’’ He asks.
 
-Hr_fer. Poors §rGure hi Bes
+Poors hi Bes
 
-2.Sem Aver 2gnQGunger sry`,
+2.Sem Aver sry`,
   },
   {
     id: 2562, tantraId: 8, verseNumber: 2561,
@@ -11116,7 +11001,7 @@ That seeks the shores,
 To my trouble-tossed soul
 The Fire-Hued Lord
 As sure goal stood.`,
-    elaborationEnglish: `Guribayp Govcsrigts ypGn wppgsireurt`,
+    elaborationEnglish: ``,
   },
   {
     id: 2563, tantraId: 8, verseNumber: 2562,
@@ -11162,7 +11047,7 @@ And seek Him not;
 In fields, forests and hills
 Nandi who is immanent in them,
 They see not.`,
-    elaborationEnglish: `BUS WHGL VSG Bwgtsor`,
+    elaborationEnglish: ``,
   },
   {
     id: 2565, tantraId: 8, verseNumber: 2564,
@@ -11181,7 +11066,7 @@ But fix divine Mantra (Aum)
 On to Muladhara,
 And rouse (Kundalini) Fire, upward to stream;
 There shall you as Radiant Light be.`,
-    elaborationEnglish: `wHwusgGn Geréhayid wngaigy Dewwri
+    elaborationEnglish: `Geréhayid Dewwri
 50660 Guler sioeer Oancironnit
 Acrégnu GuGler Salenet wirerit`,
   },
@@ -11205,7 +11090,7 @@ All, all, their intractable Karma,
 Themselves have they to undergo.`,
     elaborationEnglish: `35. Qoeosseurs Sowid
 
-ALG Moms CGoaees srBup`,
+ALG Moms srBup`,
   },
   {
     id: 2567, tantraId: 8, verseNumber: 2566,
@@ -11242,7 +11127,7 @@ retained—Tamil, vittum
 vidatha-ilakkanai. ;
 
 The theory of lakshana is important in all Indian philosophical
-systems in trying to discuss the nature of the Ultimate Reality,
+in trying to discuss the nature of the Ultimate Reality,
 which is beyond expression. The Vedantins employ this widely
 in trying to explain expressions like tattvamasi, aham
 brahmasmi, etc.—vide ‘‘Indian Theories of Meaning,’’~ by
@@ -11256,7 +11141,7 @@ Transcending the grammatical conventions of
 lakshanatrayam—that is the same jiva being in different places
 with different experiences—is the state of jiva in Final
 
-MAD Nens provi HCarsHus Gaui g9 car`,
+MAD Nens provi Gaui g9 car`,
   },
   {
     id: 2568, tantraId: 8, verseNumber: 2567,
@@ -11286,7 +11171,7 @@ The reference is to the yogic practice of coursing the kundalini
 energy through the sushumna and ascending the adharas up
 to the cranium, where God is visioned.
 
--36. sSsICUS) ars Aud`,
+-36. ars Aud`,
   },
   {
     id: 2569, tantraId: 8, verseNumber: 2568,
@@ -11303,7 +11188,7 @@ In Jiva Turiya Jiva attains Tvam-Pada;
 In Para Turiya beyond is Tat-Pada;
 In Siva Turiya still beyond Asi-Pada true;
 Further beyond is Truth that is Tat-Tvam-Asi.`,
-    elaborationEnglish: `Gunr Guucr suds s1s5szs`,
+    elaborationEnglish: `Gunr Guucr suds`,
   },
   {
     id: 2570, tantraId: 8, verseNumber: 2569,
@@ -11324,7 +11209,7 @@ Then is Asi-Pada where Siva is;
 Ultimate is the blessed State
 Of Tvam-Tat-Asi that is
 Tat-Tvam-Asi.`,
-    elaborationEnglish: `Au usGerws CGoass Sores
+    elaborationEnglish: `Au usGerws Sores
 srAw at @ Irrg alwsanoags`,
   },
   {
@@ -11344,7 +11229,7 @@ Is in Tvam-Tat-Asi
 With attributes thus transferred
 There Jiva is Jiva, Para and Siva,
 All in one.`,
-    elaborationEnglish: `FULD! SSH WHC gps`,
+    elaborationEnglish: ``,
   },
   {
     id: 2572, tantraId: 8, verseNumber: 2571,
@@ -11366,7 +11251,7 @@ The concept of I-Siva-becoming (Thomtatasi) is Siddhanta-Vedanta.`,
 The concept of I-Siva~becoming (Thvamtatasi) is
 Siddhanta-Vedanta.
 
-gifuwb x» mw Gservegyib cirenp`,
+gifuwb x» mw cirenp`,
   },
   {
     id: 2573, tantraId: 8, verseNumber: 2572,
@@ -11385,7 +11270,7 @@ Nay, that is not so;
 There is the Wondrous Land of Param-Param
 That rises beyond (the Three Turiya States)
 Who knows about that!`,
-    elaborationEnglish: `poow wpsgih wsgiGw cant Gey`,
+    elaborationEnglish: `poow cant Gey`,
   },
   {
     id: 2574, tantraId: 8, verseNumber: 2573,
@@ -11404,9 +11289,9 @@ Then is the State-beyond-all-states
 The (One) Truth beyond Jiva, Para and Siva.`,
     elaborationEnglish: `The (One) Truth beyond Jiva; Para and Siva.
 
-wuss gifw wHHGerG unemgss
+wuss gifw unemgss
 
-guss Opera wripu CGsFsens`,
+guss Opera wripu`,
   },
   {
     id: 2575, tantraId: 8, verseNumber: 2574,
@@ -11426,8 +11311,8 @@ There chant within your heart
 The Mantra that is Pranava (Aum)
 Then appears Siva the Awareness
 Supreme.`,
-    elaborationEnglish: `paar gbasuyb srenBuledd mugs gyiei
-Yornr wdigsngy Ormaugsggiu MOoIras5s`,
+    elaborationEnglish: `paar mugs gyiei
+Yornr Ormaugsggiu`,
   },
   {
     id: 2576, tantraId: 8, verseNumber: 2575,
@@ -11462,9 +11347,9 @@ Is the Lord Param-Param;
 
 Da Him seek.
 
-Ugo ung ypbOurcrm) crenwuder
+Ugo ung crenwuder
 
-quecsx wrgsgiGancrpih coremwu`,
+quecsx coremwu`,
   },
   {
     id: 2577, tantraId: 8, verseNumber: 2576,
@@ -11486,7 +11371,7 @@ Uncaused, of itself It reveals--
 This It's nature is.`,
     elaborationEnglish: `bug curcar Queiferm Cuageng
 
-Bus proirGoncr sroiess song sms
+Bus sroiess song sms
 Crew Aawréges FIBGH Gugger`,
   },
   {
@@ -11507,7 +11392,7 @@ Thus to Siva Becoming
 Nandi blessed me;
 And as I became That
 In Infinite Bliss I was immersed.`,
-    elaborationEnglish: `atu Aare HysFla Cass`,
+    elaborationEnglish: `atu Aare Cass`,
   },
   {
     id: 2579, tantraId: 8, verseNumber: 2578,
@@ -11551,7 +11436,7 @@ Know Siva
 Who stands as Fire and Water (Siva-Sakti) commingled;
 Unless the Knower within
 Make Para and then Siva`,
-    elaborationEnglish: `wat wrew QrecrG wanes`,
+    elaborationEnglish: `wat wrew wanes`,
   },
   {
     id: 2581, tantraId: 8, verseNumber: 2580,
@@ -11572,8 +11457,7 @@ Leave Him not;
 Adore Him as Lord;
 Those who know not this way,
 Will never the goal reach.`,
-    elaborationEnglish: `HPounrt 2» Hasor HLL Morey td
-ADourt Maoist sije Seveiryid`,
+    elaborationEnglish: `Maoist sije Seveiryid`,
   },
   {
     id: 2582, tantraId: 8, verseNumber: 2581,
@@ -11595,7 +11479,7 @@ Who stands as Fire and Water (Siva-Sakti) commingled;
 Unless the Knower within
 Makes you know,
 You know not what your knowledge avails.`,
-    elaborationEnglish: `wHOuH Agere +t wergyu Ogretmmn`,
+    elaborationEnglish: `Agere +t wergyu Ogretmmn`,
   },
   {
     id: 2583, tantraId: 8, verseNumber: 2582,
@@ -11636,9 +11520,9 @@ Of all your prayer and penance,
 Of yore performed
 And so blessed me,
 He the Lord of Fore-head Eye.`,
-    elaborationEnglish: `Acre Goof Auer AmciIcS
+    elaborationEnglish: `Acre Goof Auer
 
-Qurcrauert Guo) ysiphetm curessucsr`,
+Qurcrauert Guo) curessucsr`,
   },
   {
     id: 2585, tantraId: 8, verseNumber: 2584,
@@ -11661,7 +11545,7 @@ He of Golden Form,
 Heavenly Lord whom Celestials praise.`,
     elaborationEnglish: `Heavenly Lord whom Celestials praise.
 
-Wns wn@ectener cureteut Gamepjtd`,
+cureteut Gamepjtd`,
   },
   {
     id: 2586, tantraId: 8, verseNumber: 2585,
@@ -11684,9 +11568,9 @@ Freeing me from whirl of births
 Immortal made me, here below.`,
     elaborationEnglish: `401
 
-Quwulcurus sor ApaGe Deol Quctrgyid Quuis Cornns
+Quwulcurus sor Deol Quctrgyid Quuis Cornns
 
-asar Wonflenn srH@Gwu) sor Gs. 25
+asar Wonflenn sor Gs. 25
 
 Pervasive Truth Form
 
@@ -11701,12 +11585,12 @@ That neither hand nor mouth has.
 
 37. Maas Nore
 
-APAsmn srur yoGreoers Curves
+srur yoGreoers Curves
 
-sypAcm bin GM Pows srroshcd
+bin GM Pows srroshcd
 
-TuwpAcam Suhail yosms Owrsa
-GurpAcim Qyuatm Gunn ussGs. 2587 .
+Suhail yosms Owrsa
+Gunn 2587 .
 
 Absolute Union
 
@@ -11777,8 +11661,7 @@ Pervasive then becomes;
 With beginning and end none
 In Siva forever it merges.
 
-onic. Hurwer wrBscr gop gir
-GMaurcr Horns MGS Goss`,
+onic. Hurwer gop gir`,
   },
   {
     id: 2590, tantraId: 8, verseNumber: 2589,
@@ -11804,7 +11687,7 @@ Expanding, unintermittent
 This the fate of universe,
 Inevitable it is.
 
-270crmgG wruso Ger 2 Mpseuw
+wruso Ger 2
 agimmcr scrurc cumpsgiop cup.
 
 86
@@ -11824,9 +11707,7 @@ A mighty Power it is,
 That can dissolve and create universes vast;
 This was the boon granted to me;
 
-And thus is my state exalted.
-
-2erm@anar uppers oer Asnpsgs`,
+And thus is my state exalted.`,
   },
   {
     id: 2591, tantraId: 8, verseNumber: 2590,
@@ -11885,7 +11766,7 @@ That in my heart resides.`,
     elaborationEnglish: `There He is, Nandi
 That in my heart resides..
 
-o2fw ugapaper Gerrgiey Flaiupib`,
+ugapaper Gerrgiey Flaiupib`,
   },
   {
     id: 2594, tantraId: 8, verseNumber: 2593,
@@ -11907,8 +11788,8 @@ That engrosses worlds all.`,
     elaborationEnglish: `“The shell remains intact, while the inside is eaten
 out without a trace.
 
-ASSP BOuyld Bew ugmugen
-SHSb upibuger gerehh wgUpr or`,
+ASSP Bew ugmugen
+upibuger gerehh or`,
   },
   {
     id: 2595, tantraId: 8, verseNumber: 2594,
@@ -12051,7 +11932,7 @@ He never His appearance makes;
 At time's End He stands as Lord,
 To work redemption of souls all;
 True ones sport in True Joy.`,
-    elaborationEnglish: `QurWses STG yest yogoncas`,
+    elaborationEnglish: `STG yest yogoncas`,
   },
   {
     id: 2602, tantraId: 8, verseNumber: 2601,
@@ -12108,7 +11989,7 @@ Goodly Nandi taught;
 If the deceptive senses nine you subdue,
 Well may you mount the steed of Truth.`,
     elaborationEnglish: `Onwasesg srorscimct Gus (psdvoaicnens
-Ourisus srigps yesr Yyohlsoncats`,
+Ourisus srigps yesr`,
   },
   {
     id: 2605, tantraId: 8, verseNumber: 2604,
@@ -12129,8 +12010,7 @@ He the Holy One,
 That reveals not to men untrue;
 He who is the Refuge,
 Of only those who their falsehood shed.`,
-    elaborationEnglish: `Qowgsncr wsbuy Guadlu sEAoaws
-Gurigsnsr QOwvemucwes Qurdiwm for`,
+    elaborationEnglish: `Gurigsnsr Qurdiwm for`,
   },
   {
     id: 2606, tantraId: 8, verseNumber: 2605,
@@ -12154,7 +12034,7 @@ Then unbolt the Sushumna door
 Rich, indeed, shall your reward be.`,
     elaborationEnglish: `404 ; TIRUMANTIRAM
 
-auwib amsune 2esialernd asgiblor`,
+auwib amsune asgiblor`,
   },
   {
     id: 2607, tantraId: 8, verseNumber: 2606,
@@ -12173,7 +12053,7 @@ Sure, sure, Hara's Grace yours shall be;
 In the heart of those who untruth utter not
 He shines;
 In their midst He abiding stood.`,
-    elaborationEnglish: `aby USS WOTupb gerne`,
+    elaborationEnglish: `aby USS gerne`,
   },
   {
     id: 2608, tantraId: 8, verseNumber: 2607,
@@ -12215,7 +12095,7 @@ Unhesitating my Siva says,
 "Be you redeemed;"
 And makes your thoughts
 Center on Him.`,
-    elaborationEnglish: `berg g1Gor Menerucicd args`,
+    elaborationEnglish: `berg Menerucicd args`,
   },
   {
     id: 2610, tantraId: 8, verseNumber: 2609,
@@ -12235,7 +12115,7 @@ There, if they adore Lord
 In ways appropriate,
 They reach the World of Jnana,
 Receiving Grace of the Holy One.`,
-    elaborationEnglish: `sciner wPSBOS sgn Groat`,
+    elaborationEnglish: `sciner Groat`,
   },
   {
     id: 2611, tantraId: 8, verseNumber: 2610,
@@ -12259,8 +12139,7 @@ They are Jnanis,
 That have Tattvas cognised;
 They train senses five,
 In ways goodly.`,
-    elaborationEnglish: `ypeawme Deender wpysens wodspruissir
-
+    elaborationEnglish: `
 Yoroner Necro 9551 Nongosrsci`,
   },
   {
@@ -12281,7 +12160,7 @@ Future Karmas they seize and crush,
 By Grace of Siva,
 Whom they hold,
 High on their heads.`,
-    elaborationEnglish: `werutséGs Dslr at anganca soncare`,
+    elaborationEnglish: `werutséGs at anganca soncare`,
   },
   {
     id: 2613, tantraId: 8, verseNumber: 2612,
@@ -12328,7 +12207,7 @@ Breath and Sushumna;
 Sunder your desires and passions;
 Having sundered,
 The Lord's place, easy be.`,
-    elaborationEnglish: `HL_Sss ornorocr CGarnulayar onnercvcst`,
+    elaborationEnglish: ``,
   },
   {
     id: 2615, tantraId: 8, verseNumber: 2614,
@@ -12348,8 +12227,7 @@ In the thoughts of those,
 Who have desires abnegated, is He,
 Fleshly body, though therein be;
 He, their liberation granted.`,
-    elaborationEnglish: `Bor wpiilerscr mons wplerscir
-FeGorr emule gone wperser`,
+    elaborationEnglish: `FeGorr emule gone`,
   },
   {
     id: 2616, tantraId: 8, verseNumber: 2615,
@@ -12366,7 +12244,7 @@ Sunder your desires, sunder your desires
 Sunder your desires even unto Lord;
 The more the desires, the more your sorrows;
 The more you give up, the more your bliss shall be.`,
-    elaborationEnglish: `ADcucr Usmacr wmHgILb 21 Cor`,
+    elaborationEnglish: `Usmacr 21 Cor`,
   },
   {
     id: 2617, tantraId: 8, verseNumber: 2616,
@@ -12384,7 +12262,7 @@ They lead you to destruction's way;
 Give up desires and scatter them away;
 Reach to the Truth of Jnana;
 That the Way to reach Lord.`,
-    elaborationEnglish: `Hares gyliurc capsSeat wees Geant`,
+    elaborationEnglish: `Hares gyliurc wees Geant`,
   },
   {
     id: 2618, tantraId: 8, verseNumber: 2617,
@@ -12429,7 +12307,7 @@ Then transcending the five acts of God
 His direct Grace, they receive
 There they forever immersed are
 These, Jnanis, purified ways are.`,
-    elaborationEnglish: `Quesrnw Geripl CGupit AsHwrg
+    elaborationEnglish: `Quesrnw Geripl AsHwrg
 Seraniie Cro Aousrwe mealtime`,
   },
   {
@@ -12452,7 +12330,6 @@ Divine Grace descends on him;
 And then in God-Love, forever, he remains.`,
     elaborationEnglish: `406 _ TIRUMANHIRAM
 
-APachacr FeQerer piewewaw Gwagrit
 bachac udaes writs mat`,
   },
   {
@@ -12474,7 +12351,7 @@ Knowing not this Jiva is Siva,
 They diverse births take,
 And into worlds several wander
 When Truth they realize not.`,
-    elaborationEnglish: `MHEHoarm wang Garswimm givaid`,
+    elaborationEnglish: `wang Garswimm givaid`,
   },
   {
     id: 2622, tantraId: 8, verseNumber: 2621,
@@ -12512,7 +12389,7 @@ He in calmness fixed;
 
 In my purified being within.
 
-Ajasueo nusgis ADsalams CersOe_rcro`,
+Ajasueo nusgis`,
   },
   {
     id: 2623, tantraId: 8, verseNumber: 2622,
@@ -12531,8 +12408,7 @@ Nandi merges in fragrant flower within;
 Hold Him in your thoughts in vision clear,
 Then have you sown the seed
 Of birthlessness-to-be.`,
-    elaborationEnglish: `41. us Hujenr_a@w
-
+    elaborationEnglish: `
 Asso wrwr swot Worengencas`,
   },
   {
@@ -12554,8 +12430,7 @@ He is the Pure One;
 He is the Light that is the Holy Way;
 He is the Pasu-Pati (Lord of Jivas)
 Whom the devotees in ardour adore.`,
-    elaborationEnglish: `aynwuat gsgumt syuTTs SY OWSs
-Agurt HAGam® Havcy Km`,
+    elaborationEnglish: `Agurt Havcy Km`,
   },
   {
     id: 2625, tantraId: 8, verseNumber: 2624,
@@ -12599,7 +12474,7 @@ By far righteous is He;
 Than all bounteous beings in world;
 Within the heart He stood,
 As Umapati (Sakti's Lord) He stood.`,
-    elaborationEnglish: `psser Qos b gaoHeniGsnvots`,
+    elaborationEnglish: `psser Qos b`,
   },
   {
     id: 2627, tantraId: 8, verseNumber: 2626,
@@ -12624,9 +12499,7 @@ Where that peerless Pearl is!`,
 In devotion of His devotees,
 Who dares say,
 
-Where that peerless Pearl is!
-
-preracrmrus Bry wWenpsGSQercr BISEcner`,
+Where that peerless Pearl is!`,
   },
   {
     id: 2628, tantraId: 8, verseNumber: 2627,
@@ -12647,7 +12520,7 @@ Who beyond heavens eternal stood;
 In endearness tender,
 He entered into me,
 In this body fleshly.`,
-    elaborationEnglish: `ugsHuuc CGurrséGvi view Qurergy tb`,
+    elaborationEnglish: `view Qurergy tb`,
   },
   {
     id: 2629, tantraId: 8, verseNumber: 2628,
@@ -12669,7 +12542,7 @@ Have nothing to perform;
 Lord by His Grace grants states both;
 What then is there for devotees to do
 (But to hold Lord in their thoughts?)`,
-    elaborationEnglish: `Gpae HAowus Geir Gui`,
+    elaborationEnglish: `Geir Gui`,
   },
   {
     id: 2630, tantraId: 8, verseNumber: 2629,
@@ -12715,7 +12588,7 @@ And ending birth cycle, be redeemed;
 Think constant of Siva's Feet,
 He, Divine protection grants,
 He, who as Fire stood.`,
-    elaborationEnglish: `ancient giew ade DRsHoarp
+    elaborationEnglish: `ancient giew ade
 
 Srerot wus Depp sanvaccas`,
   },
@@ -12766,8 +12639,7 @@ I stood.
 42. (pS Bujeorenin
 TO BE IN MUKTI
 
-SSS FSH sOOUULHS somical
-OQows suc eins aDeneraNtt Oiouimesrenwes`,
+suc eins Oiouimesrenwes`,
   },
   {
     id: 2634, tantraId: 8, verseNumber: 2633,
@@ -12807,14 +12679,14 @@ Seeks the Rich Fruit (that is Siva);
 When within the heart that Fruit it seeks,
 Lighting the Sushumna lamp
 
-cermisch Ceyw cucrpTi Lipenc In the Flaming Fire of Kundalini within,
+cermisch Ceyw Lipenc In the Flaming Fire of Kundalini within,
 comsefi Goy uypsqb Gurg It reaches its great goal;
 samsch wiih cisaers Capp) Its four cognitive organs,
 
 43, Gergen
 
-Quiborer QuGg55H CGusenm Gulerus Goursé GMueth mim mes
-Sbwr HSH SGHLSL_D m1 Gornid spur 3sAND WoNpPSC55 ASST`,
+Quiborer Gulerus Goursé mim mes
+m1 Gornid spur ASST`,
   },
   {
     id: 2635, tantraId: 8, verseNumber: 2634,
@@ -12932,13 +12804,13 @@ As juice within fruit,
 As fragrance within flower,
 Immanent is my Lord;
 Thus does the Lord pervade all.`,
-    elaborationEnglish: `ADD Daucipm soHpibd 2cvsibd Thus does the Lord pervade all.
+    elaborationEnglish: `ADD Daucipm soHpibd Thus does the Lord pervade all.
 
-apap wrepoceuw wig s"pwiat
+apap wrepoceuw wig
 
-apap wirenw st ps9 amend AIGUOUT® my DAtsZeer prac
+apap wirenw st amend AIGUOUT® my prac
 
-Qouurt wagGSear amacr Yoneant
+Qouurt amacr Yoneant
 
 Dividing Line Between Knowledge and Ignorance 2 a eae a er
 
@@ -13130,15 +13002,14 @@ My body, restless as waves,
 He in calmness fixed;
 In my purified being within
 He, the Tatpara, entered.`,
-    elaborationEnglish: `TH inh s697b Yya Duppgsi.
+    elaborationEnglish: `TH inh Duppgsi.
 Tantra Eight Concluded
 
 409
 
-AQMUSTH SHB TW
 
 1. 6G sieorbd
 
-gc Suieibd Freer sorsQecrGm Wyss`,
+gc Suieibd Freer`,
   },
 ];

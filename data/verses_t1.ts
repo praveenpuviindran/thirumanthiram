@@ -37,8 +37,7 @@ vanished. He became pure as crystal at the touch of the Lord’s
 coral red Feet. Tirumular’s inner eye opened and he perceived
 the divine Truths.
 
-SHibups srayogr sro Pu Msgs
-siiiusy +15 6DOg7of smc`,
+srayogr sro Pu`,
   },
   {
     id: 115, tantraId: 1, verseNumber: 114,
@@ -64,9 +63,8 @@ Sakti is the one through whom Siva confers grace, and is
 also the wielder of Siva’s Power, paranthetically the third-eye
 stands for Sakti.
 
-UBUs wr sane aporDd
-uUpMmes Oscipgey arte UTE
-UBugp Opus urraPed wae. ns
+Oscipgey arte UTE
+Opus wae. ns
 
 Pati (God), Pasu (Soul) and Pasa (Bondage) are
 Eternal
@@ -82,7 +80,7 @@ pasam (bondage). But Pati is untouched by pasam (bondage).
 Pasam binds pasu only. But when Pati nears pasu, pasam will
 not stand. ;
 
-Susp (Uplbioewi LonH MS Swirerotreoy 5`,
+Susp (Uplbioewi MS Swirerotreoy 5`,
   },
   {
     id: 116, tantraId: 1, verseNumber: 115,
@@ -122,7 +120,7 @@ And like unto the sun on the ocean of mercy arose.`,
 body ris¢s Nandi’s divinity. In infinite maternal compassion,
 He dispels the impurities within, as thesun dispels darkness.
 
-Giw srp5 pes Gpuchad CurevGe
+Giw pes
 
 Gaw 515565 Gipuchnss Hg.`,
   },
@@ -144,9 +142,7 @@ Even so the impure wilts before the Lord's cathartic glance.`,
     elaborationTamil: `சூரியகாந்தக் கல்லையும் பஞ்சையும் ஒன்றாக சுற்றினால்கூட அந்தக் கல் பஞ்சை எரித்துவிடாது. சூரியகாந்தக் கல்லின் மேல் சூரியனின் கதிர்கள் பட்டு அவை பஞ்சின் மேல் குவிக்கப்பட்டால் மட்டுமே பஞ்சு எரியும். அதுபோலவே ஆன்மாக்களைச் சூழ்ந்திருக்கும் மும்மலங்களாகிய அழுக்கை ஆன்மாக்களால் நீக்க முடியாது. ஆன்மாக்களின் இருளை அகற்றும் பேரொளியாக வரும் இறைவனின் அருள் கிடைத்தால் மட்டுமே ஆன்மாக்களின் மும்மல அழுக்கு நீங்கும்.`,
     elaborationEnglish: `Well may the sun-stone be surrounded by cotton wool. The
 stone by itself burns, not the wool; but when the sun beats
-on it, the cotton blazes into fire and tums into ash. So, too,
-
-TANTRA ONE - 19`,
+on it, the cotton blazes into fire and tums into ash. So, too,`,
   },
   {
     id: 119, tantraId: 1, verseNumber: 118,
@@ -168,9 +164,9 @@ He broke into my soul's silent depths, Knowing all.`,
 dance hall of the soul, poured Hig Grace, destroyed the
 Passions that bind the senses, and removed all impurities.
 
-ADenad yey Congres msn
+yey Congres
 
-OpHuD) wrgidm bompib Cure`,
+wrgidm bompib Cure`,
   },
   {
     id: 120, tantraId: 1, verseNumber: 119,
@@ -194,9 +190,7 @@ Thus He pointed the Way,--He, the Guru Supreme.`,
 Consciousness is entangled with the senses knowing not its
 true course. But when the Gurupara, the Master Supreme,
 entered in me, consciousness was drowned in the deeper
-waters of superconsciousness.
-
-SGog Udar cormiseRaT 2 Hmer ;`,
+waters of superconsciousness.`,
   },
   {
     id: 121, tantraId: 1, verseNumber: 120,
@@ -269,9 +263,7 @@ He granted me this--Nandi of the Nine Yogas.`,
     elaborationEnglish: `‘Cit’ is a Sanskrit word meaning Mind or. Consciousness;
 hence, ‘Acit’ is the opposite of it. When Cit is made fully
 operative through yoga and tapas, the Self becomes
-enlightened, amd liberation is attained.
-
-HMSTICH Soot HPwir 2 vs`,
+enlightened, amd liberation is attained.`,
   },
   {
     id: 124, tantraId: 1, verseNumber: 123,
@@ -304,9 +296,9 @@ the space vast.
 Holy Sabha, a term which frequently makes its appearance
 in this text, refers to the Universe in its totality, or more
 specifically “akasa’ or Space which is void and the operating
-ground of the Divine. In another_sense, it is.the mind of
+ground of the Divine. In it is.the mind of
 the human being, which, when purified, becomes one with
-the Universal Mind,that is*akasa’. In Tamil culture the counter
+the Universal Mind,that In Tamil culture the counter
 part on earth of the Holy Sabha is ‘‘Thillai’’ ot the temple
 at Chidamberam.`,
   },
@@ -333,9 +325,8 @@ A Siva-Siddha is, it is said in this verse, one whose ‘cit’ has
 attained the conditions referred in the notes on the preceding
 three verses.
 
-Past Poot Pgmowr#r kerug
+Past Poot kerug
 
-bssish YSD Ysdwtus grGp. = 125
 Siddhas Ascend the Thirty-Six Tattvas
 
 Siddhas they that Siva’s world here visioned,
@@ -350,7 +341,7 @@ transcend nada (sound principle) and nadanta (the ultimate
 
 sound); they are immortal; the beings pure; are in eternal:
 
-bliss: dttain transcendental liberation, beyond the 36 tattvas. "
+bliss: transcendental liberation, beyond the 36 tattvas. "
 Tattvas are the fundamental principles of existence. The Saiva
 Siddhanta School of philosophy postulates them as thirty-six;
 the five Siva tattvas, the seven vidya tattvas, and the
@@ -358,11 +349,11 @@ twenty-four prekriti tattvas — also known as atma tattvas.
 The Siva tattvas arise in the ‘pure maya’ sphere, the vidya
 tattvas in the ‘impure maya’ sphere and the prakriti tattvas
 in the ‘prakriti maya’ sphere. These three spheres may be
-approximated to the ‘pure immaterial’, *material/immaterial’,
+approximated to the ‘pure immaterial’,
 and ‘pure material’ concepts. For a further account of the
 tattvas and their evolution, see Tantra Il.
 
-ough gob Uy WsP gealumds`,
+ough gob Uy gealumds`,
   },
   {
     id: 126, tantraId: 1, verseNumber: 125,
@@ -424,9 +415,9 @@ While Divine Impassivity spread its sable wings.`,
 tranquillity is the end of all knowledge. They who realise it
 sleep in absolute knowledge.
 
-Geribut Avugie, FSS GlasaulGav
+Geribut Avugie,
 
-Genbur 2 cara &GD 4 59LG`,
+Genbur 2 cara &GD 4`,
   },
   {
     id: 129, tantraId: 1, verseNumber: 128,
@@ -446,7 +437,7 @@ Who Impassivity saw, inside Vedas they slept.`,
     elaborationTamil: `சித்தர்கள் இறைவனின் திருநாமத்தை மட்டும் மனதிற்குள் ஜெபித்துக்கொண்டே இருப்பது எந்தவிதமான மலங்களும் வினைகளும் இல்லாத சுத்தமான பரவெளியில்தான். அவர்கள் தம் ஜெபத்தின் பலனால் இறைவனிடமிருந்து பெற்ற பேரின்பத்தில் மூழ்கி செயலற்றுக் கிடப்பதும் சுத்தமான பரவெளியில்தான். அவ்வாறு பேரின்பம் கண்ட நிலையில் அவர்கள் மனதிற்குள் ஜெபித்து வந்த இறைவனின் திருநாமமும் மறைந்து அத்திருநாமத்தில் லயித்து இறைவனின் திருவடிகளில் கிடைக்கும் பேரின்பத்தில் எண்ணங்களும் இல்லாமல் உணர்வுகளும் இல்லாமல் தூங்குபவர்கள் போன்ற சமாதி நிலையில் அவர்கள் இருப்பார்கள்.`,
     elaborationEnglish: `gahsacsr ime Gorsipib 52 crGar
 
-mahsasce _iiAey Guresupib sb2 Gar`,
+mahsasce Guresupib Gar`,
   },
   {
     id: 130, tantraId: 1, verseNumber: 129,
@@ -469,10 +460,10 @@ Of those who sleeping saw?`,
 Within them they realise Siva yoga; within them they enjoy
 Siva bhoga. Their state is indeed beyond description.
 
-adeany arerunc Ape sasOQSdvErH
-adarpge ddiac BaDuge srg
+adeany arerunc Ape
+adarpge BaDuge srg
 
-Palos LOGIT DIG 2 OUOSTCST 19. HGF`,
+Palos LOGIT DIG 2 OUOSTCST 19.`,
   },
   {
     id: 131, tantraId: 1, verseNumber: 130,
@@ -497,7 +488,7 @@ awareness, so does He grant His Grace.
 Siva’s Grace matches human endeavour. In Akasa is His dance,
 played for his Sakti, Uma, to behold and enjoy.
 
-woiohsas gorGor. woes wrtonus`,
+woiohsas woes wrtonus`,
   },
   {
     id: 132, tantraId: 1, verseNumber: 131,
@@ -522,7 +513,7 @@ Dance? Infinite rapture. ~
 
 Quibmrt 2 ef Amour ug bier
 
-Qupbomt sb nari MAwms OigumGugy`,
+Qupbomt sb nari`,
   },
   {
     id: 133, tantraId: 1, verseNumber: 132,
@@ -566,15 +557,15 @@ They heard and saw This and Next, all impurities
 dispelled.
 
 Who else but He has the knowledge of human greatness and
-littleness? They,|who, turtle-like, withdraw their senses within,
+littleness? turtle-like, withdraw their senses within,
 know this world and That.
 
 The simile of the tortoise and the five senses is a favourite’
 one in Hinduism. The Goraknathis (Khanpata Yogis) of the
 14th Cent. A.D. onwards seem to have adopted the tortoise
-as their symbol and emblematic mascot.
+as their and emblematic mascot.
 
-Bagainn Apos5e hwo Oecd`,
+Bagainn Oecd`,
   },
   {
     id: 135, tantraId: 1, verseNumber: 134,
@@ -598,8 +589,8 @@ Purity they become, in Limitless Light mingling.`,
 
 merge as pure spirit in divine light.
 
-AS HSGE AS SME Geral. Carpio Gor
-FSS Oouahulg shh «iGeqw`,
+AS AS SME Geral. Carpio Gor
+Oouahulg shh «iGeqw`,
   },
   {
     id: 136, tantraId: 1, verseNumber: 135,
@@ -617,7 +608,7 @@ Where shall the Cit go but to the Cit?
 In space light mingles but with Light,
 Note this, as doth salt in the sea vast.`,
     elaborationTamil: `சத்தம் முதலாகிய ஐந்து புலன்களும் அவை தோன்றிய இச்சை வழியிலேயே சென்று அந்த இச்சைகளைத் தீர்த்து பின் அடங்கிவிட்டால் ஆன்மாவின் சித்தமாக இருக்கும் இறைவனின் பேரான்மாவோடு போய் சேர்வதைத் தவிர வேறு வழி இருக்கிறதா? இறைவன் இருக்கும் சுத்தமான பரவெளியில் ஆன்ம ஒளி இறைவனின் பேரொளியோடு சேர்ந்து விடும். பிறவியின் பொருள் இதுதான் என்பதை அனுபவத்தால் அறிந்து கொண்டு தெளிந்த நீரைப் போல மனம் தெளிந்து இருப்பீர்களாக.`,
-    elaborationEnglish: `HID Fr. YIADSSeT Gheurdentowned`,
+    elaborationEnglish: `HID Fr. Gheurdentowned`,
   },
   {
     id: 137, tantraId: 1, verseNumber: 136,
@@ -637,8 +628,7 @@ So does Jiva in Siva lie enclosed.`,
     elaborationTamil: `கடல் நீரில் கரிப்பாக கலந்திருக்கும் உப்புச்சத்தே சூரியனின் வெப்பத்தால் ஒன்றுகூடி உப்பு எனும் பேர் பெற்ற பொருளாக உருவம் பெறும். உருவம் பெற்ற உப்பு எனும் பொருளை மறுபடியும் கடல் நீரில் சேர்த்தால் அதன் உருவம் மறைந்து மறுபடியும் கரிப்புச் சத்தாகவே மாறிக் கடலோடு ஒன்றாக கலந்துவிடும். அதுபோலவே சொல்லப்போனால் பேரான்மாவான சிவத்திடமிருந்து பிரிந்து வந்த ஆன்மாவும் இறுதியில் சிவமாகிய பேரான்மாவில் ஒன்றாகக் கலந்து அடங்கிவிடும்.`,
     elaborationEnglish: `22 : _ ‘TIRUMANTIRAM
 
-SLGSSu HLF SM ICTL CF DsctyAI
-Atwater DLaw Qa Cagis Gur`,
+Atwater Qa Cagis Gur`,
   },
   {
     id: 138, tantraId: 1, verseNumber: 137,
@@ -658,9 +648,7 @@ At sight of His Holy Feet, discovers its Ancient Home.`,
     elaborationTamil: `அண்டங்கள் அனைத்துமே அனுக்களாகவே இருப்பதால் அவை அனுவுக்குள் அடங்குபவையாகும். அனுவானது அண்டங்களுக்குள் அடங்கும் ஒரு பொருள் இல்லை அது அண்டங்கள் முழுவதற்கும் மூலப் பொருள். அதுபோலவே உடம்பெடுத்து வந்த உயிர்கள் அனைத்துமே ஆன்மாவால் உருவானவை என்பதால் ஆன்மா உடலுக்குள் அடங்கும் ஒரு பொருள் இல்லை அது உடம்பின் உருவத்திலேயே இருக்கின்ற இறைவனின் ஒரு பகுதி. ஆகவே உடல் முடிந்தபின் உயிர் சென்று சேரும் இடம் எது என்று பார்த்தால் அது எந்த பரமாத்மாவிலிருந்து வந்ததோ அந்த பேரான்மாவாக நின்று கொண்டிருக்கும் இறைவனின் திருவடிகளில் தான்.`,
     elaborationEnglish: `Soay. Guha wrag Gai
 
-Soa Guha Carag ARDEA
-
-Sgay. Gudsed «Bway OarnIcd`,
+Soa Guha Carag ARDEA`,
   },
   {
     id: 139, tantraId: 1, verseNumber: 138,
@@ -682,13 +670,13 @@ There is the final refuge for souls illumed.`,
 Siva’s world; the Holy Feet are life’s goal; the Holy Feet
 are the sure refuge.
 
-Ogehay Gx DGGwo! sresrod
+Ogehay Gx sresrod
 
 Oseiay Ge Dastwes Datiucd
 
-Dgeha @Galer Agantsas Galt
+Agantsas Galt
 
-Ogohay GGYG APS 50 srGer. —139
+Ogohay APS 50 srGer. —139
 Guru’s Role in Soul’s Illumination
 
 It is but to see the Guru’s Holy Form,
@@ -740,7 +728,7 @@ If, alone, you seek the sole felicity of our Lord's perfect Grace.`,
     elaborationTamil: `குருவின் அருளால் இறைவனைத் தமக்குள் உணர்ந்து தெளிவு பெறுபவர்களுக்குத் தானாகவே இதுவரை அவர்களை ஆட்டி வைத்திருந்த ஐந்து புலன்களும் அவர்களின் வசமாகும். அவ்வாறு அவர்களின் வசமான ஐந்து புலன்களும் அவைகளின் தனிப்பட்ட தன்மைகளை இழந்துவிடும். அவ்வாறு தனிப்பட்ட தன்மைகளை இழந்த ஐந்து புலன்களும் அவர்களுக்குக் கட்டுப்பட்டு அவர்களின் விருப்பம் போல செயல்படுபவையாக மாறிவிடும். அவ்வாறு விருப்பம் போல செயல்படும் ஐம்புலன்களும் அவை மூலம் வந்த மலங்கள் முழுவதும் குருவின் திருவருளால் தாமாகவே அவர்களை விட்டு நீங்கி அவர்களின் ஆன்மா மட்டுமே இறைவனைச் சென்று சந்திக்கும்.`,
     elaborationEnglish: `‘When the soul meets .the Lord.
 
-AGG ug 559 Osiw DGGwei`,
+AGG ug 559 Osiw`,
   },
   {
     id: 142, tantraId: 1, verseNumber: 141,
@@ -783,14 +771,13 @@ of the Tirumantiram’s 3,000 verses, Tirumular proceeds to
 lay down the ground rules that have to be observed by the
 Sadhaka — the spiritual aspirant.
 
-He first dwells on the ephemeral nature of this body and
+He first on the ephemeral nature of this body and
 the certainty of death laying its icy hands on all living things.
 
-2 2. wTéH Hleorowirent
 
-woe Oerreng serie t QGums UTE D175
+woe Oerreng serie t UTE
 Gar Oona Nagisg Salmon Cathay)
-Gevotcag Riad Per Bon Quoi ova ronrH Burov`,
+Gevotcag Riad Per Bon Quoi ova Burov`,
   },
   {
     id: 144, tantraId: 1, verseNumber: 143,
@@ -820,7 +807,6 @@ aloud, no longer call him by his name, but as a corpse carry
 him to the. burning ground and having burnt the body, wash
 their own bodies and think no more of it.
 
-Lett OL MeOTULpPA Kup hsssmred
 
 Osresr. alts upd Gromupth svg)`,
   },
@@ -847,9 +833,8 @@ Wife nor children who all enjoyed follow the parting
 Soul
 
 Only the holy vigils kept and wisdom gained
-Remain to save—others dwindle and desert us all.
+Remain to save—others and desert us all.
 
-oa Qgourr ag. GONE HYD Ou
 
 Gulener $A Door uc Gute
 
@@ -865,8 +850,7 @@ burnt,
 Then did a ceremonial dip—and memory of him
 fades away.
 
-SIQIL Qs G ps_ewos Oanrcrpior
-Cugyar gacnr NMYyLd LIAB STev apes`,
+Cugyar gacnr LIAB apes`,
   },
   {
     id: 146, tantraId: 1, verseNumber: 145,
@@ -926,7 +910,7 @@ Back to its mansion the breath of life fails its way to trace.`,
     elaborationEnglish: `They cover the body and perform the cremation
 which includes the offering to the ravens.
 
-SsLUueroh ougssnt 3119 fens 2 cit ot`,
+ougssnt 3119 fens 2 cit ot`,
   },
   {
     id: 149, tantraId: 1, verseNumber: 148,
@@ -1007,7 +991,7 @@ The warm precincts of clay.`,
 to stay,
 But the spark of life for ever quitted.
 
-uss ONGSZ UTI SL_LMD`,
+uss ONGSZ UTI`,
   },
   {
     id: 153, tantraId: 1, verseNumber: 152,
@@ -1042,7 +1026,7 @@ Mounted now on palanquin for the ultimate journey's end;
 Mourners walked behind, clashing drums beat afore;
 Thus did the solemn show, in ample length, extend.`,
     elaborationTamil: `தன் நாட்டிற்கு அரசனாகவும் குடிமக்களில் முதல்வனாகவும் இருப்பவன் பலவித பல்லக்கில் ஏறித் திரிந்தவன் கடைசியில் சுடுகாட்டிற்குச் செல்லும் பாடையில் உயிர் பிரிந்து கிடக்க அவனது நாட்டின் குடிமக்கள் அவனுக்குப் பின்னால் வர அவனுக்கு முன்னால் பறை அடிப்பவர்கள் மத்தளம் கொட்ட இதுவரை அவன் ஆட்சி செய்த நாட்டைவிட்டு சுடுகாட்டுக்கு அவன் செல்லும் முறை இதுவே ஆகும். உட்கருத்து: நாட்டின் தலைவன் என்றாலும் கடைசியில் ஒரு நாள் சுடுகாட்டுக்குப் போய்தான் ஆகவேண்டும். போகும்போது மக்கள் பின்வந்தாலும் அவர்கள் உடன் வர மாட்டார்கள். அவர்கள் திரும்பிச் சென்றுவிடுவார்கள்.`,
-    elaborationEnglish: `Osu WPS ML Cand Ans badon`,
+    elaborationEnglish: `Osu ML Cand Ans badon`,
   },
   {
     id: 155, tantraId: 1, verseNumber: 154,
@@ -1060,7 +1044,7 @@ They that behind temple walls safely dwelt,
 They saw the temple walls crash and crumble,
 And all alike, without a trace, thence did melt.`,
     elaborationTamil: `மனித உடலில் தொண்ணூற்றாறு தத்துவங்கள் வாழுகின்றன. இந்தத் தொண்ணூற்றாறு தத்துவங்களாலும் செய்யப்பட்ட மதிலாகிய உடல் சூழ்ந்த கோயிலுக்குள் ஆன்மாவாகிய உயிர் வாழுகின்றது. எப்போது அந்தக் கோயிலாகிய உடல் பழுதடைந்து கெட்டு உயிர் போகிறதோ அப்போது அதன் மதிலாக இருந்த தொண்ணூற்றாறு தத்துவங்களும் ஒன்றாக ஓடி விடுகின்றன. 96 தத்துவங்கள் – 25 பஞ்சபூத காரியங்கள், 5 வாசனாதிகள்/அவத்தைகள், 10 வாயுக்கள், 10 நாடிக்கள், 4 வாக்குகள், 3 மலங்கள், 3 குணங்கள்) 5 சிவ தத்துவம், 7 வித்யா தத்துவம், 24 ஆன்ம தத்துவம்.`,
-    elaborationEnglish: `The 96 tattvas dwelt within the fortress of the body - temple;
+    elaborationEnglish: `The 96 tattvas within the fortress of the body - temple;
 and when the body-temple ‘crashed down, all of them fled
 in haste.
 
@@ -1078,17 +1062,17 @@ Ninety-Six Tattvas
 
 (1) Earth, Skin, Bone, Tendon, Flesh, Hair, (2) Water, Blood,
 Fat, Brain, Semen, (3) Fire, Food, Sleep, Fear, Coition, Sloth,
-(4) Wind, ~ Running, Walking, Standing, Sitting, Lying
+(4) Wind, ~ Running, Walking, Standing, Sitting,
 (5) Space, Anger, Miserliness, Avarice, Obstinacy, Malice.
 
 2. Nadis in the Body (10)
 
-fda, Pingala, Sushumna, Gandhari, Hasti, Singhavi, Alambutai,
+Pingala, Sushumna, Gandhari, Hasti, Singhavi, Alambutai,
 Purushan, Gugu, Sangini
 
 3. Vayus (airs) in the body (10) -
 
-Prana, Apana, Udana, Vyana, Samana, Naga, Kurma,
+Prana, Apana, Udana, Samana, Naga, Kurma,
 Girihara, Devadatta, Dhananjaya.
 
 4. Desires (3)
@@ -1104,7 +1088,7 @@ Sattva, Rajas. Tamas
 
 7. Sound (4)
 
-Qs oplu Qscrrw Cap`,
+Qs oplu Cap`,
   },
   {
     id: 156, tantraId: 1, verseNumber: 155,
@@ -1131,7 +1115,7 @@ The dear wife, and wealth and home remained behind. They
 mounted the corpse on the bier and sped it towards the burning
 ground.
 
-Vergy curiider Osm_rayp) wpmour`,
+Vergy curiider`,
   },
   {
     id: 157, tantraId: 1, verseNumber: 156,
@@ -1150,19 +1134,18 @@ But some remained; long had they lusted for the dead man's wealth,
 Intent on riches, men deem they could for ever hold,
 Panting and pining for what they might carry by stealth.`,
     elaborationTamil: `பாடல் #155 இல் கூறியபடி தேடிய சொத்துக்கள் மனைவி மக்கள் அனைத்தும் வீட்டிலேயே இருக்க தேடியவன் மட்டும் காட்டில் எரிக்கப்படுவான் என்று கண்கூடாக கண்ட மனிதர்கள் கூட தங்களின் உடலைவிட்டு உயிர் என்றும் பிரியாது இருக்கும் என்று நினைத்துக் கொண்டு பெரும் பாடுபட்டு பலவித செல்வங்கள் சேர்ப்பதும் சேர்த்த செல்வங்களின் மேலே அதிகமான ஆசை வைப்பதும் அவரைத் பின்பற்றி மற்றவர்களும் அவ்வாறே செய்வதும் இதனால் அவர்கள் பிறவியோடு வந்த கர்ம நிலைகள் மாறாமலேயே அவர்களும் உடல் இளைத்து வயதாகி ஒரு நாள் அவர்கள் முதலில் கண்டவனைப் போலவே உயிர்பிரிந்து சுடுகாட்டிற்கு எடுத்துச் செல்லப்படுவதையும் பார்த்தால் இவர்களின் எண்ணத்தை என்னவென்று சொல்வது?`,
-    elaborationEnglish: `TANTRA ONE ONS
-
+    elaborationEnglish: `
 And degenerate without
 
 extinguished.
 
 any Karma getting
 
-ABISOVSUP HHO UPL Quassrig. GLb wSHew wd
+ABISOVSUP UPL Quassrig. wd
 
-oats gions TG oplourt gylssVer
+oats gions TG oplourt
 
-Gags Curé& apa Oi Map 14`,
+Gags apa Oi Map 14`,
   },
   {
     id: 158, tantraId: 1, verseNumber: 157,
@@ -1180,7 +1163,7 @@ They but followed him to the river's edge--not a step beyond;
 Then sorrow dropped its mark, quick the pyre was lit,
 Then the plunge in water, heart-whole they, graceless band.`,
     elaborationTamil: `ஒருவன் இறந்தபின் அவனது உடலைச் சுற்றி நின்று கூவி ஒப்பாரி வைக்கும் உறவினர்களும் சுற்றத்தாரும் மனைவியும் மக்களும் அவனது உடலை ஊரின் எல்லை சுடுகாடு வரை எடுத்துச் சென்றபின் தங்களின் நெற்றியின் மேல் அரும்பிவிட்ட வேர்வையை துடைத்து நீக்குவது போல் அவனது உடலையும் இறக்கி வைத்து விறகுகளை அடுக்கி அதற்கு நெருப்பு மூட்டிவிட்டு நீரினில் தலை முழுகி விட்டுச் சென்று விடுபவர்கள். தனக்கு உறுதிணையாய் இருந்த அவனது உடலையும் அவனது அன்பையும் அப்போதே மறந்துவிட்ட நீதியில்லாதவர்கள் இவர்கள். கருத்து: ஒருவன் இருக்கும் வரை அவன் மூலம் கிடைத்த அனைத்தையும் அனுபவித்துக்கொண்டு அவனோடு அன்பாக இருந்தவர்கள் அவன் இறந்ததும் அனைத்தையும் மறந்துவிட்டும் தங்களுக்கும் ஒரு நாள் இறப்பு வரும் என்பதை நினைத்துப் பார்க்காதவர்கள் நீதியில்லாதவர்கள்.`,
-    elaborationEnglish: `GrsHor wor QarosG Gwoict cues Hs ros`,
+    elaborationEnglish: `wor cues Hs ros`,
   },
   {
     id: 159, tantraId: 1, verseNumber: 158,
@@ -1198,7 +1181,7 @@ The Great Potter from watery clay wrought to shape;
 If the moulded pot breaks, men keep the pieces still,
 But if the vital body cracks, who even a while cares it to keep?`,
     elaborationTamil: `இந்த உலகம் முழுவதும் பிறக்கின்ற உயிர்களின் உடல்கள் எல்லாம் அழகாக செய்யப்பட்ட மண்குடம் போன்றது. தாயின் வளமை பொருந்திய இடையின் முன்பிருக்கும் வயிற்றிலிருக்கும் குளமாகிய கருப்பைக்குள் சுரோணிதமாகிய மண் மற்றும் சுக்கிலமாகிய நீர் கலந்து குயவனாகிய இறைவனால் படைந்த உடல் இது. மண்ணால் செய்யப்பட்ட குடம் உடைந்து போனால் கூட ஓடாக பயன்படும் என்று வைத்திருக்கும் மனிதர்கள் தோலாகிய மண்ணால் செய்யப்பட்ட இந்த உடலாகிய குடம் உடைந்து போனால் (இறந்து போனால்) மட்டும் வைத்திருக்காமல் வெளியே எடுத்துச் சென்று சுடுகாட்டில் வைத்து எரித்துவிடுவார்கள். கருத்து: களிமண்ணால் செய்யப்பட்ட உடைந்த குடத்திற்கு இருக்கும் மதிப்பு கூட உயிர்பிரிந்த உடலுக்கு கிடையாது.`,
-    elaborationEnglish: `FRO (PLUG! Friicy UBOern_ Ou`,
+    elaborationEnglish: `FRO (PLUG! Friicy Ou`,
   },
   {
     id: 160, tantraId: 1, verseNumber: 159,
@@ -1219,12 +1202,12 @@ All to ashes burnt--no more we know besides.`,
     elaborationEnglish: `‘
 
 The body fashioned out of numerous constituents— hair,
-bones, flesh, blood and lymph—dressed in diverse styles was
+bones, flesh, blood and in diverse styles was
 finally consigned to flames, "and tyrned to ashes. Beyond that
 we' know nothing.
 
-MASH wipiplh JoonsGong Bova F Fra
-ASD UpSOSs Ro0MsEGos DF giov cot &`,
+MASH wipiplh Bova F Fra
+ASD DF giov cot &`,
   },
   {
     id: 161, tantraId: 1, verseNumber: 160,
@@ -1245,16 +1228,16 @@ Loud they wailed, and bore the body in haste.`,
     elaborationEnglish: `Seeds of green the fruit of fig consumed,
 Loud they wailed, and bore the body in haste.
 
-Seeds of green are symbolic of unending karmas. The
+Seeds of green are of unending karmas. The
 particular green (arai keerai) referred to grows the’ more you
 cut it.
 
 The body is described as a fig fruit, as the word ‘athi’ (Tamil
 form of Sanskrit word[‘ashti ‘Vimeans bone, as well as fig.
 
-Gingyld Upsig.cvene Giiptb ait dL Ievency
+Gingyld Giiptb ait dL Ievency
 
-grmouwnet CGuwis seal eG cuwirento`,
+grmouwnet seal eG cuwirento`,
   },
   {
     id: 162, tantraId: 1, verseNumber: 161,
@@ -1277,7 +1260,7 @@ nor foundation below. Pillars it has two, and central beam
 as well; but no cross beam exists; and the thatch is flimsy.
 Of such incompleteness is this handiwork.
 
-BOW Qoouyh s#Hp spisgyo`,
+BOW Qoouyh spisgyo`,
   },
   {
     id: 163, tantraId: 1, verseNumber: 162,
@@ -1299,7 +1282,7 @@ And, seeking fire, flung the body to its consuming heat.`,
 ceased. However, some do still sing plaintive tunes, after
 consigning the body to the flame “and turning it to ashes.
 
-Year UMpsss Spo Breese`,
+Year Spo Breese`,
   },
   {
     id: 164, tantraId: 1, verseNumber: 163,
@@ -1321,10 +1304,9 @@ At seventy it turned to dust--thus briefly ends the show.`,
 body. At the age of 12 it began to smell the odours of adult
 life; at 70 it turned to dust. What did it leave behind?
 
-ett T os” i eee Sy | ee Ep ee
 - ay.
 
-YEGs sPurt wypagat eur`,
+sPurt eur`,
   },
   {
     id: 165, tantraId: 1, verseNumber: 164,
@@ -1343,11 +1325,7 @@ Night follows day--this they fail to grasp,
 And thus immersed fall and moan,
 Ever sobbing more and more.`,
     elaborationTamil: `விளக்கு (மனித உடல்) இருக்கும் போதே அதிலிருக்கும் ஒளியை (உயிர்) எடுத்துக் கொண்டான் (எமன்) என்று கதறுபவர்கள் எண்ணெய் (கர்ம வினைகள்) தீர்ந்துவிட்டதால்தான் ஜோதியும் (உயிர்) நின்றுவிட்டது என்பதை அறியாத மூடர்கள். தினமும் விடியும் காலைப் பொழுது (பிறப்பு) பிறகு இரவு வர மறைந்து இருளாகும் (இறப்பு) என்பதை உணராத இந்த உலகத்தவர்கள் இறந்தவனுக்காக துக்கத்தில் புலம்புகின்றனர். பிறப்பு உண்டெனில் இறப்பும் உண்டு என்பதை அறியாமல் உலகப் பற்றுக்களில் ஆசை வைத்து நிலையற்ற உடம்பை நிலையென்று எண்ணி வருந்துகின்றனரே.`,
-    elaborationEnglish: `WLAN Dsrctenpuct wwe UA_Ss
-
-2LQIb 2 GGL 2 Gag Vsmprow
-
-Qriuris Csipr 5585 Devi`,
+    elaborationEnglish: ``,
   },
   {
     id: 166, tantraId: 1, verseNumber: 165,
@@ -1371,7 +1349,7 @@ The kith and kin, widely crying, did shout and howl and sigh.`,
 all, writhes in the seventh hell. Of what avail‘ are kith and
 kin, all weeping and shouting?
 
-YOL_WYWs STV AGES BOG`,
+STV AGES BOG`,
   },
   {
     id: 167, tantraId: 1, verseNumber: 166,
@@ -1393,7 +1371,7 @@ Circling from left to right, expires the breath of life.`,
 of a victorious army. But even as the cavalcade passes, life
 ebbs away without warning. How very transitory is it all!
 
-Gsripsuusr Horn Osrpoms Qeuign_Qru`,
+Horn Osrpoms`,
   },
   {
     id: 168, tantraId: 1, verseNumber: 167,
@@ -1413,8 +1391,8 @@ The Great Show-man blows and batters with a smile.`,
     elaborationTamil: `உடலாகிய இந்தத் தோல் பையினுள் (தோலால் சூழ்ந்த உடல்) உயிராக இருந்து வினைகளைச் (செயல்களை) செய்து அதன் மூலம் தன்னுடைய கர்ம பலன்கள் கழிந்த பின் உடல் இயங்க காரணமான இறைவன் (உயிர்) உடலில் இருந்து பிரிந்த பிறகு வெறும் எலும்பும் தோலுமாகிய இந்த மனித உடலை, காக்கை வந்து கொத்தித் திருடிச் சென்றால் என்ன? கண்டவர்கள் பிணம் என்று பழித்தால் என்ன? உடலை சுட்டு எரித்தபின் எலும்பின் மேல் பால் ஊற்றி காரியம் செய்தால் என்ன? பலவகைப் பட்டவர்களும் வந்து உயிர் இருக்கும் போது செய்த காரியங்களைப் பற்றி பழி சொன்னால் என்ன? பலரும் புகழ்ந்து பேசினால் என்ன? அதனால் இந்த உயிருக்கோ அல்லது வெறுமெனக் கிடக்கும் உடலுக்கோ ஒரு பயனும் இல்லை. கருத்து: வாழும்போது இந்த உடலின் மூலம் இறைவனை அடையும் வழிகளைப் பற்றி எண்ணாமல் இறந்தபிறகு அந்த வெறும் உடலை என்ன செய்தாலும் அதனால் ஒரு பயனும் இல்லை.`,
     elaborationEnglish: `3. Qedanb Hewureow
 
-AGB S75 Qbd aonuys CaGw
-Durga IniQsnsiren’s Gurcuger apcrong
+AGB aonuys CaGw
+Durga Gurcuger apcrong
 Os Gea 2 DOD Dadeumené Caen`,
   },
   {
@@ -1435,9 +1413,8 @@ To you thus in fear dazed, the penance true its reward pays.`,
     elaborationTamil: `நாட்டுக்கு நன்மை செய்யும் அரசனின் ஆதிக்கத்தில் இருக்கும் யானைப் படைகளும் தேர்களும் அவன் ஈட்டிய பெருஞ் செல்வங்களும் பின்னொரு நாளில் அவனை வெற்றிகொள்ளும் வேறொருவருக்குச் சொந்தமாகிவிடும். இப்படி யாருடைய செல்வமாக இருந்தாலும் ஓருநாள் மற்றவர் அந்த செல்வங்களை எடுத்துச் செல்வார்கள். அப்படி வேறொருவர் வந்து எடுத்துக் கொள்ளும் முன்னரே உலகச் செல்வங்களுக்கெல்லாம் தலைவனான இறைவனைப் பற்றி தெரிந்து கொண்டு அவனைப் பற்றிய தெளிவு பெற்று உணர்ந்து அவன் திருவடி சென்று சேர்ந்துவிட்டால் அதன் பிறகு செய்வதற்கு இவ்வளவு கடினமா என்று உயிர்கள் பயப்படும் அளவிற்கு இருக்கும் மாபெரும் தவங்கள் எதுவுமே செய்யத் தேவையில்லை. கருத்து: ஒரு மாபெரும் நாட்டையே ஆளும் அரசனாக இருந்தாலும் அவனிடமிருக்கும் எந்தச் செல்வமும் நிலைப்பதில்லை. நிலையாத இந்த செல்வங்களில் ஆசை வைக்காமல் பெறுவதற்கு அரிய மாபெரும் செல்வமாக என்றும் நிலைத்து நிற்கும் இறைவனிடன் சென்று சேர்ந்துவிடவேண்டும். அவ்வாறு இறைவனைச் சென்று சேர்வதற்கு மாபெரும் தவங்கள் எதுவும் தேவையில்லை அவன் திருவடியை உளமாற இறுகப் பற்றிக்கொண்டு முழுவதுமாக சரணடைந்துவிட்டாலே போதும்.`,
     elaborationEnglish: `Quéep Piacr Qociuip Qurégs
 
-Bwagy Osdagengé Qsradrovayd Coucdro
 
-wwdep prowWer cutencut Carencaes`,
+cutencut Carencaes`,
   },
   {
     id: 170, tantraId: 1, verseNumber: 169,
@@ -1469,7 +1446,7 @@ from the pouring clouds. 3
 
 Acrerg wrOor Dagcuniacr genpacr
 
-2 orgyuit. Guriba to gsari OMGSS!`,
+2 orgyuit. Guriba to OMGSS!`,
   },
   {
     id: 171, tantraId: 1, verseNumber: 170,
@@ -1488,8 +1465,7 @@ Seeing their own shadows to them useless though nearby;
 The life that with the body comes as surely departs;
 They see not; the light that lends lustre to the seeing eye.`,
     elaborationTamil: `நமது நிழலாக இருந்தாலும் அது நமக்கு உதவாது (நிழல் நமது கூடவே வந்தாலும் அதில் நாம் ஒதுங்கி இளைப்பாற முடியாது) என்பதைத் தெளிவாக கண்ட பிறகும் நாம் கஷ்டப்பட்டு சேர்த்த செல்வங்கள் நமக்கு எப்போதும் உதவும் என்று நினைத்துக்கொண்டு இருப்பவர்கள் ஏமாளிகளே. நமது உடலோடு ஒன்றாகப் பிறந்த உயிர் கூட நம்மோடு என்றும் நிலைத்திருக்காமல் என்றாவது ஒரு நாள் போய்விடும். இப்படி நிலையில்லாத எதிலும் மனதை வைக்காமல் நமக்குள் மனதைச் செலுத்தி அங்கே ஒளிர்ந்து கொண்டிருக்கும் இறைவனின் திரு ஒளியை அகக் கண்ணால் கண்டு என்றும் நிலையான இறைவனை உணர்ந்து கொள்ளுங்கள்.`,
-    elaborationEnglish: `TANTRA ONE L245 f
-
+    elaborationEnglish: `
 The life that with the body comes as surely departs;
 _ They see not; the light that lends lustre to the seeing
 eye.
@@ -1499,7 +1475,7 @@ to you. How is it then. you cling on to possessions? It is
 vain hope that it will afford you security. With your body,
 life too departs. Seek that which imparts light to all.
 
-Fi_ig.w Corl, Womrmacir 19. 75 UpLd`,
+Corl, Womrmacir 19. 75 UpLd`,
   },
   {
     id: 172, tantraId: 1, verseNumber: 171,
@@ -1519,9 +1495,7 @@ But soon the subtle thief digs and steals the hoarded wealth;
 Likewise, our earthly treasures the same story repeat.`,
     elaborationTamil: `வாசனை மிக்க மலர்களைத் தேடிச் சென்று அவைகளில் இருக்கும் தேனைக் கொஞ்சம் கொஞ்சமாக சேகரித்து ஒரு மரத்தின் கொம்பில் கொண்டு வந்து கொஞ்சம் கொஞ்சமாகச் சேர்த்து வைத்து பெரிய தேனடை அளவிற்கு சேமித்து வைக்கின்றது தேனீக்கள் ஒரு நாள் அந்தப் பெரிய தேனடையைக் கண்டுவிட்ட மனிதர்கள் வந்து அவைகளைத் தீப்பந்தங்களால் துரத்திவிட்டு அவை சேமித்து வைத்திருந்த தேனடையைக் கொண்டு போய்விடுகிறார்கள். தேனீ தாமே தேனடையைப் பெரியதாகச் சேமித்து தானே மனிதர்களுக்கு காட்டிக்கொடுத்து விடுகிறது. அதுபோலவே உயிர்கள் தாங்கள் சிறுகச் சிறுகச் சேகரித்த செல்வங்களையும் ஒரு நாள் மற்றவர்கள் கவனிக்குமளவு தங்களிடமிருக்கும் செல்வத்தைப் பிறருக்கு பெரிதாகக் காட்டிக்கொடுத்து விட அவர்களைவிட வலிமையான மற்றவர்கள் வந்து அந்தச் செல்வங்களைக் களவாடிச் செல்வார்கள். எனவே உலகச் செல்வங்கள் எதுவுமே எப்போதுமே நிலைத்து இருக்காது.`,
     elaborationEnglish: `The bee gathers honey industriously. But someone else steals
-it and enjoys. So it is with your wealth.
-
-LTDDS snorel Tt WY SSM Dedusongé`,
+it and enjoys. So it is with your wealth.`,
   },
   {
     id: 173, tantraId: 1, verseNumber: 172,
@@ -1541,10 +1515,7 @@ And thus when the Pale Sargeant comes, for the great leap be ready.`,
     elaborationTamil: `உலகில் நிலையான செல்வம் எது என்று தெளிவான அறிவு இல்லாதவர்கள் யாம் கூறுவதைக் கேட்டுத் தெளிவடையுங்கள். அவ்வாறு தெளிவடைந்துவிட்டால் உங்களுக்குத் துன்பங்கள் இருக்காது. ஆற்றுப் பெருக்குப் போல திரண்டு வரும் பெருஞ் செல்வங்களைக் கண்டு மதிமயங்கி நிற்காதீர்கள். அந்தச் செல்வங்கள் எதுவும் நிலையானது அல்ல. அந்தச் செல்வங்களை உங்களது சேமிப்பிலிருந்து மாற்றிப் பிறருக்குக் கொடுத்துத் தீர்த்துவிடுங்கள். ஏனெனில் நீங்கள் இறக்கும் தறுவாயில் எம்பெருமான் வரும்பொழுது இந்தச் செல்வங்கள் எதையும் காட்டி அவனைத் தடுக்கவும் முடியாது. இந்தச் செல்வங்கள் எதையும் விட்டுவிட்டு வரமாட்டேன் என்று கூறவும் முடியாது. நீங்கள் பிறருக்குக் கொடுத்து உதவிய தருமங்களே உங்களோடு நிலைத்து நிற்கும்.`,
     elaborationEnglish: `Wealth comes like the flood of waters and flour away. Put
 not your trust in it. Fling it aside and think of the Lord.
-You can defy death in triumphant joy.
-
-EOINPAarp ilenss Qacdgyri sovrdGured
-AMPActy BsmEEGCEIT IHC ors`,
+You can defy death in triumphant joy.`,
   },
   {
     id: 174, tantraId: 1, verseNumber: 173,
@@ -1562,7 +1533,7 @@ Less stable even than the boat which midstream upturns!
 They but see the dissolving body and know not
 The Binding Knot to salvation eternal.`,
     elaborationTamil: `உயிர்கள் தாங்கள் மகிழ்ச்சியாக இருக்க வேண்டி சம்பாதிக்கும் செல்வங்களும் சொத்துக்களும் ஆற்றில் சென்றுகொண்டிருக்கும் படகு சட்டென்று வெள்ளம் வந்தால் எப்படி மூழ்கிவிடுமோ அதுபோல சட்டென்று போய்விடும். வெள்ளம் பெருகும் கடலாக இருந்தாலும் அதிலிருக்கும் சிப்பிக்கு எதுவும் ஆவதில்லை. அதுபோலவே அழிந்துபோகின்ற இந்த உடலுக்கு உள்ளேயே என்றும் நிலைத்திருக்கும் முக்தியை அடையும் வழியாக ஒரு சிமிழை (குண்டலினி சக்தி) இறைவன் வைத்திருப்பதை எவரும் ஆராய்ந்து பார்த்து அறிந்துகொள்வதில்லை. உட்கருத்து: அழிகின்ற செல்வங்களில் ஆசை வைக்காமல் என்றும் அழியாத முக்திக்கு வழிதரும் குண்டலினி சக்தியை தியானத்தால் எழுப்பி அதைச் சகஸ்ரர தளத்தின் உச்சியில் கொண்டு சேர்த்து இறைவனின் நமக்குள் உணர்ந்து அறிவுத்தெளிவு பெற வேண்டும்.`,
-    elaborationEnglish: `Gog ngancr aMiayQew cunta_GS`,
+    elaborationEnglish: ``,
   },
   {
     id: 175, tantraId: 1, verseNumber: 174,
@@ -1580,7 +1551,7 @@ Little knowing how fragile and fleeting these delights be;
 But the yearning souls that seek and build on treasure true,
 Find support firm and ne'er failing company.`,
     elaborationTamil: `உடன் வாழும் மனைவியும் மக்களும் (பிள்ளைகளும்) உடன் பிறந்தவர்களும் (சகோதர சகோதரிகள்) ஆகிய இவர்கள் அனைவருமே நாம் சேர்த்து வைத்த செல்வங்களில் எமக்குக் கொடுக்கும் அளவு என்ன என்றுதான் கேட்பார்கள். அதற்காக அவர்களுக்கும் சேர்த்து மேலும் மேலும் செல்வங்களைச் சேமிக்கும் மனிதர்களுக்கு அவர்கள் இறக்கும் தறுவாயில் கூப்பிட்டு அழைத்தால் உடனே வருவதற்கென்று யாரும் இருக்க மாட்டார்கள். அவர் இறந்ததும் அவர் சேமித்து வைத்த செல்வங்களை உடனே கூறு போட்டுவிடுபவர்கள் மட்டுமே இருப்பார்கள். எப்போதும் கூப்பிட்ட குரலுக்கு உடனே வந்து அருள் செய்யும் இறைவனின் துணையை விரும்பி அழிந்துவிடுகின்ற செல்வங்களின் மேல் ஆசை வைத்துச் சேமிக்காமல் என்றும் நிலைத்திருக்கும் இறைவன் மேல் எண்ணம் வைத்து அவனை வணங்கி வழிபடுங்கள். நீங்கள் கூப்பிட்ட குரலுக்கு அவன் எப்போதும் கூட வருவான்.`,
-    elaborationEnglish: `BILy.w STS wt cups) cuss AIALWIcst`,
+    elaborationEnglish: `STS wt cups) cuss`,
   },
   {
     id: 176, tantraId: 1, verseNumber: 175,
@@ -1598,7 +1569,7 @@ There's one stake to hold but nine exits to leave;
 The old familiar faces come smiling to greet and bow;
 Deceivers ever, they abandon us without a reprieve.`,
     elaborationTamil: `உயிர்கள் உலக ஆசைகள் அதிகமாக கொண்டவை அதையும் தாண்டிய உண்மையைத் தெரிந்துகொள்ளும் உயிர்கள் இங்கே அதிகம் இல்லை. உயிரைக் கட்டி வைக்கும் உடல் ஒன்றுதான். ஆனால் அந்த உயிர் உடலை விட்டுப் பிரியும் வழிகளோ ஒன்பது (2 கண்கள், 2 காதுகள், 2 மூக்குத்துவாரங்கள், வாய், பால்குறி, ஆசனவாய்). உயிர் எவ்வளவுதான் ஆசைகொண்டு மாபெரும் பொருள் சேர்த்தாலும் அதன் உடலிலிருந்து உயிர் பிரிந்து போய்விட்டால் அந்த உயிரைப் பெற்று மண்ணில் வளர்த்த தாய் தந்தையர் முதற்கொண்டு உறவினர்கள் அனைவருமே வந்து உயிர் இல்லாத உடலை மரியாதை நிமித்தம் வணங்கிவிட்டு அந்த உடலைப் புதைக்கும் / எரிக்கும் இடத்திற்கு கொண்டு சென்று இறந்த உடல் இதுதான் என்று காட்டிக் கொடுத்துவிட்டு அந்த உடலையும் அதனோடு இதுவரை அவர்களுக்கு இருந்த உறவையும் கைவிட்டு விட்டுச் சென்றுவிடுவார்கள். அதன் பிறகு அந்த உயிர் ஈட்டிய அனைத்து செல்வங்களையும் இது உனக்கு இது எனக்கு என்று காட்டிக் கொடுத்து எடுத்துக்கொள்வார்கள். இந்த உலக உண்மையை உணராமல் உயிர்கள் வெறும் ஆசையில் ஆடிக்கொண்டு என்றும் நிலையான உண்மையாகிய இறைவனை மறந்துவிடுகின்றன.`,
-    elaborationEnglish: `1 @uouiMh. QaErcIi Mone: ACTON TSR SHI LD`,
+    elaborationEnglish: `1 Mone: ACTON SHI LD`,
   },
   {
     id: 177, tantraId: 1, verseNumber: 176,
@@ -1651,7 +1622,7 @@ calf grows into the fat bull and in a few years dies. They
 See all these; yet they do not realise how very emphemeral
 youth is!
 
-foster sramisar tor OanOsGans`,
+foster sramisar tor`,
   },
   {
     id: 179, tantraId: 1, verseNumber: 178,
@@ -1669,9 +1640,9 @@ None to probe and perceive Him profound;
 Even if Time's thread be to the utmost stretched,
 Still they know not the spark that kindles all the lamps around.`,
     elaborationTamil: `உயிர்கள் பிறந்து பல ஆண்டுகள் உலகத்தில் கழித்தாலும் இறைவனைப் பற்றிக்கொண்டு அவனைத் தமது ஆன்மாவிற்குள் புகுந்து உணர்ந்து அறிபவர்கள் யாரும் இல்லை. எரிகின்ற தீபச் சுடரை எத்தனை காலங்கள் தூண்டு கோலால் திரிநூலை நீட்டி நீட்டி எரிய வைத்தாலும் திரிநூல் தீர்ந்தபின் விளக்கு அணைந்து போகும் என்கின்ற உண்மையை யாரும் அறியாமல் இருக்கின்றார்கள். திரி போன்ற உடலின் உள்ளே தீபம் போல் இருக்கும் உயிர் பிறந்து வளர வளர எரியும் தீபத்தின் திரிநூல் தீர்ந்துவிடுவதுபோல உடலும் இளமை மாறி முதுமை கூடி ஒரு நாள் அழிந்து போய்விடும். கருத்து : உடல் என்றும் இளமையுடன் இருக்காது என்ற உண்மையை உணர்ந்து உயிர் பிரிந்து போவதற்குள் இருக்கும் காலத்தில் என்றும் நிலைத்திருக்கும் இறைவனைத் தமக்குள் உணர்ந்து அவனுடன் பேரின்பத்தில் இணைந்து எப்போதும் நிலைத்திருக்க முயற்சி செய்ய வேண்டும்.`,
-    elaborationEnglish: `Csiigan Ooms Qoromw sent_wpmp
+    elaborationEnglish: `Ooms Qoromw
 
-a dispp Uaioe afu sGumacr`,
+a dispp Uaioe afu`,
   },
   {
     id: 180, tantraId: 1, verseNumber: 179,
@@ -1707,7 +1678,7 @@ Like cane's sugary juice, slow sucked, was he to them,
 The idol of wenches with budding breasts and jewelled shapes;
 But now the sweetest cane has bitter nux vomica become.`,
     elaborationTamil: `ஆண்களின் உடல் முன்பு இளமையாக இருந்த காலங்களில் மென்மையான இயல்புடைய பெண்கள் கரும்பை உடைத்து அதன் அடிக்கரும்பிலிருந்து எடுக்கும் சாறு போன்ற இனிப்பாக நினைத்து விரும்பினார்கள். பூக்களின் அரும்பு போன்ற மென்மையான மார்புகளும் ஆலமரத்தின் இலை போன்ற இடையையும் உடைய இந்தப் பெண்களுக்கு இப்போது வயதாகி வலுவிழந்து சுருங்கி இருக்கும் ஆண்களின் உடம்பு எட்டிக் காய் போல கசக்கிறது. அவர்களுக்கு முன்பு கரும்புச் சாறு போல இனித்ததும் இன்று எட்டிக் காய் போல கசப்பதும் ஒரே உடல்தான் என்பதை உணர்ந்து கொள்ளுங்கள். கருத்து : நிலையில்லாத இந்த இளமையான உடலில் கிடைக்கும் சிற்றின்பத்தில் மூழ்கிவிடாமல் என்றும் நிரந்தரமான இறைவனால் கிடைக்கும் பேரின்பத்திலேயே மூழ்கி இருங்கள்.`,
-    elaborationEnglish: `In youth, man is the cynosure of women’s eyes; but when
+    elaborationEnglish: `In youth, man is the of women’s eyes; but when
 palsied age advances, he becomes an object of repulsion
 to them. He who was like sugarcane to them now becomes
 bitter nux-vomica. Such is youth’s brief dazzle of glory.
@@ -1715,7 +1686,7 @@ bitter nux-vomica. Such is youth’s brief dazzle of glory.
 Tweet Qenarwer Das get aon ety
 sree apace seid Peat
 
-GIVE SL FSM oon MS Froog.`,
+GIVE SL oon MS Froog.`,
   },
   {
     id: 182, tantraId: 1, verseNumber: 181,
@@ -1737,12 +1708,9 @@ Him who, transcending this world, beyond the universe presides.`,
 stages of life; and none of the seven stages lasts. Youth passes
 into age and then to senile decay.
 
-DTM UBUGILb curcernoht aLPougi eh
 
-FTV IAM Geer Fvanu crm&ayd
 
-Do Hoacriiucurs AcmuCe Osu s1Gan. 18
-Think of the Lord Through Time’s Cycles
+Think of the Lord Through Time’s
 
 Day after day we wake to greet the morn,
 
@@ -1759,11 +1727,10 @@ ne’er miss His great Love’s
 Man rises with the sun and goes to sleep at night. Day after
 day, night after night this happens and thus life fleets away
 
-UGQA’AG uu umsHleam cunGp. _ 183
 
 The Body Perishes with the senses
 
-The five senses dwell inside the body,
+The five senses inside the body,
 
 They may leave it any time,
 
@@ -1772,11 +1739,11 @@ If the five senses become unsteady, _
 The body which is the container of the senses also
 perishes.
 
-semen gm smis® Corgpid 2. cv&lencs
+semen gm smis® Corgpid 2.
 
-coucicr nasAcrm Osreipi spent
+coucicr Osreipi spent
 
-err gyi y suTenguyid enemy GuiTenguyLd
+err gyi y suTenguyid enemy
 
 Know Him the Eye of the eye
 
@@ -1796,7 +1763,7 @@ Grave?
 
 We pitiable creatures do not think,
 
-Of the Lord who dwells within with sixteen Kalas
+Of the Lord who within with sixteen Kalas
 Then we wonder why we enter the mother’s womb,
 And later pass away again and again.
 
@@ -1806,7 +1773,7 @@ These are in the Sahasra Padma.
 
 Vide “Introduction te Tantra Sastra, “‘by Sir John Woodroffe,
 
-THAw pIeficd Qensulosred ages`,
+pIeficd Qensulosred ages`,
   },
   {
     id: 183, tantraId: 1, verseNumber: 182,
@@ -1910,7 +1877,7 @@ They see how soon they flash their beauty and die;
 Yet they seek not the Holy Feet;
 Alas they know not when the sure call comes from High.`,
     elaborationTamil: `உயிர்கள் வினைப் பயனாக உலகத்தில் பிறக்கும் பொழுதே இந்த உலகில் எத்தனைக் காலம் இருக்க வேண்டும் என்பதை ஒரு நாளில் எத்தனை முறை மூச்சுவிடுகின்றன என்கிற கணக்கின்படி எத்தனை நாள் வாழ வேண்டும் என்று வரையறுக்கப்பட்டே பிறக்கின்றன. இந்த வரையறுக்கப்பட்ட நாள்களில் இளமையாக இருக்கும் நாட்கள் கொஞ்சம் சிறிது நாட்களே. இளமை இருக்கும் போதே எப்போதும் நிரந்தரமான இறைவனைப் பாடித் தொழுது வாழ்வதே சிறந்தது. இளமை இருக்கும் நாட்களிலேயே இறைவனைப் பற்றிய எண்ணங்கள் வரவிடாமல் தடுத்துவிடும் பலவித ஆசைகளை எடுத்து வெளியே எறிந்துவிடத் தெரியாமல் உயிர்கள் ஆசைக்கு அடிமை ஆகித் தங்களின் வாழ்க்கையை இழந்து பின்பு வயதாகி இறந்துவிடுகின்றன. ஆசைக்கு அடிமையாகாமல் உயிரோடு இருக்கும் காலங்களிலேயே இறைவனைப் பற்றிய சிந்தனையில் வாழ்ந்த உயிர்கள் இறைவனை அடைவதை நானும் இருந்து கண்டேன்.`,
-    elaborationEnglish: `aars CargQel Moamrpg He psy`,
+    elaborationEnglish: `aars Moamrpg He psy`,
   },
   {
     id: 189, tantraId: 1, verseNumber: 188,
@@ -1953,13 +1920,13 @@ Five the masters who, inside, make display;
 But when the great king, indwelling, departed,
 The drum lay shattered, a heap of inert clay.`,
     elaborationTamil: `மண்ணினால் கட்டப்பட்ட கோட்டை ஒன்று இருக்கின்றது. அந்தக் கோட்டையிலிருந்து இரண்டுவித தாளங்களின் சப்தங்கள் எப்போதும் கேட்கின்றது. அந்தக் கோட்டையினுள் ஐந்து சிற்றரசர்கள் இருக்கின்றார்கள். அவர்களுடனே அவர்களின் தலைவனான பேரரசன் ஒருவனும் அந்தக் கோட்டைக்குள் இருக்கின்றான். இருக்கும் காலம் முடியும்போது அந்தப் பேரரசன் வெளியே சென்றுவிட அவனுடனே ஐந்து சிற்றரசர்களும் சென்றுவிட்டனர். அவர்கள் சென்றபின் அந்தக் கோட்டை மீண்டும் மண்ணோடு மண்ணாகி அழிந்து போய்விட்டது. இதில் கோட்டை என்பது உயிரின் உடல். தாளங்கள் என்பது உயிர் உள்ளிழுக்கும் மூச்சும் வெளிவிடும் மூச்சுக்காற்றும் (இந்த இரண்டும் சேர்ந்துதான் அவர்களின் வாழ் நாட்களைக் கணக்கிடுகின்றது). ஐந்து சிற்றரசர்களாவது உடலிலிருக்கும் ஐந்து புலன்கள் (கண் – பார்த்தல், காது – கேட்டல், மூக்கு – நுகர்தல், வாய் – பேசுதல், தோல் – தொடுதல்), பேரரசன் என்பவர் இறைவன். எப்போது உயிர்கள் இழுத்து விடும் மூச்சுக்காற்றுக்களின் வரையறுக்கப்பட்ட எண்ணிக்கை முடிகின்றதோ அப்போது அவர்களின் உடலிலிருந்து உயிர் பிரிந்து உடல் அழிந்து மண்ணோடு மண்ணாகி விடும்.`,
-    elaborationEnglish: `The body is like unto a musical drum. It has two rhythms,
+    elaborationEnglish: `The body is like unto a musical drum. It has two
 
 the right and left breaths; five its players, the senses; and
 one the king within—the Jiva. When he © Sepa the drum is
 as dead as clay.
 
-Gomis prgcncr Causnpsé Gagssonor`,
+Gomis Causnpsé Gagssonor`,
   },
   {
     id: 191, tantraId: 1, verseNumber: 190,
@@ -1977,7 +1944,7 @@ Nandi He is, who in this crumbling frame disports
 They, who know not what an empty vessel this body is,
 They know not what the life sustains and supports.`,
     elaborationTamil: `உயிர்களின் உடலுக்கு தீயிட்டால் வெந்து போகின்ற இந்த உடலின் தலைவனாக இருப்பவனும் வேதங்களின் வழி வினைகளை அழித்து தன்னை அடைய உயிர்களின் உள்ளே இருந்து தனது திருவிளையாடலால் உணர்த்தி குருவாக இருக்கின்றான் கூத்தனான இறைவன். உயிர்கள் தமது உடலுக்குள்ளேயே இருந்து விளையாடும் உயிராக இருப்பது இறைவனே எனும் மாபெரும் ரகசியத்தை அறியாதவர்களாகவும் அண்டசராசரங்களையும் அதிலுள்ள அனைத்தையும் தாங்கவல்ல இறைவனே தமக்குள்ளும் உயிராக இருந்து தம்மையும் தாங்குகின்றான் என்பதையும் அறியாதவர்களாகவும் இருக்கின்றார்கள். கருத்து: உயிர் என்பது இறைவனே அந்த உயிர் எடுக்கும் பிறவியில் உடலுக்குள் வந்து அந்தப் பிறவியின் வினைப்படி உள்ளிருந்தே ஆட்டி வைத்து வினையை அழிப்பதும் இறைவனே இந்த ரகசியத்தை அறியாமல் இருக்கின்றனர் உயிர்கள்.`,
-    elaborationEnglish: `Osrcrpiesit anciQeang ussis DQoursger`,
+    elaborationEnglish: ``,
   },
   {
     id: 192, tantraId: 1, verseNumber: 191,
@@ -2032,7 +1999,7 @@ The Five are the fuel that feeds and kindles the burning Three,
 Gifts of rice in charity give, lest birth flame anew,
 The days missed of such deeds are for ever lost to Thee.`,
     elaborationTamil: `ஒரு பானை அரிசி கரண்டி உள்ளது. இந்த மூன்றையும் வைத்து சோறு சமைக்க அடுப்பில் வைத்து அடுப்பினடியில் ஐந்து விறகுகளை வைத்து எரிக்க வேண்டும். விறகுகள் எரிய பதம்பார்த்துச் சமைக்கப்பட்ட அரிசி சோறாக மாறி உடலை வளர்க்கும் உணவாகின்றது. இதுபோலவே அழிகின்ற இந்த உடலுக்குள் அழிவைத்தராத ஒரு அரிசி இருக்கின்றது. எப்படி எனில் தியானத்தின் வழியாக உடம்பாகிய பானையில் இடகலை பிங்கலை என்கின்ற கரண்டியை வைத்து உபயோகித்து மூச்சுக்காற்றாகிய அரிசியை விறகுகளாகிய பிராணன் (உயிர்க்காற்று), அபானன் (மலக்காற்று), சமானன் (நிரவுக்காற்று), உதானன் (ஒலிக்காற்று), வியானன் (தொழிற்காற்று) வைத்து சமைத்தால் மூச்சுக்காற்று சுழுமுனை வழியே மேலெழும்பி சகஸ்ரரதளத்தை அடைந்து அமுதமாகிய சோறாக மாறும் அந்த அமுதமாகிய சோறானது உயிரை வளர்க்கும் உணவு. அந்த உணவைத் தொடர்ந்து உண்டு வருகின்ற உயிரானது அது இருக்கும் உடலுக்குக் கொடுக்கப் பட்ட காலங்கள் முடிந்தபோதும் அழிந்துவிடாமல் தொடர்ந்து மேலும் வாழ்ந்து இறைவனை தனக்குள் உணர்ந்து பேரின்பத்திலேயே இருக்கும். கருத்து: உடம்பில் தங்களுக்குக் கொடுக்கப்பட்ட காலங்கள் முடியும் வரை மட்டுமே உயிர் வாழ்ந்து அது முடிந்ததும் உடல் அழியக்கூடியவை. உடல் அழியாமல் வைத்து இறைவனை அடைய வேண்டுமெனில் மூச்சுக்காற்றை சுழுமுனை நாடி வழியே மேலேற்றி சகஸ்ரரதளத்தை அடைந்து அமுதம் பெற்று அதைப் பருகி இருக்கும் உடலிலேயே உயிரை வைத்து இறைவனுடன் பேரின்பத்தில் இருக்கலாம்.`,
-    elaborationEnglish: `Qeryy acry.s Aerwet GopGurus`,
+    elaborationEnglish: `Qeryy acry.s Aerwet`,
   },
   {
     id: 195, tantraId: 1, verseNumber: 194,
@@ -2097,7 +2064,7 @@ Let compassion fill your heart.
 
 NON-VIOLENCE
 
-wHSpri sepdsnas Danderenw geist wot`,
+sepdsnas Danderenw geist wot`,
   },
   {
     id: 198, tantraId: 1, verseNumber: 197,
@@ -2127,7 +2094,7 @@ Troast.”’
 They who kill reach but hell; in turn to be tortured and roasted
 in hell fire by Death’s messengers.
 
-Qursveutts Yortene BEG YousnsT OsraaGu sores. sri Qurruigamed`,
+Qursveutts Yortene BEG sores. sri Qurruigamed`,
   },
   {
     id: 199, tantraId: 1, verseNumber: 198,
@@ -2184,12 +2151,11 @@ Death’s agents bind them fast for all to see; Who Siva’s Holy Feet attain an
 And push them quick into the fiery jaws of hell, They come not; such men in Wisdom’s bliss ever
 And fling them down there for ever to be. repose.
 
-8 merweecr BuaiTenD
 
-ASS WMOMUTE YSSHR QGHS5Cu And up the gnarled tamarind they climb for the sour
+ASS And up the gnarled tamarind they climb for the sour
 
-STWEF ouTaiet sKosflujesteet LOM L_mLoGd Only to break their limbs—they whom the senses
-Fésld UPS HS AGH aunGn. 201 beguile.
+STWEF ouTaiet sKosflujesteet LOM Only to break their limbs—they whom the senses
+Fésld UPS HS AGH 201 beguile.
 
 Seek not the Thorny Date; Ripened Jack-Fruit is
 
@@ -2202,7 +2168,7 @@ But the lusting youth covets the guarded neighbour’s 5
 
 mate;
 
-Even as one, declining the luscious ripeness of the QeEnsrowm HenOuch Gare per Cpr`,
+Even as one, declining the luscious ripeness of the QeEnsrowm Gare per`,
   },
   {
     id: 202, tantraId: 1, verseNumber: 201,
@@ -2256,9 +2222,9 @@ Their judgment thus enslaved, they rush to their doom.`,
     elaborationTamil: `உலகத்தில் இருக்கும் செல்வங்களே சிறப்பானவை என்று எண்ணி செல்வங்களை மேலும் மேலும் பெருக்க விரும்பி பல நாடுகளில் படை எடுத்துப் பெரும் செல்வம் சம்பாதித்த அரசனும் இருண்ட வானத்தில் எப்போதாவது தோன்றுகின்ற மின்னல் ஒளி போல அறியாமையாகிய இருளில் எப்போதாவது தோன்றும் சிற்றறிவு ஞானத்தையே பெரிதாக எண்ணிக்கொண்டு தமக்கு அனைத்தும் தெரியும் என்று காட்டிக் கொள்கின்றவனும் ஆண்களைக் கண்டால் பயந்து பார்க்கும் அழகிய பெண்களைக் கண்டு அவர்களின் அழகில் மயங்கி மோகம் கொண்டால் தங்களது அறிவு இருளாகிக் கொண்டு இருப்பதை அறிந்திருப்பவர் ஆகிய இந்த மூவலும் மோகத்தில் சிக்கிக்கொண்ட தங்களின் எண்ணங்களை மாற்ற முடியாமல் இருப்பார்கள் இவர்கள்.`,
     elaborationEnglish: `Only those who are rolling in wealth,
 
-BosD Su stie  Cani oa hh hS6 And those whose intelligence is obscured by
-QurgGss wns yotuorh OsrdGups Such yield to woman’s sensuous .charms;
-S655) wrgart srepp anGp. 202 It is impossible to transform the minds of such men
+Su stie Cani oa hh And those whose intelligence is obscured by
+yotuorh Such yield to woman’s sensuous .charms;
+wrgart srepp anGp. 202 It is impossible to transform the minds of such men
 Seek Not the Sour Tamarind: Sweet Mango is at ga cA
 
 : Hand : Do not yield to the sensuous charms of other men’s wives.
@@ -2266,12 +2232,11 @@ Seek Not the Sour Tamarind: Sweet Mango is at ga cA
 ; 2 ' - You are only rushing to your doom. Hoarders of wealth, rulers
 The sweet, ripe mango, tended with loving care, of kingdoms, and souls of great learning—have all perished
 They bury deep, deeming it unripe still; that way.
-9. waait Bplay
 
 oe cele, saan ogatld 2 Pledge not Your Heart to Lust
-(pooped Darema (pyicucv@sus cumiGied Fine though the leaves be of the nux vomica tree,
+(pooped Darema Fine though the leaves be of the nux vomica tree,
 
-MVGH Opec Deus Genrer ofr. 204 Its wealth of fruit is bitter on tongue, unfit to eat;
+Opec Deus Genrer ofr. 204 Its wealth of fruit is bitter on tongue, unfit to eat;
 
 To them with rounded breasts and luring smile,
 Pledge not your wavering heart in passion’s heat.
@@ -2280,7 +2245,7 @@ Deo not be lured by temptresses. Lovely the fruits of nux
 vomica look when full ripe. But how very bitter and unfit
 they are to eat!
 
-MOAIYS antisct pmaralenw HIrg.od`,
+MOAIYS antisct`,
   },
   {
     id: 205, tantraId: 1, verseNumber: 204,
@@ -2318,8 +2283,8 @@ Real it is not; let not its siren spell you befool.`,
     elaborationEnglish: `The delight that women of easy virtue give you is like eddying
 water. You are sucked forever into passion’s whirls.
 
-Quwaynid ampsans Qornd9y. wrgit
-ywayns Yves sats our erusgyd
+Quwaynid ampsans wrgit
+sats our erusgyd
 lowagynitd aineseurt snag) srosumit`,
   },
   {
@@ -2338,7 +2303,7 @@ They fell into her arms and swooned in the warm embrace;
 "This is life's crowning glory, fit for the gods to share--"
 Thus speaking, they parted leaving not a trace.`,
     elaborationTamil: `இளம் பெண் யானையைப் போல இல்வாழ்க்கையில் இல்லாமல் பொது மகளிராக இருக்கும் பெண்கள் மழை துளிகளைத் தழுவி வளரும் புற்களைப் போல ஆரத்தழுவி ஆணுடன் இருந்தாலும் புதியதாக வேறொரு பணக்காரர் வந்துவிட்டால் அவரைத் தேவர் என்று புகழ்ந்து எம்மோடு இன்புற்று இருங்கள் என்று வேண்டிக்கொள்வார்கள். அப்போது பழைய காதலரை உடனே வெளியே செல்லுமாறு கடுமையான வார்த்தைகளால் பேசி அவர்களிடமிருந்து சுத்தமாக விலகிச் சென்றுவிடுவார்கள். கருத்து: பொது மகளிர் எவ்வளவுதான் நம்மீது அன்போடு இருப்பது போல் காட்டிக்கொண்டு ஆரத்தழுவினாலும் அவர்களின் எண்ணம் எப்போதும் பணத்தின் மேலேயே இருக்கும். நம்மைவிட வேறொரு பணக்காரர் வந்துவிட்டால் அவரை தேவர் என்று புகழுந்து தம்மோடு வைத்துக்கொண்டு இருப்பவரை வெளியே போகச் சொல்லிவிடுவார்கள்.`,
-    elaborationEnglish: `— MMUsS CSL cuT@nOr say. Owes`,
+    elaborationEnglish: `— say. Owes`,
   },
   {
     id: 208, tantraId: 1, verseNumber: 207,
@@ -2379,9 +2344,9 @@ Irretrievably lost are they in lust of sex, sordid and rank.`,
 
 10. BAG Tey
 
-yao HPp5g) Gurulhy cumtpsons
+yao Gurulhy cumtpsons
 
-Qaraitadaw Ganda Osrosrtome.t_ Wovene
+Qaraitadaw Ganda Wovene
 
 Misery of Making a Living
 
@@ -2399,15 +2364,14 @@ pomp.
 
 Neglected, like automatons they walk, sad and men.
 
-fncessantly, you work for making a living and to accumulate
+you work for making a living and to accumulate
 niches. But when the riches are gone, no one cares for you.
 
-Pven your foved ones forsake you. In loneliness you walk.
+your foved ones forsake you. In loneliness you walk.
 bereft of pomp and glory.
 
-nigh gi4Ghb s@oibuem s Creal t
 
-TES SITS Qoomaicnen oS syle
+TES SITS Qoomaicnen oS
 Pre-Occupation With Filling the Stomach-Pit
 
 Even as the day dawns, men strive the stomach-pit
@@ -2425,9 +2389,7 @@ impure, is swept off. -
 
 Your striving for making a living is pathetic. You Stop at
 nothing to fill the stomach pit. But you do not think of filling
-up the birth pit. Adore God and be rid of impurities.
-
-ASGY SITs Gb HHloo s#P5 SV`,
+up the birth pit. Adore God and be rid of impurities.`,
   },
   {
     id: 210, tantraId: 1, verseNumber: 209,
@@ -2484,9 +2446,9 @@ pit cannot be so filled. Seek the Wisdom True; then that pit
 will be filled up and you shall forever be cleansed of
 primordial impurities.
 
-AQSTLIBOSUp FHM Deno Sus
+Deno Sus
 
-2LBOSTG arog sionals Cons`,
+arog sionals Cons`,
   },
   {
     id: 213, tantraId: 1, verseNumber: 212,
@@ -2533,10 +2495,10 @@ Thus he learned to despise life--in the Lord alone refuge finding.`,
 cluster malign; the miseries crowd without count. ‘“‘No more
 this birth for me’” — thus you pray to the Lord.
 
-amerule aliwpuGurger sureyib sags
-Soansys DosrQun CGsat Gyprepw
+amerule sureyib sags
+Soansys Gyprepw
 
-Momrwibd OuGg@hwu Gus wpsomb
+Momrwibd Gus
 
 Prosperity Springs From Sacrifice
 
@@ -2549,7 +2511,7 @@ hold sway,
 All flourish in Victory’s wake when Brahmins true,
 With Vedas commencing pursue the sacrificial way
 
-AED CGULGL AGM Assos`,
+AED AGM Assos`,
   },
   {
     id: 215, tantraId: 1, verseNumber: 214,
@@ -2587,7 +2549,7 @@ So in conduct they lead--to the One Goal headed straight.`,
     elaborationEnglish: `Such Brahmins are elevated in knowledge and conduct. They
 feed others before they feed themselves.
 
-Qoowrgeacr wrongs HumGd Ourcapsi`,
+Qoowrgeacr wrongs Ourcapsi`,
   },
   {
     id: 217, tantraId: 1, verseNumber: 216,
@@ -2605,7 +2567,7 @@ The Brahmins true are they and our goodly support;
 Who, night and day, raise the Sacrificial flame
 Guiding us along the pure Path to our heavenly port.`,
     elaborationTamil: `உயிர்களைக் காத்துக் கொண்டு அவற்றின் துணையாக கூடவே இருப்பது அந்தணர் வளர்க்கும் வேள்வித் தீயினுள் ஜோதியாக இருக்கும் இறைவனே ஆகும். உயிர்களைக் காத்து துணையாக இருக்கும் இறைவன் அருள் வேண்டி அந்தணர்கள் வேள்விகளை முறையாக செய்ய வேண்டும். முறையாக செய்யப்படும் வேள்வியில் இருக்கும் இறைவனுடன் ஹோமத் தீ இணைந்து வளரும் போது அதன் பயனால் கிடைக்கும் இறையருளே உயிர்களுக்கு துணையாக இருந்து அவர்களை முக்தி பெறும் தூய்மையான வழியில் நடத்திச் சென்று முக்தியையும் அளித்துவிடும்.`,
-    elaborationEnglish: `brSyominr& wofipege Gorhnes
+    elaborationEnglish: `wofipege Gorhnes
 
 srfoen tru gomcrlb unmussit`,
   },
@@ -2625,13 +2587,13 @@ The two damsels (Gayatri and Savitri) with them in smiling grace stand;
 Then do the two birds of one seed sprung
 Karmas, good and bad, fluttering, in haste depart.`,
     elaborationTamil: `காலை மாலை இரு வேளையிலும் வேத முறைப்படி மந்திரங்கள் ஓதி அந்தணர்கள் ஹோமம் செய்து வந்தால் அந்த ஹோமத்தில் இருக்கும் இறை சக்தியானது ஹோமத்தினால் மகிழ்ந்து உயிர்களுக்கு அருள் வழங்கிவிட்டு உயிர்களின் கூடவே காத்துக் கொண்டு துணையாக நிற்கும். அப்படி செய்யாமல் இருந்தால் ஆண் பெண் இருவரால் உருவாகும் உயிர் காட்டுப் பறவைகளைப் போல தமது விருப்பப்படி அலைந்து திரிந்து மனதில் நிம்மதி இல்லாமலும் செல்வம் இல்லாமலும் துன்பப்பட்டுக் கொண்டு ஆசைகளிலேயே மயங்கிக் கிடக்கும். கருத்து: ஒரு நாட்டில் வாழும் உயிர்கள் தமது உலகப் பற்றுக்களை அறுத்து முக்தி பெற வேண்டுமெனில், வேத முறைப்படி தினமும் காலையும் மாலையும் யாகம் செய்யும், பாடல் #215ல் உள்ளபடி பெற்றதை பிறருக்கும் கொடுத்து மிஞ்சியதை மட்டுமே உண்டு வாழும் அந்தணர்கள் அந்த நாட்டில் இருக்க வேண்டும்.`,
-    elaborationEnglish: `_The two goddesses (Gayatri and Savitri) with them
+    elaborationEnglish: `two goddesses (Gayatri and Savitri) with them
 
 in smiling grace stand;
 Then do the two birds of one seed sprung
 Karmas, good and bad, fluttering in haste depart.
 
-onpblcr Anhui amsug) cunts`,
+Anhui amsug) cunts`,
   },
   {
     id: 219, tantraId: 1, verseNumber: 218,
@@ -2696,7 +2658,6 @@ All sacrifices performed, the undying wealth to achieve.`,
     elaborationTamil: `உலகத்தில் கிடைக்கும் செல்வங்கள் எவ்வளவு பெரியதாக இருந்தாலும் அவை உயிர்களுக்கு துன்பத்தையே கொடுக்கும் கேடு என்பதை உணர்ந்து கொண்டு அரிதான வேதத்தை தந்த இறைவனை நாடுங்கள். இறைவனை அடைந்து பேரின்பமாகிய இறைசெல்வம் கிடைக்க வேண்டும் என்று வேத முறைப்படி யாகத்தை வளர்த்து அதன் மூலம் அதைப் பெறுவதற்கு உயிர்கள் முயற்சி செய்கின்றனர்.`,
     elaborationEnglish: `Riches bring unending grief. Sacrifices lead to undying riches.
 eerat grocer onde srgcnor
-ema mbar sycatong DESH
 seme. Coriae Caepm SL ESHS`,
   },
   {
@@ -2728,8 +2689,8 @@ our hearts. His eyes are of the three flames—the sun, moon,
 and fire. He is the transcendental Lord of the seven worlds.
 He is the Master of Holy Sacrifices.
 
-eusgicr nH 2 are@;ercs stb Q)enp
-CGansger HG Menara Donors sr ov`,
+eusgicr nH 2 stb Q)enp
+HG Menara Donors sr ov`,
   },
   {
     id: 223, tantraId: 1, verseNumber: 222,
@@ -2748,12 +2709,12 @@ The Fire of Homa which scorches Karma's surging sea,
 The Fire, that the mighty Churner in the sea begot, still abides.`,
     elaborationTamil: `ஹோமத்தில் வளர்க்கும் தீயின் உள்ளிருந்து எழும்புகின்ற ஜோதியானவன் எமது இறைவன் சதாசிவமூர்த்தியே. இறந்த உடல்களைத் தகனம் செய்யும் போது அங்கே நெருப்பாக இருந்து உடலை எரிக்கின்றவனும் அவனே. அந்த உடலின் ஆன்மாவை வானத்திற்கு தாங்கி எடுத்துச் செல்கின்றவனும் அவனே. உடல் பிறக்கும்போதே உயிரோடு சேர்ந்து பிறக்கும் கடல் போன்ற வினைகளை ஹோமத்தின் தீயினுள் இருந்து சத்தத்தோடு எரியும் நெருப்பாக சுட்டு எரிப்பவனும் அவனே.`,
     elaborationEnglish: `He who is inside the fire of sacrificial homa is also the flame
-of the funeral pyre. He who is the flame that scorches Karma
+of the funeral He who is the flame that scorches Karma
 is also the fire that was contained by the Lord in the northern
 seas, when the Devas and Asuras churned the ocean for
 ambrosia.
 
-Qurm® Amsgid ysypgi curGw. ~ 223
+Qurm® Amsgid ~ 223
 Sacrificial Flame is Undying
 
 In true penance striving, to Vedic rites conforming
@@ -2772,11 +2733,10 @@ have kindled the eternal,flame. They become immortals.
 fr. one
 Lee
 
-12. SS BeMOIT Ip HH
 l
 
-ojnee on Geum HOIMSNPsd yee O Gernit
-Crdsiyd qdQipd Gurgid Puwes sui
+ojnee on Geum yee O Gernit
+Crdsiyd Gurgid Puwes sui
 
 P
 
@@ -2797,7 +2757,6 @@ Tend the glowing fire and thrice daily pray,
 o Poo ene EQ
 
 Stand fixt in the Holy Path and chant the Vedic
-hymns,
 Morn and eve and perform the rituals.
 
 Six are the duties of Brahmins—to learn, to instruct, to give
@@ -2806,7 +2765,7 @@ others to perform sacrifices. They tend the holy fire morn,
 noon and evening. They chant the Vedic mantras at dawn
 and dusk. They stand constant on the holy path.
 
-Gurgr6s wner Ogos gicryse`,
+Ogos gicryse`,
   },
   {
     id: 224, tantraId: 1, verseNumber: 223,
@@ -2863,7 +2822,7 @@ And there into unending bliss they grow.`,
 Vedanta = beyond the upanishad
 Bhodanta = transcending the Pasu-Pati-Pasa complex.
 
-Ceugs CGsGon Pencacynn Cougs smu`,
+Ceugs Pencacynn Cougs smu`,
   },
   {
     id: 227, tantraId: 1, verseNumber: 226,
@@ -2907,7 +2866,7 @@ Gayatri’ , and is given as follows in the Mahanirvana Tantra
 * 35
 ; : 34
 . ooh
-*“‘Paramesvaraya Vidmahe; Pasa-tattvaya’ dhimahi; .tan* no
+Vidmahe; Pasa-tattvaya’ dhimahi; no
 Brahma pracodayat” eg
 Meaning: ‘‘May we know the Supréme’ Lord: let us
 contemplate the Supreme Essence; and may .that Brahman
@@ -2917,9 +2876,9 @@ Tirumular’s reference here seems to be the’ Vaidik Gayatri,
 
 ‘
 
-QuGOsD wrest AMpesreubd Orbs! fe
-GGOBN wrgyeng ay BI Cuss
-9GO6D wren Afleow GES!`,
+wrest Orbs! fe
+wrgyeng ay BI Cuss
+wren Afleow GES!`,
   },
   {
     id: 228, tantraId: 1, verseNumber: 227,
@@ -2944,10 +2903,9 @@ Having realised the truth ee Pranava (Aum), guided. by the
 Guru, they perform the rituals prescribed.inithe four Vedas
 and realise the pure form of self-manifest existence (Svarupa).
 
-FSDW (PHS SOT Sic BSQd : :
-TWIST GW QEHuud rg Gw curt _gytd a
+(PHS SOT Sic : :
 
-Qussb IHISF5Q) WTIGW IgwGw. 228 5 aS :
+Qussb 228 5 aS :
 
 ab +s U
 
@@ -2959,11 +2917,11 @@ Intense control of the senses and Bring Moy
 Getting rid of the body-mind complex— fs
 These help to attain the Brahmic’ “state.’ Bre:
 
-Gasrésm Gals ADGbOW Cuswir
+Gasrésm Gals Cuswir
 
-Gasrésm Gal O55 Cams gsGor .
+Gasrésm Gal Cams .
 
-Gasnbs wrag Garions oy)sGrw`,
+Gasnbs wrag Garions`,
   },
   {
     id: 229, tantraId: 1, verseNumber: 228,
@@ -2998,13 +2956,13 @@ Heard and listened but yielded still to desire's sway;
 True Vedanta it is when earth-born desires all are crushed;
 Those who Vedanta truly grasped, all desires burnt away.`,
     elaborationTamil: `இறைவன் அருளிய வேதாந்தங்களைக் கேட்க விரும்பிய அந்தணர்கள் வேதாந்தங்களைக் கேட்ட பின்பும் தமக்கென்று இருக்கும் ஆசாபாசங்களை விட்டுவிடாமல் இருக்கின்றனர். உலக ஆசைகளையும் பாசங்களையும் விட்டு இறைவனை அடைவதுதான் வேதாந்தத்தின் முடிவாகும். ஆசையை விட்ட இடமே வேதாந்தத்தின் முடிவாகும். வேதாந்தத்தின் பொருளை உணர்ந்து கேட்டவர் ஆசையை விட்டவராவார். கருத்து : வேதத்தை படித்து உணர்ந்து ஆசையை விட்டவரே அந்தணர் ஆவார்.`,
-    elaborationEnglish: `Beg anidure giesrFlens Gasiwmd
+    elaborationEnglish: `Beg anidure Gasiwmd
 
 A ol
 
 36 : TIRUMANTIRAM
 
-gag Gasipslb gomGlens Eremombd`,
+gag Gasipslb Eremombd`,
   },
   {
     id: 231, tantraId: 1, verseNumber: 230,
@@ -3022,9 +2980,9 @@ The thread, then, only a dark bond, the fine tuft, only tresses long;
 The true thread Vedantam is, the sacred tuft wisdom proves
 These the Brahmnins truly see, these virtues to them belong.`,
     elaborationTamil: `பூணூலும் குடுமியும் அணிந்து கொண்டுவிட்டால் இறைவனை உணர்ந்த அந்தணர் என்று கூறிவிடமுடியாது. பூணூல் பருத்தியால் செய்யப்பட்டது. குடுமி தலையிலிருக்கும் மயிரை சிரைத்துச் செய்யப்பட்டது. பூணூலுக்கும் குடுமிக்கும் ஒருவரை இறைவனை உணர்ந்த அந்தணராக மாற்றும் சக்தி இல்லை. பூணூல் என்பது வேதாந்தத்தைக் கற்றவரின் குறியீடு. குடுமி என்பது இறை ஞானத்தைப் பெற்றவரின் குறியீடு. இறைவன் அருளிய வேதாந்தங்களை முறைப்படி தமது குருவின் மூலம் கற்று அவற்றின் பொருளை உணர்ந்து இறைவனை உணர்ந்து பூணூலும் குடுமியும் அணிந்துகொண்டவர்களே அந்தணர் என்னும் சொல்லுக்கு தகுதியானவர்கள் ஆவார்கள்.`,
-    elaborationEnglish: `935 Merwdale CGimGb 2 carter
+    elaborationEnglish: `935 Merwdale 2 carter
 
-usiyb OeraAs uget 2 csteow WerPc`,
+usiyb uget 2`,
   },
   {
     id: 232, tantraId: 1, verseNumber: 231,
@@ -3065,8 +3023,7 @@ of consciousness. Guided by the holy Guru they attain the
 grace of his feet. They give up all rituals and sacraments;
 and finally attain Turiya Samadhi state.
 
-nepGuTigih Caugnhs aunvicnouled gritionio
-Gaplurige wpgiiter CarnwnawQwen`,
+Caugnhs aunvicnouled gritionio`,
   },
   {
     id: 234, tantraId: 1, verseNumber: 233,
@@ -3084,7 +3041,7 @@ Such beings falter not in Vedanta's sublime lore,
 All the rest they know as vain trappings base--
 Those be the Brahmins who Vedas' depths explore.`,
     elaborationTamil: `வேதத்தின் பொருளான வேதாந்தங்களை குருவின் மூலம் கற்று உணர்ந்து வேதங்களை ஓதுகின்றவர்களே அவற்றின் பொருளை உணர்ந்து தனக்குள் இருக்கும் இறைவனை உணர்ந்து இறைவனாக மாறிவிட்டால் (இறைவன் அருளிய வேதமும் இறைவனும் வேறில்லை இறைவனும் வேதமும் ஒன்று தான்) தமது வாய்ச்சொல்லில் சொல்லுவது அனைத்தும் நடக்கும். மற்ற உயிர்கள் மாயையால் இறைவனை அடைய தடையாய் இருக்கும் குறைபாடுகள் என்னவென்று தெரியும். பூணூல், குடுமி, உருத்திராட்ச மாலை, விபூதிப் பட்டை, அங்கவஸ்திரம், போன்றவை அந்தணர் போலக் காட்டிக்கொள்வது வெறும் கோலாகலமான ஆடம்பரமே என்பதை அறிந்தவர்கள் உண்மையான வேதங்களைக் கற்று உணர்ந்த அந்தணர்கள்.`,
-    elaborationEnglish: `Pig Qe: sizer Comes DaapudryoD`,
+    elaborationEnglish: `Pig Qe: sizer Comes`,
   },
   {
     id: 235, tantraId: 1, verseNumber: 234,
@@ -3105,9 +3062,7 @@ If morn and eve the sacrificial fire they tend.`,
     elaborationEnglish: `Where brahmins truly tend the sacrificial fire morn and
 evening, where they embrace the pure life, where they
 meditate on the teachings of Vedanta—there, in that land is
-no scarcity. The kingdom flourishes and affluence abounds.
-
-BrSsThs CGursw peo Fu Gurgésgy`,
+no scarcity. The kingdom flourishes and affluence abounds.`,
   },
   {
     id: 236, tantraId: 1, verseNumber: 235,
@@ -3143,7 +3098,7 @@ Then seek they the Lord triumphant, seated firm, serene,
 Past all babbling words of sweet-sounding praise;
 Such alone the true, worshipful grace attain.`,
     elaborationTamil: `எண்ணம், பேச்சு, செயல் ஆகிய மூன்றும் அமைதியாக இருக்கும் காலத்திலும், எண்ணம், பேச்சு, செயல் ஆகிய மூன்றும் அதன் வேலைகளை செய்து கொண்டிருக்கும் காலத்திலும் அனைத்திற்குள்ளும் இருந்து அனைத்தையும் வெல்லும் இறைவனை தியானித்திருப்வர்களை அவர்கள் இருக்கும் இடத்திற்குப் பிறர் சென்று அவர்களை வணங்குமளவிற்கு இறைவனின் திருவருளைப் பெறுபவர்கள் அந்தணர்கள் ஆவார்கள்.`,
-    elaborationEnglish: `WGng sraripser yorosiw Cumacamus`,
+    elaborationEnglish: `sraripser yorosiw Cumacamus`,
   },
   {
     id: 238, tantraId: 1, verseNumber: 237,
@@ -3161,7 +3116,7 @@ The self that Liberation seeks naught else will take;
 And the lotus-seated Brahma most divinely pleased,
 Merges in the Om, the sacrificial aviss to partake.`,
     elaborationTamil: `பாடல் #236 ல் கூறியபடி எண்ணம், பேச்சு, செயல் மூன்றிலும் சிவசிந்தனை வைத்த அந்தணரிடம் அகப்பற்றான உடம்பின் மேல் இருக்கும் பற்றும் புறப்பற்றான செல்வம் பந்தம் போன்ற பற்றுகளும் சென்றுவிடும். நான் என்னும் அகங்காரம் நீங்கி இறை சிந்தனையிலேயே இருக்கும் அவர்களை எதுவும் பாதிக்காது. அவர்கள் செய்யும் வேள்வியில் இடும் அவிர்பாகங்களை (நெய், அரிசி போன்ற வேள்வியில் இடும் பொருட்கள்) உண்ண தாமரை மலரில் வீற்றிருக்கும் அந்த புண்ணிய போகன் பிரமன் வருவான்.`,
-    elaborationEnglish: `SUN ITF arog CHOgTUUT
+    elaborationEnglish: `SUN ITF arog
 
 SOOT HE srover Damovovert`,
   },
@@ -3203,9 +3158,7 @@ Day by day that land decays in folly envelopt,
 Day by day that ruler's wealth declines and dwindles away.`,
     elaborationTamil: `ஒரு நாட்டுக்கு அரசனாக இருக்கின்றவன் அந்த நாடு முழுவதிலும் தினந்தோறும் தவ வழியில் வாழ்பவர்களுக்கு எந்தவொரு துன்பமும் வராமல் பார்த்துக் கொள்ள வேண்டும். அரசனுக்கு என்று விதிக்கப்பட்ட நீதியிலும் தர்மத்திலும் சிறிதளவும் பிழை வந்துவிடாமல் தினந்தோறும் நடந்துகொள்ள வேண்டும். இதில் எதை செய்யத் தவறிவிட்டாலும் அவனுடைய நாட்டின் வளம் குன்றும். மக்களிடையே அறியாமை தோன்றும். அந்த நாட்டில் இருக்கும் செல்வங்கள் எல்லாம் தினந்தோறும் குறைந்து கொண்டே வந்து அரசனும் விரைவில் இறந்து போவான்.`,
     elaborationEnglish: `Let the ruler observe the laws of divine dharma. If he fails,
-the land falls a prey to destruction.
-
-Ca ApAHadonr CGaitwdyc G_cruwest`,
+the land falls a prey to destruction.`,
   },
   {
     id: 241, tantraId: 1, verseNumber: 240,
@@ -3251,7 +3204,7 @@ the rulet has a duty to put them back on the straight path.
 So too with those pretenders who don the holy garb and
 practise evil ways.
 
-@ioflscr Gute 54 Sher moursibenw`,
+Gute 54 Sher moursibenw`,
   },
   {
     id: 243, tantraId: 1, verseNumber: 242,
@@ -3269,7 +3222,7 @@ And with chanting phrases pretend to wisdom unpossessed,
 Them, the ruler of state shall, with wise men's help, take and test,
 And, for the country's good, impart words in wisdom drest.`,
     elaborationTamil: `உண்மை ஞானம் இல்லாதவர்கள் வெறும் சடை முடியும் பூணூலும் தரித்து உண்மை ஞானிகள் போல நடித்துக்கொண்டு இருக்கின்றனர். இப்படிப்பட்டவர்கள் இருக்கும் நாடு எப்போதும் சுபிட்சம் அடையாமல் துன்பப்பட்டுக்கொண்டே இருக்கும். நடிப்பவர்கள் யார் என்பதை அந்த நாட்டு மக்களை ஆளுகின்ற அரசன் உண்மையான ஞானிகளின் மூலம் சோதனை செய்து நடிப்பவர்களை அடையாளம் கண்டுகொண்டு அந்த உண்மையான ஞானிகளின் மூலமே நடித்துக் கொண்டிருக்கின்ற ஞானிகளுக்கும் உண்மை ஞானத்தை போதனை செய்யவைத்து ஞானம் உண்டாக்கினான் என்றால் அவன் நாடும் அவனும் எப்போதும் நலம் பெற்று இன்பமாக இருப்பார்கள்.`,
-    elaborationEnglish: `Gsarser Guth DECar_s srongquyns`,
+    elaborationEnglish: `Guth srongquyns`,
   },
   {
     id: 244, tantraId: 1, verseNumber: 243,
@@ -3291,9 +3244,8 @@ Irredeemable his hell shall be, cursed ever his name.`,
 the brahmins true and the devout true. If he fails, he-shall
 surely be condemned to hell.
 
-wpsHd SDOSD Cus Hped Coussr wd
 
-Opssht Gre WDedOsrpPo wirenanyid`,
+Opssht Gre wirenanyid`,
   },
   {
     id: 245, tantraId: 1, verseNumber: 244,
@@ -3315,7 +3267,7 @@ To the King, in truth, one share in six is due.`,
 subjects. Let him not go beyond this. That is not the dharmic
 way.
 
-Cassar 2ams Dapper smug
+Cassar Dapper smug
 
 anes oaistacr qucp wrbpuit`,
   },
@@ -3337,9 +3289,7 @@ Then, like a leopard, leaps the King to defend his domain.`,
     elaborationTamil: `ஒரு நாட்டை ஆளும் அரசன் அதை மிகவும் நன்றாக காத்து ஆட்சி புரிந்தான் என்றால் அந்த நாட்டில் உள்ள மக்களும் தாங்கள் ஏற்றுக்கொண்ட தொழில்களுக்கு ஏற்ற தர்மநெறிகளிலிருந்து மாறாமல் அவ்வழியே நல்லவர்களாக இருப்பார்கள். அவர்கள் வாழும் நாட்டை பிறர் போர் செய்தோ அல்லது சூழ்ச்சி செய்தோ கைப்பற்ற நினைத்தால் தங்கள் நாட்டை காப்பாற்றிக் கொள்வதற்காக புலி பதுங்கியிருந்து பாய்ந்து அடித்து தனது உணவை தேடிக்கொள்வது போல போர் தொழில் கொண்ட மக்களும் நாட்டைக் காக்கும் அரசனும் பதுங்கியிருந்து தனது நாட்டை காப்பாற்றிக்கொள்வார்கள். கருத்து : மன்னன் தர்மவழியில் நாட்டை ஆட்சி செய்தால் மக்களும் தர்மவழியில் நடப்பார்கள்.`,
     elaborationEnglish: `It is the duty of the ruler to defend his ‘people. Like a tiger
 he should spring on the invader. The ruler who protects his
-people wins the loyalty of his subjects.
-
-umnd@sres @ Cerner upswbup 2 omosrnGgmit`,
+people wins the loyalty of his subjects.`,
   },
   {
     id: 247, tantraId: 1, verseNumber: 246,
@@ -3386,9 +3336,9 @@ to the laws laid down in the Agamas.
 
 14, aumené Apiuy
 
-AYSIY! wrweyp frp orrBw
+AYSIY! wrweyp frp
 
-AYSINNd usm unibes Garopia`,
+usm unibes Garopia`,
   },
   {
     id: 249, tantraId: 1, verseNumber: 248,
@@ -3414,7 +3364,7 @@ gets its sugary sucrose; the plantain yields its delicious fruits.
 Even the bitter nux vomica so dear to yogic practices flourish
 because of rain.
 
-Bogda wnfdaw gemcahu Ogoirosd rs`,
+Bogda gemcahu Ogoirosd rs`,
   },
   {
     id: 250, tantraId: 1, verseNumber: 249,
@@ -3432,10 +3382,8 @@ So does the silent divine stream from heart's inner core,
 Foamless, pure, clear, crystalline,
 Boundless, free--from my Holy Master, e'er pour.`,
     elaborationTamil: `வானத்திலிருந்து பெய்து மலைமுகடுகள் வழியாக அருவியாக கொட்டும் மழை நீரில் நுரை இருக்காது அழுக்கு இருக்காது. துல்லியமான தெளிந்த நீராக மட்டுமே இருக்கும் அந்த நீரை இறைவனுக்கு அபிஷேகம் செய்தால் இறைவன் சிறப்பாக ஏற்றுக்கொள்வான். அது போலவே சொல்லில் இல்லாமல் உயிர்களின் உள்ளத்திலிருந்து ஊறும் எல்லையில்லாத தூய்மையான அன்பினால் உள்ளத்தில் இருக்கும் இறைவனுக்கு செய்யும் அபிஷேகத்தை இறைவன் சிறப்பாக ஏற்றுக்கொள்வான்.`,
-    elaborationEnglish: `15. greaé Fpcny
-
-. t
-CGaemsuyen_ur NeagsOsteene 2 ososronblosr`,
+    elaborationEnglish: `
+. t`,
   },
   {
     id: 251, tantraId: 1, verseNumber: 250,
@@ -3453,9 +3401,7 @@ See food served to others ere sitting down to eat;
 Heap not perishing gold, eat not in greedy haste;
 The crow calls its brood to share its food, howe'er sweet.`,
     elaborationTamil: `அவர்கள், இவர்கள், பிடித்தவர், பிடிக்காதவர், உறவினர், வேற்றார் என்று எந்தவித பாகுபாடும் எண்ணாமல் உணவை அனைவருக்கும் கொடுத்து உதவுங்கள். சாப்பிடுவதற்கு முன்பு பசியோடு யாராவது வருகின்றார்களா என்று பார்த்துவிட்டு பிறகு சாப்பிடுங்கள். சாப்பிடாமல் வைத்த பழைய உணவை சேமிப்பாக கருதி எடுத்து வைக்காமல் அதை உடனே பசியோடு இருப்பவர்களுக்குக் கொடுத்துவிடுங்கள். உணவின் மேல் அதிக ஆசை வைக்காமலும் பசியோடு இருக்கும்போது அவசர அவசரமாக வேகமாக சாப்பிடாமல் இருங்கள். காக்கை பசியோடு இருக்கும்போதும் கரைந்து கூப்பிட்டு மற்ற காகங்கள் வந்தபின் ஒன்றாகக் கூடி உண்பதைக் கண்டு அடுத்தவருக்கும் உணவை கொடுத்து சாப்பிட வேண்டும் என்பதை அறிந்து கொள்ளுங்கள்.`,
-    elaborationEnglish: `16. 9DGOseWane Dyw
-
-ST cungns srmAplox mrgour`,
+    elaborationEnglish: ``,
   },
   {
     id: 252, tantraId: 1, verseNumber: 251,
@@ -3496,8 +3442,7 @@ Easy to all to give a mouthful to the cow,
 Easy to all to give a handful, sitting down to eat,
 Easy to all, good, kind words on others to bestow.`,
     elaborationTamil: `தினந்தோறும் இறைவனை வழிபட்டு அவனுக்கு படைக்க அன்போடு எந்தவொரு பச்சை இலையையோ வைத்தல் தினந்தோறும் பசுவின் பசிபோக்க ஒரு கட்டு புல்லை கொடுத்தல் தினந்தோறும் தினமும் சாப்பிடும் போது ஒரு கைப்பிடி உணவு தானம் செய்து விட்டு சாப்பிடுதல் தினந்தோறும் தாம் சந்திப்பவர்களிடம் அன்புடன் இனிமையாக பேசுதல் போன்றவை அனைவரும் எளிதில் செய்யக்கூடிய தருமங்களாகும்.`,
-    elaborationEnglish: `MHDS OT Geir gep td 2e1Goor 3 pGoacigyir)
-p Ds Cur gr Sioppucurt worresfl_it
+    elaborationEnglish: `p Ds Cur gr Sioppucurt
 oe ba % ta .`,
   },
   {
@@ -3521,9 +3466,9 @@ who, hoard in silence as in a deep concealed pool and gorge
 themselves alone without giving do not know what wealth is
 for. ‘This a simple truth, that true men know.
 
-AypsHener gry sono Honpuli
+gry sono Honpuli
 
-SHSu prohies sGuipe; Oeuuir`,
+prohies Oeuuir`,
   },
   {
     id: 255, tantraId: 1, verseNumber: 254,
@@ -3541,7 +3486,7 @@ In days of plenty, empty is your charity's exchequer;
 What avails it, though wide awake, if hell-fire spreads around,
 What avails it, then, if impoverished of heart you are?`,
     elaborationTamil: `மும்மலங்களாகிய அழுக்குகளை ஓட்டிவிடும் உண்மை ஞானத்தை அறிந்து அந்த அறிவால் உள்ளத்தில் இறைவனை நிரப்பமாட்டீர்கள். கல்வியும் செல்வமும் நிறைந்து இருந்த நாட்களிலேயே தருமங்கள் செய்யாமல் விட்டுவிட்டீர்கள். தினமும் எழுந்து கண் விழித்திருப்பதனால் என்ன பயன்? ஒரு நாள் கண் மூடிய பிறகு சுடுகாட்டுக்கு எடுத்துச் சென்று தீ வைத்து உடல் முழுவதும் தீயின் வெப்பம் பரந்து சுட்டெரிக்கும் நேரத்தில் என்ன செய்யப் போகின்றீர்கள்? வாழ்க்கை முழுவதும் தருமம் செய்யும் பரந்த மனது இல்லாமல் ஏழை மனதாகவே வாழ்ந்துவிட்டீர்கள்.`,
-    elaborationEnglish: `Scroncr HPwTG Sree crorerr Hr 7`,
+    elaborationEnglish: `Scroncr Sree crorerr Hr 7`,
   },
   {
     id: 256, tantraId: 1, verseNumber: 255,
@@ -3593,8 +3538,8 @@ By the measure of thy charity done, the Lord is known to thee.`,
 ‘know you. Except charity, what kith and kin can a man have
 after death?
 
-git 16g Dads; Osvisus scaup
-Msi Ws WHEGW wollgtraci`,
+git Dads; Osvisus scaup
+Ws WHEGW wollgtraci`,
   },
   {
     id: 258, tantraId: 1, verseNumber: 257,
@@ -3612,9 +3557,7 @@ Noble gods they become in human beings' high esteem;
 And the many who hold this fleshly body their dear God,
 To them comes Death, saying; "I, your God supreme."`,
     elaborationTamil: `முன்பிறவியில் செய்த அறத்தினாலும் தவத்தினாலும் தான் இப்பிறவியிலும் மனிதப் பிறவி கிடைத்திருக்கின்றது. இந்த உண்மையை தன் அறிவின் மூலம் அறிந்து அறிவையே தெய்வமாக எண்ணி அந்த அறிவின் சொல்படி இப்பிறவியிலும் அற வழிகளிலும் தவ வழிகளிலும் நடப்பவர்கள்தான் மனிதர்கள். உடலே தெய்வம் என்று எண்ணி ஆசைகளுக்கு அடிமையாகி தருமத்தின் வழியில் செல்லாமல் வாழ்கின்ற எல்லா உயிர்களுக்கும் நானே தெய்வம் என்று எமதருமன் உயிரை எடுக்க வந்து நிற்பானே தவிர இறைவன் வர மாட்டான்.`,
-    elaborationEnglish: `UYSs Vous A pigeon
-
-Qsres ey. Gu nereslar (pasD@iwd`,
+    elaborationEnglish: `Vous A pigeon`,
   },
   {
     id: 259, tantraId: 1, verseNumber: 258,
@@ -3677,17 +3620,16 @@ charity. Only by the measure of your charity does the Lord’
 
 And the many who hold this fleshly body their dear
 
-_God,
 
 To them comes Death, saying; ‘‘I am, your God
 supreme.”’
 
 Men who give in charity are esteemed as gods on earth. To
-others death comes saying “I am your God.”*
+others death comes saying “I am your
 
 Barsgn Nenorsaiov Siraj) Gerri!
 
-Mons Gs Sols CGonniencx wrGw. 258
+Mons Gs Sols wrGw. 258
 Charity and Devotion Twin Escorts to Heaven
 
 _ Our life’s boat across the foaming sea of Karma
@@ -3704,7 +3646,7 @@ perform penance and give in charity.
 
 unos! uundiblorm upPercas unibengs
 
-ADD 2 cngurcss 2DOHMS EVV!
+ADD 2 EVV!
 
 Charity is Your Life’s Prop
 
@@ -3720,11 +3662,9 @@ Your desires have no end. Only two things can be your prop
 for the life hereafter; your acts of charity, and your godly
 way of life.
 
-17. Q30@Oeuner Dow
 WAY OF THE UNCHARITABLE :
 
-SYP isor SHUT BTA GVA
-OPi sor Gurvggswb GuAt gman`,
+sor GuAt`,
   },
   {
     id: 262, tantraId: 1, verseNumber: 261,
@@ -3744,8 +3684,8 @@ Perishes: seeing this yet, they learn not charity's way.`,
     elaborationTamil: `காலங்கள் ஓடிக்கொண்டேதான் இருக்கின்றன. ஓடிய காலங்கள் பல யுகங்களாக மாறி ஊழிக்காலத்தில் அழிந்தும் போகின்றது. உயிர்கள் தம் கற்பனையில் கட்டிய மனக்கோட்டைகளும் அவை வாழும் நாட்களும் குறைந்துகொண்டே சென்று கடைசியில் பெரிய துயரத்தையே தரும் உடலானது சக்கையாகப் பிழிந்து எடுக்கப்பட்டது போல வயதாகிச் சுருங்கிப் போய் ஒரு நாள் முழுவதுமாக அழிந்தும் போகின்றது. இதையெல்லாம் கண்கூடாக தினமும் பார்தாலும் தங்கள் வாழ்க்கையும் அழிந்து போய்விடும் என்பதை அறியாமல் வாழும் நாட்களில் செய்ய வேண்டிய தான தருமங்களை அறியாமலேயே பல உயிர்கள் வீணாக வாழ்ந்து அழிந்து போகின்றன.`,
     elaborationEnglish: `walking in the path of God.
 
-ADD AD WTA OTV UTED Hlenesrwuy 5
-Boba wnifa: Gores para@u`,
+ADD AD OTV UTED 5
+Boba Gores`,
   },
   {
     id: 263, tantraId: 1, verseNumber: 262,
@@ -3763,7 +3703,7 @@ Nor enter they the precincts of the City of Siva's Grace;
 Their ears inclined to those who falsehoods preach,
 They stand to sin enslaved, condemned to hell's hot embrace.`,
     elaborationTamil: `தருமங்கள் என்னவென்பதை அறியாத உயிர்களுக்கு இறைவனின் திருவடிகளை நினைத்து வணங்கும் முறையும் தெரியாது. ஆதலால் அவர்களுக்கு சிவபெருமானின் இருப்பிடமான கைலாயத்திற்குச் செல்லும் வழியும் தெரியாது. பலர் தம்மிடம் பொய்யாக கூறிய விஷயங்களை உண்மை என்று நம்பிக்கொண்டு பாவத்தை மட்டுமே அறிந்தவர்களாகவும் அறமில்லாத வீரத்தில் மற்றவர்களிடம் பகையை வளர்த்துக் கொண்டவர்களாகவும் மட்டுமே வாழ்ந்து துயரப்படுகின்றனர்.`,
-    elaborationEnglish: `QGuwugies Geronayid Fonomyd Qeuiy 5
+    elaborationEnglish: `Geronayid Fonomyd Qeuiy 5
 
 2 Guy. praiup Cores Spence`,
   },
@@ -3786,9 +3726,7 @@ Approach not them that others' needs relieve.`,
     elaborationEnglish: `Fell diseases make a prey of misers — but ‘they do not
 approach the charitable man.
 
-UTM UDsureHt' usbencr TS SMT
-
-Qrusts Sse wren Fut`,
+UTM usbencr TS SMT`,
   },
   {
     id: 265, tantraId: 1, verseNumber: 264,
@@ -3813,7 +3751,7 @@ is nigh.
 Hell is gaping its mouth for those who neither give to the
 poor, nor adore God.
 
-SYP5LU UTT GLH SITs HL Lud`,
+UTT GLH HL Lud`,
   },
   {
     id: 266, tantraId: 1, verseNumber: 265,
@@ -3835,7 +3773,7 @@ And so slip and fall to be irretrievably lost.`,
 And so slip and fall to be irretrievably lost.
 
 They journey in loncliness through life, to be caught in the
-recurring birth cycle, and to be irretrievably lost in’ the vortex
+recurring birth and to be irretrievably lost in’ the vortex
 of karma.
 
 SM ESOUT FEST SLPVIY. STG LUT`,
@@ -3860,9 +3798,9 @@ Engulfed in passions low, pass into eternal night.`,
 who are steadfast in devotion reach the world of light. They
 who do not. give in charity reach the eternal night.
 
-Qed Qi Ose Mass Oy nus5si
+Qed Qi Ose Mass Oy
 
-“Qoob sg sO FHers Guengacr`,
+“Qoob sg sO Guengacr`,
   },
   {
     id: 268, tantraId: 1, verseNumber: 267,
@@ -3884,8 +3822,7 @@ The shrivelled of heart, to charity unwise, its glory unknowing.`,
 Even having seen that bliss flows from charity, they do not
 give, but remain shrivelled of heart.
 
-BOaadea GQewASU Bra gL
-QOaigid ragid storey Her Qed`,
+ragid storey Her Qed`,
   },
   {
     id: 269, tantraId: 1, verseNumber: 268,
@@ -3918,8 +3855,8 @@ Think constantly of giving and gifting. That alone is pure
 pleasure. Denial causes pain and a continued human state of
 existence, subject to recurring birth and death.
 
-Yydem curerengts CGurHAes Yogi
-Qarad 5GD Qepama gsgiier`,
+curerengts Yogi
+Qarad Qepama`,
   },
   {
     id: 270, tantraId: 1, verseNumber: 269,
@@ -3947,7 +3884,7 @@ the Lord. You shall reach His home. Be a true marksman.
 
 TO BE LOVE-POSSESSED
 
-Hoary Aupb@ser Oot spect
+Hoary Oot spect
 
 Love and Siva are One
 
@@ -3963,9 +3900,9 @@ Love as Siva, they e’er remain.
 alone is Siva. When that realisation dawns, they remain in
 love. of Siva. ‘
 
-Derhs Bisa WahGwd Qaridenm
+Derhs Bisa Qaridenm
 
-gahs P55 -OQury wry see`,
+gahs wry see`,
   },
   {
     id: 271, tantraId: 1, verseNumber: 270,
@@ -4004,7 +3941,7 @@ At His Feet, my garland, plaited with Love's incense, I lay.`,
 the tiger skin. is adorned by the crescent moon and gleams
 with burnt ashes.
 
-Sura Bump sere Qurdu agyinPepnd`,
+Sura Bump sere Qurdu`,
   },
   {
     id: 273, tantraId: 1, verseNumber: 272,
@@ -4083,7 +4020,7 @@ For e'er your heavenly escort He'll be,
 He, the Lord Siva, deckt in honeyed konrai blooms--
 He sat enthroned in my love, steadfast and free.`,
     elaborationTamil: `காலங்கள் தோன்றுவதற்கு முன்பே சுயமாகத் தோன்றியவனும் தம்மை அன்போடு போற்றி வணங்கி வாழ்ந்த உயிர்கள் இறந்து விண்ணுலகம் செல்லும் காலம் அவர்களோடு வழித்துணையாய் வருபவனும் தேன் அதிகமாக ஊறியிருக்கும் கொன்றை மலர்களைத் தனது இடது பாகத்தில் மாலையாக அணிந்திருப்பவனுமாகிய சிவபெருமானின் மேல் யான் வைத்திருக்கும் பேரன்பின் உருவமாகவே என்னுடன் கலந்து நிற்கின்றான்.`,
-    elaborationEnglish: `AMO SF VDSUWQUG wrener 2H Govnt
+    elaborationEnglish: `AMO SF wrener 2H Govnt
 
 UGUO SF DES HES wd cumppahedlev`,
   },
@@ -4108,7 +4045,7 @@ that, love we may know bliss true. Of limitless dimensions
 He is; and yet He contains Himself in the love of our tiny
 heart.
 
-AGSHyYsr Feonor wing Couesrig. cd`,
+Feonor wing Couesrig. cd`,
   },
   {
     id: 278, tantraId: 1, verseNumber: 277,
@@ -4126,7 +4063,7 @@ Plant that deep and firm in heart; raising worship thus,
 If you, in yearning song, seek Isan's Grace,
 Then, sure, no end be to His blessings copious.`,
     elaborationTamil: `உண்மையான அன்புகொண்டு இருப்பவர்களின் எண்ணத்தில் இறைவன் தூய்மையான தங்கம் போன்ற பிரகாசத்துடன் பேரொளி வீசும் சூரியனின் ஜோதியாக வீற்றிருப்பான். ஜோதி உருவத்தில் இருக்கும் இறைவனை எம்பெருமானே இறைவா என்று உருகி யாரொருவர் வேண்டினாலும் விண்ணுலகத்திலிருக்கும் தேவர்களுக்கெல்லாம் அரசனாக இருக்கும் இறைவன் அவர்கள் வேண்டியதை உடனே வழங்கிவிடுவான்.`,
-    elaborationEnglish: `ASSWIG HHH Mptionrwye5 Oeil gsaucsr
+    elaborationEnglish: `ASSWIG Oeil
 ouss uneis Cou woilsiacit
 
 Qéonsy Crmanunr chong Doneraorgy`,
@@ -4147,7 +4084,7 @@ This mystery we daily see; and yet mankind
 Cling in deep desire to life, but call not on Him,
 Nor seek Him, saying, "Our Father, great and kind."`,
     elaborationTamil: `தினந்தோறும் கொஞ்சம் கொஞ்சமாக இறக்கின்ற பிறப்பைக் கொடுத்த இறைவனே உயிர்களிடம் உள்ள பெருங் கருணையினால் அவர்கள் அந்த பிறப்பிலிருந்து வெளிவரும் அன்பையும் கொடுத்திருக்கின்றான். இதைத் தெரிந்து கொண்டாலும் மனிதர்கள் தங்களின் அன்பை உலகப் பற்றுகளின் ஆசையின் மேல்தான் வைக்கின்றார்களே தவிர எம்மைப் படைத்த தந்தையே எம்பெருமானே என்று இறைவனின் மேல் அன்பை வைத்து அவனை அடையும் வழியைத் தேடாமல் இருக்கின்றனர்.`,
-    elaborationEnglish: `(perfacr orreripesl curs GLb Agreataicsr`,
+    elaborationEnglish: `(perfacr orreripesl curs Agreataicsr`,
   },
   {
     id: 280, tantraId: 1, verseNumber: 279,
@@ -4173,9 +4110,9 @@ Refuge free.
 
 Dapssgid Quppgud rac Pluyto
 
-2 SES GOT DsWOOb 255 HIBcH
+2 SES GOT 255
 
-QarippscrLy Deis Gor EIU TTS G`,
+Deis Gor EIU G`,
   },
   {
     id: 281, tantraId: 1, verseNumber: 280,
@@ -4195,7 +4132,7 @@ To such, well-pleased, He His Grace remits.`,
     elaborationTamil: `தம்மை இகழ்ச்சியாக பேசும் உயிர்களையும் போற்றி வணங்கும் உயிர்களையும் சிவபெருமான் அறிவான். தம்மை இகழ்ந்து பேசிய உயிர்களுக்கும் மனமுவந்து அவரவர் மனதிற்கேற்ப அருளை வழங்கும் உத்தமமான தலைவன் இறைவன். அப்படிப்பட்ட இறைவனை உயிர்கள் தமது உள்ளத்திலிருந்து வெளிவரும் தூய்மையான அன்போடு அழைத்து அருள் வேண்டுமென்று கேட்டுவிட்டால், அவர்களுக்கு மிகவும் மகிழ்ச்சியுடன் வேண்டியதை உடனே தந்துவிடுவதும் அந்த இறைவனின் பேரருளே ஆகும்.`,
     elaborationEnglish: `Siva rewards us ds our love for Him merits. In His love He
 gave us this world. Will He not in His love also extricate
-us from birth’s cycle, if we seek Him?`,
+us from birth’s if we seek Him?`,
   },
   {
     id: 282, tantraId: 1, verseNumber: 281,
@@ -4213,9 +4150,9 @@ Many though the trials that beset this vale of sorrow
 Yet this life, the Lord God with His divine Love blends,
 In His Divine Love's sweet presence, the life-cycle ends.`,
     elaborationTamil: `உயிர்கள் பிறந்த பிறவியிலேயே பேரின்பம் அடைவதற்குத் தேவையான அனைத்து வழிகளையும் இறைவன் செய்து வைத்திருந்தாலும் உயிர்கள் தாம் எடுத்த பிறவியில் துன்பத்தைத் தரக்கூடிய உலக ஆசைகளின் வழியே பலவித செயல்களைச் செய்கின்றனர். உயிர்கள் ஆசை வழியே சென்றாலும் உயிர்கள் மீது கொண்ட பேரன்பினால் அவர்களின் பிறவியை அறுக்கும் ஒரு வழியாக தூய்மையான அன்பை வைத்து இருக்கின்றான். ஆசை வழியே சென்று துன்பத்திற்குரிய காரியங்களைச் செய்யும் உயிர்களானாலும் தூய்மையான அன்புடன் இருந்தால் அவர்களுக்கு வேறு பிறவியில்லாத முக்தியை இறைவன் அவர்களுக்கு வழங்கி அருளுவான்.`,
-    elaborationEnglish: `Qenjon sorexiQurt CHa Qongsisor
+    elaborationEnglish: `Qenjon Qongsisor
 
-Beryg Asmsow sr@wvler Go. 28
+Beryg Asmsow Go. 28
 
 Divine Light in God-Love
 
@@ -4225,11 +4162,10 @@ The grace of the Mother will come to us,
 So give up attachment to the body-mind complex,
 _ And seek the Lord ardently.
 
-yeartsAuysir Manrp Groodsyoty Gurren
+Manrp Groodsyoty Gurren
 
-— aerisAled org Gora) 2 cured
+— org Gora) 2 cured
 
-eeeenrer Qs s3g0g) cimGw. _ 283
 - Surrender in Love
 
 Like the sweet love in sex-act experienced,
@@ -4333,10 +4269,10 @@ Sad indeed that few seek Him, or to Him are led.`,
 
 in love's tributes.
 
-AMI Qonnaicnor wirth20) Gourtbetsiur
+AMI Qonnaicnor Gourtbetsiur
 Seek Him in Love
 
-Those who know nothing but the cycle of birth and
+Those who know nothing but the of birth and
 death 3
 
 Think that through worldiy love they can attain the
@@ -4346,7 +4282,7 @@ But the Lord is beyond birth and death,
 
 Only through true devotion can He be attained.
 
-Frou oy lujud Qos gysscIencols`,
+Frou oy lujud Qos`,
   },
   {
     id: 288, tantraId: 1, verseNumber: 287,
@@ -4385,8 +4321,8 @@ He comes, and, in close proximity, stands before.`,
 core in exalted love. He stands before them as inner light
 as they love him in actionless trance. .
 
-Os OS Dsrtouer Osraownes OuGenwocow
-TL OQWar org gruibhlorm reencs`,
+Os OS Osraownes OuGenwocow
+TL org gruibhlorm reencs`,
   },
   {
     id: 290, tantraId: 1, verseNumber: 289,
@@ -4410,7 +4346,6 @@ In Him to merge is life's supreme baptismal bath.`,
 
 20. aval
 
-GPuuIG Csepi_od 2 uNTS) aig. &
 Osis Coorbe Cour Ionenen`,
   },
   {
@@ -4431,7 +4366,7 @@ In the depth of my being I knew of the Lord of Devas untold;
 Denying naught, He stept straight into my yearning heart;
 Thus I gained the Learning Great, freeing us from fleshly fold.`,
     elaborationTamil: `உயிர்கள் உலகத்தில் வினைப்பயனால் பிறவி எடுக்கும் காரணத்தைத் தெரிந்து கொண்டேன். உயிர்களின் மேல் கொண்ட பெருங்கருணையால் அவர்கள் எடுக்கும் உடலோடு உயிராக இறைவனும் கலந்திருப்பதை தெரிந்து கொண்டேன். தேவர்களுக்கெல்லாம் மிகப் பெரிய மகாதேவனான இறைவன் தன்மீது தூய்மையான அன்பு கொண்ட உயிர்களுக்கு தடையேதும் செய்யாமல் உடனே அவர்களின் உள்ளத்தில் புகுந்து வீற்றிருப்பதையும் தெரிந்து கொண்டேன். இவையெல்லாம் படிப்பதின் மூலமாகவோ அல்லது கேட்பதின் மூலமோ கற்றுக்கொள்ள முடியாத பேரறிவு ஞானத்தை இறைவனது அருளால் கற்றுக்கொண்டேன்.`,
-    elaborationEnglish: `I learned the mganing of life and its union in the body. I
+    elaborationEnglish: `I learned the of life and its union in the body. I
 sought Him in close proximity and knew it all. The Lord
 stepped into the inner core of my yearning heart; and I
 acquired the great learning of being free from fleshy bondage.`,
@@ -4548,7 +4483,7 @@ And yet, men to Ignorance clinging, in stupor ever lie.`,
 fly away. Men of ignorance cling to them and forever lie
 in stupor.
 
-Gsrdigs Opguug aries) AGHOw`,
+Opguug aries)`,
   },
   {
     id: 297, tantraId: 1, verseNumber: 296,
@@ -4584,7 +4519,7 @@ An unfailing Guide-but to the ignorant of mind,
 No support He--in all the seven Heavenly globes,
 Sure prop was He, the Mighty being, Great and Kind.`,
     elaborationTamil: `உண்மை ஞானமாகிய கல்வி கற்றவர்களின் சிந்தனை உயிர்களுக்கெல்லாம் வழித்துணையாகவும் நோய் தீர்க்கும் மருந்தாகவும் இருக்கும். உண்மை ஞானமாகிய கல்வி இல்லாதவர்களின் சிந்தனை இறைவனைப் பற்றிய எண்ணங்களை இல்லாமல் அறியாமையை கொடுக்கும். உண்மை ஞானமாகிய கல்வி கற்றவர்களுக்கு, தேவலோகம் முதலிய ஏழு உலகங்களுக்கும் வழித்துணையாய் இருக்கும் இறைவனே பெருங்கருணையுடன் அருள் புரிவான்.`,
-    elaborationEnglish: `Ann aH Hor@grah ourrerourt`,
+    elaborationEnglish: `Ann aH ourrerourt`,
   },
   {
     id: 299, tantraId: 1, verseNumber: 298,
@@ -4622,7 +4557,7 @@ Mounts the fierce Bull, at devotees' heart to arrive.`,
     elaborationTamil: `கடலாக இருப்பவனும் மலையாக இருப்பவனும் ஐந்து பூதங்களையே தனக்கு உடலாக வைத்திருப்பவனும் உலகம் தோன்றி அழியும் பலகோடி ஊழிக்காலங்களிலும் மாறாமல் நின்று வலிமையான காளையின் மேல் ஏறிவரும் அமரர்களுக்கெல்லாம் தலைவனுமான இறைவனை உண்மை கல்வி ஞானத்தைப் பெற்று தம் மனதில் இடம்கொடுப்பவர் நெஞ்சத்தில் கோயில்கொண்டு எழுந்தருளியிருக்கின்றான்.`,
     elaborationEnglish: `21. Gaeta) Cartanga
 
-ype Qurcrayeng CnefQwid reor`,
+Qurcrayeng reor`,
   },
   {
     id: 301, tantraId: 1, verseNumber: 300,
@@ -4640,7 +4575,7 @@ Listening to God's valorous acts and the Devas' mantras many,
 Listening to loud reports and the deeds peerless of the Lord,
 The Lord, gleaming bright as gold--thus attain the Siva State.`,
     elaborationTamil: `: அறநூல்கள் சொல்லும் உண்மைகளைக் கேட்டும் பாடல் # 224ல் உள்ளபடி இருக்கும் அந்தணர்களின் அறிவுரைகளைக் கேட்டும் பாவங்கள் இவை என கூறும் நீதிநூல்கள் கூறுவதை கேட்டும் தேவர்களின் வழிபாட்டு கூறிய மந்திரங்களைக்கேட்டும் இறைவனைப்பற்றி சொல்லாத பிற நூல்களில் சொல்லப்படும் நல்ல கருத்துக்களைக் கேட்டும், பொன் போன்ற ஈசனின் திருமேனியாக இருக்கும் அவன் நாமத்தையும் அதன் தன்மைகளையும் கேட்டு அதன் படி நடந்தால் சிவகதி அடையலாம்.`,
-    elaborationEnglish: `Sgat Borsrgmas Dau apisAow
+    elaborationEnglish: `Borsrgmas Dau
 
 egiie Garber oomier 2 eartisier`,
   },
@@ -4661,9 +4596,7 @@ Chant His praise; listen to the holy words and Him realise!
 Who chant His praise and Him realise, stand aloft and free.`,
     elaborationTamil: `தேவர்களின் தலைவனாக இருப்பவனும் அனைத்திலும் மேலானவனுமான இறைவனை ஒருவரும் அவ்வளவு எளிதில் அறிந்து கொள்ளுவதில்லை. இறைவன் என்று ஒருவர் இருக்கிறார் என்று தெரிந்து கொள்ளுங்கள். தெரிந்த பின் அவரை அடைய அவரின் நாமத்தை சொல்லுங்கள். இறைவனை அறிந்த குருவிடம் அவரைப்பற்றி கேட்டு உணர்ந்து கொள்ளுங்கள். இறைவனை நாமங்களை ஒருவர் ஓதி உணர்ந்து விட்டால் அவர் இறைவனின் அடியார்களின் மத்தியில் உயர்ந்து நிற்பார்.`,
     elaborationEnglish: `Who chant His praise and Him realise, stand aloft
-and see.
-
-Aacued Csluat Csug wrt`,
+and see.`,
   },
   {
     id: 303, tantraId: 1, verseNumber: 302,
@@ -4681,7 +4614,7 @@ At Hara's bidding, Aya obeys and creates;
 Who Siva's bidding obey, Devas they become;
 If fruits of action you crave, then to attachments you're chained.`,
     elaborationTamil: `குருநாதராக இருந்து இறைவன் வழங்கிய சிவ ஆகமங்களை கேட்டு உணர்ந்தால் அதன் மூலம் திருமால் இறைவனின் ஆணை பெற்று காக்கும் தொழிலை புரிவதையும் பிரம்மன் இறைவனின் ஆணை பெற்று படைக்கும் தொழிலை புரிவதையும் உருத்திரன் இறைவனின் ஆணை பெற்று அழிக்கும் தொழிலை புரிவதையும் தெரிந்து கொள்ளலாம். அவ்வாறு தெரிந்து உணர்ந்தபின் இறைவனிடம் சிவபணி வேண்டும் என்று எவர் ஒருவர் கேட்டுப் பெறுகிறாரோ அவரே அடுத்து தேவர்களாக மாறி என்றும் அழியாத இறைவனின் திருவடிகளைப் பற்றிக்கொண்டு சிவபணி புரியலாம். குறிப்பு : அனைத்து தேவர்களும் சிவனடியாராக இருந்து இறைவனிடம் சிவபணி கேட்டு பெற்று தேவர்களாக நின்று அருள் புரிபவர்கள் தான்.`,
-    elaborationEnglish: `Pguredli_t Deaamas Coorg wrat`,
+    elaborationEnglish: `Deaamas Coorg wrat`,
   },
   {
     id: 304, tantraId: 1, verseNumber: 303,
@@ -4707,9 +4640,8 @@ Who fail not in penance, His joyous Grace receive;
 Thus the Lord of rare penances rare awards the
 Supreme prize.
 
-FET HGH )mciryjw Omctienuwytd
 
-Gaeip wngwb HaOiprof wruidhetay`,
+Gaeip HaOiprof wruidhetay`,
   },
   {
     id: 305, tantraId: 1, verseNumber: 304,
@@ -4727,9 +4659,9 @@ Of Him e'er talk, His name adore, prattle in praise;
 Then the abiding Light of His dear presence,
 Like fragrance in flower, comes to you in Grace.`,
     elaborationTamil: `இறைவன் அருளால் வரும் இறப்பும் பிறப்பும் எப்படி வருகிறது என்று தனக்குள் பேசி கேள்வி கேட்டு பிதற்றி அந்த கேள்வி ஞானத்தால் பதில் கிடைக்கும் பேரின்பத்தில் திளைத்து இருந்தால் வாசனை மிக்க மலர்களில் கலந்திருக்கும் நறுமணம் போல பேரொளியாய் திகழும் இறைவனும் நம்மோடு கலந்து நிற்பான்.`,
-    elaborationEnglish: `MNipvuipH Gascrauid Ouwowherm rors
+    elaborationEnglish: `Gascrauid Ouwowherm rors
 Asrapsaypes Abs oomiheam Gung
-dCpsS Dita aiterout GCangyid`,
+Dita aiterout`,
   },
   {
     id: 306, tantraId: 1, verseNumber: 305,
@@ -4866,9 +4798,9 @@ The God Supreme is in all places present;
 They the unlearned are, of God’s pervasiveness
 unaware.
 
-Radar Pmowau Hawuks Ose5ess)
+Radar Hawuks
 
-Paxars STbau HooQuer mowtel tana`,
+Paxars mowtel tana`,
   },
   {
     id: 313, tantraId: 1, verseNumber: 312,
@@ -4896,7 +4828,7 @@ I learnt not to stamp the Great Benefactor in my
 heart,
 
 a + learnt only to dance down the primrose path to
-ee Tg Fach HDowucr GncrOnois onl
+ee Tg Fach onl
 © shed wehgst suct 2 ehedled
 . yf`,
   },
@@ -4947,8 +4879,7 @@ His Light mingled with the eyes where it remained;
 But inside the earth men sought it in folly vain;
 And brooding and writing, they grew thin and pined.`,
     elaborationTamil: `வானவெளியில் உள்ளே இருந்து உயிர்களுக்கு அருள் செய்யும் இறைவன் அவர்களின் கண்களுக்குள்ளும் இருந்து காட்சியைக் காட்டுபவனாகவும் கலந்து அருள் செய்கின்றான். அந்த இறைவனை வழிபட்டு பேரின்பத்தை அனுபவிக்காமல் உலக வாழ்க்கையையே பெரிதானது என்று மதித்துக்கொண்டு இறைவனைப்பற்றி வீண் விளக்கங்கள் எழுதி வீண் பொழுதை கழிக்கின்றனர்.`,
-    elaborationEnglish: `b guidncrgs sree Qeureit emir:
-oid MFT FTA 9`,
+    elaborationEnglish: `b sree Qeureit emir:`,
   },
   {
     id: 317, tantraId: 1, verseNumber: 316,
@@ -4967,7 +4898,7 @@ Only by knowing the tattvas wisdom can dawn,
 Only those are educated who go to the limits of the tattvas and have a vision of
 reality.`,
     elaborationTamil: `இறைவனை அடையும் வழிகளை நன்றாக அறிந்து அதனை செயல் படுத்துபவர்களைத் தவிர வேறு யாருக்கும் இறைவனது திருக்காட்சியை காணமுடியாது உணரமுடியாது. இறைவனை அடையும் வழிகளை நன்றாக அறிந்து அதனை செயல் படுத்தி இறைவனது திருக்காட்சியை பார்த்து உணர்ந்தவர்களே உண்மை ஞானத்தைக் கற்று அறிந்தவர்கள் ஆவார்கள். குறிப்பு : கணக்கு அறிந்தவர்கள் என்றால் கணக்கை இப்படி போட்டால் பதில் கிடைத்து விடும் என்று எண்ணுபவர்கள் மட்டும் இல்லை. அந்த கணக்கை எழுதி சரியான பதிலை தருபவர்களே கணக்கை அறிந்தவர்கள் ஆவார்கள். அது போல இறைவனை அடையும் வழிகளை தெரிந்தவர்கள் மட்டும் ஞானம் அடைந்தவர்கள் இல்லை. அந்த வழிகளை பயன்படுத்தி இறைவனை கண்டு உணர்ந்தவர்களே ஞானம் அடைந்தவர்கள் ஆவார்கள்.`,
-    elaborationEnglish: `SVATS Mpl oss SIT GBT GY LD HA, STI`,
+    elaborationEnglish: `SVATS oss SIT GY LD HA, STI`,
   },
   {
     id: 318, tantraId: 1, verseNumber: 317,
@@ -4990,9 +4921,9 @@ The fools, of learning devoid, to Wisdom come no
 
 near.
 
-SHG Augrebd Qears svuHacir
+SHG Augrebd Qears
 
-eppiph Sirt giemnt ep_itacr`,
+eppiph Sirt giemnt`,
   },
   {
     id: 319, tantraId: 1, verseNumber: 318,
@@ -5010,9 +4941,8 @@ If kith and kin they give not up nor strike at root of ignorance
 As their eyes turn not to quarters
 They alone truly reckon who, wise in love, win the truth.`,
     elaborationTamil: `அற நூல்களையும் வேதங்களையும் கற்று சிவஞானத்தை அடைய வேண்டும் என்ற எண்ணம் இல்லாத தீயகுணமுடையவர்கள் தமது ஐம்புலன்கள் வழியாக உள்ள ஆசைகளையும் உலக வாழ்க்கையையும் பற்றிக்கொண்டு ஆணவம், கன்மம், மாயை ஆகிய மும்மலங்களால் வரும் மாசையும் அகற்றாத மூடர்கள் மற்றும் பல திசைகளிலும் உள்ள கற்றறிந்து உண்மை ஞானம் அடைந்தவர்களை உணரும் அறிவில்லாதவர்கள் இறைவனை அடையும் வழி தெரியாதவர்களே. அற நூல்களையும், வேதங்களையும் கற்று அதன் வழியில் இறைவனின் மேல் அன்போடு இருப்பவர்களே இறைவனை அடையும் வழி தெரிந்தவர்கள்.`,
-    elaborationEnglish: `ADU Dgrotyw srs Gd us@settt
-Gar sigur Osi Gb GuGsOsweud
-9 cxoemgued GConiberonut 2 order`,
+    elaborationEnglish: `ADU srs Gd
+Gar sigur Osi Gb`,
   },
   {
     id: 320, tantraId: 1, verseNumber: 319,
@@ -5035,9 +4965,8 @@ Yet they catch not of His Light the faintest gleam.
 
 the great God
 
-23. BGA] Blaacow
 
-BOher onipoe Csaig wren`,
+onipoe wren`,
   },
   {
     id: 321, tantraId: 1, verseNumber: 320,
@@ -5064,8 +4993,8 @@ are they;
 In the noble fellowship of the Just, I too walked
 in their way.
 
-BOahlet ontEve SIT pPHed ales coro
-BOaper ontfet exrofle onnGountt`,
+SIT ales coro
+ontfet exrofle`,
   },
   {
     id: 322, tantraId: 1, verseNumber: 321,
@@ -5083,7 +5012,7 @@ The Brahma who chants the Vedas four in the middle path stood,
 The wise saintly souls also in middle path stood,
 He, our lord supreme - He, in middle path stood.`,
     elaborationTamil: `பாடல் #320ல் உள்ளபடி நடுநிலையுடன் இருந்து ஞானம் அடைந்தவர்களே பின்பு உலகத்தைக் காக்கும் திருமால் உயிர்களைப் படைக்கும் பிரம்மனாகவும் மாறுவார்கள். சிலர் சிறந்த ஞானியாகி சிவமாகவே மாறிவிடுவார்கள்.`,
-    elaborationEnglish: `BOaber ontflent Ee_roflse one`,
+    elaborationEnglish: `ontflent one`,
   },
   {
     id: 323, tantraId: 1, verseNumber: 322,
@@ -5118,7 +5047,7 @@ On their devout heads, the just bore aloft his holy feet;
 Who chant the pure name with ardour
 And cling thereof, in the society of the just, they meet.`,
     elaborationTamil: `அண்டசராசரங்கள் அனைத்திலும் தோன்றிய அனைத்தையும் அழிப்பவன் சதாசிவமூர்த்தி ஒருவனே அவன் இல்லாமல் வேறு எதுவும் இல்லை என்பதை உணர்ந்து ஈசன் திருவடிகளை பற்றி மும்மூர்த்திகளுக்கும் முதன்மையானவனாகிய சதாசிவமூர்த்தியின் திருநாமமாகிய நமசிவாய மந்திரத்தை சிந்தித்துக் கொண்டு இருப்பவர்கள் நடுநிலையுடன் இருக்கும் ஞானியாகி விடுவார்கள்.`,
-    elaborationEnglish: `24, Kien eT enrTenip`,
+    elaborationEnglish: ``,
   },
   {
     id: 325, tantraId: 1, verseNumber: 324,
@@ -5140,7 +5069,7 @@ Which destroys egoism and bigotry. Sivananda, the bliss supreme, far and away.`,
     elaborationTamil: `அரிசி கழுவிய நீரை பசுவுக்குக் கொடுத்தால் அதைக் குடித்துப் பழகிய பசு அதற்குப் பிறகு குளங்களைத் தேடிச் சென்று நல்ல நீரைப் பருகாது. தாகம் எடுத்தாலும் எளிதாக கிடைக்கும் நல்லநீரை குடிக்காமல் அரிசி கழுவிய கழுநீருக்காக காத்திருந்து அந்தப் பசுக்கள் தங்களது உடல் நலத்தைக் கெடுத்துக் கொள்ளும். அதுபோலவே போதை தரக்கூடிய மதுவைக் குடித்துப் பழகிய மனிதர்கள் ஒழுக்கத்திலிருந்து விலகி எளிதாக கிடைக்கும் செழுமையான நீரான சிவானந்தத் தேனான அமிர்தத்தைப் பருகாமல் போதைதரும் மதுவை பருகி தங்களின் வாழ்க்கையை வீணாகக் கழிக்கின்றனர்.`,
     elaborationEnglish: `Sivananda is Ananda (bliss) in the worship of Siva.
 
-965 Aancsiss Csrang Canmore`,
+965 Aancsiss Canmore`,
   },
   {
     id: 326, tantraId: 1, verseNumber: 325,
@@ -5158,7 +5087,7 @@ The ever-sweet nectar of Sivananda - in the bliss overflow;
 On such nectar fed, you lose not the self-bliss pure;
 For ever thus you sit and lie the holy feet below.`,
     elaborationTamil: `உயிர்கள் வெளியுலக எண்ணங்களை முழுமையாக நீக்கிவிட்டு இறைவனின் மேல் சிந்தனையை வைத்து யோகத்தில் சிவமாக இருக்கும் சமாதி நிலையில் குண்டலினி சக்தியை சுழுமுனை நாடி வழியே மேலேற்றி சகஸ்ரரதளத்தில் சேர்த்தால் அங்கே ஊறும் மிகவும் தூய்மையான அமிர்தத்தைப் பருகி பேரானந்தத்திலேயே இருப்பதை விட்டுவிட்டு புத்தியை மயக்கும் உலக மதுவை பருகி அந்த மயக்கத்தில் இருப்பதும் சுய நினைவின்றி மயங்கிக் கிடப்பதும் உயிர்களை இழிவு நிலைக்கு அழைத்துச் செல்லும்.`,
-    elaborationEnglish: `Gunn wigw yosaqy Qnoarwy.`,
+    elaborationEnglish: `Gunn wigw yosaqy`,
   },
   {
     id: 327, tantraId: 1, verseNumber: 326,
@@ -5240,7 +5169,7 @@ the clear light of Wisdom, Sivayoga they seek
 
 They . who soak in liquors, Truth never can appraise.
 
-§ wg aourey wrepei GCgsomit
+§ wg aourey wrepei
 
 460! Wrnteauw wreauder &@`,
   },
@@ -5270,7 +5199,7 @@ corresponds to icchasakti of Sanskritic culture. ‘‘The impure
 ,Maya includes within itself all the effects, such as time and
 the impure souls’’ (S.N. Das Gupta, ‘“‘History of Indian
 
-Qumigu. wianish @cauGw iB`,
+Qumigu. wianish iB`,
   },
   {
     id: 331, tantraId: 1, verseNumber: 330,
@@ -5339,7 +5268,7 @@ But Sakti dies when the o'er- powered senses swoon;
 True Sakti, indeed, in Sivajnanan finds its birth,
 To merge in truth-wisdom-bliss - and to other things immune.`,
     elaborationTamil: `தேவியை வணங்குபவர்களில் சிலர் அவள் அருளைப்பெற்று மந்திர தந்திரசக்தி அடைய வேண்டும் என்று மதுவைப்படைத்து பின்பு அருந்துகின்றனர். மது அருந்துவோர் தம்மை மறப்பார்கள். தம்மை மறந்ததால் அவர்களுடைய ஆற்றல் அழியும். அருள் சக்தி என்பது இறைவன் மேல் எண்ணத்தை வைத்து சிவஞானத்தை அறிந்து அதில் நிலைபெற்று உண்மை ஞானத்தை அடைவதே ஆகும்.`,
-    elaborationEnglish: `$9 Fawrh QreaHisa wgoarmusss`,
+    elaborationEnglish: ``,
   },
   {
     id: 334, tantraId: 1, verseNumber: 333,
@@ -5364,7 +5293,7 @@ Then in us, truly, the Siddhis eight do shine.
 
 Siva and Sakti are shown as united in the Ardhanarisvara
 
-Onwss FayporG DOO usreapss`,
+Onwss DOO usreapss`,
   },
   {
     id: 335, tantraId: 1, verseNumber: 334,
@@ -5397,9 +5326,9 @@ The nectared delights of Contemplation's Moon,
 The eight Siddhis they seek; but witless fools are they
 Who to toddy yield and in its heady joys let their senses swoon.`,
     elaborationTamil: `இறைவனை அடைய வேண்டும் என்று சிவ சிந்தனையில் இருக்கும் சிவயோகிகள் பிராணாயாம முறையில் மூச்சுக்காற்றை தன் வசப்படுத்தி அதனால் கிடைக்கும் குண்டலினி சக்தியின் மூலம் அமிர்தத்தை பருகி எட்டுவித சித்திகளையும் பெற்று பேரானந்தத்தில் இருப்பார்கள். அப்படி இல்லாமல் உலக இன்பங்களில் மோகம் கொண்டவர்கள் மதுவைக் குடித்து மூடர்களாகி மதம் பிடித்த யானை போல் என்ன செய்கிறோம் என்று தெரியாமல் கோபம் கொண்டு அறிவு அழிந்து ஒரு நாள் இறந்து போகின்றனர்.`,
-    elaborationEnglish: `Osorofit Gocucr Aencrwy gs gsTLwenT
+    elaborationEnglish: `Osorofit Gocucr Aencrwy gs
 
-Boarckit srorGul oni grercvs`,
+Boarckit oni grercvs`,
   },
   {
     id: 337, tantraId: 1, verseNumber: 336,
@@ -5424,6 +5353,6 @@ Reach the Divine Good in holy meet.`,
 
 1. 93559 ud
 
-SOAHd anda qos sibs`,
+anda qos sibs`,
   },
 ];

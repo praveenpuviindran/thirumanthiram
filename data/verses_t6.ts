@@ -26,9 +26,7 @@ The holy Guru is Siva Himself. He granted me his grace.
 He taught me meckness. Testing me He revealed the
 real, the unreal and the real/unreal. Immense is the power
 of the presence of the divine Guru that liberated me
-from the bonds of the carnal body.
-
-urggmsh ety Guw 6h yu uMghc@`,
+from the bonds of the carnal body.`,
   },
   {
     id: 1575, tantraId: 6, verseNumber: 1574,
@@ -49,7 +47,7 @@ Straight to Mukti he led me-
 Behold, of such holy potent
 Is the Presence of the Guru Divine!`,
     elaborationTamil: `அடியவர் உலகப் பற்றுக்களின் மேல் வைத்திருக்கும் பல விதமான பந்த பாசங்களை ஒன்றாக கூட்டி அதை ஒரு கட்டாக கட்டி வைத்து அதை அடியவரிடமிருந்து பறித்து நீக்கி வெளியில் எறிந்து விட்டு இது வரை என்னுடையது என்று அடியவர் தனது உடலின் மீது கொண்டிருந்த ஆசையை விடுவித்து இறைவனுக்கு நேரானதாகவும் சரிசமமாகவும் இருக்கின்ற ஒரு பழியும் இல்லாத முக்தியில் சேர்த்து அருளியதால் இந்த உலகத்தில் இருக்கும் போதே ஒரு குற்றமும் இல்லாத உண்மையான குருவாக அந்த பரம்பொருளே வந்து வழிகாட்டி அருளுகின்றான்.`,
-    elaborationEnglish: `*Syb stevF SDS goons Curad ae`,
+    elaborationEnglish: `goons Curad ae`,
   },
   {
     id: 1576, tantraId: 6, verseNumber: 1575,
@@ -73,7 +71,7 @@ If the Guru but his grace confers.`,
     elaborationEnglish: `Mantras 1575 & 1576
 
 The Guru grants the miraculous powers of eight siddhis, the
-immaculate purity of the eight saktis, and the mystic powers
+immaculate purity of the eight saktis, and the powers
 of the hidden yoga through conferment of his grace. The Siva
 Guru — the pure being — is above all the worlds, bestowing
 
@@ -152,8 +150,7 @@ experience the false- dissolving in the true, learn the
 omnipotence of Truth, possess the bountiful Grace of Siva
 and realise the miraculous powers of the eight siddhis.
 
-Dowenwwyid germs Flouorw svousor
-aeweninujLd ot OL L OF ASH wwsscupid`,
+Dowenwwyid germs Flouorw svousor`,
   },
   {
     id: 1580, tantraId: 6, verseNumber: 1579,
@@ -196,9 +193,7 @@ Sure their reward, the Liberation Finite.`,
 
 Seek the feet of the Guru as of Siva’s, and gain ‘tattva mukti’;
 for the Guru is none other than Siva Himself. He sunders
-the cycle of births and grants the liberation of the soul.
-
-GGCau Aagwris Cargyuond HHGw`,
+the of births and grants the liberation of the soul.`,
   },
   {
     id: 1582, tantraId: 6, verseNumber: 1581,
@@ -223,9 +218,7 @@ That surpasses speech and thought, all.`,
 And your Guide too;
 
 Guru in truth is Lord,
-That surpasses speech and thought, all.
-
-AS50 wneouys HomFleu wrersard`,
+That surpasses speech and thought, all.`,
   },
   {
     id: 1583, tantraId: 6, verseNumber: 1582,
@@ -270,7 +263,6 @@ Of crimson twilight fire.`,
     elaborationEnglish: `Nandi is the king of kings. To his devotees truly he is the
 god of heavenly might and unrivalled luminosity.
 
-Doanrw AFSHuyw wsHNuyid Firenww
 
 Gurngenw Cugsrés Gursipib srscr`,
   },
@@ -320,7 +312,7 @@ If Sakti but Her Grace bestows.`,
 to Sivoham meditation in which jnana leads to mukti, when
 Sakti confers Her Grace.
 
-Sates mussGart Qorucd Ym Gener`,
+Sates Qorucd Ym Gener`,
   },
   {
     id: 1587, tantraId: 6, verseNumber: 1586,
@@ -346,8 +338,8 @@ Concentration of God leads to the revelation of God Himself.
 Achieve the luminous siddhis; realise the jnana of Siva; and
 attain mukti. Siva jnana leads to Sivananda.
 
-Panta gros DshuGancsr ASH
-Paunes Greases AouussCSR Cuse`,
+Panta gros ASH
+Paunes Greases Cuse`,
   },
   {
     id: 1588, tantraId: 6, verseNumber: 1587,
@@ -367,9 +359,9 @@ You shall attain the Mukti resplendent;
 When your Jnana of Siva reaches to Siva Supreme,
 Then shall it yield the Bliss of Sivananda.`,
     elaborationTamil: `சிவமாகவே ஆகிவிட்ட பேரறிவு ஞானத்தினால் அடியவரின் மனமும் முழுமையாக தெளிவு பெற்று அவரது மனம் இறைவனோடு ஒன்றி இருக்கும் போது அனைத்து விதமான சித்திகளையும் பெற்று விடுவார். அப்படி அவரது மனம் தெளியும் போதே அடியவர் விடுதலை எனும் முக்தி நிலையையும் பெற்று விடுவார். அப்போது சிவத்தின் பரம்பொருள் இருக்கின்ற பரவெளியில் தாமும் சென்று அடைகின்ற நிலையையும் அடியவர் பெற்று விடுவார். அதன் பிறகு சிவமாகவே ஆகிவிட்ட பேரறிவு ஞானமே சிவத்தின் பேரானந்த நிலையையும் அடியவருக்கு கொடுக்கும்.`,
-    elaborationEnglish: `ADs crit Csofleu sc (PODIG
+    elaborationEnglish: `crit sc (PODIG
 
-Lossip  GscrwG wrest cunpsons`,
+Lossip wrest cunpsons`,
   },
   {
     id: 1589, tantraId: 6, verseNumber: 1588,
@@ -393,10 +385,8 @@ For ever have I bidden adieu to birth recurring.`,
 
 Deep devotion and intense meditation made Tirumular realise
 and receive the Lord’s Divine Grace. He. met Siva, the seed
-of all causal phenomena, and so ended the cycle of recurring
-births. :
-
-QGsAam saomwemu ggb 2 cmgnt`,
+of all causal phenomena, and so ended the of recurring
+births. :`,
   },
   {
     id: 1590, tantraId: 6, verseNumber: 1589,
@@ -416,8 +406,8 @@ And lo! I met the Lord, the seed of all causal phenomenon.`,
     elaborationTamil: `வினைகளை தீர்ப்பதற்காக உடலை எடுத்து வருகின்ற பல விதமான உயிர்கள் எல்லாவற்றுக்கும் தலைவனாகிய இறைவன் அந்த உயிர்களுக்குள்ளேயே மறைந்து இருக்கின்ற தன்மையை சிறிது அளவும் உணராமல் இருக்கின்றார்கள் உலகத்தவர்கள். இறைவனையும் ஆன்மாவையும் மாயையால் பிரித்து வைத்து இருக்கின்ற இந்த உலகப் பற்றுக்கள், ஆசைகள், பாசம் எனும் தளைகளை எல்லாம் அறுத்து விட்டு தான் எனும் அகங்காரத்தை கொன்று தனக்குள் இருப்பது ஈசனே என்பதையும் அவனே அனைத்திற்கும் தலைவனாகவும் இருக்கின்றான் என்பதையும் யான் கண்டு கொண்டேனே.`,
     elaborationEnglish: `2. Doaye Cup
 
-umsrpOSZup Feng une gg gae
-Pass GGupg Derehans mass`,
+Feng une gg gae
+Pass Derehans mass`,
   },
   {
     id: 1591, tantraId: 6, verseNumber: 1590,
@@ -441,9 +431,9 @@ The rapturous Grace of His Holy Feet.`,
     elaborationEnglish: `And lo! in you wells up_
 The rapturous Grace of His Holy Feet.
 
-args GunGs gsmagis erbilenp
+args erbilenp
 
-wT $s Grr adeounys F5HUO
+wT $s Grr adeounys
 
 Grace of Feet is Kingdom Won
 
@@ -465,7 +455,7 @@ Deliverance”
 
 —All these He did, descending on earth, here below.
 
-Sroreu cmmhs Oerejus supHe@`,
+Sroreu Oerejus`,
   },
   {
     id: 1592, tantraId: 6, verseNumber: 1591,
@@ -515,7 +505,7 @@ jnana. By making me unite in Sivam, he granted me the
 boundless form that. transcends the four states — Nada,
 Nadanta, Kala and Kalanta.
 
-2e7wh nertun pultug wns`,
+nertun pultug`,
   },
   {
     id: 1594, tantraId: 6, verseNumber: 1593,
@@ -562,10 +552,10 @@ Thus did He work my redemption eternal.
 
 Nandi, my divine preceptor, transcending all three states —
 form, formless and form/formless—assumed the mudra of
-jnana. Drawing myself towards his benign feet, I worked my
+jnana. Drawing towards his benign feet, I worked my
 way to liberation. $
 
-Gussin Qorugsgu Gurnere 55HGCo`,
+Gussin Qorugsgu Gurnere`,
   },
   {
     id: 1596, tantraId: 6, verseNumber: 1595,
@@ -591,9 +581,9 @@ And there does he abide, forever, in me.`,
     elaborationEnglish: `Cleansed from blemishes, I was immersed in infinite bliss that
 is beyond words, and was transformed into Supreme Sivam.
 
-QsusHb pci sgb aorpsr Ags gid
+aorpsr Ags gid
 
-SAMUSS sup Guwar yweusrmd`,
+SAMUSS sup Guwar`,
   },
   {
     id: 1597, tantraId: 6, verseNumber: 1596,
@@ -620,7 +610,7 @@ Nandi, my monarch, gently planted his loving hallowed feet
 on my head, and showed the True Path, thus settling the
 course of my destiny. Truly inexplicable are his gracious acts.
 
-Guy Anse. CarononQua Carenud`,
+Guy Anse. Carenud`,
   },
   {
     id: 1598, tantraId: 6, verseNumber: 1597,
@@ -666,7 +656,7 @@ Jnana of Holy Feet is Siddhi and Mukti too.`,
 from the impurities it took me to the world of Siva Himself.
 Siva is siddhi and mukti too.
 
-uTaougss Oecrefts UL-Ggraf suresteucst`,
+uTaougss Oecrefts suresteucst`,
   },
   {
     id: 1600, tantraId: 6, verseNumber: 1599,
@@ -696,7 +686,7 @@ feet are superior to earthly monarchs. These at best can but
 
 sway the world; but the joy of devotees is boundless indeed.
 
-aypwtt sows DGwy srengpyid`,
+aypwtt sows srengpyid`,
   },
   {
     id: 1601, tantraId: 6, verseNumber: 1600,
@@ -798,7 +788,7 @@ the Lord on their crowns, trod the path of Truth — the goal
 of the pure. Truly the Lord’s Feet is all — mantra and
 medicine; tantra and wisdom; beauty and the pure way.
 
-557 WIM g1WOsoH wrosgyd`,
+557 WIM wrosgyd`,
   },
   {
     id: 1605, tantraId: 6, verseNumber: 1604,
@@ -816,11 +806,11 @@ All tantra and all giving;
 All beauty and all pure way;
 Mine Holy Father's Feet Twain.`,
     elaborationTamil: `அனைத்து விதமான மந்திரங்களாக இருப்பதும் அனைத்து விதமான நோய்களையும் தீர்க்கின்ற மாபெரும் மருந்தாக இருப்பதும் தாந்திரீகம் எனும் இறைவனை அடைவதற்கான வித்தைகளாக இருப்பதும் உலகத்தில் உள்ள அனைத்து விதமான தான தர்மங்களாக இருப்பதும் அழுக்கை நீக்கிய பேரழகாக இருப்பதும் இறைவனை அடைவதற்கு தூய்மையான வழி முறைகளாக இருப்பதும் எமது தந்தையும் அனைத்திற்கும் தலைவனும் ஆகிய இறைவனின் ஒன்றாக சேர்ந்தே இருக்கின்ற திருவடிகளே ஆகும். உள் விளக்கம்: மாயையால் மூடியிருக்கின்ற மனதை திறக்கின்ற திறவு கோலாக இருப்பதும் பிறவி பிணி எனும் நோயை தீர்க்கின்ற மாபெரும் மருந்தாக இருப்பதும் இறைவனை விரைவில் அடைவதற்கான வழிகளாக இருப்பதும் அடியவர்கள் செய்கின்ற அனைத்து விதமான தான தர்மங்களாக இருப்பதும் பிறவி எனும் அழுக்கை நீக்கிய சுந்தரமான அமரர்களாக இருப்பதும் மும் மலங்களை நீக்கி தூய்மை அடைவதற்கான வழி முறையாக இருப்பதும் இறைவனின் திருவடிகளே ஆகும்.`,
-    elaborationEnglish: `3. GIG rer Cq@ub
+    elaborationEnglish: `3. GIG rer
 
 JNATHRU. JNANA, JNEYA
 
-UTmETot UTE Ut_omr Lit Maexytb`,
+UTE Lit Maexytb`,
   },
   {
     id: 1606, tantraId: 6, verseNumber: 1605,
@@ -839,7 +829,7 @@ When it ever envelops you,
 You but throw your egoity out and stand firm;
 Yours shall then be the ambrosial bliss eternal.`,
     elaborationTamil: `திருவடி பேற்றை பெற்ற அடியவர்கள் நீங்காமல் சிவப் பரம்பொருளின் பேரானந்தத்தில் தூய்மையான அன்பிலே நின்று இருப்பார்கள். அப்படி நிற்கின்ற பாவனை விட்டுவிடாமல் இருக்கும் போது பாசத் தளைகள் மூடி விடாமல் இருக்கும். பிறகு உலக நன்மைக்காக செயல்கள் செய்யும் போது பாசம் வந்தால் கூட நான் என்கின்ற அகங்காரம் நீங்கி விட்டதால் பாசத் தளைகளால் மறுபடியும் மாயையில் மூழ்கிவிடாத நிலையிலேயே நிலைத்து நிற்பார்கள். அப்போது எப்போதும் நீங்காத சமாதி நிலையில் அமிழ்தத்தை பருகிக் கொண்டே பேரின்பத்தில் திளைத்து நிற்கின்ற நிலையை அவர்களால் பெற முடியும்.`,
-    elaborationEnglish: `CqusHar Cqusas Gquseas yonourt`,
+    elaborationEnglish: ``,
   },
   {
     id: 1607, tantraId: 6, verseNumber: 1606,
@@ -879,11 +869,11 @@ See them both in you and He;
 Offer the flower "you" at the Feet of He;
 Then no more be it proper to say: "You and He."`,
     elaborationTamil: `தான் என்று தனியாகவும் இறைவன் என்று தனியாகவும் இரண்டு விதமாக பிரித்து வைத்து பார்க்கின்ற தத்துவமானது, தான் என்று எண்ணப்படுகின்ற பொருள் இறைவன் என்று எண்ணப்படுகின்ற பொருள் ஆகிய இரண்டையும் தமக்குள்ளேயே கண்டு உணர்ந்து, தான் என்று எண்ணப்படுகின்ற பொருளாகிய ஆன்மாவை ஒரு பூவாக பாவித்து தமக்குள் இருக்கின்ற இறைவனின் திருவடிகளில் அதை சாத்தி வணங்கித் தொழுதால், அடியவர் நான் என்று எதை எண்ணுகின்றாரோ அதை இறைவன் என்று உணர்வதே நல்லதான ஒன்றாக அன்றிலிருந்தே உணர்ந்து கொள்ளுவார்.`,
-    elaborationEnglish: `*You’ becomes ‘He’ when the flower ‘You’ is offered at the
+    elaborationEnglish: `becomes ‘He’ when the flower ‘You’ is offered at the
 Feet of ‘He.’
 
-Onset ugsiner Qursgicr Goo@
-peru wrshF Hours Coqnussrd`,
+Onset ugsiner Qursgicr
+peru Hours Coqnussrd`,
   },
   {
     id: 1609, tantraId: 6, verseNumber: 1608,
@@ -936,17 +926,17 @@ He, Nandi of hallowed name.`,
     elaborationEnglish: `Mantras 1609 & 1610
 
 I, who was ignorant of the distinction between knowledge
-and ignorance, was taught the same. Knowing myself, he,
+and ignorance, was taught the same. Knowing he,
 Nandi of hallowed name, transformed me into Para and made
 me intimate with Siva. He, Nandi of immortal fame, showed
 me diverse wonders that had never before been heard and
 seen.
 
-sromts sorentor Gaorrg GaciraSuyni
+sromts sorentor Gaorrg
 
 Ganong Gursupm gL mL Uplb
 
-Bromrs Bromiplb BrgEThs Gurs lpm`,
+Bromrs Bromiplb Gurs`,
   },
   {
     id: 1611, tantraId: 6, verseNumber: 1610,
@@ -1003,7 +993,7 @@ Obfuscation and Grant of Grace.`,
     elaborationEnglish: `Shall reach the very bliss of Mukti;
 
 And all Siddhis of themselves seek them
-Into the Silent Word* would in perfection evolve;
+Into the Silent would in perfection evolve;
 Mastering Mauna thus, ;
 
 They shall gain the power
@@ -1051,7 +1041,7 @@ yoga.
 
 Mantras 1612 & 1613
 
-Snap the cycle of birth and death by performing yoga at the
+Snap the of birth and death by performing yoga at the
 feet of the Guru. The supreme jnani, after attaining the three
 higher forms, himself becomes the primal form of spirit —
 
@@ -1076,11 +1066,11 @@ The Jiva that is Jnathru (Knower).`,
     elaborationTamil: `அனைத்திற்கும் மேலே இருக்கின்ற இறைவனின் சொரூபங்கள் ஆக இருக்கின்ற பார்க்கின்றவன், பார்க்கும் ஞானம், பார்க்கப்படும் பொருள் ஆகிய மூன்று விதமான தத்துவங்களுக்கும் மேலான சக்தியாகிய இறைவன் தம்முடைய திருவருளால் அருளிய இந்த மூன்று திரைகளையும் தெரிந்து கொள்ளும் பரம் பொருளின் பேரறிவு ஞானம் கிடைக்கப் பெறுவார். அந்த ஞானத்தின் மூலம் தமக்குள் ஆனந்த வடிவாக இருக்கின்ற சிவப் பரம்பொருளை பார்த்து உணர்ந்து அதுவே ஞானத்தால் பார்க்கப் படுகின்ற பொருள் பார்க்கின்றவன் என்று தனித்தனியாக பிரிந்து இருக்கின்ற நிலை இல்லாமல் போய் அனைத்திற்கும் மூலமாகிய இறைவனின் சொரூபமாக இருக்கின்ற பொருள் பார்க்கின்றவனாக இருக்கின்ற தாமே என்பதை உணர்ந்து கொள்ளுவார்கள். கருத்து: பார்க்கின்றவனாகிய சாதகர் தமக்குள் இருக்கின்ற பரம்பொருளை பார்ப்பதற்கான ஞானத்தை இறைவனின் திருவருளால் பெற்று தாம் பார்க்கின்ற அந்த மூலப் பரம்பொருளாக தாமே இருப்பதை உணர்ந்து கொள்வார்.`,
     elaborationEnglish: `The Jiva that is Jnathru (Knower).
 
-Qoiiyb Mpriybd QGgrwyd fuHs
+Qoiiyb fuHs
 
-nos sumsonr GenBs Ygrencs
+nos sumsonr
 
-opie gripsswb curdiOQwomp cunts`,
+opie gripsswb cunts`,
   },
   {
     id: 1615, tantraId: 6, verseNumber: 1614,
@@ -1120,12 +1110,12 @@ Then is the moment for the soul to renounce;
 When it does then, a radiant Light it becomes.`,
     elaborationTamil: `பல முறைகள் பிறவி எடுத்து எடுத்து இறக்கின்ற பிறவிச் சுழலில் இருந்து விடுதலை பெறுகின்ற அறிவு இல்லாததால் தனக்குள் இறைவன் இருப்பதையே மறந்து மாயையாகிய மலத்தின் இருளில் இருக்கின்றார்கள். அப்போது அவர்களை விட்டு அந்த இருளானது நீங்கி மறைந்து போகும் படி சிறப்பான இறைவனின் பேரருளை அவர்கள் அடைகின்ற காலத்தில் அனைத்தையும் விட்டு விலகி இருக்கின்ற துறவாகிய தவ நிலையில் இருக்கின்ற உயிர்களுக்கு இறைவனுடைய பேரருளானது பிரகாசமாக திகழ்கின்ற சுடர் ஒளியாக விளங்கும்.`,
     elaborationEnglish: `Innumerable times they are bom; they die and forget the
-myriad follies they commit. In darkness they are enveloped.
+follies they commit. In darkness they are enveloped.
 Even so, they can find light in the hidden Grace of Siva,
 if they but renounce at the right moment.
 
-Anpucr Mp9) wing Berger
-FIMUD/E Soret gIMsSout Sidenwes`,
+Anpucr wing Berger
+FIMUD/E Soret Sidenwes`,
   },
   {
     id: 1617, tantraId: 6, verseNumber: 1616,
@@ -1148,14 +1138,14 @@ You insensate ones! Know thus.`,
     elaborationEnglish: `Mantras 1616 & 1617
 
 The Renunciate.Lord is dharma, birthless and kinless; He
-dwells in the wilds and lives by alms. To all those who
+in the wilds and lives by alms. To all those who
 renounce sincerely, He snaps the fetters of birth. The
 renunciates walk in the straight path; the rest tread crooked
 paths full of thorns that prick.
 
-ApHeours um sore ODEGEGHAY usm ssrer
-Opmured suapader OsGeHled uprumuytd
-ApAuIc cuapur Qumscucd wae`,
+ApHeours um sore ODEGEGHAY usm
+Opmured suapader uprumuytd
+cuapur Qumscucd wae`,
   },
   {
     id: 1618, tantraId: 6, verseNumber: 1617,
@@ -1174,8 +1164,8 @@ The thorns of temptation shall prick you;
 They that deviate not,
 Them the thorns prick not.`,
     elaborationTamil: `அனைத்தையும் விட்டு விலகி இருக்கின்ற துறவறத்தை மேற்கொள்ளுபவர்கள் கடை பிடிக்க வேண்டிய வழிமுறைகளை படைத்த இறைவனே அந்த வழிமுறைகளை சரியாக கடைபிடிக்காத போது அதை உணர்த்துவதற்கு கடினமான முள்ளை போன்ற துன்பங்களையும் படைத்தான். கடை பிடிக்க வேண்டிய வழிமுறைகளில் இருந்து சிறிது விலகி நடந்தாலும் அந்த கடினமான முள் போன்ற துன்பங்களும் பாய்ந்து சாதகருக்கு அவர்கள் வழி தவறி செல்வதை நினைவூட்டும். சிறுதளவும் கூட தாம் கடை பிடிக்க வேண்டிய வழிமுறைகளில் இருந்து விலகி விடாமல் செயல் பட முடிந்தவர்களுக்கு அவர்கள் கடை படிக்கின்ற வழிமுறைகளில் ஒரு பொழுதும் கடினமான முள்கள் போன்ற துன்பங்கள் பாய்வது இருக்காது.`,
-    elaborationEnglish: `Bry cinorbsg Bots GoucrGover
-Alo aont_uwjont_ Howreat sd holy.`,
+    elaborationEnglish: `Bry cinorbsg Bots
+Alo Howreat sd holy.`,
   },
   {
     id: 1619, tantraId: 6, verseNumber: 1618,
@@ -1237,7 +1227,6 @@ blossomed in abundance. Then he left it to the: ploughwoman
 to guard and tender, himself ceasing from ploughing
 thereafter. That is, when Grace blossoms, tapas ceases.
 
-Goegink serer Oerm@srat smmmioucs
 STTZIDG SUMTESUCH Sosy s suruihly Gd`,
   },
   {
@@ -1264,9 +1253,7 @@ Will His Feet within reach be.`,
     elaborationEnglish: `The Lord, the Shining Light above, renounced all. He, -the
 Friend of “All, vanquished death. He, devoid of desires, is
 the guiding light of those who seek His Feet abandoning things
-worldly.
-
-BTS Qo) UL_WPHs HIV!`,
+worldly.`,
   },
   {
     id: 1622, tantraId: 6, verseNumber: 1621,
@@ -1287,7 +1274,7 @@ Then into a single hood it merged (Kundalini)
 Into the very body within.`,
     elaborationTamil: `உயிர்களின் உடல் ஒன்று அதன் உணர்வுகள் பார்த்தல் கேட்டல் சுவைத்தல் மணத்தல் உணர்தல் ஆகிய ஐந்து விதமான புலன்களால் கட்டி இழுக்கப்பட்டு அதன் மூலம் உடல் அனுபவிக்கின்ற இன்பத்திலேயே ஆழ்ந்து ஆசைகளாகிய புற்றில் பொருந்தி அதிலேயே வாழ்க்கை முழுவதும் நிறைந்து இருக்கின்றது. அதனால் தூல உடல் சூட்சும மனம் ஆகிய இரண்டும் தமது ஆசைகளின் வழியே படம் விரித்து ஆடுகின்ற பாம்பைப் போல ஆடி வாழ்க்கை ஒழிந்து போகின்றது. இதை மாற்ற ஐந்து புலன்களையும் ஒரே உடலாகிய மனம் அடக்கி ஆளும் படி செய்து அதை தமது உடலின் கட்டுப் பாட்டில் வைத்து தியானத்தில் வீற்றிருக்கலாம். இந்த நிலையே துறவு ஆகும்.`,
     elaborationEnglish: `gap apuipse a8 Morgpb
-Qausipr Gerenper Ophwgyid sooo`,
+Qausipr Gerenper Ophwgyid`,
   },
   {
     id: 1623, tantraId: 6, verseNumber: 1622,
@@ -1321,8 +1308,7 @@ is the First of Renunciates and it will take many many lives
 to reach His Holy Feet. Nobody knows how He, the Loved
 One. comes, and when.
 
-giby Spgs gorugs auTiggy
-BbuUIGSypONMe serch ut g`,
+giby Spgs gorugs auTiggy`,
   },
   {
     id: 1624, tantraId: 6, verseNumber: 1623,
@@ -1346,7 +1332,7 @@ As in temple lofty and sacred.`,
     elaborationTamil: `இதுவரை துன்பக் குழியில் ஆன்மாவனது தனது கர்மங்களை அனுபவிக்கின்ற வாழ்க்கை சுழலிலேயே அகப் பட்டுக் கொண்டு இருந்தது. அனைத்தையும் விட்டு விலகி துறவு எனும் தவ நிலையில் மேன்மை நிலையை அடையும் போது தமது உடலில் உள்ள இரண்டு கண்கள், இரண்டு காதுகள், இரண்டு நாசிகள், வாய், கருவாய், எருவாய் ஆகிய ஒன்பது துளைகளாகிய கர்மங்களின் செயல்களை துறந்து விடுகின்றது. அதன் பிறகு பிறகு சுழுமுனை நாடியின் வழியே குண்டலினி சக்தியானது மேல் நோக்கி ஏறி பார்க்கும் போது அங்கே அவரது ஆன்மாவை காக்கின்றவனாகிய இறைவனை அவரது ஆன்மாவை மூடியிருந்த திரையை விலக்கிப் பார்த்து சுழுமுனையின் உச்சித் துளைக்கு மேலே இருக்கின்ற சகஸ்ரதளத்தில் ஏறி அங்கே கோயில் கொண்டு வீற்றிருந்து முக்தியை அளிக்கின்ற பேரோளியாகிய இறைவனை அடைகின்ற வழி அவருக்கு கிடைத்தது.`,
     elaborationEnglish: `5. gab
 
-QOwveuyd Qo Qoriusd Qearenw`,
+Qo Qoriusd Qearenw`,
   },
   {
     id: 1625, tantraId: 6, verseNumber: 1624,
@@ -1372,7 +1358,7 @@ The renunciates are calm and serene. They do not tremble
 in fear, and are not shaken by the fury of passions, fear
 of death, by night, or by day, by fruits good and bad of
 karma. They rest in absolute tranquillity. Blessed are they
-who know the mystery of life, the origin of earth and the
+who know the of life, the origin of earth and the
 greatness and might of pure deeds of tapas.`,
   },
   {
@@ -1392,11 +1378,10 @@ Who knows them all
 But they that receive Lord's Grace?
 The rest know naught of tapas supreme.`,
     elaborationTamil: `எமது உடல் உயிரோடு சேர்ந்து இருக்கின்ற ஆன்மா மற்றும் யாம் இருக்கின்ற உலகம் ஆகிய இரண்டு இடத்தின் மூலத்தையும் செம்மையாகிய மாபெரும் தவத்தினை செய்கின்ற செயலின் பெருமையையும் அந்த மாயவனாக இருக்கின்ற இறைவனின் திருவருளை பெற்று தவ நிலையில் இருப்பவர்களைத் தவிர இந்த மாபெரும் தவத்தின் இயல்பை வேறு எவரும் அறிய மாட்டார்கள்.`,
-    elaborationEnglish: `Qptugd wrtue IéeosOsd wrpset
-ApiOur® Gucwyw Oscdand Qugiout
-upiniea gr@u wipes Oasuseurt
+    elaborationEnglish: `wrtue wrpset
+Gucwyw Oscdand Qugiout
+upiniea wipes Oasuseurt
 
-Yptwdacr SSG QuGewQupH pTG7. — 1626
 
 Tapasvin Ends Birth
 
@@ -1492,7 +1477,7 @@ naked eyes. The inner eyes of the tapasvins of hard penance
 can, however, vision Him. So, intensely adore the mighty God
 Sporting the milk white crescent moon.
 
-UerGerig mugs sGart Qeruc Mpc’ omer`,
+mugs Qeruc omer`,
   },
   {
     id: 1630, tantraId: 6, verseNumber: 1629,
@@ -1518,9 +1503,7 @@ reveals Himself. In this perishable world where everything is
 transient, tapas alone is the imperishable wealth. It alone can
 confer immortality.
 
-1) Same as Mantra 1586 ante.
-
-umMsEsSOSUpL sq ult_ot BOG`,
+1) Same as Mantra 1586 ante.`,
   },
   {
     id: 1631, tantraId: 6, verseNumber: 1630,
@@ -1542,9 +1525,7 @@ The tapasvins immortals became, their eyelids batting not.`,
 love,
 
 The tapasvins immortals became, their eyelids
-batting not.
-
-FTSHID HSC FRE ai_Obr`,
+batting not.`,
   },
   {
     id: 1632, tantraId: 6, verseNumber: 1631,
@@ -1563,10 +1544,10 @@ That one look shall drive the nail into the coffin of birth
 And forever end its cycle recurring.`,
     elaborationTamil: `சாத்திரங்களை படித்து விட்டு அதன் பெருமைகளையே பேசித் திரிகின்றதை விட்டு விடுங்கள் நீங்கள். ஒரு கண நேரமாவது மூச்சுக்காற்றை தடுத்து நிறுத்தி தமக்குள்ளே உற்றுப் பாருங்கள். அப்படி பார்த்த அந்த தவ பார்வையானது பசுமையான மரத்தில் அடித்த ஆணி போல உறுதியாக நினைவில் நின்று போராடுகின்ற கடினமான பிறவிகள் அனைத்தையும் தம்மை விட்டு விலகி ஓடி விடும்.`,
     elaborationEnglish: `Neither argumentation of contending theologies nor knowledge
-of scriptures can end the recurring cycle of birth. Look inward
+of scriptures can end the recurring of birth. Look inward
 even for a brief while. That can take you far.
 
-SaunGacrG Ererh soour Garesrig vd`,
+Ererh soour Garesrig vd`,
   },
   {
     id: 1633, tantraId: 6, verseNumber: 1632,
@@ -1592,8 +1573,8 @@ self into the Over-Self do not need tapas.
 
 6. su Heong
 
-Sragiib Goucsin@uwws snuff Dimascrmn
-srsgilb Gossime, ForGes gay.cmrp`,
+Sragiib snuff Dimascrmn
+srsgilb Gossime,`,
   },
   {
     id: 1634, tantraId: 6, verseNumber: 1633,
@@ -1657,9 +1638,9 @@ rites matter not when you are detached. Nor is meditation
 needed in the stilled’ actionless-state of samadhi that
 transcends all meditation.
 
-Narap sntusro. Gwwssoes, Oswouri
+Narap sntusro. Oswouri
 
-Pass cuttusset Guouwwse7 Oewount`,
+Pass cuttusset Oewount`,
   },
   {
     id: 1636, tantraId: 6, verseNumber: 1635,
@@ -1688,9 +1669,7 @@ can be reaped only by performing true tapas, speaking truth
 and following the path of virtue. Performance of tapas with
 oneness of mind and eagerness of heart will grant the Lord’s
 triumphant Feet and the Siva-state. Seeking in the yearning
-of heart alone is tapas.
-
-C545 pug;Oelg souG_or Ass`,
+of heart alone is tapas.`,
   },
   {
     id: 1637, tantraId: 6, verseNumber: 1636,
@@ -1739,7 +1718,7 @@ Then can they see Nandi, face to face for sure.
 
 basher perm wHancr 2 Gad
 
-QasBor. $59 Qoosrm Srsgi
+$59 Qoosrm Srsgi
 yousheon. agabh Gursnow wiser`,
   },
   {
@@ -1762,7 +1741,7 @@ Become light of the Self.`,
     elaborationEnglish: `Mantras 1638 & 1639
 
 Unsheath your sword of jnana from thought’s scabbard and
-snap the fetters of pas%. Then will the light of tapas dawn,
+snap the fetters of Then will the light of tapas dawn,
 which becomes the light of the Self. He, the Lord, stands
 very close with us. It is tapas which grants bhakti, mukti and
 makes munis divine.
@@ -1815,11 +1794,10 @@ _ means which takes one to the cranium heights, and confers
 
 the vision of the Lord.
 
-ae aaal ee : 257
 
-ULféeot wrsab uppw users,
+wrsab uppw users,
 ALI wirccirosrlh Teer CHORD
-Qrom Qewisat Oows5c Carshov`,
+Qewisat Carshov`,
   },
   {
     id: 1642, tantraId: 6, verseNumber: 1641,
@@ -1922,7 +1900,7 @@ in Siva bliss and you become one with Siva. Only through
 intense tapas can this be attained. That is verily siddhi
 and mukti.
 
-7. HGOGOeooule Cred aGqee`,
+7. Cred aGqee`,
   },
   {
     id: 1646, tantraId: 6, verseNumber: 1645,
@@ -1945,10 +1923,10 @@ If you have Lord's Grace, you shall be the great God Himself.`,
 They who have God's Grace have all the riches — true jnana,
 and greatness. They will become the great God Himselt. When
 the right moment arrives, He grants benediction with His Grace
-standing by-and ends the cycle of recurring births; ultimately
+standing by-and ends the of recurring births; ultimately
 bestowing mukti. .
 
-aipugs Gur 2vap Sreunt
+aipugs Gur Sreunt
 
 AM womipiberd MuPaye | _`,
   },
@@ -1979,11 +1957,11 @@ Men go about saying jnana is beyond the five “Tamil
 mandalas’’ — spatially. They are very ignorant. The ‘‘Tamil
 mandalas” are the five Siva tattvas themselves.
 
-yosofu umouib B)rerGer piu
+yosofu umouib piu
 
 prey Ours anil eieflact
 
-stoss ossf Quoi yd Carns gsuyms`,
+stoss ossf Quoi yd Carns`,
   },
   {
     id: 1648, tantraId: 6, verseNumber: 1647,
@@ -2021,9 +1999,8 @@ A Benevolent Force, He stands as life-center of world
 Still standing by you, He ends your birth to be,
 Lo! He stood before me, and bestowed Mukti on me.`,
     elaborationTamil: `ஆதியிலிருந்தே நின்று அருளுகின்ற இறைவன் ஒருவருக்கு வினை முடிகின்ற காலத்தில் நன்மையாக நின்று அருளுகின்றான். உலகில் உள்ள அனைத்து உயிர்களுக்கு உள்ளே உயிருக்கு உயிராக நிற்கின்றவனாகிய அவனே தமது அருளை வழங்கிய பின்பும் அடியவருடனே நின்று அவர் எப்போதும் அருள் நிலையிலிருந்து விலகி விடாமல் பாதுகாத்து அருளுகின்றான். அந்த அருளினால் இனி வரக்கூடிய பிறவிகளையும் நீக்கி விடுகின்றான். அத்தகைய இறைவன் எமக்கு உள்ளே நின்று எமக்கு ஒரு பேரின்பமான முக்தியை தந்து அருளினானே.`,
-    elaborationEnglish: `Aas onpfet Csaig wroat
+    elaborationEnglish: `Aas onpfet wroat
 
-Ase ormmfloet OswaugsGsa O_omciuit
 Aas ommvdencr Geg® curenw`,
   },
   {
@@ -2047,9 +2024,9 @@ You shall enter His Kingdom, indeed.`,
 God, some are freed from karma. Possessing that Grace, some
 will enter His kingdom itself.
 
-yourotucr shams Yhgor Qoowwy
+yourotucr shams Qoowwy
 
-poucd AadQser Grd Monga
+poucd Grd Monga
 
 Wewesa Tragylh aero gravgyeb`,
   },
@@ -2106,9 +2083,7 @@ the chariot of love instead; to receive the Grace of the ,
 
 Pure One, which unites the soul in God.
 
-Auayw 6365 Wnsho 21 Qor@w
-
-Aueyo 6365 wyerg MmBout`,
+Auayw 6365 21`,
   },
   {
     id: 1653, tantraId: 6, verseNumber: 1652,
@@ -2129,7 +2104,7 @@ And receive His Grace for sure.`,
     elaborationEnglish: `The tapasvins will certainly receive His Grace through tapas,
 even if they are born in body and flesh in the other world.
 
-SPiscmr asnpsal sorcdor culty cud
+asnpsal sorcdor culty cud
 wisemt sibs woslfit cu cure`,
   },
   {
@@ -2191,7 +2166,7 @@ Yet never, never shall you glimpse His Feet.`,
 while gorging themselves with delicious dishes. They may sing,
 dance, weep and wail; yet they cannot glimpse His Feet.
 
-rot CsQel Dossier 4. Guienid`,
+rot Dossier 4. Guienid`,
   },
   {
     id: 1657, tantraId: 6, verseNumber: 1656,
@@ -2221,8 +2196,7 @@ performed by its people. It is the duty of the ruler to lead
 the people in virtuous and righteous paths. The land is then
 sure to remain in prosperity and peace.
 
-Qauwps gistuagpb pmiimw Mggicrer
-acu Qompry srGopb pri_uyoflon`,
+acu Qompry srGopb`,
   },
   {
     id: 1658, tantraId: 6, verseNumber: 1657,
@@ -2241,8 +2215,8 @@ And so,
 If the ruler unceasing leads the multitude in virtue's way,
 That land in prosperity waxes ever.`,
     elaborationTamil: `ஒரு நாட்டில் உள்ளவர்கள் அவர்கள் இருக்கின்ற இடத்தில் செய்கின்ற நன்மையான செயல்களாலும் தீமையான செயல்களாலும் தான் அவர்கள் இருக்கின்ற நாட்டிற்கு இன்பம் வருவதும் துன்பம் வருவதும் நிகழ்கின்றது. ஆதலால் அதை தவிர்த்து இறைவனை தேடி தினம் தோறும் நாட்டில் உள்ள மக்கள் அனைவரும் தங்களின் மனதை கெடுக்கின்ற விஷயங்களை நீக்கி செம்மையாக்குவதை செய்தால் உலகம் இன்பமோடு வாழும். கருத்து: செம்மையான மனதோடு எதை செய்தாலும் அது தர்மமாகும் இதுவே உலகத்திற்கு நன்மையை கொடுக்கும். அவ்வாறு இல்லாமல் தீமையான மனதோடு செய்கின்ற செயல்களே அவ வேடமாகும் இதுவே நாட்டிற்கு துன்பத்தை கொடுக்கும்.`,
-    elaborationEnglish: `UPSos srw urpescr. great
-seus Caria smorwiut GimrGo.
+    elaborationEnglish: `srw urpescr. great
+seus Caria smorwiut
 
 Why they don the Holy Robes
 
@@ -2294,7 +2268,7 @@ Only by Truth of Jnana can tapas firm abide.`,
     elaborationTamil: `உண்மையான தவசிகளைப் போல நடிக்கின்ற பொய்யான தவத்தை செய்பவர்கள் இறந்த பிறகு நரகத்திற்கே சென்று அடைவார்கள். பொய்யான தவத்தை செய்தவர்கள் பாவத்தை மட்டுமே சேர்த்துக் கொள்வதால் புண்ணியம் பெற்றவர் ஆக மாட்டார்கள். ஆனால், பொய்யான தவமாக இருந்தாலும் உண்மையான தவமாக இருந்தாலும் உலகத்தில் வினைகளை கொடுக்கின்ற ஆசைகளை தமக்குள்ளிருந்து நீக்கி விட்டு அதன் பயனால் கிடைக்கின்ற உண்மையான ஞானத்தால் உறுதியாக தாங்கப்பட்டு இருப்பதே உண்மையான தவங்கள் ஆகும்.`,
     elaborationEnglish: `Only by truth of jnana can be performed true tapas.
 
-QurliGuribd yout Gunga uwemre
+yout Gunga uwemre
 
 260 ‘`,
   },
@@ -2323,11 +2297,11 @@ materialistic pleasures. The discerning eyes are capable of
 seeing through the false robes, and free themselves from the
 clutches of ‘the Wearers.
 
-subs soaiGl Somowner Gait
+subs Somowner Gait
 
-aubs suGrwAQastrenc Gant
+aubs Gant
 
-subs sarGaurLgs srangu Cais`,
+subs srangu Cais`,
   },
   {
     id: 1662, tantraId: 6, verseNumber: 1661,
@@ -2347,7 +2321,7 @@ None but tapasvins true deserve robe true.`,
     elaborationTamil: `உண்மையான தவ வலிமையை அதிகமாக கொண்ட தவசிகளே அனைத்திலும் சிறந்த உண்மையான தவ வேடத்தை அணிந்தவர்கள் ஆவார்கள். பொய்யான தவ வேடம் அணிந்ததால் பெற்ற பாவங்கள் அதிகமாக கொண்ட பொய்யான தவசிகளே உயிர் கொலையை விடவும் கொடுமையான கொலையாகிய தர்மத்தையே கொலை செய்கின்ற பொய்யான வேடதாரிகள் ஆவார்கள். ஆதலால் பாவங்கள் அதிகமாக கொண்ட அவர்கள் உண்மையான தவ வேடத்திற்கு தகுதி உடையவர்கள் ஆக மாட்டார்கள். உண்மையான அந்த தவ வேடத்தை தவ வலிமை அதிகமாக கொண்ட தவசிகளைத் தவிர வேறு யாராலும் தாங்க முடியாது. கருத்து: உண்மையான தவசிகள் அணிந்து இருக்கின்ற வேடப் பொருள்களில் அவர்கள் மேற்கொண்ட தவத்தின் சக்தியானது அதிகமாக இருக்கும். அந்த சக்தியை தாங்குகின்ற தவ வலிமை அவர்களிடம் உண்டு. ஆனால், பொய்யான வேடதாரிகளிடம் தவ வலிமை இல்லாததால் அந்த பொருள்களில் உள்ள சக்தியை தாங்க முடியாது.`,
     elaborationEnglish: `uD usiag ergot wrhudp
 
-aIgsh sribiy GML ova Hons
+aIgsh sribiy ova Hons
 
 oD watsgeb 26587 srgenh`,
   },
@@ -2367,8 +2341,7 @@ Rings of copper in ears, and garland of rudraksha beads around neck
 --These too are other emblems to Siva reach;
 Thus do the blemishless Siva Yogins for tapas prepare.`,
     elaborationTamil: `உண்மையான தவசிகள் விபூதியை அணிந்து கொள்வது மிகவும் உன்னதமான கருவியாக அனைத்திற்கும் முதலானது ஆகும். அது மட்டுமின்றி காதுகளில் அணிகின்ற செப்பினால் செய்த குண்டலங்களும் கழுத்தில் அணிந்திருக்கும் மணியும் அவர்களுக்கு கருவியாகும். மந்திரங்களை ஓதுகின்ற தவசிகளுக்கு உறுவேற்றுகின்ற கையில் இருக்கின்ற உருத்திராட்ச மாலையும் கருவியாக உள்ளது. இந்தக் கருவிகளை பயன்படுத்துகின்ற முறையை முழுவதும் அறிந்து தெளிந்த தீமை இல்லாத உண்மையான சிவ யோகத்தை புரிகின்ற யோகிகளுக்கு மட்டுமே அவை பயனுள்ளதாகும். கருத்து: சிவ யோகிகள் அணிந்து இருக்கின்ற விபூதி, குண்டலம், உருத்திராட்சம் போன்ற பொருள்களை தீமைகளை நீக்கி நன்மையை கொடுப்பதற்கு கருவியாக பயன்படுத்திக் கொள்ளுகின்ற முறை உண்மையான சிவ யோகிகளுக்கே தெரியும்.`,
-    elaborationEnglish: `CwTHSé AQwg ACS OS aehacii
-pissy foot wiisdé SUTVES`,
+    elaborationEnglish: `pissy foot wiisdé SUTVES`,
   },
   {
     id: 1664, tantraId: 6, verseNumber: 1663,
@@ -2401,10 +2374,9 @@ a kappara vessel to hold ashes; 7) the yogic sandals; 8) the
 yogic seat: 9) the yogic sash; 10) the yogic staff. These ten
 constitute the equipment of the Siva yogin.
 
-STFC GML VE HTM GTS (Lp
 
-g500 urgaib Gurargs wrgostd ;
-gee Gurauc LgsemLWb Font bCS 1664
+urgaib Gurargs wrgostd ;
+gee Gurauc Font 1664
 
 Ten appurtenances of Siva Yogins
 
@@ -2426,8 +2398,8 @@ The Yoga sash and Yogic staff
 
 gives Nensuph coumipfer aptiasir
 
-greg Buatiah wosPens wyremomb
-iwTQwistgnd sppert uritiurt ugapedt`,
+greg Buatiah
+sppert uritiurt ugapedt`,
   },
   {
     id: 1665, tantraId: 6, verseNumber: 1664,
@@ -2472,17 +2444,16 @@ And lo! the Two merge forever in One.`,
 Thread is but Vedanta, and tuft is Jnana;
 Brahmins true who live in accord thus,
 
-TANTRA SIX : 261
 
 Shall see Jiva in Siva uniting;
 Chant sacred mantra ‘‘Aum’’
 And lo! the Two merge forever in One.
 
 Fools are ignorant of the fact that thread and tuft are but
-symbolic of Vedanta and jnana. True brahmins, knowing this,
+of Vedanta and jnana. True brahmins, knowing this,
 unite in Siva by continuous chanting of the mantra, ‘Aum.’
 
-Saat Monsees FTG FlusH`,
+Saat Monsees`,
   },
   {
     id: 1667, tantraId: 6, verseNumber: 1666,
@@ -2507,8 +2478,8 @@ And they shall reach His handsome Feet.`,
 
 alts ier
 
-OHromupsironni Gout dQ arya sorips sit
-Grr wpargsrs Goucs@Gant séaorured`,
+Gout dQ arya sorips sit
+Grr séaorured`,
   },
   {
     id: 1668, tantraId: 6, verseNumber: 1667,
@@ -2559,7 +2530,7 @@ Jnanis seek jnana; that is everything. Robed in the attire of
 jnana, they pray deep in their hearts. The perfect jnanis, filled
 with Grace, do not speak.
 
-gisnerergs GCaritew weg aonGornt
+gisnerergs weg
 
 Perfect Jnanis speak not
 
@@ -2572,7 +2543,7 @@ The perfect of Jnana speak not.
 who smear it in exultation will be freed from karmas; finally
 reaching His Handsome Feet.
 
-Mysore alway coms)
+alway coms)
 
 Holy Ashes elevate to Brahma Status
 The holy ash shall make you a king —
@@ -2591,9 +2562,8 @@ Cleansed in the fire of the holy ashes, they reach a regal
 status. They reach the Feet of the Eternal, Immaculate Lord,
 attaining ultimately the form of Brahman.
 
-Gam_wb
 
-Aur srgorb wmarg, Gao`,
+Aur srgorb Gao`,
   },
   {
     id: 1670, tantraId: 6, verseNumber: 1669,
@@ -2635,7 +2605,7 @@ Neither for the Siva jnanis nor for the Siva yogis is it necessary
 to adopt the four sadhanas when they can feel the
 omnipresence of the Peerless Lord within themselves.
 
-6585 Hout sepuy srwGurn`,
+6585 Hout sepuy`,
   },
   {
     id: 1672, tantraId: 6, verseNumber: 1671,
@@ -2660,11 +2630,11 @@ Dead to the world, though living in body and senses.`,
 But quiescent are the Siva Jnanis true,
 Dead to the world, though living in body and senses.
 
-ayuw7 guGog ww gergrr
+guGog ww gergrr
 
-a3uT7g wrangd Gog wren
+wrangd Gog wren
 
-agwu7 gers sy uniscr so1Gp. ~° 1672
+gers sy uniscr ~° 1672
 
 Siva Jnanis alone are of the Holy Order
 
@@ -2721,8 +2691,7 @@ Albeit his own robe is of Siva Yogin;
 Whatever robe he adopts, that shall aid him to Jnana,
 Nothing is becoming him, and not-becoming him.`,
     elaborationTamil: `உண்மையான ஞானிக்கு எந்த ஒரு அழகிய வேடமும் நல்லதே ஆகும். அவர்களுக்கு தானாகவே அமைந்த வேடமும் அவர்களின் சிவ யோகமாகவே இருக்கின்றது. உண்மையான ஞானமாகவும் அந்த வேடமே இருக்கின்றது. இறைவனின் திருவருள் ஞானத்தை பெறுகின்ற சாதனமாகவும் அதுவே இருக்கின்றது. ஆதலால் உண்மையான ஞானிகளுக்கு அந்த வேடத்தினால் எந்த விதமான பாதிப்புகளும் ஏற்படுவது இல்லை.`,
-    elaborationEnglish: `GrrsH omrmpugs Horrgoics5 Foscpresil
-SIGSHHD uss soflure wssoortd`,
+    elaborationEnglish: `SIGSHHD uss soflure`,
   },
   {
     id: 1675, tantraId: 6, verseNumber: 1674,
@@ -2746,9 +2715,7 @@ A jnani is superior to a tapasvin, because he is a shrine unto
 himself. His status is unique. He observes mauna, and is a
 mukta and a siddha too. Through destruction of the self, ‘Il’
 becomes ‘He,’ in Siva/jiva identity. All these andthe blessings
-still beyond they receive at the Feet of Nandi.
-
-goncrw cso wirer Qwmensuys`,
+still beyond they receive at the Feet of Nandi.`,
   },
   {
     id: 1676, tantraId: 6, verseNumber: 1675,
@@ -2770,9 +2737,7 @@ They who received deliverance at Feet of Nandi.`,
     elaborationTamil: `தான் யார் என்பதை அறிந்து கொண்ட தன்மையும், தாமே சிவ பரம்பொருளாக ஆகி இருக்கின்ற தன்மையும், தங்களைத் தவிர உலகத்தில் இருக்கின்ற அனைத்தும் மற்றும் நிகழ்கின்ற அனைத்தும் அந்த மூலப் பரம்பொருளாகிய சிவம் ஆகவே இருக்கின்ற தன்மையும், தாம் வீற்றிருக்கின்ற சாதகத்தின் நிலையையே முத்திரையாக இறைவனுக்கு அர்ப்பணிக்கின்ற தன்மையும், மனம் பேச்சு செயல் ஆகிய மூன்றும் அடங்கி இருக்கின்ற மோன நிலையில் வீற்றிருக்கின்ற தன்மையும், ஆகிய இவை அனைத்தும் குரு நாதராக இருக்கின்ற இறைவனின் திருவடிகளை அடைந்து முக்தியை பெற்ற உண்மையான சிவ ஞானிகளுக்கு அடையாளங்கள் ஆகும்.`,
     elaborationEnglish: `12. Fa Cantw
 
-Curate Zorgit-p QurpuH sry
-
-Dore Dap GoEGHOswd .IHCort`,
+Curate Zorgit-p sry`,
   },
   {
     id: 1677, tantraId: 6, verseNumber: 1676,
@@ -2790,8 +2755,8 @@ Within the body mansion, they seek His golden throne;
 Darkness dispelled, they know of deeds none, good and bad;
 Thus they stand steadfast in the liege-robe of Siva.`,
     elaborationTamil: `இறைவனது திருவருளால் இறைவனுக்கு தானாகவே அடிமையாக தாம் ஆகி பொருளாக இருக்கின்ற தமது உடலே பொன் அம்பலமாக மாறி அதில் நடனமாடும் இறைவனை தமக்குள் தேடி அடைந்து ஆணவம் கன்மம் மாயை என்று இருக்கின்ற மும்மலங்கள் இல்லாமலும் நன்மை தீமை ஆகிய இரண்டு விதமான செயல்களும் இல்லாமலும் ஆகி தாம் பெற்ற ஞானத்தில் தெளிவு அடைந்த உண்மையான அடியவர்களே இறைவனது வேடத்தை கொண்டவர்கள் ஆகும்.`,
-    elaborationEnglish: `ei Oe gadPu Gatwh audtaearar
-aicaper prvGarwb 21 Gor spgyb`,
+    elaborationEnglish: `ei Oe Gatwh audtaearar
+aicaper 21 Gor spgyb`,
   },
   {
     id: 1678, tantraId: 6, verseNumber: 1677,
@@ -2844,7 +2809,7 @@ ones in Siva robes remain in solitude, one in Siva/Sakti. They
 are not perturbed by illusions, ignorance, intelligence and
 allurements of the fish-eyed damsels of the world.
 
-uO ou BiDoow BUG WiTeTHZcroners -`,
+uO ou BiDoow BUG -`,
   },
   {
     id: 1680, tantraId: 6, verseNumber: 1679,
@@ -2867,7 +2832,7 @@ Lord. Then shall you attain the bliss that is final.
 
 {
 
-GGLyuoor farts FGM Oancrount`,
+farts Oancrount`,
   },
   {
     id: 1681, tantraId: 6, verseNumber: 1680,
@@ -2892,8 +2857,8 @@ both finally falling into a deep pit. False disciples do not think
 of the fruits of karma, but rather of the temptations of the
 backyard drain.
 
-Aeororider ssoher Hipenovue srosmrit
-Mencriuwer Cure ersGuym Oanrcironmn`,
+Aeororider Hipenovue srosmrit
+Mencriuwer Cure Oanrcironmn`,
   },
   {
     id: 1682, tantraId: 6, verseNumber: 1681,
@@ -2911,7 +2876,7 @@ Think of it, even its shadows they see not
 And nothing they do for the fruits of Karma to drop;
 The temptations of the backyard drain, they go after.`,
     elaborationTamil: `உயிர்கள் தங்களின் மனதினில் எழுகின்ற எண்ணங்களை மாயை மறைத்து இருப்பதால் அது ஒரு பொய்யான கண்ணாடியாக இருக்கின்றது. அந்த மனதில் நினைத்துப் பார்க்கின்ற கற்பனையான எண்ணங்களின் நிழலைக் கூட காண முடியாதவர்களாக இருக்கின்றார்கள். தாங்கள் செய்கின்ற வினையின் பயன் தீர்ந்து போவதற்கான வழிமுறைகளை உபதேசித்தாலும் அதை கடை பிடித்து தங்களின் வினைகளை தீர்த்துக் கொண்டு மேல் நிலைக்குப் போகும் வழியில் செல்லாமல், கீழ் நிலைக்கு செல்லும் தங்களின் ஆசைகளினால் மேலும் மேலும் பிறவிகள் எடுக்கின்ற வழியிலேயே செல்கிறார்கள்.`,
-    elaborationEnglish: `enipene Quiw wgoper pIDOs`,
+    elaborationEnglish: `enipene Quiw`,
   },
   {
     id: 1683, tantraId: 6, verseNumber: 1682,
@@ -2940,11 +2905,11 @@ body-form.
 
 Mantras 1682 & 1683
 
-They, the ignorant multitude, do not understand the mystery
+They, the ignorant multitude, do not understand the
 of the body. Realise the Gracious Lord in purity of thought,
 word. and deed. You become the clite.
 
-BQuct Da Ecrmeags Ogsohcucr Oso ps Now`,
+Da Ecrmeags Ogsohcucr Oso ps Now`,
   },
   {
     id: 1684, tantraId: 6, verseNumber: 1683,
@@ -3003,7 +2968,7 @@ Even Celestials know this not;
 They who know not Siva in tapas-standing,
 Stood in tangle of births to endless sorrow condemned.`,
     elaborationTamil: `இறைவனை மட்டுமே எண்ணிக் கொண்டு தவம் புரிகின்ற வழியில் நிற்கின்ற தவசிகள் தாங்கள் அனுபவிக்க வேண்டியதும் இனி சேருவதும் ஆகிய கர்மங்கள் அனைத்தும் அதை உருவாக்கிய இறைவன் இடத்திலேயே சென்று சேர்ந்து விடுவதை தேவர்களும் அறிய மாட்டார்கள். தவத்தின் வழியில் நின்று இந்த பேருண்மையை அறிந்து கொள்ளாதவர்கள் எல்லாரும் பிறவி எனும் கட்டுக்குள் அகப்பட்டு நின்றது ஒரு முடிவில்லாத வினைகளை அனுபவிக்கும் நிலையிலேயே இருக்கின்றார்கள்.`,
-    elaborationEnglish: `Mantras 1685S & 1687
+    elaborationEnglish: `Mantras & 1687
 
 Tapasvins, having consumed Karma, stand in Siva. Tapasvins
 who seek God are.not concerned about their likes and dislikes.
@@ -3012,7 +2977,7 @@ but look inward to glimpse’ the light that ends births.
 
 Uspgyh Opmagyth Quen sama
 
-apa Qeanurea Qwpns syoeGa. ~ 1686
+apa Qeanurea ~ 1686
 
 Qualities unbecoming Tapasvins
 
@@ -3023,9 +2988,9 @@ These come’ not
 
 To those who walk in God.
 
-Mga sHwat Osuchanoss woot
+sHwat Osuchanoss woot
 
-aywuGar Gesofow + Qiler anesthe`,
+Gesofow + Qiler anesthe`,
   },
   {
     id: 1687, tantraId: 6, verseNumber: 1686,
@@ -3064,7 +3029,7 @@ And then see;
 Behold, there is the Light
 That brings not another day!`,
     elaborationTamil: `மாயையாகிய இருள் நீங்கி ஜோதியாகிய வெளிச்சம் கிடைப்பதை அறிய மாட்டார்கள். அந்த வெளிச்சம் காட்டுகின்ற பரவெளியை பார்க்க மாட்டார்கள். மாயையாகிய இருள் நீங்கி ஜோதியாகிய வெளிச்சத்தில் தம்மை சுற்றி உள்ள அனைத்திலும் மாயையாகிய இருள் நீங்கிய உண்மை ஞானத்தை காணவும் மாட்டார்கள் அபக்குவர்கள். அவர்களைப் போல இல்லாமல் தமக்குள் கிடைப்பதற்கு மிகவும் அரியதாக இருக்கின்ற ஒரு இறை சக்தியில் மனதை வைத்து தியானித்து மாயையை கட்டுங்கள். அப்போது இருள் நீங்கி தெரியும் ஜோதியாகிய இறைவனை காணுங்கள். இனி எப்போதும் மாயையாகிய பிறவியை எடுக்காத நிலைக்கு உங்களை கொண்டு செல்லும் ஜோதி அதுவே ஆகும்.`,
-    elaborationEnglish: `Quss WOYPsS cA Inpypns -`,
+    elaborationEnglish: ``,
   },
   {
     id: 1689, tantraId: 6, verseNumber: 1688,
@@ -3093,8 +3058,8 @@ bonds of the soul, nor free himself from incessant lust. He,
 a mean liar, is indifferent to birth and death. Verily, Grace
 finds him a ‘stranger.
 
-Lerayid WObEhgLbd wap cues Gwrgresr
-giciohu stun Ganys OsmpPodséaisnet
+Lerayid wap cues
+giciohu stun Ganys
 Oerofu Qurdiwer Mnudnd ughergrer`,
   },
   {
@@ -3135,8 +3100,8 @@ Find the blemishless Guru;
 They know their job and so find the Path;
 The rest are to destruction destined.`,
     elaborationTamil: `இறைவனை பக்தியோடு வணங்கும் முறையை அறிந்தவர்கள் இறைவனை அடைவதை மட்டுமே குறிக்கோளாகக் கொண்டு இருக்கும் போது, இறையருள் ஒரு குற்றமும் அறியாத புனிதமான இறை நிலையை அடைந்த குருவை அவருக்கு காட்டி அருளும். அந்த குருவின் மூலம் இறைவனை அடையும் வழியை அறிந்து கொண்டவர்களே நல்ல வழியை அறிந்து கொண்ட பக்குவர்கள் ஆவார்கள். நல்லது இல்லாத மற்ற ஆசைகளின் வழியே போகின்றதை மட்டுமே அறிந்து கொண்டவர்கள் மீண்டும் மீண்டும் இறந்து பிறப்பதற்கான வழியையே அறிந்தவர்கள் ஆவார்கள்.`,
-    elaborationEnglish: `ussOsmi pe Gsorug wrajencr pir.
-Aags5y. Cusralencs Abpsencr Br
+    elaborationEnglish: `pe wrajencr pir.
+Cusralencs Abpsencr Br
 
 Lord! Grant me Your Grace
 
@@ -3151,11 +3116,9 @@ Shatter, Lord, my Karmas
 Uproot them from my very thoughts
 And kick them off:
 
-ssn 5 SRE Oo RTO!
 
 esheets
 
-TANTRA SIX 4 265
 
 Grant me Your Grace
 Own me,
@@ -3210,9 +3173,7 @@ And rally your thoughts to oneness
 And stand thus in love and accord;
 To such that do, He grants His Grace.`,
     elaborationTamil: `இறைவனை அடைய வேண்டும் என்று துடிதுடிக்கின்ற போதே பரம்பொருள் என்று அறியப்படும் அனைத்திற்கும் மூல விதையான இறைவன் அடியவருக்குள் விதைக்கின்ற மாயை நீங்கி உணரக்கூடிய இறை சக்தியை குருவின் அருளால் தலை உச்சிக்கு மேல் மூச்சுக்காற்றை எடுத்துச் சென்று அங்கே வீற்றிருக்கும் இறை சக்தியை தரிசித்து இறைவனை அடைவதற்கு தடையாக வேறு வழிகளில் சிதைந்து போகின்ற சிந்தனைகளை சீர்படுத்தி அவற்றை இறைவன் மேல் மட்டும் எப்போதும் இருக்கும் படி நிறுத்தி இறைவனோடு எப்போதும் சேர்ந்தே இருக்கின்ற பக்குவமுள்ள அன்பர்களுக்கு இறைவன் தமது அருளை கொடுத்து அருளுவான்.`,
-    elaborationEnglish: `Oarcsratayid BYU GGIMUMs Darcreps
-
-aorons sSoneruyid Qontadion Gsplerm`,
+    elaborationEnglish: `Oarcsratayid Darcreps`,
   },
   {
     id: 1694, tantraId: 6, verseNumber: 1693,
@@ -3237,7 +3198,7 @@ You shall sure reach Siva's State.`,
 Guru whom you'seek. Then you will surely in constancy reach
 Siva’s state.
 
-EAuot bron Honorpsurs asvvgl`,
+bron Honorpsurs asvvgl`,
   },
   {
     id: 1695, tantraId: 6, verseNumber: 1694,
@@ -3260,14 +3221,14 @@ The Primal One knows none.`,
 
 precepts of the Guru in the asterisms of swati and visakha,.
 
-in the conjunctions of lagnas, vrischika and kataka.
+in the conjunctions of lagnas, and kataka.
 
 ‘
 
 Mular’s faith in astrological concepts is demonstrated here.
 
-Osmporg wines g1lisrer Fens
-Npemt Mnwnh Mencrmg Gurss`,
+Osmporg wines Fens
+Mnwnh Mencrmg Gurss`,
   },
   {
     id: 1696, tantraId: 6, verseNumber: 1695,
@@ -3289,7 +3250,7 @@ Disappear;
 And you shall glimpse the Grace
 Of the valorous Feet of Lord Holy.`,
     elaborationTamil: `இறைவனை அடைவதை மட்டுமே குறிக்கோளாக கொண்டு செய்கின்ற சாதகத்தில் முழுமை பெற வேண்டுமென்றால், மாபெரும் மணியாக இருக்கின்ற இறைவனின் மேல் தமது சிந்தனைகளை வைத்து அவனருளால் தூய்மையாக ஆகி விட்ட சிந்தனையோடு பேரழகு நிறைந்து இருக்கின்ற இறைவன் வீற்றிருக்கின்ற குருவிடமிருந்து தாம் பெற்ற போதனைகளை கடை பிடித்தால், நெருப்பில் மூடிய விறகு கட்டையும் எரிந்து நெருப்பாகவே ஆகி விடுவது போல தம்முடைய வினைகள் அனைத்தும் தம்மை விட்டு விலகி அழிந்து போய் விடும். அதன் பிறகு சிலம்புகளை அணிந்து பேரழகோடு இருக்கும் இறைவனின் திருவடிகளை தரிசித்து அவனது அருளை பெறலாம்.`,
-    elaborationEnglish: `Discipline creates pure thoughts, and there dwells the
+    elaborationEnglish: `Discipline creates pure thoughts, and there the
 beauteous Lord. Deep-rooted karmas disappear with the
 glimpse of the Grace-filled Feet of the Holy Lord.`,
   },
@@ -3315,12 +3276,12 @@ He, sure, is disciple good and true.`,
 
 A true disciple is a sattvic. He treads the path of dharma,
 with his thoughts centred on the final Truth, with vision clear
-on escape from the cycle of recurring births. He analyses
+on escape from the of recurring births. He analyses
 that which severes the real from the unreal. Having known
 it, he melts in his soul for the love of God. With Siva’s Grace
 as his guide, he seeks the bliss of His Sakti in humility.
 
-Ags ynahs Houser mssm_ee
+Ags Houser
 
 usOoer Gremb Quntuchs srombss`,
   },
@@ -3347,7 +3308,7 @@ And he humbles himself before Lord
 And seeks the bliss of His Sakti;
 He is the fit one, the disciple good and true.
 
-AGOUSS worcipy cwomwey Amad`,
+AGOUSS worcipy Amad`,
   },
   {
     id: 1699, tantraId: 6, verseNumber: 1698,
@@ -3398,9 +3359,8 @@ Higher and higher, my love for Gurupara welled up.`,
     elaborationTamil: `பாடல் #1698 இல் உள்ளபடி குருவின் திருவடியினால் பெற்ற ஞானத்தினால் உண்மை ஞானியாகிய சாதகரிடம் இதுவரை உலக பற்றுக்களின் மேல் இருந்த ஆசைகள் விலகிப் போக விலகிப் போக அவற்றின் மேல் இனி பற்று வராது. அந்த பற்றானது இறைநிலையில் இருக்கின்ற தமது குருநாதரின் மேலேயே அதிகமாக கூடி வரும். அதன் பிறகு இதுவரை அவரது கைக்கு சரிவர கிடைக்காத சாந்தி, தாந்தி, உபாதனை, தீட்சை ஆகிய நான்கு விதமான சாதகங்களும் அவரது கைவசப் படும்படி பேறு பெறுவார். அதன் பிறகு அக (உள்ளுக்குள்ளும்) புற (வெளியிலும்) ஆராய்ச்சியின் மூலம் ஞானத்தின் உச்ச நிலைக்கு சென்று கொண்டே இருப்பார். நான்கு விதமான சாதகங்கள்: சாந்தி – அசைவற்ற நிலையில் சாதகம் செய்தல் / பேரமைதி தாந்தி – எண்ணங்களற்ற நிலையில் சாதகம் செய்தல் / மன அடக்கம் உபாதனை – வினைகளை சாதகம் செய்து எரித்து தீர்த்தல் தீட்சை – சந்தேகம் வரும் போது சாதகத்தின் மூலம் ஒரு கண நேரத்தில் குரு வார்த்தை கேட்டல் மேலுள்ள நான்கு விதமான சாதகங்களைப் பற்றிய குறிப்புகள் சுவடியில் உள்ளது.`,
     elaborationEnglish: `1) Mantra, yantra, yoga, jnana.
 
-QersAH usruss Dsvmayor Qe Os
 
-Gents gw carat wrergcienen worofGu. 1300
+Gents gw carat wrergcienen 1300
 
 Rules of Instruction
 
@@ -3422,7 +3382,7 @@ the opposite direction (west or north), instructs, the Sakti of
 the Lord being centred in his mind.
 
 Qapuy Spgs ais sap TUS
-gapug HDs GommOsrorG Gutpps`,
+gapug Gutpps`,
   },
   {
     id: 1701, tantraId: 6, verseNumber: 1700,
@@ -3495,7 +3455,7 @@ compassion, discrimination and love, constantly and forever.
 He receives the nectar of crystal clear final jnana and
 witnesses the many miracles it brings in its train.
 
-Anus Gros Dsohus ODsahGauntsa`,
+Anus Gros`,
   },
   {
     id: 1704, tantraId: 6, verseNumber: 1703,
@@ -3515,8 +3475,7 @@ Constant as unto a shadow;
 You then gain the nectar of Finite Jnana in its crystal clarity,
 And witness the many miracles it brings in train.`,
     elaborationTamil: `எதிலும் உண்மையாகவே இருத்தல், எப்போதும் உண்மையையே பேசுதல், அனைத்து உயிர்களின் மேலும் அன்பும் கருணையும் கொண்டு இருத்தல், உண்மையான ஞானமாகிய அறிவோடு இருத்தல், எது நடந்தாலும் அதனால் பாதிக்கப் படாமல் இருத்தல், உண்மையான குருவின் திருவடிகளை அதன் நிழல் போல எப்போதும் நீங்கி விடாமல் சேர்ந்தே இருத்தல், சித்தத்தில் இறைவனது பேரறிவு ஞானத்தை தெளிவாக உணரும் படி குருவின் அருளோடு தெளிவாக ஆராய்ந்து அறிந்து கொள்ளுதல், மனிதர்களுக்கு மேலான நிலையில் அற்புதமான சக்திகளை உலக நன்மைக்காக செய்து காட்டுதல், ஆகிய இவைகளோடு இருப்பவனே உண்மையான சீடன் ஆவான்.`,
-    elaborationEnglish: `Bpr HDI wpya Quppgs-
-Tantra Six Concluded
+    elaborationEnglish: `Tantra Six Concluded
 
 Typrh SHS TW
 

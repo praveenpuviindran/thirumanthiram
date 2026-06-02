@@ -37,12 +37,12 @@ And so remains.`,
     elaborationTamil: `இறைவன் ஒருவனே அவனைத்தவிர வேறு தெய்வங்கள் இல்லை. அதாவது உலகத்தில் உள்ள அனைத்து தெய்வங்களும் அண்டசராசரங்களும், அதிலுள்ள அனைத்தும் இறைவன் ஒருவனாகவே இருக்கின்றான். ஒன்றாக இருக்கும் இறைவனின் அருளானது இரண்டாக இருக்கின்றது. அசையா சக்தியான இறைவனின் அருள் அவனிடமிருந்து அசையும் சக்தியாக வெளிப்படுகிறது. அதாவது எப்படி கசப்பான மருந்தும் இனிப்பான மருந்தும் நோயைக் குணப்படுத்துகிறதோ அதுபோலவே இன்பம் துன்பம் ஆகிய இரண்டும் இறைவனின் அருளாகும். இரண்டாக இருக்கும் இறைவனே பிரம்மன், விஷ்ணு, சிவன் ஆகிய மூன்று தெய்வங்களாகவும் நின்று படைத்தல், காத்தல், அழித்தல் ஆகிய மூன்றுவிதமான தொழில்களையும் புரிகின்றான். மூன்றாய் நின்ற இறைவனே உயிர்கள் தன்னை அறிந்துகொள்ள வேண்டும் என்கிற மாபெரும் கருணையில் ரிக், யஜூர், சாம, அதர்வண ஆகிய நான்கு விதமான வேதங்களாகவும் நிற்கின்றான். நான்கு வேதங்களாக இருக்கும் இறைவனே நிலம், நீர், காற்று, நெருப்பு, ஆகாயம் ஆகிய ஐந்து பூதங்களகவும் இருக்கின்றான். அதாவது தெய்வம் அருளும் ஐந்து வகை தொழில்களாகிய படைத்தல், காத்தல், மாயையால் மறைத்தல், அருளல், மாயையை அழித்தல் ஆகிய ஐந்தின் தலைவன் அவன் ஒருவனே. ஐம்பூதங்களாக இருக்கும் இறைவனே உயிர்களின் உடலில் மூலாதாரம், சுவாதிட்டானம், மணிப்பூரகம், அநாகதம், விசுத்தம், ஆஞ்ஞை ஆகிய ஆறு சக்கரங்களாக விரிந்து இருக்கின்றான். ஆறு சக்கரங்களாக விரிந்திருக்கும் இறைவனே மூலாதாரத்தில் குண்டலினி சக்தியாக இருந்து யோகங்கள் புரிவதன் மூலம் ஆறு சக்கரங்களுக்கும் மேலேறி ஏழாவது சகஸ்ரரதளத்திற்கு சென்று அதையும் தாண்டி பரவெளியில் உறைந்திருக்கின்றான். ஏழு சக்கரங்களிலும் உறைந்திருக்கும் இறைவனை தனக்குள்ளே உணர்ந்து உயிர்கள் அவனை எட்டுதலே முக்தியாகும்.`,
     elaborationEnglish: `1. The One—The Uncreated Etemal Being—Sivam.
 
-2. The Two—Siva/Sakti. Sakti is the dynamic aspect
+2. The Two—Siva/Sakti. Sakti is the aspect
 of static Sivam. She confers grace on the Jivas.
 
 3. The Three—Triads are many:
 
-a) Primal Sakti evolves into three subsidiary Szkiis: Ichcha
+a) Primal Sakti evolves into three subsidiary Ichcha
 
 or Mal (of preservation), and Siva or Rudra (of dissoiutis °,
 c) The three primal gunas: Rajas, Tamas, and Sattva
@@ -87,11 +87,11 @@ air, sky, sun, moon and Jiva.
 
 preservation, dissolution,
 
-Gurpheoss Dorel wergyb yo8Mgsecr
+Gurpheoss Dorel wergyb
 
-Coopers EOS DanssQarG Cassounc
+Coopers EOS Cassounc
 
-ADDNMSS Stews spor GpGer. ~ 2
+Stews spor ~ 2
 Defies Death
 
 The Holy One who all life sustains,
@@ -106,16 +106,15 @@ Of Him TI sing, He glory and praise.
 
 Yama is the god of death. When that god came to
 
-seize_ Siva’s devotee Markandeya on the’ appointed day,
+Siva’s devotee Markandeya on the’ appointed day,
 
 Siva spurned the Death-God. The implication is that neither
 
 Siva nor his devotees are subject to the process of death.
 They are immortal and eternal.
 
-gsahler mrensr 2. v1i190) Gsaiire cr
 
-ussHer onitahwurs utwenorrs,`,
+onitahwurs utwenorrs,`,
   },
   {
     id: 3, tantraId: 0, verseNumber: 2,
@@ -150,7 +149,7 @@ The Pure One, whom immortal Gods adore,
 Whom, even they, that daily stand beside, know not,
 Him I seek, praise, and meditate.`,
     elaborationTamil: `அனைத்து உயிர்களுடனும் கலந்திருக்கும் இறைவனை எண்ணிலடங்காத தேவர்கள் தினந்தோறும் போற்றித் தொழுகின்ற இறைவனை தத்துவங்களைக் கடந்து அனைத்திற்கும் தலைவனாக இருக்கும் இறைவனை பக்கத்தில் இருந்தாலும் அறிந்துகொள்ள முடியாத இறைவனை யாம் அவனுள் அடங்கி நின்று அவனைத் தியானித்து அவன் புகழைப் போற்றி உரைப்போம்.`,
-    elaborationEnglish: `The word ‘'séacw'* literally means the ‘‘naked,”’ unclothed
+    elaborationEnglish: `The word literally means the ‘‘naked,”’ unclothed
 one (from Sanskrit nagna). Both the Jain Arhat, and Siva
 are usually described thus.`,
   },
@@ -171,11 +170,10 @@ Him I praised by night and day,
 And praising thus, gloom{-}dispelled,
 I held firm in this world of strifes.`,
     elaborationTamil: `அழிந்து போகக்கூடிய அண்டசராசரங்களுக்கும் அதிலுள்ள அனைத்து உயிர்களுக்கும் உண்மைப் பொருளாகவும் அனைத்திற்கும் ஆரம்பமாகவும் இருக்கும் இறைவனை மண்ணுலகில் எம்மை வந்து இருக்குமாறு செய்து மண்ணுலக மாயையிலிருந்து விடுபடும் வழியாக தனது திருவடியையும் எமக்கு அருளிய இறைவனை இடைவெளியின்றி பகலிலும் இரவிலும் அவன் பாதங்களைப் பணிந்து அவனைத் துதித்து எம்முள் இருக்கும் மாயையாகிய இருளை நீக்கி அவனுடைய உண்மைப் பொருளை உணர்ந்து இருந்தோம்.`,
-    elaborationEnglish: `“semt.3s ojsems''may also refer to the “Hiranya Garhha™
+    elaborationEnglish: `ojsems''may also refer to the “Hiranya Garhha™
 and Agni described as “‘retas’’ descending from the antariksa
-in the RgVeda.
 
-youar spsongy QurckOcarci Dorey`,
+youar spsongy Dorey`,
   },
   {
     id: 6, tantraId: 0, verseNumber: 5,
@@ -193,8 +191,8 @@ None here below to equal Him in glory;
 Lotus like, He, of gleaming matted locks,
 Golden in splendour, beyond the worlds, apart.`,
     elaborationTamil: `சிவத்தோடு ஒப்பிட்டுப் பார்க்குமளவிற்கு எங்கு தேடினாலும் வேறு எந்த தெய்வமும் கிடையாது. அவன் ஈடுஇணை இல்லாதவன். அனைத்து தெய்வங்களுக்கும் மேலானவன். அவனோடு ஒப்பிட்டுப் பார்க்குமளவிற்கு வேறு யாருமே இந்த உலகத்தில் இல்லை. இந்த உலகத்தையும் தாண்டிய பரவெளியில் சூரியனைப் போன்ற ஒளியுடன் பிரகாசித்துக்கொண்டும் சூரியனின் ஒளிக்கற்றைகள் போல மின்னும் சடையைக் கொண்டும் அவன் ஆயிரம் தாமரை மலரின் மேல் வீற்றிருக்கின்றான்.`,
-    elaborationEnglish: `quccaDhs Qed mG ppoutd Boden ;
-Kura gpaugred au@grci Pedvenc`,
+    elaborationEnglish: `Qed mG Boden ;
+Kura Pedvenc`,
   },
   {
     id: 7, tantraId: 0, verseNumber: 6,
@@ -216,7 +214,7 @@ Without Him, I know not the City's Gate.`,
 
 (arenes Quads unuysran apautée apgssoussr
 serous urQurcigns Qadeons sonowacit
-gemonuts irsrelled cicigg) Lomvse_oret`,
+gemonuts irsrelled cicigg)`,
   },
   {
     id: 8, tantraId: 0, verseNumber: 7,
@@ -235,7 +233,7 @@ Call Him "Father," and Father He to thee,
 Inside you He flames in the Lotus of golden hue.`,
     elaborationTamil: `ஆதியிலிருந்து இருக்கும் மூன்று தெய்வங்களான சிவன், விஷ்ணு, பிரம்மா ஆகிய மூவருக்கும் மூத்தவன் சதாசிவமூர்த்தி. தனக்கு ஈடுஇணை இல்லாத தலைவன் அவன். அவனை அப்பா என்று அழைத்தால் உயிர்களுக்கு அப்பாவாகவே தோன்றுவான் (அவனை என்ன சொல்லி அழைத்தாலும் அதுவாகவே உயிர்களுக்குத் தோன்றி அருள்பாலிப்பான்). பொன் போன்ற அறிவு ஒளியைத் தரும் பல உபதேசங்களை குருவாக நின்று வழங்குபவனும் அவனே. பொன்னைப் போன்ற பேரொளியாக இருப்பவன் வேதங்களை தனக்குள்ளே கொண்டவன் அவன்.`,
     elaborationEnglish: `The Lotus is a very important and very frequently adgpted
-symbol in Hindu ahd Buddhisi literature. Amongst other things
+in Hindu ahd Buddhisi literature. Amongst other things
 
 it stands for the primeval evoiution of the Universe from the
 One, as well as for the Energy (Sakti) thus released. .Jt is
@@ -243,14 +241,14 @@ not only the One, all pervasive Power, but also the individual
 separate items that constitute the essence of Life, whose
 location in the human body is deemed to be the heartchakra.
 The Brahma- randra of the cranium is also often referred
-to as a thousand petalled LOTUS. There are cther concepts
-also which are symbolized by the LOTUS.
+to as a thousand petalled LOTUS. There are concepts
+also which are by the LOTUS.
 
 Co-eval three = These are the three I namety, Brahma,
 the creator, Vishnu, the protector, and Rudra, the destroyer,
 ‘respectively.
 
-Bulctyrd Ooudiwier yor Sans scereahwos`,
+Ooudiwier yor Sans scereahwos`,
   },
   {
     id: 9, tantraId: 0, verseNumber: 8,
@@ -268,7 +266,7 @@ And yet none knows of His Grace abounding;
 Purer than the child, kinder by far than the mother,
 Nearest to Love is He, of the flowing matted locks.`,
     elaborationTamil: `உயிர்கள் இறைவனை அடைவதற்காக அவர்களின் கர்மாக்களை அழிக்கும் போது இறைவன் தீயைவிடவும் அதிக வெப்பமானவானாக இருக்கின்றான். உயிர்கள் இறைவனை நாடும் போது தண்ணீரைவிடவும் குளிர்ந்தவனாக இருக்கின்றான். விருப்பு வெறுப்பின்றி தன்னலம் இல்லாத குழந்தையைவிட இறைவன் நல்லவன். காதுகளில் குண்டலங்களை அணிந்துகொண்டும் நீண்ட சடையைக் கொண்டவனுமான இறைவன் தன்னை நாடும் அன்பர்களுக்குத் பெற்ற தாயைவிடவும் மிகவும் அன்பு செலுத்துபவனாகத் திகழ்கின்றான். இருந்தும், அவனுடைய திருவருளை அறிந்தவர்கள் யாரும் இல்லை.`,
-    elaborationEnglish: `Gurnee YAGALL Ounisen Qwesreste’.
+    elaborationEnglish: `Gurnee YAGALL Ounisen
 Veroany Inws Qossucr Curse`,
   },
   {
@@ -288,7 +286,7 @@ My Lord is He, ever by me worshipt;
 But none there be whom He worships.`,
     elaborationTamil: `பொன்னாலே பின்னப்பட்ட சடையை பின்னால் உடைய எம்மால் வணங்கப்படுகின்ற இறைவன் பெயர் நந்தி என்கின்ற சிவபெருமான் அவனால் வணங்கப்படுகின்றவர் இந்த உலகில் இல்லை.`,
     elaborationEnglish: `Siva is also frequently referred to as Nandi by Tirumular
-Nandi is a synonym for Sadasiva - the formAformless aspect
+Nandi is a for Sadasiva - the aspect
 of Siva. Nandi literally means the Bull of Siva.`,
   },
   {
@@ -307,8 +305,7 @@ Himself the scorching Fire, Sun and Moon,
 Himself the Mother that sends down the rains
 Himself the mountains strong and oceans cold.`,
     elaborationTamil: `சதாசிவமூர்த்தியாகிய இறைவனே மேலுலகம் கீழுலகம் ஆகிய இரண்டு வகையான உலகங்களையும் அண்ட சராசரங்களில் விரிந்திருக்கும் ஆகாயமாகவும் உயிர்களுக்கு வெப்பத்தை தருகின்ற நெருப்பாகவும் உலகத்திற்கு ஒளியையும் சக்தியையும் தருகின்ற சூரியனாகவும் இரவில் குளிர்ச்சியான ஒளியைத் தருகின்ற நிலவாகவும் மழையைப் பொழிய வைக்கின்ற மேகங்களாகவும் உலகம் முழுவதும் விரிந்து பரந்திருக்கும் மலைகளாகவும், குளிர்ந்த நீரைக் கொண்டிருக்கும் கடல்களாகவும் இருக்கின்றான்.`,
-    elaborationEnglish: `IN PRAISE OF GOD
-
+    elaborationEnglish: `
 Effort And Fruit
 
 Near and far I look; but around the Being First,
@@ -354,9 +351,8 @@ Born were the myriads on earth;
 Upward they climbed to lives beyond count,
 Yet none did know the Lord was He.`,
     elaborationTamil: `சிவபெருமான் நெற்றிக் கண்ணால் அருள் கொடுத்து நின்ற போது எண்ணில் அடங்காத தேவர்கள் அழிவில்லாத அமர வாழ்வைப் பெற்றார்கள். மண்ணில் வாழ்பவர்களும் விண்ணில் வாழ்பவர்களும் சிவபெருமானின் அருளைப்பற்றி தெரிந்து கொள்ளாமல் அவருடைய நெற்றிக் கண்ணால் நிறைய பேர் இறந்து விட்டதாக அறியாமையால் எண்ணிக்கொண்டு இருக்கின்றார்கள்.`,
-    elaborationEnglish: `banrcrons sree CGorepsea Gaouraor
-Torso Harcr HloncrsR curt rFFei os
-MaAroInsSTSSAIOHST GVH STMevensv`,
+    elaborationEnglish: `banrcrons sree Gaouraor
+Torso Harcr curt os`,
   },
   {
     id: 14, tantraId: 0, verseNumber: 13,
@@ -376,7 +372,7 @@ And thus He stood, all visions transcending.`,
     elaborationTamil: `மூவுலகையும் மூன்று அடிகளால் அளந்த திருமால் தாமரை மலரில் அமர்ந்த பிரம்மன் முதலிய அனைத்துத் தேவர்களும் இன்னமும் தங்களின் எண்ணத்தால் கூட அளக்க முடியாத சதாசிவமூர்த்தியின் பெருமையைப் பற்றி எண்ணாமல் இருக்கின்றார்கள். அடிமுடி காண முடியாத சதாசிவமூர்த்தியை அளந்து பார்த்தவர்கள் ஒருவரும் இல்லை. கண் பார்க்கக்கூடிய எதையும் கடந்து அளவிட முடியாமல் அனைத்தையும் தனக்குள் உள்ளடக்கி நிற்கின்றான்.`,
     elaborationEnglish: `Mal - Vishnu.
 
-LHF MET MTG AUT SLI MLD Ess`,
+MET AUT SLI Ess`,
   },
   {
     id: 15, tantraId: 0, verseNumber: 14,
@@ -396,14 +392,13 @@ Transcended He space infinite, witnessing all.`,
     elaborationTamil: `ஒழுக்கத்தில் உயர்ந்து நின்றும் இறைவனின் திருவடிகளை பணிந்து தொழுதும் அவனுக்கு செய்கின்ற பணிவிடைகளை விரும்பி செய்தும் இறைவனின் திருவுருவத்தை தழுவிக் கொண்டும் அதனால் கிடைக்கின்ற இறையனுபவத்தால் வியப்படைந்தும் இறைவனின் திருவடிகளுக்கு தமது கைகளால் தொண்டுகளை செய்தால் அந்த தொண்டே தாம் எடுத்த பிறவிக்கு கிடைக்கின்ற மிகப் பெரும் பயனாக இருக்கும். அப்படி கிடைத்த அருளினால் இறைவனை தந்தையாக பாவித்து தொடர்ந்து அந்த தொண்டுகளை செய்து கொண்டே வந்தால் தந்தையாக இருந்து அதை செய்ய வைக்கின்ற இறைவனே அதனால் கிடைக்கின்ற அனைத்து நன்மையாகவும் இருக்கின்றான்.`,
     elaborationEnglish: `Mayan- Vishnu
 
-Tsan-Rudra
 
 In all these cases, ‘Siva is considered as different from and
-superior to Hara, Isan, MaheSvara, etc., names otherwise
+superior to Hara, Isan, etc., names otherwise
 applied to Siva, for the ultimate God-head, Siva, transcends
 all His own manifestations.
 
-BAW WTA carla guts`,
+BAW carla guts`,
   },
   {
     id: 16, tantraId: 0, verseNumber: 15,
@@ -430,9 +425,8 @@ And he is the Order Eternal.
 
 Hara-Rudra
 
-Garg Gorau DancieMs GYOFenr
 
-wig Gwra? M3wIGS Coouge`,
+wig Coouge`,
   },
   {
     id: 17, tantraId: 0, verseNumber: 16,
@@ -488,7 +482,7 @@ For thus says the Lord, "Hold this lordship!"`,
     elaborationEnglish: `Alagai King: Kubera, the god of wealth and sovereign of the
 land of Alagapuri.
 
-“Qsiuf gor supQumyped aap`,
+gor aap`,
   },
   {
     id: 20, tantraId: 0, verseNumber: 19,
@@ -506,7 +500,7 @@ Of the seven meadows, fragrant-spiced;
 He fixed the Moon, and to penance inclining,
 He abides there, making that His seat.`,
     elaborationTamil: `என்ன? அவரவர் ஆன்மீக நிலைகள் குறித்து மூர்த்திகளும் மூர்த்திகளின் அசைவும் காணக்கூடும். இது மனப்பிரமை என பலரும் எண்ணுவதுண்டு. அவ்விதம் இல்லை கல்லும் செப்பும் நாராயணா என்பது ஓசையாகவே காதில் விழும் என்பதில் எவ்வித அச்சமும் வேண்டாம். இது மட்டும் அல்லாது மானிடர் துயரம் கண்டு மூர்த்திகளின் கண்ணில் நீர் வருவதும் உண்டு. இக்காலத்தில் மனிதர்களுக்கு வரும் வேதனைகளுக்கு ஆனந்த பைரவரும், லிங்கமும் சீராக்கும். பலர் அகம்தனிலும் தெய்வங்கள் வந்து தட்டி எழுப்புவதும் கலியுகத்தில் ஓர் சாதாரண நிலையாகி விட்டது. இதை ஏன் செய்கின்றனர் என்றால் நம்பிக்கை ஊட்டுவதற்கே கலியில் தோன்றும் கடினங்கள் இருந்த போதிலும் யாமும் உன்னை காக்கின்றோம் எமது பக்கம் திரும்புங்கள் என்கின்றதை உணர்த்திடவே இருப்பினும் மானிடர்கள் பெரும்பாலும் பணத்தை நாடுகின்றனர். இறைவனை பார்ப்பதில்லை. லட்சுமி தேவியை செல்வம் வர வேண்டும் என்று வணங்குகின்றனரே தவிர ஓர் முக்தி நிலை வர வேண்டும் என வணங்குவதில்லை. எவ்வித தெய்வத்தை வணங்கிய போதிலும் எந்த நாமம் இட்டு வணங்கிய போதிலும் செல்வது ஓரிடத்திற்கே என்பதை மனதில் வைக்க வேண்டும். எந்த ரூபமாக இருந்த போதிலும் பெறுவது அப்பரம்பொருளே என்பதை மறக்காமல் செயல்பட நன்மை உண்டாகும். தேன் எவ்வித பாட்டிலிலும் ஜாடியிலும் கண்ணாடியில் இருந்த போதிலும் தேனின் தன்மை மாறுவதில்லை. இது போல் இறைவனின் தன்மையும் மாறுவதில்லை. நீங்கள் இந்த சக்தியை எந்த பெயரை கொண்டு அழைத்தாலும் அழைத்தவுடன் உங்களுக்கு நல்வழிகாட்ட அச்சக்தி நிற்கிறது. இறைவனும் நாமும் வேறில்லை என்கின்ற எண்ணம் வளர்த்து எமக்குள் இருக்கும் இறைவன் உமக்குள்ளும் இருக்கின்றான் என்ற அப்பெரும் வாக்கியத்தினை உணர்தல் வேண்டும். பல பல இன்னல்கள் தோன்றும் பல பல குறைகள் காணும் இவையாவும் நம் முன் வினைகள் தீரும் வழியாகின்றது என மனதில் நிறுத்தி இறைவன் பாதத்தை பிடித்த வண்ணமாகவே இருத்தல் வேண்டும். எக்காலத்திலும் அவன் பாதத்தை விடுவது சீராகாது. இந்நிலையில் எம்மை இவன் விட மாட்டான் போலிருக்கிறது என ஆண்டவனும் அவனுக்கு நல்வழி அளிப்பான்.`,
-    elaborationEnglish: `T aoamyd sanQcmP wri.
+    elaborationEnglish: `T aoamyd wri.
 
 Hh (IPSKUPLD FET O Geum!`,
   },
@@ -527,11 +521,11 @@ A high hill it is, where thunders roar and lightnings flash,
 Where fragrant flowers bud and bloom,
 His mighty likeness it bears.`,
     elaborationTamil: `5-11-2006 அன்று நடந்த அஸ்வினி நட்சத்திர பூஜையில் குருநாதர் கூறிய கருத்துக்கள்: திருமந்திர நூலின் நோக்கம் யாம் பெற்ற இன்பம் அனைவரும் பெறுதல் வேண்டும் என்பதேயாகும். இவ்விதம் திருமந்திரம் அனைவருக்கும் எடுத்துரைத்த போதிலும் மறு இன்பங்களை நாடுவோர் பலர் திருமந்திரம் கூறும் யாம் பெற்ற இன்பத்தை நாடுவோர் சிலர் என்பது உலக விதியாகி விட்டது இருந்த போதிலும் இக்காலத்தில் ஆன்மீகம் இறைசிந்தனை என்பது இளைஞர்களிடத்தில் அதிகரித்து இருக்கிறது. இது ஓர் பாரட்டத்தக்க காரியமாகிறது. சிறு துளி பெரு வெள்ளம் என்கின்றது போல் இத்தகைய சிறு சிறு மாற்றங்கள் முழுமையான நலன்களை அளிக்கும். இல்வாழ்க்கையில் பணம் பொருளை நாடுகின்றோம் இறை அருள்தனை மறக்கின்றோம். இத்தகைய செல்வங்கள் நம்முடன் இறுதியில் வராது என்றும் நலம் நல்காரியங்கள் செய்வதின் விளைவாக வருவது இறைஅருள் மட்டுமே என்பதை மீண்டும் மீண்டும் கூறுகின்றோம்.`,
-    elaborationEnglish: `5 QugeiQanciate& Lemoowet ouresautt
-“esront pad Sulegu QGQunsas
+    elaborationEnglish: `5 Lemoowet ouresautt
+“esront pad Sulegu
 
 tm& setgy sop Gorgsay
-% Gsnencn year zatgy wrGw. = 21
+% year zatgy wrGw. = 21
 
 ; Comes Speeding
 
@@ -551,11 +545,10 @@ _ This is one of the eight heroic deeds of Siva referred to later
 
 ia
 
-| wong Beis sryphsitp aaa ooirt_Git
 
 * oie Oershadsnca Poncsé evi
 
-% D HeomlaveH ercinst Qanpoucir`,
+% D ercinst Qanpoucir`,
   },
   {
     id: 22, tantraId: 0, verseNumber: 21,
@@ -596,13 +589,13 @@ But, sure, God seeks those who seek their souls to save.`,
 
 ; knows. yet all our thoughts but we do noi think
 
-c¢ be who groan,‘*God is not favourable to me;””
+c¢ be who is not favourable to me;””
 , sure, God seeks those who seck their souls
 
 astahlé Denne cungest
-BASE BBupsie wenca
+BASE wenca
 
-ib Lagi NGA prGor, 23
+ib Lagi prGor, 23
 Infinite Grace
 
 Ye is not
@@ -611,9 +604,7 @@ Ye is not
 ay anc Pee sens Foeth Ws Divine Grace.
 abe
 
-dg a!
-
-CGurppeass HbYSspPs HY Foren.`,
+dg a!`,
   },
   {
     id: 24, tantraId: 0, verseNumber: 23,
@@ -660,7 +651,7 @@ To Him kneel, and, kneeling, shall find
 
 Naught becomes Maya, the bond- immemorial.
 
-Osm_rggiher orang Osrapber Osrapsre:`,
+orang Osrapber Osrapsre:`,
   },
   {
     id: 26, tantraId: 0, verseNumber: 25,
@@ -695,7 +686,7 @@ The Lord who protecting over all earth expanded,
 Transcending all He stood; over the lotus bloom aloft,
 In smiling glory He sat; Holy be His feet!`,
     elaborationTamil: `: அனைத்து உயிர்களையும் விட்டு நீங்காமல் அவர்களுடனேயே என்றும் நிற்கின்றவனாகிய இறைவனைத் தினமும் வணங்குங்கள். அவ்வாறு வணங்கி வந்தால் உலகம் மற்றும் அண்டசராசரங்கள் முழுவதும் படர்ந்து விரிந்து இருப்பவனும் அவற்றையும் தாண்டி நிற்பவனும் உயிர்களின் தலையுச்சியிலிருக்கும் ஏழாவது சக்கரமான சகஸ்ரரதளத்தின் ஆயிரம் தாமரை இதழ்களில் வசிப்பவனுமாகிய எம்பெருமான் சதாசிவமூர்த்தியுடன் கலந்து அவன் திருவடியை எப்போதும் காணும் புண்ணியத்தை அடையலாம்.`,
-    elaborationEnglish: `BEAoow Greapld ccs: UDiwWsour`,
+    elaborationEnglish: ``,
   },
   {
     id: 28, tantraId: 0, verseNumber: 27,
@@ -733,15 +724,14 @@ To them is He the certain, immutable Guide.`,
     elaborationTamil: `அனைத்து உயிர்களுடனும் எங்கும் எதிலும் கலந்து இருப்பவனும் உலக வழக்கங்களுக்கு மாறுபட்டு நிற்கின்றவனும் அனைத்திற்கும் ஆரம்பமாகவும் அவற்றின் முடிவாகவும் இருப்பவனும் தேவர்களுக்கெல்லாம் தலைவனாகிய இந்திரனுக்கும் தலைவனாக இருப்பவனுமாகிய எம்பெருமான் சதாசிவமூர்த்தி தன்னை உண்மையான பக்தியோடு வணங்கி நிற்பவர்கள் செல்லும் வழிகளிலெல்லாம் அவர்களைப் பாதுகாத்துக்கொண்டு துணையாக வருகின்றான்.`,
     elaborationEnglish: `Invisible to most but
 
-IN PRAISE OF GOD Tf
 
 To those who freely give themselves to the Lord
 on High,
 To them is He the certain, immutable Guide.
 
-Brow pled Goce ctioncr BTEISUp NEOETOTS
+Brow pled Goce NEOETOTS
 
-Gsros hed ors GoIssy writers`,
+hed ors GoIssy writers`,
   },
   {
     id: 30, tantraId: 0, verseNumber: 29,
@@ -759,7 +749,7 @@ Let me not falter to embrace Your feet!
 For to the heart of Your servant, pure and true
 You ever stood even as the axle-pin.`,
     elaborationTamil: `இறைவனை எப்போதும் நினைத்துக்கொண்டிருப்பதிலிருந்து மாறாத குணமுடைய அடியவர்களின் மனதில் ஆணி அடித்தது போல அமர்ந்து இருக்கும் எம்பெருமான் சதாசிவமூர்த்தியே உங்களைக் காண வேண்டும் என்ற ஆசையால் துடிக்கும் எமது முன் நீங்கள் எழுந்தருள வேண்டும். நீங்கள் எம் முன் எழுந்தருளிவிட்டால் உங்களை உடனே எம்மோடு ஆரத்தழுவிக்கொள்வதில் யாம் வெட்கப் படமாட்டோம்.`,
-    elaborationEnglish: `Amar MompsgG wg Gunderot HEAeow -`,
+    elaborationEnglish: ``,
   },
   {
     id: 31, tantraId: 0, verseNumber: 30,
@@ -778,7 +768,7 @@ Thus, doubting, many ask.
 But like to the mother-cow, for my Nandi I yearn
 And all the world, all the world know it too!`,
     elaborationTamil: `வானத்திலிருந்து பெய்யும் மழை வேண்டிவர் வேண்டாதவர் என்றில்லாமல் அனைவரின் மீதும் பொதுவாக பெய்கிறது. அதுபோல இறைவனின் அருள் வேண்டிவர் வேண்டாதவர் என்றில்லாமல் அனைவரின் மீதும் இறையருள் கிடைக்கும் என்று எண்ணிக்கொண்டு இறைவனை நாடிச் செல்ல சிலர் தயங்குவார்கள் எவ்வாறு கன்று தன் பசியை தாய்ப்பசுவை நோக்கிக் கதறித் தெரிவிக்கின்றதோ அதுபோலவே குருவான எம்பெருமான் சதாசிவமூர்த்தியை நான் வேண்டி அழைப்பது எமது ஞானப் பசியை அவர் தீர்க்கவேண்டும் என்கிற வேண்டுதலால்தான்.`,
-    elaborationEnglish: `Lito as Horehons uma mresGe`,
+    elaborationEnglish: `Lito as Horehons uma`,
   },
   {
     id: 32, tantraId: 0, verseNumber: 31,
@@ -815,7 +805,7 @@ And the seven Worlds, ocean-bound, transcends;
 None do know His nature true,
 How then may we sing His Grace Divine?`,
     elaborationTamil: `தேவர்களுக்கெல்லாம் தலைவனாக தேவர்களோடு கலந்து இருப்பவனும் நமக்கும் தலைவனாக நம்மோடு கலந்து இருப்பவனும் பத்து திசைகளிலும் (எட்டுத்திசைகள் மற்றும் ஆகாயம் பூமி ஆகியவை) பரவி இருப்பவனும் பெரும் கடலால் சூழப்பட்டுள்ள ஏழு உலகங்களையும் தாண்டி இருப்பவனுமாகிய எம்பெருமான் சதாசிவமூர்த்தியின் தன்மை என்னவென்பதை யாரும் அறிந்துகொள்ளவில்லை. எங்கும் எதிலும் பரந்து நிறைந்து இருக்கும் அந்தப் பரம்பொருளின் அருளைப் பற்றியே யாம் பாடுகின்றோம்.`,
-    elaborationEnglish: `MAU DewiOsreitg) Guowndcao 2 cagmt`,
+    elaborationEnglish: `MAU Guowndcao 2 cagmt`,
   },
   {
     id: 34, tantraId: 0, verseNumber: 33,
@@ -854,11 +844,11 @@ His thousand Names that are with spark divine.`,
 Purana, and the 7th chapter of Anusasana-Parvan of the
 Mahabharata gives 1008 names. Also see the Agni, Padma,
 Bhavisyothara, Varaha, Kurma. and Vamana Puranas, the
-Linga Purana and the “*Kasikhanda™ of the Skanda Purana.
+Linga Purana and the of the Skanda Purana.
 V. “Introduction to Tantra Sastra’’ by Sir Jonn Woodroffe
 pp.ii, and iin. ,
 
-Gurpgier Gurpis yap ysppSiuy.`,
+Gurpgier Gurpis yap`,
   },
   {
     id: 36, tantraId: 0, verseNumber: 35,
@@ -876,7 +866,7 @@ If you the Lord praise and Him adore;
 The East and West and directions all
 He does transmute--and thus dances He the Lord.`,
     elaborationTamil: `முக்தியை கொடுப்பவரும் அதற்க்கான வழியாகவும் இருப்பவருமான இறைவனை போற்றக் கூடிய வழிகள் அனைத்திலும் போற்றியும் புகழ்ந்தும் இருந்தோமேயானால் எட்டுத்திசைகளோடு மேல்திசை (வானம்) கீழ்திசை (பூமி) இரண்டு திசைகளையும் சேர்த்து பத்து திசைகளையும் வழி நடத்திச் செல்லும் இறைவன் நம்மையும் நல்வழிநடத்திச் சென்று முக்தியையும் அருளுவான்.`,
-    elaborationEnglish: `Juss FAM A377 9 pHaar`,
+    elaborationEnglish: `Juss FAM 9 pHaar`,
   },
   {
     id: 37, tantraId: 0, verseNumber: 36,
@@ -894,8 +884,7 @@ Oh, Bounteous One, Unequalled, First of Time!
 Praise Him ever; and even as you praise,
 So thine reward will also be.`,
     elaborationTamil: `: உயிரின் தந்தையாகவும் குருவாகவும் உள்ள இறைவனை தெவிட்டாத அமுதம் போன்றவனை வேண்டுவோர்க்கு வேண்டியதை அருளும் தனக்கு ஒப்பில்லாத வள்ளலை ஊழியைச் செய்கின்ற முதல்வனை வரைமுறையின்றி எத்தன்மையிலும் எவ்வழியில் வழிபட்டாலும் அவ்வழியிலே ஈசனின் அருளைப் பெறலாம்.`,
-    elaborationEnglish: `Brayibier Cngsgiucr prO_orpib FAaws
-anohihe: prin Curd2te 2 craps`,
+    elaborationEnglish: `anohihe: prin 2 craps`,
   },
   {
     id: 38, tantraId: 0, verseNumber: 37,
@@ -913,7 +902,7 @@ Envisioned, He stands, the Fire-Hued One,
 Flaming like the moon in sky; into me He comes,
 And throbs and breathes through my mortal flesh.`,
     elaborationTamil: `: இறைவன் திருவருளால் நாள்தோறும் குருவாய் இருக்கும் சிவனை வழிபட்டு நிற்கின்றேன். அந்த சிவன் சிவப்பாய் ஏரியும் நெருப்புத்தழல் போன்ற வெளிச்சமுடன் எம்முடன் நிற்கின்றான். அவன் வானத்தில் இருளை நீக்கிப் பிரகாசமாய் ஒளிரும் நிலவைப் போல குருவை வணங்கி நிற்பவர்களின் உடலுக்குள் மகிழ்ந்து வந்து அங்கே உயிருக்கு உயிராக நின்று அஞ்ஞான இருளை அகற்றும் பேரொளியாய் இருக்கின்றான்.`,
-    elaborationEnglish: `BsDQnmP Guest ame curteneaci`,
+    elaborationEnglish: `Guest ame curteneaci`,
   },
   {
     id: 39, tantraId: 0, verseNumber: 38,
@@ -931,7 +920,7 @@ I will not cease to prate of Him, the Form Unborn,
 I will not cease to talk of Nandi, the Mighty,
 I will never cease, for pure and great am I then!`,
     elaborationTamil: `அனைத்தையும் விட பெரியவனும் கிடைப்பதற்கு மிகவும் அரிதானவனும் பிறவியே இல்லாமல் உருவானவனும் நந்தி என்ற பெயரில் எமக்குள் குருவாக வந்து இருப்பவனும் பெருமை மிக்க தவத்தின் பலனாக கிடைப்பவனுமாகிய சதாசிவமூர்த்தியின் மேல் யான் கொண்ட தீராத அன்பினால் அவனின் பெருமைகளையும் புகழ்களையும் எப்போதும் ஓயாமல் சொல்லிக்கொண்டே இருப்பேன் யான்.`,
-    elaborationEnglish: `Bigsac auGs Danaréhcrpn CZaincr`,
+    elaborationEnglish: ``,
   },
   {
     id: 40, tantraId: 0, verseNumber: 39,
@@ -968,8 +957,7 @@ Praise Him with songs of the humble heart
 And unpenurious tongue;
 To such He comes, the all-fashioning Lord.`,
     elaborationTamil: `தூய்மையான ஒளி நிறைந்த பொன்னை புடம் போட்டால் கிடைக்கும் பிரகாசத்தைப் போன்ற பேரொளியை உடைய இறைவனை உயிர்கள் தங்களின் குறைகளை உணர்ந்து தாழ்மையோடு பெருமைக்குரிய இறைவனின் திருவடிகளைத் தேடிச் சரணடைந்து நெஞ்சில் வஞ்சமின்றி ஆணவமின்றி போற்றிப் புகழக்கூடியவர்களின் உள்ளத்துள் இறைவன் மகிழ்வோடு வந்து நின்று அவர்களை எப்போதும் பாதுகாத்து அருளுவான்.`,
-    elaborationEnglish: `Pages seas Csant Ggneneas
-
+    elaborationEnglish: `
 In Depths Of Devotee’s Heart
 
 To them He comes, who, in heari’s deep confines
@@ -995,11 +983,11 @@ swallowed the poison and saved creation from total
 destruction. His consort Parvati, afraid the poison might
 endanger Her beloved, held His throat tight- and there the
 poison remains ever, earning Him the appellation “‘Blue
-Throated.’” The symbolism and significance of this legendary
+Throated.’” The and significance of this legendary
 event, known as Samudra:Manthan,is that divine compassion
 is unparalleled.
 
-Gunwgct scrments ysipourt Qugaugi`,
+Gunwgct scrments Qugaugi`,
   },
   {
     id: 42, tantraId: 0, verseNumber: 41,
@@ -1038,9 +1026,9 @@ One is He with Her of the shoulders reed-shaped.`,
     elaborationEnglish: `The Lord, the consort of the Mother of shoulders
 reed-shaped.
 
-ugomyg pry. Gu Lire Bre@HLd
+ugomyg pry. Gu Lire
 
-ogorn. Oewism Dargmaad anieG`,
+ogorn. Oewism Dargmaad`,
   },
   {
     id: 44, tantraId: 0, verseNumber: 43,
@@ -1061,9 +1049,9 @@ To them comes the Eternal's all-filling Grace.`,
     elaborationEnglish: `To them that, in deep devotion fixed, wait to serve,
 To them comes the Eternal’s’ all-filling Grace.
 
-GunpPeres unitsjio giych gor Hig
+unitsjio giych gor Hig
 
-Gunpperor Lint ye TTLoA 565-919.`,
+Gunpperor Lint ye 565-919.`,
   },
   {
     id: 45, tantraId: 0, verseNumber: 44,
@@ -1081,7 +1069,7 @@ pōṟṟieṉ aṉpuḷ poliyavait tēṉē`,
 "Glory to the Holy Feet," the humans, too, echo,
 Thus I gloried Him, and in my love He shone.`,
     elaborationTamil: `: போற்றுவார்கள் அமரர்கள் தூய நிர்மல இறைவனின் திருவடியை போற்றுவார்கள் அசுரர்கள் தூய நிர்மல இறைவனின் திருவடியை போற்றுவார்கள் மனிதர்கள் தூய நிர்மல இறைவனின் திருவடியை யாமும் எமது அன்பினுள் அவனை போற்றி நிலைபெறச்செய்தேன்.`,
-    elaborationEnglish: `gSaf Pssgie Geno ongd`,
+    elaborationEnglish: `Pssgie Geno ongd`,
   },
   {
     id: 46, tantraId: 0, verseNumber: 45,
@@ -1112,9 +1100,9 @@ If we adore Him, the light effulgent
 He will: guide us on the Path to liberation like the
 sun.
 
-Apacs song CorPeu Corcremy
+Apacs song Corcremy
 
-(PHAcucm srrupgsod curuig Cosereimy`,
+srrupgsod curuig Cosereimy`,
   },
   {
     id: 47, tantraId: 0, verseNumber: 46,
@@ -1132,11 +1120,11 @@ Thus, His Holy Feet devotees praise and sing;
 He of the Primary Hue, the First, the Infinite
 Entered my being, my heart's center held.`,
     elaborationTamil: `மாலைநேர அந்தி சூரியனைப் போன்ற சிவந்த நிறத்தையுடைய பிறவியை அழிக்கும் அரனே சிவனே என்று மனதில் எண்ணிக்கொண்டே இருந்து இறைவனைத் தொழுகின்ற மனம் திருந்திய அடியவர்களுக்கும் அனைத்திற்கும் ஆரம்பமானவனே அனைத்திற்கும் முதல்வனே ஆதியானவனே என்று துதிக்கும் எமக்கும் ஞானத்தி ரூபமான இறைவன் எமது மனத்துள் புகுந்து நிற்கின்றான்.`,
-    elaborationEnglish: `Loaner A GjsSourt wnrgsourt geist
+    elaborationEnglish: `Loaner A geist
 
-Pencrsysr Qassout Cordsgyier Ppt
+Qassout Cordsgyier
 
-Umemusr NGS UGSSS) Gurr`,
+Umemusr Gurr`,
   },
   {
     id: 48, tantraId: 0, verseNumber: 47,
@@ -1171,7 +1159,7 @@ To Him I bend my knees and His Grace invoke,
 The Lord, Our Father, blessing us of earth,
 The Lamp that flickers not, Him I seek.`,
     elaborationTamil: `அடியவர்கள் போற்றிப் புகழும் தேவர்களின் தலைவனை தலை தாழ்த்தி வணங்கி அனைத்திற்கும் முதல்வனானவனை எனது எண்ணத்தில் வைத்து உலகமனைத்திலும் உள்ள உயிர்களுக்கு அருளும் ஆதிப் பொருளானவனை எனது தந்தை என்று நினைத்து ஆன்ம இருளைப் போக்கும் எப்போதும் அனையாத மணிவிளக்கு அவன் என்று உணர்ந்து அவனோடு கலந்து நின்றேன்.`,
-    elaborationEnglish: `BSangue urcué Os ipHs ov 5EDS`,
+    elaborationEnglish: `urcué Os ipHs ov`,
   },
   {
     id: 50, tantraId: 0, verseNumber: 49,
@@ -1197,7 +1185,7 @@ Siddhanta philosophical, literature. Pasu literally means cow;
 
 . Pati means cowherd, and pasa, the lead string that binds.
 
-GOaer Ope Aer. meauiuchr Mgreirsrestg`,
+Ope Aer. meauiuchr`,
   },
   {
     id: 51, tantraId: 0, verseNumber: 50,
@@ -1217,7 +1205,7 @@ This alone I know, only too well I know.`,
     elaborationTamil: `இறைவனின் திருவடிகளை என் தலைமேல் சூடிக்கொள்வேன். அவனின் திருவடிகளை என் நெஞ்சத்தில் வைத்துக்கொள்வேன். எம்பெருமான் என்று அவன் புகழ்களைப் பாடுவேன். பலவித மலர்களை அவன் திருவுருவத்தின் மேல் தூவி அவனைப் பணிந்து நின்று அவன் முன்னால் அவன் பெருமைகளைப் பாடிக்கொண்டே ஆடுவேன். ஆடியபின் அமரர்களின் தலைவனான இவனே எனக்கு முக்தியளிக்கக்கூடியவன் என்று அவனை நாடி அடைந்தபின் அனைத்தும் அவனே எனும் உண்மை ஞானத்தை அறிந்து அவனோடே கலந்து நிற்பேன். உள்விளக்கம்: இறைவனை அடைந்து முக்திபெற மாபெரும் தவங்கள் யோகங்கள் யாகங்கள் இருந்தாலும் அவனது திருவடியை எண்ணத்தில் எப்போதும் வைத்து அவனைப் புகழ்ந்து பாடி ஆடி பலவித மலர்களைத் தூவி பூஜித்தாலே அவனை நாடி முக்தியை அடையலாம். இதுவே யாம் அறிந்த சிறந்த உபாயம் என்று திருமூலர் அருளுகின்றார்.`,
     elaborationEnglish: `2 Case Apeny
 
-955 SSID sive 2. or grss
+955 sive 2. or grss
 
 Vedas Preclaim Dharma
 
@@ -1227,13 +1215,13 @@ Its central: core the Vedas proclaim;
 And the Wise ones ceased contentious brawls,.
 Intoned the lofty strains and Freedom's battle won.
 
-Cagis 2 eas sreybd CuBw armPect
+Cagis 2 eas sreybd CuBw
 
 Gag 2 ong srepih Cougs adore.
 
-Cas aang srepid Cuhwit CoucraMsams
+Cas aang srepid Cuhwit
 
-Gag res ange Ouwodi@Qumr@sr srer_Gov. 52,
+Gag res ange 52,
 Truth Of Maker
 
 Brahma. spoke the Vedas, but Himself is not the
@@ -1243,7 +1231,7 @@ He spoke the Vedas only the great Maker to reveal;
 He spoke them for the Holy, sacrifices to perform,
 He spoke them, the True One to manifest
 
-QauGsGG aru Guur Oenedrayss`,
+aru Guur Oenedrayss`,
   },
   {
     id: 52, tantraId: 0, verseNumber: 51,
@@ -1295,7 +1283,7 @@ As the moving mood behind, He stood;
 In the trembling chant of the Vedic priests He stood,
 Himself the Eye of vision Central.`,
     elaborationTamil: `சொல்லழகு மிகுந்த வேதத்தின் உள்ளே மந்திர வடிவாக இருப்பவனும் உணர்ந்து வேத&#x200d;த்தை சொல்லும் வேதியர் உள்ளத்தில் உணர்வாக இருப்பவனும் வேதம் சொல்லும் வழி நடக்கும் சிறந்த வேதியர்கள் ஓதும் வேதத்தின் சொற்களில் மறைப் பொருளாகவும் அனைத்தையும் உருவாக்கிய சக்தியாக நின்று அருளுபவனும் எம்பெருமான் முக்கண் முதல்வன் சிவபெருமானே ஆவான்.`,
-    elaborationEnglish: `QuG sD wrw Wgrencx Hlencr 5S!`,
+    elaborationEnglish: ``,
   },
   {
     id: 55, tantraId: 0, verseNumber: 54,
@@ -1316,7 +1304,7 @@ They reach Siva's Pure Path-so Vedantas all declare.`,
     elaborationEnglish: `Vedanta—end of the Vedas — usually refers to the conclusions
 of philosophy in the Upanishads.
 
-Gamais wre enora eu SLiLypLD`,
+Gamais wre enora eu`,
   },
   {
     id: 56, tantraId: 0, verseNumber: 55,
@@ -1338,14 +1326,13 @@ Then upgathered and swelled into the patterned whole.`,
 
 Siksha:lays down the rules for correct chanting of Vedic
 
-‘hymns.
 
-Vyakarana:lays down the grammar of the Vedic language
-Chandas:deals with the cadence and numbers of Vedic hymns.
-Nirukta:gives the interpretation'of Vedic syllables.
+down the grammar of the Vedic language
+Chandas:deals with the cadence and numbers of Vedic
+Nirukta:gives the interpretation'of Vedic
 Kalpa:lays down the rules for their performance.
 
-Jyotisha:prescribes the appropriate times for performing Vedic
+the appropriate times for performing Vedic
 rites and sacrifices.
 
 BUOW Hors garchlules come oagsair
@@ -1367,13 +1354,12 @@ Such alone seek the holy sacrifice to perform;
 But the unpracticed in austerities do but reach
 Desire's Abode, misery to find.`,
     elaborationTamil: `இறைவனைப் பற்றிய பாடல்களை இசையோடு ஒலித்துப் பாடி அதற்கேற்ப பாவமும் காட்டி நடனமாடும் இளம்பெண்கள் அந்தப் பாடல்களின் மூலம் இறைவனை உணர்ந்து முக்திபெறுவதற்கு முயற்சிக்காமல் தங்களின் நடனங்களின் மூலம் பொருள் பெறவே முயற்சிக்கின்றனர். அப்பெண்களின் நடனத்தைக் கண்டு களிப்பவர்களும் அதன் உண்மைப் பொருளை உணராமல் அவர்களின் நடனத்தைக் கண்டு சிற்றின்பத்திலேயே இருக்கின்றார்கள். உயர்வான வேதங்களை உயிர்கள் உய்யும் பொருட்டு உண்மைப் பொருளுணர்ந்து ஓதவேண்டிய அந்தணர்கள் மோட்சம் அடையவேண்டும் என்ற விருப்பம் இருந்தாலும் அதற்கான ஒழுக்கங்களைக் (விரதங்கள்) கடைப்பிடிக்காமல் பிறர் கொடுக்கும் பொருளுக்காக வேதங்களை ஓதி யாகங்களை வளர்ப்பதால் இந்தப் பெண்களைப் போன்றவர்கள் ஆகின்றார்கள். இவர்களால் செய்யப்படும் யாகங்களைப் பெறுபவர்களும் உண்மைப் பொருள் உணராமல் உலகப் பொருள்களிலேயே மனம் செலுத்துவதால் அப்பெண்களின் நடனத்தைக் காண்பவர்கள் ஆகின்றார்கள். இவ்வர்கள் கொடுக்கும் பொருளுக்கு ஆசைப்படும் அந்தணர்களோ அப்படி பொருள் கிடைக்கும் இடங்களுக்கெல்லாம் சென்று தங்களின் உயர்வான பிறப்பை இழிபிறப்பாக மாற்றித் துன்பத்தில் வாழ்கின்றார்கள். உள் விளக்கம்: வேதங்களில் இறைவனை அடையும் வழிகளும் அதைக் கடைபிடிக்கும் போது இருக்க வேண்டிய ஒழுக்கங்களும் (விரதங்கள்) கொடுக்கப்பட்டிருந்தாலும் அதைச் சிரத்தையோடு மேற்கொள்ளாமல் வெறும் சிற்றின்பத்தில் சிக்கி உலகப் பொருள்களை நாடி அலையும் உயிர்கள் தங்களின் பிறவிப் பயனை எய்யாமல் இழிந்து போகின்றார்கள். அவ்வாறு இல்லாமல் பேரின்பப் பொருளான இறைவனை வேதங்கள் மூலம் உணர்ந்து முக்தியை அடைவீர்களாக என்று திருமூலர் இங்கு அருளுகின்றார்.`,
-    elaborationEnglish: `op Ass Fypiny
-
-AHF GCtoosl ShencuGunt uTEg som 19. Chandra Jnanam 24. Santanam
-ABGWVST 4. GUSSI aperpyon — sd 20. Mukha Bimbam 25. Sarvoktam
-ASIN FND QUS SYIAIGLd 21. Purotgeetham 26. Parameswaram
+    elaborationEnglish: `
+AHF som 19. Chandra Jnanam 24. Santanam
+4. GUSSI aperpyon — sd 20. Mukha Bimbam 25. Sarvoktam
+ASIN QUS 21. Purotgeetham 26. Parameswaram
 : Sine ‘ is 7 22. Lalitam 27. Karanam
-AGI YWSFHO GUOuUTGs Cars. 57 23. Siddham 28. Vathulam
+AGI Cars. 57 23. Siddham 28. Vathulam
 
 Agamas From The Fifth Face Of Siva
 
@@ -1450,11 +1436,8 @@ Him, I too shall muse and praise.`,
     elaborationEnglish: `‘In them the Celestials the Lord’s greatness gloried;
 Him, I too shall muse and praise.
 
-Liesig. 5 groumt UB@er Qs cirent_uyos
 
-STL OT FIAM/M SGSSH) aurirercsrs
-
-Let st sma UBGet_ Gx wrent_uytd`,
+STL OT FIAM/M aurirercsrs`,
   },
   {
     id: 60, tantraId: 0, verseNumber: 59,
@@ -1474,7 +1457,7 @@ Are but what the Primal Lord declared.`,
     elaborationTamil: `இறைவனை அடைய ஆகமங்கள் கூறும் பதினெட்டு நிலைகளையும் அதன் உண்மையையும் உணர்ந்தவர்கள் பண்டிதர்கள் ஆவார்கள். இந்தப் பதினெட்டு நிலைகளையும் அரன் எனும் பெயரால் அறியப்படுபவனும் உலகங்கள் அனைத்திற்கும் முதல்வனுமான இறைவன் கூறியவையாகும். இறைவன் கூறியவற்றை அவன் கூறியபடியே விளக்குபவர்களே உண்மையான பண்டிதர்கள் ஆவார்கள்.`,
     elaborationEnglish: `What the Lord declared scholars expressed in 18 languages.
 
-aNesrencd LTT SEG MNermisl
+aNesrencd SEG
 
 Ogctresied crupugy Cammy gr prudgid`,
   },
@@ -1511,8 +1494,7 @@ Came down to earth, Siva's Dharma to proclaim,
 The immortals, then, Him as Nandi adored,
 And He stood forth the Agamas artic'lating.`,
     elaborationTamil: `: பரமாகிய சிவமும் பராவாகிய சக்தியும் சேர்ந்து பராபரமாகிய அனைத்திற்கும் மேலான சதாசிவமூர்த்தி உலகின் தலைவனாய் நின்று எல்லா உயிர்களும் இறைவனை அடைய ஆகமங்களை அருளிய நேரத்தில் அமரர்களுக்கு குருவாய் நிற்கும் இறைவனை அரன் என்று அவர்களால் அர்ச்சிக்கப்பட்டு ஆகமங்கள் கூறும் ஞானத்தின் மொத்த அறிவு உருவமாக உயர்ந்து நின்றான்.`,
-    elaborationEnglish: `een wCastt 26580 Csoar
-sore Opbsr siwilovgsnid Quan
+    elaborationEnglish: `sore Opbsr siwilovgsnid Quan
 
 Agamas Transmitted
 
@@ -1522,7 +1504,7 @@ Holy Vishnu and to Brahmisa
 
 So in succession unto Himself from Himself,
 The nine Agamas our Nandi begot.
-2HDG5M oF gL 2 WHFS curgjortb
+oF gL 2 WHFS curgjortb
 Looney aunwcer prgmat Corser`,
   },
   {
@@ -1558,7 +1540,7 @@ The Veeram good, the Sindam high and Vadulam,
 Vyamalam the other, and Kalottaram,
 The Subram pure and Makutam to crown.`,
     elaborationTamil: `எங்கள் குருவான நந்தியிடமிருந்து பெற்ற நல்வழியைக் காட்டும் ஒன்பது ஆகமங்கள் 1. காரணம், 2. காமிகம், 3. அமையப்பெற்ற வீரம், 4. உயர்வான சித்தம், 5. வாதுளம், 6. மற்றவைகளான யாமளம், 7. அனைத்துமாகும் காலோத்தரம், 8. நிறைவுடைய சுப்பிரம், 9. சொல்லிய மகுடம் ஆகியவையாகும்.`,
-    elaborationEnglish: `‘Vyamalam the other, and Kalottaram,
+    elaborationEnglish: `the other, and Kalottaram,
 
 The Subram pure and Makutam to crown.`,
   },
@@ -1595,14 +1577,14 @@ Even the flashing lake had lost it's vernal bloom
 Then did He in Sanskrit and Tamil at once,
 Reveal the rich treasure of His Compassion to our Lady Great.`,
     elaborationTamil: `மழைக்காலம் கோடைக்காலம் பனி பெய்யும் குளிர்காலம் என எல்லாக் காலமும் ஏரிகளெல்லாம் நீர்வற்றி அனைத்தும் யுகங்களின் முடிவான ஊழிக்காலத்தில் அழியும். ஆரிய மொழியாகிய சமஸ்கிருதத்திலும் தமிழிலும் வேதங்களையும் ஆகமங்களையும் புதுயுகத்தில் பிறக்கும் உயிர்களின் தாயான உமாதேவிக்கு அந்த உயிர்கள் இறைவனை அடையும் பொருட்டு உடனே வழங்கி இறைவன் மாபெரும் கருணை செய்தான்.`,
-    elaborationEnglish: `Key To Mystery Of Life
+    elaborationEnglish: `Key To Of Life
 
 Life takes its birth, stands preserved awhile,
 And then its departure takes; caught
 
 In that momentary wave of flux, Him we glimpse,
 The Lord who in Tamil sweet and northern tongue
-Life’s mystery revealed.
+Life’s revealed.
 
 4, GG unpibumwb`,
   },
@@ -1640,12 +1622,11 @@ First the Nandis Four, Sivayoga the Holy next;
 Patanjali, then, who in Sabha's holy precincts worshipt,
 Vyaghra and I complete the number Eight.`,
     elaborationTamil: `இறைவனே குருவாய் நந்தி தேவராக வந்து உண்மைப் பொருளை உபதேசித்து அருள் பெற்று நாதர் என்று பெயர் பெற்றவர்கள் யாரெனில் சனகர், சனந்தனர், சனாதனர் மற்றும் சனற்குமாரர் ஆகிய நான்கு பேரும் சிவயோகத்தில் சிறந்து இருந்ததால் சிவயோக மாமுனிவர் என்று பெயர் பெற்றவரும் தில்லையில் வந்து இறைவனின் திருநடனத்தைக் கண்டுகளித்த ஆதிசேஷனின் அவதாரமான பாதி மனித உருவமும் பாதி பாம்பு உருவமும் கொண்ட பதஞ்சலி முனிவரும் தன் இடைவிடாத தவத்திற்காக இறைவனிடமிருந்து புலியின் கால்களைப் பெற்றதால் வியாக்கிரமபாதர் என்று பெயர் பெற்றவரும் திருமூலனாகிய யானும் சேர்ந்து மொத்தம் எட்டு பேர்கள் ஆவார்கள்.`,
-    elaborationEnglish: `Patanjali and Vyaghrapada, who in Sabha’s holy
+    elaborationEnglish: `Patanjali and who in Sabha’s holy
 precincts worshipt ;
 And including me:to complete the number Eight.
 
-BED AGaTGH apoener Brig. Gosnbd
-BSD Agoura Dgor@sujid Gri_uycsficd`,
+BED apoener Brig. Gosnbd`,
   },
   {
     id: 69, tantraId: 0, verseNumber: 68,
@@ -1664,9 +1645,7 @@ By Nandi's Grace, what can I perform not?
 Nandi guiding, I here below remained.`,
     elaborationTamil: `குருநாதராகிய நந்தியாகிய இறைவனின் அருளினால்தான் யாம் நாதர் என்ற பெயர் பெற்றோம். நந்தியின் அருளினால்தான் இறந்து கிடந்த இடையனாகிய மூலனைக் கண்டு அழுதுகொண்டிருந்த பசுக்களின்மேல் இரக்கம் கொண்டு அவனின் உடலில் புகுந்தோம். நந்தியின் அருள் இல்லாவிட்டால் இந்த நாட்டின் என்ன செய்துவிட முடியும்? நந்தியின் அருளினால்தான் அவர் காட்டிய வழியின் படியே நானும் இருந்தேன்.`,
     elaborationEnglish: `Tirumular explains how he got his name and became one of
-the eight Nathas.
-
-WES7b Qumy anplipenm omovmmlscs`,
+the eight Nathas.`,
   },
   {
     id: 70, tantraId: 0, verseNumber: 69,
@@ -1719,8 +1698,8 @@ At once of God and the three Radiant Lights;
 Yet His surpassing greatness ne'er fully revealed.`,
     elaborationTamil: `எம்மிடம் சீடர்களாக இருந்த ஏழு பேர்களுக்கும் எம்முள் இருந்து எம்மூலமாக மந்திரங்களை வழங்கியது இறைவனே. அவன் பிறப்பும் இறப்பும் இல்லாத பெருமையை உடையவன். சூரியனின் ஒளி தோன்றுவதற்கு முன்பிருந்து எப்போதும் மாபெரும் ஒளியாக இருப்பவன் அவன். அவனுடைய பெருமைகளை அவன் அருளின்றி யாரிடமிருந்தும் தெரிந்து கொள்ள முடியாது. ஆகவே நாம் இறைவன் அருள் பெற்ற குருநாதர்களின் மூலம் இறைவனின் தன்மைகளையும் அவனை அடையும் வழிகளையும் தெரிந்து கொண்டு அவன் அருள் பெற்று அவனை அடையலாம்.`,
     elaborationEnglish: `TUPHBMET Outward HS Honsuyor
-Osipisom Hwunwwscr Oeunh@ercr movr csr od
-Osnephsom Licuns Goittsenr. CunGr`,
+Osipisom movr od
+Osnephsom Licuns Goittsenr.`,
   },
   {
     id: 73, tantraId: 0, verseNumber: 72,
@@ -1738,7 +1717,7 @@ Yet shall you the Holy rites and pure perform;"
 So spoke He of the matted locks and coral hue,
 And His Grace conferred on the steadfast Four.`,
     elaborationTamil: `ஏழு கடல்களும் பொங்கியெழுந்து ஏழு மேகங்களும் மும்மாரி மழையைப் பொழிந்து எட்டுத் திசைகளும் நீரால் நிரம்பினாலும் (நீரினால் வரும் ஊழிக்காலப் பேரழிவு வந்தாலும்) பிறப்புக்கு உயர்வைத் தருகின்ற தன்மையுடைய நியமங்களைச் (நல் அறங்கள்) செய்துகொண்டே இருங்கள் என்று அனைத்தையும் பாதுகாத்து அருளுபவனும் சிவப்பான தன்மையுடைய பவளம் போன்ற மேனியை உடையவனும் குளிர்கொண்ட மேகம் போன்ற தன்மையுடைய விரிந்த சடையை உடையவனுமான இறைவன் தன் திருவடியைப் பணிந்து தொழுத நான்கு சனகாதி முனிவர்களுக்கும் (சனகர், சனந்தனர், சனாதனர், சனற்குமாரர்) அருளினான்.`,
-    elaborationEnglish: `5. DGEewpor avyenpi`,
+    elaborationEnglish: ``,
   },
   {
     id: 74, tantraId: 0, verseNumber: 73,
@@ -1756,7 +1735,7 @@ Intoning loud His Name in my heart's deepest core,
 Daily musing on Hara wearing high the crescent moon,
 Thus I ventured the Agamas to compose.`,
     elaborationTamil: `குருநாதராக வந்த இறைவனின் இணையில்லாத திருவடிகளை என் தலை மேல் வைத்துக்கொண்டு அவர் அருளிய அனைத்தையும் எனது புத்திக்குள் புகுந்து நிற்கும்படி நினைவில் நிறுத்திக்கொண்டு சூரியன் மறைவில் தோன்றும் இளம்பிறைச் சந்திரனை தனது திருமுடியில் அணிந்துகொண்டிருக்கும் அரன் என்று அழைக்கப்படும் அந்த இறைவனின் பெருமைகளைப் போற்றி அவன் திருவடிகளை தியானித்துக் கொண்டு நாள்தோறும் அவன் அருளிய ஆகமங்களை சொல்கின்றேன்.`,
-    elaborationEnglish: `piven weihed shims ge sorIor`,
+    elaborationEnglish: `piven weihed shims ge`,
   },
   {
     id: 75, tantraId: 0, verseNumber: 74,
@@ -1775,7 +1754,7 @@ These eyes witnessed, enthralled,
 The surpassing Dance in Holy Sabh;
 Thus I lived and joyed for seven crore Yuga.`,
     elaborationTamil: `சிவபெருமானாலேயே சொல்லப்பட்டதால் சிவாகமம் என்ற பேர் பெற்று பெருமை வாய்ந்த ஆகமங்களை அப்பெருமானே குருநாதராக இருந்து சொல்ல அவரின் திருவடிகளை வணங்கி பெற்றுக்கொண்ட பின் ஒரு குறையும் இல்லாத தில்லை அம்பலத்தில் ஆடிய இறைவனின் திரு நடனத்தைக் கண்டு களித்து அந்த ஒப்பில்லாத இறைவனின் நினைப்பிலேயே ஒரு கோடி யுகங்கள் இருந்தேன்.`,
-    elaborationEnglish: `The Dance of Siva, which symbolises the manifestations of
+    elaborationEnglish: `The Dance of Siva, which the manifestations of
 the Universe as an activity of Siva, is the most fascinating
 and unique characteristic of Tamil Saivite religion and is
 repeatedly stressed by Tirmmular in this work. The deep
@@ -1788,7 +1767,6 @@ of Siva’ leaves an indelible impression: about the greatness
 of the theme.
 
 Qossas sngosm Caos SoGor
-uA Soa ubscacr USHuD coatGavr. 15
 Lost In Sakti Devotion
 Hear O! Indra, what urged me ft
 
@@ -1798,16 +1776,11 @@ the Universe, rich in penance,
 hus to stay?
 €r of austerity of
 
-IN PRAISE OF GOD 13
 
 In devotion deep and true, Her I adored
 And with ardour unceasing, here I pursued.
 
-Divine Daughter: Parvati Devi.
-
-UWgsreoh wnBGs Csofletm srovid
-
-Qsrsch unBGs Csorwenr bu`,
+Divine Daughter: Parvati Devi.`,
   },
   {
     id: 76, tantraId: 0, verseNumber: 75,
@@ -1842,7 +1815,7 @@ Them I sought not while here I stood;
 I held them not in the heart; but soon my mind turned,
 And indifference abandoning, realised them all.`,
     elaborationTamil: `பிரம்மன், திருமால், உருத்திரன், மகேசுவரன், ஈசன் ஆகிய ஐந்து தெய்வங்களின் மூலம் படைத்தல், காத்தல், அழித்தல், அருளல், மறைத்தல் ஆகிய ஐந்து தொழில்களைச் செய்யும் இறைவனாகிய சதாசிவமூர்த்தி அருளிய ஆகமத் தத்துவங்களையும் இயல், இசை, நாடகம் ஆகிய மூன்று தமிழ் மொழிகளையும் நான்மறையாகிய வேதங்களையும் அளவின்றி யாம் பெற்றுக் கொண்டு அவற்றிலேயே மனம் திளைத்து கொண்டிருக்கும் காலங்களின் மேல் மனதைச் செலுத்தாமல் இருந்தபோது இனியும் சென்று கொண்டிருக்கும் காலங்களை உதாசீனப்படுத்தாமல் உடனே காலத்தின் தேவையை உணர்ந்து இவற்றை மற்றவர்களுக்கு வழங்கவேண்டும் என்பதை என்னுடன் இருந்த இறைவன் உணர்த்தினான்.`,
-    elaborationEnglish: `porns wre Ouomip5s Dosa. 5 Hor`,
+    elaborationEnglish: `porns wre Dosa. 5 Hor`,
   },
   {
     id: 78, tantraId: 0, verseNumber: 77,
@@ -1860,11 +1833,11 @@ The Veda to expound and the Dance Divine's deep import;
 These mysteries occult the Lord first unveiled
 To Her of the azure hue and jewels bright.`,
     elaborationTamil: `எமது சீடனாகிய மாலாங்கனே இறைவனோடு இருந்த யான் இந்த உலகத்திற்கு வந்ததின் காரணத்தைக் கேட்டுக்கொள். நீல நிற மேனியைக்கொண்டு இறைவனின் திருமேனியில் சரிபாகமாக இருக்கும் சக்தி தேவியும் ஆதிமூலமாகிய இறைவனும் சேர்ந்து உயிர்கள் உய்யும் பொருட்டு புரிந்த திருநடனத்தின் தத்துவங்களையும் இறைவனை அடைய வழிவகுக்கும் அரும்பெரும் ஒழுக்கங்களையும் உள்ளடக்கிய வேதத்தை மற்றவர்களுக்கு எடுத்து உரைக்கவே யான் வந்தேன்.`,
-    elaborationEnglish: `Gpfhenp wreuner HAs wrenhses
+    elaborationEnglish: `wreuner wrenhses
 
-Gugen wnQGerer Mntugis seer aucit
+Gugen Mntugis seer aucit
 
-Fo wireTrGla ord Sor Henn`,
+Fo ord Sor Henn`,
   },
   {
     id: 79, tantraId: 0, verseNumber: 78,
@@ -1904,7 +1877,7 @@ The lyric spell of His countless names.`,
 shade,
 
 In devotion fast I chanted
-The lyric’ spell of His countless names.
+The spell of His countless names.
 
 This refers to the legend that Tirumular as he traversed
 through space from Kailas and came near Tiruvavaduthurai
@@ -1912,7 +1885,7 @@ through space from Kailas and came near Tiruvavaduthurai
 {now in Tanjavur District of Tamil Nadu, India, where the
 holy monastery Tiruvavaduthurai Aadheenam now is) he saw
 a herd of cows moaning for their master, Mula, who was
-lying dead. Unable to bear the sufferings of the herd of cows
+dead. Unable to bear the sufferings of the herd of cows
 Tirumular, by his miraculous Siddhi power, transmigrated into
 the body of the cowherd Mula, concealing his own original
 body in the hollow of a tree. The herd of cows seeing: their
@@ -1933,7 +1906,7 @@ Tirumantiram under the shade of the Bodhi tree at
 Tiruvavaduthurai; and he acquired the name Mular, because
 he entered the body of the cowherd, Mula.
 
-QosGser cret HEH Qoncsruy.s SGpp. &0
+cret HEH Qoncsruy.s &0
 Countless Years In Mortal Body
 
 Remained thus prisoned in mortal coil for ages
@@ -1950,9 +1923,9 @@ Who can say what the next birth will be,
 The Lord, however, gave me a good. birth,
 So that I may sing His glory in sweet Tamil.
 
-Gras saulsor FFD FETUSES
+Gras saulsor FETUSES
 
-Greniunr wm_y. prgner aTréGFS)
+Greniunr prgner
 
 Through Ninety Million Yugas
 
@@ -1982,7 +1955,7 @@ Which are on a par with the Vedas,
 
 The greatest of the scriptures that thrill the heart.
 
-STeupp upns SHVLUGS srGor. — 8
+upns SHVLUGS srGor. — 8
 Bliss To Humanity
 All the world may well attain the bliss I have
 received,
@@ -1991,19 +1964,19 @@ is repeated,
 Within the heart will arise a thrilling unstruck sound
 Which, when practised, will lead to. realization.
 
-ApiQur® suresaut Oscityyens gc
+suresaut Oscityyens gc
 Garland Of Mantras
 
 The Heavenly Beings with folded hands approach
 Nandi, the Lord above and free of the bonds of
 birth;
 
-Deep in their hearts the Holy Hymns revolve
-Forget not to chant the chain of holy -hymns.
+Deep in their hearts the Holy revolve
+Forget not to chant the chain of holy
 
-EAA srawead1g FIVIi-vo mags snot
+EAA mags snot
 
-ome sreawaags sTgQio Gaonpuys
+ome sreawaags Gaonpuys
 
 Splendour Of Tamil Agamas
 
@@ -2016,7 +1989,7 @@ To prevent the eruption of egoism He has given us
 the Tamil. Sastras,
 He who gave all these is the Supreme.
 
-Hig HoT 19 Govetcrot NFGSor Clencvey
+Hig HoT 19 Govetcrot Clencvey
 
 Baffling Quest Of Brahma And Vishnu
 
@@ -2026,7 +1999,7 @@ Baffled in their quest, again on earth they met;
 
 “The Head I saw,’’ Ayan falsely claimed.
 
-Qupmapd orepyih wypaytd MAcumm
+Qupmapd orepyih
 
 Lord Blessed Tirumular
 
@@ -2229,9 +2202,9 @@ The Siva and the Agochara Veeya.`,
 full in this text all the categories mentioned in. this verse.
 These are the core essentials of Saiva Siddhanta philosophy. .
 They are Sanskrit words in Tamilised form and it may be
-helpful to explain the terms briefly. **‘Jieya’’ is ‘that which
+helpful to explain the terms briefly. is ‘that which
 is to be known”’, “‘Jiidna’’ is ‘“‘knowledge’’ and ‘‘Jnatr’’ is
-the **knower"’ (subject). In Saiva Siddhanta ‘‘Maya’’ is not
+the (subject). In Saiva Siddhanta ‘‘Maya’’ is not
 “‘illusion’’ but a kind of “‘purity’’ (mala) which hides ‘Pati’’,
 the Lord, from the vision of the imperfect ‘‘Pasu’’ (soul).
 It is of two kinds, “‘Suddha maya’’ and ‘taSuddha maya”’;
@@ -2256,9 +2229,9 @@ The Word of Him, the Eternal, the Truth Effulgence,
 The Limitless Great, Nandi, the Joyous One,
 He of the Blissful Dance that all impurity dispels.`,
     elaborationTamil: `ஆகம வேதப் பொருளை விளக்கி அருளிய குருநாதன் பரம்பொருள் எனப்படும் உண்மையான ஞானத்தின் ஜோதி வடிவானவன். அளவிடமுடியாத பெருமைகளைக் கொண்டவன். ஆனந்த வடிவானவன். மும்மலங்களையும் அறுக்கும் ஆனந்த நடனத்தை ஆடும் கூத்தன். அப்பேர்பட்ட இறைவன் சொன்ன சொல்லைக் கட்டளையாக ஏற்று அதன்படியே நானும் அரும்பெரும் வளங்கள் நிறைந்த திருக்கயிலாய வழியில் இந்த உலகம் தேடி வந்தேன்.`,
-    elaborationEnglish: `I have come by the great path of Kailas, 2 GSS Gorin gaeagE STK. ee.
+    elaborationEnglish: `I have come by the great path of Kailas, 2 Gorin STK. ee.
 
-In the line of the Lord who expounded the above God Within Vedic Hymns
+In the line of the Lord who expounded the above God Within Vedic
 truths, -
 
 Who is eternal, Truth effulgent, limitless;
@@ -2268,8 +2241,8 @@ In the countless measures that are in Veda Rig,
 He indwells with His radiant locks;
 The Sun and Moon with their splendid argent rays,
 ; In vain they melt the waxing lustre of His glowing
-BED AGUIVOiouies EHrors gio woe co Gosrcst
-Quppicuct M5e5sS Drab usgytb
+BED gio woe co Gosrcst
+Quppicuct Drab usgytb
 
 Form-Formless Sadasiva State ss ees a aft
 
@@ -2279,20 +2252,20 @@ With Nandi’s Grace Truth Divine attained, Night And Day Yearn For Him
 With Nandi’s Grace I so, remained. Unceasing, I prattle daily Nandi’s name.
 
 By day praise Him in thought and by night as well,
-QGEGAD. QESGL craroaheD Cam. Daily I yearn for my Master, the Light-hued,
-AGEDADY eposgyor 9Cs BGs Gud The Lord of the uncreated Radiant Flame.
+QESGL Cam. Daily I yearn for my Master, the Light-hued,
+AGEDADY eposgyor Gud The Lord of the uncreated Radiant Flame.
 
 6. s]mams sab
 
-wig cunt Qes ssovupld Gorupid Q)oroflns 2 orGor apheim Feencrt’
-Gouge) wirentn Nerdy Her CyGou. 95 WGCBMIL Baincr 2 oargay worGw. 97.
+wig cunt Qes Gorupid Q)oroflns 2 orGor apheim Feencrt’
+Gouge) wirentn Nerdy Her 95 Baincr 2 oargay 97.
 
 Infinite Greatness! Power Of Prayer
 Who can know the greatness of our Lord! By words spoken in Truth’s luminous accents
 Who can measure His length and breadth! Rising on sweetest music’s pious heights
 He is the mighty nameless Flame; Even Brahma who after.Him created this our world,
 Whose unknown beginnings I venture to speak. All, all, seek His imperishable Light.
-Bros oni psoH) Grr 9/)®Coreir gsgiicr Cont GES! SAGOEujLd`,
+Bros oni Grr 9/)®Coreir Cont GES!`,
   },
   {
     id: 93, tantraId: 0, verseNumber: 92,
@@ -2412,16 +2385,15 @@ Seeking Liberation's endless Bliss,
 Devoutly praising, yet knowing not,
 So this deep Mystery I here expound.`,
     elaborationTamil: `திருவம்பலச் சக்கரத்தை முறைப்படி ‘ஓம் சிவாயநம’ என்ற ஆறெழுத்து மந்திரத்தை செபித்து சாதகம் செய்து சதாசிவமூர்த்தியை அடைபவர்கள் தான் எனும் நினைப்பை அறுத்து இறைவனே சரணாகதி என்று இருக்கின்றார்கள். அளவில்லாத இறைவனின் பெருமைகளை எம்மால் இயன்றவரை எடுத்துரைத்து போற்றிப் புகழ்வதைத் தவிர வேறொன்றும் யாம் அறியேன்.`,
-    elaborationEnglish: `7. SGup975 Osta%e Apcny
-
-epouct aoniQels apour obs ap
+    elaborationEnglish: `
+epouct apour obs ap
 Grob sua 5B Gers! Path To; God
 
-ETON TLpsS GSS CanGuy.cx Three Thousand Holy Hymns, Mula in Tamil
-GIs Zavaionen pearggyicu sory. composed,
+ETON Three Thousand Holy Mula in Tamil
+Zavaionen pearggyicu sory. composed,
 
 Did he, Nandi, reveal for all the werld to know,
-Those who wake early at dawn and_= sing
+Those who wake early at dawn sing
 understanding the meaning
 
 Will win the splendid soft repose
@@ -2429,7 +2401,6 @@ Will win the splendid soft repose
 Of the Bosom of the Lord.
 
 mass UNGE amsams Ketan Ser
-GSP Huds; gpait SHG
 
 General And ‘Specialised Knowledge
 
@@ -2437,11 +2408,7 @@ In the Holy Three Thousand is the Salvation Fine
 Of the diverse works, true and good;
 In the Divine Three Thousand, original and wise,
 
-a All knowledge is, special and general.
-
-8 GGL aganpi
-
-gs wi Guy Wcrengsscr WIrsagHor`,
+a All knowledge is, special and general.`,
   },
   {
     id: 100, tantraId: 0, verseNumber: 99,
@@ -2500,7 +2467,7 @@ disciples.
 
 EOVEEGT Sroormist sibune Cangr
 BOUESG wiihoss Coortpr srpst
-AosHap eport Horows GerGo. 102 ©
+eport Horows 102 ©
 
 .Heads Of Seven Orders
 
@@ -2512,11 +2479,9 @@ Bhogadeva,
 And Mula here breathing—of the Eternal are they
 all.
 
-9. (pbeaupigDacr ipeapew
 
 mae Qorenwwyid ASS up Mp
-Herod srevaptd wrgyib 2cerMsd
-sided suager scrcmyg. wri@ene`,
+Herod srevaptd wrgyib`,
   },
   {
     id: 103, tantraId: 0, verseNumber: 102,
@@ -2551,11 +2516,8 @@ And measuring out the Time, these four considered
 Sankara stands supreme and of His devotees
 To Hari and Aya infinite Grace goes.`,
     elaborationTamil: `உயிர்கள் ஆரம்பத்தில் எப்போதுமே இளமையாகவே இருப்போம் அது அளவில்லாதது என்று கருதிக்கொள்வது இளமையின் தன்மை. அந்த இளமையின் முடிவாகத் தோன்றுவது முதுமையின் தன்மை. அந்த முதுமைக்குப் பின் வாழ்க்கையின் முடிவாக வருவது இறப்பின் தன்மை. பிறக்கும் முன்பே வரையறுக்கப்பட்டு பிறப்புக்கும் இறப்புக்கும் இடையில் இயங்குவது காலத்தின் தன்மை ஆகிய நான்கு தன்மைகளும் இயல்பிலேயே மாயையால் உருவாக்கப்பட்டன என்பதை உணர்ந்துகொண்டால் அந்த மாயையை என்றும் தளராமல் அறுக்கும் சங்கரனின் (அழிப்பவன்) தன்மையை உணரலாம். அப்படி உணர்ந்த சிவனடியார்கள் தாம் உணர்ந்த சங்கரனின் தன்மைகளை எடுத்துச் சொன்னால், அது ஹரிக்கும் (திருமால்) அயனுக்கும் (பிரம்மன்) எட்டாத அளவு பெருமை உடையதாக இருக்கின்றது.`,
-    elaborationEnglish: `FET DGSGW QGaoncrs seid
-
-eb 2 VAD DuGDOSuWeN nergy
-
-FE ARQ Sl srorunt HloncacnNevntr`,
+    elaborationEnglish: `
+eb 2 VAD nergy`,
   },
   {
     id: 105, tantraId: 0, verseNumber: 104,
@@ -2593,7 +2555,7 @@ The dross but know the basest sediment low.`,
     elaborationEnglish: `(1) Good and evil deeds.
 (2) Isa — Siva
 
-Aacspsov epuGor oor Ans`,
+Aacspsov oor Ans`,
   },
   {
     id: 107, tantraId: 0, verseNumber: 106,
@@ -2616,9 +2578,8 @@ following, ,
 
 TA
 
-IN PRAISE OF GOD
 
-With. whom flourished Bindu and SNada,
+With. whom flourished Bindu and
 Nine are they all, yet one and the same—
 All these but names of Sankara First.
 
@@ -2660,7 +2621,7 @@ Then spoke the Lord to me:
 Be it Yours to give the world
 The Grace of My Feet."`,
     elaborationTamil: `இறைவனின் திருக்கோலத்தை அடியவர்களும் இறப்பில்லாத தேவர்களும் சூழ்ந்து நிற்க பால் போன்ற வெண்ணீறு அணிந்த அவனின் திருவுடலைப் பணிந்து அடியவனாகிய யான் தொழுது நிற்கும்போது காக்கும் தொழிலைச் செய்யும் திருமாலுக்கும் படைக்கும் தொழிலைச் செய்யும் பிரம்மனுக்கும் நீ சரிசமமானவன். ஆகையால் உலகத்திற்கு சென்று எமது திருவடியின் திருவருளை அனைவருக்கும் வழங்கிடுக என்று இறைவன் எமக்கு கூறி அருளினான். உள் விளக்கம்: பிரம்மனும் திருமாலும் ஒரு சமயத்தில் ஆன்மாக்களாக இருந்து செய்த மாதவங்களாலேயே இறைவனிடமிருந்து படைக்கும் தொழிலையும் காக்கும் தொழிலையும் பெரும் பேறாகப் பெற்றார்கள் என்பதால் அவர்கள் மாதவம் செய்த இறைவனின் அடியவர்களுக்கு சரிசமமானவர்களே. எனவே உலகில் இறைவனின் திருவடியைப் போற்றி அதன் பயனை மற்றவர்களுக்கும் அருளும் மாதவம் செய்த சிவனடியார்கள் அனைவருமே பிரம்மனுக்கும் திருமாலுக்கும் சரிசமமானவர்கள்.`,
-    elaborationEnglish: `Gscrrt Oancienmdé AoucrHoT BVUgs`,
+    elaborationEnglish: ``,
   },
   {
     id: 110, tantraId: 0, verseNumber: 109,
@@ -2678,7 +2639,7 @@ Save for Siva's grace, Siva in honeyed-Konrai decked;
 No other God could dwell in the silence of your soul,
 Other Gods you worship, know they but mortals be.`,
     elaborationTamil: `தேவர்கள் என்றும் மனிதர்கள் என்றும் ஆன்மாக்கள் இருப்பது தேன் நிறைந்த கொன்றை மலர் மாலையைச் சூடியிருக்கும் சிவபெருமானின் திருவருளினாலன்றி வேறில்லை. அச்சிவபெருமானின் அருள் இல்லாமல் தானாகவே இருந்தவர்கள் என்றும் தனியொரு தெய்வம் என்றும் வேறு எதுவும் இல்லை. அப்படிப்பட்ட இறைவனே உயிர்களின் உடலுக்குள்ளும் இருக்கின்றான் என்பதை உணர்வதுதான் பிறவியின் உண்மையான பயனாகும்.`,
-    elaborationEnglish: `b_sacm reer Op@iond swaneteny`,
+    elaborationEnglish: ``,
   },
   {
     id: 111, tantraId: 0, verseNumber: 110,

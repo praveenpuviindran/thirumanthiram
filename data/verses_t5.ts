@@ -20,7 +20,7 @@ He is mighty as Mount Meru,
 From whence He sways the three worlds;
 And He is the Four Paths of Saivam too here below.`,
     elaborationTamil: `அனைத்து உயிர்களையும் அவை இருக்கின்ற உலகத்தையும் ஒன்றாக கலந்து நின்று இயக்குகின்ற பேரறிவு ஞானமாக இருக்கின்ற இறைவனின் பெருமைகளை குறித்து சொல்லப் போனால் அனைத்து சக்திகளின் மொத்த உருவமாகிய மேரு மலையயும் மேலோகம் பூலோகம் பாதாள லோகம் ஆகிய முன்று உலகங்களையும் ஆளுகின்ற இறைவனை தெளிவாகப் புரிந்து கொள்ளும் படி அவனிடமிருந்தே வெளிவந்து அவனை அறிவதற்கு முயலுகின்ற அடியவர்களுக்கு ஆதார இடமாக இருக்கின்ற நான்கு வகையான நெறிமுறைகளே சைவம் என்று அழைக்கப்படும் பெருமைக்கு உரியதாகும். குறிப்பு: இறைவனை உணர்ந்து அடைவதற்கு அவனால் அருளப்பட்ட நான்கு விதமான நெறிமுறைகளே சைவம் ஆகும். அந்த சைவ நெறிமுறைகளை அறிந்து கொண்டவர்கள் சைவர்கள் ஆவார்கள்.`,
-    elaborationEnglish: `The Lord created the world, the dwelling place of man.
+    elaborationEnglish: `The Lord created the world, the place of man.
 
 He holds power over the Three Worlds. He is the four paths,
 
@@ -33,11 +33,11 @@ the support of all worlds. It.is the ‘central mountain’ of Hindu
 and Buddhist cosmography, around which our cosmos is
 arranged in seven concentric circles of oceans separated by
 intervening concentric circles of golden mountains. We may
-possibly regard it, like the ‘central syn’ of Western astronomy,
+possibly regard it, like the ‘central of Western astronomy,
 as the gravitational centre of the known universe.
 
 The special column, the central support of the human
-body structure is; analagously, symbplised in the Tantras
+body structure is; analagously, in the Tantras
 and in the works on yoga as the Mount Meru of men
 in the microcosm.
 
@@ -62,8 +62,7 @@ Kadum Suddha Saivam. Also the order of some of those verses
 had been rearranged. They now follow the original numeration
 of the Tirumantiram.
 
-FED HFSHCGH FSFSHH STM TCT O
-Asgib #9FSgC5 Getapt Gosss`,
+FED STM O`,
   },
   {
     id: 1421, tantraId: 5, verseNumber: 1420,
@@ -144,7 +143,7 @@ of all impuntties.
 Mular’s Saiva Siddhanta is nothing other than Suddha Saivam
 as he expounds it in 1420.
 
-us7ss Curgrbs wis Yyores Oru`,
+Curgrbs wis Oru`,
   },
   {
     id: 1423, tantraId: 5, verseNumber: 1422,
@@ -171,10 +170,9 @@ apparently a reference to the ‘Bhodi’ of Buddhism. By Nadanta
 is meant apparently the Mimamsa and Spanda schools which
 emphasize the sound aspect of the Ultimate.
 
-Qoorunt Douay Gsge FMS
 
-Dacurt Aacwsgoaup ugoncr UipsHong
-Sent flncréacrl. wrnvym Gerpr`,
+Dacurt Aacwsgoaup ugoncr
+Sent flncréacrl. Gerpr`,
   },
   {
     id: 1424, tantraId: 5, verseNumber: 1423,
@@ -252,8 +250,8 @@ preceding the twelfth, vide Tantra Eight For elaboration on
 the twelfth stage of consciousness experience, vide Mantra
 1489, infra.
 
-SCL MEH QUAM BTL ost Hest cai
-STL MEH QUgM Sear sR OUTGEHT
+SCL MEH QUAM ost Hest cai
+STL MEH Sear sR OUTGEHT
 SCL AMEN QUMUGM STL our sor wore ,
 
 Pure Suddha Saivam (Jnana)
@@ -270,16 +268,16 @@ Suddha Saivas transcending the nine spiritual centres see tht
 
 continent beyond the continents, and verily behold God.
 
-These are _known as avastas or states of the soul’
+These are as avastas or states of the soul’
 experience as it travels from the navel to the forehead throug
 the heart and neck chakra centres. They represent the states
 of wakefulness, dream, deep sleep, beyond-deep-sleep and
 so op, For a fuller discussion, vide ‘‘Saiva Siddhanta,” bs
 V. Paranjoti, pp.167-69
 
-Grol yoANQwup Bers enc F got
+Grol Bers enc F got
 
-Guorer Hensujrd puperamGesrans HFS ujtd`,
+Guorer Hensujrd ujtd`,
   },
   {
     id: 1426, tantraId: 5, verseNumber: 1425,
@@ -330,9 +328,8 @@ the sixty-four attainments. He reccives the vision of all worlds,
 inclusive of the ‘land of Mauna.” He sees the goal of all Vedas,
 and the Lord Himself
 
-3. WITTER OFCuld
 
-Quncienth Acusrgy cmdyH) srgomb`,
+Quncienth Acusrgy srgomb`,
   },
   {
     id: 1428, tantraId: 5, verseNumber: 1427,
@@ -366,7 +363,7 @@ Suddha Saiva way.
 
 Cain Groh Harter yus
 
-utp. Gasrés ASsrbs UTHSHoH`,
+utp. Gasrés`,
   },
   {
     id: 1429, tantraId: 5, verseNumber: 1428,
@@ -385,7 +382,7 @@ His is salvation True
 He, the immortal one
 And devoted true to Suddha Saiva way.`,
     elaborationTamil: `பாடல் #1427 இல் உள்ளபடி கருவிகளின் மூலம் சாதகம் செய்து தீயவற்றை அறுக்கின்ற ஞானியாகிய சாதகர் கிளர்ந்து எழுகின்ற ஞானத்திற்கு அதிபதியாகவும், பாசமாகிய துன்பங்களை அறுக்கின்ற வேதங்களுக்கு எல்லையாகவும் சித்தங்களுக்கு எல்லையாகவும் இருக்கின்ற இறைவனின் திருவடிகளை தம்மை நாடி வரும் அடியவர்களின் மனதிற்குள் புகுத்தி ஞானத்தை உருவாக்குகின்ற நுட்பமான முக்தி நிலையில் இருப்பவராகவும், பாசமாகிய துன்பத்தை அனுபவித்தாலும் அதனால் சிறிதும் பாதிக்கப் படாமல் சுத்தமான சைவ நெறிமுறையைக் கடைபிடித்து எப்போதும் பக்தியிலேயே நிலைத்து நிற்பவராகவும் இருப்பார்.`,
-    elaborationEnglish: `BSW Qorurcr APovter prGouwp`,
+    elaborationEnglish: `Qorurcr prGouwp`,
   },
   {
     id: 1430, tantraId: 5, verseNumber: 1429,
@@ -413,7 +410,7 @@ By stating that the Agamas provide the base for both Vedanta
 and Siddhanta (which are equated by him), Mular makes it
 clear that the Vedanta he has in mind is not the same as
 that of the Acaryas. The one thing common to Vedanta,
-Siddhanta and Bodhanta is tH&t they all consider Knowledge
+Siddhanta and Bodhanta is they all consider Knowledge
 as the ultimate path to Liberation.`,
   },
   {
@@ -459,7 +456,7 @@ All Siddhis abounded in surpassing prowess.`,
 mukti, the bliss of Sakti. There, they abound in unsurpassed
 prowess.
 
-(Parone upwse (persi_ent. aS Ly ones`,
+(Parone upwse aS Ly ones`,
   },
   {
     id: 1433, tantraId: 5, verseNumber: 1432,
@@ -509,7 +506,7 @@ receive the vision of the Suddha Saiva way. Jnana stills the
 flow of thought which even yogis find it difficult to practise,
 and through destruction of the self, he finds identity in Siva.
 
-Guprer uTaicncr Cues! Opi ADmev`,
+Guprer uTaicncr Cues! Opi`,
   },
   {
     id: 1435, tantraId: 5, verseNumber: 1434,
@@ -530,8 +527,7 @@ That even Yoga's severity stills not,`,
 And in Bhava identifies with Siva;
 That in brief is worthy Jnani’s story.
 
-Gagsrgsm sexGiot ODoohs Gungor
-Gastgs Dears ASEIbSH Soot Gornt`,
+Gastgs Dears Soot Gornt`,
   },
   {
     id: 1436, tantraId: 5, verseNumber: 1435,
@@ -556,8 +552,7 @@ Is the common Saiva's lot.`,
 
 Is the common Saiva’s lot.
 
-Neorionns Oscrney sroaQuctr Cosmas
-craromcnets Gaectmssy HTL GlevenrLiLiG)d`,
+Neorionns Oscrney Cosmas`,
   },
   {
     id: 1437, tantraId: 5, verseNumber: 1436,
@@ -580,7 +575,7 @@ Whom contemplation scarce comprehends.`,
     elaborationTamil: `பரந்து விரிந்து இருக்கின்ற வானத்தில் எவ்வளவுதான் உயரே மேகங்கள் சென்றாலும் அவை விண்ணுலகத்தை சென்று அடைவதில்லை. பல விதமான காட்சிகளைக் கண்டாலும் கண்களில் அந்தக் காட்சிகள் வந்து ஒட்டிக் கொள்வதில்லை. அது போலவே உலகத்தில் அறிந்தவற்றையே எண்ணிக் கொண்டு இருக்கின்ற எண்ணங்களால் உண்மை ஞானமாக இருக்கின்ற இறைவனை சென்று அடைய முடியாதபடி பாசமானது ஆன்மாவை தடுத்துக் கொண்டு இருக்கின்றது. ஆகவே இறைவனை அடைய வேண்டுமென்றால் மார்க்க சைவத்தின் வழியைக் கடை பிடித்து அதன் பயனால் பாசத்தளை நீங்கி உண்மை ஞானமாக இருக்கின்ற இறைவனை அடையலாம்.`,
     elaborationEnglish: `Aen sow Horeng bas)Gu
 
-Aer ustueng Cougs urs ssp`,
+Aer ustueng Cougs urs`,
   },
   {
     id: 1438, tantraId: 5, verseNumber: 1437,
@@ -601,7 +596,7 @@ Adore the Feet of Paraparai
 And with Siva become One;
 That the way Siddhanta fulfills.`,
     elaborationTamil: `நான் என்ற ஒன்றை நினைப்பதும் இல்லாமல் நானும் இறைவனும் என்று இரண்டாக நினைப்பதும் இல்லாமல் நானும் இறைவனும் வேறு வேறு என்று நினைப்பதும் இல்லாமல் அனைத்தும் இறைவன் ஒருவன் மட்டுமே எனும் எண்ணத்தில் நின்று உலக நியதிகளில் பல விதமாக இறைவன் என்று உருவாக்கி வைத்து இருக்கும் உருவங்களை எல்லாம் நீக்கி விட்டு உருவமே இல்லாத அன்பில் நின்று பரம்பொருளாகிய இறைவனின் பேரன்பின் வடிவத்தை இறைவனது திருவடியின் அருளினால் சென்று அடைந்து அன்பே சிவமாக ஆகி விடுவதும் சித்தத்தின் எல்லையாக இருக்கின்ற பேரறிவை பெறுவதுமே மார்க்க சைவத்தின் வழிமுறைகள் ஆகும்.`,
-    elaborationEnglish: `4. EOGaSS Mead.`,
+    elaborationEnglish: ``,
   },
   {
     id: 1439, tantraId: 5, verseNumber: 1438,
@@ -638,7 +633,7 @@ The thick layers of primal bondage they dissolve
 And of certain, realize the Self
 That the way of Siddhantins true.`,
     elaborationTamil: `மனித உடலாக இருக்கின்ற ஐந்து விதமான பஞ்ச பூதங்களையும் அதை ஒன்றின் மேல் ஒன்றாக மூடி இருக்கின்ற ஐந்து வகையான கோசங்களையும் கடந்து நின்று அதையும் தாண்டி விரிந்து இருக்கின்ற சுத்த மாயையும் மற்றும் இருக்கின்ற அனைத்து தத்துவங்களையும் தாண்டிச் சென்று இறைவனை அடைவதற்கு தடையாக மாயையிலேயே மயங்கி இருக்கின்ற கேவல நிலைக்குக் காரணமாக இருக்கின்ற பாசங்களையும் முழுவதுமாக நீக்கி விட்டு உறுதியாக தனக்குள் இருக்கும் இறைவனை மட்டுமே உற்று கவனித்த படியே இருப்பதே சித்தத்தின் எல்லையாக இருக்கின்ற கடும் சுத்த மார்க்கத்தின் வழியாகும். பஞ்ச பூதங்கள்: நிலம் – தசைகளும் எலும்புகளும் நீர் – இரத்தமும் உமிழ் நீரும் நெருப்பு – உணவை செரிக்கும் சூடு காற்று – மூச்சுக் காற்று ஆகாயம் – மனம் புத்தி அறிவு பஞ்ச கோசங்கள்: அன்ன மய கோசம் – உணவால் ஆகிய உறை பிராண மய கோசம் – காற்றால் ஆகிய உறை மனோ மய கோசம் – மனம் / எண்ணங்களால் ஆகிய உறை விஞ்ஞான மய கோசம் – அறிவு / புத்தி ஆகிய உறை ஆனந்த மய கோசம் – பேரின்பத்தால் ஆகிய உறை`,
-    elaborationEnglish: `&55F Aousjong snore Gsrunwe`,
+    elaborationEnglish: `Aousjong snore`,
   },
   {
     id: 1441, tantraId: 5, verseNumber: 1440,
@@ -673,7 +668,7 @@ Mantras 1440-1442
 
 Lingering not in maya, Suddha Saivas reach the status of Gods.
 And using it as a spring board, the soul soars to Siva Himself
-and merges in Him, Realisation of the truth that ‘I’ and *You’
+and merges in Him, Realisation of the truth that ‘I’ and
 are one leads to the light of supreme jnana, illumining the
 soul’s path to the final goal of sayujya union in the Lord.`,
   },
@@ -693,8 +688,8 @@ But He that knows not I from You
 Taught me the truth, "I" indeed is "You"
 And now I talk not of I and You.`,
     elaborationTamil: `நானாகிய ஆன்மா எங்கே இருக்கின்றது என்றும் தனக்குள் இருக்கும் இறைவன் எங்கே இருக்கின்றான் என்றும் தேடி அலைந்து நான் இறைவனை சார்ந்து இருக்கும் போது இறைவன் என்றும் ஆன்மா என்றும் தனித்தனியாக இருக்கின்ற இரண்டுவிதமான தத்துவங்களும் இல்லாமல் தானே அனைத்துமாய் நிற்கின்ற பரம்பொருளாகிய இறைவன் தான் என்றும் நான் என்றும் ஆகிய அனைத்தும் தாமாகவே இருக்கின்ற தத்துவத்தை எனக்கு தந்து அருளியதால் இனி தான் என்றும் நான் என்றும் ஆன்மாவையும் இறைவனையும் வேறு வேறு என்று பார்க்கின்ற தத்துவத்தை சார்ந்து நிற்காமல் அனைத்தும் இறைவன் ஒருவனே என்று இருக்கின்றேன்.`,
-    elaborationEnglish: `srpph srhu ssgiag AsHssra
-Boog srBu ebgib HA _MAOw =`,
+    elaborationEnglish: `srpph srhu AsHssra
+Boog srBu ebgib HA =`,
   },
   {
     id: 1443, tantraId: 5, verseNumber: 1442,
@@ -759,8 +754,7 @@ To seek the Light within Life-that the mighty path of Yoga;
 To invest idol with Life-that the external way of Kriya
 To adore Siva in love-that the basic worship of Chariya.`,
     elaborationTamil: `உயிர்களுக்குள் ஆன்மாவாக இறைவன் நிற்கின்ற விதத்தை தமக்குள்ளே ஆராய்ந்து அறிந்து கொள்ளுதல் ஆத்ம விசாரமாகிய (நான் யார் என்று அறிந்து கொள்வது) ஞான பூசையாகும். உயிர்களுக்குள் ஒளியாக இருக்கும் இறைவனை தமக்குள்ளே தரிசித்தல் மாபெரும் சாதனையாகிய யோக பூசையாகும். உருவச் சிலைகள் இறை சக்தியை பெறும்படி மந்திரங்கள் சொல்லி கிரியைகள் செய்து சக்தியூட்டி அந்த சிலைகளுக்கு அபிஷேகமும் ஆராதனையும் செய்வது வெளிப்புற பூசையாகும். எந்தவிதமான பூசைகளை செய்தாலும் அந்த பூசைக்கான செயல்களை இறைவன் மேல் கொண்ட பேரன்போடு செய்வது மானசீகமாகிய சிவ பூசையாகும். இந்த நான்கு விதமான பூசைகளே சரியை ஆகும்.`,
-    elaborationEnglish: `_Chariya.
-
+    elaborationEnglish: `
 Mantras 1444 & 1445
 
 Jnana is to be one with Siva — life within Life. Seeking that
@@ -769,9 +763,9 @@ with vibrant spirituality is Kriya; and to adore Siva in intense
 love is Chariya. Constant worship and adoration of His Name
 and glory make the Lord to erect a temple within you.
 
-ETD Feb FHHGs Canuvlgus
+ETD Feb Canuvlgus
 
-uIgwWer ury. veer Lol Sc`,
+ury. veer Lol Sc`,
   },
   {
     id: 1446, tantraId: 5, verseNumber: 1445,
@@ -790,7 +784,7 @@ Sing of Him as "Siva, Siva, my Lord"
 And thus do you offer worship meek,
 And the Lord will make your heart His temple.`,
     elaborationTamil: `உலகமெங்கும் இருக்கின்ற அனைத்து நாடுகளிலும் அதிலுள்ள நகரங்களிலும் உயிர்களின் நன்மைக்காக அமைக்கப் பட்டுள்ள இறைவன் வீற்றிருக்கும் கோயில்களை தேடி அலைந்து திரிந்து கண்டு பிடித்து அங்கு வீற்றிருக்கின்ற இறை சக்தியை சிவம் எனும் பரம்பொருளாகவே எண்ணி இறைவனைப் போற்றிப் புகழ்ந்து பாடி கொண்டே இறைவனைப் பணிந்து தொழுது வணங்குங்கள். அவ்வாறு வணங்கிய பிறகு அந்தக் கோயிலில் வீற்றிருக்கும் இறை சக்தியும் வணங்கித் தொழுத பக்தர்களோடு ஒன்றாக சேர்ந்து அந்த பக்தர்களின் நெஞ்சத்தையே தமக்கு விருப்பமான கோயிலாக ஆட்கொண்டு அங்கே வீற்றிருக்கும். கருத்து: ஆலயங்களுக்கு சென்று பக்தியால் போற்றி வணங்கித் தொழுது இறைவனை அடையும் சரியை எனும் முறை இதுவே ஆகும்.`,
-    elaborationEnglish: `Asat Parsprons, Oeor@muig) GointaGor. | 1446
+    elaborationEnglish: `Asat Parsprons, | 1446
 Ways of Those Who Follow the Four Paths
 
 They who follow path of Chariya are Bhaktas;
@@ -874,9 +868,8 @@ Jnana is the advanced path in ripeness of time,
 The adoration of the loving heart is Chariya,
 Exalted indeed it is.`,
     elaborationTamil: `கிரியையில் வெளிப்புறமாக செய்யப்படும் பூசைகளை எண்ணத்தால் யோகத்தில் செய்து தமக்குள் இருக்கும் அறிவை கிளர்ச்சி பெற்று எழுப்பும் உயர்வான ஞான பூசையாகும். அதனால் கிடைப்பதற்கு மிகவும் அரியதான சிவ பரம்பொருளின் உண்மை உருவமாக இருக்கின்ற உருவமே இல்லாத அரூப நிலையை அறிந்து கொள்ளும் பக்குவத்தை பெறலாம். அந்த பக்குவத்தில் தேர்ச்சி பெற்ற பூசைக்கு ஏற்றதாக இருப்பது இறைவன் மீது கொண்ட பேரன்பினால் செய்யப்படும் உயர்வான மானசீக பூசையே ஆகும்.`,
-    elaborationEnglish: `Nfanrcr Cusrgs HSS5T5S wrgmyld
-
-Ouran og55D Cuncerat Gurpsi`,
+    elaborationEnglish: `
+Ouran Cuncerat Gurpsi`,
   },
   {
     id: 1450, tantraId: 5, verseNumber: 1449,
@@ -897,9 +890,7 @@ That Nandi from the Golden City descending revealed
 For the doubting humanity to redeem.`,
     elaborationTamil: `இறைவனை அடைவதற்கான சரியை கிரியை யோகம் ஞானம் ஆகிய நான்கு விதமான வழிமுறைகளுக்கும் அவற்றை செய்வதற்கு தேவையான அறிவாகிய நான்கு விதமான ஞானங்களுக்கும் அந்த ஞானங்களின் விரிவாக இருக்கின்ற வேதத்தின் எல்லையாக இருக்கின்ற காபிலம் காணாதம் பாதஞ்சலம் அட்சபாதம் வியாசம் ஜைமினியம் ஆகிய ஆறு விதமான வழிமுறைகளுக்கும் சித்தத்தின் எல்லையாக இருக்கின்ற பைரவம் வாமம் காளாமுகம் மாவிரதம் பாசுபதம் சைவம் ஆகிய ஆறு விதமான வழிமுறைகளுக்கும் உண்மைப் பொருளாக இருக்கின்ற குருநாதனாகிய இறைவன் தம்மை அடையும் இந்த வழிமுறைகளை அறியாமல் மாயையில் சிக்கி சுழன்று கொண்டு இருக்கின்ற மனிதர்களை தான் வீற்றிருக்கும் தங்கம் போன்ற தில்லை சிற்றம்பலத்திற்குள் நுழைய வைத்து தம்மை வணங்கும் படி செய்து அவர்களை ஆட்கொள்கிறான். கருத்து: மாயையில் இருக்கின்ற மனிதர்களை சரியை முறையில் தான் வீற்றிருக்கும் கோயில்களுக்கு வரவைத்து தம்மை வணங்கும் படி செய்து அதன் பயனால் மாயையை நீக்கி ஞானத்தை கொடுத்து இறைவன் ஆட்கொள்கின்றான்.`,
     elaborationEnglish: `revealed
-For the doubting humanity to redeem.
-
-sqouuis AGer_wpbd aes HraesH`,
+For the doubting humanity to redeem.`,
   },
   {
     id: 1451, tantraId: 5, verseNumber: 1450,
@@ -927,7 +918,7 @@ worship is Visesa in Chariya. Nirvana Diksa in Chariya helps
 purify the kalas in Yoga, and the Abhiscka rite in Chariya
 is for Grace to be reached in Jnana.
 
-uss Hoosyid wgOu0G Mswioucuposr`,
+uss Hoosyid`,
   },
   {
     id: 1452, tantraId: 5, verseNumber: 1451,
@@ -1007,9 +998,9 @@ His Grace infinite.
 
 The simile of the cow and the calf to describe the relationship :
 between God and the individual is as old as the Atharva Veda.
-Qgiuchs ODssiriens west ovrbd srevevmid
+west ovrbd srevevmid
 
-Qgiucsl uray Geuwwiosh ulecs`,
+uray Geuwwiosh ulecs`,
   },
   {
     id: 1455, tantraId: 5, verseNumber: 1454,
@@ -1059,7 +1050,7 @@ Then blessed with grace takes to Yoga pure;
 And that way reaches the path of Jnana
 And in the end by Guru's grace becomes one with Siva.`,
     elaborationTamil: `பாடல் #1454 இல் உள்ளபடி பக்தியின் முறையை கடைபிடிக்கின்ற பக்தன் கிரியையும் சரியையும் முறைப்படி கற்று அதனை கடைபிடிப்பதையே குறிக்கோளாகக் கொண்டு செய்யும் போது இறைவனின் தூய்மையான அருளால் யோகம் கிடைக்கப் பெறும். அப்படி தமக்கு கிடைத்த மேன்மையான யோக வழியை குறிக்கோளாகக் கொண்டு ஒரு குற்றமும் இல்லாமல் செய்யும் போது அதன் பயனால் தமக்குள் உண்மை ஞானத்தை உணரலாம். அப்படி உணர்ந்த உண்மை ஞானத்தின் வழியாக சித்தம் தெளிவு பெற்று குருவாக இருக்கின்ற இறைவனின் அருளால் அவர் தமது சித்தம் சிவமாகவே ஆகி விடும்.`,
-    elaborationEnglish: `gpsnyper pCa Guompe Dsersacpeir`,
+    elaborationEnglish: ``,
   },
   {
     id: 1457, tantraId: 5, verseNumber: 1456,
@@ -1089,7 +1080,6 @@ bones.
 Samaya, Visesa, Nirvana, and Abhiseka are four ordinations
 in Kriya worship. also.
 
-7. Gwiretb
 
 YOGA
 
@@ -1116,9 +1106,7 @@ Lord His Grace grants.`,
     elaborationEnglish: `Yogis receive the Grace of the Lord when they course the
 kundalini through .the six centres, sitting immobile,
 unperturbed by tickle or thrust, concentrating on the single
-aim.
-
-ea PGar omnp woot s1@orrL tno`,
+aim.`,
   },
   {
     id: 1459, tantraId: 5, verseNumber: 1458,
@@ -1146,7 +1134,7 @@ a painted picture, cognises Him, who is all-pervasive, and
 immanent too within him. Then is the destruction of darkness,
 that is the seed of endless birth and rebirth.
 
-goeduidGure ocmipad curoritée`,
+ocmipad curoritée`,
   },
   {
     id: 1460, tantraId: 5, verseNumber: 1459,
@@ -1255,7 +1243,7 @@ Then shall you reach the World of Darkness
 Verily, Kundalini Fire that Yoga kindles in thee
 Is the Gracious Lord HimSelf.`,
     elaborationTamil: `யோகத்தை அசையாத மனதுடன் இடைவிடாது முறைப்படி கடைபிடித்து வந்தால் இனி பிறவி எடுக்காத நிலையை இந்த உலகத்திலேயே இறையருள் கொடுத்து விடும். அந்த இறை சக்தியை தமக்குள் தரிசித்தால் தம்முடைய ஆன்மாவோடு ஒன்றாக கலந்து உள்ளே வீற்றிருக்கும் அந்த சக்தியை அறிந்து கொள்ளலாம். அப்படி இறையோடு கலந்து இருக்கின்ற நிலையில் இருப்பதற்கு வெட்கப் பட்டுக் கொண்டு விலகி நின்றால் மனமானது ஐம்புலன்களின் வழியே ஆசைகளின் பின்னால் செல்லுகின்ற தவறான வழியையே கொடுக்கும். இறையோடு கலந்து இருக்கின்ற நிலையிலேயே வெட்கப் படாமல் தொடர்ந்து இருந்தால் உடலுக்குள் இருக்கின்ற மலங்களை சுட்டெரிக்கின்ற மூலாக்கினியாக இருக்கின்ற உத்தமனாகிய இறைவனாகவே தாமும் ஆகிவிடுவார்கள்.`,
-    elaborationEnglish: `Agsract Gsarset epout Ougenownud`,
+    elaborationEnglish: `Agsract epout Ougenownud`,
   },
   {
     id: 1465, tantraId: 5, verseNumber: 1464,
@@ -1277,17 +1265,15 @@ All redeemed adore Him
 Saying "You, Our Father!"`,
     elaborationTamil: `ஒன்றாக இருக்கும் செம்மையான கோலைப் போல வீற்றிருந்து அழிவு இல்லாத மாபெரும் தவத்தை புரிந்தவர்களில் எத்தனையோ ஆயிரம் பேர்கள் அதை தொடராமல் விட்டு விட்டதால் வீழ்ந்து போனவர்கள் என்று எண்ணிக்கை இல்லாமல் இருக்கின்றார்கள். அப்படி விட்டு விடாமல் தொடர்ந்து மாபெரும் தவத்தை புரிகின்றவர்களை சித்தர்களும் தேவர்களும் மும்மூர்த்திகளும் பெருமையுடன் எங்களின் அப்பனான இறைவன் இவனே என்று கூறி அவரோடு அன்பு கொண்டு இருப்பார்கள்.`,
     elaborationEnglish: `All redeemed adore Him
-Saying “You, Our Father!”’
+Saying “You, Our
 
 Monarchs and anchorites have fallen due to the pursuit of
 
-yoga in fickleness. But myriad siddhars, devas and the three
+yoga in fickleness. But siddhars, devas and the three
 
 Gods adore Him redeemed.
 
-HSS SEAM wo shoowwrs
-
-SISSO5 DL. sloowOQurct mridgergyer`,
+SEAM wo shoowwrs`,
   },
   {
     id: 1466, tantraId: 5, verseNumber: 1465,
@@ -1335,7 +1321,7 @@ ordinations in the graded stages of the Yoga path.
 
 8. Grol
 
-Grasher Hse swap pHormegl`,
+Grasher swap pHormegl`,
   },
   {
     id: 1468, tantraId: 5, verseNumber: 1467,
@@ -1405,7 +1391,7 @@ In Sivohamic I and You union
 Jiva shall himself Siva become.`,
     elaborationTamil: `தாம் சார்ந்து இருக்கின்ற உலகமும் அதில் நிகழ்கின்ற அனைத்தும் தமக்கு இறைவன் கொடுத்த அருள் என்று எடுத்துக் கொள்வதும் தம் மேல் கொண்ட அன்பினால் தமக்கு இறைவன் கொடுக்கின்ற அருளாகவே அனைத்தும் நிகழ்வதும் அதை நிகழ்த்துபவனாகவும் இறைவனே இருக்கின்றான் என்று ஞானிகள் கூறுவார்கள். இந்த ஞானிகளே இறையருளால் ஞானமும் பெற்று சிவத்தை அறியும் யோகமும் பெற்று இனிமையான பாலைப் போல இறைவனோடு அவர்கள் கொண்ட தூய்மையான அன்பினால் பேரின்பத்தையும் பெற்று இருக்கின்றார்கள்.`,
     elaborationEnglish: `The different stages of attainment through Jnana are: jiva
-sojourning in the Lord’s world, dwelling in Lord's proximity,
+sojourning in the Lord’s world, in Lord's proximity,
 receiving the Lord’s Grace (form), and ultimately attaining
 union in Him.`,
   },
@@ -1431,11 +1417,9 @@ The pure Jnana, free of doubt.`,
 universe his kith and kin, and all contending faiths as one.
 He is truly the realised one.
 
-AMayid A FHpwW Yorywbd 21 Gor
+A Yorywbd 21 Gor
 
-Opwr Bstwcisyid Cugg onrencir
-
-Sdys Gmrlpa Gosapod Gms`,
+Opwr Cugg onrencir`,
   },
   {
     id: 1472, tantraId: 5, verseNumber: 1471,
@@ -1500,9 +1484,9 @@ the divine light. Jnana embraces all the four paths — Chariya,
 Kriya, Yoga and Jnana, and the jnani attains all the four stages
 they bring in.
 
-Guonehsé AHowQurermm mimiper CGurhsgi
+Guonehsé mimiper
 
-Guoehlin anges DSS aeons HOH`,
+Guoehlin anges aeons HOH`,
   },
   {
     id: 1474, tantraId: 5, verseNumber: 1473,
@@ -1543,9 +1527,9 @@ Kriya-in-Jnana is to seek the liberation by good.`,
 visualising the light of Nadanta is Yoga in Jnana; and Knya
 in Jnana is the search for liberation.
 
-panchu crors Hon EHronnS) pos gy Gouri
+panchu crors Hon pos gy Gouri
 
-scuchwu Cwm sooreirert sosrG) Gomes`,
+scuchwu sooreirert Gomes`,
   },
   {
     id: 1476, tantraId: 5, verseNumber: 1475,
@@ -1572,7 +1556,7 @@ He has reached the farthest shores of Truth;
 
 He is the Immaculate, Siddha, Siva-Mukta.
 
-Greré snwGw GOs Soncmsarosrov
+Greré Soncmsarosrov
 
 Gronhit curcet Gu BoM) auresrcaper`,
   },
@@ -1593,7 +1577,7 @@ Visesha, the search for the Divine;
 Nirvana for the descent of Lord's Grace;
 Abhisheka for the attainment of Divine Guru's Holy Feet.`,
     elaborationTamil: `ஞானமானது சமயம் எனப்படுகின்ற சரியையில் முழுமையாக இருப்பது வெளியில் தேடி செல்லுகின்ற இறைவனை தனக்குள் கண்டு உணர்வது ஆகும். ஞானமானது விசேடம் எனப்படுகின்ற கிரியையில் முழுமையாக இருப்பது தாம் தேடுகின்ற பரம் பொருளாகிய இறைவன் தமக்குள்ளேயே ஞானமாக உருவாகுவது ஆகும். ஞானமானது நிர்வாணம் எனப்படுகின்ற யோகத்தில் முழுமையாக இருப்பது நன்மையை கொடுக்கின்ற நெறிகளாக இருக்கின்ற இறைவனின் அருளை பரிபூரணமாக பெறுவது ஆகும். ஞானமானது அபிடேகம் எனப்படுகின்ற ஞானத்தில் முழுமையாக இருப்பது நன்மையே வடிவாக குருநாதனாக இருக்கின்ற இறைவனின் திருவடிகளே ஆகும்.`,
-    elaborationEnglish: `‘Carin somet «GDF HLhaomr@®
+    elaborationEnglish: `‘Carin somet
 
 Ghd opis AuGurs Assomis`,
   },
@@ -1618,7 +1602,7 @@ Knew meaning inner of Sanmarga.`,
     elaborationTamil: `எடுத்து சொல்லப் படுகின்ற உண்மையான வழியாக இருப்பது தாமே சிவமாக இருக்கின்ற தத்துவம் ஆகும். பல விதமாக காணுகின்ற அனைத்து தோற்றங்களாக இருக்கின்ற சத்தமும் வெளிச்சமுமாக இருக்கின்ற இறை தத்துவத்தை தமக்குள்ளே கண்டு உணர்ந்து அதன் பயனால் காமம் குரோதம் லோபம் மதம் மாச்சரியம் ஆகிய அனைத்தும் அழிந்து போய் சிவ யோகத்தையே சித்தமாக கொண்டு இருப்பவர்களாகி இறப்பு என்கின்ற ஒன்றை வென்று விட்டவர்களே இந்த சன் மார்க்கம் என்று சொல்லப் படுகின்ற இறை தத்துவத்தின் பொருளை அறிந்தவர்கள் ஆவார்கள்.`,
     elaborationEnglish: `aru Qupgemos sofer wares
 
-Oguas Aus) soronitsaes Crtbgw`,
+Oguas Aus) soronitsaes`,
   },
   {
     id: 1479, tantraId: 5, verseNumber: 1478,
@@ -1641,7 +1625,7 @@ And for ever be free.`,
     elaborationTamil: `சைவம் எனும் வழிமுறைக்கு பெருமையளிக்கும் தனிப் பெரும் தலைவனாகவும் குருநாதராகவும் நிற்கின்ற இறைவன் ஆன்மாக்கள் மேல் நிலையை அடைவதற்கு அவரவரது பக்குவத்திற்கு ஏற்றபடி கொடுத்து அருளிய குரு வழி முறை ஒன்று இருக்கின்றது. அதுவே தெய்வ அம்சமாகிய சிவத்தை அடைகின்ற வழி முறை ஆகும். அதனுடன் உண்மை வழியாகிய தாமும் பார்க்கின்ற பொருளும் அந்த இறைவனாகவே இருக்கின்ற தத்துவமும் சேர்ந்து மேல் நிலையை அடைவதற்காக உலகத்தில் உள்ள அனைத்து உயிர்களுக்கும் அதனதன் பக்குவத்திற்கு ஏற்றபடி கொடுத்து வைத்து அருளுகின்றான் குரு நாதனாக நிற்கின்ற இறைவன்.`,
     elaborationEnglish: `Same as Mantra 1567 infra.
 
-GGuEH Osujyjs Guwus Cemises`,
+Osujyjs Guwus Cemises`,
   },
   {
     id: 1480, tantraId: 5, verseNumber: 1479,
@@ -1667,10 +1651,10 @@ That to liberation leads.`,
 They indeed walk the Sanmarga path
 That to liberation leads.
 
-OsehanD) wrant Aoucncr wwe
+wrant Aoucncr
 Osean wrsnt Fos woreor
 
-Asad wrsnt Slows wrt_tonr`,
+Asad wrsnt Slows`,
   },
   {
     id: 1481, tantraId: 5, verseNumber: 1480,
@@ -1698,7 +1682,7 @@ the state of ‘2 and “You’ digference and savouring the divine
 bliss.
 
 sro ons sroncbsr weer Olenm
-Berle ero WSuler Boruups`,
+Berle ero Boruups`,
   },
   {
     id: 1482, tantraId: 5, verseNumber: 1481,
@@ -1720,10 +1704,10 @@ You shall joy of the Bliss Divine;
 Verily, then by Sanmarga Path
 You become He indeed .`,
     elaborationTamil: `குருவருளால் தெளிவு பெற்றவர்கள் தாம் சிவமாகவே ஆகுவதும் தம்மிடம் இருக்கின்ற ஆணவம் கன்மம் மாயை மாயேயம் திரோதாயி ஆகிய ஐந்து விதமான மலங்களையும் அழிப்பதும் மௌனம் என்று சொல்லப்படுகின்ற உச்ச நிலையில் எண்ணங்கள் அனைத்தையும் அழித்து முக்தி நிலை பெற்றவராக ஆகுவதும் ஒரு குறையும் இல்லாத பேரறிவு ஞானத்தை தமது அனுபவித்தில் உணர்ந்து அதில் பேரின்பம் பெறுவதும் தாமே சிவமாக ஆகி தான் எனும் எண்ணமே இல்லாமல் இருப்பதும் ஆகிய இவை அனைத்துமே உண்மையான வழிகளாகும். ஐந்து விதமான மலங்கள் ஆணவம் – செருக்கு, மமதை கன்மம் – வினைப் பயன் மாயை – பொய்யான தோற்றம் மாயேயம் – அசுத்த மாயை திரோதாயி – உண்மையை மறைத்தல்`,
-    elaborationEnglish: `The voice of silence or mauna is what Pythagoras called
+    elaborationEnglish: `The voice of silence or mauna is what called
 the “harmony of the spheres,’’ — beyond words and forms
 — the experience of the infinite within us. Vide “‘Foundations
-of Tibetan Mysticism,’’ by Lama Angarika Govinda, Part I.`,
+of Tibetan by Lama Angarika Govinda, Part I.`,
   },
   {
     id: 1483, tantraId: 5, verseNumber: 1482,
@@ -1745,8 +1729,7 @@ To whatsoever path you do incline.`,
     elaborationEnglish: `The face of the Sanmargi.is the pedestal of Sakti; the place
 of the Sanmargi is the seat of God. Whatever path may be
 followed, to see assemblages of Sanmargis is to see the Lord.
-Oerortss srgorb Guegsursarwihln ew
-gicmrmssb ML gus gMenprt`,
+Oerortss srgorb Guegsursarwihln ew`,
   },
   {
     id: 1484, tantraId: 5, verseNumber: 1483,
@@ -1793,7 +1776,7 @@ As Guiding Word scriptures proclaim.`,
     elaborationEnglish: `of themselves. It is the sole path, the True Path which
 scriptures enjoin for uniting in Siva.
 
-Yoroflur efrenipi GugrS Gusips`,
+Yoroflur efrenipi Gusips`,
   },
   {
     id: 1486, tantraId: 5, verseNumber: 1485,
@@ -1815,9 +1798,9 @@ The million, million mutations that pervade the universe,
 They who see them all and their own Selves
 Verily are they the Sanmargis true.`,
     elaborationTamil: `தனக்கு வேறாகவும் தன்னை அடிமைப்படுத்தியும் தன்னுள் அடங்கியும் இருக்கின்ற பாசத்தையும் அதற்கு காரணமாகும் கர்மத்தையும் அந்த கர்மத்தின் பயனால் அனுபவிக்கின்ற அனைத்து வாழ்க்கை அனுவங்களையும் அந்த அனுபங்களுக்கு மூலமாக இருக்கின்ற ஆசைகளையும் அதனோடு பின்னிப் பிணைந்து இருக்கின்ற பாசக் கட்டுகளையும் அதனோடு சேர்ந்து இருக்காமல் விலகி இருக்கின்ற ஆன்மாவையும் ஆதியில் முதன் முதலில் அந்த ஆன்மா இறைவனை விட்டுப் பிரிந்து வந்த காரணத்தையும் தமக்கு உள்ளும் வெளியிலும் கண்டு அறிந்து கொண்டவர்களே உண்மையான வழியை கடை பிடிப்பவர்கள் ஆவார்கள்.`,
-    elaborationEnglish: `usure 668 uGuyio mys
+    elaborationEnglish: `usure 668 uGuyio
 
-peoscrer Heerenw wrest wmrrssGw. 148
+peoscrer Heerenw wrest 148
 
 Sanmarga Leads to Svarupa State
 
@@ -1833,8 +1816,8 @@ Sanmarga verily gives Jiva
 
 The rest that knows no commotion ever.
 
-Litéaercr wunréHacr Gi. wGiugys"
-wiitsaeecr wirissGw weno Gpmreiplevenw`,
+Litéaercr wunréHacr Gi.
+wiitsaeecr weno`,
   },
   {
     id: 1487, tantraId: 5, verseNumber: 1486,
@@ -1874,8 +1857,8 @@ Than this path to the One;
 They that straight reach it not,
 Through Yoga's Path may yet climb.`,
     elaborationTamil: `தாமும் பார்க்கின்ற பொருளும் சிவமாகவே இருப்பதை உணர்கின்ற வழியாகிய உண்மை வழி முறையை கடைபிடிப்பவர்கள் முறைப்படி கட்டமைத்து வகுத்து வைத்த நெறி முறைகள் அல்லாமல் வேறு ஒரு வழி முறைகளும் இல்லை. உண்மை வழி முறை என்று சொல்லப்படும் அந்த நெறி முறைகளை வகுத்து வைத்த முறைப்படி தவறாமல் காத்து கடை பிடிப்பவர்களுக்கு எண்ணத்தை எல்லாம் சிவப் பரம்பொருளின் மேல் வைத்து செய்கின்ற மிகவும் உயர்ந்த யோகமாக அந்த உண்மை வழியே இருக்கின்றது.`,
-    elaborationEnglish: `FHM GIG FHoTTss worrorgy
-Uemwortss wroagy Cures InsDns`,
+    elaborationEnglish: `GIG worrorgy
+Uemwortss wroagy Cures`,
   },
   {
     id: 1489, tantraId: 5, verseNumber: 1488,
@@ -1895,9 +1878,9 @@ Involving myriad birth and death
 But eventually landing in Jnana Finite.`,
     elaborationTamil: `உண்மை வழியில் ஞானம் பெற்ற சாதகர்களுக்கு தானாகவே இறைவன் தோழமையுடன் வழிகாட்டும் நெறி முறையாக சக மார்கம் [தோழமை வழிமுறை] இருக்கின்றது. இதுவே எப்போதும் நிலைத்து நிற்கின்ற வழியாக இருந்து முக்தி பேறு அடைவதற்கும் நினைப்பதை எல்லாம் செயல்பட வைப்பது ஆகவும் இருக்கின்றது. இதற்கு நேர் எதிரான வழியில் செல்பவர்கள் இடைவிடாமல் பிறவி எடுத்து இறந்து மீண்டும் மீண்டும் மனம் செல்லுகின்ற வழியில் செல்லும் போதும் இறைவன் தோழமையுடன் மறைந்து இருந்து ஒரு காலத்தில் உண்மை ஞானம் உறுதியாக கிடைக்கும் படி அருளுவார். கருத்து: உண்மை வழியில் ஞானம் பெற்றவர்களுக்கு இறைவன் தோழமையாக அருகிலேயே இருந்து நினைப்பது அனைத்தையும் செயல் படுத்துகின்றார். எந்த வழிமுறையையும் பின் பற்றாமல் மனம் போன போக்கில் வாழ்ந்து இறந்து மீண்டும் மீண்டும் பிறவி எடுத்தாலும் இறைவன் தோழமையாக மறைந்து இருந்து வழிகாட்டி ஒரு காலத்தில் ஞானம் பெறும் படி அருளுவார்.`,
     elaborationEnglish: `boys gense wuntéeiled corgmt
-SG Ames Fwwipw gato
+SG Ames gato
 
-OaGgys Dgwser Ge grma wired`,
+OaGgys Ge grma wired`,
   },
   {
     id: 1490, tantraId: 5, verseNumber: 1489,
@@ -1943,9 +1926,7 @@ of yoga samadhi. The immortal yogi can enjoy bhoga which
 
 confers earthly blessings, and yoga which can confer
 
-Siva-Form on him.
-
-Gursd yan ygrrtss ASOw`,
+Siva-Form on him.`,
   },
   {
     id: 1492, tantraId: 5, verseNumber: 1491,
@@ -1963,7 +1944,7 @@ Through yoga is attained Siva's Form divine;
 Through bhoga all earthly blessings;
 Thus may he enjoy both-he, Yogi immortal.`,
     elaborationTamil: `யோகமும் அதனால் கிடைக்கின்ற பேரின்பமும் யோக சாதனை புரிகின்ற யோகியர்களுக்கே அவர்களின் தகுதிக்கு ஏற்றவாறு கிடைக்கும். யோகத்தில் இறைவனின் ஒளி உருவத்தை தமக்குள்ளே தரிசிக்கின்ற யோகியர்களின் உள்ளத்திற்குள் என்றும் இடைவிடாத இறை சிந்தனையாக இருக்கின்ற ஒரு யோகமே இந்த உலகத்தில் இருக்கின்ற யோகியர்களின் ஆன்மாவிற்கு ஆதியாகிய பரமாத்மாவின் அருள் சக்தியாக கிடைக்கும். அந்த அருள் சக்தியால் உடல் மனம் ஆகிய இரண்டும் என்றும் அழியாமல் இருக்கின்ற நிலையை யோகியர்கள் பெறுவார்கள்.`,
-    elaborationEnglish: `4507 Gersaor wreiry. &59)K0r
+    elaborationEnglish: `4507 Gersaor wreiry.
 
 Gurgr aussi yoorsg oorlby 5)`,
   },
@@ -1995,9 +1976,7 @@ and subdues the five contentious senses with the sharp
 sword of steadfastness, merges in, the consciousness of
 the Lord whom the eighteen heavenly hosts seek.
 
-Dos AA Acipmo gHenguyld Nesronow
-
-SoTbDUD Oo Ge SHG QGaucr`,
+Dos AA Acipmo gHenguyld Nesronow`,
   },
   {
     id: 1494, tantraId: 5, verseNumber: 1493,
@@ -2016,7 +1995,7 @@ In his thought emerges Lord
 Whom the eighteen Ganas seek;
 Verily, the yogi deserves our obeisance.`,
     elaborationTamil: `தமது ஆன்மாவோடு ஒன்றாக பிணைந்து தோழமையுடன் நிற்கின்ற எமது தந்தையாகிய இறைவனை அறிந்து கொள்ளாமல் இருக்கின்ற உயிரும் அந்த உயிரை வருத்தக் கூடிய கர்மங்களையும் உயிரின் நுண்ணியமான மனம் என்கின்ற கூர்மையான வாளைக் கொண்டு தமது அருளால் அறுத்து எறிகின்றான் இறைவன். பதினெட்டு வகையான தேவ கணங்களாலும் எப்போதும் எண்ணப் படுகின்ற ஒருவனாகிய இறைவனை தமக்குள்ளேயே அறிந்து வணங்கும் வல்லமை பெற்ற சாதகரின் சிந்தைக்குள் அந்த இறைவன் தோழமையுடன் வந்து நின்று அருளுகின்றான். 18 விதமான தேவ கணங்கள்: சுரர் – உலக இயக்கத்திற்கு உதவும் தேவ லோகத்து தேவர்கள். சித்தர் – இறை நிலையில் இருப்பவர்கள். அசுரர் – அசுரர்கள். தைத்தியர் – அரசுரர்களில் ஒரு பிரிவினரான தானவர்கள். கருடர் – கருடர்கள். கின்னரர் – நடனம் ஆடுவதில் வல்லவர்கள். நிருதர் – அரக்கர்கள். கிம்புருடர் – யாளி என்று அழைக்கப்படும் சிங்க முகமும் மனித உருவமும் கொண்ட கணங்கள். காந்தர்வர் – கந்தவர்கள் (தேவர்களுக்கு அடுத்த நிலை). இயக்கர் – யட்சர்கள். விஞ்சையர் – கலைகளில் பெரும் ஞானம் உடையவர்கள். பூதர் – சிவனுக்கு சேவர்களாக இருக்கும் பூத கணங்கள். பிசாசர் – கொடூரமான கோபக் குணத்துடன் வடிவமற்றவர்கள். அந்தரர் – சுவர்க்க லோகத்தில் இருக்கும் தேவர்கள். யோகர் – ரிஷிகளும் முனிவர்களும். உரகர் – நாகர்கள். ஆகாய வாசர் – விண்ணுலக வாசிகள். விண்மீன் நிறைகணம் – நட்சத்திர மண்டலங்களில் நிறைந்திருக்கும் கணங்கள்.`,
-    elaborationEnglish: `cormach Quréaen uarblns srrs@wd`,
+    elaborationEnglish: `cormach Quréaen uarblns`,
   },
   {
     id: 1495, tantraId: 5, verseNumber: 1494,
@@ -2040,7 +2019,7 @@ Unto a rich fruit mature.`,
     elaborationEnglish: `Loving hearts can taste the sweetness of divine’ rapture and
 the Lord reveals Himself as a fully ripened fruit.
 
-Hou Ayoub Wap FHorisas`,
+Hou Ayoub Wap`,
   },
   {
     id: 1496, tantraId: 5, verseNumber: 1495,
@@ -2063,14 +2042,14 @@ Indeed is consummation of Sanmarga Path.`,
 
 The path of filial piety, through Yoga (Saha marga) leads
 to Jnana, which consummates the Sanmarga path. Performing
-pjas, reading the holy scriptures, praising the Lord, chanting
+reading the holy scriptures, praising the Lord, chanting
 His Holy Name, practicing tapas, being truthful, bearing no
 malice — these constitute the path of filial piety or Kriya.
 
 Mular refers to Kriya (Rituals) as Satputra Marga (or the path
 of “‘pious son’’).
 
-GpASSL Lorenpb bash Oewsormit`,
+Lorenpb bash Oewsormit`,
   },
   {
     id: 1497, tantraId: 5, verseNumber: 1496,
@@ -2091,7 +2070,7 @@ Thyself to cook the offering for Lord with loving care
 These and other acts of reverence
 Constitute Pure Path of Filial Piety.`,
     elaborationTamil: `இறைவனை உண்மையான தந்தையாக பாவித்து அவருக்கு பூஜை செய்தல், மந்திரங்களை பாடுதல், போற்றி வணங்குதல், தரிசனம் செய்தல், குற்றம் இல்லாத நன்மையான தவத்தை மேற்கொள்ளுதல், உண்மையே பேசுதல், அழுக்கு இல்லாமல் சுற்றுப் புறத்தையும் தம்மையும் சுத்தமாக வைத்தல், அன்போடு சமைத்து வைத்த உணவை நைவேத்யமாக படைத்தல், நீரினால் சுத்தம் செய்து சமர்ப்பணம் செய்தல் ஆகிய இவை அனைத்தையும் தாம் செய்கின்றோம் என்கின்ற எண்ணம் இல்லாமல் இருந்து செய்வதே இறைவனின் பிள்ளையாக தன்னை பாவித்து அவனை அடைகின்ற வழி முறை ஆகும்.`,
-    elaborationEnglish: `GIST BHiwert Oasnuicuct Hci HGF`,
+    elaborationEnglish: `GIST Oasnuicuct`,
   },
   {
     id: 1498, tantraId: 5, verseNumber: 1497,
@@ -2110,8 +2089,7 @@ They all, all, seek flowers fragrant;
 Yet, you who have beheld all this,
 Adore not the Lord with flowers for a while even.`,
     elaborationTamil: `ஆறு கால்களைக் கொண்ட தேனீக்கள் தேனுள்ள மகரந்த மலர்களை ஆராய்ந்து தேடி அலைந்து தேனை சேகரிப்பதையும் இன்னொரு வகையில் வெள்ளை நிறத்தில் உள்ள அன்னப் பறவைகள் தாமரை மலர்களையும் நீலோற்பல மலர்களையும் தேடிச் சென்று அதன் தண்டுகளில் இருக்கும் பாலை சேகரிப்பதையும் இறைவனின் அடியவர்கள் நறுமணம் மிக்க மலர்களை கொய்து மாலையாக கோர்த்து இறைவனுக்கு சாற்றி வணங்கி அருளை சேகரிப்பதையும் பார்த்தும் சிறுது காலம் கூட தமக்கு தந்தை போல அரனாக இருக்கின்ற இறைவனின் அருளைப் பெறும் வழியில் செல்லாமல் இருக்கின்றார்கள்.`,
-    elaborationEnglish: `AGUIOT wT HAsuuy Hypo
-
+    elaborationEnglish: `
 aguacns Guisimm wergywits Gacvovmbd`,
   },
   {
@@ -2141,8 +2119,7 @@ The Lord is truly the Ultimate Goal, who with His Feet and
 His commandments pervades the seven worlds alike. Adoring
 Him in diverse ways, He becomes your own.
 
-Owes segs Caupenp Oeuhlesr
-LWpglb Une uwergy oumgLb`,
+Owes segs Caupenp Oeuhlesr`,
   },
   {
     id: 1500, tantraId: 5, verseNumber: 1499,
@@ -2161,7 +2138,7 @@ That shall your birth's fulfilment be;
 In trembling love do adore Him;
 He, indeed, shall be beloved unto you.`,
     elaborationTamil: `ஒழுக்கத்தில் உயர்ந்து நின்றும் இறைவனின் திருவடிகளை பணிந்து தொழுதும் அவனுக்கு செய்கின்ற பணிவிடைகளை விரும்பி செய்தும் இறைவனின் திருவுருவத்தை தழுவிக் கொண்டும் அதனால் கிடைக்கின்ற இறையனுபவத்தால் வியப்படைந்தும் இறைவனின் திருவடிகளுக்கு தமது கைகளால் தொண்டுகளை செய்தால் அந்த தொண்டே தாம் எடுத்த பிறவிக்கு கிடைக்கின்ற மிகப் பெரும் பயனாக இருக்கும். அப்படி கிடைத்த அருளினால் இறைவனை தந்தையாக பாவித்து தொடர்ந்து அந்த தொண்டுகளை செய்து கொண்டே வந்தால் தந்தையாக இருந்து அதை செய்ய வைக்கின்ற இறைவனே அதனால் கிடைக்கின்ற அனைத்து நன்மையாகவும் இருக்கின்றான்.`,
-    elaborationEnglish: `gag werges Osraupler OsrupsGsrgie`,
+    elaborationEnglish: `gag werges Osraupler`,
   },
   {
     id: 1501, tantraId: 5, verseNumber: 1500,
@@ -2190,7 +2167,7 @@ and He shall reveal Himself. The more you adore Him, the.
 more He reveals Himself. To this Kriya path, that exalts and
 showers countless blessings, the Chariya path leads.
 
-Doveae, sHYyYsS Howntsse slonw`,
+Doveae, Howntsse slonw`,
   },
   {
     id: 1502, tantraId: 5, verseNumber: 1501,
@@ -2244,7 +2221,7 @@ Marga.
 
 “Dasa means servant.
 
-Qian Qwucrmm HeomeE Fler Moron`,
+Qian Fler Moron`,
   },
   {
     id: 1504, tantraId: 5, verseNumber: 1503,
@@ -2276,7 +2253,7 @@ the King of Kings; all doubts will vanish. All worship by yogis
 on to the sun nadi on the right) — and worship by the celestial
 beings commenced in Dasa Marga.
 
-AKA Uucr Dis osordeny GHTUdg`,
+AKA Uucr Dis osordeny`,
   },
   {
     id: 1505, tantraId: 5, verseNumber: 1504,
@@ -2298,7 +2275,7 @@ Daily to Lord offer,
 All these but begin
 In the Path of Chariya ultimate.`,
     elaborationTamil: `காலையிலும் மாலையிலும் மனதாலும் அதன் பிறகு அதற்கு ஏற்றபடி உடலாலும் வழிபாடு செய்து சிந்தித்துக் கொண்டே இருப்பேன். எப்போதும் எமக்கு எஜமானராக இருக்கின்ற ஒருவனையும் நினைப்பதை அருளுபவனுமாகிய அவனின் திருவடிகளை போற்றி வணங்குவேன். வானவர்களுக்கு எல்லாம் அதிபதியாக இருக்கின்ற இறைவனை தினம் தோறும் இவ்வாறு நான் போற்றி வணங்குவது எல்லாமே இறைவனை எஜமானராகவும் எம்மை அடியவராகவும் பாவிக்கின்ற வழி முறைப் படியே ஆகும்.`,
-    elaborationEnglish: `sororo Oercrn) SHS WATs_Gui`,
+    elaborationEnglish: `sororo Oercrn) SHS`,
   },
   {
     id: 1506, tantraId: 5, verseNumber: 1505,
@@ -2320,9 +2297,7 @@ adore Him in the abidin® rapture of their hearts. What is
 the use of reading holy works and conducting pujas, when
 the heart is obfuscated by darkness and overspread with the
 moss of ignorance. Unless the heart is rid of all these
-impurities, God, the Supreme Light, cannot be visioned.
-
-anflggib UPsgidburoewt OarwGr Gu`,
+impurities, God, the Supreme Light, cannot be visioned.`,
   },
   {
     id: 1507, tantraId: 5, verseNumber: 1506,
@@ -2373,7 +2348,7 @@ Sarupa and Sayujya reached from Chariya in gradation, finally
 “end with Para of Infinite Space (Sayujya), beyond which there
 is no state.
 
-*Saloka’, ‘Samipa’, “Sarupa’ and Sayujya’ mean respectively
+‘Samipa’, “Sarupa’ and Sayujya’ mean respectively
 
 “Being in the same world as the Lord’, Being with Him
 continually’. ‘adopting His Form’, and ‘United with Him’.
@@ -2454,7 +2429,7 @@ Mular explains that mere practice of yoga without ‘Sanmarga’
 (worshipful faith and good conduct) will only produce Siddhis
 (Powers) but will not lead to Liberation.
 
-uddgys GGAe UByss Guns`,
+uddgys Guns`,
   },
   {
     id: 1512, tantraId: 5, verseNumber: 1511,
@@ -2502,7 +2477,7 @@ The inextricable union in Sayujya.`,
     elaborationTamil: `சைவம் என்று அறியப்படுகின்ற தர்மத்தில் இறைவனுடன் நெருங்கிய உறவினர் போல தாமும் ஆவது சாலோகம் எனும் முதல் நிலையாகும். இந்த நிலையை அடைவதற்கு அந்த வழி முறையின் மூலம் இறைவனை அறிந்து கொண்டு இறைவனை மிகவும் நெருங்கி அவரையே சார்ந்து இருப்பது சாமீபம் எனும் இரண்டாவது நிலையாகும். அந்த தர்மத்திலேயே சிவப் பரம்பொருளை அறிந்து அடைந்த பிறகு தாம் எனும் எண்ணத்தை சார்ந்து இருப்பதை நீக்கி விட்டு தாமே சிவமாக இருப்பதை உணர்ந்து சிவ உருவத்திலேயே இருப்பது சாரூபம் எனும் மூன்றாவது நிலையாகும். அந்த தர்மத்தின் பயனால் சிவப் பரம்பொருளின் மேலான பேரின்பத்தை பெற்று அதிலேயே மூழ்கி இறைவனுடனே எப்போதும் சேர்ந்தே இருப்பது சாயுச்சியம் எனும் நான்காவது நிலையாகும்.`,
     elaborationEnglish: `believe in this marga””. (N.N. Bhattacharyya in “‘History of
 
-sre Fuga wise wpycderés`,
+sre Fuga wise`,
   },
   {
     id: 1514, tantraId: 5, verseNumber: 1513,
@@ -2531,8 +2506,7 @@ Himself, experiencing the infinite power of inward bliss.
 
 17. $9 Hursw
 
-QGorrap epanw WGSS Hypa
-GGLuomet $SHE Gombus sity`,
+$SHE Gombus sity`,
   },
   {
     id: 1515, tantraId: 5, verseNumber: 1514,
@@ -2562,9 +2536,7 @@ and in marriage took him to Her bosom. Meditation on the
 Primal source. from where sprang the delusive senses, grants
 
 Her vision. Those who are given this clear vision are truly
-in the infinite ground of Sakti of the highest seeking.
-
-Csbys carer Qgsafcus) UTTEL_ GSH`,
+in the infinite ground of Sakti of the highest seeking.`,
   },
   {
     id: 1516, tantraId: 5, verseNumber: 1515,
@@ -2585,7 +2557,7 @@ They that have been given the clear vision, nectar sweet,
 Are verily the Infinite Ground
 Of Sakti's highest seeking.`,
     elaborationTamil: `நல்ல சுவையோடு இனிமையான தண்ணீரானது எந்த திசையில் இருக்கின்றது என்பதை சிந்தித்து பார்த்தால் மேலிருந்த வருகின்ற ஆற்றுத் தண்ணீராகவே அதை அறிந்தவர்களுக்கு நல்ல நீராக அதுவே நிற்கும். அப்போது சேர்ந்து இருக்கின்ற ஆற்றுத் தண்ணீராகிய கிணற்றில் சேமித்து வைக்கும் முறை அறிந்தவர்களுக்கு ஓடுகின்ற ஆற்றுத் தண்ணீரினால் பயிர்களுக்கு நீர்ப்பாசனம் செய்து விவசாய நிலத்தில் பயிர்களை வளர்க்கும் முறை அதுவாகும். கருத்து விளக்கம்: மூலாதார அக்னியில் இருக்கின்ற அமிழ்தமானது எந்த திசையில் இருக்கின்றது என்பதை சிந்தித்து பார்த்தால் சகஸ்ரதளத்தில் இருந்து வருகின்ற அமிழ்த நீராகவே அதை அறிந்தவர்களுக்கு நன்மை தரும் அமிழ்தமாக அதுவே நிற்கும். அப்போது சகஸ்ரதளத்திலிருந்து இறங்கி வந்து அன்னாக்கில் தங்கி இருக்கின்ற அமிழ்தமாகிய ஞானத்தை தெளிவாக அறிந்து உணர்ந்தவர்களுக்கு அன்னாக்கிலிருந்து உடல் முழுவதும் பரவுகின்ற அமிழ்த நீரினால் உடலுக்கு சக்தியும் பேரின்பமும் கொடுத்து ஞானத்தை வளர்க்கின்ற முறை அதுவாகும்.`,
-    elaborationEnglish: `Qonssh aoc Wma ash`,
+    elaborationEnglish: `Qonssh aoc ash`,
   },
   {
     id: 1517, tantraId: 5, verseNumber: 1516,
@@ -2610,9 +2582,7 @@ From Impurity's obscuration.`,
 aids it to land on the banks of Truth’s bliss and to attain
 liberation. The presence of Lord Nandi and the Lady of Grace
 pierces and illumints the bewildering ignorance that engulfs
-the jiva im thick gloom.
-
-Qo poo Qosss sryH`,
+the jiva im thick gloom.`,
   },
   {
     id: 1518, tantraId: 5, verseNumber: 1517,
@@ -2667,7 +2637,7 @@ the Sakti’s Grace makes the jiva forget the filthy waters of
 Virgin's lust; for, the Holy Virgin's waters of Grace snap the
 eyele of births.
 
-saPS giopuyh STW gL aut`,
+giopuyh STW gL aut`,
   },
   {
     id: 1520, tantraId: 5, verseNumber: 1519,
@@ -2716,8 +2686,8 @@ will make the jiva feel the might of His sinewy arms.
 
 The ‘significance of attributing different colours to Siva’s form
 is explained here.
-awww sromact ahgeer wrudeys
-asugs sais sofher wa@uerut`,
+sromact ahgeer wrudeys
+asugs sais sofher`,
   },
   {
     id: 1522, tantraId: 5, verseNumber: 1521,
@@ -2738,7 +2708,6 @@ Of labour readily rewarded.`,
     elaborationTamil: `சாதகர்கள் இறைவனை எந்த வடிவத்திலும் எந்த தன்மையிலும் தாம் எடுத்துக் கொண்ட எந்த சாதகத்தின் மூலமாகவும் சாதகம் செய்து வழிபடுகின்ற காலங்கள் எத்தனை எத்தனை வருடங்களாக இருந்தாலும் ஒன்றோடு ஒன்று தைப்பது போல பிண்ணிப் பிணைந்து இருக்கின்ற இறைவியும் இறைவனும் சாதகர்கள் வணங்கக் கூடிய அனைத்து வடிவத்திற்கும் அனைத்து தன்மைக்கும் ஒரே தலைவராக இருக்கின்றார் என்பதை தமக்குள் உணர்ந்தவர்கள் சொல்லுவார்கள். ஆகவே தினந்தோறும் சூரிய உதயத்திற்கு முன்பே எழுந்து எந்த வடிவத்திலும் எந்த தன்மையிலும் இறைவனை வணங்குகின்ற சாதகர்களுக்கு அவர்களின் கைகளினால் சாதகங்கள் செய்த வழிபாட்டிற்கு அவர்களின் கையில் இருக்கின்ற ரேகைகள் போலவே உடனுக்குடன் பலன்களை தருபவனாக இறைவன் இருக்கின்றான்.`,
     elaborationEnglish: `Mantras 152] & 1522
 
-TANTRA FIVE ; 237
 
 Siva and Sakti are one and the same. So praise Him in devotion ,
 daily. He is truly the unfailing proof. Beholding the vision
@@ -2793,7 +2762,7 @@ of the heavenly Bride-Groom, destroys the very seeds of birth.
 Devotion to’her grants the prowess of potential tapas that
 leads to liberation.
 
-LMU WHFEG pur Musee`,
+WHFEG pur Musee`,
   },
   {
     id: 1525, tantraId: 5, verseNumber: 1524,
@@ -2845,7 +2814,6 @@ unsurpassable boon of Grace; and when Grace visits, the Lord,
 whom nothing can equal, draws near. When Grace descends,
 jiva is purified. He then mingles in Siva.
 
-UcMhAgyib ustict gio Liswfasssr
 aeAu Agsrerpp wis Deurgocr`,
   },
   {
@@ -2873,7 +2841,7 @@ He is truly the life pervasive of worlds all.`,
 
 Sado sob
 
-GGOsuer ass Gombus £EAS`,
+ass Gombus £EAS`,
   },
   {
     id: 1528, tantraId: 5, verseNumber: 1527,
@@ -2895,9 +2863,9 @@ The Jiva thus rid of egoity,
 And other Impurities Three,
 Shall with Siva in union merge.`,
     elaborationTamil: `நன்மை தீமை ஆகிய இரண்டு விதமான வினைகளையும் சரிசமமாக பாவித்து அனுபவிக்கும் நிலையை அடைந்த சாதகருக்குள் தனக்கு ஒப்பானது என்று ஒன்றும் இல்லாதவளாகிய இனிமையான பேரருளைக் கொண்ட இறைவியானவள் குரு எனும் நிலையில் வந்து சாதகருக்குள் நன்மை தீமை என்று பல விதமாக இருக்கின்ற அனைத்து தன்மைகளையும் நீக்கி விட்டு, அவளது பெரும் கருணையினால் தரப்படுவது என்று அறியப்படுகின்ற பேரறிவு ஞானத்தை தந்து அருளுவாள். அந்த ஞானத்தால் சாதகர் தன்னுடைய செயல் என்று ஒன்றும் இல்லாமல் இருக்கும் நிலையை அடைந்து விட்டால் சாதகருக்குள் இருக்கின்ற ஆணவம், கன்மம், மாயை ஆகிய மூன்று விதமான மலங்களும் நீங்கப் பெற்று சிவம் எனும் பரம் பொருளாகவே சாதகரும் ஆகி விடுவார்.`,
-    elaborationEnglish: `Qrqwb usgib Qars QrsGs.
+    elaborationEnglish: `usgib Qars
 
-HUG wrod ."uep_or Gege`,
+HUG wrod Gege`,
   },
   {
     id: 1529, tantraId: 5, verseNumber: 1528,
@@ -2937,9 +2905,9 @@ favours. Then, He, the sun, the moon, and the light of Grace
 which illumined the corporeal body dispelling darkness — all
 abide in you forever.
 
-Lene alors Gib. woHwupr GHrudpies
-FIOM AINMEGH SMF MT Horvsrosr qyoi
-Greb aaséhwu grgercrot 2 oy 5(S))`,
+Lene alors Gib. woHwupr
+FIOM AINMEGH SMF MT Horvsrosr
+Greb grgercrot 2 oy 5(S))`,
   },
   {
     id: 1530, tantraId: 5, verseNumber: 1529,
@@ -2962,9 +2930,9 @@ And then, aye, with me bided for ever and ever.
 18 ARUSAMAYA PINAKKAM (A CRITIQUE OF
 FORMAL RELIGIONS)`,
     elaborationTamil: `அந்தி சாயும் வேளையில் வெளிச்சத்திற்காக ஏற்றப்படுகின்ற விளக்குகளில் இருந்து வருகின்ற ஒளியையும், இரவு நேரங்களில் நிலவில் இருந்து வருகின்ற ஒளியையும், பகல் நேரங்களில் சூரியனில் இருந்து வருகின்ற ஒளியையும், இறைவனை வணங்கும் பூஜைகளில் ஏற்றி வைக்கின்ற தீபங்களில் இருந்து வருகின்ற ஒளியையும், தனிப் பெரும் சுடராக இருக்கின்ற இறைவனின் ஜோதி உருவமாகவே சாதகர் பார்த்து உணர்ந்தால், உலகத்தை விளக்கி அருளுகின்ற தலைவனாகிய இறைவன் அவரது உடலுக்குள் புகுந்து வந்து, அவரது உடலுக்குள் இருக்கின்ற உண்மை பொருளையும் விளக்கி அவர் அறியும் படி செய்து அவருடன் எப்போதும் இருப்பான்.`,
-    elaborationEnglish: `arwsgion Horn sans snosrS)our
+    elaborationEnglish: `arwsgion Horn sans
 
-wTws GPurovd alapat wonenw saci`,
+alapat wonenw saci`,
   },
   
   {
@@ -2996,9 +2964,9 @@ steadfastness help in the realisation of the omnipresence of
 the Lord.
 
 What are the “Six Faiths’’ (want, Samayam means here
-‘religion’, ‘sect’ or *faith’) that Mular refers to here? They
+‘religion’, ‘sect’ or that Mular refers to here? They
 
-are not those described in *‘Saddarsana-sangraha’, it can be
+are not those described in it can be
 safely affirmed.`,
   },
 {
@@ -3041,8 +3009,7 @@ To them they say,
 He is neither within you or without you
 Sure is He nowhere for them.`,
     elaborationTamil: `உள்ளத்திற்கு உள்ளேயும் கலந்து இருக்கின்றான் வெளியேயும் அனைத்திலும் கலந்து இருக்கின்றான் என்று நம்புபவர்களுக்கு உள்ளத்திற்கு உள்ளேயும் கலந்து இருக்கின்றான் வெளியேயும் அனைத்திலும் கலந்து இருக்கின்றான் எமது உரிமையான இறைவன். உள்ளத்திற்கு உள்ளேயும் இல்லை வெளியேயும் எங்கும் இல்லை என்று நினைப்பவர்களுக்கு உள்ளத்திற்கு உள்ளே உணரும் படியும் இல்லாமல் வெளியேயும் எங்கும் அறிந்து கொள்ளும் படியும் இல்லாமல் இருக்கின்றான் இறைவன்.`,
-    elaborationEnglish: `AM) FLW (Lp Seer oul HOST Lg GUT
-Gsniier Gas Dsoiiber Oszahssdor`,
+    elaborationEnglish: `AM) FLW (Lp Seer oul HOST Lg GUT`,
   },
   {
     id: 1534, tantraId: 5, verseNumber: 1533,
@@ -3064,7 +3031,7 @@ And then sure shall you enter your Father's Mansion.`,
     elaborationTamil: `இறைவனை அடைவதற்கான ஆறு விதமான வழி முறைகளையும் கண்டு அதன் பொருளை மேம்போக்காக அறிந்து கொண்டவர்கள் அந்த வழிமுறைகளின் உட் பொருளாக இருக்கின்ற தத்துவங்களை அறிந்து கொள்ள வில்லை. இறைவனை அடைவதற்கான ஆறு விதமான வழி முறைகளும் சொல்லுகின்ற உட் பொருளான தத்துவங்களை அறிந்து கொள்ளாத காரணத்தால் அவர்களுக்கு எந்தவிதமான பயனும் இல்லை. ஆகவே ஆறு விதமான வழி முறைகளின் உட் பொருளை ஆராய்ந்து அறிந்து கொள்ளுங்கள். அறிந்த பிறகு அதனை தெளிவாக உணர்ந்து கொள்ளுங்கள். அவ்வாறு தெளிவாக உணர்ந்த பிறகு எந்த விதமான மாறுபாடும் இல்லாமல் உறுதியாக வீடு பேறு என்று அறியப்படுகின்ற முக்தியை அடைவது கைகூடும். குறிப்பு: ஆறு சமயங்கள் என்பது இறைவனை அடைவதற்கான ஆறு வழி முறைகளாகும். இதனை பாடல் #1530 இல் பார்க்கவும்.`,
     elaborationEnglish: `Father’s
 
-Flaine Homa wennGu Floors`,
+Flaine Homa Floors`,
   },
   {
     id: 1535, tantraId: 5, verseNumber: 1534,
@@ -3088,7 +3055,7 @@ You shall indeed be redeemed truly.`,
 waste. Being materialistic, the six faiths do not lead to the
 final state. Devotion to Siva alone grants liberation.
 
-Newer ors Dsawd oOGwoe9Gw`,
+Newer ors`,
   },
   {
     id: 1536, tantraId: 5, verseNumber: 1535,
@@ -3184,7 +3151,7 @@ They shall grow insane
 Forever entangled in whirl of birth and death.`,
     elaborationTamil: `காரணமே தெரியாமல் கத்துகின்ற கழுதைகள் போலவே தீய குணம் உள்ளவர்கள் இருக்கின்றார்கள். அதனால் எங்கும் இருக்கின்ற தூய்மையான சிவப் பரம்பொருள் அவர்களால் அறிய முடியாத படி தம்மை மாயையால் மறைத்துக் கொண்டு நிற்கின்றான். தம்மிடம் இருக்கின்ற தீய குணங்களை அறிந்து கொள்ளாமல் நல்ல குணங்களை கடை பிடித்து தீய குணங்களை நீக்கிக் கொள்ளாதவர்கள் தீய குணத்திலேயே மூழ்கி அதனால் பித்து அதிகமாகி தினந்தோறும் வாழ் நாளை வீணடித்து மீண்டும் மீண்டும் பிறந்து இறக்கின்ற பிறவி சுழலிலேயே சிக்கிக் கொண்டு இருப்பார்கள்.`,
     elaborationEnglish: `Contending faiths are like the braying asses. They lead but
-to the swirling cycle of birth and death. Pure Siva is beyond
+to the swirling of birth and death. Pure Siva is beyond
 their reach.`,
   },
   {
@@ -3213,10 +3180,7 @@ To attain the final goal — freedom from harassing doubts,
 and perseverence in Siva-pursuit are essential. God is with
 the steadfast and clear-visioned souls. To the doubting and
 inconstant, He is beyond reach. They realise not His
-mysterious plan, for which the fleshy body is fashioned.
-Gewar gostucr DosiQocr Gur558
-
-swe ginmssym Garsésarvd onia_e`,
+plan, for which the fleshy body is fashioned.`,
   },
   {
     id: 1541, tantraId: 5, verseNumber: 1540,
@@ -3258,11 +3222,10 @@ The origin of swirl that is birth and death,
 No more shall you seek
 The ways of the perishing men.`,
     elaborationTamil: `இறைவனை அடையும் முக்திக்கு வழி என்று யோக மார்க்கமும் ஞான மார்க்கமும் அறிந்து செல்பவர்களுக்கும் இறைவனை அடைவதற்கான வழி எது என்று அறியாமலேயே பக்தி மார்க்கத்திலும் கர்ம மார்க்கத்திலும் செல்பவர்கள் ஆகிய இரண்டு வழியில் செல்பவர்களுக்கும் ஒரே மூல விதையாக அவர்களுக்குள் இருப்பதாகிய சுழுமுனை நாடி எனும் நடு நாடியின் மூலம் குண்டலினி சக்தியை ஏற்றி சென்று இந்த உலகத்தின் மேல் வாழ்வதும் கர்மங்களை அனுபவிப்பதும் ஆகிய இரண்டிலிருந்தும் விடுதலை பெறுவதற்கு சுழுமுனை நாடியின் உச்சித் துளையில் வீற்றிருக்கும் அனைத்தும் அறிந்தவனாகிய இறைவனே குருவாக இருந்து சொல்லி அருளுகின்ற வழியை முயற்சி செய்து விட்டுவிடாமல் கடைபிடித்து அதன் மூலம் கர்மங்கள் அனைத்தும் அழிந்து போவதை அறிந்து கொண்டவர்களின் வழி முறையை தேடி அடைவதற்கு முயற்சி செய்யாமலேயே ஆசைகளின் வழியே சென்று கொண்டு இருக்கின்றார்கள்.`,
-    elaborationEnglish: `The cycle of births is the bane of the soul and the seed
+    elaborationEnglish: `The of births is the bane of the soul and the seed
 of the coupled karma. So, listen to Him, who knows the origin
-of this cycle.
 
-BIG BIH MPULUDHSD`,
+BIG BIH`,
   },
   {
     id: 1543, tantraId: 5, verseNumber: 1542,
@@ -3308,7 +3271,7 @@ Then is He far, far away.`,
 
 Qulep cancrour Cupid Deups
 
-gilen bhener giiiinesh aicssr est ct`,
+gilen bhener aicssr est ct`,
   },
   {
     id: 1545, tantraId: 5, verseNumber: 1544,
@@ -3372,7 +3335,7 @@ They lost their way,
 
 And forever wander.
 
-omit nMaugib oorherm Gerf`,
+omit oorherm Gerf`,
   },
   {
     id: 1547, tantraId: 5, verseNumber: 1546,
@@ -3425,7 +3388,7 @@ the Lord’s Feet. The true path results in the consummation
 of holiness. Journey forward, straight inside, and the presence
 of the Lord will be with you for ever.
 
-Uppes Gbul SenrargicstG enouwey`,
+Uppes enouwey`,
   },
   {
     id: 1549, tantraId: 5, verseNumber: 1548,
@@ -3470,7 +3433,7 @@ In the Presence of the Lord of Heavenly Beings.`,
     elaborationEnglish: `19. Agwengb
 
 Qowuns onmihorm Cooursct 40)
-uonwi Csr@ueru or grep`,
+uonwi or grep`,
   },
   {
     id: 1551, tantraId: 5, verseNumber: 1550,
@@ -3586,10 +3549,7 @@ Who seeks Path True
 To them, the Lord is unto richly laden clouds
 That drops gentle rain of Heavenly Grace.`,
     elaborationTamil: `மும் மலங்களை மட்டுமே அறிந்து கொண்டவர்கள் தன்னுடன் துணையாகவே நிற்கின்ற இறைவனை பற்றிய நினைவே இல்லாதவர்களாக இருக்கின்றார்கள். உலக அறிவை மட்டுமே அறிந்து கொண்டவர்கள் அதற்குள்ளேயே விழுந்து கிடந்து அதன் பயன்களை தானே அனுபவித்துக் கொண்டு இருப்பார்கள். மாயை எனும் இருளால் அறிந்து கொள்ளக் கூடியதை மட்டுமே அறிந்து கொண்டவர்கள் வினைகளோடு கலந்து மீண்டும் மீண்டும் பிறவி எடுப்பார்கள். இறைவன் எனும் மேகத்தில் இருந்து ஆன்மா எனும் நீராக தாம் வந்து இருக்கின்றோம் என்பதை உணர்ந்து கொண்டவர்களுக்கு நீண்ட மாபெரும் மேகத்தை போல அருளை மழையாகப் பொழிபவனாக இறைவன் இருக்கின்றான்.`,
-    elaborationEnglish: `ADyiam Ky HoopssGart Cases!
-upat_er unmb uppwbue Aggy
-
-Gpwg sO Gan@adenor wrenit`,
+    elaborationEnglish: `unmb uppwbue Aggy`,
   },
   {
     id: 1555, tantraId: 5, verseNumber: 1554,
@@ -3666,14 +3626,14 @@ And stood forlorn, for ever lost in faith false.`,
 They who pursue false faiths do not wake to the inner light
 of Aum, that is within themselves. These faiths do not reveal
 the bliss that ensues when the’ ego is totally annihilated.
-Indifferent both to the cycle of approaching death and
+Indifferent both to the of approaching death and
 recurring birth, alas, they stand in forlom hope.
 
 20. 2 eiwib
 
 Qouwwsut sibewuyid crideswyd (petted
-Aowouw wessauer YD yotesss
-Faunuas ommgpscr prensa BIL`,
+Aowouw wessauer YD
+Faunuas prensa BIL`,
   },
   {
     id: 1558, tantraId: 5, verseNumber: 1557,
@@ -3707,7 +3667,7 @@ are similar to the dog that barks at its own echo from the
 hillside.
 
 aang Cut upwr 056
-corny Cura QOGYs snub
+corny Cura snub
 
 Bas Hg) cromgeng wrens`,
   },
@@ -3752,8 +3712,8 @@ He is the Lord of all universes, and the source of all joy.
 He laid the divine path that takes jiva to his eternal home.
 He is within: you. Seek and realise Him.
 
-LiQicIucT Muss Lipouyp pry
-Qaictaict crottu SPucusd sorirse`,
+Muss Lipouyp pry
+Qaictaict crottu sorirse`,
   },
   {
     id: 1561, tantraId: 5, verseNumber: 1560,
@@ -3772,7 +3732,7 @@ Seek Him that way;
 And know you are He
 You shall duly find Him within yourself.`,
     elaborationTamil: `சிவப் பரம்பொருளாக இருக்கின்ற இறைவன் வைத்து அருளிய தெய்வத்தை அடைவதற்கான ஒரு நெறி முறையை கடைபிடித்து அந்த சிவப் பரம்பொருளே வைத்து அருளிய பழமையான வழியை தமக்குள்ளே தேடி அடைந்து அதன் மூலம் தமது ஆன்மாவாக இருப்பதும் அவனே என்பதை அறிந்து கொள்ள முடிந்தவர்களுக்கு, தாம் பார்க்கின்ற அனைத்திலும் அவனை காண்பவர்களுக்கு அவர்கள் பார்க்கின்ற அனைத்திலும் அதனதன் தன்மையிலேயே வந்து இருக்க வேண்டியது அந்த இறைவனின் கடமை ஆகும்.`,
-    elaborationEnglish: `Guriry sreflvene yomou WUNgal`,
+    elaborationEnglish: `Guriry sreflvene yomou`,
   },
   {
     id: 1562, tantraId: 5, verseNumber: 1561,
@@ -3823,11 +3783,9 @@ across the-sea of soul's longing. Seek the. proven path of Siva
 that leads to Hara. It is the divine path that renowned souls
 have treaded through time.
 
-Gsrgs Ie Bobs Hous
+Ie Bobs Hous
 
-Gyurbsart oer Quurgs OuGeyp
-
-Bipsut AemL SHU yss BGMO GSM`,
+Gyurbsart oer Quurgs OuGeyp`,
   },
   {
     id: 1564, tantraId: 5, verseNumber: 1563,
@@ -3848,9 +3806,7 @@ That took the devout to Cosmic Space;
 That path, do seek,
 Enter and persevere.`,
     elaborationTamil: `இறைவனை தமக்குள் உணர்ந்து தெளிவு பெற்றவர்கள் அடைந்த இறைவனை அடைவதற்கான வழி முறைகளை அவர்கள் அடைந்த படியே வெளிப்புறமாக தேடுவதை விட்டு விட்டு, மனதை ஒருநிலைப் படுத்தி தமக்குள் இறைவனையே நினைத்துக் கொண்டு, ஆசைகளையும் பற்றுக்களையும் விட்டு விட்டு, அடைகின்ற மிகப் பெரும் வழி முறைகளை நன்றாக ஆராய்ந்து அறிந்து கொண்டவர்கள், அண்ட சராசரங்களில் உள்ள அனைத்திலும் புகுந்து இருக்கின்ற இறையருளை அடைவதற்கான வழி முறைகள் தமக்குள்ளே இருப்பதை உணர்ந்து, அதற்குள் புகுந்து அதனோடு பின்னிப் பிணைந்து ஒன்றாக கலந்து இறைவனை அடைகின்ற வழி முறை இதுவே ஆகும்.`,
-    elaborationEnglish: `A worsens uloomt.m al Khles
-
-om; Fartsens Qgiiler CorrGu`,
+    elaborationEnglish: `A worsens uloomt.m al Khles`,
   },
   {
     id: 1565, tantraId: 5, verseNumber: 1564,
@@ -3900,8 +3856,7 @@ He, the tender shoot of Jnana,
 When you glimpse His loving signs,
 Then have you walked in Path of Siva.`,
     elaborationTamil: `மின்னல் போன்ற ஒளியும் ஒலியும் சேர்ந்த வடிவமாக இருப்பவனை அந்தணர்கள் ஓதுகின்ற வேதத்தின் உட்பொருள் வடிவமாக இருப்பவனை ஆதியிலிருந்தே இருக்கின்ற தலைவனை அடியவர்கள் நினைக்கின்ற வடிவமாகவே வந்திருந்து அருளுபவனை ஞானத்தின் உச்சியான நிலையில் அன்பின் வடிவமாகவே கண்டு தரிசித்தால் அதுவே அவனை அடைவதற்கான வழி முறையாக ஆகி விடும். கருத்து: இறைவனை அடைவதற்கான ஆறு விதமான வழி முறைகளில் எந்த வழி முறையில் சென்றாலும் அனைத்திற்கும் பொதுவாக இருப்பது அன்பின் வழியாக இறைவனை அடைவதே ஆகும்.`,
-    elaborationEnglish: `ABwpgios grtachct gpomors FgTUus
-UTA ITH Horm MT)`,
+    elaborationEnglish: `UTA ITH Horm MT)`,
   },
   {
     id: 1567, tantraId: 5, verseNumber: 1566,
@@ -3922,7 +3877,7 @@ They that followed Hara's Path
 Of a certain reached His Feet of Grace,
 And joyed the Bliss, all senses uplifted.`,
     elaborationTamil: `இறைவனை அடைய தாங்கள் கடைபிடிக்கும் ஒரு வழி முறையை ஆராய்ந்து உணர்ந்தவர்கள் அதற்கான விதி முறைகளை பல விதமாக கூறுகின்றார்கள். ஆனால் இந்த விதி முறைகளை ஆராய்ந்து உணர முடியாத வகையில் தான் நிற்கின்றது இறைவனை அடைவதற்கான உண்மையான வழி முறை. அதனை தமக்குள் ஆராய்ந்து உணர்ந்து கொண்டவர்கள் இறைவனின் திருவடிகளை இரண்டு கைகளும் கூப்பி தொழுது வணங்கி தம்முடைய தூய்மையான அன்பினால் இறைவனை உணர்ந்து கொள்ளுவதே ஒரு பேரின்பம் ஆகும். கருத்து: இறைவனை அடைவதற்கு சமையங்கள் சொல்லுகின்ற பல விதமான விதி முறைகளை ஆராய்வதால் ஒரு பயனும் இல்லை. அன்பினால் தமக்குள் ஆராய்ந்து உணருவதே இறைவனை அடைவதற்கான உண்மையான வழியாகும்.`,
-    elaborationEnglish: `aru sows soar waorpsD`,
+    elaborationEnglish: `aru sows soar`,
   },
   {
     id: 1568, tantraId: 5, verseNumber: 1567,
@@ -3974,9 +3929,7 @@ They with mind to infinity attuned
 Sure enter the City of God.
 
 Siva smiles in pity at the mad men who contend about faiths.
-To attune to infinity is to reach the ‘City of God’.
-
-Go Ootais sC5r(pS Lwngyer`,
+To attune to infinity is to reach the ‘City of God’.`,
   },
   {
     id: 1570, tantraId: 5, verseNumber: 1569,
@@ -4049,7 +4002,7 @@ And so realized the bliss of Here and Hereafter.`,
     elaborationEnglish: `I reached His Feet of Grace to adore
 And so realized the bliss of Here and Hereafter.
 
-3) ws Gleu rr eer CHTFU CYL wie Lwenesr`,
+3) ws Gleu rr eer CHTFU wie`,
   },
   {
     id: 1573, tantraId: 5, verseNumber: 1572,
@@ -4068,8 +4021,8 @@ A baffling mystery far,
 How into the shedding sheaths of this body microcosm
 Got imprinted a veritable macrocosm.`,
     elaborationTamil: `அறிந்து கொள்ள முடியாத உடம்பின் உண்மையான பயனாகிய அக வழிபாட்டின் மூலம் இறைவனை அடைவதை உணர்ந்து, இறைவனை அடைவதற்கான ஆறு விதமான வழி முறைகளில் தங்களின் பக்குவத்து ஏற்ற ஒரு வழி முறையை தேர்ந்து எடுத்து அதில் முழுமை பெற்று அந்த முறையின் மூலம் கிடைக்கின்ற தம்மை முழுவதும் மூடியிருக்கும் பாதுகாப்பு அரனாக இருக்கின்ற உறையை பெற்று, ஒரு அண்டத்தையே தமது உடம்பிற்குள் பதித்து காணுவதே இறைவனை அடைவதற்கான வழி முறையாகும்.`,
-    elaborationEnglish: `Baffling it is, why into the six systems was it made;
-A baffling mystery far,
+    elaborationEnglish: `Baffling it is, why into the six was it made;
+A baffling far,
 
 How into the shedding sheaths of this body
 microcosm :
@@ -4078,15 +4031,11 @@ Got imprinted a veritable macrocosm.
 
 Life’s goal is the realisation of the macrocosm in the
 
-microcosm — the Over-Soul in the self-soul—the mysterium
+microcosm — the Over-Soul in the self-soul—the
 tremendum.
 
 Tantra Five Concluded
 
-: TANTRA SIX
-
-1. HaGG sheorwd
-
-usg8U uehisg uta DY BOHSs`,
+: TANTRA SIX`,
   },
 ];
