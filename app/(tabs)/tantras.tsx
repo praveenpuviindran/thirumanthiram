@@ -33,7 +33,7 @@ export default function TantrasScreen() {
         renderItem={({ item }) => (
           <TantraCard
             tantra={item}
-            onPress={() => router.push(`/tantra/${item.id}` as any)}
+            onPress={() => router.navigate(`/(tabs)/tantra/${item.id}` as any)}
           />
         )}
       />

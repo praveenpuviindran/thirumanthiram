@@ -140,38 +140,60 @@ export default function SettingsScreen() {
         <Text style={[styles.section, { color: theme.saffron }]}>Sources & References</Text>
         <View style={[styles.card, { backgroundColor: theme.bgCard, borderColor: theme.border }]}>
 
+          {/* Tamil Commentary */}
+          <View style={[styles.sourceGroupHeader, { borderBottomColor: theme.border, backgroundColor: theme.saffron + '15' }]}>
+            <Text style={[styles.sourceGroupLabel, { color: theme.saffron }]}>Tamil Commentary · தமிழ் விளக்கம்</Text>
+          </View>
           {[
             {
-              title: 'Thirumanthiram (திருமந்திரம்)',
-              detail: 'By Thirumoolar (Tirumular). Ancient Tamil classical text, c. 5th–8th century CE. Part of the Tirumurai, the sacred Shaiva canon. 3,000+ verses in nine tantras. Public domain.',
+              title: 'Saravanan (KVN Thirumoolar) — Verses 0–1842',
+              detail: 'Tamil commentary and explanatory notes by T. Saravanan. Covers verses 0–1842 across Tantras 1–6. Published by KVN Thirumoolar Trust.\nkvnthirumoolar.com/topics/books/',
             },
             {
-              title: 'Tamil Virtual University — Thirumanthiram',
-              detail: 'Tamil verse text for Tantras 1–4 sourced from Tamil Virtual University (tamilvu.org), Government of Tamil Nadu. Digital edition available at tamilvu.org/library/l4100.',
+              title: 'Wisdom Library — Verses 1843–2648',
+              detail: 'English translation of Tirumantiram (Tantras 7–8, verses 1843–2648) from WisdomLib, based on published scholarly editions.\nwisdomlib.org/hinduism/book/tirumantiram-by-tirumular-english-translation',
+            },
+          ].map((src, i, arr) => (
+            <View
+              key={i}
+              style={[
+                styles.sourceRow,
+                { borderBottomColor: i < arr.length - 1 ? theme.border : theme.border },
+              ]}
+            >
+              <Text style={[styles.sourceTitle, { color: theme.text }]}>{src.title}</Text>
+              <Text style={[styles.sourceDetail, { color: theme.textMuted }]}>{src.detail}</Text>
+            </View>
+          ))}
+
+          {/* English Translation */}
+          <View style={[styles.sourceGroupHeader, { borderBottomColor: theme.border, backgroundColor: theme.saffron + '15' }]}>
+            <Text style={[styles.sourceGroupLabel, { color: theme.saffron }]}>English Translation & Commentary</Text>
+          </View>
+          {[
+            {
+              title: 'Himalayan Academy (Kauai Hindu Monastery)',
+              detail: 'English translation of Tirumantiram by Satguru Sivaya Subramuniyaswami and the Himalayan Academy. Primary source for English verse translations in this app.\nhimalayanacademy.com/media/books/tirumantiram/Tirumantiram.pdf',
             },
             {
-              title: 'Project Madurai — Thirumanthiram',
-              detail: 'Tamil verse text for Tantras 5–9 sourced from Project Madurai, a volunteer project digitising classical Tamil literature. Available at tamilnation.org/sathyam/east/thirumurai/thirumanthiram.',
+              title: 'Dr. B. Natarajan & Dr. T. N. Ganapathy',
+              detail: 'English translation and commentary (Internet Archive bilingual edition). Co-source for English verse translations and elaborations.\narchive.org/details/thirumanthiram_202404',
             },
             {
-              title: 'Tirumantiram — Kauai Hindu Monastery (Himalayan Academy)',
-              detail: 'English translation of the complete Tirumantiram by the Kauai Hindu Monastery / Himalayan Academy. Published by Himalayan Academy Publications, Hawaii. Primary source for English verse translations in this app. Available at himalayanacademy.com.',
+              title: 'Saravanan (KVN Thirumoolar)',
+              detail: 'Tamil commentary and explanatory notes used as secondary reference for English elaborations.\nkvnthirumoolar.com/topics/books/',
             },
             {
-              title: 'Thirumanthiram — Dr. B. Natarajan',
-              detail: 'English commentary and translation by Dr. B. Natarajan. Used as a supplementary reference for English verse content and interpretive context. Available at archive.org.',
+              title: 'Tamilnation — Thirumantiram Introduction',
+              detail: 'Contextual and introductory material on the Thirumanthiram and its place in Tamil literature.\ntamilnation.org/sathyam/east/thirumurai/thirumanthiram/introduction',
             },
             {
-              title: 'Thirumandhiram Tamil Commentary — T. Saravanan',
-              detail: 'Tamil commentary series covering Tantras 1–6, by T. Saravanan (த. சரவணன்). Published by KVN Thirumoolar Trust. Available at kvnthirumoolar.com. Used as a reference for section structure and Tamil commentary throughout this app.',
+              title: 'Internet Archive — Archival Edition',
+              detail: 'Thirumanthiram bilingual/archival edition used as primary reference for commentary extraction.\narchive.org/details/thirumanthiram_202404/page/74/mode/2up',
             },
             {
-              title: 'The Tirumurai',
-              detail: 'The twelve sacred Tamil Shaiva texts compiled by Nambiyandar Nambi, 11th century CE. Thirumanthiram occupies the tenth position in this canon.',
-            },
-            {
-              title: 'Tiruvavaduthurai Adheenam',
-              detail: 'Ancient Shaiva monastery at Tiruvavaduthurai, Tamil Nadu — site of Thirumoolar\'s meditation and a living repository of the Agamic tradition.',
+              title: 'WisdomLib — English Translation',
+              detail: 'English translation of Tirumantiram based on published scholarly editions.\nwisdomlib.org/hinduism/book/tirumantiram-by-tirumular-english-translation',
             },
           ].map((src, i, arr) => (
             <View
@@ -248,6 +270,17 @@ const styles = StyleSheet.create({
   rowText: { flex: 1 },
   rowLabel: { fontSize: FontSize.md, fontWeight: '500' },
   rowSub: { fontSize: FontSize.xs, marginTop: 2 },
+  sourceGroupHeader: {
+    paddingHorizontal: Spacing.md,
+    paddingVertical: 8,
+    borderBottomWidth: 1,
+  },
+  sourceGroupLabel: {
+    fontSize: FontSize.xs,
+    fontWeight: '700',
+    letterSpacing: 0.8,
+    textTransform: 'uppercase',
+  },
   sourceRow: {
     paddingHorizontal: Spacing.md,
     paddingVertical: 12,

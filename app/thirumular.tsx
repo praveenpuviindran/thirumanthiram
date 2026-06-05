@@ -70,19 +70,17 @@ His most celebrated declaration — "அன்பே சிவம்" (Anbe Siva
     },
     {
       title: 'Sources & References',
-      body: `This biographical account draws on the following primary and scholarly sources:
+      body: `English translation & commentary: Dr. B. Natarajan; Dr. T. N. Ganapathy; Satguru Sivaya Subramuniyaswami and the Himalayan Academy (Kauai Hindu Monastery) for their editorial work — Tirumantiram: A Tamil Scriptural Classic (Himalayan Academy Publications). Full text available at himalayanacademy.com/media/books/tirumantiram/Tirumantiram.pdf
 
-1. Thirumandhiram Thandhiram 1 — T. Saravanan (kvnthirumoolar.com, 2020). The digital edition that includes a detailed preface (vadurai) and verse-by-verse commentary in Tamil. URL: https://kvnthirumoolar.com/wp-content/uploads/2020/05/Thirumandhiram-Thandhiram-1.pdf
+Tamil commentary: T. Saravanan (KVN Thirumoolar) — biography and verse-by-verse commentary series. Available at kvnthirumoolar.com/thirumoolar-biography/ and kvnthirumoolar.com/topics/books/
 
-2. Sekkizhar, Periya Purānam (12th century CE). The authoritative hagiography of the 63 Nayanmars, which includes the life of Thirumoolar and confirms his canonical status.
+Sekkizhar, Periya Purānam (12th century CE) — authoritative hagiography of the 63 Nayanmars confirming Thirumoolar's canonical status.
 
-3. Dr. B. Natarajan (trans.), Tirumantiram: A Tamil Scriptural Classic. Himalayan Academy Publications, 1993. The primary complete English translation, widely cited in academic and practitioner communities.
+Dr. B. Natarajan, Tirumantiram (Internet Archive edition) — available at archive.org/details/thirumanthiram_202404
 
-4. K. V. Zvelebil, Tamil Literature (Handbuch der Orientalistik, 1975). The foundational Western scholarly analysis of the Tamil literary tradition, including dating of the Thirumanthiram.
+WisdomLib — English translation of Tirumantiram at wisdomlib.org/hinduism/book/tirumantiram-by-tirumular-english-translation
 
-5. Tiruvavaduthurai Adheenam publications. The ancient Shaiva monastic institution at Thiruvavaduthurai, Tamil Nadu, which maintains the living tradition of the text and publishes authoritative editions.
-
-6. Nambiyandar Nambi (11th century CE). The scholar who compiled the twelve Tirumurai and established the Thirumanthiram as its tenth volume.`,
+Tamilnation — Thirumantiram Introduction and contextual material at tamilnation.org/sathyam/east/thirumurai/thirumanthiram/introduction`,
     },
   ],
 };
@@ -90,34 +88,40 @@ His most celebrated declaration — "அன்பே சிவம்" (Anbe Siva
 const TAMIL_BIO = {
   sections: [
     {
-      title: 'தோற்றமும் ஆரம்ப வாழ்க்கையும்',
-      body: `திருமூலர் தமிழ்ச் சைவ மரபில் மிகவும் உயர்ந்த ஆன்மிக ஆசானாவார். பதினெட்டு சித்தர்களில் ஒருவரான இவர், யோகம், வேதியியல் மற்றும் திருவருள் வழியாக அழியாமையை அடைந்தவர். அறிஞர்கள் இவரை கி.பி. மூன்றாம் நூற்றாண்டிலிருந்து ஏழாம் நூற்றாண்டுக்கு இடையில் வாழ்ந்தவராக கணிக்கின்றனர். சைவ மரபோ இவரை காலத்தையும் கடந்த மகான் என்று போற்றுகிறது.
+      title: 'திருமூலர் — வரலாறு',
+      body: `திருக்கயிலாயத்தில் திருமூலருடைய பெயர் சுத்த சதாசிவர். சுந்தர நாதர் என்ற பெயரும் இவருக்கு உள்ளது. இறைவனின் திருவடிகளில் அமர்ந்திருக்கும் எட்டு யோகிகளில் ஒருவராக திருமூலர் விளங்குகிறார். அஷ்டமா சித்திகளை (எட்டு அசாதாரண சக்திகளை) அடைந்தவர். ஆகமங்களிலும் மறைகளிலும் தேர்ச்சி பெற்ற மகான்.
 
-இமயமலையில் வாழ்ந்த இவர், சிவனின் திருக்கதவு காவலரும் சைவ யோக மரபின் முதல் ஆசிரியருமான நந்தியம்பெருமானிடம் நேரடியாக தீட்சை பெற்றார். யோகம், தந்திரம், மற்றும் சைவ ஆகமங்களின் ஆழமான ரகசியங்களை நந்தியிடமிருந்து கற்றறிந்தார். பின்பு தமிழ்நாட்டை நோக்கி தென்திசை நடைபோட்டார்.`,
+கயிலாயத்திலிருந்து கிளம்பி, பல தலங்களை தரிசித்துக்கொண்டு தமிழ்நாட்டை நோக்கி வந்தார். சிவனின் திருக்கதவு காவலரும் சைவ யோக மரபின் முதல் ஆசிரியருமான நந்தியம்பெருமானிடம் நேரடியாக தீட்சை பெற்றவர். அவரது சீடர்களாக மாலாங்கன், இந்திரன், சோமன், பிரமன், உருத்திரன், காலாங்கி நாதன், கஞ்சமலையன் என்று ஏழு பேர் விளங்குகின்றனர்.`,
     },
     {
-      title: 'ஆயனின் உடலில் நுழைந்த அதிசயம்',
-      body: `திருவாவடுதுறை அருகில் வரும்போது, திருமூலர் ஒரு இறந்த ஆயனை — "மூலன்" என்ற பெயர் கொண்டவனை — சுற்றி அழும் மாடு மந்தையை கண்டார். கருணையால் தூண்டப்பட்ட இவர், தம் உடலை ஒரு மரப்பொந்தில் பாதுகாப்பாக வைத்துவிட்டு, பரகாயப் பிரவேசம் என்னும் யோகசக்தியால் மூலனின் உடலில் புகுந்தார். மாடுகளை மேய்த்து தேற்றினார்.
+      title: 'சாத்தனூரிலே நிகழ்ந்த அதிசயம்',
+      body: `திருமூலர் சாத்தனூரில் வரும்போது, "மூலன்" என்ற பெயர் கொண்ட ஒரு ஆயன் இறந்து கிடந்தான். அந்த ஆயனின் மாடுகள் தம் எஜமானனை இழந்து தவிக்கின்றன என்று கண்டு திருமூலர் மனம் இரங்கினார். தம் உடலை ஒரு மரப்பொந்தில் பத்திரமாக வைத்துவிட்டு, பரகாயப் பிரவேசம் என்னும் யோகசக்தியால் மூலனின் உடலில் புகுந்து மாடுகளை மேய்த்துத் தேற்றினார்.
 
-மீண்டும் தம் உடலுக்குத் திரும்பி வந்த போது, அது மறைந்திருந்தது. இதை இறைவனின் திருவுள்ளம் என்று உணர்ந்த திருமூலர், மூலனின் உடலிலேயே தொடர்ந்தார். அதனால் "மூலன்" என்ற பெயரே "திருமூலர்" என்று சிறப்பு பெற்றது. திருவாவடுதுறையில் ஒரு அரச மரத்தடியில் ஆழ்ந்த தவத்தில் அமர்ந்தார்.`,
+மீண்டும் தம் சொந்த உடலுக்குத் திரும்ப முயன்றபோது, அது மறைந்திருந்தது — இது இறைவனின் திருவிளையாடல் என்று உணர்ந்தார். "மூலன்" என்ற பெயரே "திருமூலர்" என்று சிறப்பு பெற்றது. உள்ளூர் அந்தணர்களுக்கு தம் யோகசக்தியை நிரூபிக்கவும், ஒரு இறந்த ஆட்டின் உடலில் புகுந்து மீண்டும் வந்தார் என்று கூறப்படுகிறது.`,
     },
     {
-      title: 'திருமந்திரத்தின் இயற்றல்',
-      body: `ஆண்டுக்கு ஒரு முறை சமாதி நிலையிலிருந்து வெளிவந்து, ஒரு பாடல் இயற்றிவிட்டு மீண்டும் தவத்தில் ஆழ்வார். இவ்வாறு ஆயிரக்கணக்கான ஆண்டுகளில் 3,047 பாடல்கள் உருவாயின. இது வெறும் இலக்கிய இயற்றல் அன்று — ஒவ்வொரு பாடலும் நேரடி ஆன்மிக அனுபவத்தின் வெளிப்பாடு.
+      title: 'திருவாவடுதுறையில் தவமும் திருமந்திரமும்',
+      body: `திருவாவடுதுறை இறைவன் இருக்கும் இடத்திற்கு வந்த திருமூலர், அங்கே ஒரு அரச மரத்தடியில் (வேர்கால் மரத்தடியில்) ஆழ்ந்த தவத்தில் அமர்ந்தார். ஒவ்வொரு ஆண்டும் ஒரு முறை சமாதி நிலையிலிருந்து விழித்து, ஒரு பாடல் இயற்றிவிட்டு மீண்டும் தவத்தில் ஆழ்வார். இவ்வாறு மூவாயிரம் ஆண்டுகளில் மூவாயிரம் பாடல்கள் இயற்றினார்.
 
-"யான் பெற்ற இன்பம் பெறுக இவ்வையகம்" என்று திருமூலர் கூறுகிறார் — தாம் அடைந்த பேரானந்தத்தை உலகமே பெறவேண்டும் என்ற பேரன்பின் வெளிப்பாடு. திருமந்திரம் ஒரு நூல் மட்டுமல்ல — அது ஒரு வாழ்ந்து காட்டிய வழிகாட்டி.`,
+இந்தப் பாடல்கள் தர்மம், படைப்பு, யோகம், முக்தி — இந்த நான்கையும் விவரிக்கின்றன. "யான் பெற்ற இன்பம் பெறுக இவ்வையகம்" என்று அவர் கூறியதன்படி, தான் அடைந்த ஞானத்தை உலகமே பெறவேண்டும் என்ற பேரன்பால் இயற்றப்பட்டவை. இந்த பாடல்கள் கி.பி. 7ஆம் நூற்றாண்டில் திருஞானசம்பந்தரால் கண்டுபிடிக்கப்பட்டன.`,
     },
     {
       title: 'சைவ இலக்கியத்தில் இடம்',
       body: `திருமந்திரம் பன்னிரண்டு திருமுறைகளுள் பத்தாவது திருமுறையாகும். நம்பியாண்டார் நம்பி தொகுத்த இந்த திருமுறைத் தொகுப்பில், திருமந்திரம் தனிச்சிறப்பு வாய்ந்த நூல். பக்திக் கவிதை, யோக நூல், தத்துவ விளக்கம், மந்திர சாஸ்திரம் — இந்த நான்கு பரிமாணங்களையும் ஒரே நூலில் கொண்டுள்ள நூல் வேறொன்றும் இல்லை.
 
-வேத நெறியையும் ஆகம நெறியையும் தமிழில் ஒருங்கிணைத்து, சமஸ்கிருதத்தில் மறைந்திருந்த ஞானத்தை தமிழில் எளிதாக்கினார். சாதி, மொழி தாண்டி அனைவருக்கும் ஆன்மிக அறிவு சேரவேண்டும் என்பது திருமூலரின் மகத்தான பங்களிப்பு.`,
+வேத நெறியையும் ஆகம நெறியையும் தமிழில் ஒருங்கிணைத்து, சமஸ்கிருதத்தில் மறைந்திருந்த ஞானத்தை தமிழில் எளிதாக்கினார். "திருமந்திரத்தில் மந்திரங்களும் தந்திரங்களும் மனித வாழ்க்கைக்கு தேவையான அனைத்தையும் விளக்குகின்றன; தினமும் படிப்பவர் மறுபிறவியிலிருந்து விடுதலை பெறுவர்" என்று மரபு கூறுகிறது.`,
     },
     {
       title: 'தத்துவமும் மரபும்',
       body: `"அன்பே சிவம்" என்ற திருமூலரின் மொழி, தமிழ் ஆன்மிக இலக்கியத்தின் மிகவும் புகழ்பெற்ற வரி. அன்பு என்பது வெறும் உணர்வு மட்டுமல்ல — அது பரம்பொருளின் இயல்பே என்ற ஆழமான தத்துவத்தை இந்த வரி உணர்த்துகிறது.
 
 "உடம்பார் அழியின் உயிரார் அழிவர்" என்ற மொழியில் உடல் முக்கியத்துவத்தை போதிக்கிறார். உடல் விடுதலைக்கு தடையில்லை, வழியே என்பது அவரது புரட்சிகரமான கொள்கை. சித்த மருத்துவம், யோக உடலியல், குண்டலினி விஞ்ஞானம் — இவற்றில் அவரது பங்களிப்பு இன்றும் ஆய்வுக்குரியது. திருவாவடுதுறை ஆதீனத்தில் அவரது சமாதி தலம் இன்றும் பக்தர்களை ஈர்க்கிறது.`,
+    },
+    {
+      title: 'ஆதாரங்கள்',
+      body: `தமிழ் விளக்கம்: த. சரவணன் (KVN திருமூலர்) — thirumoolar-biography பக்கம், kvnthirumoolar.com. திருமந்திரம் — தந்திரம் 1 முன்னுரை (2020).
+
+ஆங்கில மொழிபெயர்ப்பு: டாக்டர் பி. நடராஜன்; டாக்டர் டி.என். கணபதி; சத்குரு சிவாய சுப்ரமுணியசுவாமி மற்றும் இமாலயன் அகாடமி — Tirumantiram: A Tamil Scriptural Classic (Himalayan Academy Publications).`,
     },
   ],
 };

@@ -49,7 +49,7 @@ export default function VerseScreen() {
           : [color + '18', color + '00']}
         style={[styles.header, { borderBottomColor: color + '33' }]}
       >
-        <TouchableOpacity onPress={() => router.back()} style={styles.backBtn} hitSlop={8}>
+        <TouchableOpacity onPress={() => router.navigate(`/(tabs)/tantra/${verse.tantraId}` as any)} style={styles.backBtn} hitSlop={8}>
           <Text style={[styles.backArrow, { color }]}>‹ Back</Text>
         </TouchableOpacity>
         <View style={styles.headerCenter}>
@@ -178,7 +178,7 @@ export default function VerseScreen() {
         {/* Tantra info */}
         {tantra && (
           <TouchableOpacity
-            onPress={() => router.push(`/tantra/${tantra.id}` as any)}
+            onPress={() => router.navigate(`/(tabs)/tantra/${tantra.id}` as any)}
             activeOpacity={0.75}
           >
             <LinearGradient

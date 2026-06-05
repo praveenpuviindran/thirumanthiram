@@ -99,7 +99,7 @@ export default function HomeScreen() {
 
         {/* ── Daily Verse ──────────────────────────────────── */}
         <SectionHeader title="Verse of the Day" subtitle="திருமந்திர பாடல்" />
-        <DailyVerse onPress={(id) => router.push(`/verse/${id}` as any)} />
+        <DailyVerse onPress={(id) => router.navigate(`/(tabs)/verse/${id}` as any)} />
 
         {/* ── Browse Tantras ───────────────────────────────── */}
         <SectionHeader title="Browse Tantras" subtitle="தந்திரங்கள்" />
@@ -111,7 +111,7 @@ export default function HomeScreen() {
           {TANTRAS.map((t) => (
             <TouchableOpacity
               key={t.id}
-              onPress={() => router.push(`/tantra/${t.id}` as any)}
+              onPress={() => router.navigate(`/(tabs)/tantra/${t.id}` as any)}
               activeOpacity={0.75}
             >
               <LinearGradient

@@ -116,7 +116,7 @@ export default function TantraScreen() {
         renderItem={({ item }) => (
           <VerseCard
             verse={item}
-            onPress={() => router.push(`/verse/${item.id}` as any)}
+            onPress={() => router.navigate(`/(tabs)/verse/${item.id}` as any)}
             isFavorite={isFavorite(item.id)}
           />
         )}

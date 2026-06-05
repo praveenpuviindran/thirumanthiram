@@ -4,11 +4,12 @@ import { Colors } from '../../constants/Colors';
 
 function TabIcon({ label, active, color }: { label: string; active: boolean; color: string }) {
   const icons: Record<string, string> = {
-    Home:       '⌂',
-    Tantras:    '☰',
-    Search:     '⌕',
-    Favorites:  '★',
-    Settings:   '⚙',
+    Home:        '⌂',
+    Tantras:     '☰',
+    Search:      '⌕',
+    Dictionary:  'அ',
+    Favorites:   '★',
+    Settings:    '⚙',
   };
   return (
     <Text style={{ fontSize: 19, color, opacity: active ? 1 : 0.6 }}>
@@ -67,6 +68,15 @@ export default function TabLayout() {
         }}
       />
       <Tabs.Screen
+        name="dictionary"
+        options={{
+          title: 'Dictionary',
+          tabBarIcon: ({ color, focused }) => (
+            <TabIcon label="Dictionary" active={focused} color={color} />
+          ),
+        }}
+      />
+      <Tabs.Screen
         name="favorites"
         options={{
           title: 'Favorites',
@@ -83,11 +93,6 @@ export default function TabLayout() {
             <TabIcon label="Settings" active={focused} color={color} />
           ),
         }}
-      />
-      {/* Dictionary accessible via in-app navigation, not shown in tab bar */}
-      <Tabs.Screen
-        name="dictionary"
-        options={{ href: null }}
       />
       {/* Tantra and verse detail screens — hidden from tab bar */}
       <Tabs.Screen

@@ -45,7 +45,7 @@ export default function SearchScreen() {
 
         <TouchableOpacity
           style={[styles.dictChip, { backgroundColor: theme.bgCard, borderColor: theme.border }]}
-          onPress={() => router.push('/dictionary' as any)}
+          onPress={() => router.navigate('/(tabs)/dictionary' as any)}
           activeOpacity={0.75}
         >
           <Text style={[styles.dictChipIcon, { color: theme.saffron }]}>◉</Text>
@@ -80,7 +80,7 @@ export default function SearchScreen() {
           renderItem={({ item }) => (
             <VerseCard
               verse={item}
-              onPress={() => router.push(`/verse/${item.id}` as any)}
+              onPress={() => router.navigate(`/(tabs)/verse/${item.id}` as any)}
               isFavorite={isFavorite(item.id)}
               showTantraLabel
             />
