@@ -4,30 +4,89 @@ import {
   StyleSheet, StatusBar, Modal, ScrollView,
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
+import { LinearGradient } from 'expo-linear-gradient';
+import { useRouter } from 'expo-router';
 import { useTheme } from '../../constants/Theme';
 import {
   DICTIONARY_TERMS, CATEGORY_COLORS,
   searchDictionary,
   type DictionaryTerm, type DictionaryCategory,
 } from '../../data/dictionary';
+import { getVerseById, getTantraById } from '../../data/thirumanthiram';
+import { Spacing, Radius, FontSize, Colors } from '../../constants/Colors';
 
 const ALL_CATEGORIES: DictionaryCategory[] = [
   'Deity', 'Philosophy', 'Yoga', 'Soul & Liberation', 'Cosmology', 'Scripture', 'Practice',
 ];
 const DICTIONARY = DICTIONARY_TERMS;
-import { Spacing, Radius, FontSize } from '../../constants/Colors';
 
-// ── Term detail modal ────────────────────────────────────────────────────────
+// ── Verse mini-card inside modal ──────────────────────────────────────────────
+function VerseRefCard({
+  verseId,
+  onPress,
+}: {
+  verseId: number;
+  onPress: () => void;
+}) {
+  const theme = useTheme();
+  const verse = useMemo(() => getVerseById(verseId), [verseId]);
+  const tantra = useMemo(() => verse ? getTantraById(verse.tantraId) : undefined, [verse]);
+
+  if (!verse) return null;
+  const color = tantra?.color ?? Colors.saffron;
+  // First line of Tamil; first line of English (up to the colon or 60 chars)
+  const tamilLine = verse.tamil.split('\n')[0];
+  const englishRaw = verse.english.split('\n')[0];
+  const englishLine = englishRaw.length > 60 ? englishRaw.slice(0, 60) + '…' : englishRaw;
+
+  return (
+    <TouchableOpacity
+      onPress={onPress}
+      activeOpacity={0.75}
+      style={[styles.verseCard, { backgroundColor: theme.bg, borderColor: color + '55' }]}
+    >
+      <LinearGradient
+        colors={[color + '20', color + '08']}
+        style={styles.verseCardGradient}
+      >
+        <View style={[styles.verseNumBadge, { backgroundColor: color + '22', borderColor: color + '44' }]}>
+          <Text style={[styles.verseNumText, { color }]}>
+            {verse.verseNumber === 0 ? 'Kaapu' : `#${verse.verseNumber}`}
+          </Text>
+          {tantra && (
+            <Text style={[styles.verseTantraText, { color: color + 'BB' }]}>
+              {tantra.number === 0 ? 'Paayiram' : `T${tantra.number}`}
+            </Text>
+          )}
+        </View>
+        <View style={styles.verseCardBody}>
+          <Text style={[styles.verseTamilLine, { color: theme.text }]} numberOfLines={1}>
+            {tamilLine}
+          </Text>
+          <Text style={[styles.verseEnglishLine, { color: theme.textMuted }]} numberOfLines={1}>
+            {englishLine}
+          </Text>
+        </View>
+        <Text style={[styles.verseArrow, { color }]}>›</Text>
+      </LinearGradient>
+    </TouchableOpacity>
+  );
+}
+
+// ── Term detail modal ─────────────────────────────────────────────────────────
 function TermModal({
   term,
   onClose,
+  onNavigateToVerse,
 }: {
   term: DictionaryTerm | null;
   onClose: () => void;
+  onNavigateToVerse: (id: number) => void;
 }) {
   const theme = useTheme();
   if (!term) return null;
   const color = CATEGORY_COLORS[term.category];
+  const hasVerseRefs = term.verseRefs && term.verseRefs.length > 0;
 
   return (
     <Modal
@@ -37,7 +96,7 @@ function TermModal({
       onRequestClose={onClose}
     >
       <SafeAreaView style={[styles.modalSafe, { backgroundColor: theme.bg }]}>
-        {/* Close bar */}
+        {/* Header */}
         <View style={[styles.modalHeader, { borderBottomColor: theme.border }]}>
           <TouchableOpacity onPress={onClose} style={styles.modalCloseBtn} hitSlop={10}>
             <Text style={[styles.modalClose, { color: theme.saffron }]}>✕ Close</Text>
@@ -48,23 +107,55 @@ function TermModal({
         </View>
 
         <ScrollView contentContainerStyle={styles.modalScroll} showsVerticalScrollIndicator={false}>
-          {/* Tamil word */}
-          <Text style={[styles.modalTamil, { color: theme.text }]}>{term.tamil}</Text>
-          <Text style={[styles.modalTranslit, { color }]}>{term.transliteration}</Text>
-          <Text style={[styles.modalEnglish, { color: theme.textSub }]}>{term.english}</Text>
+          {/* Word identity block */}
+          <LinearGradient
+            colors={[color + '18', color + '06']}
+            style={[styles.wordBlock, { borderColor: color + '33' }]}
+          >
+            <Text style={[styles.modalTamil, { color: theme.text }]}>{term.tamil}</Text>
+            <Text style={[styles.modalTranslit, { color }]}>{term.transliteration}</Text>
+            <View style={[styles.modalEnglishPill, { backgroundColor: color + '18', borderColor: color + '33' }]}>
+              <Text style={[styles.modalEnglish, { color: theme.textSub }]}>{term.english}</Text>
+            </View>
+          </LinearGradient>
 
           <View style={[styles.modalDivider, { backgroundColor: theme.border }]} />
 
           {/* Explanation */}
           <Text style={[styles.modalExplLabel, { color }]}>Explanation</Text>
           <Text style={[styles.modalExplanation, { color: theme.textSub }]}>{term.explanation}</Text>
+
+          {/* Verse references */}
+          {hasVerseRefs && (
+            <>
+              <View style={[styles.modalDivider, { backgroundColor: theme.border }]} />
+              <View style={styles.verseSectionHeader}>
+                <View style={[styles.verseSectionDot, { backgroundColor: color }]} />
+                <Text style={[styles.verseSectionLabel, { color }]}>
+                  VERSES · {term.verseRefs!.length} related
+                </Text>
+              </View>
+              <Text style={[styles.verseSectionSub, { color: theme.textMuted }]}>
+                Tap a verse to read it in context
+              </Text>
+              <View style={styles.verseList}>
+                {term.verseRefs!.map((vid) => (
+                  <VerseRefCard
+                    key={vid}
+                    verseId={vid}
+                    onPress={() => onNavigateToVerse(vid)}
+                  />
+                ))}
+              </View>
+            </>
+          )}
         </ScrollView>
       </SafeAreaView>
     </Modal>
   );
 }
 
-// ── Term card ────────────────────────────────────────────────────────────────
+// ── Term card ─────────────────────────────────────────────────────────────────
 function TermCard({
   term,
   onPress,
@@ -74,6 +165,7 @@ function TermCard({
 }) {
   const theme = useTheme();
   const color = CATEGORY_COLORS[term.category];
+  const hasRefs = term.verseRefs && term.verseRefs.length > 0;
 
   return (
     <TouchableOpacity
@@ -96,6 +188,15 @@ function TermCard({
         <Text style={[styles.cardExcerpt, { color: theme.textMuted }]} numberOfLines={2}>
           {term.explanation}
         </Text>
+        {hasRefs && (
+          <View style={styles.refBadgeRow}>
+            <View style={[styles.refBadge, { backgroundColor: color + '18', borderColor: color + '44' }]}>
+              <Text style={[styles.refBadgeText, { color }]}>
+                ✦ {term.verseRefs!.length} verse{term.verseRefs!.length !== 1 ? 's' : ''}
+              </Text>
+            </View>
+          </View>
+        )}
       </View>
     </TouchableOpacity>
   );
@@ -104,6 +205,7 @@ function TermCard({
 // ── Main screen ───────────────────────────────────────────────────────────────
 export default function DictionaryScreen() {
   const theme = useTheme();
+  const router = useRouter();
   const [query, setQuery] = useState('');
   const [activeCategory, setActiveCategory] = useState<DictionaryCategory | null>(null);
   const [selectedTerm, setSelectedTerm] = useState<DictionaryTerm | null>(null);
@@ -116,7 +218,6 @@ export default function DictionaryScreen() {
   const results = useMemo(() => {
     const bySearch = searchDictionary(query);
     const filtered = !activeCategory ? bySearch : bySearch.filter((t) => t.category === activeCategory);
-    // Always alphabetical by transliteration
     return [...filtered].sort((a, b) => a.transliteration.localeCompare(b.transliteration));
   }, [query, activeCategory]);
 
@@ -124,6 +225,14 @@ export default function DictionaryScreen() {
     setActiveCategory((prev) => (prev === cat ? null : cat));
     setQuery('');
   }, []);
+
+  const handleNavigateToVerse = useCallback((id: number) => {
+    setSelectedTerm(null);
+    // small delay lets the modal dismiss animation start before navigation
+    setTimeout(() => {
+      router.navigate(`/(tabs)/verse/${id}` as any);
+    }, 120);
+  }, [router]);
 
   return (
     <SafeAreaView style={[styles.safe, { backgroundColor: theme.bg }]}>
@@ -208,7 +317,11 @@ export default function DictionaryScreen() {
       />
 
       {/* Detail modal */}
-      <TermModal term={selectedTerm} onClose={() => setSelectedTerm(null)} />
+      <TermModal
+        term={selectedTerm}
+        onClose={() => setSelectedTerm(null)}
+        onNavigateToVerse={handleNavigateToVerse}
+      />
     </SafeAreaView>
   );
 }
@@ -280,6 +393,14 @@ const styles = StyleSheet.create({
   cardTranslit: { fontSize: FontSize.sm, fontWeight: '600', fontStyle: 'italic' },
   cardEnglish: { fontSize: FontSize.sm, fontWeight: '500' },
   cardExcerpt: { fontSize: FontSize.xs, lineHeight: 17, marginTop: 2 },
+  refBadgeRow: { flexDirection: 'row', marginTop: 6 },
+  refBadge: {
+    borderRadius: Radius.full,
+    borderWidth: 1,
+    paddingHorizontal: 8,
+    paddingVertical: 2,
+  },
+  refBadgeText: { fontSize: 10, fontWeight: '700' },
 
   empty: { padding: Spacing.xl, alignItems: 'center', gap: 8 },
   emptyIcon: { fontSize: 36 },
@@ -304,10 +425,26 @@ const styles = StyleSheet.create({
     paddingVertical: 4,
   },
   modalCatText: { fontSize: FontSize.xs, fontWeight: '700' },
-  modalScroll: { padding: Spacing.lg, gap: 6 },
-  modalTamil: { fontSize: 36, fontWeight: '800', letterSpacing: 0.5 },
+  modalScroll: { padding: Spacing.lg, gap: 6, paddingBottom: 48 },
+
+  wordBlock: {
+    borderRadius: Radius.lg,
+    borderWidth: 1,
+    padding: Spacing.lg,
+    gap: 6,
+    marginBottom: 4,
+  },
+  modalTamil: { fontSize: 38, fontWeight: '800', letterSpacing: 0.5 },
   modalTranslit: { fontSize: FontSize.xl, fontWeight: '600', fontStyle: 'italic' },
-  modalEnglish: { fontSize: FontSize.md, fontWeight: '500', marginTop: 4 },
+  modalEnglishPill: {
+    alignSelf: 'flex-start',
+    borderRadius: Radius.full,
+    borderWidth: 1,
+    paddingHorizontal: 12,
+    paddingVertical: 4,
+    marginTop: 4,
+  },
+  modalEnglish: { fontSize: FontSize.sm, fontWeight: '600' },
   modalDivider: { height: 1, marginVertical: Spacing.md, opacity: 0.4 },
   modalExplLabel: {
     fontSize: FontSize.xs,
@@ -317,4 +454,48 @@ const styles = StyleSheet.create({
     marginBottom: 8,
   },
   modalExplanation: { fontSize: FontSize.sm, lineHeight: 24 },
+
+  // Verse refs section
+  verseSectionHeader: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 6,
+    marginBottom: 4,
+  },
+  verseSectionDot: { width: 6, height: 6, borderRadius: 3 },
+  verseSectionLabel: {
+    fontSize: FontSize.xs,
+    fontWeight: '700',
+    letterSpacing: 1.5,
+    textTransform: 'uppercase',
+  },
+  verseSectionSub: { fontSize: FontSize.xs, marginBottom: 10 },
+  verseList: { gap: Spacing.sm },
+
+  // Verse ref card
+  verseCard: {
+    borderRadius: Radius.md,
+    borderWidth: 1,
+    overflow: 'hidden',
+  },
+  verseCardGradient: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    padding: Spacing.md,
+    gap: Spacing.sm,
+  },
+  verseNumBadge: {
+    borderRadius: Radius.sm,
+    borderWidth: 1,
+    paddingHorizontal: 8,
+    paddingVertical: 5,
+    alignItems: 'center',
+    minWidth: 52,
+  },
+  verseNumText: { fontSize: FontSize.xs, fontWeight: '800' },
+  verseTantraText: { fontSize: 10, fontWeight: '600', marginTop: 1 },
+  verseCardBody: { flex: 1, gap: 3 },
+  verseTamilLine: { fontSize: FontSize.sm, fontWeight: '600', letterSpacing: 0.2 },
+  verseEnglishLine: { fontSize: FontSize.xs, lineHeight: 16 },
+  verseArrow: { fontSize: 22, fontWeight: '300' },
 });

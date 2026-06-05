@@ -40,7 +40,7 @@ export function VerseAudioPlayer({ tamilText, audioUrl }: Props) {
   // Cleanup on unmount
   useEffect(() => {
     return () => {
-      Speech.stop();
+      Speech.stop().catch(() => {});
       if (ttsTimeoutRef.current) clearTimeout(ttsTimeoutRef.current);
       soundRef.current?.stopAsync().catch(() => {});
       soundRef.current?.unloadAsync().catch(() => {});
@@ -48,7 +48,7 @@ export function VerseAudioPlayer({ tamilText, audioUrl }: Props) {
   }, []);
 
   const stop = useCallback(async () => {
-    Speech.stop();
+    await Speech.stop().catch(() => {});
     ttsActiveRef.current = false;
     if (ttsTimeoutRef.current) {
       clearTimeout(ttsTimeoutRef.current);
@@ -95,12 +95,6 @@ export function VerseAudioPlayer({ tamilText, audioUrl }: Props) {
         // Ensure audio plays even when iOS silent switch is on
         await Audio.setAudioModeAsync({ playsInSilentModeIOS: true, allowsRecordingIOS: false });
       } catch { /* best-effort */ }
-
-      const available = await Speech.isAvailableAsync();
-      if (!available) {
-        setState('idle');
-        return;
-      }
 
       ttsActiveRef.current = true;
 
