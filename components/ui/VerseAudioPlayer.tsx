@@ -18,6 +18,11 @@ import * as Speech from 'expo-speech';
 import { useTheme } from '../../constants/Theme';
 import { Spacing, Radius, FontSize, Colors } from '../../constants/Colors';
 
+// Tamil verse averages ~60 chars; at rate 0.82 roughly 1 char/100ms; add generous buffer
+function estimateTtsDurationMs(text: string) {
+  return Math.max(10_000, (text.length / 0.82) * 80);
+}
+
 interface Props {
   tamilText: string;
   audioUrl?: string;  // if provided, plays real recording; else uses TTS
@@ -30,11 +35,13 @@ export function VerseAudioPlayer({ tamilText, audioUrl }: Props) {
   const [state, setState] = useState<State>('idle');
   const soundRef = useRef<Audio.Sound | null>(null);
   const ttsActiveRef = useRef(false);
+  const ttsTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   // Cleanup on unmount
   useEffect(() => {
     return () => {
       Speech.stop();
+      if (ttsTimeoutRef.current) clearTimeout(ttsTimeoutRef.current);
       soundRef.current?.stopAsync().catch(() => {});
       soundRef.current?.unloadAsync().catch(() => {});
     };
@@ -43,6 +50,10 @@ export function VerseAudioPlayer({ tamilText, audioUrl }: Props) {
   const stop = useCallback(async () => {
     Speech.stop();
     ttsActiveRef.current = false;
+    if (ttsTimeoutRef.current) {
+      clearTimeout(ttsTimeoutRef.current);
+      ttsTimeoutRef.current = null;
+    }
     if (soundRef.current) {
       await soundRef.current.stopAsync().catch(() => {});
       await soundRef.current.unloadAsync().catch(() => {});
@@ -80,23 +91,33 @@ export function VerseAudioPlayer({ tamilText, audioUrl }: Props) {
       }
     } else {
       // TTS fallback
+      try {
+        // Ensure audio plays even when iOS silent switch is on
+        await Audio.setAudioModeAsync({ playsInSilentModeIOS: true, allowsRecordingIOS: false });
+      } catch { /* best-effort */ }
+
+      const available = await Speech.isAvailableAsync();
+      if (!available) {
+        setState('idle');
+        return;
+      }
+
       ttsActiveRef.current = true;
+
+      // Safety timeout — callbacks can silently drop on web/some browsers
+      const clearTts = () => {
+        if (ttsTimeoutRef.current) { clearTimeout(ttsTimeoutRef.current); ttsTimeoutRef.current = null; }
+        ttsActiveRef.current = false;
+      };
+      ttsTimeoutRef.current = setTimeout(() => { clearTts(); setState('idle'); }, estimateTtsDurationMs(tamilText));
+
       Speech.speak(tamilText, {
         language: 'ta-IN',
         rate: 0.82,
         pitch: 1.0,
-        onDone: () => {
-          if (ttsActiveRef.current) setState('idle');
-          ttsActiveRef.current = false;
-        },
-        onStopped: () => {
-          setState('idle');
-          ttsActiveRef.current = false;
-        },
-        onError: () => {
-          setState('idle');
-          ttsActiveRef.current = false;
-        },
+        onDone: () => { clearTts(); setState('idle'); },
+        onStopped: () => { clearTts(); setState('idle'); },
+        onError: () => { clearTts(); setState('idle'); },
       });
     }
   }, [audioUrl, state, stop, tamilText]);

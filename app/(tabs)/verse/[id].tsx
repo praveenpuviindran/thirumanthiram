@@ -211,7 +211,7 @@ export default function VerseScreen() {
               { backgroundColor: theme.bgCard, borderColor: theme.border },
               !prevVerse && styles.navBtnDisabled,
             ]}
-            onPress={() => prevVerse && router.replace(`/verse/${prevVerse.id}` as any)}
+            onPress={() => prevVerse && router.replace(`/(tabs)/verse/${prevVerse.id}` as any)}
             disabled={!prevVerse}
             activeOpacity={0.75}
           >
@@ -232,7 +232,7 @@ export default function VerseScreen() {
               { backgroundColor: theme.bgCard, borderColor: theme.border },
               !nextVerse && styles.navBtnDisabled,
             ]}
-            onPress={() => nextVerse && router.replace(`/verse/${nextVerse.id}` as any)}
+            onPress={() => nextVerse && router.replace(`/(tabs)/verse/${nextVerse.id}` as any)}
             disabled={!nextVerse}
             activeOpacity={0.75}
           >
