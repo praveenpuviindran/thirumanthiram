@@ -90,12 +90,8 @@ export function VerseAudioPlayer({ tamilText, audioUrl }: Props) {
         setState('idle');
       }
     } else {
-      // TTS fallback
-      try {
-        // Ensure audio plays even when iOS silent switch is on
-        await Audio.setAudioModeAsync({ playsInSilentModeIOS: true, allowsRecordingIOS: false });
-      } catch { /* best-effort */ }
-
+      // TTS fallback — do NOT call setAudioModeAsync here; expo-av's session grab
+      // activates AVAudioSessionCategoryPlayback which prevents AVSpeechSynthesizer from starting
       ttsActiveRef.current = true;
 
       // Safety timeout — callbacks can silently drop on web/some browsers
