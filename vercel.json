@@ -1,5 +1,9 @@
 {
   "buildCommand": "node node_modules/expo/bin/cli export --platform web",
   "outputDirectory": "dist",
-  "installCommand": "npm install"
+  "installCommand": "npm install",
+  "rewrites": [
+    { "source": "/verse/:id", "destination": "/verse/[id]" },
+    { "source": "/tantra/:id", "destination": "/tantra/[id]" }
+  ]
 }
