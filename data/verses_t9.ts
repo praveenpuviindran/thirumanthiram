@@ -22,8 +22,6 @@ In worship spread;
 The Gurus who thus meditate,
 Who have monasteries founded,
 Have verily reached Feet of Lord.`,
-    elaborationEnglish: `Qashdie new sagiséan
-AUS Dachda mp sg`,
   },
   {
     id: 2651, tantraId: 9, verseNumber: 2650,
@@ -43,7 +41,6 @@ Let them find out;
 Even after having found out
 That Jiva's body is Siva's home
 They say, "He (Lord) is outside."`,
-    elaborationEnglish: `HOG Auorgs Osrinnets Crary`,
   },
   {
     id: 2652, tantraId: 9, verseNumber: 2651,
@@ -61,8 +58,6 @@ The flower-decked feet of Siva I reached within;
 Beyond seeking is He;
 Greatness indeed is where He resides;
 He stood as life of the revolving world.`,
-    elaborationEnglish: `Qurdyoucs srg Coro toemanuytd
-Qundyae 3195 areruptb`,
   },
   {
     id: 2653, tantraId: 9, verseNumber: 2652,
@@ -78,6 +73,11 @@ iyampuvaṉ īrāṟu irunilat tōrkkē`,
 I shall reveal where He is seated;
 And where His mountain is;
 I shall reveal where His retreat-cave is`,
+    elaborationEnglish: `I shall reveal where His Adharas (triple) are; And the forest where He is
+
+All these eight I shall reveal
+
+To denizens of world here below.`,
   },
   {
     id: 2654, tantraId: 9, verseNumber: 2653,
@@ -98,11 +98,6 @@ The heart that performs the Sixteen worships inside
 Is Lord's sacred throne;
 The Adharas within
 Are Lord's astral cave.`,
-    elaborationEnglish: `The heart that performs the Sixteen worships inside
-
-Is Lord’s sacred throne;
-The Adharas within
-Are Lord’s astral cave.`,
   },
   {
     id: 2655, tantraId: 9, verseNumber: 2654,
@@ -120,9 +115,6 @@ The Sakti pervasive is His Throne
 The universal God within is Siva Himself;
 Thus it is,
 For these who inward reflect and know.`,
-    elaborationEnglish: `biraw WITH wapss wennaymsr
-
-gi ugejart Qaenepus aici`,
   },
   {
     id: 2656, tantraId: 9, verseNumber: 2655,
@@ -140,13 +132,6 @@ When their end they reach,
 The Holy Light of itself appears;
 Those who seek the Truth in that Manifestness (Svarupa)
 Are the Jnanis, in Silentness Exceeding.`,
-    elaborationEnglish: `When their end they reach,
-The Holy Light of itself appears;
-
-Those who seek the Truth in that Manifestness
-Are the Jnanis, in Silence Exceeding.
-
-2. GISEGGH Sieorbd`,
   },
   {
     id: 2657, tantraId: 9, verseNumber: 2656,
@@ -218,13 +203,6 @@ Unto it,
 At the thought of Guru's form
 The triple Malas leave instant;
 The Jiva then Siva becomes.`,
-    elaborationEnglish: `Like it,
-
-At the thought of Guri’s form
-The triple Malas leave instant;
-The Jiva then Siva becomes.
-
-ATH QUI bd yup Gare antseps`,
   },
   {
     id: 2661, tantraId: 9, verseNumber: 2660,
@@ -242,9 +220,6 @@ To those who seek where the Lord resides
 The Lord within them resides;
 When they the Lord see,
 Jiva becomes Siva.`,
-    elaborationEnglish: `wicin aia, upper anSsar
-
-Panag fags giMumacr apormm`,
   },
   {
     id: 2662, tantraId: 9, verseNumber: 2661,
@@ -265,7 +240,6 @@ As in waking, dreaming and rest of states,
 These three perceptions will there be not,
 In the State the Three Turiyas transcended;
 There Nandi stands firm, in Silentness Exalted.`,
-    elaborationEnglish: `ups Deng 2 Golo’`,
   },
   {
     id: 2663, tantraId: 9, verseNumber: 2662,
@@ -285,9 +259,6 @@ Is Virgin Sakti seated;
 Radiant as Crystal is Her Form;
 (To vision Her)
 Seek you the Guru
-Who all bonds sundered.`,
-    elaborationEnglish: `Seek you the Guru
-
 Who all bonds sundered.`,
   },
   {
@@ -309,7 +280,6 @@ Into rage He entered
 For the eight directions to tremble;
 Into wilderness He entered
 His abode in North Mountain to be.`,
-    elaborationEnglish: `sree cicsesipm smi sms`,
   },
   {
     id: 2665, tantraId: 9, verseNumber: 2664,
@@ -327,17 +297,7 @@ Unto a forest is that body
 Where the Jiva-bird its abode has;
 If the Jiva seeks the Way of Sixteen worships
 Then is Jiva's Ten attainments are.`,
-    elaborationEnglish: `‘Annamaya-Flesh body
-
-Pranamaya-breath-body
-
-Manomaya-mind-body
-
-Vijnanamaya-knowledge-body
-
-Anandamaya-bliss-body
-
-?The yogic way of reaching the light with sixteen beams within the visuddhi adhara, where Sakti stands.
+    elaborationEnglish: `?The yogic way of reaching the light with sixteen beams within the visuddhi adhara, where Sakti stands.
 
 Ten states of transcendental consciousness, beyond which is the final goal of supreme awareness.`,
   },
@@ -353,9 +313,17 @@ karuvil karantuuḷḷam kāṇaval lārkkuiṅku
 aruviṉai kaṇcōrum aḻivār akattē`,
     english: `2665: Love Lord and Sever Pasas
 Our Holy Nandi`,
-    elaborationEnglish: `goon. gareners
+    elaborationEnglish: `Once He loves, separation Knows not, Think of His Form
 
-Havin Gry Henerririm`,
+And within you He melts;
+
+Enter into His Essence
+
+And see Him in your heart;
+
+For those who can do this,
+
+The seminal Karmas slumbering die; The Ego-Consciousness forever perishes.`,
   },
   {
     id: 2667, tantraId: 9, verseNumber: 2666,
@@ -374,8 +342,6 @@ Sunder Pasas strong and away cast them;
 Seek Him firm and think constant within;
 Reached then shall be
 The Holy One that is Dharma.`,
-    elaborationEnglish: `Heancshet Ploncrtiuicut sibeows
-Sacidtienk sorer Aginww`,
   },
   {
     id: 2668, tantraId: 9, verseNumber: 2667,
@@ -427,6 +393,15 @@ pukaḻvaḻi kāṭṭip pukuntuniṉ ṟāṉē`,
 Thinking of Lord
 Their inconstancy lost;
 Uniting in Lord`,
+    elaborationEnglish: `Their existence lost;
+
+In their thoughts
+
+Their ego lost;
+
+Thus he entered
+
+Showing the Way Illumined.`,
   },
   {
     id: 2671, tantraId: 9, verseNumber: 2670,
@@ -444,9 +419,6 @@ On to a green stone set
 Is the Holy Guru's Jnana precept;
 That ray in the eye-brow Center is;
 It is the Light within the Light Resplendent.`,
-    elaborationEnglish: `screyior Curssé Soyo BQ
-
-lemcn forercd sunayworui`,
   },
   {
     id: 2672, tantraId: 9, verseNumber: 2671,
@@ -481,11 +453,6 @@ His one half to the Great Grace lends;
 The other half to His devotees gave
 For their goal to reach;
 He who this world fashioned.`,
-    elaborationEnglish: `Abus gris sao
-
-S$bug wees sr)
-
-aneroet Siesout Ker. cur`,
   },
   {
     id: 2674, tantraId: 9, verseNumber: 2673,
@@ -504,15 +471,6 @@ Except Him we know Param (supreme) none;
 Of the Celestials, Vanavas and Dhanavas,
 None have seen Him ever;
 Only those who received His Grace
-Have seen Him forever.`,
-    elaborationEnglish: `. By the vast spatial glades surrounded;
-
-Except Him we know Param (supreme) none;
-Of the Celestials, Wanavas and Danavas,
-None have seen Him ever;
-
-Only those who received His Grace
-
 Have seen Him forever.`,
   },
   {
@@ -534,9 +492,6 @@ No more the other Gods we adore;
 Our vision is clear now;
 We became the Object
 For other Jivas to seek and worship.`,
-    elaborationEnglish: `3. Speaa sur®
-
-Sw Ooeroagy Oenejpurerssu Cugeys`,
   },
   {
     id: 2676, tantraId: 9, verseNumber: 2675,
@@ -572,7 +527,6 @@ Aum is the one Word Supreme;
 Aum is the Form-Formless;
 Aum is the Infinite Diversity;
 Aum is Siddhi and Mukti radiant.`,
-    elaborationEnglish: `858 gitepsrpibd 2`,
   },
   {
     id: 2678, tantraId: 9, verseNumber: 2677,
@@ -591,9 +545,6 @@ In the atita (finite) of Aum
 The three Jivas merged;
 Aum is the Form
 Of Jiva, Para and Siva in union.`,
-    elaborationEnglish: `wrGb awa
-
-angrg Cue`,
   },
   {
     id: 2679, tantraId: 9, verseNumber: 2678,
@@ -631,7 +582,7 @@ Lead to vision clear of Light Divine;
 The steadfast mind
 Is the place, environs and devotion appropriate;
 Goodly indeed is Upadesa (teaching) of Sanmarga (Jnana).`,
-    elaborationEnglish: ``,
+    elaborationEnglish: `Is the place, environs and devotion appropriate; Great indeed is Upadesa (teaching) of Sanmarga (Jnana).`,
   },
   {
     id: 2681, tantraId: 9, verseNumber: 2680,
@@ -650,11 +601,6 @@ Beyond is the end of Nine centers,
 Still beyond is Pranava
 Ascending further beyond is the End Finite,
 Of Jnana (Knowledge) and Jneya (Known) in one.`,
-    elaborationEnglish: `4. oof
-
-eiau wid oGaib gout
-
-omuyib ogeaub w»hud 2 Goud`,
   },
   {
     id: 2682, tantraId: 9, verseNumber: 2681,
@@ -671,8 +617,6 @@ Know the Light, your Form becomes Light;
 Know the Hidden Form; you that Form become;
 Know the Light's Form; you that Light become;
 That Light within you to melt, He in love stands.`,
-    elaborationEnglish: `Know the Light’s From; you that Light become;
-That Light within you to melt, He in love stand.`,
   },
   {
     id: 2683, tantraId: 9, verseNumber: 2682,
@@ -709,16 +653,6 @@ The Light that gave that Light
 Is a Mighty Light of Effulgence Immense;
 That Light dispelling my darkness,
 In me stood into oneness suffused.`,
-    elaborationEnglish: `Their luminousity received by Grace of Divine Light;
-The Light that gave that Light
-
-Is a Mighty Light of Effulgence Immense;
-
-That Light dispelling my darkness,
-
-In me stood into oneness suffused.
-
-Grips sess soir`,
   },
   {
     id: 2685, tantraId: 9, verseNumber: 2684,
@@ -736,7 +670,7 @@ Birth He has none;
 The luminous sun and moon are His eyes;
 The lustrous fire is His Fore-Head Eye;
 Thus is His Resplendent Form of dazzling Light.`,
-    elaborationEnglish: `Sipsor waged`,
+    elaborationEnglish: `Thus is His Resplendent Form of dazzling Light.`,
   },
   {
     id: 2686, tantraId: 9, verseNumber: 2685,
@@ -755,8 +689,6 @@ Rousing the Light (of Kundalini) within
 You shall in the astral sphere be;
 There indeed is the one Light
 That engrosses the lights of elements five.`,
-    elaborationEnglish: `
-usichu Gromd uss`,
   },
   {
     id: 2687, tantraId: 9, verseNumber: 2686,
@@ -778,7 +710,7 @@ That beams Jnana;
 It is the Light of Adharas six ascended,
 It is the Light born of constant thought on Pure Word (Aum)
 It is the Light that is blended of these lights all.`,
-    elaborationEnglish: `Weonors Oencvay ders Gumrgy tb woohoo Norn ut Horm`,
+    elaborationEnglish: `It is the Light that is blended of these lights all.`,
   },
   {
     id: 2688, tantraId: 9, verseNumber: 2687,
@@ -797,7 +729,6 @@ It is the light of the heart;
 It is the rich light that within the body pulsates
 Pervading all,
 -Thus did the Lord as Light stand.`,
-    elaborationEnglish: `wood Got Lory h`,
   },
   {
     id: 2689, tantraId: 9, verseNumber: 2688,
@@ -836,11 +767,6 @@ When the three lights Sun, Moon and Fire
 Within shines by Yoga Way,
 The Lord, indeed, nears you,
 As one Light in your inner Light.`,
-    elaborationEnglish: `Within shines by Yoga Way,
-The Lord, indeed, nears you,
-As one Light in your inner Light.
-
-wurusor o orien`,
   },
   {
     id: 2691, tantraId: 9, verseNumber: 2690,
@@ -855,7 +781,13 @@ vaḷaṅkoḷi āyattu ḷākiniṉ ṟāṉē`,
     english: `2690: Lord's Light and Jiva's Light Merge Within
 The Light within is but Jiva;
 The Lord too who stoo`,
-    elaborationEnglish: `urssgi or cot Geore
+    elaborationEnglish: `The Lord too who stood within was a gemly Light
+
+Flashing as lightning in the astral sphere,
+
+That Light with Sakti’s Light and Jiva’s Light into one merged.
+
+wri Herm DANTE B)G‘S urssgi or cot Geore
 
 Sores GH oT it Gio Kor ove`,
   },
@@ -876,7 +808,7 @@ Entering the dark arena of Pasa
 Dances as Light in that darkness;
 As the Forehead-Eyed God thus dances,
 He as Light Effulgent in Ummara Sakti merged.`,
-    elaborationEnglish: `BD uggs Hugi`,
+    elaborationEnglish: `He as Light Effulgent in Unmana Sakti merged.`,
   },
   {
     id: 2693, tantraId: 9, verseNumber: 2692,
@@ -916,13 +848,6 @@ Even they who say, "We saw not God"
 If in devotion stand,
 He as Light Effulgent in them is;
 He the Light of Astral Sphere (Chidambaram) within.`,
-    elaborationEnglish: `If in devotion stand,
-
-He as Light Effulgent in them is;
-
-He the Light of Astral Sphere (Chidambaram) within.
-
-ALGO wrewd caniiger al Fav`,
   },
   {
     id: 2695, tantraId: 9, verseNumber: 2694,
@@ -940,9 +865,6 @@ The light Effulgent that glows afar
 Is the Lord that spreads His beams as unto the Sun;
 When He the Maya's darkness dispells,
 Jiva in this body, a Jnani-Renunciate becomes (Jivan Mukta).`,
-    elaborationEnglish: `aru 381 Goren
-
-ogSorcr ang sus`,
   },
   {
     id: 2696, tantraId: 9, verseNumber: 2695,
@@ -963,10 +885,6 @@ When I, dispelled of my darkness,
 Shone as coral red,
 He, the Dancing Lord,
 In me in union stood.`,
-    elaborationEnglish: `He, the Dancing Lord,
-In me in union stood.
-
-Feeble: onefienn Gunitserbler miaifiletm`,
   },
   {
     id: 2697, tantraId: 9, verseNumber: 2696,
@@ -987,7 +905,7 @@ When Pasa's desires
 And the odor of Karma Past
 Together leave,
 The Jiva as a Flower of Divine blossoms.`,
-    elaborationEnglish: ``,
+    elaborationEnglish: `The Jiva as a Flower of Divine blossoms.`,
   },
   {
     id: 2698, tantraId: 9, verseNumber: 2697,
@@ -1007,9 +925,6 @@ Thus you seek Him;
 The very Heaven is He in this vast earth;
 Sweet is He;
 May you Him adore.`,
-    elaborationEnglish: `5. STH uGgensagib
-
-eu simrggre whee`,
   },
   {
     id: 2699, tantraId: 9, verseNumber: 2698,
@@ -1044,13 +959,6 @@ With letter "U" intoned high with letter "A",
 And with letter "M", it (A&U&M as AUM) ended;
 And again with letter "N" rising,
 It became Nandi's name "Aum Nama Sivaya."`,
-    elaborationEnglish: `The letters Fifty, Fifty-One became;
-
-With letter “‘U’’ intoned high with letter “‘A’’,
-And with letter “‘M’’, it as AUM) ended;
-And again with letter “‘N’’ rising,
-
-It became Nandi’s name ‘“‘Aum Nama Sivaya.”’`,
   },
   {
     id: 2701, tantraId: 9, verseNumber: 2700,
@@ -1075,23 +983,7 @@ That order reversed
 Is Nama Sivaya;
 That verily is the seminal Mantra;
 That Mantra do seek.`,
-    elaborationEnglish: `Is the Parai (Sakti);
-
-In the Unmani Sakti beginning with *‘U”’
-
-Is the light of. Lord within;
-
-The Mantra commencing with letter ‘‘Si’’ (Sivaya
-
-Is Siva and Vedas all;
-
-With letter “‘Na’’ commencing
-
-That order reversed
-Is Nama Sivaya;
-
-That verily is the seminal Mantra;
-That Mantra do seek.`,
+    elaborationEnglish: `That verily is the seminal Mantra; That Mantra do seek.`,
   },
   {
     id: 2702, tantraId: 9, verseNumber: 2701,
@@ -1114,7 +1006,6 @@ In the Navel Center is Si
 In the Heart Center is Va
 In the Throat Center is Ya
 In the Eye-brow Center is Aum.`,
-    elaborationEnglish: `oi Qult Gurrg`,
   },
   {
     id: 2703, tantraId: 9, verseNumber: 2702,
@@ -1134,7 +1025,6 @@ The Holy Mantra, Five-Lettered,
 Wholesome, and praise the Lord;
 -The Mantra that is so sacred to Sakti
 Who with Siva stands.rs above the Soul's refuge be.`,
-    elaborationEnglish: `Crug saree Seonsyto`,
   },
   {
     id: 2704, tantraId: 9, verseNumber: 2703,
@@ -1154,7 +1044,6 @@ The Holy Mantra, Five-Lettered,
 Wholesome, and praise the Lord;
 -The Mantra that is so sacred to Sakti
 Who with Siva stands.`,
-    elaborationEnglish: `Oscrorap gnps to Glues`,
   },
   {
     id: 2705, tantraId: 9, verseNumber: 2704,
@@ -1173,13 +1062,6 @@ Then will transparent ambrosia within you well up;
 They who seek not that pure ambrosia to drink
 Will be unto bubbles of a water-fall,
 That know rest none from birth's whirl, ever.`,
-    elaborationEnglish: `Then will transparent ambrosia within you well up;
-They who seek not that pure ambrosia to drink
-Will be like bubbles of a water-fall,
-
-That know rest none from birth’s -whirl, ever.
-
-Gop wrw Gormseh oiler`,
   },
   {
     id: 2706, tantraId: 9, verseNumber: 2705,
@@ -1196,8 +1078,6 @@ Take to the Way the Guru showed,
 And blot out the reckoning of births;
 To them who seek to close the birth's cyclic way
 The Five-Letters alone show the Grace-Way.`,
-    elaborationEnglish: `Oauiss Mosgwit Gurgi
-Gouug acstein Gnspe`,
   },
   {
     id: 2707, tantraId: 9, verseNumber: 2706,
@@ -1217,7 +1097,6 @@ Of Nandi pervasive;
 If you thus seek Him,
 He, the Grace of His Holy Feet confers;
 Your devotion shall lead you to Siva Form.`,
-    elaborationEnglish: `Wee Sup`,
   },
   {
     id: 2708, tantraId: 9, verseNumber: 2707,
@@ -1238,7 +1117,6 @@ Then will you receive
 The Grace of Lord in Letters Five seated,
 The Lord who resides
 In the snow-clad mountain of North (Kailas).`,
-    elaborationEnglish: `Soronppe genp wollsit`,
   },
   {
     id: 2709, tantraId: 9, verseNumber: 2708,
@@ -1257,9 +1135,6 @@ Will they ever dispel their darkness?
 Poor in spirit are they, (who think otherwise);
 They will to the nether world consigned be
 Surrounded by serpents of diverse species.`,
-    elaborationEnglish: `418 ‘ TIRUMANTIRAM
-
-etiaw yore wears errs`,
   },
   {
     id: 2710, tantraId: 9, verseNumber: 2709,
@@ -1278,7 +1153,6 @@ And hearts melting in love
 Let them chant His name;
 With the alchemic pill of Sivaya Nama
 He will turn thy body gold.`,
-    elaborationEnglish: `Parcs Geninw wrew fact 9 saga Pucint Geo`,
   },
   {
     id: 2711, tantraId: 9, verseNumber: 2710,
@@ -1297,8 +1171,6 @@ Chant it, for the five Pasas-Mala to disappear;
 When with Siva and Sakti, Jiva unites
 (That is when you say Si Va Ya)
 The harassing Pasas flee away.`,
-    elaborationEnglish: `Aacg anw Aawha pre;
-ancawts wowneuw`,
   },
   {
     id: 2712, tantraId: 9, verseNumber: 2711,
@@ -1320,7 +1192,6 @@ Thus the Five Letters, five relations denote;
 As you chant with Si first (that is as Si Va Ya Na Ma)
 You are of Karmas freed;
 Births no more will be`,
-    elaborationEnglish: `an® generale. yeapuge`,
   },
   {
     id: 2713, tantraId: 9, verseNumber: 2712,
@@ -1339,20 +1210,6 @@ By the Grace of Siva-Sakti
 Siva-Jnana pure will be;
 Repeated chant Si Va Ya;
 There verily is Truth of Mala-riddance.`,
-    elaborationEnglish: `Rid of malas denoted by
-
-And the primordial Anava too,
-
-By the Grace of Siva-Sakti
-
-Siva-Jnana pure will be;
-
-Repeated chant Si Va ‘Ya;
-
-There verily is Truth of Mala-riddance.
-
-porf pen ,
-Fors gue gusts`,
   },
   {
     id: 2714, tantraId: 9, verseNumber: 2713,
@@ -1374,7 +1231,6 @@ And She in turn leads to the Pure Sakti that leads to Grace,
 Then does Jiva reach the Final state of Turiya in Samadhi;
 Thus meditating on Na Ma and the rest,
 The Jiva unites in Siva.`,
-    elaborationEnglish: `Sine sahs Corgi`,
   },
   {
     id: 2715, tantraId: 9, verseNumber: 2714,
@@ -1393,8 +1249,6 @@ Together as Siva-Sakti roused Jiva to life;
 When you contemplate on Si Va Ya;
 Then the Maya within and the rest of Malas three are rid;
 That Si Va Ya destroys the hard Karmas too.`,
-    elaborationEnglish: `Aaa anyays Corbgict st mass
-Aafia crw ormnscir`,
   },
   {
     id: 2716, tantraId: 9, verseNumber: 2715,
@@ -1414,12 +1268,7 @@ Do say "Siva Siva"
 Unintermittent and spontaneous,
 In the depths of your heart;
 They who thus chant`,
-    elaborationEnglish: `~%.
-
-Are in Siva Jnana Pure;
-Theirs shall be the Grace Divine.
-
-Aufl corftgs wrat`,
+    elaborationEnglish: `Are in Siva Jnana Pure; Theirs shall be the Grace Divine.`,
   },
   {
     id: 2717, tantraId: 9, verseNumber: 2716,
@@ -1455,7 +1304,6 @@ No more shall you be in existence entangled;
 Your goal too shall be reached;
 Ignorance will end,
 And with it the whirl of births too.`,
-    elaborationEnglish: `ATI-SUKSHMA`,
   },
   {
     id: 2719, tantraId: 9, verseNumber: 2718,
@@ -1475,27 +1323,6 @@ Let the words Si Va Ya Siva Siva
 Fill your thoughts unceasing;
 Conquering all perils,
 Bliss there shall be.`,
-    elaborationEnglish: `srs Honpaicnon
-Ope Suist ~ 2719
-
-Five-Lettered Holy Word Leads to Samadhi
-
-Penetrating the fiery Sphere of Sun
-
-And passing beyond into the sphere of cloud-laden
-Meru
-
-By the Adhara Way,
-
-He (the yogi) there in Samadhi slumbers;
-
-And then articulating the Holy Word
-
-He sees the Lord
-
-And is forever absorbed in His thought.
-
-amacr Mores Guus`,
   },
   {
     id: 2720, tantraId: 9, verseNumber: 2719,
@@ -1531,9 +1358,6 @@ Are in my Lord's One Letter contained
 Freed of doubts,
 If that One letter "Si" is consummated,
 The boat of life reaches the lovely shore across.`,
-    elaborationEnglish: `upsse gabgid upwep
-
-APS SHU encrup aurniicvon`,
   },
   {
     id: 2722, tantraId: 9, verseNumber: 2721,
@@ -1555,7 +1379,6 @@ To Slumber-in-Waking;
 Witless are they;
 They know not the Letter
 That their Fate's Letter unwrites.`,
-    elaborationEnglish: ``,
   },
   {
     id: 2723, tantraId: 9, verseNumber: 2722,
@@ -1574,13 +1397,6 @@ Everywhere is Chidambaram;
 Everywhere is Divine Dance;
 As everywhere Siva is,
 Everywhere Siva's Grace is
-All, all, His Sport Divine.`,
-    elaborationEnglish: `Everywhere is the Holy Form;
-Everywhere is Siva-Sakti;
-Everywhere is Chidambaram;
-Everywhere is Divine Dance;
-As everywhere Siva is,
-Everywhere Siva’s Grace is
 All, all, His Sport Divine.`,
   },
   {
@@ -1602,33 +1418,25 @@ He dances in Golden Hall (Golden Dance);
 He dances in the Golden Tillai (Golden Tillai Dance);
 He dances the Dance Wondrous (Atbudha Dance);
 Who knows Him ever?`,
-    elaborationEnglish: `
-Ananda Dance! is Honey-Sweet
+    elaborationEnglish: `Ananda Dance! is Honey-Sweet
 
 Endless is She,
 
 Sakti of abiding Bliss;
 
-With Her He dances the Ananda Dance
-Honey sweet it is;
+With Her He dances the Ananda Dance Honey sweet it is;
 
 You have witnessed it;
 
 And having witnessed it,
 
-Dance transcending knowledge all;
-You, then, become the arena
+Dance transcending knowledge all; You, then, become the arena
 
 For Lord’s Ananda Dance to perform.
 
-3) Sivanandakuthu is the dance of Siva united with Sakti. He dances in boundless space, beyond the frontiers of jnana.
-When this dance occurs, the Vedas and Agamas, all, all dance with Tim. Out of this dance emerges His five-fold Acts of
-Creation, Preservation, Dissolution, Obfuscation — and
+3) Sivanandakuthu is the dance of Siva united with Sakti. He dances in boundless space, beyond the frontiers of jnana. When this dance occurs, the Vedas and Agamas, all, all dance with Tim. Out of this dance emerges His five-fold Acts of Creation, Preservation, Dissolution, Obfuscation — and
 
-Revealing.
-
-gerbe gorps ata Auth
-Berge OTH HAD FIVE`,
+Messi GE HT svasir gerbe gorps ata Auth Berge OTH HAD FIVE`,
   },
   {
     id: 2725, tantraId: 9, verseNumber: 2724,
@@ -1689,9 +1497,6 @@ And the bliss of faiths all,
 -Are all attained,
 When Sivananda Dance witnessed,
 The Dance that is the end of Knowledge Pure.`,
-    elaborationEnglish: `ACT FLW OSG
-
-ao Osrpog onmavs`,
   },
   {
     id: 2728, tantraId: 9, verseNumber: 2727,
@@ -1712,7 +1517,7 @@ The Five acts He performs
 With Sakti-Grace in Him;
 And so the Lord dances with Sakti
 That is of honey-speech.`,
-    elaborationEnglish: `Were. Gugnest.. Gurenosri psresrt geno. Gursnessi`,
+    elaborationEnglish: `Were. Gugnest.. Gurenosri Guremeosri_ psresrt geno. Gursnessi STSISIL SHUTS`,
   },
   {
     id: 2729, tantraId: 9, verseNumber: 2728,
@@ -1739,28 +1544,6 @@ Siva His sway holds,
 The Five Acts performing;
 Alone Seated as Tatpara,
 In the Cosmos Entire-Brahmanda.`,
-    elaborationEnglish: `The Universe of Elements Other,
-The Universe of Bhoga,
-
-The Universe of Yoga,
-
-The Universe of Time,
-
-The Universe of Mukti,
-
-The Universe of Passions
-
-The Universe of Appetites these universes
-
-That He created,
-
-Siva His sway holds,
-
-The Five Acts performing;
-Alone Seated as Tatpara,
-In the Cosmos Entire—Brahmanda
-
-WUSHS ome yorot`,
   },
   {
     id: 2730, tantraId: 9, verseNumber: 2729,
@@ -1778,7 +1561,6 @@ The melodies danced, the seven universes danced;
 The elements danced, and the worlds entire danced;
 With Nada Sakti the Lord danced,
 The Dance of Divine Knowledge-Bliss (Jnana-Ananda).`,
-    elaborationEnglish: ``,
   },
   {
     id: 2731, tantraId: 9, verseNumber: 2730,
@@ -1800,14 +1582,7 @@ In the Higher Siva Tattvas Five,
 (Suddha Vidya, Iswaram, Sadakyam, Sakti, Sivam)
 In all these, intermingling
 The Great Siddha-Lord dances.`,
-    elaborationEnglish: `In the Higher Siva Tattvas Five,'
-
-(Suddha Vidya, Iswaram, Sadakyam, Sakti, Sivam)
-In alk these, intermingling
-
-The Great Siddha-Lord dances.
-
-These are known as the Siva tattvas:
+    elaborationEnglish: `These are known as the Siva tattvas:
 
 i) In suddha vidya tattva, jnana predominates and kriyas is subdued.
 
@@ -1817,9 +1592,7 @@ In sadakya tattva, jnana and kriya are in balance.
 
 iv) In Sakti tattva, kriya is yearned for.
 
-vy) In Siva tattva, jnana exists alone.
-
-songor Hurgor`,
+vy) In Siva tattva, jnana exists alone.`,
   },
   {
     id: 2732, tantraId: 9, verseNumber: 2731,
@@ -1838,12 +1611,6 @@ The Rishis seven, the Faiths several,
 And the creation all, movable and immovable,
 -All these danced,
 When my Lord danced.`,
-    elaborationEnglish: `When my Lord danced.
-
-Asuras,
-
-Ac macnr apes sumer
-Sor mn shunner sioner`,
   },
   {
     id: 2733, tantraId: 9, verseNumber: 2732,
@@ -1883,22 +1650,11 @@ In the yogic way;
 He danced too in the forests of Deva-daru,
 And in Tillai and in Alavanam
 -He the King Supreme.`,
-    elaborationEnglish: `All these you witness in the Nadis (Adharas) six;
-
-In the yogic way;
-
-He danced too in the forests of Deva-daru?,
-And in Tillai? and in
-
-—He the King Supreme.
-
-1) Sundara Kuthu is the Dance of Compassion. It has eight variations: Kodukotti, Pandarangam, Kuthu,
-Muntandavam, Anavarata tandavan, Ananda tandavam, and Samhara tandavam. All the worlds come into being when this dance begins, and come to an end when the dance ends.
+    elaborationEnglish: `1) Sundara Kuthu is the Dance of Compassion. It has eight variations: Kodukotti, Pandarangam, Kuthu, Muntandavam, Anavarata tandavan, Ananda tandavam, and Samhara tandavam. All the worlds come into being when this dance begins, and come to an end when the dance ends.
 
 2) This was the forest where the rishis performed their sacriligious homas, and challenged Siva’s might. He destroyed them and danced.
 
-3) Chidambaram (in the South Arcot District of Tamil Nadu)
-4) Tirvalangadu (in the North Arcot District of Tamil Nadu).`,
+3) Chidambaram (in the South Arcot District of Tamil Nadu) 4) Tirvalangadu (in the North Arcot District of Tamil Nadu).`,
   },
   {
     id: 2735, tantraId: 9, verseNumber: 2734,
@@ -1917,12 +1673,6 @@ At the crest of Cosmos
 Is the radiant Light of Isa
 Permeating the Cosmos
 Is the expansive Nada;
-There through the Cosmos vast
-Does the Paran dance unceasing.`,
-    elaborationEnglish: `Is the expansive Nada;
-
-of galaxies vast
-
 There through the Cosmos vast
 Does the Paran dance unceasing.`,
   },
@@ -1967,7 +1717,6 @@ He danced in the junction of Sushumna within;
 He danced in Jnana Endless;
 Thus He danced away,
 He, my Lord.`,
-    elaborationEnglish: `(shad aL Ob usOwo Oe`,
   },
   {
     id: 2738, tantraId: 9, verseNumber: 2737,
@@ -1986,11 +1735,6 @@ Siddhis Eight, Siva States Eight,
 Suddhis Eight
 -In all these Lord dances
 His ancient dance.`,
-    elaborationEnglish: `Guadacr gap Ale ad
-
-Osahacr apes Aaump
-
-grahach ape ayy`,
   },
   {
     id: 2739, tantraId: 9, verseNumber: 2738,
@@ -2008,9 +1752,7 @@ The bodies seven, the Siva-Suns seven,
 The appetites seven, the alleviations (Santis) seven,
 All these contained are,
 At the Feet of (Dancing) Nandi.`,
-    elaborationEnglish: `The appetites seven, the alleviations (Santis) seven,
-All these contained are,
-At the Feet of (Dancing) Nandi.`,
+    elaborationEnglish: `The appetites seven, the alleviations (Santis) seven, All these contained are, At the Feet of (Dancing) Nandi.`,
   },
   {
     id: 2740, tantraId: 9, verseNumber: 2739,
@@ -2029,10 +1771,7 @@ In the void within void of peerless Bliss,
 The Tat-Para dances the dance rare.`,
     elaborationEnglish: `1) In Porpathi Kuthu, Siva dances with five faces, and in three stages — form, formless and form/formless. This dance takes place separately on each of the five elements. Those who witness it experience certain physical emotions, such as sobbing, trembling, and loss of consciousness.
 
-2) Aghora, Vama, Tatpurusa, Satyojata, and Isana.
-weGr wiywes grr
-
-aur soo Got`,
+2) Aghora, Vama, Tatpurusa, Satyojata, and Isana. weGr wiywes grr`,
   },
   {
     id: 2741, tantraId: 9, verseNumber: 2740,
@@ -2054,7 +1793,7 @@ Who to Siva's Holy Feet cling;
 Holy Devotees are they,
 Who witnessed true
 The Lord's dance in golden Hall (of the astral sphere).`,
-    elaborationEnglish: ``,
+    elaborationEnglish: `The Lord’s dance in golden Hall (of the astral sphere).`,
   },
   {
     id: 2742, tantraId: 9, verseNumber: 2741,
@@ -2071,7 +1810,11 @@ Uncontrolled was I;
 He controlled me;
 He blessed me with His Holy Feet;
 He immersed me in Transcendental Bliss immense`,
-    elaborationEnglish: ``,
+    elaborationEnglish: `He immersed me in Transcendental Bliss immense Thus He dances, Our Nandi, i The great dancer of Jnana Dance;
+
+Like a picture He made me sit still
+
+And in me abided.`,
   },
   {
     id: 2743, tantraId: 9, verseNumber: 2742,
@@ -2132,7 +1875,6 @@ Thus are they in the Holy Temple dance;
 They who in love adore
 The Holy Feet of Lord,
 Flower-like and golden.`,
-    elaborationEnglish: `sei MG Abs Dostugid esr`,
   },
   {
     id: 2746, tantraId: 9, verseNumber: 2745,
@@ -2154,16 +1896,6 @@ All desires are rid;
 The heart elates in bliss-seeking;
 Thus it is,
 When the Holy Dance they witness.`,
-    elaborationEnglish: `Your senses controlled from straying away;
-All desires are rid;
-
-The heart elates in bliss-seeking;
-
-Thus it is,
-
-When the Holy Dance they witness.
-
-Bereur eflentwig`,
   },
   {
     id: 2747, tantraId: 9, verseNumber: 2746,
@@ -2183,7 +1915,6 @@ He dances in the world;
 He dances in water, fire, wind and sky
 He dances in the Temple Holy day after day
 He, the Lord Supreme.`,
-    elaborationEnglish: `aGguics anche: Qomanss pe`,
   },
   {
     id: 2748, tantraId: 9, verseNumber: 2747,
@@ -2220,8 +1951,6 @@ Are the Ida, Pingala;
 The Holy Hall where the Lord of Crescent Moon dances,
 Is the Sushumna
 -Thus lie the frontiers of this universe vast.`,
-    elaborationEnglish: `
-Oserunchh 6-38 Dosb`,
   },
   {
     id: 2750, tantraId: 9, verseNumber: 2749,
@@ -2239,15 +1968,6 @@ The five elements, sky and the rest as pedestal
 The central Kundalini Sakti as Divine Hall
 Thus in rapture He danced,
 He that is Cosmic Light.`,
-    elaborationEnglish: `The seven universes as His golden abode,
-
-The five elements, sky and the rest as pedestal
-The central Kundalini Sakti as Divine Hall
-Thus in rapture He danced,
-
-He that is Cosmic Light.
-
-yonengs Gurseardis yonuys smgpid`,
   },
   {
     id: 2751, tantraId: 9, verseNumber: 2750,
@@ -2265,7 +1985,7 @@ Within the head, He as Bliss danced;
 Then moving South
 In renewed ecstasy espousing Sakti,
 He with Her in Eternal Bliss danced.`,
-    elaborationEnglish: ``,
+    elaborationEnglish: `In renewed ecstasy espousing Sakti, He with Her in Eternal Bliss danced.`,
   },
   {
     id: 2752, tantraId: 9, verseNumber: 2751,
@@ -2305,7 +2025,6 @@ Is the Dance Cosmic;
 It is the dance that takes you
 To Truth of Siva's realm;
 There verily is the limit of Mauna Jnana Bliss.`,
-    elaborationEnglish: `1.56 gioerps prpuss`,
   },
   {
     id: 2754, tantraId: 9, verseNumber: 2753,
@@ -2323,15 +2042,11 @@ The worlds thrice seven;
 The religions a hundred and eight`,
     elaborationEnglish: `—That the path to God show;
 
-The heavenly states of Bliss four,
-—Nada, Nadanta, Natana, Natananta—
-The Sakti that is His Half;
+The heavenly states of Bliss four, —Nada, Nadanta, Natana, Natananta— The Sakti that is His Half;
 
 With them all,
 
-Para’s Holy Feet danced and danced.
-
-SLAYS Dovacri epovld`,
+Para’s Holy Feet danced and danced.`,
   },
   {
     id: 2755, tantraId: 9, verseNumber: 2754,
@@ -2352,9 +2067,6 @@ The Sushumna cavity within
 That is unto the Tillai Forest
 -In all these the Primal One pervaded,
 He that is Paraparam.`,
-    elaborationEnglish: `Foner sore snail
-
-Guprer Gugr sovresr`,
   },
   {
     id: 2756, tantraId: 9, verseNumber: 2755,
@@ -2375,7 +2087,6 @@ And the seven sacred hills too;
 In that land are born the Veda-Agamas;
 Thus blessed,
 The South is the Holy Land indeed.`,
-    elaborationEnglish: `prss Deflory prpugs Gewmry anys sposs Bary`,
   },
   {
     id: 2757, tantraId: 9, verseNumber: 2756,
@@ -2396,8 +2107,7 @@ He dances in Bodha,
 He dances in worlds all
 He the Blemishless One,
 The Lord of Celestials countless.`,
-    elaborationEnglish: `1) Nada, Nadanta, Natana, and Natananta.
-3) Pure consciousness.`,
+    elaborationEnglish: `1) Nada, Nadanta, Natana, and Natananta. 2) Kundalini 3) Pure consciousness.`,
   },
   {
     id: 2758, tantraId: 9, verseNumber: 2757,
@@ -2455,9 +2165,7 @@ Ascendes to heavens high,
 And reaches to Five-lettered Nada's point;
 He does descend to you and bless you,
 His Siva-State confer on you.`,
-    elaborationEnglish: `Aww srgyd Guremsyo urigw un uesner pm
-
-fau.w Oansirms`,
+    elaborationEnglish: `And reaches to Five-lettered Nada’s point; He does descend to you and bless you, His Siva-State confer on you.`,
   },
   {
     id: 2761, tantraId: 9, verseNumber: 2760,
@@ -2478,9 +2186,6 @@ And the Forms He assumed,
 -So, the Guru Para dances;
 Seek that dance within
 And your birth's cycle forever end.`,
-    elaborationEnglish: `Qosus srepss oneacn
-
-werpleiler wichsseé`,
   },
   {
     id: 2762, tantraId: 9, verseNumber: 2761,
@@ -2502,6 +2207,7 @@ He the Red-Ruby Dancer;
 As the Holy Guru He danced in rapture
 In places all.
 ATBUDHA (WONDER) DANCE`,
+    elaborationEnglish: `He the Red-Ruby Dancer; . As the Holy Guru He danced in rapture In places all.`,
   },
   {
     id: 2763, tantraId: 9, verseNumber: 2762,
@@ -2521,12 +2227,7 @@ That Formless One shines
 As Sakti Tiripurai as well;
 She verily is Uma
 That is Form-Formless.`,
-    elaborationEnglish: `When Siva dances the Atbhuta (Wonder) Dance, He is
-Formless, and His consort is mingled into Him as Tiripurai (or Uma). This dance is beyond the comprehension of ordinary human cognition. It can be witnessed only by those who are rid of maya, and mamaya. In this Dance, His partner, Uma, first separates Herself from Him during the dance and then later coalesces with Him. The visualization here is that of
-Siva dancing before His consort wearing on His body, fire, drum, beads, noose, goad, spear, skull, etc. The Five Letters,
-Si Va Ya Na Ma, are represented here.
-
-Hoap wurage Appbd`,
+    elaborationEnglish: `When Siva dances the Atbhuta (Wonder) Dance, He is Formless, and His consort is mingled into Him as Tiripurai (or Uma). This dance is beyond the comprehension of ordinary human cognition. It can be witnessed only by those who are rid of maya, and mamaya. In this Dance, His partner, Uma, first separates Herself from Him during the dance and then later coalesces with Him. The visualization here is that of Siva dancing before His consort wearing on His body, fire, drum, beads, noose, goad, spear, skull, etc. The Five Letters, Si Va Ya Na Ma, are represented here.`,
   },
   {
     id: 2764, tantraId: 9, verseNumber: 2763,
@@ -2566,8 +2267,6 @@ That highway you seek;
 That the Place where
 Our Lord of Nadanta dances;
 That verily is the Holy Temple.`,
-    elaborationEnglish: `Meaalvagy aners Garons
-Aseiu Dab Hapsq shQuret wry supgitor Goupru`,
   },
   {
     id: 2766, tantraId: 9, verseNumber: 2765,
@@ -2586,18 +2285,6 @@ Unto it,
 Within the rapturous rays blended of Adharas six,
 And without them too, separate,
 He as Form of Light stands,
-In body concealed.`,
-    elaborationEnglish: `thunder
-
-All these in space arise;
-
-Like it,
-
-Within the rapturous rays blended of Adharas six,
-And without them too, separate,
-
-He as Form of Light stands,
-
 In body concealed.`,
   },
   {
@@ -2618,20 +2305,6 @@ Is Bliss Divine;
 For them to witness
 That transcends Maya and Mamaya
 The Lord stands and ever dances.`,
-    elaborationEnglish: `In the elements five, and directions eight,
-And above and below,
-
-Beyond the intelligent senses
-
-Is Bliss Divine;
-
-For them to witness
-
-That transcends Maya and Mamaya
-
-The Lord stands and ever dances.
-
-Ganhor gaapsu`,
   },
   {
     id: 2768, tantraId: 9, verseNumber: 2767,
@@ -2668,8 +2341,6 @@ For the countless Jivas
 That are veiled by Maya;
 As Redemption He stands,
 Dancing, dancing eternal.`,
-    elaborationEnglish: `
-aay sams soo`,
   },
   {
     id: 2770, tantraId: 9, verseNumber: 2769,
@@ -2687,7 +2358,7 @@ Of equal Bliss is Uma's Form;
 Sakti's Form rising in Siva's Form
 As one merged and one dance performed;
 That peerless dance is bliss Perfect.`,
-    elaborationEnglish: `umoyrwe AG EDL Cs`,
+    elaborationEnglish: `As one merged and one dance performed; That peerless dance is bliss Perfect:`,
   },
   {
     id: 2771, tantraId: 9, verseNumber: 2770,
@@ -2732,7 +2403,6 @@ The Sakti Kundalini
 -These seven are Siva's pedestals;
 On them He dances
 He, the Being Transcendental.`,
-    elaborationEnglish: `wan Homss tomer pups srohsip grmencu`,
   },
   {
     id: 2773, tantraId: 9, verseNumber: 2772,
@@ -2753,9 +2423,7 @@ Its petals four (in Muladhara)
 Into a hundred petals blossomed (in Sahasrathala)
 And into ten and two hundred worlds expanded,
 In the interminable spaces vast.`,
-    elaborationEnglish: `Into a hundred petals blossomed (in Sahasrathala)
-And into ten and two hundred worlds expanded,
-In the interminable spaces vast.`,
+    elaborationEnglish: `Into a hundred petals blossomed (in Sahasrathala) And into ten and two hundred worlds expanded, In the interminable spaces vast.`,
   },
   {
     id: 2774, tantraId: 9, verseNumber: 2773,
@@ -2772,7 +2440,9 @@ Seventy million universes, seventy million bodies,
 Seventy million directions encompassed by waves,
 Seventy million lingas surrounded by eight directions;
 Such is the Temple of Cosmic Dance.`,
-    elaborationEnglish: `Tare Qui Qs Agamssow`,
+    elaborationEnglish: `Seven Crores are the universes vast,
+
+Seven Crores. are the life forms varied, Seven Crores the continents of the sea-girt world, Seven Crores the Lingas in directions eight These the Temples where His Cosmic Dance performed are.`,
   },
   {
     id: 2775, tantraId: 9, verseNumber: 2774,
@@ -2793,7 +2463,6 @@ Are the lights three (Sun, Moon and Fire);
 Thus He dances
 In the space arena,
 That is Body Cosmic.`,
-    elaborationEnglish: `ADUY wre sho soregib`,
   },
   {
     id: 2776, tantraId: 9, verseNumber: 2775,
@@ -2810,8 +2479,6 @@ The Holy Dance arena is the creation countless;
 The Holy Dance arena is the Holy Feet of Lord;
 The Holy Dance arena is the sphere of Water and Fire,
 The Holy Dance arena is the Letter-Five, verily.`,
-    elaborationEnglish: `mW Derrupip ungyp
-BEW wreyt aA`,
   },
   {
     id: 2777, tantraId: 9, verseNumber: 2776,
@@ -2833,7 +2500,6 @@ The numerous Bhootas sang
 -Thus He danced the Pandaranga,
 -The Dance of Dissolution
 At end of Tiripurai* conflagration.`,
-    elaborationEnglish: `yor A suugu Qurcienb UNSEHSRIS`,
   },
   {
     id: 2778, tantraId: 9, verseNumber: 2777,
@@ -2874,7 +2540,6 @@ They shed tears of joy;
 They melt in love of Lord;
 In their hearts,
 Ambrosial bliss of Divine Light wells up.`,
-    elaborationEnglish: `Sexcny Sips Hanergs wragy`,
   },
   {
     id: 2780, tantraId: 9, verseNumber: 2779,
@@ -2897,14 +2562,6 @@ In the Holy Arena praised by all;
 Even those who hear of it
 Are unto those who witness it;
 -All rapture is theirs too.`,
-    elaborationEnglish: `Who the Divine Dance witnessed,
-In the Holy Arena praised by all;
-Even those who hear of it
-
-Are like those who witness it;
-—All rapture is theirs too.
-
-SUG UWFSG SO Upibupr ow`,
   },
   {
     id: 2781, tantraId: 9, verseNumber: 2780,
@@ -2923,7 +2580,6 @@ With elephant's goad, trident and skull,
 With frightening blue throat where Jnana is,
 With Sakti for His inseparate partner,
 He dances the Dance Mighty.`,
-    elaborationEnglish: `Sow prgb ustous`,
   },
   {
     id: 2782, tantraId: 9, verseNumber: 2781,
@@ -2962,14 +2618,7 @@ The seven melodies danced;
 The twenty and eight rhythmic beats danced;
 The Love (Sakti) too danced;
 He danced the Dance of Divine Bliss.`,
-    elaborationEnglish: `Sunyavada—these are held as. ‘‘Outer faiths’ by Vaidiks.
-d)Bhairava, Vama, - Kalamukha, Mavirata, Pasupata,
-Saivam—these are held as ‘‘outer faiths’’ of Saivam.
-e)Lokayata, Buddha, Jaina (Samana). Mimamsa, Pancharata,
-Bhattacharya—these too are held as ‘‘outer philosophies’’ by the Saiva school.
-4) The seven primal melodies are: Sa, Ri, Ga, Ma, Pa, Da and Ni. In Tamil literature, they are described as, kurtuttam, kaikilai, uzhai, ili, vilari, and tharam.
-5) 28 modes commencing from kandam and prabandavuru. Kandam has a basic measure and a sing beat;
-prabhandayuru has no basic measure and has multi beats. In between are permutations and combinations. The 28 measures belong to the inner measures of dance`,
+    elaborationEnglish: `Sunyavada—these are held as. ‘‘Outer faiths’ by Vaidiks. d)Bhairava, Vama, - Kalamukha, Mavirata, Pasupata, Saivam—these are held as ‘‘outer faiths’’ of Saivam. e)Lokayata, Buddha, Jaina (Samana). Mimamsa, Pancharata, Bhattacharya—these too are held as ‘‘outer philosophies’’ by the Saiva school. 4) The seven primal melodies are: Sa, Ri, Ga, Ma, Pa, Da and Ni. In Tamil literature, they are described as, kurtuttam, kaikilai, uzhai, ili, vilari, and tharam. 5) 28 modes commencing from kandam and prabandavuru. Kandam has a basic measure and a sing beat; prabhandayuru has no basic measure and has multi beats. In between are permutations and combinations. The 28 measures belong to the inner measures of dance`,
   },
   {
     id: 2784, tantraId: 9, verseNumber: 2783,
@@ -2990,7 +2639,6 @@ In the seventh state beyond the six adharas
 That Jnana yoga crosses
 Is Aum Paranjothi, (the Divine Light)
 In the dance of seven melodies He danced.`,
-    elaborationEnglish: `eames snr epoviomus`,
   },
   {
     id: 2785, tantraId: 9, verseNumber: 2784,
@@ -3011,22 +2659,11 @@ In through the centers six (Adharas) and spheres three (Sun, Moon, Fire)
 That the triple Karanas their end may see,
 He in ancient Pasas Triple danced
 The Dance of Mohanta (Impurity-riddance).`,
-    elaborationEnglish: `That the triple Karanas their end may see,
-
-He in ancient Pasas Triple danced
-
-The Dance of Mohanta (Impurity-riddance).
-
-Presumably, the reference is to the combined 360 rays of fire (118), sun (106), and moon (136). They constitute kala
+    elaborationEnglish: `Presumably, the reference is to the combined 360 rays of fire (118), sun (106), and moon (136). They constitute kala
 
 (time) as the 360 rays or 360 days that ‘comprise a year.
 
-Vide Serpent Power,"’ by Sir John Woodroffe, pp.144-S.
-
-STYY ayrorat si~y Cuogiep
-Fear WATS sitailencsr
-
-aroch wee witness`,
+Vide Serpent Power,"’ by Sir John Woodroffe, pp.144-S.`,
   },
   {
     id: 2786, tantraId: 9, verseNumber: 2785,
@@ -3046,20 +2683,6 @@ He adorns the rising heart of His loving devotees;
 He is Tree Divine (Kalpaka Tharu)
 Of Heavenly glades;
 He transcends worlds all.`,
-    elaborationEnglish: `Are the flowery Feet of Lord,
-
-A precious Jewel is He;
-
-He adorns the rising heart of His loving devotees;
-He is Tree Divine (Kalpaka Tharu)
-
-Of Heavenly glades;
-
-He transcends worlds all.
-
-By yuma omg
-
-Ashpsauct Agans corny pucsd Usmact Gb`,
   },
   {
     id: 2787, tantraId: 9, verseNumber: 2786,
@@ -3080,6 +2703,7 @@ When He in heart endearing dances,
 The elements several too dance;
 Flaming as Divine Five He dances,
 That we witnessed in rapture surpassing.`,
+    elaborationEnglish: `When He in heart endearing dances, The elements several too dance; Flaming as Divine Five He dances, That we witnessed in rapture surpassing. gro oourtss 45 BLEODFIES wrGbd 4A angb`,
   },
   {
     id: 2788, tantraId: 9, verseNumber: 2787,
@@ -3115,7 +2739,15 @@ In nine and nine corners, at twenty stations,
 The loving angles dance in succession;
 From within the Sakti sphere, arising, He dances;
 The Lord of Love stood and danced.`,
-    elaborationEnglish: `S$HUD Bes Sroarrs`,
+    elaborationEnglish: `In the nine centres within
+
+The ninth state (Turiyatita) attained;
+
+In the centre that is love
+
+His twin feet in Asi-Pada danced;
+
+And as the anguished Sakti within Him danced, My loving Father together with Her in rapture danced.`,
   },
   {
     id: 2790, tantraId: 9, verseNumber: 2789,
@@ -3154,7 +2786,6 @@ He danced,
 He the Siddha, the Ananda;
 As Form of Grace
 He stood and danced.`,
-    elaborationEnglish: ``,
   },
   {
     id: 2792, tantraId: 9, verseNumber: 2791,
@@ -3173,6 +2804,7 @@ The space that dances not danced;
 The Tattva-Nadanta wondrous danced;
 When Siva danced inside of Truth,
 That indeed is Vedanta-Siddhanta.`,
+    elaborationEnglish: `The space that dances not danced; The Tattva-Nadanta wondrous danced; When Siva danced inside of Truth, That indeed is Vedanta-Siddhanta.`,
   },
   {
     id: 2793, tantraId: 9, verseNumber: 2792,
@@ -3191,6 +2823,7 @@ Vedanta that is end of Vedas
 Sivananda that is Bliss of Siva,
 Sadasivananda that is without end,
 In all these, He dances the Siva Natana.`,
+    elaborationEnglish: `He that is Nada Brahmam (Lord within the Sound-Principle).`,
   },
   {
     id: 2794, tantraId: 9, verseNumber: 2793,
@@ -3210,20 +2843,6 @@ In prayer to depart
 The Holy Para by Himself dances everywhere;
 Holy indeed is the Jnana Dance
 That Sivananda Bliss fills.`,
-    elaborationEnglish: `The perplexities of the Five Gods
-
-Rudra and the rest to end,
-
-The Jiva bonds standing afar,
-
-In prayer to depart :
-The Holy Para by Himself dances everywhere;
-Holy indeed is the Jnana Dance
-
-That Sivananda Bliss fills.
-
-auypier sraggs
-Miper sracca srngsagss prahs EpGart apap`,
   },
   {
     id: 2795, tantraId: 9, verseNumber: 2794,
@@ -3241,7 +2860,6 @@ Redeeming the Celestials countless,
 He earned the name of Lord (Vikirtha)
 He danced in the luminous Lights Three,
 He accepted me in His Grace.`,
-    elaborationEnglish: `uss Gun ow Peanr`,
   },
   {
     id: 2796, tantraId: 9, verseNumber: 2795,
@@ -3263,18 +2881,6 @@ He is the Tattvas in order placed
 And their Lord too at once;
 In that in separateness
 He commingling stood.`,
-    elaborationEnglish: `They sought the pleasures of this world
-And in them revelled;
-
-He is the Tattvas in order placed
-
-And their Lord too at once;
-
-In that in separateness
-
-He commingling stood.
-
-AWS Amp pson`,
   },
   {
     id: 2797, tantraId: 9, verseNumber: 2796,
@@ -3318,9 +2924,6 @@ Gestures the letter "Ma;"
 (Thus is the entire Five-Letter Mantra
 "Si Va Ya Na Ma"
 In Divine Dance denoted.)`,
-    elaborationEnglish: `OGUS werhu alee
-
-MASS SHO” LS Up`,
   },
   {
     id: 2799, tantraId: 9, verseNumber: 2798,
@@ -3358,6 +2961,7 @@ Hara's hand gesturing protection is preservation;
 Hara's fire is dissolution;
 Hara's foot planted down is Obfuscation (Tirodayi)
 Hara's foot, raised in dance, is Divine Grace (Anugraha).`,
+    elaborationEnglish: `Hara’s foot planted down is Obfuscation (Tirodhayi) Hara’s foot, raised in dance, is Grace (Redemption) abiding.`,
   },
   {
     id: 2801, tantraId: 9, verseNumber: 2800,
@@ -3394,7 +2998,6 @@ Transcending it,
 In the spaces beyond He dances,
 In comeliness surpassing,
 How shall I describe that Para Sundara Dance!`,
-    elaborationEnglish: `ayn Goofleonw wrgb »HiHor`,
   },
   {
     id: 2803, tantraId: 9, verseNumber: 2802,
@@ -3432,7 +3035,6 @@ Standing as Iccha, Jnana and Kriya
 She many acts performs;
 And when She, Her Grace lends
 You reach Hara's loving Feet.`,
-    elaborationEnglish: `oorss Corb wow`,
   },
   {
     id: 2805, tantraId: 9, verseNumber: 2804,
@@ -3451,7 +3053,7 @@ As Fire is He there,
 As Order is He there,
 As Space in body is He there,
 He, the One Being.`,
-    elaborationEnglish: `woniifperm Dancreasucr Fear`,
+    elaborationEnglish: `As Space in body is He there, He, the One Being. :`,
   },
   {
     id: 2806, tantraId: 9, verseNumber: 2805,
@@ -3472,9 +3074,6 @@ Vast indeed is His benevolence,
 His Feet support the world entire;
 Yet invisible is His Form,
 He the Primal Lord.`,
-    elaborationEnglish: `asorl Counchuyid Ganmefut or
-Gort Ganhurnp Asopib DuGemwew
-Qadhsgear Qalegar Oohssz`,
   },
   {
     id: 2807, tantraId: 9, verseNumber: 2806,
@@ -3494,7 +3093,6 @@ In the spreading light of space,
 That swallows Immensity Vast,
 My body-light merged;
 Shattering Existence's land-marks, all.`,
-    elaborationEnglish: `Huden® ora wraems pore`,
   },
   {
     id: 2808, tantraId: 9, verseNumber: 2807,
@@ -3514,12 +3112,6 @@ Yet they knew it not (and contending stood);
 Then He revealed Himself to them
 As Light Divine,
 Flaming from earth to heaven.`,
-    elaborationEnglish: `431
-
-—— ee
-
-apas sear Ganefud
-Guprei apergi`,
   },
   {
     id: 2809, tantraId: 9, verseNumber: 2808,
@@ -3539,8 +3131,6 @@ In the Lights Three (within) that are mighty,
 Then is Siva reached;
 If His Feet there you leave not,
 Long, long may you be.`,
-    elaborationEnglish: `Bers Hee Hoot
-Bers ewer Hotgghea puypw`,
   },
   {
     id: 2810, tantraId: 9, verseNumber: 2809,
@@ -3559,7 +3149,6 @@ He wears the serpent;
 Having filled the space
 He stands as outer-space
 He the Fire-Hued.`,
-    elaborationEnglish: `Buss Goned w ered`,
   },
   {
     id: 2811, tantraId: 9, verseNumber: 2810,
@@ -3601,7 +3190,6 @@ Move close to the Flashing Light
 Within the (mystic) astral space,
 And there adore;
 You may drink of Ambrosia Divine.`,
-    elaborationEnglish: `srFlh Qietlb 2 Wid`,
   },
   {
     id: 2813, tantraId: 9, verseNumber: 2812,
@@ -3617,10 +3205,11 @@ cakattuḷā kācam tāṉamca mātiyē`,
 In the Outer Space is universe and the world,
 In the Inner Space is Primal Jnana,
 In the Space where Siva is is Light Resplendent`,
-    elaborationEnglish: `
-lo cit ont ot Urge
+    elaborationEnglish: `In the Space where Siva is, is Light Resplendent In the Space that composes the Cosmos
 
-Aaaqp gaps Oaeru`,
+Is Samadhi’s destination.
+
+10. witb JNANODAYAM (DAWN OF JNANA)`,
   },
   {
     id: 2814, tantraId: 9, verseNumber: 2813,
@@ -3638,7 +3227,6 @@ Then the Dream, where bliss experienced be;
 Beyond it, is (sushupti) where Bliss experience certain is;
 Ascend still, there is the Void (Turiya)
 Where are only Two-Bliss and Lord of Bliss.`,
-    elaborationEnglish: `shuct TED amhuyib Gibbs wrener afuer gaan`,
   },
   {
     id: 2815, tantraId: 9, verseNumber: 2814,
@@ -3659,19 +3247,7 @@ That Lord I adored;
 Beyond that I knew nothing;
 Is He black or red?
 I have not seen.`,
-    elaborationEnglish: `With His hands He peeled the elephant hide,
-In His hands He held the skull,
-
-On His crest He adorned the crescent moon,
-That Lord I adored;
-
-“Rare; Great is He;’’
-
-Beyond that 1 knew. nothing;
-Is He black or red?
-I have notéseen.
-
-USE Tp FI Gor cost Bearcat`,
+    elaborationEnglish: `Beyond that 1 knew. nothing; Is He black or red? I have notéseen.`,
   },
   {
     id: 2816, tantraId: 9, verseNumber: 2815,
@@ -3690,7 +3266,6 @@ Follow the Way of Tapas, the holy men taught,
 And enter within;
 He will give you Jnana, that is pure gold;
 So, Siva's Feet do seek.`,
-    elaborationEnglish: `Marseas Oorsg Gupph`,
   },
   {
     id: 2817, tantraId: 9, verseNumber: 2816,
@@ -3724,7 +3299,6 @@ Where Tattvas are, the Lord of Tattvas is;
 Where Tattvas are not, the Lord of Tattvas is not;
 When you know the truth of Tattva Jnana,
 The Lord of Tattvas will there appear.`,
-    elaborationEnglish: `Arbo Goier oroiw srgap`,
   },
   {
     id: 2819, tantraId: 9, verseNumber: 2818,
@@ -3775,7 +3349,6 @@ And as I thus sought,
 "I and He are separate are not;"
 -Thus the Lord of Primal Jnana Himself granted,
 And then no more was the thought of I and He.`,
-    elaborationEnglish: `poGurs poarciow Cuspnew`,
   },
   {
     id: 2822, tantraId: 9, verseNumber: 2821,
@@ -3813,7 +3386,7 @@ For them who seek liberation
 Pranava is the center of divine union;
 The Lord is the Knowledge within Knowledge,
 Of those who liberation seek.`,
-    elaborationEnglish: `sreaad entésac scachcr artégu Yopuded Cuipss`,
+    elaborationEnglish: `The Lord’ is the Knowledge within Knowledge, Of those who liberation seek.`,
   },
   {
     id: 2824, tantraId: 9, verseNumber: 2823,
@@ -3834,7 +3407,6 @@ Them who adore Him
 The Mighty Nandi never fails;
 To them alone who yearn for Him
 He stands as Support unfailing.`,
-    elaborationEnglish: `Gru fern Oeert wre.`,
   },
   {
     id: 2825, tantraId: 9, verseNumber: 2824,
@@ -3853,8 +3425,6 @@ He is the Flaming Light that shines afar,
 He is Our Lord,
 The Immortals who adore His Feet
 Are but beings to His inner service dovoted.`,
-    elaborationEnglish: `wuurtapw quunab
-Quourgbh Qaoanr analarus`,
   },
   {
     id: 2826, tantraId: 9, verseNumber: 2825,
@@ -3897,15 +3467,11 @@ Immense that transcends Space
 There, the Holy Truth of Nandi, verily, is.`,
     elaborationEnglish: `1) In jiva turiya, jiva realises its spiritual nature, and is in God-consciousness—but duality still exists.
 
-2) In Para turiya, jiva realises Siva, and is union with
-Him, but not united—duality still exists.
+2) In Para turiya, jiva realises Siva, and is union with Him, but not united—duality still exists.
 
-3) In Siva turiya, jiva unites in God totally, himself becoming
-God—the unitive state is reached.
+3) In Siva turiya, jiva unites in God totally, himself becoming God—the unitive state is reached.
 
-4) In Beyond turiya, jiva himself becomes undifferentiated in God, and attains the subtle Siva state of Luminous
-
-Qoahu ahueb goat Ahweesb`,
+4) In Beyond turiya, jiva himself becomes undifferentiated in God, and attains the subtle Siva state of Luminous Self-Manifestness (Sivarupa).`,
   },
   {
     id: 2828, tantraId: 9, verseNumber: 2827,
@@ -3943,7 +3509,6 @@ Manifestness (Svarupa) is Sakti (Sat);
 Parajnana is that the Holy Guru to Jiva imparts (Chit);
 -All three together are unto the Flower
 Blended with Six attributes above (Sat-Chit-Ananda).`,
-    elaborationEnglish: `above`,
   },
   {
     id: 2830, tantraId: 9, verseNumber: 2829,
@@ -3963,7 +3528,6 @@ When Jiva into Tat-Para blends;
 Then is the State of Siva-Manifestness (Svarupa)
 That is of the three States exalted,
 And in Him arose Satya-Jnana-Ananda.`,
-    elaborationEnglish: `aToncru Gin Garo sonora or Fat ig`,
   },
   {
     id: 2831, tantraId: 9, verseNumber: 2830,
@@ -3984,7 +3548,6 @@ Me too,
 My Lord Nandi, His Grace extending,
 Led to think of Him
 To the farthest reaches of my thought.`,
-    elaborationEnglish: `Gunrgys giMwwb Oungur aoryss`,
   },
   {
     id: 2832, tantraId: 9, verseNumber: 2831,
@@ -4003,9 +3566,6 @@ Unto it is when the triple States of Turiya-is crossed,
 And Jiva enters in Satya-Jnana-Ananda;
 It is a sweetness that permeates
 Every root of body's hair.`,
-    elaborationEnglish: `Hop sollowower recr
-
-uaorss oss wisn`,
   },
   {
     id: 2833, tantraId: 9, verseNumber: 2832,
@@ -4055,9 +3615,6 @@ They became Siva;
 Beyond that they ascended into
 Satya-Jnana-Ananda (Truth-Knowledge-Bliss that is Sat-Chit-Ananda).
 They, the Jnanis True.`,
-    elaborationEnglish: `Aciutr ware (pibwas Sot
-
-sanwte Grounsrh 5565`,
   },
   {
     id: 2835, tantraId: 9, verseNumber: 2834,
@@ -4078,22 +3635,7 @@ Pass into the holy state of
 Satya-Jnana-Ananda Bliss;
 There in that farthest Turiya of Jiva,
 The Self-illuminating Manifestness (Svarupa) is.`,
-    elaborationEnglish: `
-Bryn thse ado
-
-Poy Dergusgicr BOC) Gareputd au ghusg soorig Der prGen, 2835
-
-Parasivam is Immanent in Svarupa State
-
-The Holy Master, Parama Guru,
-
-As Para constant pervades interminably all;
-In that immanent state,
-
-Extends His Self-illuminating Manifestness;
-When Jiva the Final Turiya State attains.
-
-FAD Gaow ancet feats`,
+    elaborationEnglish: `12. Qereju 2 SVARUPA UDAYAM (DAWN OF MANIFESTNESS)`,
   },
   {
     id: 2836, tantraId: 9, verseNumber: 2835,
@@ -4130,17 +3672,6 @@ The Fire, the Sky and Earth
 He interminably extended in Space;
 I know not how to limit Him
 And thus adore Him.`,
-    elaborationEnglish: `As Waters of the earth, the tempestuous Winds
-The Fire, the Sky and Earth
-
-He interminably extended in Space;
-
-I know not how to limit Him
-
-And thus adore Him.
-
-AVA onetwsr wrewse
-SUBD pragel sruser crip`,
   },
   {
     id: 2838, tantraId: 9, verseNumber: 2837,
@@ -4178,19 +3709,11 @@ They are egoity possessed;
 They who transcend these,
 And Jnana attain,
 Verily become Lord of Immortals in High Heavens.`,
-    elaborationEnglish: `And Jnana attain,
-Verily become Lord of Immortals in High Heavens.
+    elaborationEnglish: `possessiveness. The Kularnava Tantra eight bonds: pity (daya or inferior benevolence to divine compassion); ignorance and delusion shame (lajja); disgust (ghrina); family
 
-1) Lust, anger, ignorance, greed, hatred, vengefulness,
+miserliness, enumerates as opposed {mona); fear (bhaya),
 
-possessiveness. The Kularnava Tantra eight bonds: pity (daya or inferior benevolence to divine compassion); ignorance and delusion
-
-miserliness, enumerates as opposed
-
-(kula); habit and observance (shila), and caste (varna).
-, Vide and Shakta,’’ by Sir John Woodroffe, p.530.
-
-‘arwg Gupr sep/Kuger`,
+(kula); habit and observance (shila), and caste (varna). , Vide and Shakta,’’ by Sir John Woodroffe, p.530.`,
   },
   {
     id: 2840, tantraId: 9, verseNumber: 2839,
@@ -4211,8 +3734,6 @@ In the Turiyas triple-
 Jiva, Para and Siva
 (One and yet separate,)
 Thus s`,
-    elaborationEnglish: `Thus say the scriptures sacred.
-aGgucm® wowed Yonencrs`,
   },
   {
     id: 2841, tantraId: 9, verseNumber: 2840,
@@ -4233,11 +3754,6 @@ Beyond Formlessness, too, He is,
 The elusive Lord;
 Unless Himself as Holy Guru reveals
 None, Him reach.`,
-    elaborationEnglish: `269 Ee QICG,
-
-269 Hootiuant oat Pum srosriuit
-
-260 Heoortiuat`,
   },
   {
     id: 2842, tantraId: 9, verseNumber: 2841,
@@ -4258,7 +3774,6 @@ They who meditate on His Svarupa,
 Will with Celestials be;
 Yet who does seek His Svarupa true
 In the world here below?`,
-    elaborationEnglish: `uywo ugwe`,
   },
   {
     id: 2843, tantraId: 9, verseNumber: 2842,
@@ -4276,7 +3791,6 @@ The Transcendental Light in me entered and remained;
 And as I sank and sank into the Transcendental Light,
 I beheld the Transcendental Light,
 Himself aloud proclaiming.`,
-    elaborationEnglish: `auc wonuwong Cure`,
   },
   {
     id: 2844, tantraId: 9, verseNumber: 2843,
@@ -4296,6 +3810,17 @@ Formed is He not,
 Wondrous indeed unto felicity of sex-union enjoyed
 Imagination baffling,
 He in me in union stood.`,
+    elaborationEnglish: `Manifestness, Form, Attributes and Past
+
+—All absorbed,
+
+Satya-Jnana-Ananda arises (Truth-Knowledge-Bliss) With the six attributes blending; (flower, purity, beauty color, fragrance and radiance)
+
+Like it, arises the Bliss of Holy Guru
+
+Of self-illumined Manifestness,
+
+In whom the Four Saktis absorbed are.`,
   },
   {
     id: 2845, tantraId: 9, verseNumber: 2844,
@@ -4315,15 +3840,6 @@ When He acts on Adi Sakti,
 He becomes the letters A, U and M;
 And thus as Aum defying description,
 He shines as the Light within.`,
-    elaborationEnglish: `When He acts on Adi Sakti,
-
-He becomes the letters A, U, and M;
-And thus as Aum defying description,
-He shines as the Light within.
-
-srpacos bs sue Dew gy
-Yaosen wungh usrey tb
-Qundventt Gna)`,
   },
   {
     id: 2846, tantraId: 9, verseNumber: 2845,
@@ -4341,7 +3857,6 @@ Adoring Him in penance devout;
 And there I discovered Him, the Thief,
 With Sakti standing in Kalas concealed;
 Discovering Him, I ended my birth's cycle.`,
-    elaborationEnglish: `guoruu Aooaw Aaa`,
   },
   {
     id: 2847, tantraId: 9, verseNumber: 2846,
@@ -4361,7 +3876,6 @@ No more the egoity,
 None other the locale
 The Primal One I become,
 He and I one will be.`,
-    elaborationEnglish: `13. 214`,
   },
   {
     id: 2848, tantraId: 9, verseNumber: 2847,
@@ -4383,7 +3897,6 @@ Or with cool sandal paste soften them?
 All these are but by Fate, Nandi decreed,
 Thus realizing they impassive remain,
 They, the Holy Jnanis, that Truth perceived.`,
-    elaborationEnglish: `Oels Map srorvanew ourcripsicr Gs DEIWSUG como`,
   },
   {
     id: 2849, tantraId: 9, verseNumber: 2848,
@@ -4403,7 +3916,6 @@ And so by Muladhara Way
 I sought the Lord within the head;
 And what I did afore
 Took me to the Fair Land of Bliss.`,
-    elaborationEnglish: `BO. Cool sePoowes`,
   },
   {
     id: 2850, tantraId: 9, verseNumber: 2849,
@@ -4420,7 +3932,7 @@ The sands the river deposits
 Are by the river carried away;`,
     elaborationEnglish: `To none else is that task apportioned;
 
-I sought Nandi
+(And so)
 
 Of holy ashes and erect matted locks,
 
@@ -4481,9 +3993,6 @@ If a house to pieces falls,
 There is another house to dwell;
 -Thus do their thoughts, unconcerned run,
 Who Nandi's bounty know.`,
-    elaborationEnglish: `DARSHAN OF SIVA
-
-Atos Dachugs onrar GF`,
   },
   {
     id: 2854, tantraId: 9, verseNumber: 2853,
@@ -4520,18 +4029,6 @@ It is an Object subtle by far;
 It has no coming, nor going, no perishing;
 All blessings are
 For those who seek Lord true.`,
-    elaborationEnglish: `Is hidden that Vedic Object;
-
-Look at it;
-
-It is an Object subtle by far;
-
-It has no coming, no going, no perishing;
-All blessings are
-
-For those who seek Lord true.
-
-gocerds apssp groans`,
   },
   {
     id: 2856, tantraId: 9, verseNumber: 2855,
@@ -4568,9 +4065,6 @@ In every hair root its ambrosial sweetness floods;
 Beyond the initial Manifestness Three it is;
 There indeed is the greatness vast of that Supreme Manifestness
 That Vedas praise so high.`,
-    elaborationEnglish: `' That Vedas praise so high.
-
-Qoargb Quemesray wrancr`,
   },
   {
     id: 2858, tantraId: 9, verseNumber: 2857,
@@ -4587,9 +4081,6 @@ He is Sentience, He is Life;
 He is union, He is separation;
 He is Continuity beyond thought;
 He stands in the fragrance of flower within.`,
-    elaborationEnglish: `HAM Hot orerscroncr worehlupssr cred G yoach wuts Goneauw
-
-worefu Gacral wanwoact wrgaict`,
   },
   {
     id: 2859, tantraId: 9, verseNumber: 2858,
@@ -4611,9 +4102,6 @@ He is the unwritten Veda immutable;
 He is of Tapas great
 He stands within the head;
 For sure it is.`,
-    elaborationEnglish: `Uersann Apags NP al 5S QI b
-
-Qurer gy iD Goof yer`,
   },
   {
     id: 2860, tantraId: 9, verseNumber: 2859,
@@ -4634,9 +4122,6 @@ Of Form golden-hued, Nandi of matted locks
 Entered into me and said, "You know;"
 And thus saying, in benignance
 He cast His glance upon me.`,
-    elaborationEnglish: `ohdoné Honespsu Gugreh
-
-$50 Dow gus giMwugsgyor`,
   },
   {
     id: 2861, tantraId: 9, verseNumber: 2860,
@@ -4655,9 +4140,6 @@ That surpasses Thought;
 It is Pure Brahma Turiya;
 It is Turiya beyond Turiya;
 In it arises the Light Transcendental.`,
-    elaborationEnglish: `ue upTug era
-
-Beat Hear. TV`,
   },
   {
     id: 2862, tantraId: 9, verseNumber: 2861,
@@ -4678,7 +4160,6 @@ Nor the One who supports all;
 He is they and not they;
 Hara He is not
 Beyond Bliss is He.`,
-    elaborationEnglish: `usHucr Hog Plorgs wr`,
   },
   {
     id: 2863, tantraId: 9, verseNumber: 2862,
@@ -4698,6 +4179,7 @@ In the mighty Sakti standing
 They realize the Tattvas;
 Then from that Suddha State
 They pass to Sukhananda Bodha State.`,
+    elaborationEnglish: `They passes’ to Sukhananda Bodha State. gu Dero umpmb`,
   },
   {
     id: 2864, tantraId: 9, verseNumber: 2863,
@@ -4717,20 +4199,7 @@ Jiva blossoms shimmering;
 Neither folding, nor unfolding;
 The Form too is altered;
 How to describe it!`,
-    elaborationEnglish: `Turiyatita is Void
-
-That is. beyond words;
-
-When Ariya Turiyatita state still above is reached,
-Jiva blossoms shimmering;
-
-Neither folding, nor unfolding;
-
-The Form too is altered;
-
-How to describe it!
-
-“A thing cannot be described and clarified in terms of itself, but only with reference to something else in the universe...
+    elaborationEnglish: `“A thing cannot be described and clarified in terms of itself, but only with reference to something else in the universe...
 
 The field from which the substance and the form of are taken is nature. There is no other field from which to derive them. Nature takes the two aspects
 
@@ -4738,10 +4207,7 @@ ot “human nature’ and the nature of the surroundings of man. Man’s ‘anim
 
 Substance and form of belong to external nature.
 
-The meaning applies to the internal nature. Nature is the mirror of cofisciousness, and the pictures in the mirror reflect the of consciousness.’’ ‘“The Book of
-Signs,’” by G.H. Mees, Vol.I.
-
-16. Cush, 5G (6) aurress ib z`,
+The meaning applies to the internal nature. Nature is the mirror of cofisciousness, and the pictures in the mirror reflect the of consciousness.’’ ‘“The Book of Signs,’” by G.H. Mees, Vol.I.`,
   },
   {
     id: 2865, tantraId: 9, verseNumber: 2864,
@@ -4806,17 +4272,11 @@ Thus the Jivas play the game;
 He who thus leads them to it,
 The mystery of His play
 I know not.`,
-    elaborationEnglish: `1) Sense organs
-2) Malas—anava, maya and karma
-3) Fifty-one letters of nada pervading the body.
+    elaborationEnglish: `1) Sense organs 2) Malas—anava, maya and karma 3) Fifty-one letters of nada pervading the body.
 
 Chapter 17 is given the caption “Sunya Sambhasana (Dialogue of But it is more popular esoteric than and resemble in this respect the popular and other ‘‘sandabhasa"’, literature of Bengal which began to appear from about the 10th century onwards with
 
-the decay of Buddhism {See ‘Obscure Religious cults of Bengal’’ by Das Gupta). The verses in this chapter are typical siddhar poetry.
-
-uns ALSGD aiomsuw cunlhocw
-
-wimps ALSGL osu annrse`,
+the decay of Buddhism {See ‘Obscure Religious cults of Bengal’’ by Das Gupta). The verses in this chapter are typical siddhar poetry.`,
   },
   {
     id: 2868, tantraId: 9, verseNumber: 2867,
@@ -4833,7 +4293,6 @@ The Holy Way is by thorny bushes covered
 They know not how to remove it;
 They who know how to remove it
 Are they for whom my heart yearns.`,
-    elaborationEnglish: `get tuner`,
   },
   {
     id: 2869, tantraId: 9, verseNumber: 2868,
@@ -4851,15 +4310,7 @@ In their junction are juicy palm trees four;
 With ladder difficult to climb,
 I ascended the palm's heights;
 And there I saw the seas seven.`,
-    elaborationEnglish: `With ladder difficult to climb,
-I ascended the palm’s heights;
-And there I saw the seas seven.
-
-Climb the four juicy palm trees (nadis—sun, moon, meru, and sushumna) in the junction of the six streets (adharas).
-Then you will behold the seven seas, sahasfara).
-Uysowo unsev anssgi
-
-Ost gH Mere Gry Geant`,
+    elaborationEnglish: `Climb the four juicy palm trees (nadis—sun, moon, meru, and sushumna) in the junction of the six streets (adharas). Then you will behold the seven seas, sahasfara). Uysowo unsev anssgi Corot pesos USS)`,
   },
   {
     id: 2870, tantraId: 9, verseNumber: 2869,
@@ -4879,16 +4330,11 @@ I dug up the dust;
 And the pumpkin blossomed;
 The gardner-gang prayed and ran;
 Full well ripened the fruit of plantain.`,
-    elaborationEnglish: `1) Renunciation (vazhu plus thalai means ‘shaven head’)
-2) Bitterness—or world negation
+    elaborationEnglish: `1) Renunciation (vazhu plus thalai means ‘shaven head’) 2) Bitterness—or world negation
 
-3) The tattvas or the universals that constitute the body.
-4) Siva (suggesting a Linga covered with holy ashes)
+3) The tattvas or the universals that constitute the body. 4) Siva (suggesting a Linga covered with holy ashes)
 
-5) The indriyas or sense organs; may also refer to malas.
-6) Mukti or liberation from birth. The plantain is thought of as being seedless (vazhai comes from ‘vazh’ and ‘i’— creating a pun on the word to mean ‘life-giving fruit’).
-
-Oewuler Asahan curfcronw`,
+5) The indriyas or sense organs; may also refer to malas. 6) Mukti or liberation from birth. The plantain is thought of as being seedless (vazhai comes from ‘vazh’ and ‘i’— creating a pun on the word to mean ‘life-giving fruit’).`,
   },
   {
     id: 2871, tantraId: 9, verseNumber: 2870,
@@ -4926,13 +4372,6 @@ Another alien field with them lay mingled;
 Those that plough the field of heart
 For them the field fed with water,
 Lay ripe in harvest rich.`,
-    elaborationEnglish: `1) Sushupti state
-
-441
-
-2). Waking and dream states
-
-Bruccr Care) BHM egy cy`,
   },
   {
     id: 2873, tantraId: 9, verseNumber: 2872,
@@ -4953,17 +4392,7 @@ They who held not their tongue,
 Ploughed not in the Center
 Closing their legs together,
 They plough the waste in vain.`,
-    elaborationEnglish: `Are the Ploughs Three?;
-
-Yoke the bulls tight with rope;
-Drive the ploughshare
-They who held not their
-Ploughed not in the Centre®
-Closing their legs together,’
-
-They plough the waste in vain.
-
-1) Muladhara, the centre that is triangle-shaped.
+    elaborationEnglish: `1) Muladhara, the centre that is triangle-shaped.
 
 2) Three nadis—ida, pingala, and sushumna
 
@@ -4973,12 +4402,7 @@ They plough the waste in vain.
 
 5) Thrusting the tongue upward into the uluva—a yogic practice for realisation: known as kechari mudra.
 
-6) Sahasrara in the cranium
-
-7) Controlling breath.
-
-Topb gup gisajor
-Qanss Qonowne uMssbir`,
+6) Sahasrara in the cranium`,
   },
   {
     id: 2874, tantraId: 9, verseNumber: 2873,
@@ -5005,9 +4429,7 @@ That the harlot rears.`,
 
 5S) The central sushumna nadi
 
-6) Consumed any time as food in pleasure-seeking.
-
-GLK usésaor GLUT Gam A uD) soy ud`,
+6) Consumed any time as food in pleasure-seeking.`,
   },
   {
     id: 2875, tantraId: 9, verseNumber: 2874,
@@ -5024,12 +4446,9 @@ Twenty and four the cows that stray uncontrolled,
 Other cows gentler are seven and five;
 Well may the gentler ones a whole pot of milk give;
 But Jiva has the straying uncontrolled ones alone.`,
-    elaborationEnglish: `But Jiva has the straying uncontrolled ones alone.
+    elaborationEnglish: `1) Tattvas pertaining to jiva’s body.
 
-1) Tattvas pertaining to jiva’s body.
-
-2) Higher tattvas—seven vidya tattvas and five Siva tattvas.
-FOO ussacr`,
+2) Higher tattvas—seven vidya tattvas and five Siva tattvas. FOO ussacr`,
   },
   {
     id: 2876, tantraId: 9, verseNumber: 2875,
@@ -5048,11 +4467,7 @@ When you know how to milk the cows of breath (yoga)
 The other cows near not.`,
     elaborationEnglish: `1) Tattvas of the body
 
-2) Higher tattvas stated in Mantra above.
-
-3) Sense organs.
-
-Qurttin Quepssg`,
+2) Higher tattvas stated in Mantra above.`,
   },
   {
     id: 2877, tantraId: 9, verseNumber: 2876,
@@ -5071,14 +4486,13 @@ He shaped it round, folding it in Truth
 Thus the smith made it his own.`,
     elaborationEnglish: `1) The cranium
 
-2) Jiva’s body-house—‘thattan’ is composed of ‘thattu’ and
-‘an,’ creating a pun on the word which means, ‘striking jiva.’
+2) Jiva’s body-house—‘thattan’ is composed of ‘thattu’ and ‘an,’ creating a pun on the word which means, ‘striking jiva.’
 
 3) flower bud in sahasrara
 
 4) Ruddy in color.
 
-5) “Vay’ and ‘mai’ creates a pun on the word to mean closing the uluva opening in the mouth.`,
+5) “Vay’ and ‘mai’ creates a pun on the word to mean closing the uluva opening in the mouth. ARMHAD BUNH spool Dane r~e Fy anNshan Beans Yew`,
   },
   {
     id: 2878, tantraId: 9, verseNumber: 2877,
@@ -5098,22 +4512,7 @@ And dam it tight;
 Then plough with the goodly young bull,
 And transplant the cucumber seedling;
 That shall indeed into goodly seed ripe.`,
-    elaborationEnglish: `In the eroding seed bed
-
-Of Sorrow’s field,
-
-Train the flowing water
-
-And dam it tight;
-
-Then plough with the good young bull,
-And transplant the cucumber seedling;
-That shall indeed into good seed ripe.
-
-Plough the eroding seed bed (thoughts that are filled with sorrow) with the good young bull (yoga), and transplant the cucumber seedling (bindu). Truly, it will ripen into
-
-yeys Dor apoarew
-Querer aap memir`,
+    elaborationEnglish: `Plough the eroding seed bed (thoughts that are filled with sorrow) with the good young bull (yoga), and transplant the cucumber seedling (bindu). Truly, it will ripen into the good seed (macrocosmic bindu).`,
   },
   {
     id: 2879, tantraId: 9, verseNumber: 2878,
@@ -5136,11 +4535,7 @@ Gently should they consume it;
 This they do not;
 How then do they the sweet rice crop harvest,
 Lying indifferent?`,
-    elaborationEnglish: `Strew the seed; apply manure; plough it; remove the weeds—then in produced rice (liberation). How can you reap a good harvest if you have not: striven like this?
-Liberation will not be bestowed to those who do not
-Strive in the yogic way.
-
-Mors Narbgy anise`,
+    elaborationEnglish: `Strew the seed; apply manure; plough it; remove the weeds—then in produced rice (liberation). How can you reap a good harvest if you have not: striven like this? Liberation will not be bestowed to those who do not Strive in the yogic way.`,
   },
   {
     id: 2880, tantraId: 9, verseNumber: 2879,
@@ -5157,16 +4552,9 @@ The seed for future ripened
 The seed ripened over quite a stretch,
 For those whom the seed ripened in stages three
 The three spaces above, too, ripened.`,
-    elaborationEnglish: `The three spaces”? above, too, ripened.
+    elaborationEnglish: `1) The three turiya states—jiva turiya, Para turiya, and Siva turiya.
 
-2) astral space within.
-
-1) The three turiya states—jiva turiya, Para turiya, and
-Siva turiya.
-
-2) The three space beyond, one in each of the three turiya states.
-
-STG suntacr soricr ipmnss`,
+2) The three space beyond, one in each of the three turiya states.`,
   },
   {
     id: 2881, tantraId: 9, verseNumber: 2880,
@@ -5202,7 +4590,7 @@ The binding Pasas to Fire Consign;
 Thus spend days continuous;
 Then the goodly Lady appears
 And there in the home, you shall be well.`,
-    elaborationEnglish: `3) Chanting of the mantra, ‘Aum.’`,
+    elaborationEnglish: `3) Chanting of the mantra, ‘Aum.’ 4) Kundalini`,
   },
   {
     id: 2883, tantraId: 9, verseNumber: 2882,
@@ -5221,9 +4609,7 @@ The rich ripe fruit from bunch above dropped;
 Unto the metal on the smith's furnace,
 It melted;
 And over the heart, He made it flow.`,
-    elaborationEnglish: `It rained (nectar flowed) on the mountain (cranium), and the dear (Sakti) leapt. From the bunch (sahasrara) dropped the rich fruit (bliss of Grace). Like the metal in the furnace, it melted, and sweet ambrosia flowed.
-
-Qa Oaisgs Dhar`,
+    elaborationEnglish: `It rained (nectar flowed) on the mountain (cranium), and the dear (Sakti) leapt. From the bunch (sahasrara) dropped the rich fruit (bliss of Grace). Like the metal in the furnace, it melted, and sweet ambrosia flowed.`,
   },
   {
     id: 2884, tantraId: 9, verseNumber: 2883,
@@ -5240,10 +4626,7 @@ In Brahmin's home are Milk Cows Five
 With none to herd them, they stray uncontrolled,
 If a cowherd there is, and controlled they are,
 The Five Cows will milk in abundance give.`,
-    elaborationEnglish: `If there is a cowherd (yogi) to control the five milky cows (senses) in the brahmin’s home (yogi’s body), they will give milk (ambrosia) in abundance. So hold firm control over your senses. You will remain youthful forever.
-
-Borsa osgod Muugs
-Bros gH orores`,
+    elaborationEnglish: `If there is a cowherd (yogi) to control the five milky cows (senses) in the brahmin’s home (yogi’s body), they will give milk (ambrosia) in abundance. So hold firm control over your senses. You will remain youthful forever.`,
   },
   {
     id: 2885, tantraId: 9, verseNumber: 2884,
@@ -5264,19 +4647,11 @@ And the mind within,
 If yours they become, firm controlled,
 The bull, old becomes not;
 If not, they put fire to it.`,
-    elaborationEnglish: `If yours they become, firm controlled,
-The bull,> old becomes not;
-If not, they put fire to it®
-
-2) The other tattvas
+    elaborationEnglish: `2) The other tattvas
 
 3) Nadis—ida and pingala
 
-4) Nine centres—the six adharas and the three spheres of sun, moon, and fire.
-
-Asqganrg sore Cars
-
-wHoms yoaler wergher wg enact`,
+4) Nine centres—the six adharas and the three spheres of sun, moon, and fire.`,
   },
   {
     id: 2886, tantraId: 9, verseNumber: 2885,
@@ -5295,9 +4670,7 @@ The nectar of Flower, unopened until then,
 Gushed forth;
 As the Bee its fragrance drank,
 Unborn it became.`,
-    elaborationEnglish: `Unborn it became.
-
-When the immaculate virgin (kundalini): chants the truth of the unwritten book (Aum), the nectar of the flower (sahasrara) gushes out. -When the bee (yogi) savours that fragrant liquid, immortality ensues.`,
+    elaborationEnglish: `When the immaculate virgin (kundalini): chants the truth of the unwritten book (Aum), the nectar of the flower (sahasrara) gushes out. -When the bee (yogi) savours that fragrant liquid, immortality ensues.`,
   },
   {
     id: 2887, tantraId: 9, verseNumber: 2886,
@@ -5317,16 +4690,9 @@ Of the ripe fruit of flourishing Jamun tree;
 -All, all, went the burning roof's way.`,
     elaborationEnglish: `If breath is controlled through the yogic way, surely death can be vanquished.
 
-1) Exhaling breath
-
-2) Inhaling breath
-
 4) Worldly pleasures, actually astringent in taste.
 
-5) The Tamil word, ‘naval,’ also denotes a cry of pity.
-
-paher apmoruiles Cabo
-Cabiein srigg ALGS uct Gort`,
+5) The Tamil word, ‘naval,’ also denotes a cry of pity. 6) Death.`,
   },
   {
     id: 2888, tantraId: 9, verseNumber: 2887,
@@ -5344,242 +4710,7 @@ Close on Margosa was a Palmyrah,
 In that Palm is a Snake
 Knowing not to drive that Snake and eat it,
 The Margosa tree withered away.`,
-    elaborationEnglish: `scuemers
-
-But Jiva has the straying uncontrolled ones alone.
-
-1) Tattvas pertaining to jiva’s body.
-2) Higher tattvas—seven vidya tattvas and five Siva tattvas.
-Yoga Way to Transcend Tattvas
-
-Twenty and four the cows' that are in calf;
-Better far a pitcher of milk from cows” that yield;
-
-When you know how to milk the cows of breath
-
-The other cows? near not.
-
-1) Tattvas of the body
-
-2) Higher tattvas stated in Mantra above.
-
-3) Sense organs.
-
-SUL ASD SOO wrest 0 FS) a1 Gio
-Quortiinr Quapssgy Debune wargssl
-
-Yogic Kechari Mudra For Liberation
-
-In the upper storey’ of the house of smith?
-Was a bud-like that like (sheet) expanded;
-
-He ‘shaped it round, folding it in Truth®
-
-Thus the smith made it his own.
-
-1) The cranium
-
-2) Jiva’s body-house—‘thattan’ is composed of ‘thattu’ and
-‘an,’ creating a pun on the word which means, ‘striking jiva.’
-
-3) flower bud in sahasrara
-
-4) Ruddy in color.
-
-5) and ‘mai’ creates a pun on the word ‘vay to mean closing the uluva opening in the mouth.
-POANEDAD Daca gals 2877
-
-Sublimate Bindu Within into Para Bindu
-
-In the eroding seed bed
-
-Of Sorrow’s field,
-
-Train the flowing water
-
-And dam it tight;
-
-Then plough with the good young bull,
-And transplant the cucumber seedling;
-That shall indeed into good seed ripe.
-
-Plough the eroding seed bed (thoughts that are filled with sorrow) with the good young bull (yoga), and transplant the cucumber seedling (bindu). Truly, it will ripen into
-
-wens Hor
-
-Liberation only for Those who Strive
-
-Strewing the seed,
-
-And applying manure in baskets full,
-
-And ploughing with yoked bulls,
-
-And digging out the weeds,
-
-Thus producing rice,
-
-And cooking in vessels big,
-
-Gently should they consume it;
-
-This they do not;
-
-How then do they the sweet rice crop harvest,
-
-Strew the seed; apply manure; plough it; remove the weeds—then in produced rice (liberation). How can you reap a good harvest if you have not: striven like this?
-Liberation will not be bestowed to those who do not
-Strive in the yogic way.
-
-Norpg urise
-
-Attaining the-Triple Turiya States
-
-The seed for future. ripened
-The seed tipened over quite a stretch,
-For those whom the seed ripened in States three!
-
-The three spaces” above, too, ripened.
-
-2) astral space within.
-
-1) The three turiya states—jiva turiya, Para turiya, and
-Siva turiya.
-
-2) The three space beyond, one in each of the three turiya states.
-
-STG untscr Bevenw
-
-EUG sunita sohcr pangs
-
-aaher aghiuler wiGw. 2880
-
-Do not Cultivate the Waste of Worldly Pleasures
-
-Why they plough the waste, we. know not,
-They who plough the waste have design none,
-They who plough the waste perish,
-
-Like the young weeds
-
-That waste shoots.
-
-Yoga Leads to Grace
-
-Within the shed’ where jackals? howl,
-Rouse your call?;
-
-The binding Pasas to Consign;
-
-Thus spend days continuous;
-
-Then the great Mother appears
-
-And there in the home, you shall be well.
-
-3) Chanting of the mantra, ‘Aum.’
-
-Experiences in the Sphere of Sahasrara
-
-On the mountain it rained,
-
-The young deer leapt;
-
-The rich ripe fruit from bunch above dropped;
-Like the metal on the smith’s furnace,
-
-It melted;
-
-And over the heart, He made it flow.
-
-It rained (nectar flowed) on the mountain (cranium), and the dear (Sakti) leapt. From the bunch (sahasrara) dropped the rich fruit (bliss of Grace). Like the metal in the furnace, it melted, and sweet ambrosia flowed.
-
-Qa Oasys Dhaca unruuncs use uncwné Cw. 2883
-
-Control Senses
-
-In Brahmin’s home are Milk Cows Five
-
-With none to herd them, they stray uncontrolled,
-If a cowherd there is, and controlled they are,
-The Five Cows will milk in abundance give.
-
-If there is a cowherd (yogi) to control the five milky cows (senses) in the brahmin’s home (yogi’s body), they will give milk (ambrosia) in abundance. So hold firm control over your senses. You will remain youthful forever.
-
-Bors opgibd pars s.noNger ape Oho 2884
-
-How to be Youthful
-
-The five wild’ bulls' of Jiva,
-And the fierce lions thirty’,
-The two mangoes sweet,
-The fradulent
-
-And the mind within,
-
-If yours they become, firm controlled,
-The bull,> old becomes not;
-If not, they put fire to it®
-
-2) The other tattvas
-
-3) Nadis—ida and pingala
-
-4) Nine centres—the six adharas and the three spheres of sun, moon, and fire.
-
-bems Ue: wea
-Upnaurs act weripes. 2885
-
-Immortality Through Yoga
-
-The Truth of the Unwnitten Book,
-
-The Immaculate Virgin in clarity chanting,
-The nectar of Flower, unopened until then,
-Gushed forth;
-
-As the Bee its fragrance drank,
-
-Unborn it bécame.
-
-When the immaculate virgin (kundalini) chants the truth of the unwritten book (Aum), the nectar of the flower (sahasrara) gushes out..-When the bee (yogi) savours that fragrant liquid, immortality ensues.
-
-yelp Qurwa sg ms
-
-BAT) MUA Maid
-
-Sure Death, if Breath is not Controlled
-
-The deceptive one that leaves,'
-
-The false seed that enters’;
-
-The Five? who eat of the made
-
-Of the ripe fruit® of flourishing Jamun tree;
-—All, all, went the burning roof’s way®
-
-If breath is controlled through the yogic way, surely death can be vanquished.
-
-1) Exhaling breath
-
-2) Inhaling breath
-
-4) Worldly pleasures, actually astringent in taste.
-
-5) The Tamil word, ‘naval,’ also denotes a cry of pity.
-
-Body Perishes if Yoga is not Practised
-
-From the Bamboo Shoot arose a Margosa tree
-Close on Margosa was a Palmyrah,
-In that Palm is a Snake
-
-Knowing not to drive that Snake and eat it,
-The Margosa tree withered away.
-
-From the bamboo shoot (karma) arose a margosa tree (body), and very close to that was a palmyrah (sushumna).
-Knowing not how to drive the snake (kundalini) that was in the palm, the margosa withered away (the body perishes if yoga is not practised).`,
+    elaborationEnglish: `From the bamboo shoot (karma) arose a margosa tree (body), and very close to that was a palmyrah (sushumna). Knowing not how to drive the snake (kundalini) that was in the palm, the margosa withered away (the body perishes if yoga is not practised).`,
   },
   {
     id: 2889, tantraId: 9, verseNumber: 2888,
@@ -5602,6 +4733,8 @@ Five the lordly ones,
 There they all stand.`,
     elaborationEnglish: `2) Ten sense organs (karmendriyas and jnanendriyas), and five sense potencies (tanmatras)
 
+3) Antakarana (organs of intelligence)
+
 5) Sun, moon and fire spheres
 
 7) Avastas or experiences—waking, dreaming, etc.`,
@@ -5621,9 +4754,7 @@ Two the bulls in this hamlet,
 One the servant for the bulls two;
 Control the bulls two, firm,
 As one they will then be.`,
-    elaborationEnglish: `Control the two bulls (breaths—right, pingala, and lett, ida) in this hamlet (body). Then they will become one as prana coursing througn the sushumna.
-
-95 yor sucess yu oWors eparaca 2a or`,
+    elaborationEnglish: `Control the two bulls (breaths—right, pingala, and lett, ida) in this hamlet (body). Then they will become one as prana coursing througn the sushumna.`,
   },
   {
     id: 2891, tantraId: 9, verseNumber: 2890,
@@ -5641,12 +4772,7 @@ In devotion's net, plant the cotton tree
 By salvation's rope enter the place of Three,
 Daily do they ascend thus,
 Who perfection filled are.`,
-    elaborationEnglish: `Who perfection filled are.
-
-Level up the mind-garden, and plant the cotton tree (coursing the thread-like prana through sushumna). Then enter the place of three (ajna) by liberation’s rope (yoga practice), where Siva, Sakti and jiva are. Thus, by practising yoga, ascend daily. You will become perfect.
-
-Lipib 2 emacs
-BIDSOWS MOS FOS QIN SQ Hs`,
+    elaborationEnglish: `Level up the mind-garden, and plant the cotton tree (coursing the thread-like prana through sushumna). Then enter the place of three (ajna) by liberation’s rope (yoga practice), where Siva, Sakti and jiva are. Thus, by practising yoga, ascend daily. You will become perfect.`,
   },
   {
     id: 2892, tantraId: 9, verseNumber: 2891,
@@ -5666,14 +4792,9 @@ As the Owl nears the Mynah
 The Mouse warns Mynah, screeching loud.`,
     elaborationEnglish: `The six base traits—lust, hatred, infatuation, avarice, arrogance (egoity), and malice (the owl, snake, parrot, cat, and quail) within. The mouse (kundalini yoga power) warns the (jiva) as the owl (lust) nears it.
 
-1-6) for the six transgressions: kama (lust), (ahankara—ego), matsarya (vengefulness). For the of birds as transgressions (avengers), vide—‘‘The Book of Signs,’’ by G.H. Mees, Vol.I, p.255-
+1-6) for the six transgressions: kama (lust), kroda (hatred), lobha (miserliness),, moha (greed), matha (ahankara—ego), matsarya (vengefulness). For the of birds as transgressions (avengers), vide—‘‘The Book of Signs,’’ by G.H. Mees, Vol.I, p.255-
 
-7) The shrew-mouse is of the divine self which works in the ‘unconscious’’ and interferes with man’s ahankara stores, and in the plane for the future. One
-Ganapathi tradition says, “It is Isavara who enjoys all.
-He lives there like a thief. He is said to be a mouse.’’
-The shrew-mouse is the mount of Ganapathi, the guardian
-Mahadeva of the muladhara chakra, Vide ‘‘The Book of
-Signs,’’ by G.H. Mees, Vol.I, pp.287-88, op.cit.`,
+7) The shrew-mouse is of the divine self which works in the ‘unconscious’’ and interferes with man’s ahankara stores, and in the plane for the future. One Ganapathi tradition says, “It is Isavara who enjoys all. He lives there like a thief. He is said to be a mouse.’’ The shrew-mouse is the mount of Ganapathi, the guardian Mahadeva of the muladhara chakra, Vide ‘‘The Book of Signs,’’ by G.H. Mees, Vol.I, pp.287-88, op.cit.`,
   },
   {
     id: 2893, tantraId: 9, verseNumber: 2892,
@@ -5693,9 +4814,6 @@ If on the fire placed, they run;
 Else they remain;
 Of flesh-born,
 How will they ever go?`,
-    elaborationEnglish: `Kundalini yoga alone drives away the triple pasas.
-
-2) Pasas—the rat (unlike the mouse which the divine) pasas. Vide G.H. Mees, op.cit.`,
   },
   {
     id: 2894, tantraId: 9, verseNumber: 2893,
@@ -5714,9 +4832,7 @@ The Five Steeds together entered,
 The Six Camels were closed up, entire;
 If they leave the Forest dense,
 The Three will near come.`,
-    elaborationEnglish: `If the five steeds (senses), and the six camels (evils) leave the dense forest (thought), the three (Siva, Sakti and Grace) will near them. Renounce everything—you will be liberated. .
-
-SIG MUL gy Host cuit`,
+    elaborationEnglish: `If the five steeds (senses), and the six camels (evils) leave the dense forest (thought), the three (Siva, Sakti and Grace) will near them. Renounce everything—you will be liberated. .`,
   },
   {
     id: 2895, tantraId: 9, verseNumber: 2894,
@@ -5736,9 +4852,7 @@ Fly away
 Unto a garment piece on a high rock laid,
 Into the deep pit of six sins they fall
 And there immersed are.`,
-    elaborationEnglish: `They who desire for earthly riches are like a ‘fragile garment piece laid on,a high rock. At the blow of the slightest wind, it falls into the deep pit of the six sins.
-
-soos Gunocurtapo Gumrgib`,
+    elaborationEnglish: `They who desire for earthly riches are like a ‘fragile garment piece laid on,a high rock. At the blow of the slightest wind, it falls into the deep pit of the six sins.`,
   },
   {
     id: 2896, tantraId: 9, verseNumber: 2895,
@@ -5756,11 +4870,7 @@ They daily thrice journeyed,
 To superintend the Field there,
 She there is, who moves the Mountain obstacle within stands;
 Her place we know not.`,
-    elaborationEnglish: `within stands;
-Her place we know not.
-
-Kundalini removes the obstacles to reaching the sahasrara.
-Her abode is beyond our cognition.`,
+    elaborationEnglish: `Kundalini removes the obstacles to reaching the sahasrara. Her abode is beyond our cognition.`,
   },
   {
     id: 2897, tantraId: 9, verseNumber: 2896,
@@ -5779,8 +4889,7 @@ The Form of the holy Element she attained,
 In that state, rapturous She remained.`,
     elaborationEnglish: `1) The Tamil word for kite, ‘parunthu,” also means bangle of conch shell worn by women.
 
-2) Parrot held by Sakti good and evil in balance
-3) Kundalini ;
+2) Parrot held by Sakti good and evil in balance 3) Kundalini ;
 
 4) Union in Siva in sahasrara`,
   },
@@ -5800,12 +4909,6 @@ And approaching its partner fed it
 Unto it easy is the Goal to reach
 For those who eat of Ghee in the melting Fire within
 And away the Darkness drive.`,
-    elaborationEnglish: `Indéed, reaching the destined goal (liberation) is easy for those -who eat of the ghee (Grace) in the melting fire (love of God) within, driving away the darkness.
-
-3) Spiritual energy or ambrosia
-
-Qomwwdane Laos worccsr 19 mE)
-Gardin nage &OS`,
   },
   {
     id: 2899, tantraId: 9, verseNumber: 2898,
@@ -5823,9 +4926,7 @@ Top none, sheath none, root there is;
 Bunch none, Flower to pluck there is;
 Head none to wear;
 The Branch that bent withers not.`,
-    elaborationEnglish: `No leaves, no bees, but the flower (sahasrara) is there
-
-(in the cranium). No top, no sheath, but the root (Siva) is there. No head to wear that flower. The branch (Grace) that bends does not wither.`,
+    elaborationEnglish: `(in the cranium). No top, no sheath, but the root (Siva) is there. No head to wear that flower. The branch (Grace) that bends does not wither.`,
   },
   {
     id: 2900, tantraId: 9, verseNumber: 2899,
@@ -5844,17 +4945,6 @@ Those who transcend the Five Sorrows exceeding
 Are the truly great;
 Low at Lord's Feet they lie;
 And there they remain.`,
-    elaborationEnglish: `‘They adore the holy Lord and in Him unite;
-Those who transcend the Five Sorrows exceeding
-Are the truly great;
-
-Low at Lord’s Feet they lie; .
-And there they remain.
-
-Having visioned the banyan tree (Siva) that stands aloft (in sahasrara), they adore the Holy Lord and unite in
-Him. Truly great are those who rise above the five sorrows.
-
-saat sabgihen`,
   },
   {
     id: 2901, tantraId: 9, verseNumber: 2900,
@@ -5873,9 +4963,7 @@ Inside stand Robber that ceases and binds,
 If the White Guard chases the Black Robber
 And back it sends,
 The Jiva the Roof of Safety reaches.`,
-    elaborationEnglish: `The robbers (senses) stand in the forest that is in the way of the loud call of jiva (seeking). If the white guard (yoga) chases these black thieves (senses), then jiva will reach the roof safely.
-
-sLyuys sohgiones waltnagii`,
+    elaborationEnglish: `The robbers (senses) stand in the forest that is in the way of the loud call of jiva (seeking). If the white guard (yoga) chases these black thieves (senses), then jiva will reach the roof safely.`,
   },
   {
     id: 2902, tantraId: 9, verseNumber: 2901,
@@ -5893,11 +4981,7 @@ Are Neem and Nux Vomica, too;
 They who eat not the Salad of Plantain sweet,
 With candy and honey mixed,
 Lo! hanker after the fruit of nux vomica.`,
-    elaborationEnglish: `ae cr
-
-Sweet ambrosia (liberation) and bitter nux vomica (passions) are both there within the body. They do not taste the salad of sweet plaintain mixed with candy and sugar (eternal life), but hanker after nux vomica (earthly life).
-
-Ge Oster. unssgdé Garowpanw H sigeigyt searaus Dew`,
+    elaborationEnglish: `Sweet ambrosia (liberation) and bitter nux vomica (passions) are both there within the body. They do not taste the salad of sweet plaintain mixed with candy and sugar (eternal life), but hanker after nux vomica (earthly life).`,
   },
   {
     id: 2903, tantraId: 9, verseNumber: 2902,
@@ -5916,11 +5000,6 @@ The multi-hued umbrella aloft canopying,
 The Lowly Bee, of Pasa embodied,
 Drinks of (nectar), the She-Bee by Her glance grants;
 That verily is rapture surpassing.`,
-    elaborationEnglish: `That verily is rapture surpassing.
-
-The Lord is seated on the (sahasrara) as He-bee (Siva) and She bee (Sakti). The lowly bee (jiva), of pasa embodied, swills the nectar which the She-bee grants by her glance
-
-ST GU GN GV SLUDS Doanuys Ga Gus aeedsu srpne crdogy`,
   },
   {
     id: 2904, tantraId: 9, verseNumber: 2903,
@@ -5941,7 +5020,6 @@ Discipline them in ways superior;
 Thus manage the herd;
 Until then, their thoughts turn not
 From the backwoods of worldly pleasures.`,
-    elaborationEnglish: ``,
   },
   {
     id: 2905, tantraId: 9, verseNumber: 2904,
@@ -5959,10 +5037,7 @@ In the Water Below, the Lily arose
 To those who can see light in the Cross-beam above
 The Lord is unto a cool Watermelon,
 That fruits even in regions low.`,
-    elaborationEnglish: `The lotus (sahasrara) and lily (kundalini) blossomed in the water above (cranium), and water below (muladhara) respectively. Vision the light in the crossbeam (ajna) above.
-'You will find. the Lord a cool watermelon that flourishes even in dry regions.
-
-BO upeaa Cucwer`,
+    elaborationEnglish: `The lotus (sahasrara) and lily (kundalini) blossomed in the water above (cranium), and water below (muladhara) respectively. Vision the light in the crossbeam (ajna) above. 'You will find. the Lord a cool watermelon that flourishes even in dry regions.`,
   },
   {
     id: 2906, tantraId: 9, verseNumber: 2905,
@@ -5979,17 +5054,6 @@ Six the Birds in the house of Five,
 Hundred the birds at the top of Tree,
 Having ascended the Seven Steps high,
 You shall sure reach the Home.`,
-    elaborationEnglish: `1) The six base qualities—lust, hatred, greed, etc. Vide
-Mantra 2891, Tantra Nine, n. supra.
-
-2) Body of the five senses
-
-3) The sahasrara of 1,000 petals, sometimes indicated us one hundred petals also. Vide Mantra 2527, Tantra
-Eight,n.
-
-4) The six adharas, and the seventh ultimate centre of sahasrara.
-
-alvcert yo oGglas sD Qm`,
   },
   {
     id: 2907, tantraId: 9, verseNumber: 2906,
@@ -6009,7 +5073,6 @@ And Water springs;
 Bind your breath and with Rope-Work
 And center your thoughts;
 Well may the Light Divine dawn.`,
-    elaborationEnglish: `3) Coursing breath through sushumna`,
   },
   {
     id: 2908, tantraId: 9, verseNumber: 2907,
@@ -6045,13 +5108,6 @@ They made this body and (the couple) left;
 The body-pole thus erected;
 The bewitching Birds of Deep well invaded;
 This way was it made, through lives successive.`,
-    elaborationEnglish: `This body-pole erected by man and woman: has been
-
-sought after by the bewitching birds of the deep well
-
-(senses) through successive lives.
-
-Mar OéGs ureag uc Ogserutr`,
   },
   {
     id: 2910, tantraId: 9, verseNumber: 2909,
@@ -6065,6 +5121,13 @@ koṭṭukkum tālikkum pāraikkum mūṉṟukkum
 iṭṭam valiteṉpar īcaṉ aruḷē`,
     english: `2909: Lord's Love is Supreme
 Two there are, the wedding drum and the wedding Thali;`,
+    elaborationEnglish: `Stronger than the wedding drum and is the_ crow-bar
+
+Stronger than the dram, thali and crow-bar
+
+Is the love .that comes of Lord’s Grace.
+
+The Lord’s Love and Grace is far superior and greater than the wedding drum, wedding ‘thali’, and the crowbar (sex-union).`,
   },
   {
     id: 2911, tantraId: 9, verseNumber: 2910,
@@ -6082,21 +5145,6 @@ They who saw the Hare, are of the Three rid;
 He who controlled the battle tumultuous,
 See the Hidden Truth,
 His form golden becomes.`,
-    elaborationEnglish: `.2) Astral vision of the moon within.
-
-Lord is Hidden Deep Within
-
-In the Tank' where Reeds? flourished,
-
-In Creepers? spread and entwined filled,
-
-The Lord is not like the stork that on them gently walks
-
-Deep into the Rocky Floor, He dives
-
-For Jiva’s redemption to grant.
-
-4) Steadfast devotion`,
   },
   {
     id: 2912, tantraId: 9, verseNumber: 2911,
@@ -6132,31 +5180,7 @@ Frontiers blurring the two routes intermingled;
 They who can see the Frontiers clear
 Can quick cross the backyard
 And reach the Hamlet safe.`,
-    elaborationEnglish: `And reach the Hamlet safe.
-
-The two routes (night and left breath) from the garden below (muladhara) and the forest above (sahasrara) intermingled, and they who can discern the blurring frontiers clearly reach the hamlet (liberation) safely and quickly.
-
-Osmoeap Quiwr Oecad
-
-agwanrg aorteer 2913
-
-No More Karmas if Yoga is Attained
-
-When after Ploughing, Seed is cast,
-And copious Rains fall,
-
-And it soaks the Land,
-
-No more will Karmas germinate;
-Sure He comes,
-
-The Lord of flourishing matted locks.
-
-No more karmas will trouble you, if yoga is consummated.
-you will surely reach the Lord of Flourishing Matted
-+ Locks.
-
-anita woop gimp`,
+    elaborationEnglish: `The two routes (night and left breath) from the garden below (muladhara) and the forest above (sahasrara) intermingled, and they who can discern the blurring frontiers clearly reach the hamlet (liberation) safely and quickly.`,
   },
   {
     id: 2914, tantraId: 9, verseNumber: 2913,
@@ -6175,6 +5199,7 @@ And it soaks the Land,
 No more will Karmas germinate;
 Sure He comes,
 The Lord of flourishing matted locks.`,
+    elaborationEnglish: `No more karmas will trouble you, if yoga is consummated. you will surely reach the Lord of Flourishing Matted + Locks.`,
   },
   {
     id: 2915, tantraId: 9, verseNumber: 2914,
@@ -6191,7 +5216,6 @@ The Tiger that leaps twelve leagues crouches,
 The Billows of the Hidden Sea soft spreads,
 The nectar-sweet rapturous ambrosia wells up,
 Thus did Jiva surround the Five that harassed.`,
-    elaborationEnglish: `arehiug Oewlg apf wortwacr`,
   },
   {
     id: 2916, tantraId: 9, verseNumber: 2915,
@@ -6213,14 +5237,7 @@ To him as a rich fruit of nectar sweet
 Is that Divine Water that flows.`,
     elaborationEnglish: `The good man, jiva, while voyaging in the yoga sea,.
 
-lost his heart to a she-devil (mayaic senses) and under her spell dropped in spirit. To him the divine water.
-that flows (from cranium) is like a rich fruit laden with nectar.
-
-BONG epargia anenipscr
-
-MVéGU uss Dhwaw srissor
-
-Méent senofwit`,
+lost his heart to a she-devil (mayaic senses) and under her spell dropped in spirit. To him the divine water. that flows (from cranium) is like a rich fruit laden with nectar.`,
   },
   {
     id: 2917, tantraId: 9, verseNumber: 2916,
@@ -6286,11 +5303,6 @@ Joining them not and debasing himself not,
 When, in balance, deeds good and bad are equal weighed
 The Jiva, tinier than crab's-eye berry,
 Its ego's diminution saw.`,
-    elaborationEnglish: `Give up the five senses. When good and bad deeds are weighed in balance, the jiva, tinier than the crab’s eye, sees its ego diminishing.
-
-59
-
-SL warsqye sneered`,
   },
   {
     id: 2920, tantraId: 9, verseNumber: 2919,
@@ -6309,11 +5321,7 @@ The bud soon blossoms, that you see
 Give up desires, the Tattvas perish;
 Unless they be from Fetters free,
 They see not the Blossom.`,
-    elaborationEnglish: `The bud blossoms as soon as it is freed from the plant’s fetters. Similarly, unless you are freed from the bonds you will not be liberated. So rend the fetters asunder and destroy the tattvas. -
-
-unww usemsurwbd wre ib stomgib Aiud onidvanw
-
-mh weopump wig .`,
+    elaborationEnglish: `The bud blossoms as soon as it is freed from the plant’s fetters. Similarly, unless you are freed from the bonds you will not be liberated. So rend the fetters asunder and destroy the tattvas. -`,
   },
   {
     id: 2921, tantraId: 9, verseNumber: 2920,
@@ -6330,9 +5338,7 @@ Green that Land, you no water flows,
 None know it ever;
 The Water that flows rain devoid
 Stands not in Land untilled.`,
-    elaborationEnglish: `Though no water flows, there is a land that remains ever green. The water that doesn’t flow from rain (Grace, does not stand in the’ land (body) untilled (by yoga).
-
-Braiplb gory Geli`,
+    elaborationEnglish: `Though no water flows, there is a land that remains ever green. The water that doesn’t flow from rain (Grace, does not stand in the’ land (body) untilled (by yoga).`,
   },
   {
     id: 2922, tantraId: 9, verseNumber: 2921,
@@ -6347,20 +5353,7 @@ pākaṉum ākiṉṟa paṇpaṉum āmē`,
     english: `2921: Jiva Becomes Siva by Kundalini Yoga
 When the Owl gets to the top of Kurunda tree
 And realizes desire is the source of world`,
-    elaborationEnglish: `And realizes desire is thé Source of the world
-Then the Snake standing in the Centre teaches
-
-And Jiva, Siva becomes.
-
-When the owl (jiva) on the top of the ‘kurunda’ tree
-
-(cranium) realises that desire is the source of the world, the snake (kundalini) standing in the centre (of sushumna) teaches jnana. Then jiva becomes Siva.
-
-UTEP Geogyd mw Gancsrr ow
-
-UT psGe Gog adg ud Oscrunt
-
-UTE Genguyb veangem Gg Ved`,
+    elaborationEnglish: `(cranium) realises that desire is the source of the world, the snake (kundalini) standing in the centre (of sushumna) teaches jnana. Then jiva becomes Siva.`,
   },
   {
     id: 2923, tantraId: 9, verseNumber: 2922,
@@ -6377,19 +5370,7 @@ The Plantain Tree and the Surai Creeper (pepper) together covered space;
 The Surai creeper is stronger by far than the Plantain tree, they say;
 Cutting down the Plantain tree and Surai creeper together,
 The Plantain extending flourishes sure.`,
-    elaborationEnglish: `together covered space;
-
-The Surai creeper is stronger by far, than the
-Plantain tree they say;
-
-Cutting down the Plantain tree and Surai creeper, together,
-
-The Plantain extending flourishes sure.
-
-They say that the ‘surai’ creeper (pasa) -is stronger than the plantain tree (jiva). Cut down the creeper — the plaintain flourishes well.
-
-Hogans Doss
-Goat yorrpgs Darap Wer`,
+    elaborationEnglish: `They say that the ‘surai’ creeper (pasa) -is stronger than the plantain tree (jiva). Cut down the creeper — the plaintain flourishes well.`,
   },
   {
     id: 2924, tantraId: 9, verseNumber: 2923,
@@ -6428,7 +5409,6 @@ Blow it and call the Lord in Joy;
 To the Potter and the Titled Minister alike
 Are granted the high state;
 That do you seek.`,
-    elaborationEnglish: `5) Vishnu and ‘thi’ means, ‘Protector or Preserver’)`,
   },
   {
     id: 2926, tantraId: 9, verseNumber: 2925,
@@ -6446,14 +5426,7 @@ It saw the Army and half-way turned;
 The Chief held counsel with Minister,
 The Citizens closed the Gates,
 Five and Four.`,
-    elaborationEnglish: `The Chief held counsel with Minister,
-The Citizens closed the- Gates,
-Five and Four.
-
-The temple buffalo (jiva) left the shed (yoga) and tured back seeing the army (senses). The chief (jiva) held counsel with the minister (Guru). The nine citizens (indriyas) closed the gates (orifices) by way of sense control. The indriyas are the impediments that obstruct the yoga journey.
-
-BAU usigsor gearugy anmwisayib
-Breipib 1 grey`,
+    elaborationEnglish: `The temple buffalo (jiva) left the shed (yoga) and tured back seeing the army (senses). The chief (jiva) held counsel with the minister (Guru). The nine citizens (indriyas) closed the gates (orifices) by way of sense control. The indriyas are the impediments that obstruct the yoga journey.`,
   },
   {
     id: 2927, tantraId: 9, verseNumber: 2926,
@@ -6475,9 +5448,6 @@ The Kundalini that serpent-like coils,
 The life breath twelve finger-measure (angula) long,
 -If these, the Divine Charioteer drives not in,
 Verily may the infant less than human be (say, pig).`,
-    elaborationEnglish: `The eight constituents of the subtle body that leave ultimately, the eighteen tattvas with purusha immersed in them that enter at conception; the nine orifices, the kundalini, the twelve-finger measure long life-breath—if all these are not
-
-driven into the womb by the Divine Charioteer, truly the infant born will be far inferior to human (say, a`,
   },
   {
     id: 2928, tantraId: 9, verseNumber: 2927,
@@ -6494,7 +5464,6 @@ In the Lagoon that is Moss covered,
 Gently walking, the Shy Heron feeds;
 When the Marching Warrior's guidance got,
 Pasa, to ground laid, fluttered away.`,
-    elaborationEnglish: `The shy heron (jiva) feeds in the lagoon (body) covered by moss (pasa). Pasa disappears with the guidance of the marching warrior (Guru).`,
   },
   {
     id: 2929, tantraId: 9, verseNumber: 2928,
@@ -6512,14 +5481,7 @@ Beyond the Summit blows a Gusty Wind;
 There blossomed a Flower that its fragrance spread
 Within that Flower, a Bee its Nectar imbibed,
 There the Lord unto Himself Jiva draws.`,
-    elaborationEnglish: `Beyond the Summit blows a Gusty Wind;
-
-There blossomed a Flower that its fragrance spread
-Within that Flower, a Bee its Nectar imbibed,
-There the Lord iike Himself Jiva draws.
-
-A gusty wind (prana) blows beyond the high summit (cranium). There blossomed a fragrant flower (sahasrara).
-The Lord draws jiva towards Himself. here.`,
+    elaborationEnglish: `A gusty wind (prana) blows beyond the high summit (cranium). There blossomed a fragrant flower (sahasrara). The Lord draws jiva towards Himself. here.`,
   },
   {
     id: 2930, tantraId: 9, verseNumber: 2929,
@@ -6536,9 +5498,7 @@ Lute and Flute, their melody intermingling,
 Siva marched ahead in Cranium within;
 Even before the Bargain was struck,
 The Land was up there for Him to possess.`,
-    elaborationEnglish: `Jiva marched ahead within the cranium with the music of vina and flute that comes of yoga in the nada sphere.
-Even before the bargain talks began (between jiva and
-Siva), the land (liberation) was up there for jiva to possess.`,
+    elaborationEnglish: `Jiva marched ahead within the cranium with the music of vina and flute that comes of yoga in the nada sphere. Even before the bargain talks began (between jiva and Siva), the land (liberation) was up there for jiva to possess. anewhug Orwisgy`,
   },
   {
     id: 2931, tantraId: 9, verseNumber: 2930,
@@ -6559,7 +5519,6 @@ When the Moon rises
 No more darkness will be;
 Some did reach there and remained ever,
 They truly, are the holy beings devout.`,
-    elaborationEnglish: `Qurcefpm Oasrewm gy`,
   },
   {
     id: 2932, tantraId: 9, verseNumber: 2931,
@@ -6576,11 +5535,7 @@ The Day dawned, a golden hue it took,
 On the banks high, the Mastwood shed its golden pollen;
 Thus it is where the Holy Lord abides;
 That Sphere the Damsel reached and remained.`,
-    elaborationEnglish: `The day dawned and shed its golden hue on the high
-
-banks (of sahasrara) where the Holy Lord abides. The damsel (kundalini) reached that sphere and remained there.
-
-bun Qadeaew Arrg`,
+    elaborationEnglish: `banks (of sahasrara) where the Holy Lord abides. The damsel (kundalini) reached that sphere and remained there. Garph DOGH SHNGH`,
   },
   {
     id: 2933, tantraId: 9, verseNumber: 2932,
@@ -6600,7 +5555,6 @@ Jiva takes the True Way to Frontier;
 From that born none ever return;
 From that very plane shall he transcend,
 The Five-States-Beyond.`,
-    elaborationEnglish: `Properly guided, jiva takes the true way to the frontier (sahasrara). From that plane he reaches the final state beyond the five states (of consciousness).`,
   },
   {
     id: 2934, tantraId: 9, verseNumber: 2933,
@@ -6619,8 +5573,7 @@ What matters if Jackals outside howl?
 When the Primal One was by Kundalini Fire reached,
 The fleshly body that led to it,
 Forever left.`,
-    elaborationEnglish: `The howling of the jackals (senses) outside matters little when the ripened mango fruit (Siva) drops within the garden (sahasrara). The. body counts for little when the
-Primal One (Siva) is reached by kundalini fire.`,
+    elaborationEnglish: `The howling of the jackals (senses) outside matters little when the ripened mango fruit (Siva) drops within the garden (sahasrara). The. body counts for little when the Primal One (Siva) is reached by kundalini fire.`,
   },
   {
     id: 2935, tantraId: 9, verseNumber: 2934,
@@ -6639,10 +5592,6 @@ Separation fearing, bewailed;
 With Her in eternal union the Lord joyed;
 And for Jiva no more the dawn
 No more the separation.`,
-    elaborationEnglish: `1) Effulgent light of jnana in sahasrara
-
-are her grep ay lb
-Gewourt cuppulent wing Dent`,
   },
   {
     id: 2936, tantraId: 9, verseNumber: 2935,
@@ -6661,11 +5610,7 @@ Thus on the river route they trade;
 If in the midst the Rudder wobbles,
 That becomes This.
 (No more the world trade.)`,
-    elaborationEnglish: `The five boatmen (senses) row the’ boat (body) in the river ghat (life). If in the middle, the rudder wobbles (pasas leave), no more will there be world trade when pasas are sundered, jiva unites in Siva.
-
-18. Gores sur
-
-Aorprt Qospsrt Ar cromalcvonw`,
+    elaborationEnglish: `The five boatmen (senses) row the’ boat (body) in the river ghat (life). If in the middle, the rudder wobbles (pasas leave), no more will there be world trade when pasas are sundered, jiva unites in Siva.`,
   },
   {
     id: 2937, tantraId: 9, verseNumber: 2936,
@@ -6684,7 +5629,6 @@ Their thought is in Samadhi's Silentness;
 There is a Being Hidden;
 They who reach it (Samadhi),
 Have reached Him indeed.`,
-    elaborationEnglish: `Sri Ow srposrb`,
   },
   {
     id: 2938, tantraId: 9, verseNumber: 2937,
@@ -6702,7 +5646,6 @@ He is the Cause;
 What avails describing Him in Books?
 All those are unto excrescence growth on Sheep's neck;
 -Unless the Guru himself leads you to Him.`,
-    elaborationEnglish: `wre Engi Noone`,
   },
   {
     id: 2939, tantraId: 9, verseNumber: 2938,
@@ -6719,11 +5662,6 @@ They that the Truth know, see worlds all,
 They that the Truth know, have sorrows none,
 When they that the Truth thus saw
 They indeed have seen the Truth Finite.`,
-    elaborationEnglish: `When they that the Truth thus saw
-They indeed have seen the Truth Finite.
-
-anwherm wrwper ort ot
-Apuysot whimsyh seb`,
   },
   {
     id: 2940, tantraId: 9, verseNumber: 2939,
@@ -6743,7 +5681,6 @@ He ended my birth,
 He is of qualities great;
 Himself and His Holy Sakti
 Sleep in sleepless union.`,
-    elaborationEnglish: `atu gw whats apoarprw`,
   },
   {
     id: 2941, tantraId: 9, verseNumber: 2940,
@@ -6761,7 +5698,7 @@ That shines beyond Turiyas Three,
 In the Turiyatita that transcends them,
 Beyond waking, dreaming sushupti states;
 In that state, defying thought and speech.`,
-    elaborationEnglish: `usr wre`,
+    elaborationEnglish: `In the Turiyatia that transcends them, Beyond waking, dreaming sushupti states; In that state, defying thought and speech.`,
   },
   {
     id: 2942, tantraId: 9, verseNumber: 2941,
@@ -6784,7 +5721,6 @@ Contentionless is He,
 Bhoota-army possessed is He,
 Attachmentless is He,
 He entered my thoughts.`,
-    elaborationEnglish: `seu Pp arhamas smug am & 6.55 Naar`,
   },
   {
     id: 2943, tantraId: 9, verseNumber: 2942,
@@ -6804,11 +5740,6 @@ Praise Him as Lord;
 The unending bliss of His devotees many;
 Surpasses universes vast
 -How much they joyed Him, little do we know!`,
-    elaborationEnglish: `universes vast,
-
-—How much they enjoyed Him, little do we know!
-
-Ailsa paw Pavucdes`,
   },
   {
     id: 2944, tantraId: 9, verseNumber: 2943,
@@ -6828,8 +5759,6 @@ Formed is He not,
 Wondrous indeed like felicity of sex-union enjoyed
 Imagination baffling,
 He in me in union stood.`,
-    elaborationEnglish: `sre Aotm ep rancir
-ASSDH Katt Qarcis @ SIC UGE Sid`,
   },
   {
     id: 2945, tantraId: 9, verseNumber: 2944,
@@ -6847,7 +5776,6 @@ To see with inner eye is bliss true;
 How can mother tell the daughter
 Of the felicity in the union with her husband?
 In what terms will she that describe?`,
-    elaborationEnglish: `Oey ugsruge, Getug`,
   },
   {
     id: 2946, tantraId: 9, verseNumber: 2945,
@@ -6865,8 +5793,6 @@ Transcending Param and Paraparam states,
 Beyond word and speech I in union merged;
 "How was It?"-you ask
 "It was It"-I say.`,
-    elaborationEnglish: `Dannts sHuonh Dorsona
-Quesrin ogi wralu orem`,
   },
   {
     id: 2947, tantraId: 9, verseNumber: 2946,
@@ -6883,6 +5809,7 @@ Lovely to look at is the fruit of nux-vomica,
 Only those who eat know its taste (bitter)
 When virgin matures and full woman becomes,
 Only then will husband know her qualtities diverse.`,
+    elaborationEnglish: `Lovely to look at is the fruit of nux-vomica, Only those who eat know its taste (bitter) When virgin matures and full woman becomes, Only then will husband know her qualities diverse.`,
   },
   {
     id: 2948, tantraId: 9, verseNumber: 2947,
@@ -6899,7 +5826,6 @@ Nandi He was, in Street-Center (of Sahasrara),
 Samadhi and other ways of union, of themselves went
 Into the Light, within navel center rises,
 By my Jnana, I merged.`,
-    elaborationEnglish: `Jiva light merges into Siva Light of jnana that rises from below the navel’ centre.`,
   },
   {
     id: 2949, tantraId: 9, verseNumber: 2948,
@@ -6935,10 +5861,7 @@ To the Holy Way they take not;
 To the radiance of the lovely lotus within,
 They penetrate not,
 They seek not to drink of the Divine Ambrosia.`,
-    elaborationEnglish: `They penetrate not,
-They seek not to drink of the Divine Ambrosia.
-
-AHS Gal Ob`,
+    elaborationEnglish: `They penetrate not, They seek not to drink of the Divine Ambrosia.`,
   },
   {
     id: 2951, tantraId: 9, verseNumber: 2950,
@@ -6956,7 +5879,6 @@ Of a sudden gushes their passion;
 When the Lord of fragrant Konrai flower beholds
 Those who determined sit to meet Him,
 He His Grace unhesitating grants.`,
-    elaborationEnglish: `auregbh apg womb HP pg or`,
   },
   {
     id: 2952, tantraId: 9, verseNumber: 2951,
@@ -6974,6 +5896,7 @@ Body perishing and life perishing,
 Heaven perishing and mind perishing,
 My ego perishing
 -This I knew not (is union in God).`,
+    elaborationEnglish: `—This I knew not (is union in God).`,
   },
   {
     id: 2953, tantraId: 9, verseNumber: 2952,
@@ -6991,12 +5914,6 @@ As substance into Substance I merged,
 To the Feet of Lord in Grace abounding,
 Firm as rock immovable
 My thoughts entire went.`,
-    elaborationEnglish: `To the Feet of Lord in Grace abounding,
-
-Firm as rock immovable
-My thoughts entire went.
-
-eapiher 2 oarital non`,
   },
   {
     id: 2954, tantraId: 9, verseNumber: 2953,
@@ -7013,18 +5930,6 @@ Meditating in oneness, I visioned Paraparam,
 Meditating in oneness, I realized Siva-State
 Meditating in oneness, I experienced Awareness Transcendental
 Meditating in oneness, I witnessed aeons upon aeons.`,
-    elaborationEnglish: `‘Meditating in oneness, I witnessed aeons upon.
-.
-
-acons.
-
-19. aegyep wm)
-
-sian app careg aorug
-
-srorcy sane careng Honora gs
-
-sro Oacipacms canes`,
   },
   {
     id: 2955, tantraId: 9, verseNumber: 2954,
@@ -7043,11 +5948,7 @@ When you have, yourself, He become,
 Who are you to think of?
 The Eyes that vanquished the God of Love,
 Whom are they in longing to look for?`,
-    elaborationEnglish: `Who are you to think of?
-
-The Eyes that vanquished the God of Love,
-Whom are they in longing to look for?
-—Tell me, youself, the real Truth?`,
+    elaborationEnglish: `The Eyes that vanquished the God of Love, Whom are they in longing to look for? —Tell me, youself, the real Truth?`,
   },
   {
     id: 2956, tantraId: 9, verseNumber: 2955,
@@ -7069,11 +5970,6 @@ For them whose thoughts stand still,
 Unto the waveless waters,
 Unreserved He appears;
 He of the matted locks.`,
-    elaborationEnglish: `Like the waveless waters,
-Unreserved He appears;
-He of the matted locks.
-
-Goaneririic Haooaw Garcitio`,
   },
   {
     id: 2957, tantraId: 9, verseNumber: 2956,
@@ -7093,8 +5989,6 @@ Nothing there left to worry about;
 Death will not there be;
 Chatter no more;
 To seek the Self is Truth Divine.`,
-    elaborationEnglish: `wiflweae wren woor
-Garnreh Gormae, Doacow`,
   },
   {
     id: 2958, tantraId: 9, verseNumber: 2957,
@@ -7128,7 +6022,6 @@ Ended the birth; sundered the bonds;
 God and I one became;
 No more for me the way of rebirth;
 I have met Siva the Auspicious.`,
-    elaborationEnglish: ``,
   },
   {
     id: 2960, tantraId: 9, verseNumber: 2959,
@@ -7147,18 +6040,6 @@ Our Land possesses;
 By the Grace of lovely Lady,
 That is peacock shaped,
 Nothing we want, nothing, indeed.`,
-    elaborationEnglish: `richness
-
-And water of green glades too,
-Our and possesses;
-
-By the Grace of lovely Mother
-That is peacock. shaped,
-
-Nothing we want, nothing, indeed.
-
-Gort Abas
-Sony. Dhasew UIT” 9) eof`,
   },
   {
     id: 2961, tantraId: 9, verseNumber: 2960,
@@ -7180,7 +6061,7 @@ Long back had I sundered Karma,
 To birth leads;
 Who can stand against Thought,
 Of intense devotion born?ll I with anyone else be.`,
-    elaborationEnglish: `Noorcow .sulcdv.wer amon`,
+    elaborationEnglish: `The Lord came and entered my thoughts, There will I sport and wander in joy; No more will I with anyone else be.`,
   },
   {
     id: 2962, tantraId: 9, verseNumber: 2961,
@@ -7199,7 +6080,6 @@ I learned the way of reaching Siva;
 I smote Karmas with the sharp sword of mind,
 I stood ego lost;
 And now I hasten toward the City of God.`,
-    elaborationEnglish: ``,
   },
   {
     id: 2963, tantraId: 9, verseNumber: 2962,
@@ -7217,7 +6097,6 @@ One is He, the life of worlds all,
 Lovely indeed is Namasivaya Fruit,
 Sweet it is to them
 Who of it tasted.`,
-    elaborationEnglish: `ABS Qoar`,
   },
   {
     id: 2964, tantraId: 9, verseNumber: 2963,
@@ -7236,7 +6115,6 @@ That accepted me in His service,
 The Being Rare,
 Neither beginning nor end has,
 He entered my thoughts and made me doubt-free.`,
-    elaborationEnglish: `Mer uGs Gero Cerpiwer wrulyod`,
   },
   {
     id: 2965, tantraId: 9, verseNumber: 2964,
@@ -7273,8 +6151,7 @@ Unless the Heavenly Father and Heavenly Mother love me,
 How shall the worldly father and worldly mother knoweth me?
 The Father, Mother and I were together seated;
 My Father and Mother, I adoring.`,
-    elaborationEnglish: `
-aomiucr Gor`,
+    elaborationEnglish: `The Father, Mother and I were together seated; My Father and Mother, I adoring.`,
   },
   {
     id: 2967, tantraId: 9, verseNumber: 2966,
@@ -7295,18 +6172,6 @@ The Primal Sakti,
 And the people in directions eight
 -All, all, came within my grasp;
 Redeemed am I, high above all.`,
-    elaborationEnglish: `The mountain peaks high,
-
-The denizens of the universe,
-
-And those who hold their sway there,
-The Primal Sakti,
-
-And the people in directions eight
-—All, all, came within my grasp;
-Redeemed am I, high above all.
-
-grGor wihu word hogs`,
   },
   {
     id: 2968, tantraId: 9, verseNumber: 2967,
@@ -7323,8 +6188,6 @@ Himself as space and Celestials stands,
 Himself as body, life and matter stands,
 Himself as sea, hill and dale stands,
 Himself-all worlds' Lord Supreme.`,
-    elaborationEnglish: `Bocruner exrorcurcr erparcsr
-Aasrauier srayter Sesmesrid`,
   },
   {
     id: 2969, tantraId: 9, verseNumber: 2968,
@@ -7345,7 +6208,6 @@ Long back had I sundered Karma,
 To birth leads;
 Who can stand against Thought,
 Of intense devotion born?`,
-    elaborationEnglish: `Hawn Denpair`,
   },
   {
     id: 2970, tantraId: 9, verseNumber: 2969,
@@ -7365,6 +6227,7 @@ To Mala's bondage they return not;
 Shouts, confusion and fights (of this world),
 They indulge not in;
 Immersed are they in Nada and Para Bindu.`,
+    elaborationEnglish: `Immersed are they in Nada and Para Bindu. Heooriyb Qoargar Opera PHSEGL Nowe Nowomag Coy`,
   },
   {
     id: 2971, tantraId: 9, verseNumber: 2970,
@@ -7385,16 +6248,7 @@ Stand;
 Seeking the Pure One,
 Who uproots Karmas
 They who think of Him, long long live.`,
-    elaborationEnglish: `The Pure One, who uproots Karmas,
-Stand;
-
-Seeking the Pure One,
-
-Who uproots Karmas
-
-They who think of Him, long long live.
-
-aug unGercancr wrest BIS`,
+    elaborationEnglish: `They who think of Him, long long live.`,
   },
   {
     id: 2972, tantraId: 9, verseNumber: 2971,
@@ -7411,8 +6265,6 @@ pavaperu māṉaip paṇintuniṉ ṟēṉē`,
 And as a tapasvin the Holy Lord was before me;
 He the Desired Lord, who accepted me in His service
 Him I stood adoring, the Lord Eternal.`,
-    elaborationEnglish: `
-BoA 5 5) Hot Gop ost G) oof Lo 1 O) prem gy tb Gou os G_ oat ahigiper Gnoaro 2A Dormers`,
   },
   {
     id: 2973, tantraId: 9, verseNumber: 2972,
@@ -7429,7 +6281,6 @@ Him I adored, the Param, the Primal Lord,
 Determined I stood, nothing else I seek;
 In my body I held Him in union, the First One;
 Meek in prayer I stood and I saw my Siva's Being.`,
-    elaborationEnglish: ``,
   },
   {
     id: 2974, tantraId: 9, verseNumber: 2973,
@@ -7449,11 +6300,6 @@ He ended my birth's whirl;
 He the Lord that has Thoughts none;
 My Fate He fragmented,
 My bonds He sundered.`,
-    elaborationEnglish: `Seasons grade ~uugs Os ost gop)
-
-som bans sieateact sreah® srerencres
-
-Seréags Osage Yeas geruw`,
   },
   {
     id: 2975, tantraId: 9, verseNumber: 2974,
@@ -7473,20 +6319,6 @@ He my Nandi;
 My contradictions resolved,
 My life's sorrows, I laid low;
 And Siva, of Himself appeared.`,
-    elaborationEnglish: `Disease, age and life’s reckoning He ended;
-Thus He accepted me in His service,
-
-He my Nandi;
-
-My contradictions resolved,
-
-My life’s sorrows, I laid low;
-
-And. Siva, of Himself appeared.
-
-Hawuspg Coat Giprapret mL
-
-uabas Sipem uréabh ans wires 4391 Ougumrer`,
   },
   {
     id: 2976, tantraId: 9, verseNumber: 2975,
@@ -7505,7 +6337,6 @@ He is my Father,
 He the Primal Lord that in His service accepted me;
 Into Grace my heart entered;
 And there, imprisoned, remained.`,
-    elaborationEnglish: ``,
   },
   {
     id: 2977, tantraId: 9, verseNumber: 2976,
@@ -7525,7 +6356,6 @@ In eagerness my heart sought it
 And I visioned the Void;
 Then did the cane taste bitter
 And honey sour.`,
-    elaborationEnglish: `acer ¢slun® agi uGu SU erored oss`,
   },
   {
     id: 2978, tantraId: 9, verseNumber: 2977,
@@ -7564,17 +6394,6 @@ She the Sakti appeared,
 She the Jewel of worlds all;
 The one, he died, my Egoity
 And the One, He appeared, my Siva.`,
-    elaborationEnglish: `And as with the fat of my heart’s love, I made it blaze,
-
-She the Sakti appeared, -
-
-She the Jewel of worlds all;
-
-The one, he died, my Egoity
-
-And the One, He appeared, my Siva.
-
-BIGD Hash gromoss cucstosrcupm`,
   },
   {
     id: 2980, tantraId: 9, verseNumber: 2979,
@@ -7594,7 +6413,6 @@ Into Siva-State penetrate;
 There indeed is the Precious Truth,
 Himself with Sakti stands,
 -She of bouncing breasts and tender vine form.`,
-    elaborationEnglish: `457`,
   },
   {
     id: 2981, tantraId: 9, verseNumber: 2980,
@@ -7611,7 +6429,6 @@ My heart melting, I moan and rave,
 My bones melting, I adore day and night,
 My gold, my Guru, my Lord, my God,
 Him I eat, bite and chew.`,
-    elaborationEnglish: `aerbal Abs GINSSZ were ult é`,
   },
   {
     id: 2982, tantraId: 9, verseNumber: 2981,
@@ -7629,7 +6446,6 @@ The mind blossomed and converged in yoga breath;
 The mind blossomed and converged for the Jiva;
 When the mind blosso- beyond words to describe,
 Then is Mukti Finale.`,
-    elaborationEnglish: ``,
   },
   {
     id: 2983, tantraId: 9, verseNumber: 2982,
@@ -7648,7 +6464,6 @@ Knowing not whether He went,
 They bewail;
 Wandering in lands and kingdoms far and near,
 I saw Him in this fleeting Body-Land.`,
-    elaborationEnglish: ``,
   },
   {
     id: 2984, tantraId: 9, verseNumber: 2983,
@@ -7666,7 +6481,6 @@ Unto mountain on kingly elephant sat,
 And to sweet music accompanying, in procession went?
 Of yore, they chanted the Primal Lord's name in fervor
 And so attained the status exalted.`,
-    elaborationEnglish: ``,
   },
   {
     id: 2985, tantraId: 9, verseNumber: 2984,
@@ -7685,9 +6499,6 @@ The Lord whom all Celestials adore,
 My Father;
 I see not and rave;
 A mad man, they think, I am.`,
-    elaborationEnglish: `Yess her Gung curaren
-
-por prorg Op Cheb`,
   },
   {
     id: 2986, tantraId: 9, verseNumber: 2985,
@@ -7706,7 +6517,6 @@ He entered in me,
 He the Lord of Jnana's Flower,
 He entered in the hearts of His devotees,
 Him I adore, who entered in me.`,
-    elaborationEnglish: `oany Heocant wetsg ore`,
   },
   {
     id: 2987, tantraId: 9, verseNumber: 2986,
@@ -7726,7 +6536,6 @@ He is in the mind-glass of the righteous that think of Him,
 Him I saw in the glass of songs
 Listening to that Divine Music,
 I enraptured stand.`,
-    elaborationEnglish: ``,
   },
   {
     id: 2988, tantraId: 9, verseNumber: 2987,
@@ -7780,7 +6589,6 @@ Penetrating the Lotus within and going beyond,
 You shall reach the Celestial world,
 Having drunk of the nectar there, you shall return;
 Sweet, sweet exceeding indeed, it is.`,
-    elaborationEnglish: `aD Qowwat Gay ox 9. gy GF`,
   },
   {
     id: 2991, tantraId: 9, verseNumber: 2990,
@@ -7798,7 +6606,6 @@ He the Rare Truth;
 Even if the Celestials and their King Indra ask
 What will they get, but the music of lovely damsels?
 But that which devotees get is beyond all their heaven.`,
-    elaborationEnglish: `bere sonmhu srCure wollsitacr oh) = Q oop aici Q) ou Dest corm ir`,
   },
   {
     id: 2992, tantraId: 9, verseNumber: 2991,
@@ -7838,7 +6645,6 @@ He the Pure One,
 Whom Celestials seek in ways righteous;
 Him, my Lord, I sought;
 And thus ever remained.`,
-    elaborationEnglish: `5 oie ool`,
   },
   {
     id: 2994, tantraId: 9, verseNumber: 2993,
@@ -7858,7 +6664,6 @@ And as I reach the Holy One,
 In the Land where Kundalini Fire burns,
 The Bounteous One,
 His choicest blessings gives.`,
-    elaborationEnglish: `Oude yarpjrar Cag`,
   },
   {
     id: 2995, tantraId: 9, verseNumber: 2994,
@@ -7903,8 +6708,6 @@ He is the Divine Knight;
 He severs my evil stars and Karmas,
 Into His Sword of Jnana, my thoughts centered;
 And no more cares I possess.`,
-    elaborationEnglish: `
-Huey Sissp WIG`,
   },
   {
     id: 2997, tantraId: 9, verseNumber: 2996,
@@ -7925,9 +6728,6 @@ Do attain His Feet,
 They are the confluence of holy waters;
 Thus it is,
 For those who constant adore His Feet.`,
-    elaborationEnglish: `ures epips sro aoe
-
-srs Hoong soflumgwb Gurgacr`,
   },
   {
     id: 2998, tantraId: 9, verseNumber: 2997,
@@ -7946,7 +6746,6 @@ Himself He has home none;
 He is the Holy Preceptor of peerless grandeur;
 I ate of the ripe fruit of His Jnana,
 And I held on to the sweet Light within.`,
-    elaborationEnglish: `UBS uniyerh shonsyb`,
   },
   {
     id: 2999, tantraId: 9, verseNumber: 2998,
@@ -7967,9 +6766,17 @@ In omniscience over-seeing all;
 Of yore He created, all, entire,
 And stood diffusing His golden hue,
 In worlds everywhere..`,
-    elaborationEnglish: `Goog aneraut Sips) wrsair
+    elaborationEnglish: `That indeed is where Celestials have abode, That indeed is where Ganga too-flows, Sacred it is;
 
-sroftt wreytt Bipg wiser`,
+It is the State that severs,
+
+Roots of Karmic desires,
+
+That of yore come;
+
+It is the Goal Ultima
+
+Devoutly to be sought for.`,
   },
   {
     id: 3000, tantraId: 9, verseNumber: 2999,
@@ -7989,7 +6796,6 @@ Thus is He seated;
 And the bilva garland fresh from forest,
 Festoons the fragrant matted locks,
 He does for Jiva what is appropriate.`,
-    elaborationEnglish: `Tiypb Qoeryggib reer`,
   },
   {
     id: 3001, tantraId: 9, verseNumber: 3000,
@@ -8008,7 +6814,6 @@ Birthless is He the Lord,
 He is seated where the Lute, the Spring and Forest are,
 He is the King that reigns
 In Five-Lettered mantra, Eternal.`,
-    elaborationEnglish: ``,
   },
   {
     id: 3002, tantraId: 9, verseNumber: 3001,
@@ -8028,7 +6833,6 @@ Unto Water is He,
 Unto recurring Dissolution and Creation is He,
 He the Lord of Gods in cardinal directions eight,
 He the Primal One.`,
-    elaborationEnglish: `i te ee`,
   },
   {
     id: 3003, tantraId: 9, verseNumber: 3002,
@@ -8085,7 +6889,6 @@ His Form engrosses seven worlds all,
 His Feet descend deep unto nether world;
 The ignorant know these not,
 And delight not.`,
-    elaborationEnglish: `BOG Dorsrpb Qonorcs sos`,
   },
   {
     id: 3006, tantraId: 9, verseNumber: 3005,
@@ -8103,9 +6906,6 @@ He is the Light Resplendent of Spaces Vast,
 He is the Lights Three-Sun, Moon and Fire;
 The Primal Lord is beyond universes all,
 He is below them and between them too.`,
-    elaborationEnglish: `Sew em 6.55 Bonds Aniowwer
-
-BLS SOMSIPH sree s`,
   },
   {
     id: 3007, tantraId: 9, verseNumber: 3006,
@@ -8124,7 +6924,6 @@ As His devotees see the vision of His Holy Feet,
 And walk toward Him,
 He goes seeking them,
 On their way.`,
-    elaborationEnglish: `Aovipip Hanmssorot rear`,
   },
   {
     id: 3008, tantraId: 9, verseNumber: 3007,
@@ -8162,6 +6961,7 @@ And this world too, as Paraparan Supreme;
 This they know not;
 He stood pervading the Jivas too,
 Immanent in them and transcending them.`,
+    elaborationEnglish: `He stood pervading the Jivas too, Immanent in them and transcending them.`,
   },
   {
     id: 3010, tantraId: 9, verseNumber: 3009,
@@ -8180,7 +6980,6 @@ He is the Sense, the Feel, the Sound, and Sound's End;
 He is the Body, too, of Jiva,
 As Prana breath,
 He the Lord is immanent in all.`,
-    elaborationEnglish: ``,
   },
   {
     id: 3011, tantraId: 9, verseNumber: 3010,
@@ -8197,8 +6996,6 @@ If directions cardinal are all of Siva,
 Why speak of someone else, O! you men!
 All smoke from Fire emanates,
 All creation from our Primal Lord arises.`,
-    elaborationEnglish: `Qacinr Dernier Anahusy ween
-Alocsrpret usmue Susy wr`,
   },
   {
     id: 3012, tantraId: 9, verseNumber: 3011,
@@ -8216,7 +7013,7 @@ He filled in oneness, expanding limitless;
 Yet is He not easy of reach;
 Siva Himself into myriad Jivas pervaded
 In this world as well, He our Lord.`,
-    elaborationEnglish: ``,
+    elaborationEnglish: `In this world as well, He our Lord.`,
   },
   {
     id: 3013, tantraId: 9, verseNumber: 3012,
@@ -8260,6 +7057,7 @@ He severed Karmas interminable,
 In His infinite divinity;
 Thus me, the lowly, He redeemed,
 And in endearment exceeding held me to Him.`,
+    elaborationEnglish: `He severed Pasas Of this world Brahma created; He severed belittling desires Vishnu to Jiva gives; He severed Karmas interminable, In His infinite divinity; hus me, the lowly, He redeemed, ; And in endearment exceeding held me to Him. T~41`,
   },
   {
     id: 3015, tantraId: 9, verseNumber: 3014,
@@ -8296,8 +7094,6 @@ Break your stony heart and there He is;
 Ancient is He, Pure is He, Constant is He, Pure Gem is He;
 He is Light beyond speech
 Interminable is he.`,
-    elaborationEnglish: `
-acer Dugan cumtacrgib`,
   },
   {
     id: 3017, tantraId: 9, verseNumber: 3016,
@@ -8317,6 +7113,7 @@ Nandi of fragrant matted locks;
 Those who adore Him constant
 Their sea of birth He severs;
 He, of Bounteous Magnificence.`,
+    elaborationEnglish: `Nandi of fragrant matted locks; Those who adore Him constant Their sea of birth He severs; He, of Bounteous Magnificence.`,
   },
   {
     id: 3018, tantraId: 9, verseNumber: 3017,
@@ -8335,7 +7132,7 @@ They yearn for Him,
 Within their heart and without;
 He transforms them into Beings different,
 He, the Lamp of Divine Light.`,
-    elaborationEnglish: `Mewesgyt Quiles wor`,
+    elaborationEnglish: `He transforms them into Beings different, He, the Lamp of Divine Light.`,
   },
   {
     id: 3019, tantraId: 9, verseNumber: 3018,
@@ -8376,11 +7173,6 @@ He is Dark-blue Throated,
 Him they contemplate over time immeasurable,
 The Siddhas holy and Celestials exalted,
 Yet full well they know Him not.`,
-    elaborationEnglish: `Wis SIGUA GoT LD | GU GU GIT GOT LD FE ST
-
-ADDU Is a oer Lb 9 GU a ci ost Lb Y) Lb
-
-LOD IDUG STA al esr ost Lb 91 GI GU Gi GET LD Lb`,
   },
   {
     id: 3021, tantraId: 9, verseNumber: 3020,
@@ -8396,6 +7188,9 @@ puṟampala kāṇiṉum pōṟṟaki lārē`,
 Many are the hues, so is the Lord,
 Many are the goodly deeds, so is the pleasure;
 Many are the vile deeds, so are the iniquities`,
+    elaborationEnglish: `They see all these,
+
+Yet they adore not the Lord.`,
   },
   {
     id: 3022, tantraId: 9, verseNumber: 3021,
@@ -8414,9 +7209,6 @@ In darkness He is, Light He is;
 In sun He is, in moon He is, everywhere He is;
 Benevolent is Lord,
 Unto the rain that falls.`,
-    elaborationEnglish: `2 oorirou gs) curuy Giro uj Lory Ld
-
-Lowrey gs) curuyrd w Sruy Lb`,
   },
   {
     id: 3023, tantraId: 9, verseNumber: 3022,
@@ -8434,7 +7226,6 @@ Wisdom subtle is to know Our Lord;
 He is embrace, He is union
 In divine awareness,
 He stood as Body Cosmic.`,
-    elaborationEnglish: `Sorac) wi goal ayy 5 ST Gloo wy wi ott`,
   },
   {
     id: 3024, tantraId: 9, verseNumber: 3023,
@@ -8451,6 +7242,9 @@ By His power He held the seven worlds entire;
 By His power He is subtler than the atom;
 By His power He transcends the eight mountains;
 By His power He is the boundless sea.`,
+    elaborationEnglish: `By His Might He surpasses
+
+The eight mountain ranges in directions eight, By His Might, the oceans roar.`,
   },
   {
     id: 3025, tantraId: 9, verseNumber: 3024,
@@ -8468,7 +7262,6 @@ Yet is He within the littleness of this fleshly body;
 Beyond the ken of Celestials is He;
 Yet in prayer and penance
 He Himself shall appear to you.`,
-    elaborationEnglish: `1) Vide Mantra 2012, Tantra Seven, supra.`,
   },
   {
     id: 3026, tantraId: 9, verseNumber: 3025,
@@ -8488,11 +7281,6 @@ They who ate, forever remained to be;
 The fools who did not,
 Remained in body,
 Tossed about from birth to birth.`,
-    elaborationEnglish: `22. star atwir)
-
-THE ALL-PERVASIVE
-
-gu uflw yays G`,
   },
   {
     id: 3027, tantraId: 9, verseNumber: 3026,
@@ -8512,7 +7300,6 @@ The body by Mayaic experience harassed,
 Will yours be, controlled full;
 The Jiva's pervasiveness
 Will everywhere spread.`,
-    elaborationEnglish: ``,
   },
   {
     id: 3028, tantraId: 9, verseNumber: 3027,
@@ -8552,8 +7339,6 @@ Seek Inner Light in life here led,
 The Lord resides within this body,
 May you meet Him ever,
 On the waves of Seas High.`,
-    elaborationEnglish: `Ashége ard AHGS grey w
-Qoerret ALYLC Yat Gudand`,
   },
   {
     id: 3030, tantraId: 9, verseNumber: 3029,
@@ -8574,8 +7359,7 @@ Yet leaving luminosities,
 He follows Jivas in expanses vast
 In compassion great;
 He the One as several proliferates.`,
-    elaborationEnglish: `In compassion great;
-He the One as several proliferates.`,
+    elaborationEnglish: `In compassion great; He the One as several proliferates.`,
   },
   {
     id: 3031, tantraId: 9, verseNumber: 3030,
@@ -8615,7 +7399,6 @@ Into the Three Lights-Sun, Moon and Fire-waxes,
 He is the Divine Spark,
 In the Fore-head Center as our Thought seated,
 The Tapasvins great, too, unto Him stand.`,
-    elaborationEnglish: `Tag wrbalh tao Gaonipuyid`,
   },
   {
     id: 3033, tantraId: 9, verseNumber: 3032,
@@ -8651,15 +7434,6 @@ He protects the seven worlds entire,
 He removes my Karmas,
 He, the Pure One, the Birthless One,
 He has Going, Coming and Mingling none.`,
-    elaborationEnglish: `He protects the seven worlds entire,
-
-He removes my Karmas,
-
-He, the Pure One, the Birtthless One,
-
-He has Going, Coming and Mingling none.
-
-ePssor amy HOH`,
   },
   {
     id: 3035, tantraId: 9, verseNumber: 3034,
@@ -8679,7 +7453,6 @@ Yet immanent in all He is,
 He is omnipresent, birthless, the Holy God,
 Unintermittent He stands,
 In all worlds seven.`,
-    elaborationEnglish: `Qeorg waicincramca cromesmgyib wrEnet`,
   },
   {
     id: 3036, tantraId: 9, verseNumber: 3035,
@@ -8712,6 +7485,11 @@ Holy and Virtuous is my Father;
 He is the Way of Jnana in all goodness;
 The Vedic Seers deep within speak of Him;
 In His fullness He pervades everywhere.`,
+    elaborationEnglish: `The Bounteous One, all Jnana gives;
+
+In the precious wisdom of Vedic sages Diverse He stands,
+
+Comprehending all.`,
   },
   {
     id: 3038, tantraId: 9, verseNumber: 3037,
@@ -8731,7 +7509,6 @@ He is cool unto seven ocean waters
 That this globe girdles;
 He stands in Jivas united,
 As Light in their eye.`,
-    elaborationEnglish: ``,
   },
   {
     id: 3039, tantraId: 9, verseNumber: 3038,
@@ -8768,8 +7545,6 @@ Of Jivas all,
 He is Jivas themselves too,
 He is the Lord,
 Whom all in endearment hold.`,
-    elaborationEnglish: `
-borciler Mumgib onw hae Hu`,
   },
   {
     id: 3041, tantraId: 9, verseNumber: 3040,
@@ -8786,9 +7561,6 @@ He is Spark of Prana-breath within,
 He is the Luminous Sun in firmament high,
 He is the Breath of Wind that blows on land,
 He is the Thought within all.`,
-    elaborationEnglish: `-
-
-_`,
   },
   {
     id: 3042, tantraId: 9, verseNumber: 3041,
@@ -8806,9 +7578,6 @@ The Lord created music and melody;
 In His Glance, in His Thought, from within,
 He effected rapturous union of Jiva and Siva,
 Into one Family united.`,
-    elaborationEnglish: `Qoshap acosyms Youtwbun grow
-
-Gouri sad ci au ost oom`,
   },
   {
     id: 3043, tantraId: 9, verseNumber: 3042,
@@ -8827,14 +7596,6 @@ In Him centering stood;
 Thus, immanent in all, He pervaded all;
 He of the flowing matted locks,
 Bedecked with fragrant Konrai blooms.`,
-    elaborationEnglish: `The worlds above and worlds below,
-In Him centering stood;
-
-Thus, immanent in all, He pervaded all;
-He of the flowing matted locks,
-Bedecked with fragrant Konrai -blooms.
-
-umaler untupip Seer`,
   },
   {
     id: 3044, tantraId: 9, verseNumber: 3043,
@@ -8848,7 +7609,11 @@ alaivilaṉ caṅkaraṉ ātiem āti
 palavila tāy niṟkum pāṉmaival lāṉē`,
     english: `3043: He is One and Many
 The Lord is with creation all`,
-    elaborationEnglish: `ABU curcrarcr aH 1 oresras`,
+    elaborationEnglish: `He is constant, He is Sankara, He is the Primal Being;
+
+Multiple He is, One He is,
+
+He Our Primal Lord.`,
   },
   {
     id: 3045, tantraId: 9, verseNumber: 3044,
@@ -8867,8 +7632,6 @@ Yet none know how He is;
 In the universes eight all,
 He knows all,
 -He the Nandi, Our Lord Primal.`,
-    elaborationEnglish: `
-amps wens srorugsid`,
   },
   {
     id: 3046, tantraId: 9, verseNumber: 3045,
@@ -8887,6 +7650,7 @@ The spark of light within the body,
 He is Paraparam, He is Siva, Our Lord,
 He is the walking Jiva here below,
 Deathless He is.`,
+    elaborationEnglish: `He is Paraparam, He is Siva, Our Lord, He is the walking Jiva here below, Deathless He is.`,
   },
   {
     id: 3047, tantraId: 9, verseNumber: 3046,
@@ -8905,6 +7669,9 @@ The Three Times Hundred Mantras that Mula chanted,
 The Three Times Ten Instructions that Mula gave,
 These Three that Mula said
 Are all, all, of one import.`,
+    elaborationEnglish: `Long may they be, Long may they be, the Feet of Him who severed Malas! Long may they be, Long may they be, the Feet
+
+of Him of Divine Jnana; Long may they be, Long may they be, the Feet of Him who has Mala none.`,
   },
   {
     id: 3048, tantraId: 9, verseNumber: 3047,
@@ -8922,41 +7689,6 @@ Long may they be, Long may they be, the Feet of Him who severed Malas!
 Long may they be, Long may they be, the Feet of Him of Divine Jnana;
 Long may they be, Long may they be, the Feet of Him who has Mala none.
 TANTRA NINE ENDS`,
-    elaborationEnglish: `He knows all,
-—He the Nandi, Our Lord Primal.
-
-GuGb upruges cibienm
-
-He is Deathless
-
-Water, earth, sky, fire and wind,
-
-The spark of light within the body,
-—All these He is;
-
-He is Paraparam, He is Siva, Our Lord,
-He is the walking Jiva here below,
-Deathless He is.
-
-eo aperpiib 3046
-
-Tirumular’s Songs, Mantras and Instructions Have
-But One Import
-
-The Three times Thousand that Mula composed,
-The Three Times Hundred Mantras that Mula chanted,
-
-The Three Times Ten Instructions that Mula gave,
-These Three that Mula said
-
-Are all, all, of one import.
-
-Long may they be, Long may they be, the Feet of Him who severed Malas!
-Long may they be, Long may they be, the Feet
-
-of Him of Divine Jnana;
-Long may they be, Long may they be, the Feet of Him who has Mala none.
-
-Tantra Nine Concluded`,
+    elaborationEnglish: `He knows all, —He the Nandi, Our Lord Primal.`,
   },
 ];
