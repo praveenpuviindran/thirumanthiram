@@ -3,7 +3,7 @@
   "outputDirectory": "dist",
   "installCommand": "npm install",
   "rewrites": [
-    { "source": "/verse/:id", "destination": "/verse/[id]" },
-    { "source": "/tantra/:id", "destination": "/tantra/[id]" }
+    { "source": "/verse/:id", "destination": "/verse/%5Bid%5D" },
+    { "source": "/tantra/:id", "destination": "/tantra/%5Bid%5D" }
   ]
 }
