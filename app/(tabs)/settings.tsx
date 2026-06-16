@@ -131,7 +131,7 @@ export default function SettingsScreen() {
           <View style={[styles.createdByRow, { borderBottomColor: 'transparent' }]}>
             <Text style={[styles.rowLabel, { color: theme.textMuted }]}>Created by</Text>
             <Text style={[styles.createdByName, { color: theme.saffron }]}>
-              Praveen Puviindran, Latha Ravendran, and Vijitha Puviindran
+              Praveen Puviindran, Latha Ravendran & Vijitha Puviindran
             </Text>
           </View>
         </View>
@@ -151,7 +151,7 @@ export default function SettingsScreen() {
             },
             {
               title: 'Wisdom Library — Verses 1843–2648',
-              detail: 'English translation of Tirumantiram (Tantras 7–8, verses 1843–2648) from WisdomLib, based on published scholarly editions.\nwisdomlib.org/hinduism/book/tirumantiram-by-tirumular-english-translation',
+              detail: 'Tamil commentary and explanatory notes for verses 1843–2648 (Tantras 7–9) sourced from WisdomLib\'s edition of Tirumantiram.\nwisdomlib.org/hinduism/book/tirumantiram-by-tirumular-english-translation',
             },
           ].map((src, i, arr) => (
             <View
