@@ -57,7 +57,9 @@ By One Letter, A, He all worlds became;
 By Two Letters (A and U), He the Two became--Siva and Sakti;
 By Three Letters (A, U and M), He the Light became;
 By Letter M was Maya ushered in.`,
-    elaborationEnglish: `The term ‘ajapa’ “‘refers to a special form of effortless meditation. The sounds ‘ham’ and ‘sah’ processed by the movements of the breath themselves constitute the mantra and hence there is no need of muttering anything....’” (p.403 of N.N. Bhattacharyya’s of the Tantric Religion’).`,
+    elaborationEnglish: `From the One Letter mantra, Aum (Pranava), that is nada, all worlds devolved. The two letters, A and U became Siva and Sakti, and the letter, M, became maya. The term ‘ajapa’ refers to a special form of effortless meditation. The sounds ‘ham’ and ‘sah’ processed by the movements.
+
+The term ‘ajapa’ “’refers to a special form of effortless meditation. The sounds ‘ham’ and ‘sah’ processed by the movements of the breath themselves constitute the mantra and hence there is no need of muttering anything....’” (p.403 of N.N. Bhattacharyya’s of the Tantric Religion’).`,
     elaborationTamil: `பிரணவமாகிய ஓம் என்னும் ஓரெழுத்து மந்திரத்தால் அண்ட சராசரங்கள் அனைத்தும் தாமாகி விரிந்து பரவி இருக்கும் இறை சக்தியே அகாரம் உகாரம் ஆகிய இரண்டு எழுத்துக்களால் சிவம் சக்தி எனும் இருவராக இருந்து பிறகு அகாரம், உகாரம், மகாரம் ஆகிய மூன்று எழுத்துக்களால் ஒன்றாகி மாபெரும் ஜோதியாக உருவெடுப்பதை மாயை எனும் பேரெழுத்தில் மறைக்கப்பட்டிருக்கும் உலத்தவர்கள் அறிந்துகொள்ளாமல் இறை சக்தியை பலதில் தேடி மயங்குகின்றார்கள்.`,
   },
   {
@@ -87,9 +89,7 @@ from ‘Chiru’, meaning ‘small’, (become ‘Chitru') and “ambalam’, me
 
 Verse 891 and notes thereon may also be seen.
 
-Mular refers to the Dance of Siva in Chidambaram as
-
-Gu wrG was Ses os ld`,
+Mular refers to the Dance of Siva in Chidambaram as Tandava`,
     elaborationTamil: `தேவாதி தேவர்களுக்கெல்லாம் தலையான தேவனாகிய இறைவன் தங்கியிருக்கும் இடமே சிற்றம்பலம் என்றும், சிதம்பரம் என்றும், திரு அம்பலம் என்றும், தென் நாடு என்றும் போற்றப்படுகின்றது. அந்த தென்நாட்டில் வீற்றிருக்கும் இறை சக்தி உலகத்திலுள்ள அனைவருக்கும் பொதுவானது ஆகும்.`,
   },
   {
@@ -115,11 +115,11 @@ In the Golden Temple is the Samhara (Dissolution) Dance.`,
     id: 889, tantraId: 4, verseNumber: 888,
     tamil: `தாண்டவ மான தனியெழுத்து ஓரெழுத்து
 தாண்டவ மானது அனுக்கிரகத் தொழில்
-தாண்டவக் கூத்துததனிநின்ற தற்பரம்
+தாண்டவக் கூத்துத் தனிநின்ற தற்பரம்
 தாண்டவக் கூத்துத் தமனியந் தானே`,
     transliteration: `tāṇṭava māṉa taṉiyeḻuttu ōreḻuttu
 tāṇṭava māṉatu aṉukkirakat toḻil
-tāṇṭavak kūttutataṉiniṉṟa taṟparam
+tāṇṭavak kūttut taṉiniṉṟa taṟparam
 tāṇṭavak kūttut tamaṉiyan tāṉē`,
     english: `888: One Letter Aum is Divine Dance
 That which became Tandava Dance is One Letter Aum
@@ -183,7 +183,9 @@ They are Voids, beyond reach of thought
 They are Spaces Vast, of Intelligence Supreme,
 Where He His Holy dance performs;
 Letters A and U are Refuge Finale and Joy Eternal.`,
-    elaborationEnglish: `Here, and in following verses, an attempt is made to link the Om mantra with Sivaya in various ways. It is to be noted that, in the third line of this verse, Siva’s dance is said to have been enacted in ‘Spaces vast, of Intelligence Supreme’.`,
+    elaborationEnglish: `The letters A and U also denote the letters "Si" and "Va" - Si for Siva and Va for Sakti. They are supreme letters. They connote the spaces beyond the reach of thought, the vast spaces of supreme jnana. They are the final refuge and are eternal joy. In them, the Lord perform His Holy Dance.
+
+Here, and in following verses, an attempt is made to link the Om mantra with Sivaya in various ways. It is to be noted that, in the third line of this verse, Siva’s dance is said to have been enacted in ‘Spaces vast, of Intelligence Supreme’.`,
     elaborationTamil: `பிரணவ மந்திரமான ஓங்காரத்தில் அகாரம் சிவமாகவும் உகாரம் சக்தியாகவும் இருக்கின்றது. இந்த இரண்டு பரம்பொருள்களைப் பற்றி எவ்வளவு சொன்னாலும் அது சிற்றறிவினால் புரிந்து கொள்ள முடியாத ஒன்றாகும். இவற்றை இறைவன் ஆடும் திருக்கூத்தின் உண்மையான ஞானத்தைப் பெற்ற யோகியர்களால் மட்டுமே அறிந்து உணர முடியும். ஞானத்தை பெற்று அகார உகாரமாக இருக்கும் சிவசக்தியை அறிந்து உணர்ந்து விட்டால் அதுவே அவர்களுக்கு இறைவனிடத்தில் சரணாகதியாகவும் பேரின்பம் கொடுக்கும் பேரானந்தமாகவும் இருக்கும்.`,
   },
   {
@@ -203,6 +205,7 @@ Si-Va-Ya is unalloyed joy;
 Not many know this,
 They who realizes this in Joy
 Will Him behold in Dance-Joyous (Ananda).`,
+    elaborationEnglish: `The three letters, Si, Va, and Ya are perpetual bliss. They are unitive jnana. They are unalloyed joy. The Ananda Dance is performed in them.`,
     elaborationTamil: `ந என்கின்ற சிகார எழுத்தும் ம என்கின்ற வகார எழுத்தும் அறிவெழுத்துக்கள் ஆகும். ந எழுத்து அறிவைச் செலுத்துவதும் ம எழுத்து செலுத்தியவாற்றிலே சென்று அறிவதும் ஆகும். அறிவதாகிய வகாரம் தன்னைச் செலுத்துவதாகிய சிகாரத்திலே அடங்கி விடும். அதோடு யகரமாகிய சிவம் சேர்க்க வரும் சிவாய என்னும் மூன்றெழுத்து ஆன்மாக்களுக்கு ஆனந்தத்தை வழங்குவதை அறிபவர் மிகச் சிலரே. இவற்றை அறிந்து கொள்பவர்களுக்கு சிவன் ஆனந்த கூத்தனாய் இருப்பதும் அவன் ஆனந்தக்கூத்தும் அறிந்து கொள்ளலாம்.`,
   },
   {
@@ -224,7 +227,7 @@ In them merge
 The Tandava Dance of Dissolution;
 In Muladhara Triangle they are,
 Ascending high to Adharas rest.`,
-    elaborationEnglish: `The letters A and U, that are Si and Va, form the Mantra that aii men of vast knowledge chant. These two letters, Si and Wa, are the source of the five letters. Si Va Ya Na Ma. In them merges the Tandava Dance of Dissolution. This ‘Sivaya’” mantra is in the muladhara triangle. From there it ascends to the rest of the adharas. tonmovr`,
+    elaborationEnglish: `The letters A and U, that are Si and Va, form the Mantra that aii men of vast knowledge chant. These two letters, Si and Wa, are the source of the five letters. Si Va Ya Na Ma. In them merges the Tandava Dance of Dissolution. This ‘Sivaya’” mantra is in the muladhara triangle. From there it ascends to the rest of the adharas.`,
     elaborationTamil: `இறைவனை பல வகையான யோகத்தாலும் ஞானத்தாலும் தமக்குள் உணர்ந்து அடைந்த இறைவனை உணர்ந்து கொள்ளும் முறைகளாக யோகியர்களாலும் ஞானியர்களாலும் சொல்லப்படுகிறது. அவை அம் சம் என்கிற இரண்டு பீஜங்களும் ஓங்காரம் (ஓம்) பஞ்சாட்சரம் (நமசிவாய) எனும் இரண்டு ஆதார மந்திரத் தத்துவங்கள் அடங்கி இருக்கும் இறைவனின் சங்காரத் தாண்டவத்தின் அருளல் தொழிலுமாகிய இவை அனைத்தும் உயிர்களின் உடலுக்குள் இருக்கும் ஆறு சக்கரங்களிலும் பரவி இருக்கும் முறைகளும் ஆகும்.`,
   },
   {
@@ -246,19 +249,7 @@ They are the dance Holy;
 They are the Agamic teachings divine,
 They are the Immaculate Purity
 Of the Divine Dance Hall.`,
-    elaborationEnglish: `The Letters Pure are Pati, Pasu, Pasa;
-
-The Letters Pure and Grace that is Bliss;. The Letters Pure are Egoity, Maya and Desire; Letters Pure are site of Divine Dance.
-
-They are the letters pure. They are Pati, pasu and pasa. They are the Agamas. They are the Grace, that is bliss. They are the Grand Divine Dance. j
-
-Lord is All
-
-Himself as His Lord stands;
-
-Himself as His Mountain stands; Himself as Pervasive Himself stands; Himself He stands,
-
-As Lord that is Himself.`,
+    elaborationEnglish: `The letters Si and Va are Sadasiva. They are the imperishable Agamas. They are the Godly goal. They are the mastwood tree on the banks of the Ganga within. They are the Holy Dance. They are the immaculate purity of the Divine Dance Hall.`,
     elaborationTamil: `ஓங்காரத்தின் அகார உகாரங்களே சதாசிவ தத்துவமாகவும், எக்காலத்திலும் மாறாத ஆகமங்களாகவும், வண்டுகள் மகிழ்ந்து தங்கும் புன்னை மரம் போல் அடியவர்கள் மகிழ்ந்து தங்கும் சிவ பரம்பொருளின் சரணாகதி திருவடிகளாகவும் தில்லையில் ஆடும் திருக்கூத்தாகவும் ஆகமங்கள் கூறும் சரியை, கிரியை, யோகம், ஞானம் ஆகிய நான்கு வழிமுறைகளாகவும் உலகங்கள் அனைத்திற்கும் பொதுவான தென்னாட்டு சிற்றம்பலத்தின் மலமாசுக்களை நீக்கும் பொன் மன்றமாகவும் இருக்கின்றன.`,
   },
   {
@@ -266,17 +257,18 @@ As Lord that is Himself.`,
     tamil: `அமலம் பதிபசு பாசங்கள் ஆகமம்
 அமலம் திரோதாயி யாகுமா னந்தமாம்
 அமலம் சொல் ஆணவம் மாயை காமியம்
-அமலம் திருக்கூத்து ஆமிடம் தானே`,
+அமலம் திருக்கூத்து ஆடுமிடம் தானே`,
     transliteration: `amalam patipacu pācaṅkaḷ ākamam
 amalam tirōtāyi yākumā ṉantamām
 amalam col āṇavam māyai kāmiyam
-amalam tirukkūttu āmiṭam tāṉē`,
+amalam tirukkūttu āṭumiṭam tāṉē`,
     english: `895: Letters of Engrossing Purity
 The Letters Pure are the Agamas;
 The Letters Pure are Pati, Pasu Pasa;
 The Letters Pure are Grace that is Bliss;
 The Letters Pure are Egoity, Maya and Desire;
 The Letters Pure are site of Divine Dance.`,
+    elaborationEnglish: `They are the letters pure. They are Pati, Pasu and Pasa. They are the Agamas, They are the Grace, that is bliss. They are the Grand Divine Dance.`,
     elaborationTamil: `பதி பசு பாசம் என்ற சைவ சித்தாந்தத்தை உணர்வது அமலமாகும். ஆகமங்களை உணர்வதின் மூலம் மாயையை நீங்கி கிடைக்கும் பேரானந்தம் அமலமாகும். ஆணவம் மாயை கன்மம் ஆகிய மூன்று மலங்களும் இல்லாதது அமலமாகும். இறைவன் திருக்கூத்தாடுகின்ற இடங்களெல்லாம் மல மாசுக்கள் இல்லாத தூய்மையான அமலமாகும். குறிப்பு: ஆணவம் மாயை கன்மம் ஆகிய மாசுக்கள் இல்லாத தூய்மை அமலம் எனப்படும்.`,
   },
   {
@@ -312,7 +304,6 @@ He is the Lord who stood dancing eternal;
 He is the Lord who the holy one is;
 He is the Lord who unfolds Jnana's honey-laden Flower;
 He is the Lord whose Feet are holy beyond peer.`,
-    elaborationEnglish: `He is the Lord whose Feet are holy beyond peer.`,
     elaborationTamil: `அனைத்திற்கும் தலைவனான இறைவன் அனைத்திற்கும் மேலான திருக்கூத்தின் தலைவனாகவும் அனைத்தையும் தாங்கி நிற்கும் சத்திய பாத்திரத்தின் தலைவனாகவும் பேரறிவான ஞானத்தின் தலைவனாகவும் இணையில்லாத திருவடிகளுக்கு தலைவனாகவும் இருக்கின்றான். குறிப்பு: இறைவன் எதற்கெல்லாம் தலைவனாக இருக்கின்றார் என்பதை இப்பாடலில் அருளுகின்றார்.`,
   },
   {
@@ -330,6 +321,7 @@ The peerless Feet of Lord are Letters A and U;
 The peerless Feet of Lord are Letters Two and Five;
 The peerless Feet of Lord are Letters Fifty and One
 The peerless Feet are mantras seven times thousand.`,
+    elaborationEnglish: `Letters eight: The five letters of Panchakshara and those Bijaksharas.`,
     elaborationTamil: `ஈடுஇணையில்லாத இறைவனின் திருவடிகளின் உருவமே அகாரம் உகாரம் மகாரம் எனும் மூன்று எழுத்துக்கள் சேர்ந்த ஓங்காரமாகவும் நமசிவாய எனும் ஐந்தெழுத்து மந்திரமாகவும் இருக்கின்றது. அந்தத் திருவடிகளே உயிர்களின் உடலுக்குள் பத்துவித காற்றுக்களாகவும் மொத்தம் 51 இதழ்கள் கொண்ட ஆறு ஆதார சக்கரங்களின் 51 யோக நாடிகளாகவும் ஆதார ஏழாயிரத்திலிருந்து அதன் பரிணாமங்களில் மொத்தம் ஏழு கோடி வரையிலும் இருக்கும் மந்திரங்களாகவும் இருக்கின்றன. குறிப்பு: இறைவனுடைய இணையில்லாத திருவடிகள் எதுவாகவெல்லாம் இருக்கின்றது என்பதை இப்பாடலில் அருளுகின்றார்.`,
   },
   {
@@ -348,7 +340,11 @@ And then into the Seven with endings diverse,
 Thus of the Seven Thousand mantras chanted,
 That are beyond thought,
 Have as vital the Seven and Two in the ultimate.`,
-    elaborationEnglish: `Thus of the Seven Thousand mantras chanted, That are beyond thought, Have as vital the Seven and Two in the ultimate.`,
+    elaborationEnglish: `Mantras 899 & 900 - But the two letters are the vital, ultimate or contained all mantras. It is Siva's ma our divine support.
+Excluding the one in sahasrara
+Mantras have seven different endings: i)nama, ii)svata; iii)svaha; iv)vamshat; v)vashat; vi)hum; vii)phat
+Another interpretation is that mantras are seven crores (70 million) in number. They are enumerated in the Sanskrit work, "Sri Rajesvari Kalpa vide Tirumantira Malai," by Thirumular edited by N. Sivaprakasa Desikar. However, here the reference is presumably to the seven endings, rather than seven crores, as the process of involution in indicated,
+A and U plus Panchakshara.`,
     elaborationTamil: `பாடல் #898 ல் உள்ளபடி ஆதார மந்திரங்கள் ஏழாயிரமாக இருந்தாலும் அதன் பரிணாமங்கள் இருபதாயிரமாகவும் முப்பதாயிரமாகவும் பெருகி முடிவில் ஏழு கோடி வரையில் இருக்கின்றது. இந்த மந்திரங்கள் அனைத்தும் இறைவனின் சொரூபமாகவே இருக்கின்றது. ஆதாரமான இந்த ஏழாயிரம் மந்திரங்களே ஏழு கோடி மட்டுமில்லாமல் இன்னும் பல பரிணாமங்களில் எண்ண முடியாத அளவு பெருகிக் கொண்டே இருக்கின்றன. இருந்தாலும் அத்தனை மந்திரங்களும் அகார உகாரமாகிய சிவசக்தியிலேயே அடங்கி இருக்கின்றன.`,
   },
   {
@@ -366,7 +362,7 @@ Seven Thousand mantras there exist;
 But none, of this potent divine;
 This the mantra that is Siva's Holy Form;
 And all mantra is in this contained.`,
-    elaborationEnglish: `This the mantra that is Siva’s Holy Form; And all in this contained.`,
+    elaborationEnglish: `Mantra 901 & 902 - That mantra is the dance of mayaic tattvas the alchemy that transforms the coppery jiva into golden Siva.`,
     elaborationTamil: `அனைத்திற்கும் ஆதாரமாக இருக்கின்ற மந்திரங்கள் ஏழாயிரமாகும். இந்த மந்திரங்களுக்குள் இல்லாத சக்திகளே இல்லை. இந்த மந்திரங்கள் அனைத்தும் இறைவனின் திரு உருவமாக இருக்கின்றது. உள்ளம் உருக சொன்னால் பலனளிக்கக் கூடியதாக இருக்கும் அனைத்து மந்திரங்களும் இறைவனின் திருஉருவமாகவே இருக்கின்றன.`,
   },
   {
@@ -405,13 +401,6 @@ It is the Dance that leads to bliss;
 It is the Dance that is Siva Linga
 It is the alchemy that transforms
 The coppery Jiva into golden Siva.`,
-    elaborationEnglish: `Sivaya Nama Purifies and Transforms Jiva
-
-Chant ‘‘Sivaya Nama’’, Copper turns into gold; The Chit Para there exists, Turns copper into gold Chant ‘“‘Srim’’ and Copper turns into gold; The Holy Temple atchemises Copper ‘into gold.
-
-The Chitpara (Supreme Intelligence) exists there in the'Sivaya- nama’ mantra. It is the fullness of A and U, of Srim and Krim —.the seed mantras for Siva and Sakti.
-
-Srim and Krim are bija mantras for Siva and Sakti — same as A and U, and Si and Va.`,
     elaborationTamil: `இறைவன் தாம் ஒருவனாகவே ஆடுகின்ற திருநடனங்கள் இரண்டு வகையாகும். அதில் முதலாவது அனைத்தையும் உருவாக்குகின்ற அழகிய ஆனந்த நடனம். இரண்டாவது அனைத்தையும் அழிக்கின்ற ருத்ர தாண்டவ கூத்தாகும். இந்த நடனம் கூத்து இரண்டையும் மகிழ்ச்சியோ துன்பமோ இல்லாமல் சமமாகப் பார்க்க வைக்கும் பிரணவ மந்திரத்தை உணர்ந்து இந்த இரண்டு திருநடனங்களின் உருவமாக இருக்கும் சிவலிங்கத் தத்துவமே தமக்குள்ளும் இருக்கிறது என்பதை உணர்ந்த சாதகர்களுக்கு செம்பு போன்ற கடினமான உடல் பொன் போல் ஜொலிக்கின்ற ஒளி உடம்பு ஆகிவிடும்.`,
   },
   {
@@ -433,6 +422,8 @@ Chant "Srim" and "Krim;"
 Copper turns into gold;
 The Holy Temple alchemises
 Copper into gold.`,
+    elaborationEnglish: `The Chitpara (Supreme Intelligence) exists there in the 'Sivaya-nama' mantra. It is the fullness of A and U, of Srim and Krim - the seed mantras for Svia and Sakti.
+Srim and Krim are bija mantras for Siva and Sakti - same as A and U and Si and Va.`,
     elaborationTamil: `சிவாயநம என்னும் மந்திரத்தை மூச்சுக்காற்றோடு சேர்ந்து இயக்கினால் பாடல் #902 ல் உள்ளபடி செம்பு போன்ற கடினமான உடல் பொன் போல் ஜொலிக்கின்ற ஒளி உடம்பு ஆகிவிடும். அதன் பின்பு இறைவன் ஆடுகின்ற சித்தர்களின் அம்பலத்தில் சாதகர்களின் எண்ணங்கள் சென்று சேரும். அதன்பிறகு அகார உகாரத்தின் எழுத்து வடிவங்களான ஸ்ரீம் கிரீம் என்னும் மந்திரங்கள் சாதகர்களின் எண்ணத்தில் உருவாகும். அதன் பிறகு சாதகர்களின் பொன்னாக மாறிய ஒளி உடம்பு இறைவன் திருக்கூத்து ஆடுகின்ற திருஅம்பலமாகும். குறிப்பு: பொன்னாக மாறிய ஒளி உடம்பில் இறைவன் திருக்கூத்து ஆடுகின்றார் என்பதை அறிந்து கொள்ளலாம்.`,
   },
   {
@@ -451,6 +442,11 @@ Draw six lines each, vertical and horizontal,
 Thus form squares twenty and five,
 And in each inscribing Letters Five
 Meditate continuous.`,
+    elaborationEnglish: `Mantras 904 & 905 -
+Tiru Ambala Chakra (i)
+Tiru Ambala Chakra (ii)
+{Vide Mantra 923, Tantra Four, ibid.}
+The verses give a tantric interpretation to the mantras and the dance.`,
     elaborationTamil: `இறைவன் திருக்கூத்தாடுகின்ற திருவம்பலத்தை ஸ்ரீ சக்கரமாக வடிவமைக்க மேலிருந்து கீழாக ஆறு கோடுகளும் இடமிருந்து வலமாக ஆறு கோடுகளும் வரைந்தால் அதில் இருபத்தைந்து கட்டங்கள் வரும். இந்த கட்டங்களுக்குள் சிவயநம எனும் மந்திர எழுத்துக்களை மாற்றி எழுதி அதை உச்சரிக்காமல் ஜெபிக்க சாதகரின் உடம்பு இறைவன் திருக்கூத்து ஆடுகின்ற திருஅம்பலமாகும்.`,
   },
   {
@@ -471,7 +467,6 @@ No more birth will be;
 With Lord's Grace,
 You shall behold the Eternal Dance;
 And copper (that is Jiva) turns into gold (that is Siva).`,
-    elaborationEnglish: `You shall behold the Eternal Dance; And copper (that is Jiva) turns into gold (that is Sivd).`,
     elaborationTamil: `பாடல் 904ல் உள்ளபடி சிவயநம என்ற மந்திரத்தை இடைவிடாது பல காலம் உச்சரிக்காமல் மூச்சுக்காற்றோடு சேர்த்து ஜெபித்தால் பிறப்பில்லாத நிலையை அடையலாம். இறைவன் அருளால் திருவம்பலக் கூத்தின் தரிசனம் காணலாம். சாதகரின் செம்பு போன்ற கடினமான உடல் பொன் போல் ஜொலிக்கின்ற ஒளி உடம்பு ஆகிவிடும்.`,
   },
   {
@@ -535,7 +530,6 @@ If you chant the mantra,
 The fiery snake of Pasa will leave you;
 That mantra is the secret of the Holy Dance,
 Chant it unceasing.`,
-    elaborationEnglish: `The fiery snake of Pasa will leave you,’ That mantra is the secret of the Holy Dance, Chant it unceasingly.`,
     elaborationTamil: `பாடல் #907 இல் உள்ளபடி சாதகருக்கு கிடைத்த சிந்தனைகளை செயல்படுத்தினால் உடலை விட்டு ஆத்மா வெளியே சென்று பேரின்பத்தை அனுபவிக்கும். சாதகரின் உடலை விட்டு ஆன்மா வெளியே சென்றாலும் ஆன்மாவிற்கும் நல்ல உடலுக்குமான இணைப்பு விட்டு பிரியாமல் தானாகவே இணைந்து இருக்கும். இதனால் பாசமாகிய பற்று அறுந்து குண்டலினி சக்தி உடலைவிட்டு வெளியே சென்று பாடல் #858 இல் உள்ளபடி தலைக்கு மேல் இருக்கும் சந்திரமண்டலத்தோடு இணைந்துவிடும். இதனால் கிடைக்கும் ஞானம் இறைவன் ஆடுகின்ற திருக்கூத்துகளின் சூட்சுமங்களாகும். குறிப்பு: நல்ல உடல் என்பது பாடல் #902 இல் உள்ளபடி சாதகருக்கு கிடைக்கும் பொன் போன்ற ஒளி உடம்பாகும்.`,
   },
   {
@@ -554,7 +548,7 @@ Chant it eight thousand times;
 You shall see the (Sushumna) Path Subtle,
 You may enjoy the bliss of Siva
 That is subtlest of all.`,
-    elaborationEnglish: `times. You will vision the subtle path of sushumna. You can destroy karma that is very subtle. You can enjoy the bliss of Siva that is the subtlest of all.`,
+    elaborationEnglish: `'Sivaya nama' is the sukshma mantra. Chant it eight thousand times. You will vision the subtle path of sushumna. You can destroy karma that is very subtle. You can enjoy the bliss of Siva that is the subtlest of all.`,
     elaborationTamil: `பாடல் #908 இல் உள்ளபடி திருக்கூத்தின் சூட்சுமமாக இருக்கும் சிவயநம மந்திரத்தை அறிந்து எட்டாயிரத்திற்கும் மேலான எண்ணிக்கையில் உச்சரிக்காமல் மூச்சுக்காற்றோடு சேர்த்து ஜெபிக்கும் சாதகர்கள் இறைவனை அடையும் சூட்சுமமான பாதையை காண்பார்கள். அந்த பாதையில் செல்லும் சாதகர்கள் தங்களின் பல ஜென்மங்களாக தொடரும் சூட்சுமமான வினைகளை அழித்துவிடலாம். வினைகள் அழிந்த பின் இறைவனை உணர்ந்து பேரின்பத்தில் திளைத்திருக்கலாம்.`,
   },
   {
@@ -579,6 +573,11 @@ They become the Five Letter mantra
 And joy that is within joy;
 Bliss lies in the seed-letters Five;
 Hum-Hrim-Ham-Ksam-Am, are they.`,
+    elaborationEnglish: `One the supreme bliss. One the supreme bliss. "-thus chant the mantra. You shall have bliss. Bliss has its source in the Five Letters, A, I, U, I and Aum - they are the five life-vowels. The five life-vowels became the Five-Lettered mantra. They correspond to the Five seed-letters; Ham, Hrim, Hum, Sum, and Aum.
+True Ambala Chakra (iii)
+Letters i, u, a, e and Aum are the Dance letters.
+
+This verse give three alternative interpretations to the "panchakshara" (the 5-letter mantra). It could be either A, I, U, E and M or "Sivaya Nama" or the tantric "Ham, Hrim, Hum, Ksham and Am."`,
     elaborationTamil: `பாடல் எண் 909 இல் உள்ளபடி கிடைத்த பேரின்பம் என்று அழைக்கப்படுகின்ற அனைத்தும் அடங்கியிருக்கும் இடமே பேரின்பமாகும். இந்த பேரின்பம் ஆ, ஈ, ஊ, ஏ, ஓம் ஆகிய ஐந்து ஆதார மந்திரங்களில் அடங்கியிருக்கின்றது. இந்த ஐந்து மந்திரங்களும் பேரின்பத்தின் வடிவமாக இருக்கின்றது. இந்த ஐந்து மந்திரங்களின் ஒலி வடிவமாக அம், ஹ்ரீம், ஹம், க்ஷம், ஹாம் ஆகிய ஐந்து பீஜங்கள் இருக்கிறன.`,
   },
   {
@@ -602,6 +601,7 @@ U-A-I-E-O
 The Two Letters that are Lord's Corpus
 Become the Five Letters that is Siva Dance
 I-O-U-A-E.`,
+    elaborationEnglish: `The two letters, A and U, are the body of the Lord. Chant it inarticulately. As the two suffuse your body, you stand transformed. The two letters, A and U, became the five letters, U, A, I, E, and O - that are jiva. The two letters became the five letters, I, O, U, E and A - that are the Siva Dance.`,
     elaborationTamil: `இறைவனது சொரூபமும் உயிர்களுடைய ஆன்மாவின் சொரூபமும் ஒன்றை விட்டு ஒன்று விலகிவிடாமல் மூச்சுக்காற்றோடு சேர்த்து ஜெபிக்கும் போது இறைவனது சொரூபமும் சாதகருடைய ஆன்மாவின் சொரூபமும் ஒன்றுக்கு ஒன்று அளவில் மாறுபடாமலும் ஒன்றோடு ஒன்று வேறுபடாமலும் இருக்கும். இறைவனது சொரூபமானது ஊ ஆ ஈ ஏ ஓ ஆகிய ஐந்து ஆதார மந்திரங்களாகவும் உயிர்களுடைய ஆன்மாவின் சொரூபமானது ஈ ஓ ஊ ஆ ஏ ஆகிய ஐந்து ஆதார மந்திரங்களாகவும் இருக்கின்றது. சாதகர்கள் இந்த மந்திரங்களை உச்சரிக்காமல் ஜெபிக்கும் போது இரண்டு சொரூபமும் ஒன்றாக கலப்பதே திருக்கூத்து ஆகும். குறிப்பு: இறைவனது சொரூபம் அனைத்திலும் கலந்திருக்கும் பேரொளியாகும். ஆன்ம சொரூபம் என்பது ஒவ்வொரு உயிர்களுடைய சிறிய ஒளி உருவமாகும். இறைவனது பேரொளியும் ஆன்மாவின் சிறிய ஒளியும் ஒன்றாக பாவித்து சாதகம் செய்யும் போது இறையருளால் ஆன்ம ஒளியானது பேரொளியால் காந்தம் போல் கவர்ந்திழுக்கப்பட்டு ஒன்றாக கலப்பதே திருக்கூத்தாகும்.`,
   },
   {
@@ -644,6 +644,7 @@ He danced on one Foot;
 He danced in Saktis Nine;
 He danced in arena that is Space;
 He danced the Dance of Ruby.`,
+    elaborationEnglish: `The Lord danced as One, alone. He danced as two with Sakti. He danced with several - all creation. He danced with three - the sun, moon and fire. He danced with jiva and with all the worlds. He danced with one Foot, and He danced with the nine Saktis. He danced in the adharas that are space. He danced the Dance of the Ruby.`,
     elaborationTamil: `அசையா சக்தியாக இருக்கின்ற இறைவன் அசையும் சக்தியோடு சிவசக்தியாக ஆடுகின்ற போது அவரோடு சேர்ந்து அண்டசராசரங்கள் அனைத்தும் ஆடுகின்றன. அசபை மூலம் சாதகம் செய்யும் சாதகர்களின் ஆன்மாவும் சிவசக்தியோடு சேர்ந்து ஆட அவர்களின் உடலிலுள்ள ஏழு சக்கரங்களும் அந்த சக்திகளோடு சேர்ந்து ஒன்றாக இணைந்து ஆடுகின்றது. நான்கு திசைகளும் ஒன்பது கோள்களும் சேர்ந்து இறைவன் அண்டசராசரத்தில் ஆடுகின்ற திருக்கூத்தே சாதகரின் உடலாகிய பிண்டத்தில் இறையருள் நிறைந்து மாணிக்க ஜோதியாக திருக்கூத்தாடும்.`,
   },
   {
@@ -689,7 +690,9 @@ Tirumular winds up his exposition of the Tiruambala Chakra by describing six oth
 
 5) Vasiya Chakra — confers the powers of seduction.
 
-6) Akarshana Chakra — confers the power of placing men and things under the will and desire of the sadhakas.`,
+6) Akarshana Chakra — confers the power of placing men and things under the will and desire of the sadhakas.
+
+These six Chakras, although designed for worldly ends, are yet based on the mantra, Aum, with its incantation and ritual variations.`,
     elaborationTamil: `இறைவன் திருக்கூத்தாடுகின்ற திருவம்பல சக்கரத்தை வடிவமைக்க மேலிருந்து கீழாக பன்னிரண்டு கோடுகளும் இடமிருந்து வலமாக பன்னிரண்டு கோடுகளும் வரைந்தால் மொத்தம் 121 கட்டங்கள் வரும். இந்த கட்டங்களுக்குள் சிவயநம எனும் மந்திர எழுத்துக்களை மாற்றி மாற்றி எழுதி அமைத்தால் அந்த சக்கரத்தோடு இறைவன் அமர்ந்திருப்பான்.`,
   },
   {
@@ -767,7 +770,6 @@ Who, on the blooming lotus sits;
 They who chant the letter aspirated "O"
 Conjoint with the letter unaspirated "m"
 May well preserve their life ever.`,
-    elaborationEnglish: `They who chant the letter aspirated ‘‘O”’ Conjoint with the lettér unaspirated “‘m”’ May well preserve their life ever.`,
     elaborationTamil: `உயிர்கள் தமக்குள் இருக்கும் சகஸ்ரதள ஆயிரம் இதழ் கொண்ட தாமரை மலரில் இறைவன் சிவசக்தியாய் ஒன்றிணைந்து வீற்றிருக்கும் விதத்தை அறிவதில்லை. திருவம்பல சக்கரத்தில் பாடல் #915 இல் உள்ளபடி மறைந்திருக்கும் ஒங்கார எழுத்தையும் மறையாமல் வீற்றிருக்கும் சிவயநம எழுத்துக்களையும் ஒன்றாக சேர்த்து தூய்மையான எண்ணத்தோடு ஜெபிக்க முடிந்தவர்களின் சகஸ்ரதள தாமரை மலர் மலர்ந்து என்றும் இறவாத நிலையை அடைவார்கள்.`,
   },
   {
@@ -863,10 +865,9 @@ Fill Ma Si Va Ya Na
 In the row third write Na Ma Si Va Ya
 Still below comes Letters in order Ya Na Ma Si Va
 In the squares last are Letters Va Ya Na Ma Si
-Thus do you fill squares in Chakra`,
-    elaborationEnglish: `With ‘Si’ to begin and ‘Si’ to end.
-
-Tiru Ambala Chakra (ix) See Mantra 905 supra — the difference is that here there are only two horizontal lines.`,
+Thus do you fill squares in Chakra
+With ‘Si’ to begin and ‘Si’ to end.`,
+    elaborationEnglish: `Tiru Ambala Chakra (ix) See Mantra 905 supra — the difference is that here there are only two horizontal lines.`,
     elaborationTamil: `சிவாயநம என்னும் ஐந்தெழுத்து மந்திரத்தை ஆராய்ந்து தியானிக்க சிவாயநம, மசிவாயந, நமசிவாய, யநமசிவா, வாயநமசி, என்று ஐந்து வகையாக சி எழுத்தில் ஆரம்பித்து ந எழுத்தில் முடியும் வகையில் அமையும். (நுண்மையாய் சிவாயநம என்னும் மந்திரத்தினை நான்கு முறை எழுத்துக்களை மாற்றியமைத்து ஒவ்வோர் எழுத்தும் முதலெழுத்தாக வரும்படி எழுதினால் திருவம்பலச்சக்கரத்தில் உள்ள இருபத்தைந்து கட்டத்திலும் சிவாயநம ஐந்தெழுத்து அமைந்திருக்கும் உண்மை தெரியும்.)`,
   },
   {
@@ -1011,7 +1012,6 @@ Thus when you chant the mantra, full formed
 As Sum Sauh Si Va Ya Na Ma,
 The triple Pasas in distress howling
 Takes to their heels, away, away.`,
-    elaborationEnglish: `Take to their heels, away, away. yororen Qoauu sues Quarelerc ore ores 5755/Gor coro Qaut Qorismy AGU`,
     elaborationTamil: `திருவம்பலச் சக்கரத்தில் உள்ள ஐம்பத்தொரு எழுத்துக்களில் நாற்பத்து எட்டாவதாக உள்ள ‘ஸ’ எழுத்துடன் ஆறாவதாக உள்ள ‘ஊ’ எழுத்தை சேர்த்து ‘ஸூம்’ என்ற பீஜ மந்திரமாகவும், ‘ஸ’ எழுத்துடன் பதினான்காவதாக உள்ள ‘ஒள’ எழுத்தையும் சேர்த்து ‘ஸெள’ என்ற பீஜ மந்திரமாகவும் சேர்த்துக் கொண்டு அதற்கு முன்பு ஒளியும் ஒலியுமாகிய ஓங்கார மந்திரத்தையும் அதற்கு பின்பு ‘சிவாயநம’ மந்திரத்தையும் சேர்த்து ‘ஓம் ஸூம் ஸெள சிவாயநம’ என்று உச்சரித்தால் ஆணவம், கன்மம், மாயை ஆகிய மூன்று மலங்களும் தனித்தனியாகப் பிரிந்து சென்றுவிடும்.`,
   },
   {
@@ -1107,9 +1107,7 @@ Many are the ways;
 Chant first Letter of Dance (Si),
 Thou with Dancer will one in thought be;
 That the way to see the Dancer truly.`,
-    elaborationEnglish: `Even the chanting of the first letter of Sivayanama is enough
-
-to enable the devotee to envision the Dancer.`,
+    elaborationEnglish: `Even the chanting of the first letter of Sivayanama is enough to enable the devotee to envision the Dancer.`,
     elaborationTamil: `திருவம்பலச் சக்கரத்தில் திருநடனமாடும் இறைவனைக் கண்டு அடைய வழிகள் பல இருக்கிறது என்று பேசினாலும் இறைவனின் வடிவமாக இருக்கும் நமசிவாய மந்திரத்தின் முதலெழுத்தான ‘ந’ அல்லது அதன் அட்சரமான ‘அ’ என்ற எழுத்தை செபித்தால் இறைவனாகிய அந்த எழுத்தோடு ஒன்றாக சேர்ந்து நிற்பார்கள். இதுவே திருவம்பலச் சக்கரத்தில் திருநடனமாடும் இறைவனைக் கண்டு அடையும் வழியாகும். குறிப்பு: ‘ந’ அல்லது ‘அ’ என்ற முதலெழுத்தை ஒலியலை சிறிதும் மாறாமல் தொடர்ந்து உச்சரித்து செபிக்க வேண்டும்.`,
   },
   {
@@ -1117,11 +1115,11 @@ to enable the devotee to envision the Dancer.`,
     tamil: `அத்திசைக் குள்நின்ற அனலை எழுப்பிய
 அத்திசைக் குள்நின்ற நவ்எழுத்து ஓதினால்
 அத்திசைக் குள்நின்ற அந்த மறையனை
-அத்திசைக் குள்ளுற வாக்கினன் தானே. 23.`,
+அத்திசைக் குள்ளுற வாக்கினன் தானே`,
     transliteration: `atticaik kuḷniṉṟa aṉalai eḻuppiya
 atticaik kuḷniṉṟa naveḻuttu ōtiṉāl
 atticaik kuḷniṉṟa anta maṟaiyaṉai
-atticaik kuḷḷuṟa vākkiṉaṉ tāṉē. 23.`,
+atticaik kuḷḷuṟa vākkiṉaṉ tāṉē`,
     english: `936: Chant Om and Rouse Kundalini
 Kindle the Fire (Kundalini) where it dormant lies
 Chant letter "OM" that in Kundalini is,
@@ -1256,12 +1254,7 @@ Do you chant it appropriate,
 All hostility that harasses you shall flee;
 It is the Mantra that makes you mighty and strong;
 That Mantra do you invoke chanting OM.`,
-    elaborationEnglish: `And the Lord revealed His letter ‘‘Si’’ Power of Five-Letter Mantra
-
-Sparkling as rays within gem pure, That Mantra spread everywhere It beamed‘ aloft for all to see That Mantra its boon grants to lives all, Unto a light set on mountain top. Do you chant it appropriate,
-
-The Lord is Uncreated prOwer Onapeid Buses Himself He stands as the Soft Light Uncreated, Oepriducy curps) cumitecir`,
-    elaborationTamil: `‘ஓம்’ எனும் பிரணவ மந்திரம் அனைத்து உயிர்களுக்குள்ளும் இயங்கிக் கொண்டே இருக்கின்றது. எதையும் கொடுக்கும் வல்லமை பொருந்திய இந்த மந்திரத்தை முறைப்படி குரு உபதேசித்து பெற்று தம்மை பகைவர்கள் போல் சூழ்ந்திருக்கும் வினையால் உருவாகும் இன்ப துன்பங்கள் அனைத்தும் போகும்படி அந்த பிரணவ மந்திரத்தை உச்சரித்துக் கொண்டே இருக்க வேண்டும். கருத்து: உயிர்களுக்குள் மூச்சுக்காற்றாக ஓடிக்கொண்டிருக்கும் ஓம் என்னும் பிரணவ மந்திரத்துடன் குருநாதரின் உபதேசம் பெற்ற மந்திரத்தையும் சேர்த்து செபித்து கொண்டே இருந்தால் வினைகளால் உருவாகும் இன்ப துன்பங்கள் அனைத்தும் சென்றுவிடும்.`,
+    elaborationTamil: `’ஓம்’ எனும் பிரணவ மந்திரம் அனைத்து உயிர்களுக்குள்ளும் இயங்கிக் கொண்டே இருக்கின்றது. எதையும் கொடுக்கும் வல்லமை பொருந்திய இந்த மந்திரத்தை முறைப்படி குரு உபதேசித்து பெற்று தம்மை பகைவர்கள் போல் சூழ்ந்திருக்கும் வினையால் உருவாகும் இன்ப துன்பங்கள் அனைத்தும் போகும்படி அந்த பிரணவ மந்திரத்தை உச்சரித்துக் கொண்டே இருக்க வேண்டும். கருத்து: உயிர்களுக்குள் மூச்சுக்காற்றாக ஓடிக்கொண்டிருக்கும் ஓம் என்னும் பிரணவ மந்திரத்துடன் குருநாதரின் உபதேசம் பெற்ற மந்திரத்தையும் சேர்த்து செபித்து கொண்டே இருந்தால் வினைகளால் உருவாகும் இன்ப துன்பங்கள் அனைத்தும் சென்றுவிடும்.`,
   },
   {
     id: 945, tantraId: 4, verseNumber: 944,
@@ -1288,25 +1281,18 @@ For ever steeped in ecstasy.`,
   {
     id: 946, tantraId: 4, verseNumber: 945,
     tamil: `ஆகின்ற சக்கரத் துள்ளே எழுத்துஐந்தும்
-பாகொன்றி நின்ற பதங்களில் வார்த்திக்கும்
+பாகொன்றி நின்ற பதங்களில் வர்த்திக்கும்
 ஆகின்ற ஐம்பத்து ஓரெழுத்து உள்நிற்கப்
-யாகொன்றி நிற்கும் பராபரன் தானே. 32.`,
+யாகொன்றி நிற்கும் பராபரன் தானே`,
     transliteration: `ākiṉṟa cakkarat tuḷḷē eḻuttuaintum
-pākoṉṟi niṉṟa pataṅkaḷil vārttikkum
+pākoṉṟi niṉṟa pataṅkaḷil varttikkum
 ākiṉṟa aimpattu ōreḻuttu uḷniṟkap
-yākoṉṟi niṟkum parāparaṉ tāṉē. 32.`,
+yākoṉṟi niṟkum parāparaṉ tāṉē`,
     english: `945: Fifty-One Letters are Five-Letters Also
 In Chakra that is designed
 Are Letters Five in places appropriate;
 There stands He the Para Para
 Who the Fifty One Letters fills.`,
-    elaborationEnglish: `Five-Letter Form of Siva Sh i Are Letters Five in places appropriate;
-
-His Feet are Letter ‘‘Na’’ There stands He the (the transcendent His navel is Letter ‘‘Ma’’ Reality) His shouldérs are Letter ‘‘Si’’ Who the Fifty One Letters fills.
-
-His mouth is Letter ‘‘Va’’ His cranial centre aloft is Letter ‘‘Ya’’
-
-—Thus Five-Letter Form of Siva is. upor AGOSUDS sist EO aust`,
     elaborationTamil: `திருவம்பலச் சக்கரத்திற்குள் இருக்கும் ‘நமசிவாய’ எனும் ஐந்து மந்திர எழுத்துக்கள் இனிப்போடு கலந்திருக்கும் சுவை போல நமசிவாய, மசிவாயந, சிவாயநம, வாயநமசி, யநமசிவா எனும் ஒவ்வொரு மந்திரத்திற்கும் முதலாவது எழுத்தாகவும் அந்த மந்திரத்தின் மற்ற எழுத்துக்களோடும் கலந்து இருக்கின்றது. இந்த மந்திரங்கள் சேர்த்து ஐம்பத்தோரு எழுத்துக்கள் அமைத்து வரையப்படும் திருவம்பலச் சக்கரத்தில் இனிப்போடு கலந்திருக்கும் சுவை போல இறைவனும் கலந்து நிற்பான்.`,
   },
   {
@@ -1387,7 +1373,6 @@ Within this Chakra is much good that comes
 Within this Chakra are Names Five
 This Chakra is Letter-Five of Dancer Divine
 This Chakra is where Dance Divine incessant goes on.`,
-    elaborationEnglish: `This Chakra is Letter-Five of Dancer Divine This Chakra is where Dance Divine incessant goes on.`,
     elaborationTamil: `பாடல் #946 இல் உள்ள முறைப்படி வரையப்பட்ட சக்கரத்திற்குள் பாடல் #929 இல் உள்ளபடி பஞ்சபூதங்களின் குறிகளும் அதன் குணங்களும் இருக்கின்றது. இந்த சக்கரத்திலுள்ள ‘சிவயநம’ எனும் ஐந்தெழுத்து மந்திரமாக இருக்கும் இறைவன் இச்சக்கரத்துள்ளே ஆனந்த நடனம் புரிகின்றான். குறிப்பு: பஞ்ச பூதங்களின் குறிகளும் அதன் குணங்களும்: நிலம் = சதுரம் – வாசனை (முகர்வது) நீர் = பிறைவட்டம் – சுவை (கிரகித்தல்) நெருப்பு = முக்கோணம் – ஒளி (வெளிச்சம்) வாயு = அறுகோணம் – ஸ்பரிசம் (தொடுதல்) ஆகாயம் = வட்டம் – ஒலி (சத்தம்)`,
   },
   {
@@ -1482,11 +1467,11 @@ How shall I speak of my Father's greatness!`,
     tamil: `நீரில் எழுத்துஇவ் வுலகர் அறிவது
 வானில் எழுத்தொன்று கண்டறிவார் இல்லை
 யாரிவ் வெழுத்தை அறிவார் அவர்கள்
-ஊனில் எழுத்தை உணர்கிலர் தாமே. 41.`,
+ஊனில் எழுத்தை உணர்கிலர் தாமே`,
     transliteration: `nīril eḻuttuiv vulakar aṟivatu
 vāṉil eḻuttoṉṟu kaṇṭaṟivār illai
 yāriv veḻuttai aṟivār avarkaḷ
-ūṉil eḻuttai uṇarkilar tāmē. 41.`,
+ūṉil eḻuttai uṇarkilar tāmē`,
     english: `954: Heavenly Letter Ends Birth
 The knowledge of Jiva here below
 Is unto letters written on water;
@@ -1530,7 +1515,6 @@ Below the navel is a goodly Letter,
 The unholy its greatness know not;
 Even the Creator (Brahma) knows it not,
 There it is Siva with Sakti, in splendour fullsome all.`,
-    elaborationEnglish: `Even the Creator (Brahma) knows it not, There it is Siva with Sakti, in total splendour.`,
     elaborationTamil: `தொப்புளுக்கு கீழே இருக்கும் மூலாதாரத்தில் ஓம் என்னும் நன்மை தரும் பிரணவ எழுத்து ஒன்று உள்ளது. தீவினையாளர்கள் அந்த பிரணவ எழுத்தின் பயன்களை அறியாமல் இருக்கின்றார்கள். ஓம் பிரணவ எழுத்தின் பொருளை பிரம்மன் முதலான தேவர்களும் கூட அறிந்து கொள்ள முடியாது. ஓம் என்னும் அந்த எழுத்தில் இறைவியோடு தானும் சேர்ந்து இறைவனும் இருக்கின்றான்.`,
   },
   {
@@ -1596,11 +1580,11 @@ That elephantine passions control.`,
     tamil: `அருவினில் அம்பரம் அங்கெழு நாதம்
 பெருகு துடியிடை பேணிய விந்து
 மருவி யகார சிகார நடுவாய்
-உருவிட ஊறும் உறுமந் திரமே`,
+உருவிட லாறும் உறுமந் திரமே`,
     transliteration: `aruviṉil amparam aṅkeḻu nātam
 peruku tuṭiyiṭai pēṇiya vintu
 maruvi yakāra cikāra naṭuvāy
-uruviṭa ūṟum uṟuman tiramē`,
+uruviṭa lāṟum uṟuman tiramē`,
     english: `960: Chant "Om Sivaya Nama"
 In formless space rises Nada,
 In Sakti of slender waist rises Bindu,
@@ -1666,22 +1650,18 @@ They fifteen vowels are;
 Together with consonants,
 The Primal letters are
 As Fifty and one reckoned.`,
-    elaborationEnglish: `This verse is inspired by the concept of ‘‘Varna mala”’ (garland of letters) of the Sakti cult.
-
-Sakti Expands as Fifty-One Letters With Letter ‘‘A’’ is Bindu, And curled Letter “‘U’’ that is Nada, When together they upward ascend, Sakti within beams, With kalas six and ten, And endlessly expands, As neck, hands, legs and body entire; As Letters One and Fifty, too, Her Form expands.
-
-The 51 letters of the Sanskrit language are identified with various parts of Sakti.`,
+    elaborationEnglish: `This verse is inspired by the concept of ‘’Varna mala”’ (garland of letters) of the Sakti cult.`,
     elaborationTamil: `பாடல் #962 இல் உள்ளபடி ‘ஓம்’ எனும் ஓரெழுத்தாக ஓதி உணரக்கூடியவர்களுக்கு அதன் உயிர்க்கலைகளாக மொத்தம் 15 எழுத்துக்கள் இருப்பதை உணர முடியும். இந்த 15 எழுத்துக்கள் ‘நமசிவாய’ எனும் ஐந்து எழுத்து மந்திரமும் அதன் ஆதார எழுத்துக்களாகிய அ, இ, உ, எ, ஒ (பாடல் #927) ஆகிய ஐந்து எழுத்துக்களும் அதன் பீஜங்களாகிய ஆ, ஈ, ஊ, ஏ, ஓம் (பாடல் #912) ஆகிய ஐந்து எழுத்துக்களும் ஆகும். இந்த 15 எழுத்துக்களே மாற்றி மாற்றி எழுதப்பட்டு திருவம்பலச் சக்கரத்தில் மொத்தம் 51 எழுத்துக்களாக இருக்கின்றது (பாடல் #924). இந்த 15 எழுத்துக்களில் அ, உ இரண்டும் ஆதி எழுத்துக்களாகும். மீதியுள்ள 13 எழுத்துக்களும் சோதி எழுத்துக்களாகும். இந்த சோதி எழுத்துக்களை பீஜங்களாக்கி அவற்றின் ஒலியை உடலுக்குள் பரவச் செய்து இதன் தத்துவத்தை உணரலாம்.`,
   },
   {
     id: 965, tantraId: 4, verseNumber: 964,
     tamil: `விந்துவி லும்சுழி நாதம் எழுந்திடப்
 பந்தத் தலைவி பதினாறு கலையதாம்
-சுந்தர வாகரங் கால்உடம்பு ஆயினாள்
+கந்தர வாகரங் கால்உடம்பு ஆயினாள்
 அந்தமும் இன்றியே ஐம்பத்தொன்று ஆயதே`,
     transliteration: `vintuvi lumcuḻi nātam eḻuntiṭap
 pantat talaivi patiṉāṟu kalaiyatām
-cuntara vākaraṅ kāluṭampu āyiṉāḷ
+kantara vākaraṅ kāluṭampu āyiṉāḷ
 antamum iṉṟiyē aimpattoṉṟu āyatē`,
     english: `964: Sakti Expands as Fifty-One Letters
 With Letter "A" that is Bindu,
@@ -1693,15 +1673,7 @@ And endless expands,
 As neck, hands, legs and body entire;
 As Letters One and Fifty, too,
 Her Form expands.`,
-    elaborationEnglish: `The knowledge of Jiva here below Is unto letters written on water; There is a Letter in heaven
-
-They seek it not; :
-
-Who knows that Letter?
-
-They who know it,
-
-Have birth ended.`,
+    elaborationEnglish: `The 51 letters of the Sanskrit language are identified with various parts of Sakti.`,
     elaborationTamil: `திருவம்பலச் சக்கரத்தில் உள்ள ஒளியைச் சுற்றிக்கொண்டு இருக்கும் ஒலியை எழுப்பினால் அதிலிருந்து வெளிப்படும் சக்தியானது 16 கலைகளாகப் பிரிந்து திருவம்பலச் சக்கரத்தின் தலை (மேல் பகுதி), உடல் (நடுப் பகுதி), கால் (கீழ்ப் பகுதி) என்று பல அங்கங்கங்களாக செயலாற்றுகின்றது. எப்போதும் முடிவில்லாமல் இயங்கிக் கொண்டிருக்கும் இந்த சக்தி மயமே திருவம்பலச் சக்கரத்தில் இருக்கும் 51 எழுத்துக்களாக இருக்கின்றது.`,
   },
   {
@@ -1719,9 +1691,7 @@ Letters Fifty are Vedas all,
 Letters Fifty are Agamas all,
 When source of Letters Fifty are known,
 Fifty Letters to Five Letters comes.`,
-    elaborationEnglish: `Here, the number of letters is said to be SO, reflecting the
-
-vacillations of the phoneticians of the Sanskrit language.`,
+    elaborationEnglish: `Here, the number of letters is said to be 50, reflecting the vacillations of the phoneticians of the Sanskrit language.`,
     elaborationTamil: `பாடல் #964 இல் உள்ளபடி திருவம்பலச் சக்கரத்தின் நடுவிலுள்ள கட்டத்தில் இருக்கும் ஐம்பது எழுத்துக்களுக்குள் அனைத்து வேதங்களும் ஆகமங்களும் அடங்கியுள்ளன. இதனை அறிந்து கொண்ட சாதகர்கள் ஐம்பது எழுத்துக்களும் ‘நமசிவாய’ எனும் ஐந்து எழுத்துக்குள் அடங்கிவிடுவதை உணரலாம். குறிப்பு: பாடல் #912 இல் உள்ளபடி உச்சரிக்காமல் மூச்சுக்காற்றோடு சேர்ந்து இயக்கும் சாதகர்கள் திருவம்பலச் சக்கரத்திலுள்ள ஐம்பது எழுத்துக்களின் தத்துவத்தை அறிந்து கொள்ளலாம்.`,
   },
   {
@@ -1729,11 +1699,11 @@ vacillations of the phoneticians of the Sanskrit language.`,
     tamil: `அஞ்செழுத் தால்ஐந்து பூதம் படைத்தனன்
 அஞ்செழுத் தால்பல யோனி படைத்தனன்
 அஞ்செழுத் தால்இவ் அகலிடம் தாங்கினன்
-அஞ்செழுத் தாலே அமர்ந்து நின்றானே. 53.`,
+அஞ்செழுத் தாலே அமர்ந்து நின்றானே`,
     transliteration: `añceḻut tālaintu pūtam paṭaittaṉaṉ
 añceḻut tālpala yōṉi paṭaittaṉaṉ
 añceḻut tāliv akaliṭam tāṅkiṉaṉ
-añceḻut tālē amarntu niṉṟāṉē. 53.`,
+añceḻut tālē amarntu niṉṟāṉē`,
     english: `966: Five Letters is All
 With Five letters He created elements five;
 With Five letters He created diverse life;
@@ -1784,11 +1754,11 @@ In Five Letters He stood.`,
     tamil: `ஐந்தின் பெருமையே அகலிடம் ஆவதும்
 ஐந்தின் பெருமையே ஆலயம் ஆவதும்
 ஐந்தின் பெருமையே அறவோன் வழக்கமும்
-ஐந்தின் வகைசெயப் பாலனும் ஆமே. 56.`,
+ஐந்தின் வகைசெயப் பாலனும் ஆமே`,
     transliteration: `aintiṉ perumaiyē akaliṭam āvatum
 aintiṉ perumaiyē ālayam āvatum
 aintiṉ perumaiyē aṟavōṉ vaḻakkamum
-aintiṉ vakaiceyap pālaṉum āmē. 56.`,
+aintiṉ vakaiceyap pālaṉum āmē`,
     english: `969: Chant Five Letters and Be Forever Young
 Spaces vast arise from Five Letters great
 Temples Holy are Five Letters great
@@ -1937,15 +1907,11 @@ Will in your heart be.`,
 añcukkum añceḻuttu aṅkucam āvaṉa
 añcaiyum kūṭat taṭukkaval lārkaṭkē
 añcāti āti akampuka lāmē`,
-    english: `977: The Five Letters Can978: Contemplate Si Va Ya
-The Five Kalas arose
-From letters "A" and rest (A, U, M)
-From them arise the Five Letters,
-Leave out Letters "Na" and "Ma"
-(Thus "Si Va Ya" contemplate)
-Nandi in Muladhara you seek;
-Those who meet Him there with Parai (Sakti)
-Will have actions none more to perform.the five elephants,
+    english: `977: The Five Letters Can Control the Five Senses
+Five the elephants (senses)
+In the body-forest roam,
+The Five Letters become the goads
+For the five elephants,
 Only they who can contain
 The five (senses) together,
 Can, unafraid, reach Primal Lord.`,
@@ -2074,11 +2040,11 @@ Will with Primal Sadasiva one be.`,
     tamil: `நவமும் சிவமும் உயிர்பர மாகும்
 தவமொன்று இலாதன தத்துவம் ஆகும்
 சிவம்ஒன்றி ஆய்பவர்ஆதர வால்அச்
-சிவம்என்ப தானாம் எனும்தெளி வுற்றதே. 71.`,
+சிவம்என்ப தானாம் எனும்தெளி வுற்றதே`,
     transliteration: `navamum civamum uyirpara mākum
 tavamoṉṟu ilātaṉa tattuvam ākum
 civamoṉṟi āypavarātara vālac
-civameṉpa tāṉām eṉumteḷi vuṟṟatē. 71.`,
+civameṉpa tāṉām eṉumteḷi vuṟṟatē`,
     english: `984: Chanting "Siva" Takes You to Siva
 The Letters "Na" to begin (Na Ma) is Jiva,
 The Letters "Si" to begin (Si Va) is Para,
@@ -2118,12 +2084,11 @@ eṭṭum iraṇṭum aṟiyāta ēḻaiyar
 eṭṭum iraṇṭum irumūṉṟu nāṉkeṉap
 paṭṭatu cittānta caṉmārkka pātamē.`,
     english: `986: Aum Denotes Tattva Manifestations of Siva
-They know not well Letter Eight and Two`,
-    elaborationEnglish: `They the ignorant one, know not what ‘‘Eight”’ 5
-
-(‘‘A”) and Two (‘‘U’’) are; Eight and Two (AUM) are but Ten That verily is truth of Siddhanta Jnana.
-
-In Tamil, the numeral, eight, is written as the letter, *’ (A); and the numeral, two, is written as the letter, ‘’ (U). Hence the play on the words ‘eight’ and ‘two.’The illiterates are generally referred to as those who cannot count eight and two.`,
+They know not well Letter Eight (“A”) and Two (“U”)*
+They the ignorant ones, know not what “Eight” (“A”) and Two (“U”) are;
+Eight and Two (AUM) are but Nine;*
+That verily is truth of Siddhanta Jnana.`,
+    elaborationEnglish: `In Tamil, the numeral, eight, is written as the letter, *’ (A); and the numeral, two, is written as the letter, ‘’ (U). Hence the play on the words ‘eight’ and ‘two.’The illiterates are generally referred to as those who cannot count eight and two.`,
     elaborationTamil: `எட்டு என்பது அகராமாகிய சிவம். இரண்டு என்பது உகாரமாகிய சக்தி. இருமூன்றும் நான்கும் சேர்ந்த பத்து என்பது யகாரமாகிய உயிர். குறிப்பு மொழியால் உணர்த்தப்பட்ட இப்பொருள்களை அனுபவமாக உணராதவர்கள் ‘அ, உ, ய’ எனும் எழுத்துக்களை அறியத் தொடங்கும் தொடக்க அறிவுகூட இல்லாதவரேயாவர். சாதகர்கள் இந்த எழுத்துக்களின் உட்பொருளை உணர்வதன் மூலம் தன்னை அறிந்து சதாசிவத்தை அடையும் உபாயத்தை உணர்த்துவதே இந்த ஞானப் பாதையாகும்.`,
   },
   {
@@ -2141,7 +2106,9 @@ Draw eight lines vertical
 And eight lines horizontal,
 In central chamber thus formed,
 Place Lord's Letter-Six--Om Na Ma Si Va Ya,
-In forty and eight squares that remains,`,
+In forty and eight squares that remains,
+The Sacred Letters distribute,
+And there pray.`,
     elaborationTamil: `இடமிருந்து வலமாக எட்டு கோடுகளும் மேலிருந்து கீழாக எட்டு கோடுகளும் வரைந்தால் அதற்குள் நாற்பத்தொன்பது கட்டங்கள் வரும். இதில் நடுவிலுள்ள கட்டத்தில் இறைவனின் வடிவமான ‘ஓம்’ எழுத்தை எழுதி அதைச் சுற்றியுள்ள நாற்பத்தெட்டு கட்டங்களிலும் ‘சிவாயநம’ எனும் ஐந்தெழுத்து மந்திரத்தை மாற்றி மாற்றி எழுதி அமைத்தால் வரும் சக்கரம் செபிப்பதற்கு உகந்ததாகும். (இந்த சக்கரத்தின் அமைப்பு அடுத்த பாடலிலும் தொடரும்)`,
   },
   {
@@ -2167,11 +2134,11 @@ Thus form Siva Chakra.`,
     tamil: `பட்டனம் மாதவம் ஆறும் பராபரம்
 விட்டனர் தம்மை விகிர்தா நமஎன்பர்
 எட்டனை யாயினும் ஈசன் திறத்திறம்
-ஒட்டுவன் பேசுவன் ஒன்றறி யேனே 76`,
+ஒட்டுவன் பேசுவன் ஒன்றறி யேனே`,
     transliteration: `paṭṭaṉam mātavam āṟum parāparam
 viṭṭaṉar tammai vikirtā namaeṉpar
 eṭṭaṉai yāyiṉum īcaṉ tiṟattiṟam
-oṭṭuvaṉ pēcuvaṉ oṉṟaṟi yēṉē 76`,
+oṭṭuvaṉ pēcuvaṉ oṉṟaṟi yēṉē`,
     english: `989: Knowledge of Siva is Vast
 By way of tapas great
 They reached Paraparam,
@@ -2264,16 +2231,15 @@ Meditate on Mantra that confers Grace;
 Approaching Him, they chant "Nama";
 Thinking of Him dear as apple of their eye
 They with Him united stood.`,
-    elaborationEnglish: `The Holy Celestials raining flowers on Him Meditate on Mantra that confers Grace; Approaching Him, they chant ‘‘Nama’’; Thinking of Him dear as The apple of their eye They with Him united stood.`,
     elaborationTamil: `புண்ணியத்தால் வானுலக வாழ்வு பெற்ற தேவர்கள் இறைவனுக்கு இணையான ‘நமசிவாய’ ஐந்தெழுத்து மந்திரத்தால் இறைவனை பூ மழை போல் அர்ச்சனை செய்து தியானித்து நமசிவாய மந்திரத்தை உணர்ந்து கண்ணிலிருந்து காணும் அனைத்தையும் அந்த மந்திரமாகவே கண்டு அதனுடன் கலந்து இருப்பார்கள்.`,
   },
   {
     id: 995, tantraId: 4, verseNumber: 994,
-    tamil: `ஆறெழுத்தாவது ஆறு (1)மந்திரங்கள்
+    tamil: `ஆறெழுத்தாவது ஆறு மந்திரங்கள்
 ஆறுக்கு நாலே இருபத்து நாலென்பர்
 சாவித் திரியில் தலையெழுத்து ஒன்றுள
 பேதிக்க வல்லார் பிறவியற் றார்களே`,
-    transliteration: `āṟeḻuttāvatu āṟu (1)mantiraṅkaḷ
+    transliteration: `āṟeḻuttāvatu āṟu mantiraṅkaḷ
 āṟukku nālē irupattu nāleṉpar
 cāvit tiriyil talaiyeḻuttu oṉṟuḷa
 pētikka vallār piṟaviyaṟ ṟārkaḷē`,
@@ -2309,6 +2275,9 @@ Repeat it in corners four
 Encircle the whole in Om
 Meditate thus on Chakra
 The Lord of Uma will be yours.`,
+    elaborationEnglish: `Aum Bhur bhuvah svah;
+Tat savitur varenyam bhargo devasya dhimahi;
+Dhiyo yo nah prachodayat; Aum.`,
     elaborationTamil: `குறுக்கும் நெடுக்குமாக நான்கு கோடுகள் வரைந்து வருகின்ற ஒன்பது அறைகளில் நடு அறையில் ‘சி’ எழுத்தை எழுதி அந்த எழுத்தையே எட்டு எழுத்துக்களாகவும் காணும்படி சுற்றியிருக்கும் எட்டு கட்டங்களிலும் ‘சி’ எழுத்தையே எழுதி நிரப்பி இந்த சக்கரத்தை முழுவதும் சுற்றியிருக்கும்படி ‘ஓம்’ எனும் எழுத்தை எழுதி தியானிக்கும் சாதகர்களுக்கு இறைவனும் இறைவியும் உடன் இருப்பார்கள். குறிப்பு: இந்தப் பாடலின் மூலம் உமாபதி சக்கரம் அமைத்து தியானிக்கும் முறையை அறியலாம்.`,
   },
   {
