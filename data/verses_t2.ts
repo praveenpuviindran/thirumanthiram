@@ -1804,9 +1804,7 @@ Daily Death is unto Fated Death
 And Fated Death unto Pure Death
 And Pure Death unto Redemption Death
 In that alone is the Truth--Jiva becoming Siva.`,
-    elaborationEnglish: `In daily mergence the senses are silent,
-
-In the next mergence the soul leaves the body, In pure mergence the soul remains completely free, In the final mergence there is union with Siva.`,
+    elaborationEnglish: `In daily mergence the senses are silent,`,
     elaborationTamil: `உலகத்தில் பிறவி எடுக்க தாய் வயிற்றில் கருவாகப் பிறந்த அனைத்து உயிர்களுமே தங்களின் வினைப் பயனாகிய துன்பங்களையும் சேர்த்துக் கொண்டுதான் பிறக்கின்றன. இறைவனது கருணையினால் அந்த துன்பங்கள் சிறிது நேரமாவது நீங்கித் தம்மை மறந்து உயிர்கள் இருக்கும் தூக்க நிலை தினமும் நிகழும் நித்த சங்காரமாகும். உடலை விட்டு உயிர் பிரிந்து ஆன்மா மட்டுமே இருக்கின்ற நிலை சுத்த சங்காரமாகும் ஸ்தூல உடலும் சூட்சும உடலும் பிரிந்து இருக்கும் கனவு நிலையில் ஆன்மா மாயையிலேயே மூழ்கி கேவலப்பட்டு இருக்கின்ற நிலை வைத்த சங்காரமாகும். வினைகளையெல்லாம் தீர்த்துவிட்ட உயிர் ஸ்தூல உடலை விட்டுப் பிரிந்து சூட்சும உடலும் அழிந்து தனித்தன்மையோடு இருந்த ஆன்மா உண்மைப் பொருளான இறைவனுடனே இரண்டறக் கலந்துவிடும் போது நான் எனும் தனித்தன்மை முற்றிலும் அழிந்து சிவமாக மாறும் நிலை உய்த்த சங்காரமாகும்.`,
   },
   {
@@ -1867,7 +1865,7 @@ He gave us Wisdom ample to discriminate.`,
     elaborationEnglish: `The jiva sprang as a plant out of the void, and into the void, it shall finally retum. Even the gods are not exempt from this law. Death follows birth, as the night follows day: The only escape from death is not to be born again. By uprooting karma alone, can the birth-death be ended. God dissolves the karma; pray to Him.
 
 Rudra is the god to whom the work of destruction is entrusted, but the real power behind Rudra is that of Siva.`,
-    elaborationTamil: `இறைவனிடமிருந்து தோன்றிய ஆன்மா தனது ஆசைகளை அனுபவித்துத் தீர்த்துக் கொள்ள செய்யும் செயலினால் சேரும் வினைகளைத் தீர்க்க மாயையை வைத்து அந்த வினைகள் தீர உடலையும் ஆன்மாவிற்கு கொடுத்துப் பிறவி எடுக்க வைக்கின்றான். பிறவி எடுத்த ஆன்மா வினைச் சுழலில் சிக்கி மீண்டும் மீண்டும் பிறவி எடுத்துக் கொண்டே இருக்கக் கூடாது என்கிற கருணையினால் உலகத்திலுள்ள அனைத்திலும் கலந்து இருக்கும் இறைவன் தன்னை அடையும் வழிகள் அறிந்த கலந்து குருவாய் இருக்கும் அடியார்களோடு சேர வைத்து தன்னை எப்போதும் நினைக்கக் கூடிய எண்ணத்தை வைக்கின்றான். இறைவனின் சிந்தனையிலேயே இருப்பதால் மாயை அழிந்து நான் என்கின்ற அகங்காரம் அழிந்து ஆன்மா மீண்டும் தம்மை வந்து அடையும் மெய்யுணர்வு வரச் செய்கறான் இறைவன். விளைந்த பயிர் பயன்படுத்தப்பட்ட பிறகு அழிந்து திரும்பவும் மண்ணோடு மண்ணாகவே ஆகிவிட்டாலும் அது எப்படி முன்பு விதைத்த விதைக்குள் மீண்டும் போய் சேர முடியாதோ அதுபோலவே உலகத்தில் கருவாக வந்து பிறந்த ஆன்மா உலகத்தில் வாழ்ந்து இறந்த பிறகும் திரும்பவும் இறைவனிடமே சென்று சேர்ந்துவிட முடியாது. இதனாலேயே ஆன்மாவுக்குத் தனித்த வாழ்வு என்பது இல்லாத சங்காரச் சுழற்சியில் தள்ளப்பட்டு மீண்டும் பிரம்மனால் கருவாக பிறந்து திருமாலால் காக்கப்பட்டு வளர்ந்து மறுபடியும் சங்காரத்தில் இறந்து கொண்டே இருக்கும். எப்போது மண்ணில் பிறந்த பயிர் மண்ணிலே கலந்து அந்த மண்ணும் ஒரு நாள் மறைந்து போகின்றபோது அந்தப் பயிரின் தடயமே அழிந்து போய்விடுவது போல உலகத்தில் மீண்டும் மீண்டும் பிறவி எடுத்து இறக்கும் ஆன்மா எப்போது வினைகளை முடித்துத் தான் என்கிற தடயத்தை (ஆணவ மலம்) முற்றிலும் துறந்து மாயைகளை நீக்கி உண்மையை உணருகின்றதோ அப்போது அது தோன்றிய இறைவனிடமே சென்று அடங்கிவிடும். உட்கருத்து: ஆன்மாவைப் பயிராகவும் இறைவனை சகதியாகவும் உருவகிக்கும் திருமூலர் இந்த உவமையின் மூலம் சங்காரத்தின் தத்துவமும் அது ஏன் நிகழ்கிறது என்கிற விளக்கத்தையும் தந்து அருளுகிறார். இறைவனிடமிருந்து முதலில் தோன்றிய ஆன்மா உலகத்தில் பிறவி எடுத்து வினையினால் பிறவிச் சுழலில் சிக்கித் தன் வினைகளையெல்லாம் முடித்துவிட்டு பிறகு இறைவனிடமே வந்து அடங்கிவிடுவதே சங்காரத்தின் தத்துவமும் அதன் பயனுமாகும்.`,
+    elaborationTamil: `இறைவனிடமிருந்து தோன்றிய ஆன்மா தனது ஆசைகளை அனுபவித்துத் தீர்த்துக் கொள்ள செய்யும் செயலினால் சேரும் வினைகளைத் தீர்க்க மாயையை வைத்து அந்த வினைகள் தீர உடலையும் ஆன்மாவிற்கு கொடுத்துப் பிறவி எடுக்க வைக்கின்றான். பிறவி எடுத்த ஆன்மா வினைச் சுழலில் சிக்கி மீண்டும் மீண்டும் பிறவி எடுத்துக் கொண்டே இருக்கக் கூடாது என்கிற கருணையினால் உலகத்திலுள்ள அனைத்திலும் கலந்து இருக்கும் இறைவன் தன்னை அடையும் வழிகள் அறிந்த கலந்து குருவாய் இருக்கும் அடியார்களோடு சேர வைத்து தன்னை எப்போதும் நினைக்கக் கூடிய எண்ணத்தை வைக்கின்றான். இறைவனின் சிந்தனையிலேயே இருப்பதால் மாயை அழிந்து நான் என்கின்ற அகங்காரம் அழிந்து ஆன்மா மீண்டும் தம்மை வந்து அடையும் மெய்யுணர்வு வரச் செய்கிறான் இறைவன்.`,
   },
   {
     id: 432, tantraId: 2, verseNumber: 431,
@@ -2064,9 +2062,7 @@ One God, pervades species all;
 The eye sees things several
 Yet itself it sees not;
 Thus it is, we see not the God in us.`,
-    elaborationEnglish: `This concealment which is so is one of the Five acts of God. It has. a purpose, and that is to lead the jiva to seeking. It is by seeking God, that God can be seen. In the black chamber of the soul there is darkness. That darkness can be dispelled only by: letting in light. Seek: and you shall see the light-Knock and the door shall be opened. Adore, and He shall reveal Himself—Tirumular sings. ‘
-
-Mahesvara is the god empowered with this function, but his is only a delegated power. Siva is the Final Source.`,
+    elaborationEnglish: `Mahesvara is the god empowered with this function, but his is only a delegated power.`,
     elaborationTamil: `உயிர்களுக்கு நல்ல முறையில் பயன்படும் பல்வேறு விதமான பாத்திரங்களை குயவன் செய்தாலும் அனைத்தையும் ஒரே விதமான களிமண்ணில் இருந்து தான் செய்கின்றான். அதுபோலவே உலகத்தில் பல்வேறு உருவங்களில் பல பிறவிகள் எடுத்தாலும் அனைத்து பிறவிகளிலும் ஆத்மாவாக இறைவன் ஒருவனே இருக்கின்றான். உயிர்களின் கண்கள் இரண்டாக இருந்தாலும் அவை ஒரேவிதமான காட்சிகளைக் கண்டாலும் தமது உருவத்தை அவற்றால் காண முடியாது. அதுபோலத்தான் இறைவனும் ஒவ்வொரு உயிரின் உள்ளத்துக்குள் இருந்து உயிர்களுக்கு அனைத்தையும் உணர வைத்தாலும் தம்மையே உணர முடியாதவனாக இருக்கின்றான். உட்கருத்து: அனைத்தையும் தமது கண்களால் பார்க்கும் உயிர்கள் தமது கண்களின் பிம்பத்தை கண்ணாடியில் காண முடியுமே தவிர தமது கண்களால் தமது கண்களையே காண முடியாது. அதுபோலவே மாயையால் மறைந்திருக்கும் இறைவன் உள்ளத்துக்குள்ளேயே இருந்து அனைத்தையும் உணர்த்தினாலும் அவனை மட்டும் உணர முடியாமல் இருக்கும்படி உயிர்களை மாயையால் மறைத்து வைத்திருக்கின்றான்.`,
   },
   {
@@ -3618,7 +3614,7 @@ The Kingdom will to disaster fall;
 And disease fell chased culprit to sure death;
 Thus did He declare,
 Nandi, the Divine Protector.`,
-    elaborationEnglish: `Temples are monuments that require to be preserved intact. Let not a linga that has been established be removed from its original site. Dire harm will fall on the culprit.`,
+    elaborationEnglish: `Temples are monuments that require to be preserved intact. Let not a linga that has been established be removed from its original site.`,
     elaborationTamil: `ஒரு திருக்கோயிலில் உள்ள சுயம்பு சிவலிங்கத்தைப் பெயர்த்தெடுத்துக் கொண்டு போய் வேறொரு திருக்கோயிலில் நிறுவினால் அச்செயல் அந்த வேறொரு திருக்கோயில் கட்டி முடிப்பதற்கு முன்பே அரசனது ஆட்சி நிலைகுலையும். அந்தச் செயலை செய்தவன் இறப்பதற்கு முன்பு தொழுநோய் வந்து துன்புற்று இறப்பான். இவ்வாறு எம் உயிர்க் காவலனாகிய நந்திபெருமான் உறுதிபட கூறினார்.`,
   },
   {
@@ -4293,7 +4289,7 @@ The Devout Eminent will master eddies of birth,
 Devout Dear realizing self will immortal, remain;
 With them who are Rich in Grace
 I joined to consort.`,
-    elaborationEnglish: `Only the true devotees will master the karmic eddies; only they will realise the Self and achieve the deathless state. Only they will enter and be in God. gancy. are rich in grace. Conscr with them.`,
+    elaborationEnglish: `Only the true devotees will master the karmic eddies; only they will realise the Self and achieve the deathless state. Only they will enter and be in God. gancy. are rich in grace.`,
     elaborationTamil: `கலை ஞானத்தில் சிறந்து இறைவனை அடையக்கூடிய அருமையை உணர்ந்தவர்கள் ஒரு நொடிப் பொழுதும் இறைவனை மறக்காமல் இருப்பதின் பயனால் பிறவியாகிய பெருங்கடலை நீந்திக் கரைசேரும் பெருமையை உடையவர்கள், இறைவனைத் தனக்குள்ளே உணர்ந்து அதிலேயே ஆழ்ந்து அவனது திருவருளைப் பெற்றவர்கள் ஆகியவர்களோடு யாமும் சேர்ந்து இருக்கின்றோம். உள்கருத்து: 64 கலைகள் உள்ளது. அதில் ஏதேனும் ஒன்றோ பலவோ கற்று அதில் ஞானம் அடைந்தவர்கள். பக்தி மார்கத்தின் மூலமாக இறைவனை ஒரு நொடிப்பொழுதும் மறக்காமல் இருப்பவர்கள். யோக மார்கத்தின் மூலமாக இறைவனை தனக்குள் உணர்ந்தவர்களுடன் யாம் துணையாக இருக்கன்றோம் என்று அருளுகின்றார்.`,
   },
 ];

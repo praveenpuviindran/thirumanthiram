@@ -193,7 +193,7 @@ export default function HomeScreen() {
         <View style={[styles.footer, { borderTopColor: theme.border }]}>
           <Text style={[styles.footerSymbol, { color: Colors.saffron + '66' }]}>✦</Text>
           <Text style={[styles.footerText, { color: theme.textMuted }]}>Created by</Text>
-          <Text style={[styles.footerName, { color: Colors.saffron }]}>Praveen Puviindran</Text>
+          <Text style={[styles.footerName, { color: Colors.saffron }]}>Praveen Puviindran, Latha Ravendran & Vijitha Puviindran</Text>
           <Text style={[styles.footerSymbol, { color: Colors.saffron + '66' }]}>✦</Text>
         </View>
 

@@ -419,9 +419,7 @@ Who there be who, like our Lord, distinct know
 The great and the small, the difficult and the facile?
 They, unto tortoise, drawing in senses five under the shell,
 They heard and saw This and Next, all impurities dispelled.`,
-    elaborationEnglish: `Who else but He has the knowledge of human greatness and littleness? turtle-like, withdraw their senses within, know this world and That.
-
-The simile of the tortoise and the five senses is a favourite’ one in Hinduism. The Goraknathis (Khanpata Yogis) of the 14th Cent. A.D. onwards seem to have adopted the tortoise as their and emblematic mascot.`,
+    elaborationEnglish: `Who else but He has the knowledge of human greatness and littleness? turtle-like, withdraw their senses within, know this world and That. The simile of the tortoise and the five senses is a favourite’ one in Hinduism. The Goraknathis (Khanpata Yogis) of the 14th Cent. A.D. onwards seem to have adopted the tortoise as their and emblematic mascot.`,
     elaborationTamil: `பெரியது எதுவோ அதைவிடவும் பெரியதாக இருக்கும் பெருமையையும் சிறியது எதுவோ அதைவிடவும் சிறியதாக இருக்கும் சிறுமையையும் அறிந்து கொண்டு அருமையையான எம்பெருமான் சதாசிவமூர்த்தியைப் போல அடியவர்களுக்கு அடியவராய் அருளும் எளிமையையும் முழுவதும் அறிந்தவர்கள் யார்? ஆபத்தில் தனது நான்கு கால்கள் ஒரு தலை ஆகிய ஐந்து உறுப்புகளையும் ஒரு ஓட்டுக்குள் உள்ளிழுத்துக் கொள்ளும் ஆமையைப் போலவே சிவத்தை நோக்கித் தமது ஐம்புலன்களையும் அடக்கித் தியானித்திருக்கும் சிவயோகியர்கள் இறப்பு பிறப்பு இல்லாமல் எப்போதும் இறைவனின் பேரின்பத்திலேயே திளைத்து செயலும் உணர்வும் இல்லாமல் இறைவனின் தன்மைகளை முழுமையாக அறிந்துகொள்வார்கள்.`,
   },
   {
@@ -1117,7 +1115,7 @@ The radiant moon that life animates into massive darkness turns;
 Why then speak of riches which no better fate can meet?
 If the Heaven's King, you unwaveringly seek,
 Like pouring clouds choicest treasures fall at your feet.`,
-    elaborationEnglish: `Even the luminous moon is devoured by darkness. The wealth we accumulate is far more ephemeral. Seek the Lord of the Heavenly Hosts. You shall receive indestructible treasures, as from the pouring clouds. 3`,
+    elaborationEnglish: `Even the luminous moon is devoured by darkness. The wealth we accumulate is far more ephemeral. Seek the Lord of the Heavenly Hosts. You shall receive indestructible treasures, as from the pouring clouds.`,
     elaborationTamil: `பெளர்ணமி அன்று முழுவதாக இருந்து பெரும் ஒளி வீசும் நிலவு கொஞ்சம் கொஞ்சமாகத் தேய்ந்து பிறகு அமாவாசை அன்று சுத்தமாக மறைந்து விடுவதுபோல அதிகமாக இருந்தாலும் நாளடைவில் குறைந்து பிறகு ஒன்றுமே இல்லாமல் ஆகிவிடும் உலகச் செல்வங்களால் வரும் துன்பங்களைப் பற்றிச் சொல்லவும் வேண்டுமா? இந்த நிலையில்லாத உலகச் செல்வங்களின் மேல் மயங்கி இருக்காமல் என்றும் நிலைத்திருப்பவனும் தேவர்களுக்கெல்லாம் தலைவனுமாகிய இறைவனைத் தெளிவாக உணர்ந்து அடையுங்கள். அப்படி அடைந்தால் பெரும் மழையை கொடுக்கும் கார்மேகம் போல பெருஞ் செல்வங்களை இறைவன் மழை போல் பொழிவான்.`,
   },
   {
@@ -1191,9 +1189,7 @@ How fast we cling to stock of cattle and riches gay
 Less stable even than the boat which midstream upturns!
 They but see the dissolving body and know not
 The Binding Knot to salvation eternal.`,
-    elaborationEnglish: `Likewise a bond ties the body to soul,
-
-When it will give away no one knows.`,
+    elaborationEnglish: `Likewise a bond ties the body to soul, when it will give away no one knows.`,
     elaborationTamil: `உயிர்கள் தாங்கள் மகிழ்ச்சியாக இருக்க வேண்டி சம்பாதிக்கும் செல்வங்களும் சொத்துக்களும் ஆற்றில் சென்றுகொண்டிருக்கும் படகு சட்டென்று வெள்ளம் வந்தால் எப்படி மூழ்கிவிடுமோ அதுபோல சட்டென்று போய்விடும். வெள்ளம் பெருகும் கடலாக இருந்தாலும் அதிலிருக்கும் சிப்பிக்கு எதுவும் ஆவதில்லை. அதுபோலவே அழிந்துபோகின்ற இந்த உடலுக்கு உள்ளேயே என்றும் நிலைத்திருக்கும் முக்தியை அடையும் வழியாக ஒரு சிமிழை (குண்டலினி சக்தி) இறைவன் வைத்திருப்பதை எவரும் ஆராய்ந்து பார்த்து அறிந்துகொள்வதில்லை. உட்கருத்து: அழிகின்ற செல்வங்களில் ஆசை வைக்காமல் என்றும் அழியாத முக்திக்கு வழிதரும் குண்டலினி சக்தியை தியானத்தால் எழுப்பி அதைச் சகஸ்ரர தளத்தின் உச்சியில் கொண்டு சேர்த்து இறைவனின் நமக்குள் உணர்ந்து அறிவுத்தெளிவு பெற வேண்டும்.`,
   },
   {
