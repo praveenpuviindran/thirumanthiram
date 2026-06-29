@@ -104,7 +104,7 @@ Mular’s Saiva Siddhanta is nothing other than Suddha Saivam as he expounds it 
     id: 1423, tantraId: 5, verseNumber: 1422,
     tamil: `வேதாந்தஞ் சுத்தம் விளங்கிய சித்தாந்த
 நாதாந்தங் கண்டோர் நடுக்கற்ற காட்சியர்
-புதாந்த போதாந்த மாதுப் புனஞ்செய்ய
+பூதாந்த போதாந்த மாதுப் புனஞ்செய்ய
 நாதாந்த பூரணர் ஞானநே யத்தரே`,
     transliteration: `vētāntañ cuttam viḷaṅkiya cittānta
 nātāntaṅ kaṇṭōr naṭukkaṟṟa kāṭciyar
@@ -112,16 +112,13 @@ putānta pōtānta mātup puṉañceyya
 nātānta pūraṇar ñāṉanē yattarē`,
     english: `1422: Suddha Siddhanta is Vedanta
 Suddha Siddhanta is Vedanta;
-They who have scaled the heights of Nada sphere`,
-    elaborationEnglish: `They who have scaled the héights of Nada sphere Have verily had the Vision Unwavering Comprehending Tattvas from world’ of elemental matter
-
+They who have scaled the heights of Nada sphere
+Have verily had the Vision Unwavering;
+Comprehending Tattvas from world of elemental matter
 To the Finite End of Jnana (Bhodanta)
-
-They become Perfection in Nadanta,
-
-They verily are the’ardent seekers of Jnana.
-
-Mular equates his Saiva Siddhanta with Vedantd, which is not to be confused with the . Vedanta of the schools of Sankaracarya,. Ramanujacarya, etc. Bhodanta is ‘quite apparently a reference to the ‘Bhodi’ of Buddhism. By Nadanta is meant apparently the Mimamsa and Spanda schools which emphasize the sound aspect of the Ultimate.`,
+They become Perfection in Nadanta;
+They verily are the ardent seekers of Jnana.`,
+    elaborationEnglish: `Mular equates his Saiva Siddhanta with Vedantd, which is not to be confused with the . Vedanta of the schools of Sankaracarya,. Ramanujacarya, etc. Bhodanta is ‘quite apparently a reference to the ‘Bhodi’ of Buddhism. By Nadanta is meant apparently the Mimamsa and Spanda schools which emphasize the sound aspect of the Ultimate.`,
     elaborationTamil: `வேதங்களின் எல்லையாக இருக்கின்றவனும் மும்மலங்களும் நீங்கிய பரிசுத்தமான நிலையில் விளங்குகின்ற எண்ணங்களின் எல்லையாக இருக்கின்றவனும் நாதத்தின் எல்லையாக இருக்கின்றவனும் ஆகிய இறைவனை கண்டு தரிசித்தவர்கள் அசைகின்ற எண்ணங்கள் இல்லாமல் எப்போதும் தரிசித்துக் கொண்டே இருக்கின்றவர்கள். ஐந்து பூதங்களுக்கும் எல்லையாக இருக்கின்றவனும் கற்றுக் கொடுக்கின்ற அனைத்து ஞானத்திற்கும் எல்லையாக இருக்கின்றவனும் ஆகிய இறைவனாகவே ஆகுகின்ற பக்குவத்தை பெறுவதற்கான செயல்களை செய்து நாதத்தின் எல்லையாக இருக்கின்ற இறைவனை பரிபூரணமாக உணர்ந்து கொள்பவர்களே பேரறிவு ஞானமாகவும் பேரன்பாகவும் ஒன்றாக கலந்து இருப்பவர்கள் ஆவார்கள். குறிப்பு: இறைவனை அடைந்து அவனது பேரறிவு ஞானமாகவும் பேரன்பாகவும் ஒன்றாக கலந்து இருப்பவர்களே ஞான நேயத்தர்கள் ஆவார்கள்.`,
   },
   {
@@ -142,7 +139,13 @@ The twin rings in ear lobes
 The twin rudraksha garland around the neck,
 And adopt the twin Mudra
 All, in amiable constancy.`,
-    elaborationEnglish: `“Presumably, the rishaba (bull) mudra and sula (trident) mudra. Vide Thevaram of St. Tirunavukkarasar beginning with`,
+    elaborationEnglish: `”Presumably, the rishaba (bull) mudra and sula (trident) mudra. Vide Thevaram of St. Tirunavukkarasar beginning with
+
+Ponnar Tiruvadi
+
+Mantras 1423 & 1424
+
+They who tread the twin paths of Chariya and Kriya remain amidable constancy in thought of Siva, and adore the Glorious Feet of the Lord. Their holy bodies adorned with the appropriate insignia, they sit still and impassive, chanting mantras. Thus their souls ascend to Siva.`,
     elaborationTamil: `இறைவனுக்கு இணையாக பேரழகு கொண்ட மரியாதைக்கும் மேன்மைக்கும் உரிய திருவடிகளை போற்றி வணங்கும் சாதகர்கள் சீரும் சிறப்புமாக ஒழுக்கத்துடன் பராமரிக்கும் தமது உடலில் இறைவனுக்கு இணையாக அழகாக இருக்கின்ற இரண்டு குண்டலங்களை தமது காதுகளில் அணிந்து கொண்டும் இறைவனோடு எப்போதும் சேர்த்தே வைத்து இருக்கின்ற இறைவனது இரண்டு சின்னங்களாகிய நந்தியும் சூலமும் வைத்தும் முறையான கயிற்றில் அழகாக கோர்க்கப்பட்டு இறைவனுக்கு இணையாக இருக்கின்ற ருத்திராட்ச மாலையை கழுத்தில் அணிந்து கொண்டும் இவை அனைத்தும் இறைவனுக்கு இணையாக இருக்கின்றது என்ற உறுதியான எண்ணத்தில் சிறிதளவும் குறைவு இல்லாமல் எப்போதும் தம்மோடு சேர்த்தே வைத்துக் கொண்டு உடலால் பூஜித்தும் உடலாலும் மனதாலும் வழிபட்டும் இருக்கின்ற சாதகர்களே அசுத்த சைவமாகிய சரியை கிரியை ஆகிய இரண்டு வழிமுறைகளைப் பின்பற்றுகிறவர்கள் ஆவார்கள்.`,
   },
   {
@@ -168,17 +171,7 @@ Of the Soul's ascension to Siva
 Of such are the peerless school of Saivas.`,
     elaborationEnglish: `The reference is to the 12 states of consciousness experience in the samadhi state, The twelfth state is the Final State of Void from whose bourne there is no retuming. For elaboration of the eleven consciousness experiences (avastas) preceding the twelfth, vide Tantra Eight For elaboration on the twelfth stage of consciousness experience, vide Mantra 1489, infra.
 
-They who transcended the nine spiritual Centres Verily saw God,
-
-Whom the nine continents seek;
-
-They saw the Continent beyond all continents They, indeed, are the Pure Suddha Saivas.
-
-Suddha Saivas transcending the nine spiritual centres see tht
-
-continent beyond the continents, and verily behold God.
-
-These are as avastas or states of the soul’ experience as it travels from the navel to the forehead throug the heart and neck chakra centres. They represent the states of wakefulness, dream, deep sleep, beyond-deep-sleep and so op, For a fuller discussion, vide ‘‘Saiva Siddhanta,” bs V. Paranjoti, pp.167-69`,
+The jnani holds mastery over the sacred lore on earth and the sixty-four attainments. He receives the vision of all worlds, inclusive of the ‘land of Mauna’. He sees the goal of all Vedas, and the Lord Himself.`,
     elaborationTamil: `தனது காதுகளில் ஒளி வீசிப் பிரகாசிக்கும் தங்கத்தால் அழகாக வார்க்கப்பட்ட கடுக்கன்கள் இரண்டையும் காதோடு சேர்த்து அணிந்து கொண்டு இறைவனது திருநாமத்தை ஓதுகின்ற தமது மரியாதைக்கும் மேன்மைக்கும் உரிய உடலுக்கு உள்ளே இறைவனது திருநாமத்தை ஓதுவதினால் உருவாகுகின்ற சக்திகளை தம்மை சுற்றியே செயல் படுத்தும் பூனூல் மற்றும் அதை மேம்படுத்தி செயல் பட வைக்கும் ருத்திராட்சம் ஆகிய இரண்டு மாலைகளையும் அணிந்து கொண்டு இவற்றின் செயல்பாடுகளை சோதனை செய்து கொண்டே பாடல் #457 இல் உள்ளபடி கழுத்துக்கு கீழே எட்டு அங்குலமும் கழுத்துக்கு மேலே நான்கு அங்குலம் சுற்றிக் கொண்டு இருக்கின்ற மூச்சுக்காற்றுடன் சேர்ந்து அசபையாக மந்திரங்களை உச்சரித்துக் கொண்டே அது சரியாக இயங்குகின்றதா என்பதை ஆராயந்து செயல் படுத்துபவர்களே அசுத்த சைவம் வழிமுறையை கடைபிடிக்கும் சைவர்கள் ஆவார்கள்.`,
   },
   {
@@ -197,6 +190,9 @@ Verily saw God,
 Whom the nine continents seek;
 They saw the Continent beyond all continents
 They, indeed, are the Pure Suddha Saivas.`,
+    elaborationEnglish: `Suddha Saivas transcending the nine spiritual centres see tht continent beyond the continents, and verily behold God.
+
+These are as avastas or states of the soul' experience as it travels from the navel to the forehead throug the heart and neck chakra centres. They represent the states of wakefulness, dream, deep sleep, beyond-deep-sleep and so op, For a fuller discussion, vide ''Saiva Siddhanta," bs V. Paranjoti, pp.167-69`,
     elaborationTamil: `பாடல் #867 இல் உள்ளபடி தமக்குள்ளும் தம்மைத் தாண்டியும் இருக்கின்ற 1. மூலாதாரம் 2. சுவாதிஷ்டானம் 3. மணிப்பூரகம் 4. அநாகதம் 5. விசுத்தி 6. ஆக்ஞா 7. சகஸ்ரதளம் 8. துவாதசாந்த வெளி 9. பரவெளி எனும் சந்திர மண்டலம் ஆகிய ஒன்பது சக்தி மயங்களையும் பாடல் #1424 இல் உள்ள பயிற்சியின் படி சாதகம் செய்து கண்டு உணர்ந்து கொண்டவர்களே உண்மையான சக்தி மயங்களை தரிசித்தவர்கள் ஆவார்கள். இவற்றை கண்டு உணர்ந்து கொண்ட சாதகர்கள் அந்த சக்தி மயங்களே கிடைப்பதற்கு மிகவும் அரிய பரம்பொருளான இறையாக இருப்பதை அறிந்து கொள்வார்கள். அதன் பிறகு சாதகத்தை தொடர்ந்து செய்து அந்த சக்தி மயங்களாக இருக்கின்ற இறை சக்தியே தாமாகவும் ஆகி இருப்பதை அவர்கள் உணர்ந்து கொள்வார்கள். இப்படி ஒன்பது சக்தி மயங்களாக இருக்கின்ற இறையை தரிசித்த சாதகர்களே கடுமையான சுத்த நெறியை இந்த உலகிலேயே பின்பற்றும் அசுத்த சைவர்கள் ஆவார்கள்.`,
   },
   {
@@ -237,7 +233,9 @@ But the path of Jnani
 Is the path that no evil ever crosses
 That his emblem, the holy path of Sanmarga (Jnana)
 So beloved of Suddha Saiva.`,
-    elaborationEnglish: `That his emblem, the holy path of Sanmarga (Jnana) So beloved of. Suddha Saiva.`,
+    elaborationEnglish: `Mantras 1427 & 1428
+
+Followers of Saivam wear the golden insignia of Siva and the smear of holy ashes. The path of jnana is Sanmarga, which no evil can obstruct. It is beloved of Suddha Saivam. A perfect jnani is the king of the entire realm of wisdom. He is the sun who pierces the massive lore of Vedanta/Siddhanta. He remains immortal, devoted ever to the Suddha Saiva way.`,
     elaborationTamil: `இறைவனது அம்சமாக இருக்கின்ற மணிகளை (உருத்திராட்சம், துளசிமணி, ஸ்படிகம் போன்றவற்றை) தங்கத்தால் கோர்த்து செய்து அணிந்து கொண்டும் இறையருளுக்கு கருவியாக இருக்கின்ற நறுமணப் பொருள்களை (விபூதி, குங்குமம், சந்தனம், செந்தூரம், நாமம் போன்றவற்றை) பூசிக் கொண்டும் இவற்றை கருவியாக கொண்டு பூஜை எனும் சாதகத்தை செய்கின்ற வழிமுறையானது நன்மையைக் கொடுக்கும் வழிமுறையாகும். இதற்கு கருவியாக இருக்கின்ற மணிகளும் பூசிக்கொள்ளும் நறுமணப் பொருட்களும் பலவிதமான நலங்களை அறிந்து கொள்ளுகின்ற ஞானத்தை கொடுக்கின்ற கருவியாகவும் இருக்கின்றன. தீமையைக் கொடுக்கும் வழிமுறைக்கான கருவி எதுவும் நன்மையின் நெறி வழியே செல்லுகின்ற சாதகருக்கு தடையாக உருவாகாமல் இருக்கவும் இந்த கருவிகள் உதவுகின்றன. இவை அனைத்தும் சத்தியத்தின் வழிமுறையை பின்பற்றி இறைவனை அடைவதற்கு சாதகம் செய்கின்ற சுத்த சைவர்களுக்கு உதவுகின்ற கருவிகளாக இருக்கின்றன.`,
   },
   {
@@ -245,7 +243,7 @@ So beloved of Suddha Saiva.`,
     tamil: `கேடறு ஞானி கிளர்ஞான பூபதி
 பாடறு வேதாந்த சித்தாந்த பாகத்தின்
 ஊடுறு ஞானோ தயனுண்மை முத்தியோன்
-பாடுறு சத்தசை வப்பத்த நித்தனே`,
+பாடுறு சுத்தசை வப்பத்த நித்தனே`,
     transliteration: `kēṭaṟu ñāṉi kiḷarñāṉa pūpati
 pāṭaṟu vētānta cittānta pākattiṉ
 ūṭuṟu ñāṉō tayaṉuṇmai muttiyōṉ
@@ -274,7 +272,9 @@ In time expanded into twenty and eight,
 They then took divisions three
 Into one truth of Vedanta-Siddhanta to accord
 That is Suddha Saiva, rare and precious.`,
-    elaborationEnglish: `By stating that the Agamas provide the base for both Vedanta and Siddhanta (which are equated by him), Mular makes it clear that the Vedanta he has in mind is not the same as that of the Acaryas. The one thing common to Vedanta, Siddhanta and Bodhanta is they all consider Knowledge as the ultimate path to Liberation.`,
+    elaborationEnglish: `The nine Agamas of yore, which expanded into twenty-eight, took three divisions (Mantra, Tantra and Upadesa) to accord into one, the truth of Vedanta/Siddhanta, unique and precious of Suddha Saiva.
+
+By stating that the Agamas provide the base for both Vedanta and Siddhanta (which are equated by him), Mular makes it clear that the Vedanta he has in mind is not the same as that of the Acaryas. The one thing common to Vedanta, Siddhanta and Bodhanta is they all consider Knowledge as the ultimate path to Liberation.`,
     elaborationTamil: `இறைவனை அடைவதற்கு வழிவகுக்கும் ஆகமங்கள் பாடல் #62 இல் உள்ளபடி ஒன்பது வகையாகவும் அவற்றின் முழுமையான சொத்தாக பாடல் #57 இல் உள்ளபடி 28 ஆகமங்களாகவும் இருக்கின்றன. எந்தவிதமான ஆசைகளும் இல்லாமல் இந்த 28 ஆகமங்களையும் கற்று உணர்ந்து அவற்றின் பயனால் இறைவனை அடைவதற்கு தடையாக இருக்கின்ற மூன்று விதமான பற்றுக்களை விட்டு விலகுவது எப்படி என்பதை ஆராய்ந்து அறிந்து கொண்டு அதனுடன் சேர்ந்து எந்தவிதமான எண்ணங்களும் இல்லாமல் வேதங்களுக்கு எல்லையாகவும் ஞானத்திற்கு எல்லையாகவும் இருக்கின்ற உண்மைப் பொருளாகிய இறைவனுடன் ஒன்றாக கலந்து தான் எனும் நிலை முடிந்து இறைவனும் தானும் வேறு வேறு இல்லை எனும் நிலையை அடைவதே கிடைப்பதற்கு மிகவும் அரிதான பெரும் பேறாகிய சுத்த சைவம் ஆகும்.`,
   },
   {
@@ -289,20 +289,14 @@ uytta parāparai yuḷḷām parāparai
 attaṉ aruṭcatti yāyeṅku māmē`,
     english: `1430: Doctrine of Grace in Suddha Saivam
 She transcends the worlds of Matter, Pure and Impure,
-And the seven states of Turiya awareness`,
-    elaborationEnglish: `And the categories of Real and Unreal,
-
+And the seven states of Turiya awareness
+And the categories of Real and Unreal,
 She is Paraparai;
-
 She grants the soul deliverance;
-
 She is ever within;
-
 She is the Lord’s Divine Grace,
-
-The Arul Sakti that is all pervasive.
-
-She, the Lord’s Divine Grace, and the all-pervasive Arul Sakti, holds superiority over the worlds of matter — pure and impure — the seven states of turiya consciousness, and the categories of real and unrea! She is the Paraparai, who is inherent in Para.`,
+The Arul Sakti that is all pervasive.`,
+    elaborationEnglish: `She, the Lord’s Divine Grace, and the all-pervasive Arul Sakti, holds superiority over the worlds of matter — pure and impure — the seven states of turiya consciousness, and the categories of real and unrea! She is the Paraparai, who is inherent in Para.`,
     elaborationTamil: `சுத்த மாயையில் இருக்கும் நனவு, கனவு ஆகிய இரண்டு நிலைகளும் அசுத்த மாயையில் இருக்கும் நனவு, கனவு, உறக்கம் ஆகிய மூன்று நிலைகளும் துரியம் துரியாதீதம் ஆகிய இரண்டு நிலைகளும் கூட்டி மொத்தம் ஏழு விதமான நிலைகளையும் அனுபவிக்கும் நிலையாக இருக்கின்ற ஆன்மாவையும் நிலையற்றதாக இருக்கின்ற உடலையும் கடந்து இறைவனும் இறைவியும் சேர்ந்து இருக்கின்ற பரம்பொருளே அனைத்திற்கும் உள்ளே இருந்து இயக்கி அவற்றை மேல் நிலைக்கு கொண்டு செல்கின்ற பரம்பொருளாகும். அதுவே அப்பனாகவும் அருள் மயமாகிய சக்தியாகவும் ஆகி அனைத்துமாகவும் ஆகி இருக்கின்றது. ஏழுவிதமான நிலைகள்: சுத்த மாயை – நனவு – இறைவன் இருக்கின்றான் என்கிற நினைவுடன் இறைவனோடு இருக்கின்ற நிலை. சுத்த மாயை – கனவு – இறைவனுடன் தாமும் சேர்ந்து இருக்கின்றோம் என்ற எண்ணத்தில் இருக்கின்ற நிலை. அசுத்த மாயை – நனவு – உலகத்தில் பார்க்கின்ற அனைத்தையும் உண்மை என்று நினைத்து இருக்கின்ற நிலை. அசுத்த மாயை – கனவு – உலகத்தில் பார்க்காத விஷயங்களையும் உண்மை என்று நினைத்து இருக்கின்ற நிலை. அசுத்த மாயை – உறக்கம் – உலகத்தில் சுய நினைவின்றி மாயையில் மயங்கி இருக்கின்ற நிலை. துரியம் – பேருறக்கம் – இறைவனை மட்டுமே எண்ணிக்கொண்டு உயிர்ப்புடன் செயல் அற்று இருக்கின்ற சமாதி நிலை. துரியாதீதம் – உயிர்ப்படங்கல் – எந்த எண்ணங்களும் செயல்களும் இன்றி உயிரும் அடங்கி இருக்கின்ற சமாதி நிலை.`,
   },
   {
@@ -364,6 +358,9 @@ They followed the Twelve-Way route
 To divine rapture
 That their vision is,
 Those of Suddha Saiva Way.`,
+    elaborationEnglish: `Mantras 1433 & 1434
+
+Concentrating the thought on perfection and becoming unconscious of self's existence leads siddhas to reach the end of the Vedas, and by following the twelve way route they receive the vision of the Suddha Saiva way. Jnana stills the flow of thought which even yogis find it difficult to practise, and through destruction of the self, he finds identity in Siva.`,
     elaborationTamil: `பாடல் #1432 இல் உள்ள அனைத்து தத்துவங்களையும் முறைப்படி தமக்குள் பரிபூரணமாக ஆராய்ந்து உணர்ந்து ஆதியிலிருந்தே சேர்த்து வைத்து இருக்கும் மும்மலங்களங்களையும் நீக்குகின்ற இறைவன் அருளிய போதனைகளால் வேதத்திற்கு எல்லையாக இருக்கின்ற இறைவனை தொழுது வணங்கி இறையருளால் தனக்குள் பெற்ற பேரின்பத்தில் சீராக இருக்கும் படி மொத்தம் 12 அங்குலமும் (கழுத்துக்கு கீழே எட்டு அங்குலம் கழுத்துக்கு மேலே நான்கு அங்குலம்) மூச்சுக்காற்றை மந்திரங்களோடு சேர்த்து சுவாசிக்கும் முறைப்படி சுவாசித்து நீண்ட காலம் சாதனை செய்கின்ற சாதகங்களுக்கு காரணமாக இருப்பது மார்க்க சைவ முறைப்படி நடக்கும் சுத்தமான சைவர்கள் தமக்குள் பரிபூரணமாக ஆராய்ந்து பெற்ற இறை காட்சியே ஆகும்.`,
   },
   {
@@ -378,10 +375,10 @@ pēṟāṉa pāvaṉai pēṇi neṟiniṟṟal
 kūṟāku ñāṉi caritai kuṟikkilē`,
     english: `1434: Way of Jnani
 He stills the incessant flow of thought
-That even Yoga's severity stills not,`,
-    elaborationEnglish: `With Jnana he effaces the Self
-
-And in Bhava identifies with Siva; That in brief is worthy Jnani’s story.`,
+That even Yoga’s severity stills not,
+With Jnana he effaces the Self
+And in Bhava identifies with Siva;
+That in brief is worthy Jnani’s story.`,
     elaborationTamil: `எந்தக் காலத்திலும் மாறாத உண்மையான ஞானத்தை தமக்குள்ளே ஆராய்ந்து அறிந்து அந்த அறிவால் பரம் பொருளை அடையும் மாபெரும் யோகத்தை செய்வதும் அதன் பயனால் தெளிவாக இறையை உணர்ந்து கொள்ளாத சிந்தனையை தெளிவு படுத்தி சிவம் எனும் பேரன்பாக ஆக்குவதும் அதன் பயனால் கிடைப்பதற்கு மிகவும் அரிய பேறாக இருக்கும் அருள் பாவனைகளை பெற்று அவற்றை கடைபிடித்து அருள் வழியே மாறாமல் நிற்பதும் ஆகிய இந்த மூன்றும் மார்க்க சைவத்தின் ஞான வழியைக் கடைபிடிக்கும் சைவர்கள் குறிப்பாக வைத்து சாதகம் செய்கின்ற சரியை எனும் முறைக்கு அங்கங்கள் ஆகும்.`,
   },
   {
@@ -456,16 +453,14 @@ pāṭoṉṟu pācam pacuttuvam pāḻpaṭac
 cāṭum civapō takarcutta caivarē`,
     english: `1438: Suddha Saivam Defined
 They are not for outward form and attire,
-They are not for pomp and ceremony,`,
-    elaborationEnglish: `Abiding in the Immaculate Lord,
-
-They bring to dire destruction,
-
-The Soul’s egoity and its bondage beginningless Thus they onward leap,
-
+They are not for pomp and ceremony,
+Uprooting all bond and desire,
+Abiding in the Immaculate Lord,
+They bring to dire destruction
+The Soul’s egoity and its bondage beginningless
+Thus they onward leap
 With Siva’s light suffused
-
-—They, of Suddha Saiva Way.`,
+They, of Suddha Saiva Way.`,
     elaborationTamil: `வெளிப்புற வேடங்கள் எதுவும் இன்றி உலக நியதிகளைக் கடந்து இருக்கின்ற இறைவனின் மேல் மட்டும் எண்ணங்களை வைத்து எந்தவிதமான ஆடம்பரங்களும் இல்லாமல் ஆசைகளையும் பாசங்களையும் நீக்கி விட்டு பதியாகிய இறைவனை அடைவது மட்டுமே குறிக்கோளாகக் கொண்டு பாசத் தளைகளும் இறைவனிடமிருந்து ஆன்மா தனித்து இருக்கும் பசு தத்துவமும் அழிந்து போகும் படி செய்து இறைவனை மட்டுமே சார்ந்து இருந்து இறைவன் அருளிய போதனைகளை முறைப்படி கடை பிடிப்பவரே கடும் சுத்த சைவர்கள் ஆவார்கள்.`,
   },
   {
@@ -540,9 +535,8 @@ pāṟpara cāyucciya mākum patiyē`,
 When this Truth, beyond words, you perceive
 The Siva Tattvas five bend below;
 The light of Supreme Jnana dawns,
-Illumines the Soul's path`,
-    elaborationEnglish: `To the Finite goal
-
+Illumines the Soul's path
+To the Finite goal
 Of Sayujya union in Lord.`,
     elaborationTamil: `சார்ந்து நிற்பதற்கு மிகவும் அரியதாக இருக்கின்ற அனைத்தும் இறைவன் ஒருவனே எனும் தத்துவம் இறையருளால் கிடைக்கப் பெற்றால் ஆசைகளை நீக்குவதற்கு மிகவும் அரியதாகிய ஐந்து புலன்களும் அடங்கி விடும். அதன் பிறகு மேலே திகழ்கின்ற உண்மை ஞானமானது இருளான வீட்டில் ஏற்றி வைத்த விளக்கு ஒளியை கொடுப்பது போல மாயை நீங்கிய உண்மையை விளங்க வைக்கும் ஒளியாக நிற்கும். அப்போது இந்த உலகத்திலேயே கடும் சுத்த சைவத்தை கடைபிடிக்கின்ற சைவர்கள் தாம் இருக்கின்ற இடத்திலேயே பரம்பொருளோடு எப்போதும் ஒன்றாக சேர்ந்தே இருக்கின்ற சாயுச்சியம் எனும் நிலை கிடைக்கப் பெறுவார்கள்.`,
   },
@@ -581,6 +575,9 @@ To be one, Life within Life-that the luminous path of Jnana;
 To seek the Light within Life-that the mighty path of Yoga;
 To invest idol with Life-that the external way of Kriya
 To adore Siva in love-that the basic worship of Chariya.`,
+    elaborationEnglish: `Mantras 1444 & 1445
+
+Jnana is to be one with Siva - life within Life. Seeking that light within Life is Yoga. The external acts investing an image with vibrant spirituality if Kriya; and to adore Siva in intense love is Chariya. Constant worship and adoration of His Name and glory make the Lord to erect a temple within you.`,
     elaborationTamil: `உயிர்களுக்குள் ஆன்மாவாக இறைவன் நிற்கின்ற விதத்தை தமக்குள்ளே ஆராய்ந்து அறிந்து கொள்ளுதல் ஆத்ம விசாரமாகிய (நான் யார் என்று அறிந்து கொள்வது) ஞான பூசையாகும். உயிர்களுக்குள் ஒளியாக இருக்கும் இறைவனை தமக்குள்ளே தரிசித்தல் மாபெரும் சாதனையாகிய யோக பூசையாகும். உருவச் சிலைகள் இறை சக்தியை பெறும்படி மந்திரங்கள் சொல்லி கிரியைகள் செய்து சக்தியூட்டி அந்த சிலைகளுக்கு அபிஷேகமும் ஆராதனையும் செய்வது வெளிப்புற பூசையாகும். எந்தவிதமான பூசைகளை செய்தாலும் அந்த பூசைக்கான செயல்களை இறைவன் மேல் கொண்ட பேரன்போடு செய்வது மானசீகமாகிய சிவ பூசையாகும். இந்த நான்கு விதமான பூசைகளே சரியை ஆகும்.`,
   },
   {
@@ -616,9 +613,7 @@ They who follow path of Chariya are Bhaktas;
 In Kriya the devoted souls wear holy emblems,
 They who practise Iyama and the rest are Yogis;
 And they who reach Siva Jnana are Jnana Siddhas true.`,
-    elaborationEnglish: `Bhakta tollow the path of Chariya, and devotees wear holy
-
-svinbols in Kriya. Yogis tread the paths of yama and the rest, and trac siddhars attain Siva jnana.`,
+    elaborationEnglish: `Bhakta follow the path of Chariya, and devotees wear holy symbols in Kriya. Yogis tread the paths of yama and the rest, and trac siddhars attain Siva jnana.`,
     elaborationTamil: `இறைவனை அடையும் வழிமுறையான சரியையை மேற் கொண்டு கிரியைகளை செய்கின்றவர்களே பக்தர்கள் ஆவார்கள். அந்த கிரியைகளின் செயலின் தன்மையையே தாமும் அடைந்து அதன் பயனால் அருள் வடிவத்தில் இறை தன்மையாகவே அவர்கள் ஆகின்றார்கள். அதனால் மும்மலங்களும் நீங்கி சுத்தமாகிய தமது உடலுக்குள்ளே ஆதியிலிருந்தே இருக்கின்ற ஆன்மாவானது எது என்பதை உணர்ந்து கொண்டு தூய்மையான யோகிகள் ஆகின்றார்கள். அதன் பிறகு பரம்பொருளான சிவத்தின் உண்மை ஞானத்தை தமக்குள்ளே சென்று உணர்ந்து அடைந்து சித்தர்கள் ஆகின்றார்கள். கருத்து: இறைவனை அடையும் வழிமுறையான சரியையை முறைப்படி கடை பிடிப்பவர்கள் அதனாலேயே யோகியர்களாகவும் சித்தர்களாகவும் ஆக முடியும்.`,
   },
   {
@@ -691,7 +686,7 @@ Samaya is the ordination rite for self-surrender in Chariya
 Visesha, the rite for incantation of Siva Mantra in Kriya
 Nirvana helps Kalas purification in Yoga
 And Abhisheka for Grace to reach in Jnana.`,
-    elaborationEnglish: `Samaya Diksa, the rite for repetition of Siva mantra in Knya worship is Visesa in Chariya. Nirvana Diksa in Chariya helps purify the kalas in Yoga, and the Abhiscka rite in Chariya is for Grace to be reached in Jnana.`,
+    elaborationEnglish: `The ordination rite for self-surrender in Chariya worship in Samya Diksa, the rite for reception of Siva mantra in Kriya worship is Viesta in Chariya. Nirvana Diksa in Chariya helps purify the kalas in Yoga, and the Abiseka rite in Chariya is for Grace to be reached in Jnana.`,
     elaborationTamil: `சமயம் சொல்கின்ற முறைப்படி அமைக்கப்பட்ட பலவிதமான கோயில்களுக்கு சென்று அவற்றை சுற்றி வந்தால் தன்னுடைய முயற்சியால் எல்லா செயல்களும் நடக்கின்றன என்ற எண்ணம் நீங்கி அனைத்தும் இறைவனாலே நடக்கின்றது என்ற எண்ணம் வந்து விடும். அதன் பிறகு அந்த கோயில்களில் அமைந்து இருக்கின்ற சிறப்பானதும் பாதுகாக்க கூடியதும் ஆகிய மந்திர உச்சாடனங்கள் தம்மை தூய்மை படுத்தி விடும். அதன் பயனால் சமயம் என்று சொல்லப்படுகின்ற எந்த விதிமுறைகளும் அதனைச் சார்ந்த எண்ணங்களும் நீங்கும் படி அறிவை சுத்தம் செய்து விடும். அதன் பிறகு தன்னுடை சுத்தமான அறிவில் இறைவனை நிலைபெறும் படி செய்து இறையருளால் பெற்ற ஞானத்தின் வழியில் தாம் செய்கின்ற அனைத்தையும் இறைவனுக்கு அர்ப்பணிக்கின்றார். குறிப்பு: இந்தப் பாடல் சுவடிகளில் இல்லாததால் பிற்சேர்க்கை பாடலாக இருக்கலாம்.`,
   },
   {
@@ -711,6 +706,9 @@ In which direction can we say is He not?
 So, do take refuge under His Holy Feet
 Then shall you cross the roaring Sea of Karma,
 And safe reach the Shores of Beyond.`,
+    elaborationEnglish: `Mantras 1451 & 1452
+
+The tempestuous sea of karma can be crossed and the shores beyond can be reached by seeking refuge under the Holy Feet of Him, who pervades the ten directions around. All the fragrant sandal trees and the rarest flowers can hardly take you to the Holy Feet of God. There is an easier way to reach Him - that is, by realising His presence in the depths of your heart, unfettering all worldly shackles`,
     elaborationTamil: `பத்து விதமான திசைகளுக்கும் பரம்பொருளாக இருக்கின்ற ஒரு தெய்வம் இருக்கின்றது. அந்த தெய்வத்தை எந்த விதத்திலும் போற்றி வணங்குவதற்கு இயலாதவர்கள் என்று எவரும் இல்லை (அனைவராலும் இயலும்). ஆகவே தூய்மையான தாமரை மலர் போன்று இருக்கின்ற அவனது மேன்மைக்கும் மரியாதைக்கும் உரிய திருவடிகளின் அமைதியையும் குளிர்ச்சியையும் தருகின்ற நிழலே சரணாகதி என்று சரணடைந்தால் மாயையில் சிக்கிக்கொண்டு தத்தளிக்கின்ற வினைகளால் சூழ்ந்த கடல் போன்ற இந்த உலக வாழ்க்கையை சார்ந்து இல்லாமல் அந்த இறை சக்தியை தமக்குள் தரிசிக்கலாம். கருத்து: இறைவனை அடைவதற்கு அருளப்பட்ட சரியை கிரியை யோகம் ஞானம் ஆகிய நான்கு விதமான வழிமுறைகளில் சரியை செய்வதற்கு ஊனமில்லாத ஆரோக்கியமான உடல் வேண்டும். யோகம் செய்வதற்கு உறுதியான உடலும் மனமும் வேண்டும். ஞானம் மூலம் இறைவனை அடைவதற்கு குருவருளும் திருவருளும் இருக்க வேண்டும். ஆனால் கிரியையை எவரும் எந்த விதத்திலும் செய்ய முடியும்.`,
   },
   {
@@ -752,7 +750,7 @@ Great is His love, as of the cow to her calf;
 And bounteous His Grace, beyond beyond count.`,
     elaborationEnglish: `He groups you among His children of wisdom when He is sought with a loving heart. Great is His love and bounteous His Grace infinite.
 
-The simile of the cow and the calf to describe the relationship : between God and the individual is as old as the Atharva Veda. west ovrbd srevevmid`,
+The simile of the cow and the calf to describe the relationship : between God and the individual is as old as the Atharva Veda.`,
     elaborationTamil: `நேர் வழியில் செல்ல முடியாமல் வினைகளால் அலைக்கழிக்கப்பட்டு விதி வழியே செல்லுகின்ற பிள்ளைகளாக இருந்தாலும் ஒலி பொருந்திய சிலம்புகளை அணிந்திருக்கும் இறைவனின் திருவடிகளை போற்றி வணங்கிக் கொண்டே இருங்கள். அப்படி வணங்கிக் கொண்டே இருந்தால் அவனது அருளால் ஞானம் பெற்ற பிள்ளைகளாக ஆகி தமக்கு நடுவில் இருக்கும் சுழுமுனை நாடியில் இருந்து அமிழ்தம் சுரக்கும் படி கொடுக்கும். அந்த அமிழ்தத்தை அருந்திக் கொண்டு இருந்தால் வானத்தில் இருக்கும் பிள்ளைகளாகிய தேவர்களும் சென்று கைகூப்பி தொழுகின்ற ஆன்மாவைக் கொண்டு இருக்கின்ற பிள்ளைகளாகிய உயிர்களுக்கு எல்லாம் அதிபதியாகிய இறைவனின் திருவருளை நிரம்புகின்ற பாத்திரமாக நீங்கள் ஆகிவிடுவீர்கள்.`,
   },
   {
@@ -772,6 +770,9 @@ Her-He consorts, sharing Himself with Her
 To adore Him is the duty of humans here below;
 And that which fashions a place in Lord's Abode
 Is Bhakti true.`,
+    elaborationEnglish: `Mantras 1454 & 1455
+
+He is one with his consort, who fashioned this world in eight directions. It is the jiva's duty to adore and worship Him. Commencing with the performance of Chariya and Kriya, the devotee is blessed with the grace of yoga pure and this takes him to jnana, leading finally to union with Siva, in the way the Guru shows.`,
     elaborationTamil: `கிரியை வழிமுறையை கடைபிடிக்கின்றவர்கள் இந்த உடலுக்குள் இருப்பது இறை சக்தியே என்பதை அறிந்து கொண்டு அதை பணிந்து வணங்கி எட்டு திசைகளிலும் இருக்கின்ற மண்டலங்கள் அனைத்திலும் நிகழ்கின்ற அனைத்து விதமான செயல்களையும் செய்கின்ற ஒளியாக இருக்கின்றதும் அதுவே என்பதை எடுத்துச் சொன்னால், இந்த உலகத்தில் தாம் செய்ய வேண்டிய செயல்கள் என்று மனிதர்களால் செய்யப் படுகின்ற அனைத்து செயல்களும் இறைவனே செய்கின்றான் என்பதை அறிந்து கொண்டு அனைத்திற்கும் அதிபதியாக இருக்கின்ற இறைவனுக்கே தாம் செய்கின்ற அனைத்து செயல்களையும் செய்வதாக எண்ணிக் கொண்டு அவற்றை அன்போடு செய்வது கிரியை வழியில் செல்லுகின்ற பக்தியின் முறைமை என்று கண்டு கொள்ளுங்கள்.`,
   },
   {
@@ -808,7 +809,9 @@ At them I pray: "Lord, Grant me Your Grace!"
 And in love I melt and daily adore;
 And the Lord that is Light within my bones
 Himself does reveal unto me.`,
-    elaborationEnglish: `Samaya, Visesa, Nirvana, and Abhiseka are four ordinations in Kriya worship. also.`,
+    elaborationEnglish: `By blessing His Grace and Love through daily worship, the Lord reveals Himself - He that is the light within our bones.
+
+Samaya, Visesa, Nirvana, and Abhiseka are four ordinations in Kriya worship. also.`,
     elaborationTamil: `இறைவன் மேல் கொண்ட உண்மையான அன்பினால் உருகுபவனும் தினந்தோறும் தாம் செய்கின்ற அனைத்து விதமான செயல்களையும் இறைவனுக்காகவே செய்வதாகவே நினைத்துக் கொண்டு செய்பவனும் தூய்மையான பசும் பொன்னால் செய்யப்பட்டது போல பிரகாசிக்கின்ற திருமேனியையும் செந்தாமரை மலர் போன்ற திருவடிகளையும் கொண்டு தமக்குள் இருக்கும் சோதி வடிவான இறைவனாகவே தமக்கு முன்பு நிற்கின்றவர்கள் அனைவரையும் பார்ப்பவனும் அவர்கள் சொல்லுகின்ற அனைத்துமே தமக்கு இறைவன் கொடுத்த அருளாக எடுத்துக் கொள்கின்றவனும் ஆகிய பக்தனின் எலும்புகளால் மூடியிருக்கும் உடலுக்கு உள்ளே தங்கம் போல பிரகாசிக்கின்ற சோதியாக பக்தன் இருக்கின்ற இடத்திலேயே நிற்கின்றான் இறைவன்.`,
   },
   {
@@ -828,6 +831,7 @@ Unto a wooden stake they sit immobile,
 Impervious to tickle or to thrust,
 To the wise yogins who thus set their purpose high,
 Lord His Grace grants.`,
+    elaborationEnglish: `Yogis receive the Grace of the Lord when they course the kundalini through the six centres, sitting immobile, unperturbed by tickle or thrust, concentrating on the single aim.`,
     elaborationTamil: `இறைவனை அடைவதற்கு என்று குருநாதர் அருளிய நெறிமுறைகளின் வழியாகவே மனதை செலுத்தி அந்த வழிமுறையில் சிறிது அளவும் குறை இல்லாமல் முறைப்படி செய்து அதிலேயே மனதை ஒன்றி வைத்து தரையில் ஊன்றி வைத்த கழி அசையாமல் இருப்பதைப் போலவே தாமும் எதனாலும் அசையாமல் இருந்து, மழை பொழிந்தாலும் காற்று அடித்தாலும் அதனால் சிறிதும் அசையாத கழியைப் போலவே தம்மை சுற்றி எது நடந்தாலும் அதனால் பயம் என்ற உணர்வே சிறிது அளவும் இல்லாமல் இறைவனை அடைவது மட்டுமே குறிக்கோளாகக் கொண்டு அவனை தமக்குள் அறிந்து தெளிந்தவர்களுக்கு இறைவனோடு ஒன்றாக கூடுவது இயலும்.`,
   },
   {
@@ -846,7 +850,9 @@ You know Him not, albeit through aeons and aeons of time;
 The Gods-Hari of the Ocean bed and Aya, the Creator-
 In vain have sought Him through countless vista of Time
 He is at the Pinnacle, beyond, beyond their reach.`,
-    elaborationEnglish: `He is at the Pinnacle, beyond, beyond their reach.`,
+    elaborationEnglish: `Mantras 1458 & 1460
+
+Realise Him, the pinnacle beyond our understanding as Timeless Eternity. Siva's Grace blossoms out of jiva as hidden fragrance comes out of the flower. The yogi, unmoved as a painted picture, cognises Him, who is all pervasive, and immanent too within him. Then is the destruction of darkness, that is the seed of the endless birth and rebirth.`,
     elaborationTamil: `ஊழிக்காலம் ஒவ்வொன்றிலும் ஊழியாக இருந்து அனைத்தையும் அழித்து மீண்டும் உருவாக்குகின்ற இறைவனை யோகத்தின் வழியால் சென்று தமக்குள் உணர்ந்தவர்களை தவிர வேறு யாராலும் உணர இயலாது. ஊழிக்காலம் ஒவ்வொன்றிலும் ஊழியாக இருந்து அனைத்தையும் அழித்து மீண்டும் உருவாக்குகின்ற இறைவனை தமக்குள் உணர்ந்து கொண்ட யோகியர்கள் அந்த ஊழிக்காலத்தோடு தானும் ஒட்டாமல் விலகி இறைவனை மட்டுமே சார்ந்து இருப்பார்கள். பாற் கடலில் பள்ளி கொண்டு அமர்ந்து இருக்கும் திருமால் அவரது தொப்புள் கொடியில் இருக்கும் தாமரை மலரில் வீற்றிருக்கும் பிரம்மன் என்று இருக்கின்ற தெய்வங்களும் ஊழிக்காலத்தோடு ஒட்டாமல் இருக்கின்றார்கள். ஊழிக்காலம் எவ்வளவுதான் இவர்களை அழிக்க முயற்சி செய்தாலும் அதனால் அழிக்க முடியாத ஒரு மாபெரும் உயரத்தில் இருந்து அவர்களை பாதுகாக்கின்ற அரனாக இறைவன் இருக்கின்றான். கருத்து: பாடல் #1457 இல் உள்ளபடி யோகம் செய்து தமக்குள் இறைவனை உணர்ந்து அவனை மட்டுமே சார்ந்து இருக்கின்றவர்களை ஊழிக்காலம் எவ்வளவு முயன்று பார்த்தாலும் அழிக்க முடியாத அளவு பாதுகாக்கின்றான் இறைவன்.`,
   },
   {
@@ -868,13 +874,6 @@ Sitting unmoved like painted picture
 The yogi realizes Him within
 Unto the planted pole is He,
 Which the musk-cat embraces, its fragrance to shed.`,
-    elaborationEnglish: `(Psst IMANEEG epoals grGw. 1460 Seek God Within You
-
-You say, “I have realized God’ Yet you have not seen Him that is but within you;
-
-‘Nandi abides subtle as fragrance within flower;
-
-Seek Hiin in singleness of your thought Then shall your darkness of Impurities vanish The darkness that is the seed of birth and rebirtt`,
     elaborationTamil: `மலராத பூவிற்குள்ளும் நறுமணம் கலந்து இருக்கின்ற முறையை போலவே ஜீவாத்மாவிற்கு உள்ளே சிவம் எனும் பரம் பொருளானது கலந்து இருக்கின்றது. பூவானது மலர்ந்த பிறகு அதனது நறுமணம் வெளிப்படுவது போலவே வரைந்து வைத்த ஓவியம் போல எதனாலும் அசையாமல் யோகத்தில் இருந்து இந்த முறையை தமக்குள்ளே உணர்ந்து அறிந்து கொண்டவர்களுக்கு, கஸ்தூரியோடு சேர்ந்து இருக்கும் நறுமணம் போல தரையில் நடப்பட்ட கழியைப் போல அசையாமல் இருக்கின்ற யோகியர்களின் பக்குவப்பட்ட ஆன்மாவிற்குள் சேர்ந்து இருக்கின்ற சிவம் வெளிப்படும்.`,
   },
   {
@@ -907,7 +906,11 @@ paḻittalaip pācap piṟaviyum nīṅkā
 vaḻittalaic cōmaṉō ṭaṅki yarukkaṉ
 vaḻittalaic ceyyum vakaiyuṇarn tēṉē`,
     english: `1461: Yoga Shows the Way
-Neither mantra, nor song, nor arts four and sixty`,
+Neither mantra, nor song, nor arts four and sixty
+Ever sunders birth and its accursed bonds;
+Then did I take to Yoga's way,
+And lo! I met the Sun, Moon and Fire on the way to Cranium
+And they showed the Supreme Way!`,
     elaborationEnglish: `Neither mantra nor song, nor the sixty-four arts can sever birth and its accursed bonds. Yoga leads to the supreme Way to the sublime. Yogic practice turns one a true tapasvin. He becomes one with the heavenly beings, realising the true word. Yogis vision Him in single-mindedness.`,
     elaborationTamil: `பாடல் #1457 இல் உள்ளபடி அசையாத மனதுடன் செய்யாமல் அலைகின்ற மனதுடன் செய்யப்படுகின்ற எழுதப் பட்ட எழுத்துக்களும் அவற்றோடு சேர்ந்து பாடுகின்ற பாடல்களும் இவற்றை கொண்டு இருக்கும் அறுபத்து நான்கு கலைகளும் ஆகியவற்றால் இறைவனை அடையாமல் வாழ்க்கையை வீணடிக்கின்ற பழிக்கு தலைமையாக இருக்கின்ற பாசத்தையும் அதனால் எடுக்கின்ற பிறவிகளையும் ஒருவரால் நீக்கி விட முடியாது. பாசத்தையும் பிறவியையும் நீக்குகின்ற வழிக்கு தலைமையாக இருக்கின்ற சந்திர கலையோடு அக்கினி கலையையும் சூரிய கலையையும் சேர்த்து பயன்படுத்துகின்ற வழிமுறைக்கு தலைமையாக இருக்கின்ற யோகத்தை அசையாத மனதுடன் செய்கின்ற வகைகளை எமக்குள் செய்த யோகத்தினால் யாம் உணர்ந்து கொண்டோம். குறிப்பு: பாசமும் பிறவிகளும் நீங்கி இறைவனை அடைவதற்கு எந்த முறையை பயன்படுத்தினாலும் அதில் அசையாத மனதுடன் செய்தால் மட்டுமே அடைய முடியும்.`,
   },
@@ -967,12 +970,13 @@ How many, how many, thy fell below;
 And yet, the myriad Siddhas, Devas and Supreme Beings Three,
 All redeemed adore Him
 Saying "You, Our Father!"`,
+    elaborationEnglish: `Monarchs and anchorites have fallen due to the pursuit of yoga in fickleness. But myriad siddhars, devas and the three Gods adore Him redeemed.`,
     elaborationTamil: `ஒன்றாக இருக்கும் செம்மையான கோலைப் போல வீற்றிருந்து அழிவு இல்லாத மாபெரும் தவத்தை புரிந்தவர்களில் எத்தனையோ ஆயிரம் பேர்கள் அதை தொடராமல் விட்டு விட்டதால் வீழ்ந்து போனவர்கள் என்று எண்ணிக்கை இல்லாமல் இருக்கின்றார்கள். அப்படி விட்டு விடாமல் தொடர்ந்து மாபெரும் தவத்தை புரிகின்றவர்களை சித்தர்களும் தேவர்களும் மும்மூர்த்திகளும் பெருமையுடன் எங்களின் அப்பனான இறைவன் இவனே என்று கூறி அவரோடு அன்பு கொண்டு இருப்பார்கள்.`,
   },
   {
     id: 1466, tantraId: 5, verseNumber: 1465,
     tamil: `யோகிக்கு யோகாதி மூன்றுள கொண்டுற்றோர்
-ஆகத் தருகிரி யாதி சரியையாந்
+ஆகத் தகுகிரி யாதி சரியையாந்
 தாகத்தை விட்ட சரியையொன் றாம்ஒன்றுள்
 ஆதித்தன் பத்தியுள் அன்புவைத் தேனே`,
     transliteration: `yōkikku yōkāti mūṉṟuḷa koṇṭuṟṟōr
@@ -1023,7 +1027,9 @@ None better a religious faith;
 Nothing else than Jnana can confer liberation true;
 They that are exalted in Jnana
 Are truly exalted among men.`,
-    elaborationEnglish: `They that are exalted in Jnana Are truly exalted among men.`,
+    elaborationEnglish: `Mantras 1467 & 1468
+
+Jnana is the most exalted path and nothing else can confer final liberation. Mastery over consciousness, egoity, will and the mind's cognizational activity is real mastery in Jnana.`,
     elaborationTamil: `ஞானத்தை விட மேலானதாக அறியப் படுகின்ற நெறி முறைகள் என்று எதுவும் எந்த நாட்டிலும் இல்லை. ஞானத்தை மேலானது என்று எடுத்துக் கொள்ளாத எந்த சமயமும் நன்மையானது இல்லை. ஞானத்தை விட்டு விட்டு இருக்கின்ற எந்த வழிமுறையும் நன்மையான முக்தி நிலையை கொடுக்காது. ஆதலால், ஞானத்தில் மிகவும் மேன்மை பெற்றவர்களே மனிதர்களில் மிகவும் மேன்மையானவர் ஆவார்கள்.`,
   },
   {
@@ -1125,6 +1131,9 @@ And thus does he reach the surging waters
 Of the Crescent Moon's sphere,
 And there, rid of Impurities,
 He himself the Effulgent Light becomes.`,
+    elaborationEnglish: `Mantras 1472 & 1473
+
+The 'boat of life' (Jnana) aids the jnani to cross to the surging waters of the crescent moon's sphere. There, he becomes the divine light. Jnana embraces all the four paths - Chariya, Kriya, Yoga, and Jnana, and the jnani attains all the four stages they bring in.`,
     elaborationTamil: `பாடல் #1471 இல் உள்ளபடி இறைவனை அடைவதற்கு தேவையான வழிமுறையை அறிந்து கொண்டு அதை விடாமல் கடை பிடித்ததால் உண்மையான ஞானம் உருவாகி மேல் நிலைக்கு எழுந்து இருக்கின்ற ஒரு ஞானியின் சிந்தைனைக்கு உள்ளே இன்னமும் இறைவனை அடைவதற்கு தடையாக இருக்கின்ற ஆணவம் கன்மம் முதலிய குற்றங்கள் பிறவியின் காரணத்தினால் விளைந்து அவர் எதிர்கொள்கின்ற வாழ்க்கையை காட்டு வழி போல முழுவதும் கடினமாக வைத்து இருக்கும். அப்போது அவர் பெற்ற ஞானத்தின் பயனால் அவரது கடினமான வாழ்க்கையை மாற்றி அறிவு ஞானமாக இருக்கின்ற மண்டலத்தில் அமிழ்த நீரை வைத்து இருக்கும் சுழுமுனை நாடியின் வழியாக அமிழ்தத்தை ஊறச் செய்து இறைவனை அவர் அடைவதற்கு தடையாக இருக்கின்ற அனைத்து மலங்களையும் அதன் மூலம் நீக்கி விட்டு நிலைபெற்று நின்று எப்போதும் அவரோடு சேர்ந்தே இருக்கின்ற இறைவனின் ஜோதி வடிவமாகவே அவரையும் ஆக்கி விடும்.`,
   },
   {
@@ -1160,6 +1169,7 @@ The Jnani attains all the four stages in Jnana;
 Jnana-in-Jnana is to transcend the "I" and "Mine"
 Yoga-in-Jnana is to envision the Light of Nadanta;
 Kriya-in-Jnana is to seek the liberation by good.`,
+    elaborationEnglish: `Transcending the "I" and "Mine" is Jnana in Jnana; visualizing the light of Nadanta is Yoga in Jnana; and Kriya in Jnana is the search for liberation.`,
     elaborationTamil: `பாடல் #1473 இல் உள்ளபடி ஞானத்தில் முழுமை பெற்ற ஞானத்திற்கு முதலாக இருக்கின்ற நான்கு விதமான நிலைகளாக ஞானிக்கு இருப்பதில் ஞானத்தில் முழுமை பெற்ற ஞானமானது நான் இது எனது என்கின்ற எந்தவிதமான எண்ணமும் இல்லாமல் அனைத்தும் இறைவனே என்று இருக்கின்ற நிலையாகும். யோகத்தில் முழுமை பெற்ற ஞானமானது சத்தத்திற்கு எல்லையாக இருக்கின்ற நன்மையே வடிவான ஜோதியாகும். கிரிகையில் முழுமை பெற்ற ஞானமானது நன்மை தரும் முக்தியை தேடிச் செல்லுதல் ஆகும். சரியையில் முழுமை பெற்ற ஞானமானது இறைவனை நாடிச் சென்று அடைவது ஆகும்.`,
   },
   {
@@ -1274,6 +1284,9 @@ Shall never Siva know;
 Nor shall even Jivas be;
 Nor indeed Siva become;
 Never, never their birth's bondage broken be.`,
+    elaborationEnglish: `Mantras 1480 & 1481
+
+Sanmarga gives the true vision, breaking the fetters of birth and extinguishing the fire of impurities. Listening to the silent voice in Sanmarga you become a pure mukta, annihilating the state of 'I' and 'You' difference and savouring the divine bliss.`,
     elaborationTamil: `குருவின் அருளால் ஞானத் தெளிவை அறியாதவர்கள் சிவப் பரம்பொருளை அறிந்து கொள்ள மாட்டார்கள். அவர்கள் தமது ஆத்ம ஞானத்தில் முழுமை அடைய மாட்டார்கள். அவர்கள் சிவமாக ஆக மாட்டார்கள். அவர்களுக்கு எப்போதும் தீர்ந்து விடாமல் பிறவிகள் தொடர்ந்து கொண்டே இருக்கும்.`,
   },
   {
@@ -1314,7 +1327,7 @@ Where Sanmargi is there God is,
 To see assemblage of Sanmargis is to vision Lord,
 This I proclaim,
 To whatsoever path you do incline.`,
-    elaborationEnglish: `The face of the Sanmargi.is the pedestal of Sakti; the place of the Sanmargi is the seat of God. Whatever path may be followed, to see assemblages of Sanmargis is to see the Lord. FUMITSS GeEhwiomb Oerortss srgorb Guegsursarwihln ew ML gus`,
+    elaborationEnglish: `The face of the Sanmargi.is the pedestal of Sakti; the place of the Sanmargi is the seat of God. Whatever path may be followed, to see assemblages of Sanmargis is to see the Lord.`,
     elaborationTamil: `உண்மையான வழியை பின்பற்றி முக்தி நிலையில் சிவமாகவே இருக்கின்றவர்களின் முகமே இறைவன் அமர்ந்து இருக்கின்ற பீடமாகவும் அவர்கள் இருக்கின்ற இடமே இறைவன் வீற்றிருக்கின்ற கோயிலாகவும் அவர்களின் கூட்டத்தை காண்பதே இறைவனின் தரிசனமாகவும் இருக்கின்றது. தாமும் பார்க்கின்ற பொருளும் சிவமாகவே இருக்கின்ற உண்மையை தெரிந்து கொள்ளுகின்ற வழியை தேடுகின்ற அனைவருக்கும் இதுவே வழி என்று யான் எடுத்து சொல்கின்றேன் கேட்டுக் கொள்ளுங்கள்.`,
   },
   {
@@ -1332,7 +1345,10 @@ Alone of all paths
 Sanmarga grants God-head through knowledge;
 The rest of paths are for un-illumined;
 Renouncing the ways of impurities
-And transcending limits of Turiya`,
+And transcending limits of Turiya
+It merges I in You;
+Verily, Sanmarga is Path Purest.`,
+    elaborationEnglish: `Sanmarga is the purest path that grants the experience of God-head through knowledge. The rest are unillumined and uninspiring. It is the way of renouncing impurities and transcending the limits of turiya consciousness. It is the way of I becoming He.`,
     elaborationTamil: `உண்மையான வழிக்கு உதவுகின்ற கருவியாக இருப்பது ஞானத்தின் மூலம் அன்பு வடிவமாக இருக்கின்ற இறைவனை உணர்ந்து கொள்ளுவது ஆகும். மற்ற வழிகளுக்கு கருவியாக இருக்கின்ற அனைத்தும் அறியாமையில் இருப்பவர்களுக்கு பெற முடியாததாகவே நிற்கின்றது. தீய வழிகளை நீக்கி விட்ட ஆழ்நிலை தியான நிலையில் அழுக்குகள் எதுவும் இல்லாதவர்களாக பேரின்பத்தில் இருப்பதுவே உண்மையான வழி முறையில் தாமே சிவம் ஆகுகின்ற சன் மார்க்க வழியாகும்.`,
   },
   {
@@ -1351,7 +1367,7 @@ The rest of three paths, of themselves open;
 That alone is True Path union with Siva seeks;
 Seek that Path
 As Guiding Word scriptures proclaim.`,
-    elaborationEnglish: `of themselves. It is the sole path, the True Path which scriptures enjoin for uniting in Siva.`,
+    elaborationEnglish: `To the aspirant after Sanmarga, the other three paths open of themselves. It is the sole path, the True Path which scriptures enjoin for uniting in Siva.`,
     elaborationTamil: `உண்மையான வழி முறையை அனைவரும் ஏற்றுக் கொள்ளும் படி சிறப்பிக்க வருகின்ற பெருமை பெற்ற சீடர்களுக்கு அதற்கு பிறகு இருக்கின்ற வழி முறைகளாகிய சக மார்கம் சற்புத்திர மார்கம் தாச மார்கம் ஆகிய மூன்றும் பிறவியிலேயே இயல்பாக கிடைத்து விடுகின்றது. ஏன் என்றால் நன்மையான வழி முறையானது அவர்கள் சிவப் பரம்பொருளோடு சேர்ந்து இருப்பதை விரும்பி தேடிக்கொண்டே இருப்பதால் ஆகும். ஆகவே குரு தமது சீடர்களுக்கு அறிவுறுத்தக் கூடிய வழி முறைகளாக வேதங்கள் கொடுத்த அனைத்து முறைகளும் அவர்களுக்கு கைவரப் பெறும்.`,
   },
   {
@@ -1373,20 +1389,11 @@ The Consciousness that entwines it,
 The million, million mutations that pervade the universe,
 They who see them all and their own Selves
 Verily are they the Sanmargis true.`,
-    elaborationEnglish: `Sanmarga Leads to Svarupa State
-
-Rending the Soul’s bonds asunder
-
-Conjoining him to the Lord 5
-
-Melting the heart that knew no melting Merging into the Primal Manifestness (Svarupa) That is Truth Eternal
-
-The rest that knows no commotion ever.`,
     elaborationTamil: `தனக்கு வேறாகவும் தன்னை அடிமைப்படுத்தியும் தன்னுள் அடங்கியும் இருக்கின்ற பாசத்தையும் அதற்கு காரணமாகும் கர்மத்தையும் அந்த கர்மத்தின் பயனால் அனுபவிக்கின்ற அனைத்து வாழ்க்கை அனுவங்களையும் அந்த அனுபங்களுக்கு மூலமாக இருக்கின்ற ஆசைகளையும் அதனோடு பின்னிப் பிணைந்து இருக்கின்ற பாசக் கட்டுகளையும் அதனோடு சேர்ந்து இருக்காமல் விலகி இருக்கின்ற ஆன்மாவையும் ஆதியில் முதன் முதலில் அந்த ஆன்மா இறைவனை விட்டுப் பிரிந்து வந்த காரணத்தையும் தமக்கு உள்ளும் வெளியிலும் கண்டு அறிந்து கொண்டவர்களே உண்மையான வழியை கடை பிடிப்பவர்கள் ஆவார்கள்.`,
   },
   {
     id: 1487, tantraId: 5, verseNumber: 1486,
-    tamil: `பசுபாச நீக்கிப் பதியுடன் கூட்டிப்
+    tamil: `பசுபாச நீக்கிப் பதியுடன் கூட்டிக்
 கசியாத நெஞ்சங் கசியக் கசிவித்
 தொசியாத வுண்மைச் சொரூபோ தயத்துற்
 றசைவான தில்லாமை யானசன் மார்க்கமே`,
@@ -1426,7 +1433,7 @@ Through Yoga's Path may yet climb.`,
   {
     id: 1489, tantraId: 5, verseNumber: 1488,
     tamil: `சன்மார்க்கந் தானே சகமார்க்க மானது
-மனமார்க்க மாமுத்தி சித்திக்குள் வைப்பதாம்
+மன்மார்க்க மாமுத்தி சித்திக்குள் வைப்பதாம்
 பின்மார்க்க மானது பேராப் பிறந்திறந்
 துன்மார்க்க ஞானத் துறதியு மாமே`,
     transliteration: `caṉmārkkan tāṉē cakamārkka māṉatu
@@ -1435,7 +1442,7 @@ piṉmārkka māṉatu pērāp piṟantiṟan
 tuṉmārkka ñāṉat tuṟatiyu māmē`,
     english: `1488: Sahamarga Leads to Sanmarga3Sahamarga (Yoga)
 blossoms into Sanmarga,
-ThThrough Siddhi it leads to Supreme Mukti;
+Through Siddhi it leads to Supreme Mukti;
 It is the Path lower to Sanmarga,
 Involving myriad birth and death
 But eventually landing in Jnana Finite.`,
@@ -1476,7 +1483,9 @@ In Yoga Samadhi is Light Abiding;
 In Yoga Samadhi is Sakti Omnipotent;
 They that joy in Yoga Samadhi
 Are verily Siddhas great.`,
-    elaborationEnglish: `In Yoga Samadhi is Sakti Omnipotent; They that delight in Yoga Samadhi Are verily Siddhas great.`,
+    elaborationEnglish: `Mantras 1490 & 1491
+
+Infinite space, abiding light, omnipotent Sakti are the fruits of yoga samadhi. The immortal yogi can enjoy bhoga which confers earthly blessings, and yoga which can confer Siva-Form on him.`,
     elaborationTamil: `யோகம் என்று அறியப் படுகின்ற சாதனையானது ஆதியாக இருக்கின்ற இறைவனின் உள்ளேயே அடங்கி அண்ட சராசரங்கள் அனைத்திலும் இறைவனோடு இடம் பெற்று இருக்கின்றது. அந்த யோகத்தில் ஆழ்ந்து இருக்கின்ற சமாதி நிலையில் சாதகருக்கு உள்ளே என்றும் நிலைபெற்று இருக்கின்ற ஒளியாக இறைவன் இருக்கின்றான். அந்த ஒளியாகிய இறைவனின் சக்தியை சமாதி நிலையில் இருந்து கொண்டே அனுபவித்துக் கொண்டு பேரின்பத்திலேயே திளைத்து இருக்கின்ற சாதகர்களே சித்தர்கள் ஆவார்கள்.`,
   },
   {
@@ -1512,7 +1521,12 @@ The Yogis pierce the Adharas
 And the Nadis they purify;
 Envision the Kalas sixteen,
 And glimpse their heavenly radiance;
-And then are they merged in Awareness Supreme`,
+And then are they merged in Awareness Supreme
+Their organs of sense, internal and external,
+All atrophied.`,
+    elaborationEnglish: `Mantras 1492 & 1493
+
+Through Sanmarga, the yogis pierce the adharas, purify the nadis, vision the sixteen kalas, glimpse their heavenly radiance, internal and external organs atrophied - and merge in the supreme consciousness. The yogi, who harries and subdues the five contentious with the sharp sword of steadfastness, merges in the consciousness of the Lord whom the eighteen heavenly hosts seek.`,
     elaborationTamil: `சாதனைகளின் மூலம் உடலுக்குள் இருக்கின்ற ஆறு ஆதார சக்கரங்களையும் ஆராய்ச்சி செய்து அதன் வழியாக உடலுக்குள் இருக்கின்ற நாடிகளை சுத்தம் செய்து உடல் இயக்கத்திற்கு காரணமாக இருக்கின்ற மேதைக் கலை முதலாகிய பதினாறு கலைகளோடு விண்ணில் இருக்கின்ற ஒளி வடிவமான இறை சக்தியானது கலந்தது. அதன் பிறகு அறிவின் ஆலயமாக இருக்கின்ற உடலுக்குள் இருக்கின்ற ஐந்து புலன்களும் நான்கு கரணங்களும் புத்தியும் தங்களின் இயல்பான செயல்களை இழந்து இறை நிலையை பெறுவதே இறைவனோடு தோழமையாக இருக்கின்ற வழி முறையாகும். உயிர்களின் உடலின் இயக்கத்திற்கு காரணமாக இருக்கின்ற பதினாறு கலைகள்: மேதைக்கலை அருக்கீசக்கலை விடக்கலை விந்துக்கலை அர்த்தசந்திரன் கலை நிரோதினிக்கலை நாதக்கலை நாதாந்தக்கலை சக்திக்கலை வியாபினிக்கலை சமனைக்கலை உன்மனைக்கலை வியோமரூபினிக்கலை அனந்தைக்கலை அனாதைக்கலை அனாசிருதைக்கலை ஐந்து புலன்கள்: கண் – பார்த்தல் காது – கேட்டல் மூக்கு – நுகர்தல் வாய் – பேசுதல் தோல் – தொடுதல் நான்கு அந்தக்கரணங்கள்: மனம் புத்தி சித்தம் அகங்காரம்`,
   },
   {
@@ -1551,9 +1565,7 @@ But to them whose hearts ripe in love,
 And taste the sweets of divine rapture,
 He opens all of Himself
 Unto a rich fruit mature.`,
-    elaborationEnglish: `Loving hearts can taste the sweetness of divine’ rapture and the Lord reveals Himself as a fully ripened fruit.
-
-1l. HY + wrrsaw SATPUTRA MARGA (PATH OF KRIYA)`,
+    elaborationEnglish: `Loving hearts can taste the sweetness of divine’ rapture and the Lord reveals Himself as a fully ripened fruit.`,
     elaborationTamil: `செழுமையாக பழுத்த பழத்தை போலவே செழுமையாக பிரகாசிக்கின்ற தேஜஸான உடலை பெற்று இருக்கின்ற அடியவர்களுக்கு அவர்களுடைய தேகம் செழுமை பொருந்திய பழுத்த பழத்தைப் போல இருப்பதற்கு காரணம் அவர்களுடைய வாழ்க்கை முழுவதும் தவறாமல் கடைபிடித்த ஒரு வாய்மை எனும் தர்மத்தினால் ஆகும். அந்த அடியவர்களது உள்ளமானது இறைவன் மேல் கொண்ட தூய்மையான அன்பினால் கனிந்து இருப்பதனாலும் அவர்கள் கடைபிடித்து வந்த தர்மத்தின் பயனாலும் எப்போதும் இன்பத்தோடு இருக்கின்றார்கள். நன்றாக பழுத்த பழத்திற்குள் கனிந்து இருக்கும் சுவை போலவே அவர்களின் பழுத்த பழம் போன்ற உள்ளுக்குள் சுவை போல சேர்ந்து தோழமையுடன் நிற்கின்றான் இறைவன். கருத்து: எந்த மார்க்கத்தையும் கடை பிடிக்காவிட்டாலும் சத்தியத்தையும் தர்மத்தையும் ஒருவர் தமது வாழ்நாள் முழுவதும் கடை பிடித்து வந்தால் அவர்களுக்குள் தோழமையுடன் இறைவன் எப்போதும் சேர்ந்து இருப்பான்.`,
   },
   {
@@ -1572,6 +1584,10 @@ The Kriya Path leads to Yoga Path;
 Transcending both,
 And uniting in Sakti of Yoga State
 Indeed is consummation of Sanmarga Path.`,
+    elaborationEnglish: `Mantras 1495 & 1496
+
+The path of filial piety, through Yoga (Saha marga) leads to Jnana, which consummates the Sanmarga path. Performing pujas, reading the holy scriptures, praising the Lord, chanting His Holy Name, practicing tapas, being truthful, bearing no malice - these constitute the path of filial piety of Kriya.
+Mular refers to Kriya(Rituals) as Satputra Marga (or the path of 'pious son').`,
     elaborationTamil: `உறவினால் உண்மையான தந்தையாக இறைவனையும் அவருக்கு பிள்ளையாக தம்மையும் பாவிக்கின்ற வழி முறையானது உடலால் செய்கின்ற அனைத்து விதமான செயல்கள் மற்றும் சரியாக செய்ய வைக்க இறை சக்தி உடனிருந்து தோழமை வழி முறையில் மனதுடன் எப்போதும் சேர்ந்து இருந்து செய்கின்ற அனைத்து விதமான செயல்கள் ஆகிய இந்த இரண்டு விதமான செயல்களையும் நாம் செய்கின்றோம் என்கின்ற எண்ணமும், நமது உடலும் மனமும் இவற்றை செய்கின்றன என்கின்ற எண்ணமும் நீங்கும் படி செய்து, தோழமை வழி முறையில் தம்மோடு எப்போதும் தொடர்ந்து வருகின்ற இறை சக்தியோடு ஒன்றாக சேர்ந்து அனைத்தையும் இறை சக்தியே செய்கிறது என்கின்ற எண்ணத்தில் இருப்பதே உண்மை வழி முறையில் மேன்மையான நிலையில் கிடைக்கின்ற தெளிவு ஆகும்.`,
   },
   {
@@ -1628,7 +1644,9 @@ His commandments, our defence's battlements;
 He is verily the finite Shore
 For the surging tide of Jivas on earth;
 He pervades thus, the seven worlds alike.`,
-    elaborationEnglish: `He is verily the finite Shore For the surging tide of Jivas on earth; He pervades thus; the seven worlds alike.`,
+    elaborationEnglish: `Mantras 1498 & 1499
+
+The Lord is truly the Ultimate Goal, who with His Feet and His commandments pervades the seven worlds alike. Adoring Him in diverse ways, He becomes your own.`,
     elaborationTamil: `சென்று சேருவதற்கு மிகவும் அரியதான எல்லையாக இருப்பது இறைவனின் திருவடிகளின் நிழலாகும். பிறை நிலாவை சூடிக்கொண்டு இருக்கும் இறைவனின் ஆணைகளே பிறப்பு இல்லாத மாபெரும் நிலையை பெறுகின்ற எல்லையாக இருக்கின்றன. தத்தமது வினைகளுக்கு ஏற்றபடி வருகின்ற கர்மங்களின் எல்லைகளுக்கு ஏற்றபடி இந்த உலகத்தில் நிலை பெற்று வாழுகின்ற உயிர்களுக்கு எல்லாம் அவற்றின் வினைகளை தீர்த்துக் கொண்டு சென்று சேரும் கரையாக இருக்கின்ற உலகங்கள் ஏழு விதத்திற்கும் ஒத்து இருக்கின்ற தந்தையாக இறைவனே இருக்கின்றான். கருத்து: உயிர்கள் தங்களின் கர்மங்களை தீர்த்துக் கொள்ளவே ஏழு விதமான உலகங்களிலும் தத்தமது வினைகளுக்கு ஏற்ப பிறவிகள் எடுத்துக் கொண்டே இருக்கின்றன. இந்த ஏழு விதமான உலகங்களிலும் எடுக்கின்ற அனைத்து பிறவிகளிலும் தந்தையாக இருந்து காக்கின்ற இறைவனே முக்தி எனும் எல்லையாகவும் இருக்கின்றான்.`,
   },
   {
@@ -1667,6 +1685,8 @@ You too shall seek Him with flowers fragrant,
 The more you adore Him
 The fuller He reveals Himself unto you,
 He the Lord of Beings Heavenly.`,
+    elaborationEnglish: `Mantras 1500 & 1501
+Adore the Lord in reverence, praise Him in humility, worship the divine light of beauty, seek Him with odorous flowers, and He shall reveal Himself. The more you adore Him, the more He reveals Himself. To this Kriya path, that exalts and showers countless blessings, the Chariya path leads.`,
     elaborationTamil: `எம் தந்தையாகிய இறைவனை மனதை ஒருநிலைப் படுத்தி தொழுகின்றேன் எதை செய்தாலும் அதை அவனை நினைத்தே செய்கின்றேன். தானாகவே இருக்கின்ற பரம்பெரும் சோதியாக இருக்கின்ற அந்த இறைவனை எப்போதும் தொழுது கொண்டே இருக்கின்றேன். உங்களுக்கும் தந்தையாகிய அந்த இறைவனை மாசு இல்லாத மலர்களைத் தூவி நீங்களும் தொழுங்கள் அப்படி தொழுது கொண்டே எப்போதும் இருக்கின்ற போது நீங்கள் செய்கின்ற அனைத்திற்குள்ளும் சென்று சோதியாக வெளிப்பட்டு அருள்வான் தேவர்களுக்கும் தந்தையாக இருக்கின்ற இறைவன்.`,
   },
   {
@@ -1707,7 +1727,9 @@ Sing Lord's Praise,
 Count the crystal beads,
 Anoint in many ways,
 And perform the diverse acts of temple service.`,
-    elaborationEnglish: `Lighting the lamps gracefully, collecting fragrant flowers, pasting the holy floor and sweeping it, praising the Lord and counting the crystal beads, anointing Him in diverse ways — doing all these requirements of temple service, belongs to Dasa Marga.`,
+    elaborationEnglish: `Lighting the lamps gracefully, collecting fragrant flowers, pasting the holy floor and sweeping it, praising the Lord and counting the crystal beads, anointing Him in diverse ways — doing all these requirements of temple service, belongs to Dasa Marga.
+
+Dasa means servant`,
     elaborationTamil: `தங்களால் இயன்ற வரை தீபங்களை ஏற்றி வைத்தல் நறுமணமிக்க மலர்ந்த மலர்களை கொய்து சாற்றுதல் இறைவன் இருக்கின்ற இடங்களை சாணி பூசி மெழுகி அந்த இடத்தை சுத்தமாக வைத்தல் இறைவனின் புகழ்களை பாடி வாழ்த்துதல் இறைவன் அமர்ந்து வருகின்ற பல்லக்கு சேவை செய்வதற்கு பல்லக்கின் கழிகளை பற்றிக் கொண்டு வலம் வருதல் பல விதமான அபிஷேகப் பொருள்களை கொண்டு அபிஷேகம் செய்தல் முதல் கொண்டு கோயில்களுக்கு தேவையான தொண்டுகளில் தங்களால் இயன்ற அளவு செய்து பணி புரிவது தான் இறைவனை எஜமானராகவும் தம்மை அடியவராகவும் பாவிக்கின்ற வழி முறையாகும்.`,
   },
   {
@@ -1730,6 +1752,9 @@ Do pursue this appointed way,
 And seek the King of Kings;
 That, in truth, shall quell
 All doubts within you swell.`,
+    elaborationEnglish: `Mantras 1503 & 1504
+
+Wavering between this path and that path seldom leads to worship. Therefore, firmly hold to the Chariya path and seek the King of Kings; all doubts will vanish. All worship by yogis - that is meditating on the moon (nadi on the left) and shifting on to the sun (nadi on the right) - and worship by the celestial beings commenced in Dasa Marga.`,
     elaborationTamil: `அதுவும் இதுவும் ஆதியாக இருக்கின்ற பரம் பொருள் என்று நினைத்துக் கொண்டு பரந்து விரிந்து இருக்கின்ற உலகில் இதுவே இறைவனை அடையும் வழி என்று எடுத்துக் கொண்டு அதன் மூலம் இறைவனை அடைய முயற்சி செய்கின்றவர்கள் யாரும் இல்லை. அப்படி இல்லாமல் தங்களுக்கு விதிக்கப் பட்ட வழியில் சென்று தமக்குள் மறைந்து இருந்து தம்மை ஆளுகின்ற இறைவனை அடியவராக தேடி அடைகின்ற வழி முறையே விதி என்று கடைபிடிக்கின்றவர்களின் மனதில் இருந்து ஆசைகளை அழித்து இறைவனிடம் சேர்க்கின்ற வழி முறை இதுவே ஆகும்.`,
   },
   {
@@ -1764,23 +1789,23 @@ uṉṉuvar uḷmakiḻntuṇṇiṉ ṟaṭitoḻak
 kaṇṇava ṉeṉṟu karutu mavarkaṭkup
 paṇṇavaṉ pēraṉpu paṟṟiniṉ ṟāṉē`,
     english: `1505: Lord Appears in Love Entwined
-The Celestial Beings seek Lord`,
-    elaborationEnglish: `Chanting His glory in names thousand;
-
+The Celestial Beings seek Lord
+Chanting His glory in names thousand;
 They that adore His Holy Feet
-
-In abiding rapture of their hearts, .
-
-And hold him as the apple of their eyes’ Unto them is He sweet melody,
-
+In abiding rapture of their hearts,
+And hold him as their eyes' apple
+Unto them is He sweet melody,
 To them He appears in divine love entwined.`,
+    elaborationEnglish: `Mantras 1505 & 1506
+
+The Lord appears in the divine love of those who seek and adore Him in the abiding rapture of their hearts. What is the use of reading holy works and conducting pujas when the heart is obfuscated by darkness and overspread with the moss of ignorance. Unless the heart is rid of all these impurities, God the Supreme Light, cannot be visioned.`,
     elaborationTamil: `அனைத்திற்கும் எஜமானனாகிய இறைவனை அடியவர்களாகிய வானவர்கள் ஆயிரம் விதமான பெயர்களை சொல்லி போற்றி தமது எண்ணத்திற்குள் வைத்து நினைந்து உள்ளம் மகிழ்ந்து தமக்குள் நிற்கின்ற அவனது திருவடியை தொழுவார்கள். தமது கண்ணுக்கு கண்ணாக இருப்பவன் அவனே என்று எண்ணுகின்ற அவர்களுக்கு உள்ளே இருந்து இலயிக்கின்ற இசையைப் போல அந்த இறைவன் மாபெரும் அன்பு காட்டி அவர்களை அரவணைத்து நிற்கின்றான்.`,
   },
   {
     id: 1507, tantraId: 5, verseNumber: 1506,
     tamil: `வாசித்தும் பூசித்தும்மாமலர் கொய்திட்டும்
 பாசிக் குளத்தில்வீழ் கல்லா மனம்பார்க்கின்
-மாசற்ற சோதி மணிமிடற் றாண்ணலை
+மாசற்ற சோதி மணிமிடற் றண்ணலை
 நேசத் திருந்த நினைவறி யாரே`,
     transliteration: `vācittum pūcittummāmalar koytiṭṭum
 pācik kuḷattilvīḻ kallā maṉampārkkiṉ
@@ -1819,7 +1844,11 @@ And that in turn to Samipa;
 And Samipa shows the way to Sarupa;
 And ultimately to Para of Infinite Space (Sayujya)
 Beyond which there is state none.`,
-    elaborationEnglish: `“Being in the same world as the Lord’, Being with Him continually’. ‘adopting His Form’, and ‘United with Him’. These are different ways of imagining Oneself to be in, during worship. They are explained in verse 1509, post.`,
+    elaborationEnglish: `The four stages of attainment, namely, Saloka, Samipa, Sarupa and Sayujya reached from Chariya in gradation, finally end with Para of Infinite Space (Sayujya), beyond which there is no state.
+
+‘Saloka’, ‘Samipa’, ‘Sarupa’, and ‘Sayujya’ mean respectively
+
+“Being in the same world as the Lord’, Being with Him continually’. ‘adopting His Form’, and ‘United with Him’. These are different ways of imagining Oneself to be in, during worship. They are explained in verse 1509, post.`,
     elaborationTamil: `இறைவன் இருக்கின்ற உலகத்தை சார்ந்தே இருக்கின்ற நிலை முதலாகிய சாலோகம் சாமீபம் சாரூபம் சாயுச்சியம் ஆகிய நான்கு விதமான முக்திக்கான நிலைகளும் இறைவனை அடைவதற்கான சரியை முதலாகிய சரியை கிரியை யோகம் ஞானம் ஆகிய நான்கு விதமான முறைகளால் பெறப்படும். இறைவன் இருக்கின்ற உலகத்தை சார்ந்தே இருக்கின்ற நிலை பெற்று அதன் மூலம் இறைவனுக்கு அருகில் இருக்கின்ற நிலையானது சரியையை தொடர்ந்து முறைப்படி செய்து கொண்டு இருப்பதால் நமக்கு கிடைக்கும். இறைவன் இருக்கின்ற மாபெரும் உலகத்தையே சேர்ந்து இருந்தால் அதற்கு அடுத்த நிலையாகிய இறைவனுடைய உருவத்தையே பெறுகின்ற நிலையை அடைவதற்கு அதுவே வழியாக இருக்கும். அப்போது இந்த பரந்த விரிந்த உலகங்கள் அனைத்திலும் இருக்கின்ற வடிவங்களில் இல்லாத பரம்பொருளின் ஒளி உருவத்தோடு அவருடனே எப்போதும் இருக்கின்ற சாயுச்சிய நிலையும் கிடைக்கும். இறைவனை அடைந்த முக்திக்கான நிலைகள்: சாலோகம் – இறைவன் இருக்கும் இடத்தில் அவனோடு சேர்ந்து வாழ்வது. சாமீபம் – இறைவனுக்கு பக்கத்தில் அமர்ந்து நெருக்கமாக வாழ்வது. சாரூபம் – இறைவனுக்கு பிரதிநிதியாக அவருக்கு செய்வதை ஏற்றுக்கொள்வது. சாயுச்சியம் – இறைவனோடு எப்போதும் சேர்ந்து இருப்பது. இறைவனை அடைவதற்கான வழிகள்: சரியை – கோயில்கள் செல்வது, பூஜைகள் செய்வது. கிரியை – மந்திரம் சொல்லி சக்கரங்கள் வைத்து வழிபடுவது. யோகம் – தியானம் தவம் செய்வது. ஞானம் – அனைத்திற்கும் மேலான நிலையில் சலனங்கள் இன்றி இருப்பது.`,
   },
   {
@@ -1877,13 +1906,9 @@ The Sarupa state cannot be;
 The yoga way but leads to bodily Siddhis diverse;
 But for the Sarupa state to realize,
 None these but the pure way of Jnana-in-Yoga.`,
-    elaborationEnglish: `None these but the pure way: of Jnana-in-Yoga. Though the cight-pronged yoga way reaches up’ to the Sarupa state, unless San Marga in Yoga Unana in Yoga) is attained,
+    elaborationEnglish: `Though the eight-pronged yoga way reaches up’ to the Sarupa state, unless San Marga in Yoga Unana in Yoga) is attained, there capnot be the state of Sarupa.
 
-there capnot be the state of Sarupa.
-
-Sanmarga-in-yoga is identical with jnana-in-yoga.
-
-Mular explains that mere practice of yoga without ‘Sanmarga’ (worshipful faith and good conduct) will only produce Siddhis (Powers) but will not lead to Liberation.`,
+Sanmarga-in-yoga is identical with jnana-in-yoga. Mular explains that mere practice of yoga without ‘Sanmarga’ (worshipful faith and good conduct) will only produce Siddhis (Powers) but will not lead to Liberation.`,
     elaborationTamil: `நிலை பெற்ற இறை உருவம் என்பது சாதகர்கள் அட்டாங்க யோகத்தில் எட்டாவது யோகமாகிய சமாதி நிலையில் கிடைப்பதாகும். நிலை பெற்ற உண்மை வழி முறையாக இருக்கின்ற இறைவனை அடைகின்ற ஞான வழிமுறை அல்லாமல் வேறு எதனாலும் சாதகர்களுக்கு இந்த சமாதி நிலை கிடைக்காது. இந்த சமாதி நிலையை அடைந்த சாதகர்களின் உடலில் உள்ள அனைத்து உறுப்புகளும் இறைவனையே நினைத்து செயலாற்றிக் கொண்டு இருக்கின்ற சித்த நிலை பெற்ற சாதகராக ஆகி விடுவார். இதன் பயனால் இந்த உலகத்திலேயே இந்த சாதகர் தாமே ஒரு குற்றமும் இல்லாத தூய்மையான யோகத்தின் வடிவமாக வீற்றிருப்பார்.`,
   },
   {
@@ -1924,9 +1949,7 @@ It is Saivam, when the Soul realizes itself and nears God (in Samipa)
 It is Saivam, when it leaves Samipa (and reaches Sarupa)
 It is Saivam when it enjoys the final bliss of Sivananda,
 The inextricable union in Sayujya.`,
-    elaborationEnglish: `The Sayujya marga is, it appears the same as the one termed ‘Sahaja’ in Tantricism which is ‘‘the marga or way of. spiritual exercise which is the earliest or most natural. It is also the term for ultimate reality among the Sahajiyas, i.e., those who
-
-believe in this marga””. (N.N. Bhattacharyya in “‘History of Tantricism™’, p.465.).`,
+    elaborationEnglish: `The Sayujya marga is, it appears the same as the one termed ‘Sahaja’ in Tantricism which is ‘’the marga or way of. spiritual exercise which is the earliest or most natural. It is also the term for ultimate reality among the Sahajiyas, i.e., those who believe in this marga””. (N.N. Bhattacharyya in “’History of Tantricism™’, p.465.).`,
     elaborationTamil: `சைவம் என்று அறியப்படுகின்ற தர்மத்தில் இறைவனுடன் நெருங்கிய உறவினர் போல தாமும் ஆவது சாலோகம் எனும் முதல் நிலையாகும். இந்த நிலையை அடைவதற்கு அந்த வழி முறையின் மூலம் இறைவனை அறிந்து கொண்டு இறைவனை மிகவும் நெருங்கி அவரையே சார்ந்து இருப்பது சாமீபம் எனும் இரண்டாவது நிலையாகும். அந்த தர்மத்திலேயே சிவப் பரம்பொருளை அறிந்து அடைந்த பிறகு தாம் எனும் எண்ணத்தை சார்ந்து இருப்பதை நீக்கி விட்டு தாமே சிவமாக இருப்பதை உணர்ந்து சிவ உருவத்திலேயே இருப்பது சாரூபம் எனும் மூன்றாவது நிலையாகும். அந்த தர்மத்தின் பயனால் சிவப் பரம்பொருளின் மேலான பேரின்பத்தை பெற்று அதிலேயே மூழ்கி இறைவனுடனே எப்போதும் சேர்ந்தே இருப்பது சாயுச்சியம் எனும் நான்காவது நிலையாகும்.`,
   },
   {
@@ -1946,6 +1969,7 @@ The peace that knows no understanding
 Sayujya is to become Siva Himself,
 Sayujya is to experience the infinite power of inward bliss,
 Forever and ever.`,
+    elaborationEnglish: `Sayujya is the state of jagra-alita, the state beyond consciousness, it is to abide forever in upasantha, the peace that is beyond understanding and finally to become Siva Himself, experiencing the infinite power of inward bliss.`,
     elaborationTamil: `இறைவனுடன் எப்போதும் சேர்ந்தே இருக்கின்ற நிலையானது இறைவனுடன் இலயித்து இருக்கின்ற ஆழ் நிலையில் மூழ்கி இருந்தாலும் நினைவு உலகத்திலும் விழிப்பு நிலையில் இருப்பது சாலோகம் எனும் முதல் நிலை ஆகும். இந்த நிலைக்கு உதவுகின்ற பேரமைதி எனும் நிலையிலேயே தங்கி இருப்பது சாமீபம் எனும் இரண்டாம் நிலை ஆகும். இந்த நிலையில் தாமே சிவமாக ஆகி இறைவனின் எல்லை இல்லாத ஒளி உருவத்தை பெற்று இருப்பது சாரூபம் எனும் மூன்றாவது நிலை ஆகும். அந்த நிலையில் மனதிற்குள் இறைவனின் பேரின்பத்தில் மூழ்கி இருந்து அவனின் அளவில்லாத சக்தியை அனுபவித்துக் கொண்டே இருப்பது சாயுச்சியம் எனும் நான்காம் நிலை ஆகும்.`,
   },
   {
@@ -1967,6 +1991,9 @@ Showered full many a favour,
 Wooed with temptations diverse,
 And lo! to Her bosom took him,
 In wedlock holy.`,
+    elaborationEnglish: `Mantras 1514 & 1515
+
+In the dark corner of the chamber of primal stuff, the Goddess of Grace courted the 'blind old man' - immortal soul - in marriage took him to Her bosom. Meditation on the primal source from where sprang the delusive senses, grants Her vision. Those who are given this clear vision are truly in the infinite ground of Sakti of the highest seeking.`,
     elaborationTamil: `இருளில் இருக்கின்ற அறைக்குள் ஒரு மூலையில் வீற்றிருக்கின்ற ஒரு இளம் கன்னியானவள் கண் தெரியாத குருடனாகிய கிழவனோடு ஒன்றாக சேருவது எனும் குறிக்கோளுடன் அவனது குருட்டை நீக்கி நல்ல அழகுகளை பல விதங்களில் காண்பித்து அவளுடைய அழகில் மயங்க வைத்து அந்த கிழவனோடு திருமணம் புரிந்து எப்போதும் அவனோடு சேர்ந்தே இருந்தாளே. கருத்து விளக்கம்: மாயை எனும் இருளில் இருக்கின்ற உடம்பிற்குள் மூலாதாரத்தில் வீற்றிருக்கின்ற அருள் சக்தியானவள் மாயை மறைத்து இருப்பதால் உண்மை தெரியாமல் இருக்கின்ற பல பிறவி எடுத்த ஆன்மாவோடு ஒன்றாக சேருவது எனும் அருள் கருணையுடன் அந்த ஆன்மாவின் மாயையை நீக்கி நன்மையான உண்மைகளை பல விதங்களில் உணர வைத்து பேரின்பத்தில் ஆன்மாவை மயங்க வைத்து பல பிறவி எடுத்த ஆன்மாவோடு கலந்து நின்று எப்போதும் ஆன்மாவோடு சேர்ந்தே இருந்தாளே.`,
   },
   {
@@ -2007,6 +2034,9 @@ And lands it on the shores of Truth's Bliss
 United in the Lord of Heavenly Beings,
 -Themselves as yet unfree
 From Impurity's obscuration.`,
+    elaborationEnglish: `Mantras 1516 & 1517
+
+Releasing jiva from the enveloping darkness, the Primal Sakti aids it to land on the banks of Truth's bliss and to attain liberation. The presence of Lord Nandi and the Lady of Grace pierces and illuminates the bewildering ignorance that engulfs the jiva in this gloom.`,
     elaborationTamil: `மாயையை நீக்கி விட்டு தாம் எடுக்க வேண்டிய எண்ண முடியாத பிறவிகளை அந்தந்த பிறவிகளை எடுக்காமலேயே கடந்து போகும் படி செய்து, இறையருளானது எப்போதும் தம்மை விட்டு நீங்கி விடாத படியே ஆதிப் பரம்பொருள் அருளி, தனக்கென்று ஒரு பெயருடன் அகங்காரம் நீங்காமல் இருக்கின்ற வானவர்களின் அரசனாக இருக்கின்ற இறைவனோடு எப்போதும் சேர்ந்தே இருக்கும் படி செய்து, என்ன வேண்டுமென்றாலும் அதை பெற்றுக் கொண்டே இருக்கின்ற நிலையில் இருந்து நீங்கி விடாத படி பேரின்பத்திலேயே இந்த உலகத்தில் தாம் இருக்கின்ற இடத்திலேயே தாம் செய்து கொண்டு இருக்கின்ற சாதகத்தை தொடர்ந்து செய்து கொண்டு இருக்கும் படி செய்து அருளுகின்றது இறை சக்தி.`,
   },
   {
@@ -2047,6 +2077,8 @@ Filled him with rapture
 Lifted the veil of his Ignorance
 Granted many a favour
 And then, then, bestowed on him Her Grace that illumines.`,
+    elaborationEnglish: `Mantras 1518 & 1519
+Through successive stages, like drawing him away from temptations to which the jiva falls a prey and eradication of the karmic hordes and primordial ignorance, the Damsel of Grace liberates the soul. Sporting in the holy waters of the Sakti's Grace makes the jiva forget the filthy waters of virgin's lust, for the Holy Virgin's waters of Grace snap the cycle of births.`,
     elaborationTamil: `சாதகர்கள் தன்னை நினைந்து உருகும் படி செய்து அவர்களோடு எப்போதும் சேர்ந்தே இருந்து மாயையாகிய மயக்கத்தை நீக்கி விட்டு விரைவாக நீங்கிச் செல்லும் படி மிரட்டி வினைகளை அறுத்து விட்டு பேரின்பத்தை அனுபவிக்கும் படி செய்து மாயையினால் உண்மையை அறியும் ஞானக்கண் இல்லாத குருட்டுத் தன்மையை நீக்கி விட்டு இறைவனின் தன்மைகளை பல விதங்களில் கண்டு உணரும் படி செய்து பேரருள் திகழ்கின்ற உண்மை ஞானத்தை சாதகர்கள் அடையும் படி செய்து அருளுகின்றாள் இறை சக்தி.`,
   },
   {
@@ -2090,7 +2122,11 @@ And donned it for a vesture;
 Do therefore, seek Him and adore Him.`,
     elaborationEnglish: `The Lord plays the multi-role of Destroyer, Preserver, Creator and Redeemer. Realisation of this truth and adoration of Him will make the jiva feel the might of His sinewy arms.
 
-The ‘significance of attributing different colours to Siva’s form is explained here. sromact ahgeer wrudeys asugs sais sofher SMS USMTMG`,
+The ‘significance of attributing different colours to Siva’s form is explained here.
+
+Mantras 1520 & 1521
+
+Siva and Sakti are one and the same. So praise Him in devotion daily. He is truly the unfailing proof. Beholding the vision of Sakti and Siva together dispels darkness.`,
     elaborationTamil: `சிவந்த மேனியில் அருளை வழங்குபவன் கரிய மேனியில் மாயையால் மறைக்கின்றவன் வெள்ளை மேனியில் அண்ட சராசரங்களிலும் ஜோதியாய் பரவி இருக்கின்றவன் நன்மையைத் தந்து பச்சை மேனியில் ஆன்மாக்களை காத்து அருளுகின்றவன் இப்படி பலவிதமான தன்மைகளை கண்டு உணர்ந்து கொண்டவர்களுக்கு அவர்கள் கண்ட தன்மையிலேயே அருளை வழங்குகின்ற இறைவனை கருமை நிறம் கொண்டு அகங்காரத்தை இல்லாமல் செய்து யானையின் தோல் போன்ற ஆணவத்தை உரித்து எடுத்து தம்மேல் போர்த்திக் கொண்டு நெருப்புக் கணலை கையில் கொண்டு பிறவிகளை அறுத்து முக்தியை அருளபவன் அவனே என்று உணர்ந்து அவன் மேல் பேரன்பு கொள்ளுங்கள்.`,
   },
   {
@@ -2149,6 +2185,9 @@ Reveals the mystery of the births beyond count,
 And destroys their very seed;
 And then you vision the Primal One;
 That, indeed, is the fruit of Her Grace.`,
+    elaborationEnglish: `Mantras 1523 & 1524
+
+Sakti is the Goddess of the mountain regions and of exotic blossoms. Vision of the Primal One is the fruit of Her Grace. That is granted when the Bride of Grace, seated in the garden of the heavenly Bride-Groom, destroys the very seeds of birth. Devotion to her grants the prowess of potential tapas that leads to liberation.`,
     elaborationTamil: `எப்போதும் இளமையுடன் இயங்கிக் கொண்டே இருக்கின்ற பெண் தன்மை கொண்ட பிள்ளையாகிய இறைவியின் அருட் சக்திக்கு தந்தையாக இருக்கின்ற இறைவனுக்கு சொந்தமாகிய அண்ட சராசரங்கள் எனும் தோட்டத்தில் இருக்கும் எண்ணிலடங்காத அளவிற்கு இருக்கின்ற மொத்தம் பதினான்கு உலகங்களிலும் பல விதமாக எடுக்கின்ற அனைத்து பிறவிகளையும் சாதகருக்கு உணர வைத்து, சாதகருக்குள் நிற்கின்ற மும்மலங்களாகிய ஆணவம் கன்மம் மாயை ஆகிய அனைத்தையும் அழிய வைக்கின்ற ஆதி மூலமாகிய இறைவனை அடைய செய்து சாதகரின் கண்ணிற்கு உள்ளே நின்று அனைத்தையும் உணர வைக்கின்ற பேரின்ப ஞானமாக அந்த அருள் சக்தியே இருக்கின்றாள்.`,
   },
   {
@@ -2191,6 +2230,9 @@ In Her twisted tresses;
 And for them who are thus made wise
 The Blue Flame of Her floating Grace
 Shall, for ever, illumine the Path.`,
+    elaborationEnglish: `Mantras 1525 & 1526
+
+Near the Holy Feet of the Lord are all worlds. He shall descend with his Lady Companion - Sakti of Grace - who will enlighten the path of the devotees. Wisdom gives the unsurpassable boon of Grace; and when Grace visits, the Lord, whom nothing can equal draws near. When Grace descends, jiva is purified. He then mingles in Siva.`,
     elaborationTamil: `எட்டு விதமான திசைகளுக்கும் தலைவியாக வீற்றிருக்கின்ற இறைவியை சாதகர்கள் தங்களின் உள்ளத்திற்குள் தாங்கிக் கொண்டால் சகஸ்ரதளத்தில் இருக்கின்ற ஆயிரம் இதழ் கொண்ட தாமரை மலரில் இருந்து அருளானது உடல் முழுவதும் பரந்து விரிகின்ற அமிழ்தம் ஊறி பெருகுவதில் அருள் புரிகின்ற கூந்தலைக் கொண்ட இறைவியோடு அவள் இருக்கின்ற சகஸ்ரதளத்தில் தமது குண்டலினி சக்தியை கொண்டு சேர்க்கின்ற ஞானத்தை அறிந்து கொண்டவர்களுக்கு இது வரை நெற்றிக்கு நடுவில் தூங்கிக் கொண்டு இருந்த ஜோதியாகிய நீல நிற ஒளியானது விழிப்பு பெற்றதால் உருவாகும் பேரறிவு ஞானமானது சாகதருக்கு எப்போதும் தொடர்ந்து கொண்டே இருக்கும்.`,
   },
   {
@@ -2256,7 +2298,9 @@ She draws you unto Her bosom,
 And grants you Her favours;
 Verily, Verily, She is the Paraparai,
 The Power Supreme.`,
-    elaborationEnglish: `She draws you unto Her bosom, And grants you Her favours; Verily, Verily, She is the Paraparai, The Power Supreme.`,
+    elaborationEnglish: `Mantras 1528 & 1529
+
+Woo the Goddess of Supreme Power and Prowess (Paraparai). Dancing in rapture in the Vast Space, She will grant Her favours. Then, He, the sun, the moon, and the light of Grace which illumined the corporeal body dispelling darkness - all abide in you forever.`,
     elaborationTamil: `இரவு பகல் எனும் இரண்டு விதமான நிகழ்வுகளையும் உணராத அளவிற்கு தன் நிலை மறந்து இருக்கின்ற சாதகரின் உள்ளத்தில் குரவம் எனும் மலரை பின்னியிருக்கின்ற கூந்தலைக் கொண்ட இறைவியை அந்த உள்ளத்தில் நினைத்துக் கொண்டே எந்த விதமான ஆரவாரமும் செய்யாமல் அவளோடு சேர்ந்து ஒன்றாக இலயித்து இருந்தால் தனது மாபெரும் கருணை எனும் அருளினால் சாதகரை ஆட்கொண்டு அருளுவாள் பராவாகிய இறைவனும் பரையாகிய இறைவியும் சேர்ந்து இருக்கும் அருள் சக்தி.`,
   },
   {
@@ -2276,9 +2320,7 @@ He is the Light on the path,
 The Peerless Flame, the Supreme Lord;
 The Master that illumined the Light within me;
 He entered in me and lighted up the corporeal body;
-And then, aye, with me bided for ever and ever.
-18 ARUSAMAYA PINAKKAM (A CRITIQUE OF
-FORMAL RELIGIONS)`,
+And then, aye, with me bided for ever and ever.`,
     elaborationTamil: `அந்தி சாயும் வேளையில் வெளிச்சத்திற்காக ஏற்றப்படுகின்ற விளக்குகளில் இருந்து வருகின்ற ஒளியையும், இரவு நேரங்களில் நிலவில் இருந்து வருகின்ற ஒளியையும், பகல் நேரங்களில் சூரியனில் இருந்து வருகின்ற ஒளியையும், இறைவனை வணங்கும் பூஜைகளில் ஏற்றி வைக்கின்ற தீபங்களில் இருந்து வருகின்ற ஒளியையும், தனிப் பெரும் சுடராக இருக்கின்ற இறைவனின் ஜோதி உருவமாகவே சாதகர் பார்த்து உணர்ந்தால், உலகத்தை விளக்கி அருளுகின்ற தலைவனாகிய இறைவன் அவரது உடலுக்குள் புகுந்து வந்து, அவரது உடலுக்குள் இருக்கின்ற உண்மை பொருளையும் விளக்கி அவர் அறியும் படி செய்து அவருடன் எப்போதும் இருப்பான்.`,
   },
   
@@ -2298,11 +2340,11 @@ Yet, not one knows the God within;
 Deep into the pit of illusion, their adherents drop,
 And fastened hard by familial ties of bondage,
 They shake and tremble, in vain impotence.`,
-    elaborationEnglish: `The six faiths, being tied fast to the earthly fetters shake and shiver in vain, unable to cognise God, who is within. The Lord, the Pinnacle and the Magnificent seated in the lotus of our hearts, enters this hollow abode of human flesh and then silently parts. This deep design of His is beyond the apprehension of the formal faiths. Intense faith and steadfastness help in the realisation of the omnipresence of the Lord.
+    elaborationEnglish: `Mantras 1530 - 1533
 
-What are the “Six Faiths’’ (want, Samayam means here ‘religion’, ‘sect’ or that Mular refers to here? They
+The six faiths, being tied fast to the earthly fetters shake and shiver in vain, unable to cognise God, who is within. The Lord, the Pinnacle and the Magnificent seated in the lotus of our hearts, enters this hollow abode of human flesh and then silently parts. This deep design of His is beyond the apprehension of the formal faiths. Intense faith and steadfastness help in the realisation of the omnipresence of the Lord.
 
-are not those described in it can be safely affirmed.`,
+What are the “Six Faiths’’ (want, Samayam means here ‘religion’, ‘sect’ or that Mular refers to here? They are not those described in it can be safely affirmed.`,
     elaborationTamil: `மக்கள் கூட்டத்திற்கு உள்ளே வழிகாட்டிகளாக நிற்கின்ற ஆறு விதமான சமயங்களும் உடலுக்கு உள்ளே நிற்கின்ற இறைவனை காண்பது இல்லை. அதனால் இறைவனை அடைய வேண்டும் என்று வழிபாடு செய்யாமல் ஆசைகளுக்காக வெளிப்புறமாக இந்த ஆறு விதமான சமயங்களைப் பின் பற்றி அவற்றின் வழியே நடக்கின்றவர்கள் உண்மையை அறியாத மாய குழியிலேயே விழுந்து கிடப்பார்கள். அவர்களுடைய மனைவியின் மீதும் பிள்ளைகளின் மீதும் இருக்கின்ற பாசத்தினால் ஆட் கொள்ளப் பட்டு எப்போதும் பரிதவிப்பில் இருக்கின்ற வழியிலேயே வாழ்கின்றார்கள். கருத்து: சமையங்கள் என்பதன் பொருள் இறைவனை அடைவதற்கு முறைப்படி கடைபிடித்து செல்லும் வழிகளாகும். இவற்றை தமக்கு உள்ளே இருக்கின்ற இறைவனை உணர்ந்து அடைய வேண்டும் என்ற எண்ணத்தோடு அன்போடும் பக்தியோடும் செய்யாமல் வெளிப்புறமாக உலக ஆசைகளுக்காக செய்வதால் இறைவனை அடைய முடியாது. ஆகையால் புறத்தில் செய்கின்ற ஆறு வழிகளும் நிந்தனை செய்யப் படுகின்றது. இறைவனை அடையும் முறையான ஆறு வித வழிகள்: தியானம் – மந்திரத்தை மனதிற்குள் தியானித்தல் செபம் – அக வழிபாடு மூலம் செபித்தல் பூஜை – புற வழிபாடு மூலம் செபித்தல் சக்கரம் – சக்கரங்கள் அமைத்து செபித்தல் ஞானம் – மந்திரத்தின் பொருளை தேடி ஆராய்ந்து அறிந்து கொள்ளுதல் புத்தி – மந்திரத்தின் ஒவ்வொரு எழுத்தையும் ஆராய்ந்து அறிந்து கொள்ளுதல்`,
   },
 {
@@ -2382,7 +2424,9 @@ No tapas except it be for Him
 The Six Faiths are nothing but a dreary waste;
 Do seek Nandi of mighty penance;
 You shall indeed be redeemed truly.`,
-    elaborationEnglish: `Siva is the only Lord; and the six faiths are but a dreary waste. Being materialistic, the six faiths do not lead to the final state. Devotion to Siva alone grants liberation.`,
+    elaborationEnglish: `Mantras 1535 - 1537
+
+Siva is the only Lord; and the six faiths are but a dreary waste. Being materialistic, the six faiths do not lead to the final state. Devotion to Siva alone grants liberation.`,
     elaborationTamil: `சிவம் என்று அறியப்படுகின்ற பரம்பொருளைத் தவிர வேறு பரம்பொருள் எதுவும் இல்லை. இறை என்று அறியப்படுவது சிவப் பரம்பொருளே ஆகும். இந்த உலகத்தில் இறைவனை அடைய வேண்டும் என்று உறுதியாக செயல் படுபவர்களுக்கு தவம் என்கின்ற உயர்ந்த நிலையை தவிர வேறு உயர்ந்த நிலை எதுவும் இல்லை. ஆனால் ஆறு விதமான வழி முறைகளையும் ஆசைகளுக்காக புற வழிபாடு செய்பவர்களுக்கு இந்த உலகத்தில் பயனில்லாததைத் தவிர வேறு எதுவும் இல்லை. அதனால் தவத்திற்கு உறுதியாக நிற்கின்ற குருநாதனாகிய இறைவனின் திருவடியை சரணடைந்து மேன்மை நிலையை அடையாமல் இருக்கின்றீர்களே.`,
   },
   {
@@ -2421,11 +2465,6 @@ Do you walk in the Holy Path;
 And when the One appears,
 The triad Impurities that your destruction encompasses
 Will, of themselves, meet their own destruction.`,
-    elaborationEnglish: `The False Paths Lead not to Param
-
-The Faiths here below are a hundred in number, In that swollen stream are the Six Faiths too; These Faiths take not to the goal they boast of; They are true Faiths never,
-
-They take you not to Path of Param.`,
     elaborationTamil: `சிவப் பரம்பொருளை சரணடைவதே முக்திக்கான வழியாகும். சரணாகதியைத் தவிர வேறு விதமாக இருக்கின்ற வழி முறைகள் அனைத்தும் உலக வாழ்க்கைக்கான வழியாக பாசத் தளைகளுடன் மீண்டும் மீண்டும் பிறவி எடுப்பதற்காகவே இருக்கின்ற வழி முறைகளாகும். சரணாகதியாக தவம் செய்கின்ற வழி முறையை சாதகர்கள் முக்திக்கு நேரான ஒரே வழிமுறையாக எடுத்துக் கொண்டு செய்யாமல் போனால் துன்பமான பிறவிகளுக்கே வழியாக இருக்கின்ற ஆணவம், கன்மம், மாயை ஆகிய மூன்று விதமான மலங்களும் துன்பமான பிறவி எடுப்பதற்கான வழி முறைகளாகவே இருக்கும்.`,
   },
   {
@@ -2486,7 +2525,9 @@ And persevere in the pursuit
 Then shall Finite Goal be reached;
 They that are rid of the terrors of the wild
 Shall see the Path that to Para leads.`,
-    elaborationEnglish: `They that are rid of the terrors of the wild Shall see the Path that to Para leads.`,
+    elaborationEnglish: `Mantras 1539 & 1540
+
+To attain the final goal - freedom from harassing doubts, and perseverance in Siva pursuit are essential. God is with the steadfast and clear-visioned souls. To the doubting and inconstant. He is beyond reach. They realise not His mysterious plan, for which the fleshy body is fashioned.`,
     elaborationTamil: `மாயையிலேயே மயங்கி இருக்கின்றவர்களும், இறைவனை அடையும் வழி முறைகளை கடைபிடித்து அதனால் மாயை நீங்கி தெளிவு பெற்றவர்களும், தம்மால் இயன்ற வரை முயற்சி செய்து நன்மை தீமை ஆகிய இரண்டு விதமான வினைகளையும் அறுப்பதற்கு காரணமாக சுழு முனை நாடியின் துளைக்கு உச்சியில் இருக்கின்ற சகஸ்ரதளத்தில் தமது மூச்சுக்காற்றை இயக்குவதன் மூலம் குண்டலினி சக்தியை கொண்டு சென்று சேர்த்து அமிழ்தத்தை பெற முடிந்தால் முக்தியை அதுவே காண்பித்து, இறப்பு பிறப்பு ஆகிய இரண்டு விதமான பயமும் அழிந்து போய் அவர்களுக்கு ஒரே பரம் பொருளுடன் சேருவதாகிய முக்திக்கு வழியாக அதுவே இருக்கும்.`,
   },
   {
@@ -2528,7 +2569,7 @@ If you but listen to Him that knows
 The origin of swirl that is birth and death,
 No more shall you seek
 The ways of the perishing men.`,
-    elaborationEnglish: `The of births is the bane of the soul and the seed of the coupled karma. So, listen to Him, who knows the origin of this`,
+    elaborationEnglish: `The cycle of births is the bane of the soul and the seed of the coupled karma. So, listen to Him, who knows the origin of this cycle`,
     elaborationTamil: `இறைவனை அடையும் முக்திக்கு வழி என்று யோக மார்க்கமும் ஞான மார்க்கமும் அறிந்து செல்பவர்களுக்கும் இறைவனை அடைவதற்கான வழி எது என்று அறியாமலேயே பக்தி மார்க்கத்திலும் கர்ம மார்க்கத்திலும் செல்பவர்கள் ஆகிய இரண்டு வழியில் செல்பவர்களுக்கும் ஒரே மூல விதையாக அவர்களுக்குள் இருப்பதாகிய சுழுமுனை நாடி எனும் நடு நாடியின் மூலம் குண்டலினி சக்தியை ஏற்றி சென்று இந்த உலகத்தின் மேல் வாழ்வதும் கர்மங்களை அனுபவிப்பதும் ஆகிய இரண்டிலிருந்தும் விடுதலை பெறுவதற்கு சுழுமுனை நாடியின் உச்சித் துளையில் வீற்றிருக்கும் அனைத்தும் அறிந்தவனாகிய இறைவனே குருவாக இருந்து சொல்லி அருளுகின்ற வழியை முயற்சி செய்து விட்டுவிடாமல் கடைபிடித்து அதன் மூலம் கர்மங்கள் அனைத்தும் அழிந்து போவதை அறிந்து கொண்டவர்களின் வழி முறையை தேடி அடைவதற்கு முயற்சி செய்யாமலேயே ஆசைகளின் வழியே சென்று கொண்டு இருக்கின்றார்கள்.`,
   },
   {
@@ -2547,6 +2588,9 @@ He that is Nada and bears the name Nandi;
 You too shall make no distinction,
 But in prayer lift your hands to Him as Being Supreme;
 And the Primal One shall as such reveal Himself.`,
+    elaborationEnglish: `Mantras 1542 & 1543
+
+Little is the distinction between the Supreme Lord and holy Nandi. Hara, the Holy Father, is immanent in the hearts of men. Alienation from Him makes Him incognizable by jiva.`,
     elaborationTamil: `மாபெரும் தவங்களை செய்தவர்கள் அனைவரும் மாபெரும் தேவர்களுக்கெல்லாம் தலைவன் என்று தமக்குள் உணர்ந்த இறைவனை கூறுவார்கள். அந்த இறைவனை சாதகர்கள் தமக்குள் நாத வடிவமாக ஆகி அறியப்படுகின்ற நந்தி எனும் பெயரால் குருநாதனாக இருந்து வழி காட்டும் போது அவனை வேறு யாராகவும் பிரித்து எண்ணிப் பார்க்காமல் எமது தலைவன் இவனே என்று எண்ணிக் கொண்டு தம்மால் இயன்ற வழியில் அவனை அடைவதற்கு முயற்சி செய்தால் ஆதிப் பரம் பொருளாக இருக்கின்ற அந்த இறைவனும் தாங்கள் முயன்ற அந்த வழியாகவே ஆகி நிற்கின்றான்.`,
   },
   {
@@ -2586,7 +2630,9 @@ Do think of Him in thought unsullied;
 He is of crystal pure hue;
 Precious the path of Virtue
 He for us has laid.`,
-    elaborationEnglish: `God, the tender-hearted, is aware of our ultimate goal. He is the Effulgent Sun who designs our destiny. Precious and crystal pure becomes Hara’s path in intense meditation. Fidelity to God, who is far above all the religions, transcends the fleshy imperfections. True faith leads to the destined goal; adverse ones grant not His Grace.`,
+    elaborationEnglish: `Mantras 1544 - 1546
+
+God, the tender-hearted, is aware of our ultimate goal. He is the Effulgent Sun who designs our destiny. Precious and crystal pure becomes Hara’s path in intense meditation. Fidelity to God, who is far above all the religions, transcends the fleshy imperfections. True faith leads to the destined goal; adverse ones grant not His Grace.`,
     elaborationTamil: `கிடைப்பதற்கு மேலான பரிசு அவனே என்று அறிந்து கொண்ட தேவர்களுக்கு பெருங் கருணையோடு அருளுபவனும் பிரகாசமான சூரியனைப் போல் வெளிச்சத்தை கொடுத்து வழிகாட்டுபவனும் அடையக் கூடிய அனைத்தையும் விட பெரியதானவன் அவனே என்று அறிந்து கொண்ட தேவர்கள் அழைக்கின்ற பலவிதமான பெயர்களிலும் அப்படியே திகழ்பவனும் ஆகிய இறைவனை ஒரு குற்றமும் இல்லாமல் சாதகர்கள் நினைத்து வழிபட்டால் தூய்மையான மாணிக்கத்தில் நுழைகின்ற வெளிச்சம் அப்படியே எதிரொலிப்பது போல அவர்களின் எண்ணங்களுக்கு ஏற்ற தன்மையைக் கொடுத்து வழி காட்டி அருளுகின்றான். சாதகர்களை காத்து அருளுகின்ற இறைவனை அடைகின்ற வழி முறைகளே கிடைப்பதற்கு மிகவும் அரியதாக அவன் வகுத்து கொடுத்த அருளிய அந்த வழி முறைகள் ஆகும்.`,
   },
   {
@@ -2646,6 +2692,9 @@ You know contradiction none;
 That is Path Finite, your Goal's End;
 They are but folks poor in spirit
 That know not merging in Light Divine.`,
+    elaborationEnglish: `Mantras 1547 & 1549
+
+Apprehension of the light within is the true path of becoming. That is the goal which is free from contradictions. Worldly paths are nothing but a mirage. So, give up the sorrowful path of whirling karma and crass evil; surely you will worship at the Lord's Feet. The true path results in the consummation of holiness. Journey forward, straight inside, and the presence of the Lord will be with you forever.`,
     elaborationTamil: `இறைவனை அடைகின்ற வழி முறையை அறிந்து கொள்வதும் அதன் மூலம் தமக்கு உள்ளே நிற்கின்ற ஜோதியாகிய இறைவனை பெறுகின்ற வழி முறையை அறிந்து கொண்டால் குழப்பமானது என்று ஒன்றும் இல்லாமல் போய்விடும். அப்போது இறைவனை அடைவதற்கு தடையாக இருக்கின்ற அனைத்தையும் அறுக்கின்ற வழியாக அதுவே ஆகிவிடும். இதை கடை பிடித்து நன்மை செய்கின்ற ஜோதியாக உள்ளே இருக்கின்ற இறைவனை அடைந்து தான் எனும் அகங்காரத்தை நீக்குகின்ற வழி முறையை அறியாதவர்கள் மாயையில் சிக்கிக் கொண்டு இறைவனின் அருளைப் பெறாத ஏழைகளாகவே இருக்கின்றார்கள்.`,
   },
   {
@@ -2665,17 +2714,6 @@ See but the mirage;
 They that avoid the sorrowful path of swirling Karma
 Cross evil safe;
 And shall sure worship at Lord's Feet.`,
-    elaborationEnglish: `The host of thine Karmaic deeds scatters And they flee away;
-
-Leave you the tortuous path
-
-Of the Karmaic ridden men of world Onward you journey, straight inside;
-
-Thou shall, for certain, stand
-
-In the Presence of the Lord of Heavenly Beings.
-
-Qowuns onmihorm Cooursct 40) sanumacr 9B uonwi or grep`,
     elaborationTamil: `இறைவனை அடைகின்ற வழியில் நடக்கும் போது கிடைக்கின்ற பலன் ஒன்று இருக்கின்றது. இந்த உலகத்தில் தனது உடலுக்கு உண்டான வினையின் போக்கில் செல்பவர்கள் மற்றவர்கள் மாயையால் தமக்கு உண்மை என்று நம்பி கூறுகின்ற கற்பனையான விஷயங்களை நம்பி கேட்கிறார்கள். இவர்கள் தங்களின் வினைகளின் வழியாகவே மற்றவர்கள் சொல்லுவதை உண்மை என்று நம்பி செல்லுவதால் பல விதமான துன்பங்களை அனுபவிக்கின்றனர். இதற்கு காரணமாக இருக்கின்ற வினைகளை நீக்குவதற்கு உலகத்தில் உள்ளவர்கள் தம் மீது எவ்வளவு பழியை சுமத்தினாலும் அதனால் கவலை படாமல் இறைவனை அடைகின்ற வழியை விட்டுவிடாமல் நடப்பவர்களுக்கு இறைவனை அடைவதற்கான அனைத்து விதமான வழிகளும் அந்த வழிகளில் செல்வதற்கான பக்குவங்களும் கிடைக்கும்.`,
   },
   {
@@ -2718,6 +2756,9 @@ Received the Darshanas that are Six;
 But, in sooth,
 The Primal Lord is in intimacy within
 Of those that have Divine Tranquility attained.`,
+    elaborationEnglish: `Mantras 1550 & 1551
+
+The immortal heavenly beings having received the six darshans believe that they have attained liberation, but true liberation is within and belongs to those who have attained divine tranquility. Humble yourself at the Feet of the Lord, and you become one with Siva. Unquenchable desires lead but to eternal sorrow.`,
     elaborationTamil: `இமயத்தை போல உயர்ந்த நிலையில் நிற்கின்ற தேவர்கள் இறைவனை அடைவதற்கான ஆறு விதமான வழி முறைகளை இறைவனிடமிருந்து பெற்றனர். அவர்கள் பெற்ற வழி முறைகளின் படி சாஸ்திரங்களை ஓதுவதின் மூலமே இறைவனை அடைவதற்கான வழியை அறிந்து கொண்டோம் என்று அவர்கள் கூறுகின்றார்கள். அனைத்திற்கும் ஆதியாகவும் தலைவனாகவும் இருக்கின்ற இறைவனை எந்தவிதமான எண்ணங்களும் இல்லாத பேரமைதியில் இருந்து அறிந்து கொண்டவர்களின் உள்ளுக்குள் ஒன்றாக கலந்து நிற்கின்றான் இறைவன். கருத்து: ஆறு சமயங்கள் சொல்லுகின்ற வழி முறையில் சாஸ்திரங்களை ஓதுவதன் மூலம் மட்டுமே இறைவனை அடைவதற்கான வழியை அறிந்து கொண்டோம் என்று மேன்மையான நிலையில் இருக்கின்ற தேவர்கள் சொல்லுவார்கள். ஆனால், எந்த சாஸ்திரத்தையும் ஓதாமல் இருந்தாலும் மனதில் அமைதியுடன் எண்ணங்கள் அற்ற நிலையில் ஒருவர் இருந்தாலே அவர்களால் தமக்குள்ளேயே கலந்து நிற்கின்ற இறைவனை அறிந்து கொள்ள முடியும். இறைவனை அடையும் முறையான ஆறு வித வழிகள்: தியானம் – மந்திரத்தை மனதிற்குள் தியானித்தல் செபம் – அக வழிபாடு மூலம் செபித்தல் பூஜை – புற வழிபாடு மூலம் செபித்தல் சக்கரம் – சக்கரங்கள் அமைத்து செபித்தல் ஞானம் – மந்திரத்தின் பொருளை தேடி ஆராய்ந்து அறிந்து கொள்ளுதல் புத்தி – மந்திரத்தின் ஒவ்வொரு எழுத்தையும் ஆராய்ந்து அறிந்து கொள்ளுதல் குறிப்பு: இந்த பாடலின் தலைப்பு நிராசாரம் என்றும் நிராகாரம் என்றும் பல புத்தகங்களில் கொடுக்கப் பட்டிருக்கிறது. ஆனால் ஓலை சுவடியில் நிராதாரம் என்று கொடுக்கப் பட்டு இருக்கிறது மேலும் இந்த தலைப்பில் உள்ள பாடல் #1556 இல் மூன்றாவது அடியில் வரும் “சார் உறார்” எனும் பதத்தை ஒத்து இருப்பதாலும் இதனை ஆதாரமாகக் கொண்டு நிராதாரம் என்ற தலைப்பு எடுத்துக் கொள்ளப் பட்டது.`,
   },
   {
@@ -2757,7 +2798,9 @@ Seek Lord in penance true,
 The Heavens' Lord shall wipe your tears away,
 And grant you Greatness;
 And you shall then know births no more.`,
-    elaborationEnglish: `The Heavens’ Lord shall wipe your tears away, And grant you Greatness; ; And you shall then know births no more.`,
+    elaborationEnglish: `Mantras 1552 & 1553
+
+Neither despair nor wail. That will affect your better nature. Instead, perform tapas and atonement. The Lord will wipe your tears and grant you greatness. Life goes in vain for those who seek Him not. Befriend God by seeking Him. He will shower His manifold Grace and countless blessings.`,
     elaborationTamil: `பாடல் #1551 இல் உள்ளபடி பிறவி எனும் துன்பத்தில் இருந்து அழுகின்றவர்களும், மனித இனத்திற்கான ஒழுக்கங்கள் கெட்டவர்களும், செய்வதற்கு அரியதான தவங்களை செய்வதையே குறிக்கோளாக மேற் கொண்டு அந்த தவங்களை செய்யும் போதும் தலைவனாகவும் அடியவனாகவும் இருக்கின்ற இறைவனை எண்ணிக் கொண்டே இருந்தால், அவர்களின் துன்பம் நீங்கி இனி எப்போதும் வருந்தாமல் இருப்பதற்கான வழி முறையை செய்து கொடுத்து வானவர்களின் அரசனாகியவன் மாபெரும் கருணையோடு அருளுவான் பிறப்பு இல்லாதவனாகிய இறைவன். கருத்து: பிறவி எனும் துன்பத்தில் சிக்கிக் கொண்டு தவிப்பவர்கள் இறைவனை நினைத்து தவமிருந்தால் இறைவன் மாபெரும் கருணையோடு அவர்களுக்கு வழி காட்டி பிறவி இல்லாத நிலையை கொடுத்து அருளுவான்.`,
   },
   {
@@ -2801,6 +2844,9 @@ Having seen that unerring prospect
 These wretched men of ignoble deeds
 Think not of His Holy Feet,
 In devotion replete.`,
+    elaborationEnglish: `Mantras 1554 & 1555
+
+In spite of having realised that God guides the 'boat of life', wretched men of ignoble deeds do not think of Him in intense devotion. They are witless fools who laugh at the fact that Siva, the Eternal Being, is immanent within. If they but pray to Him, they will meet the Supreme One.`,
     elaborationTamil: `இறைவனிடமிருந்தே தாம் வந்திருக்கின்றோம் என்பதை அறிந்தவர்களின் அறிவோடு கூடி அழைக்கின்ற பழமையான தலைவனாகிய இறைவன் ஒரு ஓடக்காரணும் படகுமாக வந்து உடலுடன் சேர்ந்து பாரமாக இருக்கின்ற பற்றுக்களையும் கர்மங்களையும் அழித்து பிறவி எனும் பெரும் கடலை கடக்க உதவுகின்றான். இந்த வழி முறையை தெரிந்து கொண்டும் கொடுமையான வினைகளைக் கொண்டு இருப்பதால் அதை உணராமல் இருப்பவர்கள் பிறவியை கடப்பதற்காக இறைவனின் செம்மையான திருவடிகளை நினைக்காமல் இருக்கின்றார்கள்.`,
   },
   {
@@ -2861,6 +2907,9 @@ The Six Faiths seek the Feet
 But of the One Primal Peerless God;
 And in them all He pervades
 In measure appropriate.`,
+    elaborationEnglish: `Mantras 1557 & 1558
+
+The ancient Lord, the Creator of all worlds, pervades all the six inner faiths. The Lord is the 'great city' to which the six roads (six inner faiths) lead. They who stand in contention are similar to the dog that barks at its own echo from the hillside.`,
     elaborationTamil: `விண்ணுலக தேவர்கள் அனைவரையும் மண்ணுலக மனிதர்கள் அனைவரையும் ஆதி காலத்திலேயே அவரவர் வினைகளுக்கு ஏற்ப வகுத்து படைத்தவன் ஆதியாகவும் பழமையானவனாகவும் இருக்கின்ற இறைவன். அவனை அடைவதற்கான ஆறு விதமான வழி முறைகளையும் தனது திருவடிக்கு இணையான முக்தியை தமக்குள்ளேயே தேடி அடைவதற்காக அவரவர் தகுதிகளுக்கு ஏற்றபடி அமைத்துக் கொடுத்து அதை முறையாக கடைபிடிப்பவர்கள் பக்குவ நிலையை அடையும் போது அவர்களுக்குள் நெருப்பு வடிவமாக வந்து நிற்கின்றான் ஆதியிலிருந்தே அனைத்திற்கும் தலைவனாக இருக்கின்ற இறைவன்.`,
   },
   {
@@ -2875,16 +2924,12 @@ naṉṟitu tītitu eṉṟurai yāḷarkaḷ
 kuṉṟu kuraitteḻu nāyaiyot tārkaḷē`,
     english: `1558: All Faiths Lead but to Lord
 One, the Great City,
-Six, the roads that lead to it;`,
-    elaborationEnglish: `The true path of Becoming for all life to pursue Is but the path of divine Kundalini Sakti, The blossom-vine that through Six centres courses.
-
-The six faiths that proclaim the means to ‘becoming’ can do no good standing by themselves. Kundalini the blossom-vine that courses through the six chakras within, is the pervasive
-
+Six, the roads that lead to it;
 Thus are Faiths Six;
-
-They that contend, ‘‘This true; That false’’ Are like the that in ire barks
-
-To its own echo at hill side.`,
+They that contend,
+"This true; That false"
+Are unto the dog that in ire barks
+To its own echo at hilly side.`,
     elaborationTamil: `ஒன்றாக இருக்கின்ற மிகப் பெரும் ஊருக்கு செல்லுவதற்கு ஆறு விதமான வழிகள் இருக்கின்றது. அது போலவே ஆறு விதமான சமயங்களும் ஒரே பரம்பொருளாகிய இறைவனை அடைவதற்கான ஆறு விதமான வழி முறைகளையே சொல்லுகின்றன. ஆனால் இதை முழுவதுமாக உணர்ந்து கொள்ளாமல் நன்மையானது இந்த சமயம் தீமையானது இந்த சமயம் என்று பிரித்து பிரித்து வேறுபாடுள்ள கருத்துக்களை உரைத்து தாம் கூறுவதே உண்மை என்று மற்றவர்களை நம்ப வைக்க பிரச்சாரம் செய்கின்றவர்கள் மலையைப் பார்த்து குரைத்து குதிக்கின்ற நாயை போலவே இருக்கின்றார்கள்.`,
   },
   {
@@ -2904,6 +2949,9 @@ He is Nandi of Divine Lustre
 That breaths the eternal life of Grace;
 Beloved is He of the truly great;
 The Lord of all universe, the source of all Joy;`,
+    elaborationEnglish: `Mantras 1559 & 1560
+
+He is the Peerless Lord of the munificent path of Saivam; the Nandi of Divine Lustre that grants an eternal life of Grace. He is the Lord of all universe, and the source of all joy. He laid the divine path that takes jiva to his eternal home. He is within you. Seek and realize Him.`,
     elaborationTamil: `சைவம் என்று அறியப்படுகின்ற இறைவனை அடைவதற்கான நெறிமுறைக்கு மிகப்பெரும் பெருமையாக இருக்கின்றவனும் தனக்கு சரிசமமாக வேறு யாரும் இல்லாத தலைவனாக இருக்கின்றவனும் உயிர்கள் அனைத்தும் தம்மை அடைவதற்காக அவற்றுக்குள் உணர்வாக கலந்து நின்று இயக்குகின்றவனும் அதற்கான ஞானத்தை தரும் ஜோதியாக இருந்து மாயையாகிய இருளை அகற்றுகின்ற குருநாதனாக இருக்கின்றவனும் தம்மை உண்மையாக அறிந்து கொண்ட பெருமை மிக்க அடியவர்களிடம் அன்பு செய்கின்ற அடியவனாக இருந்து பேரின்பத்தை கொடுக்கின்றவனும் உலகங்கள் அனைத்திற்கும் தலைவனாக இருக்கின்றவனும் ஆகிய இறைவனை நீங்களும் வந்து உங்களுக்குள் தேடி அடைந்து அவனை உண்மையாக உணர்ந்து மேன்மை பெறுங்கள்.`,
   },
   {
@@ -2922,7 +2970,6 @@ That leads to the Home Eternal
 Seek Him that way;
 And know you are He
 You shall duly find Him within yourself.`,
-    elaborationEnglish: `It is He who is sought by other path also. You shall duly find Him within yourself..`,
     elaborationTamil: `சிவப் பரம்பொருளாக இருக்கின்ற இறைவன் வைத்து அருளிய தெய்வத்தை அடைவதற்கான ஒரு நெறி முறையை கடைபிடித்து அந்த சிவப் பரம்பொருளே வைத்து அருளிய பழமையான வழியை தமக்குள்ளே தேடி அடைந்து அதன் மூலம் தமது ஆன்மாவாக இருப்பதும் அவனே என்பதை அறிந்து கொள்ள முடிந்தவர்களுக்கு, தாம் பார்க்கின்ற அனைத்திலும் அவனை காண்பவர்களுக்கு அவர்கள் பார்க்கின்ற அனைத்திலும் அதனதன் தன்மையிலேயே வந்து இருக்க வேண்டியது அந்த இறைவனின் கடமை ஆகும்.`,
   },
   {
@@ -2942,6 +2989,7 @@ No good comes by following them alone;
 The true path of Becoming for all life to pursue
 Is but the path of divine Kundalini Sakti,
 The blossom-vine that through Six centers courses.`,
+    elaborationEnglish: `The six faiths that proclaim the means to 'becoming' can do no good standing by themselves. Kundalini the blossom-vine that courses through the six chakras within is the pervasive force in them all.`,
     elaborationTamil: `அவரவர்களின் நிலைக்கு ஏற்றபடியே இறைவனை அடைவதற்கான வழியை எடுத்துக் கூறுகின்ற ஆறு விதமான சமயங்களுக்கும் ஆதிப் பரம்பொருளாகிய இறைவனிடம் போய் சேருகின்ற வழி புண்ணியத்தை தவிர வேறு ஒன்றும் இல்லை. ஆகவே புண்ணியத்தினால் இறைவனை அடைகின்ற வழியை உருவாக்கிக் கொடுத்து அதனால் பல வகையான உயிர்களுக்கும் இறைவனிடம் போய் சேருகின்ற வழியாக அவர்களுக்குள் இருக்கின்ற ஆறு ஆதார சக்கரங்களின் பூவிதழ்களை இணைக்கின்ற கொடியாக இருந்து ஏழாவது சக்கரமாக இருக்கின்ற இறைவனிடம் இணைப்பது இறைவியே ஆகும்.`,
   },
   {
@@ -2962,6 +3010,9 @@ Lo! all the while He stood before me
 Like a beacon light in firmament
 Guiding my voyage
 Across the sea of my Soul's longing.`,
+    elaborationEnglish: `Mantras 1562 & 1563
+
+Narrow and crooked is not the path to the Lord. All the while, He stands before you like a beacon light guiding the voyage across the sea of soul's longing. Seek the proven path of Siva that leads to Hara. It is the divine path that renowned souls have treaded through time.`,
     elaborationTamil: `அனைத்தையும் காத்து நிற்கின்ற இறைவனை அடைவதற்கான வழி முறைகளாக இருப்பவற்றை அறிந்து கொண்டேன் யானும். அந்த இறைவனை அடைவதற்கான வழி முறைகளை தேடி யான் திரிந்து கொண்டிருந்த முன்னொரு நாட்களில் எமக்குள் பல விதமான எண்ணங்கள் அலை மோதிக் கொண்டு இருக்கின்ற வழி முறைகளில் எமது உள்ளமாகிய பெரும் கடலை கடந்து மேல் நிலைக்கு செல்லுவதற்கு இறைவன் எமக்குத் தந்து அருளிய வழி முறைகளாக இருந்து வழி காட்டுவது தமக்கு சரிசமமாக எதுவும் இல்லாத பேரொளிச் சுடராக எமக்குள் இருக்கின்ற இறைவனே என்பதை அறிந்து கொண்டேன்.`,
   },
   {
@@ -2999,11 +3050,9 @@ Still your wandering thoughts;
 Chant sacred syllable "Si"
 And so persevere in Path of Hara
 You shall envision Primal Light Effulgent.`,
-    elaborationEnglish: `Perseverence in the path of Hara enables the jiva to reach the effulgent Primal Light vision through the Saiva path. There is the Primal Lord, the tender shoot of Jnana Light with the
+    elaborationEnglish: `Mantras 1564-1566
 
-Lady of Lightning Form, the blazing fire of Vedic brahmins
-
-and of the radiant souls who think of Him in devotfon.`,
+Perseverence in the path of Hara enables the jiva to reach the effulgent Primal Light vision through the Saiva path. There is the Primal Lord, the tender shoot of Jnana Light with the Lady of Lightning Form, the blazing fire of Vedic brahmins and of the radiant souls who think of Him in devotion.`,
     elaborationTamil: `பொருளும் போகமும் வேண்டும் அருளும் ஞானமும் வேண்டும் என்று இரண்டு விதமாக அலைகின்ற மனதை அந்த இரண்டு ஆசைகளும் இல்லாமல் போகும் படி வெளியே எடுத்து வீசிவிடுங்கள். அப்போது கிடைக்கின்ற பேரமைதியான நிலையில் சாதகருக்குள் சக்தியின் ஒலி வடிவமாகிய ஒரு மந்திர எழுத்து தோன்றும். அப்படி தானாகவே தோன்றுகின்ற மந்திர எழுத்தை அசபையாக ஓதிக் கொண்டே இருங்கள். அவ்வாறு ஓதிக் கொண்டு இருப்பவரை அணைத்துக் காப்பாற்றுகின்ற வழி முறையில் மனதை நிலை பெற வைத்திருந்தால், தமக்குள்ளே உருவாகும் சுடரானது பேரொளியாக தோன்றுவதை நீங்கள் உணரலாம்.`,
   },
   {
@@ -3085,7 +3134,7 @@ What though the form of Faith?
 What though the place of Birth?
 They with mind to infinity attuned
 Sure enter the City of God.`,
-    elaborationEnglish: `Siva smiles in pity at the mad men who contend about faiths. To attune to infinity is to reach the ‘City of God’. Go wrguiir`,
+    elaborationEnglish: `Siva smiles in pity at the mad men who contend about faiths. To attune to infinity is to reach the ‘City of God’.`,
     elaborationTamil: `இந்த தவம் சிறந்தது அந்த தவம் சிறப்பு இல்லாதது என்று நன்மை தீமை என்று இரண்டு விதமான பெயர்களை வைக்கின்ற பைத்தியக்காரர்களை எங்களின் பெருமை மிக்க குருநாதனாகிய இறைவன் கண்டு கொள்வது இல்லை. எந்த தவத்தை கடைபிடித்தால் என்ன? இந்த உலகத்தில் எந்த இடத்தில் எந்த உயிராக பிறந்திருந்தால் என்ன? அனைத்து உயிர்களிலும் அன்பின் வடிவமாக இறைவன் ஒருவனே இருக்கின்றான் என்பதை உணருபவர்களுக்கு உடனடியாக முக்திக்குள் நுழைய முடியும்.`,
   },
   {
@@ -3125,6 +3174,9 @@ He stands as the sea and the myriad life here below,
 And with Parasakti pervades all
 In Union that no separateness knows
 Verily, God is the Beginning and End of All.`,
+    elaborationEnglish: `Mantras 1570 & 1571
+
+With Parasakti, the Primal Lord pervades all Seven Worlds. He is the Beginning and End of all. The immortal beings, devas and Vidyadharas sought Him, but in vain. Pursuit through the proven path of Siva grants realisation of bliss here and hereafter.`,
     elaborationTamil: `ஆதியிலிருந்தே இருக்கின்ற தலைவனாகிய இறைவனே ஏழு உலகங்களையும் அவற்றின் தேவைக்கு ஏற்ப அளந்து படைத்தான். அலைகளால் பேரிரைச்சல் கொண்டு இருக்கின்ற கடல்களும் அது சூழ்ந்து நிற்கின்ற உலகத்தில் வாழ்கின்ற உயிர்களும் ஆகிய அனைத்துமாக அவனே நிற்கின்றான். அவை அனைத்தில் இருந்தும் வேறு பட்டு இல்லாதவனாக ஒன்றாகவே கலந்து நிற்கின்ற இறைவனே அசையும் சக்தியாகவும் இருந்து அனைத்தையும் இயக்குகின்றான். ஆதியிலிருந்தே அனைத்தையும் பார்க்கின்றவனாகவும் பார்க்கப் படுகின்ற பொருளாகவும் இருக்கின்ற தெய்வமாகவும் அனைத்தையும் ஊழிக் காலத்தில் அழிக்கின்ற தெய்வமாகவும் அவனே இருக்கின்றான். கருத்து: உயிர்களுக்குள் இருக்கின்ற இறைவனே உயிர்கள் வெளிப்புறத்தில் பார்க்கின்ற அனைத்துமாகவும் இருக்கின்றான் அனைத்தையும் இயக்குகின்றான் என்பதை உணர்ந்து வழி படுதலே அவனை அடைவதற்கு எளிதான வழியாகும்.`,
   },
   {
@@ -3161,7 +3213,7 @@ Baffling it is, why into the six systems was it made;
 A baffling mystery far,
 How into the shedding sheaths of this body microcosm
 Got imprinted a veritable macrocosm.`,
-    elaborationEnglish: `microcosm — the Over-Soul in the self-soul—the tremendum.`,
+    elaborationEnglish: `Life's goal is the realisation of the macrocosm in the microcosm — the Over-Soul in the self-soul—the mysterium tremendum.`,
     elaborationTamil: `அறிந்து கொள்ள முடியாத உடம்பின் உண்மையான பயனாகிய அக வழிபாட்டின் மூலம் இறைவனை அடைவதை உணர்ந்து, இறைவனை அடைவதற்கான ஆறு விதமான வழி முறைகளில் தங்களின் பக்குவத்து ஏற்ற ஒரு வழி முறையை தேர்ந்து எடுத்து அதில் முழுமை பெற்று அந்த முறையின் மூலம் கிடைக்கின்ற தம்மை முழுவதும் மூடியிருக்கும் பாதுகாப்பு அரனாக இருக்கின்ற உறையை பெற்று, ஒரு அண்டத்தையே தமது உடம்பிற்குள் பதித்து காணுவதே இறைவனை அடைவதற்கான வழி முறையாகும்.`,
   },
 ];

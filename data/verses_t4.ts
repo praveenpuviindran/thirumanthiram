@@ -9749,6 +9749,11 @@ She is spaces all, She filled spaces all;
 She is the space beyond spaces
 She created all, She preserved all,
 She is universe all, and lives all.`,
+    elaborationEnglish: `Saum Sakti is space and beyond space. She created all, preserved all. She is the entire universe and all life.
+
+You may well see many good things in the sacrificial pit. Yet, you may not know that She is in the very centre of your visuddhi chakra.
+
+They do not know Her pervasiveness and immanence in the sea girt world, in body and life. They are ignorant of Saum Sakti's greatness.`,
     elaborationTamil: `பாடல் #1360 இல் உள்ளபடி சாதகர்கள் தமக்குள் உணர்ந்து தெரிந்து கொள்ளுகின்ற இறைவி தாமே ஆகாயமாகவும் அதிலுள்ள அனைத்திலும் நிறைந்தும் இருக்கின்றவள். அவளே ஆகாயத்திற்கும் மேலான பரவெளியாகவும் இருக்கின்றவள். அவளே அனைத்தையும் உருவாக்கி அவற்றின் வினை முடிந்த பின் அழிக்கின்றவள். அவளே அனைத்திலும் கலந்து உள்ளவளாகவும் அண்ட சராசரத்திலுள்ள அனைத்துமாகவும் இருக்கின்றாள்.`,
   },
   {
@@ -9801,6 +9806,9 @@ To speak of that Chakra, of its volition arose,
 Mark lines ten (horizontal and vertical)
 And thus form nine squares on each line,
 In all form squares eighty and one.`,
+    elaborationEnglish: `Mantras 1364 & 1365
+
+Mark ten horizontal and vertical lines and thus form nine squares on each line. In all they form 81 squares. Forming the Chakra thus, color the outer circle in a golden shade, the squares in red and the mantra letters in green.`,
     elaborationTamil: `நவாக்கிரி சக்கரத்தை சாதகர்கள் சாதகம் செய்யும் போது அவர்களுக்குள்ளிருந்து தாமாகவே எழுந்து மேலே வருகின்ற நவாக்கிரி சக்கரத்தைப் பற்றி சொல்ல போனால் தமது மனதையும் புத்தியையும் ஒன்றாகச் சேர்த்து மானசீக கோடுகளாக இடமிருந்து வலமாகவும் மேலிருந்து கீழுமாகவும் பத்து கோடுகள் வரைந்து முறைப்படி சக்கரத்தை அமைக்க வேண்டும். அதன் பிறகு அந்தக் கோடுகளில் இருந்து கிடைக்கின்ற அமிழ்த்தைப் பார்த்து திகைத்து போய் நிற்காமல் இடமிருந்து வலமாகவும் மேலிருந்து கீழுமாகவும் உள்ள ஒன்பது அறைகளோடு தாமும் ஒன்றாகக் கலந்து நின்று சக்கரத்தில் இருக்கும் மொத்தம் எண்பத்தொன்று அறைகளிலும் மனது ஒன்றி இருக்க வேண்டும்.`,
   },
   {
@@ -9836,6 +9844,7 @@ Fill Sakti in chambers eighty and one;
 Offer hot ghee and rice
 Perform homa,
 And Prana Oblations.`,
+    elaborationEnglish: `Inscribe the Sakti's letters on the bark of a tree. Fill Sakti in the 81 chambers. Offer hot ghee and rice and thus perform homa and prana oblations.`,
     elaborationTamil: `நவாக்கிரி சக்கரத்தை வரைந்து பூஜை செய்வதற்கு ஏதுவான மரத்தின் பட்டையை எடுத்து அதில் சக்கரத்தை எழுத வேண்டும். அதன் பிறகு அதற்கு ஏற்றபடி வார்க்கப்பட்டு புடம் செய்த தங்கத் தகடில் மரப் பட்டையை வைத்து நவாக்கிரி சக்கரத்தில் இருக்கும் எண்பத்தோரு அறைகளையும் வரைந்து அதற்குள் எண்பத்தோரு பீஜங்களையும் எழுதி அடைக்க வேண்டும். அதன் பிறகு நன்றாக காய்ச்சிய அவிர் பாகத்திற்கு ஏற்ற நெய்யுடன் கலந்து அதனோடு மரக்கட்டைகளை வைத்து ஹோமம் செய்து தங்கத் தகடில் எழுதிய பீஜங்களை நன்றாக ஆராய்ந்து அவற்றையே அவிர் பாகமாக ஆயிரம் முறை ஜெபித்து ஹோமத்தில் சமர்ப்பணம் செய்யுங்கள். குறிப்பு: இதுவரை நவாக்கிரி சக்கரத்தை மானசீகமாக சாதகம் செய்யும் முறைகளை அருளிய திருமூலர் இந்தப் பாடலில் இருந்து வெளிப்புற பூஜையில் நவாக்கிரி சக்கரத்தை அமைத்து சாதகம் செய்யும் முறைகளை அருளுகிறார்.`,
   },
   {
@@ -9872,21 +9881,9 @@ Sandal, saffron flower, musk of deer
 Fragrant paste, civet scent and ghee
 Camphor, bezoar, and rose water
 These nine you blend on the Chakra smear.`,
-    elaborationEnglish: `orpiment and scented water.
+    elaborationEnglish: `Smear the Chakra with nine perfumes - sandal, saffron, flower, deer musk, fragrant paste, civet scent, ghee, camphor, orpiment and scented water.
 
-aséAn) Darios SUBOS Up Soro nw gs
-
-To speak of the Worship
-
-That you ‘should perform at Sri Chakra;
-
-That holds the Virgin Sakti as its nodal pull
-
-Worship the mantra with incantations a thousand
-
-Thus do you on it continuous meditate.
-
-Sri Chakra holds the Virgin Sakti as its noda] pull. Chant the mantra 1 million times and thus meditate constantly. Agog THOS STMT Q)cheperpitd 2 cirargy GOW aledevidly`,
+Sri Chakra holds the Virgin Sakti as its nodal pull. Chant the mantra 1 million times and thus meditate constantly.`,
     elaborationTamil: `அபிஷேகம் செய்வதற்கு ஏற்ற தூய்மையான சந்தனமும் குங்குமமும் கஸ்தூரியும் வாசனை மிகவும் பரவும் கருமையான அகில் கட்டையை அரைத்த சாந்தும் ஜவ்வாதும் புனுகும் நெய்யும் சேர்க்க வேண்டும். அதனுடன் அபிஷேகம் செய்வதற்கு ஏற்ற தூய்மையான பச்சைக் கற்பூரமும் பசுவின் மேன்மை பொருந்திய கோமியமும் சேர்க்க வேண்டும். இப்படி சேர்ப்பதற்கு ஏதுவான ஒன்பது பொருட்களையும் ஒன்றாகச் சேர்த்து பாடல் #1367 இல் உள்ளபடி சாதகர் சாதகம் செய்து சக்தியேற்றிய தங்கத் தகடில் வைத்து அபிஷேகம் செய்ய வேண்டும்.`,
   },
   {
@@ -10015,9 +10012,6 @@ The Luminous One, the dazzling Light,
 In soft radiance, Sakti emits Her brilliance divine;
 She is of the dark-golden hue of clouds,
 She stood as light through world entire.`,
-    elaborationEnglish: `The spreading hands two held lotus blooms, The blessing. hands two in tender grace gestured, The lovely breasts two wete in pearl and coral decked
-
-The comely garments in pure gems interlaced.`,
     elaborationTamil: `பாடல் #1374 இல் உள்ளபடி முக்தி அடைவதற்கான பெரிய வழியாக இருக்கின்ற இறைவனின் பேரொளி உருவமானது சாதகருக்குள் இருக்கும் சகஸ்ரதள தாமரை மலரின் நடுவில் சீரும் சிறப்பும் பொருந்திய பேரொளியாக திகழ்கின்ற நிலையைத் தருகின்ற தலைவியாகிய இறைவியே சகஸ்ரதளத்தில் இருக்கும் தாமரை மலரின் ஒளியாக இருக்கின்றாள். அவளுடைய திருமேனியானது தங்கம் போல பிரகாசமாக ஜொலிக்கின்றது. அவளே உலகத்திற்கு ஒளி தருபவளாக எங்கும் பரவி விரிந்து நிற்கின்றாள்.`,
   },
   {
@@ -10111,6 +10105,7 @@ The full flower that in Muladhara arose
 Blossoms into Light Effulgent
 Pervading adharas all
 The Red Flame reached the Sphere of Fire.`,
+    elaborationEnglish: `Srim is the flower that arises in muladhara and blossoms into effulgent light and pervades all the adharas.`,
     elaborationTamil: `நவாக்கிரி சக்கரத்தின் சாதகத்தில் முழுமை பெற்ற சாதகரின் மூலாதாரத்திலிருந்து மேலே எழுந்து வருகின்ற முழுமை பெற்ற ஜோதி வடிவான சக்தியானது சாதகரிடமிருந்து வெளிப்பட்டு வரும் போது மிகப் பெரும் ஒளியாக விரிந்து நவாக்கிரி சக்கரத்தின் சக்தியே பேரொளியான மலராக மாறுகின்றது. அப்போது அது சென்று பரவுகின்ற அனைத்து இடத்திலும் பரிபூரணமாக முழுவதுமாக நிறைகின்றது. அதன் பிறகு பேரொளியான மலரில் பரிபூரணமான இந்த சக்தியானது அனைத்து உயிர்களும் சென்று சேருகின்ற நன்மை செய்கின்ற நெருப்பு மண்டலமாகவே ஆகி விடுகின்றது. கருத்து: நவாக்கிரி சக்கர சாதகத்தில் முழுமை பெற்ற சாதகரிடமிருந்து வெளிவரும் ஜோதி வடிவமான சக்தியானது அண்ட சராசரங்களுக்கும் பரவுகின்ற பேரொளியான மலராக விரிகின்றது. அப்படி விரிந்த மலருக்குள் இருக்கும் சக்தியானது மகரந்தத்தால் வண்டுகளை ஈர்ப்பது போல தனக்குள் இருக்கும் சக்தியால் உயிர்களை ஈர்த்து நன்மை செய்கின்ற நெருப்பு மண்டலமாக இருக்கின்றது.`,
   },
   {
@@ -10128,6 +10123,7 @@ There in the Sphere of Fire She sat;
 There She appears in forms fifty and six;
 There She is visioned by Saktis fifty and six;
 There She is by Saktis fifty and six surrounded.`,
+    elaborationEnglish: `Hrim Sakti surrounded by 56 minor Saktis appears in the sphere of the fire (svadhistana).`,
     elaborationTamil: `பாடல் #1380 இல் உள்ளபடி தனக்குள் இருக்கும் சக்தியால் உயிர்களை ஈர்த்து நன்மை செய்கின்ற நெருப்பு மண்டலத்திற்கு உள்ளே நடுவில் வீற்றிருக்கின்ற இறைவியானவள் அவளே தனி ஒருவளாகவும் தலைவியாகவும் அந்த நெருப்பு மண்டலமாகவும் இருக்கின்றாள். பாடல் #1371 இல் உள்ளபடி இறைவியின் அம்சமாக எட்டு வகையாகவும் வகைக்கு எட்டு பேராகவும் மொத்தம் அறுபத்து நான்கு சக்திகள் இருக்கின்றார்கள். எட்டு வகையாக இருக்கின்ற சக்திகளில் வகைக்கு ஒருவராக மொத்தம் எட்டு சக்திகளும் இறைவியோடு சேர்ந்திருக்க மீதமுள்ள ஐம்பத்து ஆறு சக்திகளும் இறைவிக்கு இணையான அருளைத் தருபவர்களாக அவளைச் சூழ்ந்து கொண்டு இருக்கின்றார்கள்.`,
   },
   {
@@ -10238,7 +10234,6 @@ She is Queen of Songs,
 She is milk-hued,
 She is Queen of Jiva,
 There was She seated in Navel Center.`,
-    elaborationEnglish: `She is Queen of Jiva, There was She seated in Navel Centre.`,
     elaborationTamil: `நாக்கிற்கு தலைவியான இறைவி நல்ல நவரத்தினங்களை பதித்து இருக்கும் மாலையை அணிந்து இருக்கின்றாள். மலர் வடிவான சக்கரத்திற்கு தலைவியான இறைவி தலை முடியிலிருந்து கீழ் வரை தங்கம் போல் தகதகக்கும் ஆடையை அணிந்து இருக்கின்றாள். பாடல்களுக்கு தலைவியான இறைவி பாலைப் போன்ற வெண்மையான நிறம் கொண்டு இருக்கின்றாள். ஆன்மாவிற்கு தலைவியான அவளே சாதகரின் ஆன்மாவோடு அங்கேயே வீற்றிருக்கின்றாள். உட் கருத்து: நவாக்கிரி சக்கரத்தில் இருக்கின்ற பீஜ மந்திரங்களை சொல்லும் சாதகரின் வாக்கிற்கு தலைவியான இறைவி நன்மையைக் கொடுக்கும் பிரகாசத்தினால் ஈர்க்கின்ற தேஜஸை கொண்டு விளங்குகின்றாள். மலர் போல மென்மையான சக்கரத்திற்கு தலைவியான இறைவி சாதகருக்கு உள்ளிருந்து பிரகாசமாக தலை முடியிலிருந்து கீழ் வரை சூரியக் கதிர்களைப் போல பிரகாசமாக வெளிப்பட்டு வருவாள். நவாக்கிரி சக்கரத்தில் இருக்கின்ற மந்திரத்தின் தலைவியான இறைவி சாதகரின் சாதகத் தன்மைக்கு ஏற்ற விதத்தில் அருளுபவளாக இருக்கின்றாள். ஆன்மாவிற்கு தலைவியான அவளே சாதகரின் ஆன்மாவோடு அங்கேயே வீற்றிருக்கின்றாள்.`,
   },
   {
@@ -10376,13 +10371,15 @@ Her breasts are in corset contained,
 Her hands pendant in blessing gesture,
 Thus the Sweet One appears,
 She of waist slender.`,
-    elaborationEnglish: `Here, the letters are given as 48 (or 56) in number. gra`,
+    elaborationEnglish: `Gaum Sakti is surrounded by 48 minor Saktis and eight vestal virgins.
+
+Here, the letters are given as 48 (or 56) in number.`,
     elaborationTamil: `பாடல் #1393 இல் உள்ளபடி சாதகருக்குள் பசுமையாக வீற்றிருக்கின்ற இறைவிக்கு சரிசமமாக அவளைச் சூழ்ந்து நிற்கின்ற சக்திகள் நாற்பத்தெட்டு பேர் இருக்கின்றார்கள். அவளுக்கு சரிசமமாகவும் நெருக்கமாகவும் இருக்கின்ற சக்திகள் எட்டு பேரும் நாற்பத்து எட்டு பேரோடு கூட்டி மொத்தம் ஐம்பத்து ஆறு பேரும் அவளை எப்போதும் சூழ்ந்து வருகின்றார்கள். அவர்கள் அனைவரும் தங்களின் திருமார்புகளில் மார்புக் கச்சைகளை அணிந்து கொண்டும் தங்களின் திருக்கரங்கள் இரண்டிலும் ஆயதங்களை ஏந்திக் கொண்டும் காக்கின்ற வளையமாக சூழ்ந்து இருக்க மெல்லிய இடையைக் கொண்டு பசுமையாக இருக்கும் இறைவி அவர்களுக்கு நடுவில் இனிமையாக வீற்றிருந்தாள்.`,
   },
   {
     id: 1396, tantraId: 4, verseNumber: 1395,
     tamil: `தாளதின் உள்ளே தாங்கிய சோதியைக்
-காலது வாகக் கலந்து கொள் என்று
+காலது வாகக் கலந்து கம் ஜம் என்று
 மாலது வாக வழிபாடு செய்துநீ
 பாலது போலப் பரந்தெழு விண்ணிலே`,
     transliteration: `tāḷatiṉ uḷḷē tāṅkiya cōtiyaik
@@ -10395,6 +10392,7 @@ Course your breath to unite in Her in Anahatha
 And in devotion true the adhara above ascend,
 You shall into the heaven within rise,
 That is milky white pure (Solar Sphere).`,
+    elaborationEnglish: `Course the kundalini fire that rises in the muladhara to unite in Her in anahata with true devotion. Then you shall rise into the heaven within that is pure milky white.`,
     elaborationTamil: `பாடல் #1394 இல் உள்ளபடி சாதகருக்குள் வீற்றிருக்கின்ற இறைவியின் திருவடிகளுக்கு உள்ளேயே பிரகாசமாக இல்லாமல் மங்கி இருக்கும் ஜோதியை மூச்சுக் காற்றோடு கலந்து ‘கௌம்’ மற்றும் ‘ஐம்’ எனும் பீஜ மந்திரங்களை அதோடு சேர்த்து ஜெபித்துக் கொண்டு காக்கின்ற தெய்வமாக அந்த ஜோதியை எண்ணி தியானம் செய்தால் பசுவின் உடல் முழுவதும் உள்ள இரத்தமே பாலாக மாறுவது போல சாதகர்களின் உடல் முழுவதும் பரந்து இருக்கும் ஜோதியானது சாதகரின் உடலுக்குள்ளிருந்து மேலெழுந்து வந்து ஆகாயத்திலும் பரந்து விரிந்து கொண்டே இருக்கும்.`,
   },
   {
@@ -10421,7 +10419,7 @@ Unto the cool waters of a well was She.`,
     tamil: `கூபத்துச் சத்தி குளிர்முகம் பத்துள
 தாபத்துச் சத்தி தயங்கி வருதலால்
 ஆபத்துக் கைகள் அடைந்தனநாலைந்து
-பாசம் அறுக்கும் படையுடை யாளே`,
+பாசம் அறுக்கும் பரந்தன சூலமே`,
     transliteration: `kūpattucc catti kuḷirmuakm pattuḷa
 tāpattucc catti tayaṅki varutalāl
 āpattuk kaikaḷ aṭaintana nālaintu
@@ -10432,7 +10430,7 @@ Has benignant faces ten;
 There in Sun's Sphere She gently appears;
 She assumes protecting hands four times five,
 And to sunder Pasa holds the Trident.`,
-    elaborationEnglish: `The Sakti thus seated has twin benignant faces. She has 20 protective hands, and with the trident She sunders pasas. Ouoacrursr situsp Erewons Gaby wrAdh`,
+    elaborationEnglish: `The Sakti thus seated has twin benignant faces. She has 20 protective hands, and with the trident She sunders pasas.`,
     elaborationTamil: `பாடல் #1396 இல் உள்ளபடி சாதகரின் தொப்புள் குழிக்கும் இதயத்திற்கும் இடைப்பட்ட இடத்தில் இருக்கின்ற சூட்சுமத் துளையான கிணற்றில் வீற்றிருக்கும் இறைவிக்கு குளிர்ச்சியான அருளை வழங்கும் திருமுகங்கள் பத்து விதமாக இருக்கின்றது. சாதகருக்குள்ளிருந்து எழுந்து வருகின்ற உணர்வுகளால் மனம் சஞ்சலம் அடையாதபடி அந்த பத்து திருமுகங்களின் அருளால் இறைவியானவள் வேகத்தை தடுத்துக் குறைத்து தயங்கி வரும்படி அருளுகின்றாள். அந்த உணர்வுகளால் வருகின்ற ஆபத்துகளில் இருந்து சாதகரை காப்பாற்றி அருளுவதற்கு பல விதமான ஆயுதங்களை ஏந்திக் கொண்டு இருக்கும் தனது இருபது திருக்கரங்களை சாதகருக்குள் கொடுத்து சாதகருக்கும் அந்த உணர்வுகளுக்குமான பந்தத்தை அறுக்கும் படி பரந்து விரிந்து சாதகரை சுற்றி அருளுகிறாள். இறைவி தனது பத்து திருமுகங்களாலும் தடுத்து அருளுகின்ற பத்து விதமான மன சஞ்சலங்கள்: காமம் – சிற்றின்பம் குரோதம் – கோபம் உலோபம் – பேராசை, கருமித்தனம் மோகம் – மாயையால் நிகழும் மயக்க உணர்ச்சி மதம் – கொள்கை, செருக்கு, வெறி, மதுபானக் களிப்பு, பெருமை மாச்சரியம் – பொறாமை, பகைமை டம்பம் – ஆடம்பரம் தர்ப்பம் – ஆசைகள் அசூயை – பொறாமை ஈரிசை – பிறர் துன்பம் கண்டு மகிழ்வது`,
   },
   {
@@ -10488,6 +10486,9 @@ Her silken dress spreads below Her slender waist
 Her Feet hold the anklets
 Thus, adorned, as a girlish nymph,
 She stood before me.`,
+    elaborationEnglish: `Mantras 1400 & 1401
+
+Krim Sakti appears as a girl. With Her appearance arises anima and the rest of the occult powers. The Pasas are severed and the unique light of jnana in those who realize Her.`,
     elaborationTamil: `பாடல் #1399 இல் உள்ளபடி அனைத்தையும் தாண்டி இருக்கின்ற மாபெரும் சக்தியான இறைவி தங்கத்தாலான கிரீடத்தை தனது திருமுடியிலும் மாணிக்கத்தாலான தோடுகளை தனது திருக்காதுகளிலும் முத்துக்களாலான ஆரத்தை தனது திருக்கழுத்திலும் பவளங்களால் பதிக்கப் பட்ட கச்சையை தனது திருமார்பிலும் தனது திருஇடையைத் தாண்டி படர்ந்து இருக்கின்ற கீழ் பகுதியில் பட்டாலான ஆடையையும் தனது திருவடிகளில் சிலம்புகளையும் அணிந்து கொண்டு சாதகருக்குள் இருக்கும் நவாக்கிரி சக்கரத்தில் ஆரம்ப நிலையில் இருக்கின்ற ‘ஹ்ரீம்’ எனும் பீஜ மந்திரத்தில் வந்து வீற்றிருக்கின்றாள்.`,
   },
   {
@@ -10543,7 +10544,6 @@ The lotus that is lovely unto Her eyes,
 The kettle-drum that is held in Her hands
 The gem-set garland that adorns Her body,
 With these She worship receives.`,
-    elaborationEnglish: `The gem-set garland that adorns Her body, With these = worship receives.`,
     elaborationTamil: `பாடல் #1402 இல் உள்ளபடி நன்மையை அருளும் இறைவியின் பத்து திருக்கரங்களில் தூய்மையான ரத்தின மணிகளை பதித்த 1. திரிசூலமும் 2. மண்டையோடும் 3. கிளியும் 4. பலவிதமான ரத்தின மணிகளை பதித்த நாகமும் 5. கோடரியும் 6. கத்தியும் 7. பந்தும் ஆயுதமாகவும் 8. கல்லில் ரத்தின மணிகளை பதித்த தாமரை மலரும் 9. தமருகமும் 10. தங்கத்தில் ரத்தின மணிகளால் சேர்த்துப் பூட்டிய மாலையும் வைத்து இருக்கின்றாள். இப்படி இறைவியின் திருக்கரங்களில் இருக்கும் பத்து பொருட்களுமே இறைவிக்கு சரிசமமாக பூஜிக்கத் தகுந்தது ஆகும். குறிப்பு: முருகனின் வேலை வணங்குவது முருகப் பெருமானை வணங்குவதற்கு சமமாகக் கொள்ளப் படுவது போலவே இங்கே இறைவியின் திருக்கரங்களில் இருக்கின்ற பத்து பொருளையும் வணங்குதல் இறைவியை வணங்குவதற்கு சமமாகக் கொள்ளப் படுகிறது.`,
   },
   {
@@ -10580,13 +10580,12 @@ To rouse it and send it upward over adharas,
 Do center your mind on the root mantra (Aum)
 Your mind-force then lifts it up, heavenward,
 Like the clouds over terrestrial sphere.`,
-    elaborationEnglish: `To rouse it and send it upward over adharas, Do centre your mind on the root mantra (Aum) Your mind-force then lifts it up, heavenward, Like the clouds over terrestrial sphere.`,
     elaborationTamil: `சாதகருக்குள் இருக்கும் சகஸ்ரதளத்தில் உள்ள ஆயிரம் இதழ் கொண்ட தாமரை மலரின் உள்ளே இருந்து சாதகம் செய்ய செய்ய மெதுவாக மேலெழுந்து வருகின்ற ஜோதியை சாதகர் இருக்கின்ற உலகத்தில் இருக்கின்ற உயிர்களுக்கு எல்லாம் பரந்து சென்று அவைகளுக்கு உள்ளே இருக்கின்ற ஜோதியோடு எழுந்திடும். இதற்கு ஆதாரமாக சாதகரின் உள்ளே சகஸ்ரதளத்தில் இருக்கின்ற ஜோதியும் அதனோடு ஒன்றாக சேர்ந்து நிற்கும் படி எண்ணிக் கொண்டே இருக்கின்ற சாதகரின் மன வலிமைக்கும் தியானத்திற்கும் ஏற்றபடி மேகங்களில் இருக்கின்ற நீர் மண்ணில் மழையாகப் பொழிந்து வெப்பத்தால் ஆவியாகி மீண்டும் மேகத்தோடு சேர்ந்து மழையாக பொழிவது போலவே சாதகருக்குள்ளிருக்கும் ஆதார ஜோதியானது உலகம் முழுவதும் பரந்து விரிந்து இருக்கின்ற உயிர்களோடும் கலந்து எழுந்து அனைவருக்கும் பயன் கொடுக்கும் ஜோதியாக விளங்குகின்றது.`,
   },
   {
     id: 1407, tantraId: 4, verseNumber: 1406,
-    tamil: `அகாரம் உகாரம் என்னும் ஐங்கரத்தால்
-மண்ணில் எழுந்து சிவாய நமவென்று
+    tamil: `மண்ணில் எழுந்த அகார உகாரங்கள்
+விண்ணில் எழுந்த சிவாய நமவென்று
 கண்ணில் எழுந்தது காண்பரிது அன்றுகொல்
 கண்ணில் எழுந்தது காட்சிதர என்றே`,
     transliteration: `akāram ukāram eṉṉum aiṅkarattāl
@@ -10653,18 +10652,11 @@ nāḷili taṉṉai naṇukiniṉ ṟārkaḷē`,
     english: `1409: Aum Sakti is Surrounded by 36 Saktis and 36 Vestal
 Virgins
 The goodly Saktis six and thirty
-The vestal Virgins six and thirty`,
-    elaborationEnglish: `They seek Her that has her home in the lotus bloom, They seek Her, the Eternal One,
-
+The vestal Virgins* six and thirty
+They seek Her that has her home in the lotus bloom,
+They seek Her, the Eternal One,
 From within the lotus of their bosom.
-
-Practise Kundalini for a Year
-
-My thoughts stood still in meditation, The Kundalini Fire filled the adharas, I beheld the Light above in Sahasrara, And as I -held it in my heart,
-
-In a year Sakti appeared,
-
-‘The Sakti that is of luminous Aum.`,
+*Yoginis (female yogis)`,
     elaborationTamil: `பாடல் #1408 இல் உள்ளபடி எந்தவிதமான தீங்கும் இல்லாமல் சாதகருக்குள் இருக்கின்ற சக்திகள் மொத்தம் முப்பத்தாறு பேர் இருக்கின்றார்கள். சாதகர் தேடி அடைய வேண்டியது இல்லாமல் தாமாகவே இறைவியோடு சேர்ந்து வருகின்ற என்றும் இளமையுடன் இருக்கும் இந்த முப்பத்தாறு சக்திகளும் தமக்கென்று எந்த இடமும் இல்லாதவர்களாக சாதகருக்குள் இருக்கும் சக்கரங்களின் இதழ்களையே தமக்கு இடமாகக் கொண்டு அதன் உள்ளே வீற்றிருக்கின்றார்கள். இவர்கள் முப்பத்தாறு பேரும் காலம் என்கிற ஒன்று இல்லாதவளாகிய இறைவியை நெருங்கியே நிற்கின்றார்கள்.`,
   },
   {
@@ -10672,7 +10664,7 @@ In a year Sakti appeared,
     tamil: `நின்றது புந்தி நிறைந்திடும் வன்னியும்
 கண்டது சோதி கருத்துள் இருந்திடக்
 கொண்டது ஓராண்டு கூடி வருகைக்கு
-விண்டஔ காரம் விளங்கின அன்றே`,
+விண்டவெள காரம் விளங்கின அன்றே`,
     transliteration: `niṉṟatu punti niṟaintiṭum vaṉṉiyum
 kaṇṭatu cōti karuttuḷ iruntiṭak
 koṇṭatu ōrāṇṭu kūṭi varukaikku
@@ -10684,6 +10676,9 @@ I beheld the Light above in Sahasrara,
 And as I held it in my heart,
 In a year Sakti appeared;
 The Sakti that is of luminous Aum.`,
+    elaborationEnglish: `Mantras 1410 & 1411
+
+Concentrate your thoughts in meditation. The kundalini fire fills the adharas and you vision the light in the cranium. In a year, Aum Sakti of luminous form will appear. Indeed you too will become luminous and all the heavenly beings shall bow before you. On you will be conferred all things that are good and true.`,
     elaborationTamil: `பாடல் #1409 இல் உள்ளபடி முப்பத்தாறு சக்திகளும் நெருங்கி நிற்கின்ற இறைவியே சாதகரின் அறிவு முழுவதும் நிறைந்து இருக்கின்ற அக்னியாகவும் அந்த அக்னிக்குள் தரிசிக்கின்ற வடிவமே ஜோதியாகவும் தமது கருத்துக்கு உள்ளே வைத்து இடைவிடாமல் ஒரு வருடம் தியானத்தில் இருந்தால் பாடல் #1406 இல் உள்ளபடி ஆகாயம் முழுவதும் பரந்து விரிந்து இருக்கின்ற நவாக்கிரி சக்கரத்தில் உள்ள ‘ஔம்’ எனும் பீஜ மந்திரத்தின் உட் பொருளை விளங்கிக் கொள்ள முடியும்.`,
   },
   {
@@ -10743,6 +10738,11 @@ The exulting l-ness leaves you;
 In the Chakra Sahasarara that represents the spaces vast
 You shall see Her, close entwined,
 She, the Maiden Innocence.`,
+    elaborationEnglish: `Saum Sakti is seated in the moon sphere.
+
+Mantras 1413 & 1414
+
+When you worship Saum Sakti, the exulting ego leaves you. Saum Sakti is the maiden innocence. She is of exotic beauty. She is surrounded by several maidens, and the vast world serves as Her tilak.`,
     elaborationTamil: `பாடல் #1412 இல் உள்ளபடி தங்கம் போல் பிரகாசிக்கின்ற கொடியாக இருக்கின்ற இறைவியோடு சாதகர் எப்போதும் சேர்ந்தே இருந்து பூஜைகள் செய்து கொண்டு இருக்கும் போது அதில் இறைவி என்னோடு இருக்கின்றாள் என்கிற இன்பமான எண்ணமாகிய அகங்காரம் சாதகரை விட்டு விலகி விடும். அதன் பிறகு சாதகரைச் சுற்றி காவலாக நிலைபெற்று நிற்கின்ற மண்டலத்திற்கு உள்ளேயே சாதகரோடு ஒன்றாக பின்னிப் பிணைந்து இருக்கின்ற கொடியாகவும் குழந்தை போலவும் இருக்கின்ற இறைவியை தமக்குள்ளே சாதகரால் தரிசிக்க முடியும்.`,
   },
   {
@@ -10782,6 +10782,7 @@ Vestal Virgins thirty and two accompanying,
 In the spreading petalled lotus within
 She sat,
 She that has places several.`,
+    elaborationEnglish: `Here, the number (of letters) become 64.`,
     elaborationTamil: `பாடல் #1414 இல் உள்ளபடி இறைவியைச் சுற்றி ஒன்றாக கூடி இருக்கின்ற சக்திகள் மொத்தம் முப்பத்து இரண்டு பேர் இருக்கின்றார்கள். இவர்கள் அனைவரும் இறைவியோடு சேர்ந்தே இயங்குகின்ற என்றும் இளமையுடன் இருக்கின்ற கன்னிகளாக நான்கு திசைகளுக்கும் எட்டு எட்டு பேராக மொத்தம் முப்பத்து இரண்டு பேர்களாக இறைவியைச் சுற்றி இருக்கிறார்கள். தாமரை மலரான இறைவியின் செயல்களான இதழ்களில் இந்த முப்பத்து இரண்டு சக்திகளும் ஒன்றாக சேர்ந்து அண்ட சராசரங்கள் முழுவதும் பரந்து விரிந்து புரிகின்ற அனைத்து செயல்களையும் சாதகர் தாம் அமர்ந்த இடத்திலிருந்தே தமக்குள் தரிசிக்க முடியும்.`,
   },
   {
@@ -10801,6 +10802,9 @@ There they were, the Vedas, ancient, seeking Her everywhere,
 But this day,
 She in me as Her Home
 Reigns supreme.`,
+    elaborationEnglish: `Saum Sakti is immanent in Her devotees.
+
+This 64-chamber chakra is filled by the letters 'A' and 'U'.`,
     elaborationTamil: `பாடல் #1415 இல் உள்ளபடி உலக செயல்களை புரிந்து கொண்டு பலவிதமான இடங்களில் இறைவியோடு சேர்ந்தே இருக்கின்ற முப்பத்து இரண்டு சக்திகளும் ஆனந்தக் கூத்து ஆடுகின்ற இறைவனின் பேரொளி வடிவத்தையே தரிசித்துக் கொண்டு அந்தந்த இடங்களில் இருந்து உலக நன்மைக்கான காரணத்திற்காக இறைவிக்கு உள்ளே இருந்து அவற்றை செயல் பட வைக்கின்றனர். ஆதிகாலத்திலேயே அனைத்து உயிர்களும் இறைவனை அறிந்து கொண்டு அவனைத் தேடி அடைய வேண்டும் என்ற காரணத்தினால் அருளப்பட்ட வேதங்களை அண்ட சராசரங்கள் முழுவதும் பரவும் படி எடுத்துச் சென்று அங்கெல்லாம் இருக்கின்ற உயிர்களில் இறைவனைத் தேடுகின்ற உயிர்களுக்கு இவர்கள் உதவி புரிகின்றனர். இவர்களுக்கு எல்லாம் தலைவியாக இருக்கின்ற இறைவியே இப்போது இறை நிலையை அடைந்துவிட்ட சாதகரின் மனதிற்கு உள்ளே இருந்து அவரது உள்ளத்தையே தனக்கு மிகவும் விருப்பமான கோயிலாகக் கொண்டு அவருக்குள் வீற்றிருந்து சாதகரை ஆளுவதின் மூலம் அனைத்தையும் இயக்குகின்றாள்.`,
   },
   {
