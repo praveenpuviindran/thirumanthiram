@@ -2419,18 +2419,14 @@ Face Westward,
 And Chant Pranava mantra ("Aum") eight thousand times;
 This the way to attain
 Power of bringing things and people unto you--Akarshana.`,
-    elaborationEnglish: `Akarshanam — summoning or invoking a spirit or absent
-
-person visibly into one’s presence.
-
-These magical acts are exposited as eight in number. Besides the six above, the other two are: vidvedanam, or excitement to hatred; and bhedanam, causing dissension, discord, etc.`,
+    elaborationEnglish: `Akarshanam — summoning or invoking a spirit or absent person visibly into one’s presence. These magical acts are exposited as eight in number. Besides the six above, the other two are: vidvedanam, or excitement to hatred; and bhedanam, causing dissension, discord, etc.`,
     elaborationTamil: `தகுந்த வியாழக் கிழமை அன்று ஓலைச்சுவடியில் ‘யநமசிவா’ என்று எழுதி அதன் மேல் புடம் போட்ட வெள்ளிப் பற்பத்தைப் பூசி பட்டுப்போகாத ஒரு வெள்ளை நிற நாவல் மரப் பலகையின் மேல் வைத்து அந்தப் பலகையை மேற்குத் திசை நோக்கி வைத்து எழுதிய ‘யநமசிவா’ மந்திரத்தை எட்டாயிரம் முறை உச்சரித்தால் ஆகருடணம் (ஆகர்ஷணம்) எனும் வித்தை கைகூடும். குறிப்பு: ஆகருடணம் என்பது எண்ணத்தால் கவர்தல் அல்லது வசீகரித்தல் ஆகும்.`,
   },
   {
     id: 1004, tantraId: 4, verseNumber: 1003,
     tamil: `அம்புயம் நீலம் கழுநீர் அணிநெய்தல்
 வம்பவிழ் பூகமும் மாதவி மந்தாரம்
-தும்பை வகுளம் சுரபுனனை மல்லிகை
+தும்பை வகுளம் சுரபுன்னை மல்லிகை
 செண்பகம் பாதிரி செவ்வந்தி சாத்திடே`,
     transliteration: `ampuyam nīlam kaḻunīr aṇineytal
 vampaviḻ pūkamum mātavi mantāram
@@ -2442,23 +2438,7 @@ Flower of areca palm, madhavi creeper, shoe-flower (Mandharam)
 Thumbai, vakulam, surapunnai, jasmine,
 Shenpagam, padiri, chrysanthum
 With these do worship.`,
-    elaborationEnglish: `Archana is worship with flowers, perfumes and lights, along
-
-with chanting the Names of the Lord, and singing His praise. Tirumular describes the flowers that are appropriate for Siva’s worship and the perfumes worthy of the occasion. He also gives directions regarding the lamps to be lighted and the oblations to be offered. He concludes that such worship, which belongs to-the Kriya path, will confer great blessings.
-
-But more important, he says, is worship in the mansion of the mind. Tirumular warns the Siva yogis not to resort to kriyas, for kriyas only add to karma.
-
-Those who stand in the bhakti path also need not care for kriya. It is not by kriya that the Lord’s Grace descends. To
-
-seek the Lord by way of the senses is vain. The jnana way also leads to nadanta the divine light. It alone leads to union in God.
-
-Those who seek the kriya way can, at best, become devas. That is but a step, as devas themselves have to follow the jnana path, if they seek to unite in Siva.
-
-Chanting Sivayanama helps in the jnana way. But both Na and Ma should not be chanted; for Na and Ma are the seeds of jiva.’°Chanting only the mantra, ‘Siva’, can bring about mauna that leads to liberation.
-
-Jnana leads to illumination. Siva bliss wells up. Jiva leaps into ‘A’ (Si) and from it, it realises ‘U’ (Va); then appears the Lord within.
-
-urvuefl for Gopsgimus (si)`,
+    elaborationEnglish: ``,
     elaborationTamil: `தாமரை மலர் (அம்புயம்) 2. கருங்குவளை மலர் (நீலம்) 3. செழுங்கழுநீர் மலர் (கழுநீர்) 4. அழகாக கட்டிய நெய்தல் மலர் 5. மாலை மணம் விரிக்கும் பாக்கு மலர் (பூகம்) 6. மாதவி மலர் 7. மந்தாரை மலர் 8. தும்பை மலர் 9. மகிழம்பூ மலர் (வகுளம்) 10. சுரபுன்னை மலர் 11. மல்லிகை மலர் 12. செண்பகம் மலர் 13. பாதிரி மலர் 14. செவ்வந்தி மலர் ஆகிய பதினான்கு வகைப் பூக்களும் இறைவனுக்கு அருச்சினை செய்ய ஏற்ற மலர்கள் ஆகும்.`,
   },
   {
@@ -2556,7 +2536,7 @@ They who are Siva Yogins great
 They too seek not Kriyas;
 They who are in loving devotion surpassing stand
 They too seek not Kriyas.`,
-    elaborationEnglish: `They who are in loving devotion surpassing stand They too seek not ‘Kriyas.`,
+    elaborationEnglish: ``,
     elaborationTamil: `இறைவன் ஆட்கொண்ட அடியவர்கள், இறைவனை அடைய வேண்டி மேலும் மேலும் கர்மங்களை சேர்த்துக் கொள்ள விரும்பாதவர்கள், மிகப்பெரிய சிவ யோகிகள், இறைவன் மேல் மிகவும் ஆழ்ந்த அன்பு கொண்டவர்கள் ஆகியோர் அருச்சினை செய்ய விரும்ப மாட்டார்கள். குறிப்பு: நீண்ட காலம் அருச்சினை செய்து இறையருளை பெற்றவர்களும் சிவ சிந்தனையிலேயே இருக்கும் யோகிகளும் அருச்சினை செய்யும் அவசியம் இல்லை.`,
   },
   {
@@ -2593,7 +2573,7 @@ So does it seek Grace and Ignorance at once;
 The knowledge within of Jiva is bereft of Light;
 Except those who have Divine Jnana attained,
 The rest despair of dispelling Darkness.`,
-    elaborationEnglish: `So does it seek Grace and Ignorance at once; The knowledge within of Jiva is bereft of Light; Except those who have Divine Jnana attained, The rest despair of dispelling Darkness.`,
+    elaborationEnglish: ``,
     elaborationTamil: `ஆகாயத்தில் இருட்டு வெளிச்சம் என்று இரண்டும் இருப்பது போல் மனதிலும் அறிவு அறியாமை என இரண்டு தன்மை உள்ளது. மயக்கத்தைத் தரும் அறியாமையும் தெளிவைத் தரும் அறிவும் ஆகிய இரண்டுமே நிலை பெற்றிருக்கும். பாடல் #1009 இல் உள்ளபடி மானசீக பூஜையின் மூலம் இறையருளைப் பெற்று உள்ளிருக்கும் மாணிக்க ஒளியைக் கண்டவர்கள் தமது அறியாமையை அன்றே அழித்தவர்கள் ஆவார்கள்.`,
   },
   {
@@ -2654,7 +2634,7 @@ And seek Primal One;
 He will be yours at once;
 The State of Mauna leads to Siva Becoming
 That to reach is Liberation True.`,
-    elaborationEnglish: `The State of Mauna leads to Siva Becoming That to reach is Liberation True.`,
+    elaborationEnglish: ``,
     elaborationTamil: `உயிர்களின் ஆன்மா தன் ஆசைகளினால் நான் எனும் அகங்கார மாயையோடு பல பிறவி எடுக்கிறது. ஆன்மாவின் தலைவனாகிய இறைவன் சிவமாக உயிர்களுக்குள் தாமாகவே மறைந்து இருக்கின்றான். சாதகர்கள் பாடல் #1003, #1004 மற்றும் #1005 இல் உள்ளபடி அருச்சினை செய்து நான் எனும் அகங்காரம் இல்லாமல் இறைவனை நாடும் போது அன்றே எண்ணங்களே அற்ற நிலையை பெற்று இறைவனோடு சேர்வதே உண்மையான வீடுபேறாகும்.`,
   },
   {
@@ -2675,8 +2655,7 @@ In the Eighth is revealed the Jnana Light;
 Then beyond in the Eleventh
 In Paraparam the Supreme;
 Then beyond, beyond is Void,
-The Dvadasanda Space Infinite.
-4 NAVAGUNADAM (NINE SACRIFICIAL PITS)`,
+The Dvadasanda Space Infinite.`,
     elaborationTamil: `பாடல் #1013 இல் உள்ளபடி உண்மையான வீடுபெற்றை பெற்ற சாதகரின் உடலுக்குள் சிவ அமுது ஊறி தலை உச்சிக்குச் சென்றவுடன் பேரொளி தோன்றி உடலை சுற்றியுள்ள எட்டு தத்துவங்களும் விலகும். அப்படி தோன்றிய பேரொளியை ஒலியாகவும் ஒளியாகவும் தரிசித்தால் பரவெளியில் வீற்றிருக்கும் இறைவன் தமக்குள்ளிருந்து வெளிப்படுவான். எட்டு தத்துவங்கள்: பாடல் #460 இல் உள்ளபடி உயிர்கள் உருவாகும் போது அந்தக் கருவின் முற்பிறவிகளிலிருந்து தொடர்ந்து வினைப் பயன்களால் வரும் கன்மத்துடன் (மும்மலங்களில் ஒன்று) மாயேயம் என்கிற அசுத்த மாயையின் ஏழுவித காரியங்களும் (காலம், நியதி, கலை, வித்தை, இராகம், புருடன், மாயை) சேர்ந்து மொத்தம் எட்டுவித மாயைகளை அந்தக் கரு பெற்றுவிடும். இதுவே எட்டு தத்துவங்களாகும்.`,
   },
   {
@@ -2696,7 +2675,17 @@ Will blaze the blessed fire;
 In the sacrificial pits nine
 Will arise all things goodly;
 Thus shall I speak of sacrificial pits nine.`,
-    elaborationEnglish: `1) The square pit — the four sides represent the four paths: Chariya, Kriya, Yoga and Jnana.
+    elaborationEnglish: `The word 'navagundam' (nine pits) is used in a double sense here. On the one hand, it refers to the nine fire-pits used in sacrificial (yajna) worship, and on the other, it refers to the human body with its nine orifices.
+
+Chapter IV: NAVAGUNDAM (NINE SACRIFICIAL PITS)
+
+It doesn't seem appropriate nor true to state that Thirumular does not hold the Kriya path in as high regard as the other three paths, as is stated in the following paragraph. Each path is addressed by Thirumular for its efficacy as a stage within Sanmarga. They are not compared to each other, as occurs in the Vedanta doctrine.
+
+Although Tirumular does not hold the Kriya path in high esteem compared to the other three paths, he relates the sacrificial fire of the Kriya path to the kundalini fire in the Yoga path. Drawing parallels between them, he shows how the fire without is the fire within.
+
+The sacrificial pits are nine in shape:
+
+1) The square pit — the four sides represent the four paths: Chariya, Kriya, Yoga and Jnana.
 
 2) The triangular pit — the three sides denote the form of fire. 3) The semi-circular pit is like a bent bow.
 
@@ -2746,9 +2735,7 @@ Light on top emanated,
 Pervaded world,
 And engulfed entire cosmic space
 That I saw in me, and sought within.`,
-    elaborationEnglish: `The fire in the nine sacrificial pits is the same as the- fire
-
-in kundalini within. The kundalini fire pervades the worlds, and engulfs the entirety of cosmic space.`,
+    elaborationEnglish: `The fire in the nine sacrificial pits is the same as the- fire in kundalini within. The kundalini fire pervades the worlds, and engulfs the entirety of cosmic space.`,
     elaborationTamil: `ஆகாயத்திலுள்ள காற்றை அறிந்து அதை தமக்குள் தலை உச்சி வழியாக உள்வாங்கி மூச்சுப் பயிற்சிகளின் வழியாக மூலாதாரத்திற்கு கொண்டு சென்று அங்கிருக்கும் குண்டலினி சக்தியை எழுப்பினால் அது அக்னிச் சுடராக மேலெழும்பும். உலகத்தைத் தாண்டி அண்டசராசரங்களையும் தாண்டி எல்லைகளற்று பரந்து விரிந்து இருக்கும் பேரொளியான இறைவனை எமக்குளிருந்து எழும்பிய குண்டலினியின் அக்னிச் சுடராக யான் அறிந்து கொண்டு அதை தேடி அடைந்தேன்.`,
   },
 {
@@ -2845,6 +2832,9 @@ Who radiant from head to foot in tenderness stood;
 They who do not ask of Her,
 Though learned unto roots of learning,
 Yet are in confusion distracted.`,
+    elaborationEnglish: `Mantras 1022 & 1023
+
+The sacrificial fire is blessed by Sakti. Even as the tongue of fire from the sacrificial pit shoots forth like the mystical serpents in eight directions, the kundalini too flames within the yogi from its four petals.`,
     elaborationTamil: `பாடல் #1021 இல் உள்ளபடி நன்மையைத் தரும் சுடர் இது என்று அருளிய சக்தியே சாதகருக்குள் அனைத்தையும் இயக்குகின்ற மந்திரங்களையும் அந்த மந்திரங்களையே தனக்கு தலை முதல் பாதம் வரை அருளோடு நிற்கின்றாள். அப்படி நிற்கின்ற சக்தியின் அருளைத் தேடி அடையாமல் தான் கற்றுக் கொண்ட மந்திரங்களை மட்டும் ஓதி யாகம் செய்பவர்கள் அவளது சக்தியை உணர மாட்டார்கள். கருத்து: குண்டம் அமைத்து யாகம் செய்பவர்கள் வெளியில் செய்தாலும் உள்ளுக்குள் மானசீகமாக செய்தாலும் மந்திரங்களை மட்டும் ஓதிக்கொண்டு இருக்காமல் அதற்குள் இருக்கும் இறைசக்தியையும் அறிந்து கொள்ள வேண்டும்.`,
   },
   {
@@ -2904,6 +2894,9 @@ With eyes in directions all,"
 He sees directions eight;
 He is Lord, my Father,
 And for all lives everywhere.`,
+    elaborationEnglish: `Mantras 1025 & 1026
+
+In fact, the sacrificial fire is Siva Himself, His Third Eye is all fire, and the vision of the eyes spreads in all directions and touches all lives. It is out of that fire the God Skanda arose. His six faces are the emanations of Siva's fire.`,
     elaborationTamil: `பாடல் #1024 இல் உள்ளபடி மூன்று கண்களையுடைய இறைவனே உடலாகிய குண்டத்தில் எழும் முழுமையான சுடராகவும் இருக்கின்றான். அந்த மூன்று கண்களை உடைய இறைவனே எட்டுத் திசைகளுக்கும் கண்களை உடையவனாய் இருந்து எட்டுத் திசைளையும் கண்டு எல்லா உலகங்களையும் அதிலிருக்கும் உயிர்களையும் தன்னுள் அடக்கிக் கொண்டு எல்லா தேவர்களுக்கும் தேவகணங்களுக்கும் தலைவனாகவும் இருப்பவனே எம்மையும் சேர்த்து அண்டசராசரங்களுக்கும் தந்தையாகவும் இருக்கின்றான்.`,
   },
   {
@@ -3001,15 +2994,7 @@ Two His faces, six His eyes,
 Seven His tongues, four His horns
 Thus does He rise from the Sacrificial Fire Pit
 He the one that no end knows.`,
-    elaborationEnglish: `This is said to be based on a Rig Veda mantra. ASM anaes Sroflovonw ASSO onecr Yottuat grblovone ASSUD ores Assi ono USGS.
-
-But He is Endiess
-
-For the Endless One, none the Space there is; For the Endless One, none there to take measure; For the Endless One, none the words adequate to describe;
-
-Know the Endless One, O! ‘*Ya’’ (Jiva)!
-
-The numearal, ten, is written as the letter *’ (ya) in Tamil. Hence, ‘ten’ here means ‘ya’ which stands for jiva in the Five Letter mantra.`,
+    elaborationEnglish: `Tirumular describes the Form of God that arises in the sacrificial pit somewhat the lines recounted in the relevant Rig Veda hymn. "Three His Feet, seven His hands, Two His faces, Six His eyes, Seven His tongues, four His horns - thus does arise the God of the sacrificial pit."`,
     elaborationTamil: `நவகுண்டத்திலிருந்து எழுகின்ற அக்னியில் வெளிச்சம் சத்தம் காற்று ஆகிய மூன்றும் கைகளாக எழுகின்றது. இடகலை பிங்கலை ஆகிய நாடிகள் கூர்மையான முகங்களாக இருக்கின்றது. ஆறு சக்கரங்கள் கண்களாக இருக்கின்றது. இதன் மூலம் உடலை குண்டமாக வைத்து நான்கு வேதங்களில் உள்ள மந்திரங்களை விடாமல் ஓதி உச்சரித்து மூலாதாரத்திலுள்ள குண்டலினியை ஆறு சக்கரங்களுக்கும் மேலெழுப்பிச் செல்லும் போது அந்த சக்கரங்களில் வீற்றிருக்கும் முடிவில்லாத இறை சக்தியை அறிந்து கொள்ளலாம்.`,
   },
   {
@@ -3027,6 +3012,7 @@ For the Endless One, none the Space there is;
 For the Endless One, none there to take measure;
 For the Endless One, none the words adequate to describe;
 Know the Endless One, O! you! "Ya" (Jiva)!`,
+    elaborationEnglish: `The numeral, ten, is written as the letter '(ya)' in Tamil. Hence, 'ten' here means 'ya' which stands for jiva in the Five Letter mantra.`,
     elaborationTamil: `பாடல் #1030 இல் உள்ளபடி நவகுண்டத்திலிருந்து எழுந்த முடிவில்லாத இறை சக்தியானது அண்டத்திலுள்ள அனைத்திலும் இருக்கின்றது. அந்த சக்தியின் அளவை அளக்கக் கூடியவர்கள் யாருமே இல்லை. அந்த இறைசக்தியைக் குறிக்கும் மந்திரத்திற்கு மேலான மந்திரம் வேறு எதுவும் இல்லை. முடிவில்லாத இந்த இறைசக்தியை நவகுண்டத்தின் மூலம் யாகம் செய்து தமக்குள் அறிந்து கொள்ளலாம்.`,
   },
   {
@@ -3068,6 +3054,7 @@ Ten the eyes
 Two the flowery feet
 Forty the shining crowns, and
 Twenty-five the ears goodly.`,
+    elaborationEnglish: `Tirumular describes the Form of Siva/Sakti arising from the sacrificial fire thus, "Ten the faces, four the spreading hands, five the legs, ten the eyes, two the flowery Feet, forty the shining crowns, and twenty five the ears".`,
     elaborationTamil: `பாடல் #1032 இல் உள்ளபடி தம்மை இறைவனாக உணர்ந்த சாதகர்கள் தமக்குள் ஒரு பாகமாக இருக்கும் இறைவன் இருபது கைகள், இருபது கால்கள், பத்து முகங்கள், இருபது கண்கள், மலர் போன்ற இரண்டு திருவடிகள், அடி முடியாக இருக்கும் இரண்டு சுடரொளி ஆகியவற்றைக் கொண்டு இருப்பார். நன்மையாகவே இருக்கும் இந்த இறைவனை தஞ்சம் என்று சரணடைவார்கள். விளக்கம்:`,
   },
   {
@@ -3127,7 +3114,7 @@ The Five Kalas of Siva aet;
 The ten directions cardinal are there;
 The Five elements too are there;
 Those who warmed themsleves at Fire of Kundalini
-Flave verily united in God.`,
+Have verily united in God.`,
     elaborationTamil: `பாடல் #1035 இல் உள்ளபடி இறைவனோடு சேர்ந்து இருக்கும் சாதகர் இறைவனுடைய ஐந்துவித தொழில்களையும் நவகுண்டமாகிய இந்த உடலுக்குள்ளிருந்து இயக்கலாம். அதன் பிறகு அனைத்து திசைகளையும் முழுமையாக சாதகர் அறிந்து கொள்வார். ஐம்பூதங்களும் தங்களின் உச்சத் தன்மையில் சாதகரின் உடலுக்குள் இருந்து தாமாகவே மூலாக்கினியை ஏற்றிக்கொண்டே இருக்கின்றன. இந்த நிலையை அடைந்த சாதகர் இறைவனோடு என்றும் கலந்து இருப்பார். குறிப்பு: நவகுண்ட யாகம் செய்யும் சாதகர் அனைத்து திசைகளிலுள்ள எங்கும் செல்லும் தன்மையைப் பெறுவார். இதுவரை சாதகர் தனது சாதகத்தின் மூலம் எழுப்பிய மூலாக்னியை இனி அவரது உடலுக்குள்ளிருக்கும் ஐந்து பஞ்ச பூதங்களும் (நிலம் நீர் காற்று நெருப்பு ஆகாயம்) மூலாக்கினியை தொடர்ந்து ஏற்றிக் கொண்டே இருக்கும்.`,
   },
   {
@@ -3208,19 +3195,7 @@ The sacred Fire engulfed worlds seven entire,
 From top to bottom unintermittent,
 Those who witnessed it,
 Have indeed gained all riches great.`,
-    elaborationEnglish: `As the satrificial fire blazes high, the yogi’s kundalini fire within also courses upwards; and when it ‘reaches the ajna chakra, he visions Sakti. Ascending further, reaching the seventh centre, the sahasrara, he visions the seven worlds. bigst suctailoows
-
-Hold Sacrificial Fire As Guru
-
-The Fire that blazeth as riches vast
-
-Hold it as Guru Great to reach your goal, When that Jnana dawns,
-
-The regal powers over world
-
-In earnest seek Jiva. ,
-
-Kundalini fire that blazes upwards is the Guru great, riches vast, and infinite jnana. The yogis who tend the kundalini fire live very long.`,
+    elaborationEnglish: `As the satrificial fire blazes high, the yogi’s kundalini fire within also courses upwards; and when it ‘reaches the ajna chakra, he visions Sakti. Ascending further, reaching the seventh centre, the sahasrara, he visions the seven worlds.`,
     elaborationTamil: `பாடல் #1039 இல் உள்ளபடி ஆறு சக்திமயங்களிலும் உச்ச நிலையில் இருக்கும் சக்தியானது உடலாகிய நவகுண்டத்தோடு பேரின்பத்தில் இருக்கும். இந்த சக்தியானது மூலாதாரத்திலிருந்து சுடரொளியாக இரண்டு கோணங்களாகச் சென்று ஏழு உலகங்களுக்கும் பரவி அதையும் தாண்டிய உச்சியாக இருக்கும். மூலாதாரத்தில் இருக்கும் இந்த சுடரொளியை தொடர்ந்து ஏற்றிக் கொண்டே இருப்பவர்கள் இறைவனின் மாபெரும் அருளைப் பெற்றவர்கள் ஆவார்கள்.`,
   },
   {
@@ -3239,6 +3214,7 @@ Hold it as Guru Great to reach your goal,
 When that Jnana dawns,
 The regal powers over world
 In earnest seek Jiva.`,
+    elaborationEnglish: `Kundalini fire that blazes upwards is the Guru great, riches, vast and infinite jnana. The yogis who tend the kundalini fire live very long.`,
     elaborationTamil: `பாடல் #1040 இல் உள்ளபடி சாதகர் பெற்ற இறைவனின் மாபெரும் அருளானது தமக்குள்ளே இருக்கும் மூலாக்கினியை பஞ்ச பூதங்களும் கருவியாகக் கொண்டு வளர்ந்து முழுமை அடைந்து குருவாக இருந்து தமக்குள்ளே வழிகாட்டுகிறது. அப்படி குரு காட்டிய வழிகாட்டுதலின் படி நவகுண்டமாகிய உடலானது ஏழு உலகங்களுக்கும் அதனதன் தன்மைகளுக்கு ஏற்றார் போல மாறிச் செல்கிறது. அங்கே குரு கூறிய செயலை செய்யும் பொழுது அந்த உலகம் அவர் முன்பு வணங்கி நிற்பதை பார்க்கலாம்.`,
   },
   {
@@ -3390,6 +3366,9 @@ And to the cosmic Universes gives rise,
 She is Parai, Abhirami, Agochari
 She grants Her love of Grace,
 And Jnana as well.`,
+    elaborationEnglish: `Parai - Sakti of Para
+Abhirami - of Surpassing Beauty
+Agochari - Beyond Comprehension`,
     elaborationTamil: `பாடல் #1047 இல் உள்ளபடி அருளுகின்ற திரிபுரை சக்தியானது ஒலியாகவும் அந்த ஒலியின் எல்லையாகவும் இருக்கின்றது. திரிபுரையே உணரமுடியாத பேரொளியாகவும் இருந்து உலகங்கள் அண்டசராசரங்கள் அனைத்திற்கும் பரவிப் பெருகுகின்றது. இந்த ஒலி ஒளியாக இருக்கும் திரிபுரையே அனைத்தையும் அருளுபவளாகவும் பேரழகு மிகுந்தவளாகவும் உணர்வுகளுக்கு அப்பாற்பட்டவளாகவும் இருந்து அன்போடு ஞானத்தை அருளி ஆட்கொள்கின்றாள். கருத்து: பரை எனும் அசையும் சக்தியும், பேரழகு மிகுந்த அபிராமியும், ஐந்து கோசங்களுக்கும் அப்பாற்பட்ட அகோசரியும் ஆகிய இந்த மூன்று சக்தி வடிவங்களும் திரிபுரையாகும்.`,
   },
   {
@@ -3451,6 +3430,14 @@ On the crown of her tresses is Damsel Ganga,
 Her eyes perceive Jnana true,
 Karidani who attracts in directions four,
 She is the Pure, seated on circle of lotus pure.`,
+    elaborationEnglish: `Compare: For the 12 bija mantras, refer to Vedanta Tantra, Chapter 6, quoted in 'Garland of Letters', by Sir John Woodroffe, pp262-65
+
+The 12 bija mantras are:
+    1    Haum - 'Ha' means Siva, 'au' means Sadasiva. 'm'means
+
+Puratani - Ancient One
+Mohini - the Enticing One
+Karidani - the One who Attracts`,
     elaborationTamil: `பாடல் #1050 இல் உள்ளபடி நான்கு திசைகளையும் தாங்கி நிற்கின்ற திரிபுரை சக்தி ஆதியிலிருந்தே தொடர்ந்து இருக்கின்ற பராசக்தியாகும். இவள் குறையில்லாத அழகுடன் அண்டசராசரங்கள் அனைத்தையும் வசப்படுத்தி வைத்திருப்பவள். மிகவும் அழகாக அசைந்தாடும் தலை முடியைக் கொண்டவள். நன்மையை வழங்கும் உருத்திராட்சத்தை அணிந்தவள். நான்கு கால்களுடன் கரிய உருவத்தைக் கொண்ட யானையை வாகனமாகக் கொண்ட கஜலட்சுமியானவள். இவள் சுத்தமாக மலராமல் நெருங்கி இருக்கும் தாமரை இதழ்களைப் போலத் தூய்மையானவள். கருத்து: திரிபுரை சக்தியானது கஜலெட்சுமி எனும் பெயருடன் அனைத்தையும் தன் வசப்படுத்தி இருப்பதை இந்தப் பாடலில் உருவகிக்கலாம். புராதனி என்பது ஆதிகாலத்திலிருந்தே அண்டசராசரங்கள் இருக்கும் வரை எப்போதும் இருப்பதைக் குறிக்கின்றது. குறைவில்லாத மோகினி என்பது அண்டசராசரங்கள் அனைத்தையும் தன் செயலுக்கு ஏற்ப வசப்படுத்தி வைத்திருப்பதைக் குறிக்கின்றது. அழகாக அசைந்தாடும் தலை முடி என்பது அண்டசராசரங்கள் அனைத்தையும் தனது அசைவுக்கு ஏற்ப ஆட்டி வைப்பதைக் குறிக்கின்றது. உருத்திராட்ச மாலை என்பது பாடல் #1050 இல் குறிப்பிட்ட நவகிரகங்கள் உலகங்களுக்கு நன்மை தருவதை குறிக்கின்றது. நான்கு கால்களுடன் கரிய உருவத்தைக் கொண்ட யானை என்பது அனைத்தையும் அருளும் அஷ்ட லட்சுமிகளில் நடுநாயகமாக இருக்கும் கஜலட்சுமியைக் குறிக்கின்றது. சுத்தமான தாமரை என்பது தண்ணீரில் இருந்தாலும் தாமரையின் இதழ்களானது தண்ணீருடன் ஒட்டாமல் இருப்பதைப் போல திரிபுரையான கஜலட்சுமி அனைத்து செயல்களையும் செய்பவளாக இருந்தாலும் அதனுடன் ஒட்டாமல் விலகி இருப்பதைக் குறிக்கின்றது.`,
   },
   {
@@ -3549,7 +3536,6 @@ She is Sakti pervasive,
 She is Sakti that protects through timeless aeons,
 She is Supreme Pleasure that all blessings confers,
 This you know not.`,
-    elaborationEnglish: `She is Sakti that protects through timeless aeons. ‘She is Supreme Pleasure that all blessings confers, This you know mot.`,
     elaborationTamil: `பாடல் #1054 இல் உள்ளபடி ஞானத்தின் மொத்த வடிவாக இருக்கும் பராசக்தியானவள் மாபெரும் சக்தியாக பலவகைகளிலும் உயிர்கள் செய்யும் அனைத்து செயல்களிலும் அந்தந்த செயல்களுக்கு ஏற்ற சக்தியாக நின்று அருளுகின்றாள். பராசக்தியின் இந்த தன்மையை உயிர்கள் உணராமல் இருக்கின்றார்கள். இந்தப் பராசக்தியே யுகம் யுகமாக தொடர்ந்து பிறவி எடுக்கும் ஆன்மாக்களுடன் உடனிருந்து பாதுகாக்கின்றாள். திரிபுரையாகிய இந்த பராசக்தியே உயிர்கள் செய்யும் செயல்களுக்கு ஏற்ற பலனை அருளி இன்பத்தை வழங்குகின்றாள்.`,
   },
   {
@@ -3576,11 +3562,11 @@ That Her devotees daily in their hearts grow.`,
     tamil: `கொம்புஅனை யாளைக் குவிமுலை மங்கையை
 வம்பவிழ் கோதையை வானவிர் நாடியைச்
 செம்பவ ளத்திரு மேனிச் சிறுமியை
-நம்பி என் உள்ளே நயந்துவைத் தேனே. 14.`,
+நம்பி என் உள்ளே நயந்துவைத் தேனே`,
     transliteration: `kompuaṉai yāḷaik kuvimulai maṅkaiyai
 vampaviḻ kōtaiyai vāṉavir nāṭiyaic
 cempava ḷattiru mēṉic ciṟumiyai
-nampi eṉ uḷḷē nayantuvait tēṉē. 14.`,
+nampi eṉ uḷḷē nayantuvait tēṉē`,
     english: `1058: Tiripurai Hold Dear in Heart
 She is support of life
 She is Lady of bouncing breasts,
@@ -3588,7 +3574,6 @@ She adorns fragrant flowers on Her tresses,
 She is the One that Celestials seek,
 She is the nymph of red coral hue
 In faith intense, I hold Her, dear in my heart.`,
-    elaborationEnglish: `In faith intense. I hold Her, dear in my heart.`,
     elaborationTamil: `பாடல் #1057 இல் உள்ளபடி ஞானத்தை தாங்கி வளர்க்கின்ற கொம்பைப் போன்றவளும், முழுமையுடன் அழகாக விளங்கும் கொங்கைகளை கொண்டவளும், மணம் கமழ்கின்ற வாசனை மலர்களை தன் கூந்தலில் சூடிக்கொண்டு இருப்பவளும், தேவர்களும் விரும்பி தேடுகின்றவளாக இருப்பவளும், பவளம் போன்ற சிகப்பான மேனியைக் கொண்ட சிறுமியாக இருப்பவளுமாகிய திரிபுரை சக்தி இராஜராஜேஸ்வரி எனும் திருநாமத்தைக் கொண்டு அருளுகின்றாள். இறைவனோடு இரண்டறக் கலக்கும் ஞானத்தை அளிக்கக் கூடியவள் இந்த சக்தியே என்று நம்பி எனது உள்ளத்திற்குள்ளே பணிவோடு வைத்திருக்கின்றேன். கருத்து: திரிபுரை சக்தியானது இராஜராஜேஸ்வரி எனும் பெயருடன் தேவர்களுக்கும் அமிர்தத்தை அருளி ஞானத்தை வளர்ப்பவளாக இருப்பதை இந்தப் பாடலில் உருவகிக்கலாம். கொம்பை போன்றவள் என்பது ஞானம் என்கிற கொடியைத் தாங்கி வளர்க்கின்ற கொம்பாக இருப்பதைக் குறிக்கின்றது. முழுமையான அழகுடன் விளங்கும் கொங்கைகள் என்பது தேவர்களுக்கும் அமிர்தமான பாலை தருபவளாக இருப்பதைக் குறிக்கின்றது. மணம் கமழ்கின்ற வாசனை மலர்களை சூடியுள்ளவள் என்பது வண்டு தேனைத் தேடி வாசனையுள்ள மலரை நோக்கிச் செல்வதைப் போல தேவர்கள் இறைவனேடு இரண்டறக் கலக்கும் ஞானத்தை தேடிப் பெறுவதற்கு இராஜராஜேஸ்வரியை நாடிச் செல்வதைக் குறிக்கின்றது. செம்பவளத் திருமேனியைக் கொண்ட சிறுமி என்பது உச்ச நிலை ஞானத்தின் ஆரம்பத்தைக் கொடுத்து அருளும் இராஜராஜேஸ்வரியின் திருவுருவத்தைக் குறிக்கின்றது.`,
   },
   {
@@ -3605,11 +3590,6 @@ cattiyum vittait talaiyava ḷāmē`,
 The Parai, Primal Paraparai, with faces ten;
 All the functions of inner senses She performs;
 She is Sakti, She is Head of all Knowledge.`,
-    elaborationEnglish: `The Parai, Primal Paraparai, with faces ten All things created. all life diverse:
-
-She moves my mind, intellect, Will and thought _
-
-She is Sakti, and Mistress of Jnana Divine.`,
     elaborationTamil: `ஒவ்வொரு உயிர்களும் மாறி மாறி எடுக்கும் பலவிதமான பிறவிகளில் அவர்களுக்குள்ளே மறைத்து வைக்கப்பட்ட பொருளாக இருக்கின்ற இறைவனோடு சேர்ந்து இருக்கின்ற திரிபுரை சக்தி பத்து முகங்களைக் கொண்டு காக்கின்றாள். தானாக செயல்படும் அனைத்து செயல்களுக்கும் காரணமாக அசையா சக்தியான சதாசிவமூர்த்தியும் அதனை செயல்படுத்தும் கருவியாக அசையும் சக்தியான திரிபுரையும் இருக்கிறார்கள். இந்தத் திரிபுரை சக்தியானவள் ஸ்ரீவித்யா எனும் பெயருடன் உலகத்திலுள்ள அனைத்திற்கும் அதனதன் செயல்களைச் செய்யும் ஞானத்தை அருளும் தலைவியாக இருக்கின்றாள். கருத்து: திரிபுரை சக்தியானது ஸ்ரீவித்யா எனும் பெயருடன் உலகத்திலுள்ள அனைத்திற்கும் அதனதன் செயல்களைச் செய்யும் ஞானத்தை அருளும் தலைவியாக இருப்பதை இந்தப் பாடலில் உருவகிக்கலாம். உலகத்திலுள்ள உயிர்கள் முதற்கொண்டு அசையும் பொருள் அசையா பொருள் ஆகிய அனைத்துமே தமது ஆயுளில் பலவிதமாக தன்னை மாற்றிக் கொண்டே இருப்பதற்கான அறிவை கொடுக்கும் தலைவியாக ஸ்ரீவித்யா தேவி இருக்கின்றாள்.`,
   },
   {
@@ -3710,7 +3690,6 @@ And made it pure;
 She showed me the way to Siva-state
 She made me radiant in Jnana
 And redeemed me.`,
-    elaborationEnglish: `Largdaw aemn Horns waar were sory.or sre soo ;`,
     elaborationTamil: `பாடல் #1063 இல் உள்ளபடி நற்கதியை அருளுகின்ற திரிபுரை சக்தியான இறைவி பேரானந்தத்தின் வடிவமாகப் பேரழகுடன் இருக்கின்றாள். புளியம் பழத்தின் மேல்பகுதி கடினமாக இருந்தாலும் அதனுள் இருக்கும் பழுத்த பழம் மென்மையாகவும் ஓடுடன் ஒட்டாமலும் இருப்பது போல திரிபுரை சக்தி தனது அருள் பார்வையால் எமது உள்ளத்திற்குள் பார்த்து எம்மை தெளிய வைத்து எமக்குள் ஒளியாக இருக்கும் இறைவனின் சிவகதியை காட்டி எம்மை மேன்மை அடைய வைத்து தன்னுள்ளே அடக்கிக் கொண்டாள்.`,
   },
   {
@@ -3730,7 +3709,7 @@ She stood filling the Dance arena at Thillai;
 They saw not;
 She stood as Cause of Cause;
 Pervading spheres Three.`,
-    elaborationEnglish: `Sun, moon and fire are the three spheres. Acinr srociscr 21 gyib 2 uGumiis Genrer Gagub usireéH`,
+    elaborationEnglish: `Sun, moon and fire are the three spheres.`,
     elaborationTamil: `திரிபுரை சக்திக்கு உருவம் உண்டு என்று சொல்பவர்களுக்கு உருவமாக இருக்கிறாள். உருவம் இல்லை என்று சொல்பவர்களுக்கு அருவமாக இருக்கிறாள். தன்னைத் தியானித்தவர்களுக்கு அவர்கள் தியானித்த உருவமாகவே அவள் காட்சி கொடுக்கின்றாள். உலகத்தின் இயக்கத்திற்கு காரணம் இறைவன் காரியம் இறைவி இவர்கள் இருவரும் ஒன்றாக சேர்ந்து அருவுருவமாக தில்லை அம்பலத்தில் எங்கும் நிறைந்து ஆடுகின்றார்கள். இந்த அருவுருவமே உலகத்திலுள்ள அனைத்து உயிர்களும் உய்ய வேண்டும் என்பதற்காக சூரிய சந்திர அக்னி ஆகிய மூன்று மண்டலங்களிலும் நிறைந்து திரிபுரை சக்தியாக நிற்கின்றாள். கருத்து: உலக இயக்கத்திற்கு வெப்பம் குளிர்ச்சி இரண்டுமே வேண்டும் இதை சூரிய சந்திர மண்டலங்களாக இருந்து திரிபுரை சக்தி அருளுகின்றாள். பிரளயத்தில் அனைத்து உயிர்களும் இறைவனோடு திரும்பவும் சென்று கலந்து விடுவதற்கு அக்னி மண்டலமாக திரிபுரை சக்தி நிற்கின்றாள். பாடல் #612 இல் உள்ளபடி உடலில் (பிண்டத்தில்) இருக்கும் மூன்று மண்டலங்களே உலகத்திலும் (அண்டத்தில்) இருக்கின்றது. இவளே திரிபுரை என்று அறியப்படுகின்றாள்.`,
   },
   {
@@ -3828,7 +3807,6 @@ That pervades Medha and the rest of Kalas sixteen;
 She is the Paraparai that shines in Vedas and scriptures holy,
 She is the widespread support of all that is,
 She is the Grace within Nada and Nadanta.`,
-    elaborationEnglish: `She is the widespread support of all that is, She is the Grace within Nada and Nadanta.`,
     elaborationTamil: `உடலை இயக்குகின்ற மேதை முதலான பதினாறு கலைகளாக இருந்து அனைத்தையும் இயக்குகின்ற மென்மையான இயல்பைக் கொண்ட வேதங்கள் கூறும் பராபரை என்பவள் திரிபுரை சக்தியாகும். அவளே அனைத்திற்கும் ஆதாரமாக இருந்து எங்கும் பரந்து வியாபித்து இருப்பவள். அவளே நாதத்தின் முதலாகிய இறைவனுடன் சேர்ந்து நல்லருளைத் தருகிறாள்.`,
   },
   {
@@ -4059,9 +4037,9 @@ Her trident blessing him.`,
   },
   {
     id: 1082, tantraId: 4, verseNumber: 1081,
-    tamil: `சூலம் கபாலம் கை ஏந்திய சூலிக்கு
+    tamil: `சூலம் கபாலம் இகாரம் ஏந்திய சூலிக்கு
 நாலாங் கரமுள நாகபா சாங்குச
-மாலங் லயனறி யாத வடிவுக்கு
+மாலங் கயனறி யாத வடிவுக்கு
 மேல்அங்க மாய்நின்ற மெல்லிய லாளே`,
     transliteration: `cūlam kapālam kai ēntiya cūlikku
 nālāṅ karamuḷa nākapā cāṅkuca
@@ -4113,7 +4091,6 @@ She wears Kundalas of radiant gems in her ears
 Her glance is unto the gentle doe's
 Her eyes are the Sun and Moon;
 As of red gold She in rapture glows.`,
-    elaborationEnglish: `As of red gold She in rapture glows.`,
     elaborationTamil: `பாடல் #1082 இல் உள்ளபடி பலவிதமான நவரத்தினங்களை சூடிக்கொண்டு இருக்கின்ற வயிரவியின் திருமுடியானது கோடி சந்திரனைப் போல பிரகாசிக்கின்றது. அவளின் காதுகளில் மணியோசையை எழுப்பும் அழகிய குண்டலங்களை அணிந்திருக்கின்றாள். அவளின் கண்கள் அழகிய மானின் கண்களைப் போல இருக்கின்றது. சிறந்த மணிகளைப் போல பிரகாசிக்கும் சூரியனையும் சந்திரனையும் அவளின் இரு கண்களாக வைத்திருக்கின்றாள். அவளின் திருமுகம் அக்னியில் உருக்கும் தங்கம் போல் ஜொலித்துக் கொண்டு பேரானந்தத்தில் இருக்கின்றாள். கருத்து: கோடி சந்திரனைப் போல பிரகாசிக்கும் திருமுடி என்பது அனைத்து உயிர்களுக்கும் ஆனந்தத்தைக் கொடுப்பதைக் குறிக்கின்றது. மணியோசை எழுப்பும் குண்டலங்கள் என்பது உயிர்களுக்குள் இருக்கும் ஓங்கார நாதத்தை எழுப்புவதைக் குறிக்கின்றது. மானைப் போன்ற கண்கள் என்பது எப்போது தன்னை வந்து சரணடைவார்கள் என்று சாதகர்களைத் தேடுவதைக் குறிக்கின்றது. சூரிய சந்திர நயனத்தாள் என்பது தன்னை வந்து சரணடைய முயற்சி செய்யும் சாதகர்களுக்கு வழிகாட்டும் சோதியாக இருப்பதைக் குறிக்கின்றது. பொன்மணி வன்னி என்பது ஒளிவிடும் நெருப்புச் சுடர்போல எங்கும் நிறைந்து தன்னை நினைப்பவர்களின் மனதை மகிழ்ச்சியில் நிரப்புவதைக் குறிக்கின்றது.`,
   },
   {
@@ -4265,7 +4242,7 @@ The ways of yoga-eight limbed.`,
     tamil: `தாமக் குழலி தயைக்கண்ணி உள்நின்ற
 ஏமத்து இருளற வீசும் இளங்கொடி
 ஓமப் பெருஞ்சுடர் உள்எழு நுண்புகை
-மேவித்து அழுதொடு மீண்டது காணே`,
+மேவித்து அமுதொடு மீண்டது காணே`,
     transliteration: `tāmak kuḻali tayaikkaṇṇi uḷniṉṟa
 ēmattu iruḷaṟa vīcum iḷaṅkoṭi
 ōmap peruñcuṭar uḷeḻu nuṇpukai
@@ -4320,6 +4297,8 @@ And then perform Sula Mudra
 And chant Netra mantra,
 Thus worshipping,
 Will ever rebirth harass you?`,
+    elaborationEnglish: `Sula Mudra - Sign of the trident
+Netra Mudra - Netisaya Nama`,
     elaborationTamil: `பாடல் #1092 இல் உள்ளபடி தலை உச்சியில் கேட்ட சிதாகாய மந்திரத்தின் மூலம் உயிர்கள் ஆதியிலிருந்தே தங்களின் ஆன்மாவோடு தொடர்ந்து வந்து இறைவனை அடைய விடாமல் அவர்களின் உடலைச் சுற்றி கவசம் போல தடுத்துக் கொண்டு இருக்கும் உயிர் பயத்தையும் உலகப் பற்றையும் மாற்றி அமைக்க அந்த மந்திரத்துடன் நேத்திர முத்திரையை சேர்த்து தியானித்து வந்தால் அந்தப் பயத்தையும் பற்றையும் சூலம் அழித்து இனி பிறவி இல்லாத நிலைக்கு கொண்டு செல்லும். கருத்து: இறைவனை அடைய விடாமல் உயிர்களைச் சுற்றி கவசமாக இருக்கும் உயிர் பயம் உலகப் பற்று ஆகிய எதிர்மறை எண்ணங்களை வயிரவியின் சிதாகாய மந்திரத்துடன் நேத்திர முத்திரையை சேர்த்து தியானிப்பதின் மூலம் இறைவனை அடையும் நேர்மறை எண்ணங்களாக மாற்றி அமைத்து பிறவி இல்லாத நிலையை அடையலாம்.`,
   },
   {
@@ -4337,11 +4316,6 @@ Difficult to practice are these Mudras;
 Press the little finger in direction reverse,
 Hold the ring finger and fore-finger pressed together
 And insert the thumb finger in between.`,
-    elaborationEnglish: `From the mantra ‘‘Si”’
-
-Conjoin the Bindu letter ‘‘M’’
-
-The the mantra do you chant For Pranayama practice to promote.`,
     elaborationTamil: `பாடல் #1093 இல் உள்ள நேத்திர முத்திரையை எப்படி செய்வது என்பதை இப்பாடலில் அறிந்து கொள்ளலாம். பாடல் #1093 இல் உள்ளபடி உயிர் பயம் மற்றும் உலகப்பற்று என்ற இரண்டு விதமான பிறவித் துன்பங்களையும் போக்கக்கூடிய நேத்திர முத்திரையை செய்ய முதலில் சுண்டு விரலையும் மோதிர விரலையும் சேர்த்துப் பிடித்து அதன் பிறகு சுட்டு விரலையும் நடுவிரலையும் நீட்டிப் பிடித்து இரண்டு விரல் சேர்க்கைக்கும் நடுவில் கட்டை விரலை நுழைத்து மற்ற நான்கு விரல்களையும் மடக்கிப் பிடித்து சிதாகாய மந்திரத்தை செபியுங்கள்.`,
   },
   {
@@ -4385,11 +4359,11 @@ Shall luminous appear.`,
     tamil: `நின்ற வயிரவி நீலி நிசாசரி
 ஒன்றும் இரண்டும் ஒருங்கிய உள்ளத்துச்
 சென்றருள் நாயகி தேவர் பிரானுக்கே
-நன்றருள் ஞாலத்து நாடிடும் சாற்றியே. 23.`,
+நன்றருள் ஞாலத்து நாடிடும் சாற்றியே`,
     transliteration: `niṉṟa vayiravi nīli nicācari
 oṉṟum iraṇṭum oruṅkiya uḷḷattuc
 ceṉṟaruḷ nāyaki tēvar pirāṉukkē
-naṉṟaruḷ ñālattu nāṭiṭum cāṟṟiyē. 23.`,
+naṉṟaruḷ ñālattu nāṭiṭum cāṟṟiyē`,
     english: `1097: She in the Heart of Pure Ones
 Bhairavi the Eternal, Neeli the blue-hued,
 Nisachari that sojourns in dark,
@@ -4462,7 +4436,6 @@ Of arched eye-brows,
 Her eyes are unto blue water-lily
 She is ambrosial Bliss-Beauty (Ananda Sundari)
 She does reveal Supreme Siva to us.`,
-    elaborationEnglish: `She is ambrosial Bliss-Beauty (Ananda Sundari) She does reveal Supreme Siva to us.`,
     elaborationTamil: `பாடல் #1099 இல் உள்ளபடி சாதகரின் உடலும் உயிரும் இறைவனாகவே ஆகிவிடுவதற்கு காரணமான மாபெரும் கருணையுடைய வயிரவியின் வடிவத்தை இப்பாடலில் அறிந்து கொள்ளலாம். அழகிய கூந்தலுடன் வளைந்த புருவங்களைக் கொண்டு நீல நிறத்தில் இருக்கும் குவளை மலர் மலர்ந்தது போன்ற கண்களோடு இனிமையான அமிழ்தத்தோடு சேர்ந்து பேரானந்தமாக இருக்கின்ற பேரழகு பொருந்திய வயிரவியே பாடல் #1099 இல் உள்ளபடி சாதகரின் உடலும் உயிரும் இறைவனாகவே ஆகிவிடுவதற்கு காரணமாக இருந்து அனைத்திற்கும் மேலான சதாசிவத்தை வெளிப்படுத்தி அருளுகின்றாள்.`,
   },
   {
@@ -4585,6 +4558,7 @@ On Her feet She wears golden anklet,
 That in rythmic music sings;
 Thus She entered my heart,
 And there slumbers.`,
+    elaborationEnglish: `1)Ida, Pingala and Sushumna`,
     elaborationTamil: `பாடல் #1105 இல் உள்ளபடி எமது உள்ளத்தையே விரும்பி வீற்றிருக்கின்ற வயிரவியானவள் எமது உடலுக்குள் இருக்கும் இடகலை பிங்கலை சுழுமுனை ஆகிய மூன்று விதமான நாடிகளில் நடுவில் உயர்ந்து இருக்கும் சுழுமுனை நாடியின் வழியே மூலாதாரத்தில் இருந்து தமது கால்களில் தண்டையை அணிந்து கொண்டு இருக்கும் இறைவனோடு சேர்ந்து நன்மைகளின் மொத்த உருவமாக இருக்கும் இறைவியும் தனது திருவடிகளில் தூய்மையான பொன்னாலான சிலம்புகளை அணிந்து கொண்டு ஆடிக்கொண்டே மேலேழுந்து வருகின்றாள். இவர்கள் இருவரின் ஆடலில் இருந்து வரும் ஓசை எமக்குள் முழுவதும் பரவி ஒலிக்க அதிலேயே லயித்து இருக்கின்றேன்.`,
   },
   {
@@ -4754,7 +4728,7 @@ And in my heart abided.`,
   },
   {
     id: 1116, tantraId: 4, verseNumber: 1115,
-    tamil: `இயைந்தனள் ஏந்திழை என்உள்ளம் மேலி
+    tamil: `இயைந்தனள் ஏந்திழை என்உள்ளம் மேவி
 நயந்தனள் அங்கே நமசிவ என்னும்
 அயன்தனை ஓரும் பதமது பற்றும்
 பெயர்ந்தனள் மற்றும் பிதற்றுஅறுத் தாளே`,
@@ -4836,7 +4810,7 @@ And among them is Siva too
 Who Books of Truth composed!
 Oh, this Maya!
 Dark, dark indeed it is!`,
-    elaborationEnglish: `There is a play on words. when Maya is said to be ‘dark’ She is so because, it is she who is the cause of delusion. Also in Tamil, ‘“Mayam” means blackness. cf. Mayon, a Tamil name for Vishnu. ‘Children Five refers to the five gods of , namely Siva, Sakti Herself. Vishnu, Surya. and Ganapati in Puranic`,
+    elaborationEnglish: `There is a play on words. when Maya is said to be ‘dark’ She is so because, it is she who is the cause of delusion. Also in Tamil, ‘“Mayam” means blackness. cf. Mayon, a Tamil name for Vishnu. ‘Children Five refers to the five gods of , namely Siva, Sakti Herself. Vishnu, Surya. and Ganapati in Puranic mythology.`,
     elaborationTamil: `பாடல் #1117 இல் உள்ளபடி ஒளியாகிய இறைவனை இறைவியின் இருள் தன்மை மறைத்து வைத்திருக்கின்றது. என்றும் கன்னியாகவே இருக்கும் இறைவியானவள் என்றும் அழியாத இறைவனுடன் கொண்ட அன்பினால் அவனது ஆசைப்படியே தனது எண்ணத்தாலேயே ஐந்து தெய்வங்களான பிரம்மன், திருமால், உருத்திரன், மகேஸ்வரன், சதாசிவன் ஆகியோரை உருவாக்கி அருளினாள். இறைவன் சொல்லியபடியே எழுதப்பட்ட தூய்மையான வேதங்கள் கூறுகின்ற ஒளி வடிவமான இறைவனும் இருள் தன்மை கொண்ட இறைவியோடு சேர்ந்து உயிர்களுக்குள் வீற்றிருக்கின்றான். ஆனாலும் அவனையே மறைக்கின்ற அளவிற்கு இறைவியின் இருள் தன்மை இருக்கின்றது. இந்த மாயையின் சக்திதான் எவ்வளவு பெரியது? கருத்து: சுத்த மாயையின் ஒளி அம்சமான இறைவனும் மாயையின் இருள் அம்சமான இறைவியும் உயிர்களுடன் பிறவியிலேயே சேர்ந்து வந்துவிடுகின்றனர். ஆனாலும் இறைவியானவள் தனது இருள் தன்மையான மாயையால் உயிர்கள் தங்களின் கர்மங்களைத் தீர்த்துக் கொள்ளும் வரை இறைவனை மறைத்து அருளுகின்றாள். மேஜை மேல் வைக்கப்பட்ட விளக்கின் அடியிலேயே இருள் இருப்பதைப் போல உயிர்களின் தலை உச்சியில் உள்ள சகஸ்ரதளத்தில் ஒளியாக இருக்கும் இறைவனை மறைக்கின்ற இருளாக இறைவி இருக்கின்றாள். குறிப்பு: ஐந்து தெய்வங்களையும் தனது எண்ணத்தாலே உருவாக்கியதால் வேறு எந்த மாற்றமும் அடையாமல் இறைவி என்றும் கன்னியாகவே இருக்கின்றாள்.`,
   },
   
@@ -4865,11 +4839,11 @@ Will sure bless you.`,
     tamil: `ஆதி அனாதியும் ஆய பராசக்தி
 பாதிபராபரை மேலுறை பைந்தொடி
 மாது சமாதி மனோன்மணி மங்கலி
-ஓதும்என் உள்ளத்து உடன்முகிழ்த் தாளே. 46.`,
+ஓதும்என் உள்ளத்து உடன்முகிழ்த் தாளே`,
     transliteration: `āti aṉātiyum āya parācakti
 pātiparāparai mēluṟai paintoṭi
 mātu camāti maṉōṉmaṇi maṅkali
-ōtumeṉ uḷḷattu uṭaṉmukiḻt tāḷē. 46.`,
+ōtumeṉ uḷḷattu uṭaṉmukiḻt tāḷē`,
     english: `1120: She Blossoms in Prayerful Heart
 She is the Beginning,
 She is the Beginningless,
@@ -4930,11 +4904,11 @@ Severed my Karmas hard.`,
     tamil: `வினைகடிந் தார்உள்ளத்து உள்ளொளி மேவித்
 தனைஅடைந் தோர்க்கெல்லாம் தத்துவ மாய்நிற்பள்
 எனைஅடிமை கொண்ட ஏந்திழை ஈசன்
-கணவனைக் காண அனாதியும் ஆமே. 49.`,
+கணவனைக் காண அனாதியும் ஆமே`,
     transliteration: `viṉaikaṭin tāruḷḷattu uḷḷoḷi mēvit
 taṉaiaṭain tōrkkellām tattuva māyniṟpaḷ
 eṉaiaṭimai koṇṭa ēntiḻai īcaṉ
-kaṇavaṉaik kāṇa aṉātiyum āmē. 49.`,
+kaṇavaṉaik kāṇa aṉātiyum āmē`,
     english: `1123: She is Beginningless
 She is light that shines
 In those who severed their Karmas hard,
@@ -5033,10 +5007,10 @@ Your yogic feat in breath control.`,
   },
   {
     id: 1128, tantraId: 4, verseNumber: 1127,
-    tamil: `யாவதன் ஐந்தோடும் ஆற்றல் குறைவிலர்
-இமுடி வண்ணனும் இன்பக்கலவி
-இனிதுறை தையலும் அன்பிற் கலவியுள்
-ஆயொழின் தாரே`,
+    tamil: `கும்பக் களிறைந்துங் கோலொடு பாகனும்
+வம்பில் திகழும் மணிமுடி வண்ணனும்
+இன்பக் கலவி இனிதுறை தையலும்
+அன்பிற் கலவியு ளாயொழிந்தாரே`,
     transliteration: `yāvataṉ aintōṭum āṟṟal kuṟaivilar
 imuṭi vaṇṇaṉum iṉpak kalavi iṉituṟai taiyalum
 aṉpiṟ kalaviyuḷ āyoḻin tārē`,
@@ -5051,7 +5025,7 @@ All in one love-union for ever merged.`,
   },
   {
     id: 1129, tantraId: 4, verseNumber: 1128,
-    tamil: `இன்பக் கலவியில் இட்டொழு கின்றதோர்
+    tamil: `இன்பக் கலவியில் இட்டெழு கின்றதோர்
 அன்பிற் புகவல்ல னாம்எங்கள் அப்பனும்
 துன்பக் குழம்பில் துயருறும் பாசத்துள்
 என்பிற் பாரசக்தி என்னம்மை தானே`,
@@ -5126,14 +5100,13 @@ Steadying the wavering mind,
 Centering it on high,
 Thus when they realize praiseworthy Para
 They and He for ever one become.`,
-    elaborationEnglish: `Thus when they realize praiseworthy Para They and He for ever one become.`,
     elaborationTamil: `பாடல் #1130 இல் உள்ளபடி இறைவனை அடைவதற்கு வேண்டிய ஞானத்தை ஆணையாக இறைவி அருளிய படியே இன்ப துன்பங்களை அனுபவிக்காமல் உள்ளுக்குள் இறைவியை தியானித்துக் கொண்டே இருக்கின்ற அடியவர்களின் மாயையால் மயங்கி ஆசையின் வழியே செல்கின்ற மனதை அடக்கி ஒருமுகப்படுத்தி அனைத்திற்கும் மேலான பரம்பொருளாகிய இறைவனை அவர்களுக்குள் அறிந்து உணர்ந்து கொள்ளும்படி இறைவி அருளுகின்றாள். அவ்வாறு பரம்பொருளை அறிந்து கொண்ட அடியவர்களின் உள்ளத்தையே தமக்கு மிகவும் பிடித்த ஆசனமாக எடுத்துக் கொண்டு இறைவனும் வந்து வீற்றிருப்பான்.`,
   },
   {
     id: 1133, tantraId: 4, verseNumber: 1132,
     tamil: `தானே எழுந்தஇத் தத்துவ நாயகி
 வானோர் எழுந்து மதியை விளக்கினள்
-தேனார் எழகின்ற தீபத்து ஒளியுடன்
+தேனார் எழுகின்ற தீபத்து ஒளியுடன்
 மானே நடமுடை மன்றறி யீரே`,
     transliteration: `tāṉē eḻuntait tattuva nāyaki
 vāṉōr eḻuntu matiyai viḷakkiṉaḷ
@@ -5225,19 +5198,6 @@ Parasakti, who with pervasive Para stood,
 Becomes Jnana Sakti and Ichcha Sakti;
 And when Kriya Sakti arrives, (from Bindu)
 The Dancer immanent becomes in them all.`,
-    elaborationEnglish: `Was One With Sakti in Primal Act of Creation
-
-As flower and its fragrance
-
-Siva and Sakti ‘stood form resembling
-
-This they know not;
-
-When together they stirred the Primordial Bindu For creation to commence,
-
-He in Thought was one with Her
-
-Thus it was, My Father stood.`,
     elaborationTamil: `பாடல் #1135 இல் உள்ளபடி சாதகருக்குள் அனைத்துமாக நின்ற ஆதி பரம்பொருளாகிய இறைவியே அசையா சக்தியாகிய இறைவனோடு சேர்ந்து நிற்கின்ற போது ஞானா சக்தியாகவும் இச்சா சக்தியாகவும் நிற்கின்றாள் என்பதையும் அவளை நன்மையே வடிவானவளாக அறிகின்ற போது கிரியா சக்தியாகவும் நிற்கின்றாள் என்பதையும் அறிந்து கொண்டு அவளின் எண்ணங்களிலேயே வீற்றிருக்கும் சாதகர்கள் தமக்குள் இருக்கின்ற அனைத்தும் அவளின் அம்சமாகவே மாறி விடுவதை உணர்ந்து கொள்வார்கள். குறிப்பு: அசையா சக்தியாக இருக்கும் இறைவனுடன் இருக்கும் பூரண சக்தியானவள் உலகங்களை உருவாக்க வேண்டும் என்கிற எண்ணம் தோன்றுகிற போது அது இச்சா சக்தியாகவும், அதை எப்படியெல்லாம் உருவாக்கலாம் என்று எண்ணுகின்ற போது அது ஞானா சக்தியாகவும், அதை எண்ணிய படியே உருவாக்குகின்ற போது கிரியா சக்தியாகவும் இருக்கின்றாள். அசையா சக்தியான இறைவனும் அசையும் சக்தியாகிய இறைவியும் சேர்ந்து இருக்கும் பூரண சக்தியை தமக்குள் உணர்ந்த சாதகர்கள் இந்த மூன்று சித்திகளையும் பெற்று அதை உலகத் தேவைக்கேற்ப செயல் படுத்துவார்கள்.`,
   },
   {
@@ -5324,7 +5284,7 @@ He is the support of their heart.`,
   {
     id: 1142, tantraId: 4, verseNumber: 1141,
     tamil: `தாமேல் உறைவிடம் ஆறிதழ் ஆனது
-பார்மேல் இதழ்பழி னெட்டிரு நூறுன
+பார்மேல் இதழ்பழி னெட்டிரு நூறுள
 பூமேல் உறைகின்ற புண்ணியம் வந்தனள்
 பார்மேல் உறைகின்ற பைந்தொடி யாளே`,
     transliteration: `tāmēl uṟaiviṭam āṟitaḻ āṉatu
@@ -5357,7 +5317,6 @@ She is the Light that shines high
 As pennon resplendent,
 She is dazzling unto the lightning in the sky,
 And all worlds in Sakti's Way whirl.`,
-    elaborationEnglish: `She is dazzling like the lightning in the sky, And all worlds in Sakti’s Way whirl.`,
     elaborationTamil: `பாடல் #1141 இல் உள்ளபடி சாதகருக்குள்ளிருந்து பசுமையான கொடி போல வெளிப்பட்ட சக்தியானவள் இறைவனோடு சேர்ந்து பூரண சக்தியாக ஒரு பருமனான பிரகாசத்தைத் தருகின்ற ஜோதியாக வானம் வரை கொடி போல் வளர்ந்து உலகங்கள் அனைத்தையும் இயங்க வைக்கின்றாள்.`,
   },
   {
@@ -5376,7 +5335,8 @@ That Flower walked,
 As nine Saktis were they there;
 Kundalini Light through Central passage arose,
 And into the Lotus in Sahasrara spread.`,
-    elaborationEnglish: `1) Six adharas and three lights. sun, moon and fire.`,
+    elaborationEnglish: `1) Six adharas and three lights. sun, moon and fire.
+2) Vamai, Seshtai, Raudri, Kali, Kalavikarni, Balavikarni, Balabrahmadam, Sarvabhudadamani, Manonmani.`,
     elaborationTamil: `பாடல் #1142 இல் உள்ளபடி சாதகருக்குள் இருக்கும் சகஸ்ரதளத்தில் வீற்றிருக்கும் இறைவனோடு சேர்ந்து பூரண சக்தியாக இருக்கும் இறைவி அங்கிருந்து வெளிப்பட்டு உலகங்கள் அனைத்தையும் இயங்க வைப்பதற்கு ஒன்பது விதமான அம்சங்களாக வெளிப்படுகிறாள். இந்த அம்சங்கள் எட்டு விதமான தேவியர்களாகவும் இறைவனும் இறைவியும் சேர்ந்த பூரண சக்தியின் அம்சமான மனோன்மணியும் சேர்ந்து மொத்தம் ஒன்பது விதமான சக்திகளாக அவரவர்களுக்கு ஏற்ற தனித்தன்மையான வழிகளின் மூலம் ஜோதி வடிவாய் கொடி போல சகஸ்ரதளத்திலிருந்து வெளிப்பட்டு வளர்ந்து சென்று உலகங்கள் அனைத்தையும் இயக்குகின்றார்கள். இவர்கள் தத்தமது வழிகளின் மூலம் தொடர்ந்து செயல்பட்டுக் கொண்டே இருப்பதற்கான ஆதார சக்தியாக சகஸ்ரதளத்தில் இருக்கும் ஜோதி இருக்கின்றது.`,
   },
   {
@@ -5562,19 +5522,6 @@ She drove away Maya
 That transitory fame gives,
 She of abiding fame,
 In my heart entered.`,
-    elaborationEnglish: `She Created All Life
-
-Eternal existent is our Lord;
-
-When at the. beginning the worlds were created, She Our Para Sakti followed Him,
-
-Through ‘‘Heaven and earth”’
-
-And: breathed life into creaiion all;
-
-That verily was Sakti’s Work.
-
-shai snryesm snresrmt Wg aN LAME Hucns`,
     elaborationTamil: `மென்மையான இசையைப் போல ஒலி வடிவத்தில் இருக்கும் பேரழகுடைய இறைவி அகண்ட பரகாயத்தில் மென்மையான கொடி போல ஒளி வடிவத்தில் பரவி இருக்கின்றாள். பேரழகுடைய இறைவி கூட்டுப் பிரார்த்தனையில் பலவகையாகப் போற்றி வணங்கும் பக்தர்களின் பக்குவத்திற்கு ஏற்ப பயன்களை அருளுகின்ற பசுமையான கொடி போன்றவள். தமது அடியவர்களுக்குள் இருக்கும் பேரழகுடைய மாயையாகிய சக்தியை வெளியேற்றி துரத்திவிட்டு அருளாற்றலில் வல்லமை பொருந்திய பேரழகுடைய இறைவி அவர்களின் மனதிற்குள் புகுந்து அருளோடு வீற்றிருப்பாள்.`,
   },
   {
@@ -5615,9 +5562,6 @@ They know not
 Lady Great of honeyed-flower bedecked tresses,
 That Grace confers;
 Of muddled thinking they are.`,
-    elaborationEnglish: `Siva and Sakti-are mutually the support and the supported
-
-at once. They share their Form, half-and-half, entwined in`,
     elaborationTamil: `இறைவி இதுவாக இருக்கிறாள் அதுவாக இருக்கிறாள் என்று சொல்பவர்கள் இறைவியை பற்றி எதுவும் அறியாமல் இருக்கிறார்கள். இறைவியாக இருக்கும் முக்தியை அடைய வேண்டும் என்ற எண்ணத்திலேயே நிற்பதற்கு ஒரு காரணத்தையும் தெரிந்து கொள்ளாமல் இருக்கின்றார்கள். பேரின்ப மயக்கத்தை கொடுக்கும் வாசனை மிக்க மலர்களைத் தன் கூந்தலில் சூடியிருக்கும் மாபெரும் தெய்வமாகிய இறைவி இறைவனுடன் சேர்ந்து பூரண சக்தியாக இருக்கும் மாபெரும் நிலையை எண்ணிப் பார்க்காமலும் அதைத் தமக்குள்ளேயே ஆரய்ந்து அறிந்து கொள்ளாமலும் இருக்கின்றார்கள்.`,
   },
   {
@@ -5655,7 +5599,7 @@ two-petalled ajna. and from there visions the hundred-petalled blossom in sahasr
   },
   {
     id: 1157, tantraId: 4, verseNumber: 1156,
-    tamil: `தரித்திருந் தாள்அவள் தண்ணொளி நோக்கி
+    tamil: `தரித்திருந் தாள்அவள் தன்னொளி நோக்கி
 விரித்திருந் தாள்அவள் வேதப் பொருளைக்
 குறித்திருந் தாள்அவள் கூறிய ஐந்து
 மறித்திருந் தாள்அவள் மாதுநல் லாளே`,
@@ -5746,7 +5690,6 @@ She is Pure Light
 She is Manomani Sakti;
 The Blemishless Light espousing God
 Entered in me and delighted me.`,
-    elaborationEnglish: `The Blemishless Light espousing God Entered in me and delighted me.`,
     elaborationTamil: `பாடல் #1159 இல் உள்ளபடி பேச்சில்லாத மோன நிலையில் இறைவனை நோக்கி செல்லுகின்ற சாதகர்கள் நன்மை தரும் பெரும் பொருளாகிய இறைவனை தமக்குள் தரிசித்த பெருமைக்கு உரியவர்கள். மாசு மருவில்லாத சோதி வடிவில் மனோன்மணி எனும் பெண் தன்மையில் என்றும் இளமையுடன் இருக்கும் இறைவி மாசற்ற சோதியான இறைவனுடன் ஒன்றாகச் சேர்ந்து பூரண சக்தியாக குற்றம் குறையில்லாத அந்த சாதகர்களின் உள்ளத்திற்குள் புகுந்து பேரின்பத்தில் அவர்களோடு வீற்றிருப்பாள்.`,
   },
   {
@@ -5963,7 +5906,6 @@ It was Yoga and Bhoga divine;
 Manonmani Sakti of fragrant tresses
 In that union was verily in Yoga
 That in truth it is.`,
-    elaborationEnglish: `It was Yoga and Bhoga divine; Manonmani Sakti of fragrant tresses In that union was verily in Yoga That in truth it is.`,
     elaborationTamil: `பாடல் #1170 இல் உள்ளபடி ஒரே பொருளாக இருக்கின்ற எமக்குள் மிகவும் பெருமையை உடைய எமது தலைவனாகிய இறைவனும் யாமும் ஒன்றாகக் கலந்து இருக்கின்ற நிலையிலும் அதனால் கிடைக்கின்ற பேரின்பத்திலும் இருக்கும் போது மாயையாகிய மயக்கத்தை அளித்து தம்மை நாடும் அடியவர்களை கவர்ந்து இழுக்கும் நறுமணம் வீசுகின்ற மலர்களைச் சூடியிருக்கும் அழகிய கூந்தலையுடைய மனோன்மணியாகிய என்றும் இளமையான இறைவியும் எம்மோடு கலந்து ஒரே பொருளாக இருக்கும் விதத்தை எமக்குள் ஆராய்ந்து உணர்ந்து கொள்வது ஆயுழி எனும் மாபெரும் யோகமாகும்.`,
   },
   {
@@ -6084,9 +6026,7 @@ She is virgin with budding breasts
 She is radiant kum-kum hued red,
 She holds Elephant-goad and noose
 Know that universe entire is that Virgin's abode.`,
-    elaborationEnglish: `She is eternally virgin. She is mother, spouse — all at once. She is kum-kum hued. She bears the elephant goad. She has ghouls and ganas for Her heavenly hosts. The entire universe is Her abode. She is the cause and the caused. She is the tattvas. She has ten faces that look in ten directions. She revealed the four Vedas.and their six Angas. She knows no separateness from Her Lord. She: is Siva jnana. She is within jiva jnana.
-
-By 655 HIDSEGS`,
+    elaborationEnglish: `She is eternally virgin. She is mother, spouse — all at once. She is kum-kum hued. She bears the elephant goad. She has ghouls and ganas for Her heavenly hosts. The entire universe is Her abode. She is the cause and the caused. She is the tattvas. She has ten faces that look in ten directions. She revealed the four Vedas.and their six Angas. She knows no separateness from Her Lord. She: is Siva jnana. She is within jiva jnana.`,
     elaborationTamil: `பாடல் #1176 இல் உள்ளபடி இறைவனோடு பூவும் அதிலிருந்து வரும் நறுமணமும் போல ஒன்றாகக் கலந்து இருக்கின்ற இறைவியானவளின் திரு உருவத்தை தமக்குள் அறிந்து உணர்ந்து கொள்வதை இந்தப் பாடலில் அறிந்து கொள்ளலாம். நறுமணத்தை தருகின்ற வாசனை மிக்க மலர்கள் பூத்திருக்கும் செடியின் கொம்பு போன்ற மெல்லிய இடையுடனும் மலரின் அரும்பு போன்ற மென்மையான முலைகளுடனும் என்றும் இளமையுடன் இருக்கின்ற இறைவியானவள் சாதகருக்குள்ளிருந்து பொங்கி வெளிப்படும் குங்குமம் போன்ற சிவந்த ஒளி வீசும் திரு உருவத்தைக் கொண்டவள். அவளது திருக்கைகளில் அங்குசத்தையும் பாசக் கயிறையும் ஏந்திக் கொண்டு அடியவர்களின் உலகப் பற்றை அடக்கி ஆளுகின்றாள். அனைத்து உலகங்களிலும் அன்போடு வீற்றிருக்கின்ற அவள் தங்கியிருக்கும் வீடாகிய சாதகரின் உடலுக்குள் தாமாகவே தேடி அறிந்து கொள்ளுங்கள்.`,
   },
   {
@@ -6222,6 +6162,7 @@ They know this not,
 The Cosmic Daughter in amity stood in me;
 In the Center, where Cranium Flower is,
 She in sweetness stood.`,
+    elaborationEnglish: `As Bhoga Sakti, She grants Grace to jivas in bounteous sweetness.`,
     elaborationTamil: `பாடல் #1183 இல் உள்ளபடி பேரின்பத்தைக் கொடுத்து அருளுகின்ற பெரும் கருணை வள்ளலாக இருக்கின்ற இறைவியானவள் சாதகருடன் எவ்வாறு சேர்ந்து இருக்கின்றாள் என்பதை இந்தப் பாடலில் அறிந்து கொள்ளலாம். சாதகருக்கு அருள் புரிந்து பேரின்பத்தைக் கொடுக்கின்ற மாபெரும் சக்தியாகிய இறைவி சாதகருக்குள் வீற்றிருந்து தமது அருளினால் புரிகின்ற பேரின்பத்தைப் பற்றி அறிந்து கொள்ளாமல் சில சாதகர்கள் இருக்கின்றனர். பேரின்பத்தை அறிந்து கொண்ட சாதகர்களுக்குள் அண்டத்தில் இருக்கும் பராசக்தியின் ஒரு துளியாக வீற்றிருக்கும் இறைவியானவள் பூவும் நிறமும் போல சாதகரும் தாமும் ஒன்றாகக் கலந்து வீற்றிருக்கின்றாள். இப்படி இறைவியோடு தாமும் கலந்து வீற்றிருக்கின்ற நிலையை மட்டுமே குறிக்கோளாகக் கொண்டு வீற்றிருக்கின்ற சாதகர்களோடு அவளும் இன்பமாக வீற்றிருக்கின்றாள்.`,
   },
   {
@@ -6245,10 +6186,10 @@ That, indeed, is union true.`,
   },
   {
     id: 1187, tantraId: 4, verseNumber: 1186,
-    tamil: `அதுஇது என்னும் அவாவினை நீக்கித்
-துதியது செய்து சுழுமுனை நோக்கித்
-வென்றும் விலக்கில் வினைகடந் தோர்க்குமே
-குன்றரும் கமலத்துள் மூன்றது வாமே`,
+    tamil: `அதுவிது என்னும் அவாவினை நீக்கித்
+துதியது செய்து சுழியுற நோக்கில்
+விதியது தன்னையும் வென்றிட லாகும்
+மதிமலராள் சொன்ன மண்டல மூன்றே`,
     transliteration: `atuitu eṉṉum avāviṉai nīkkitt
 tutiyatu ceytu cuḻumuṉai nōkkitt
 veṉṟum vilakkil viṉaikaṭan tōrkkumē
@@ -6387,11 +6328,12 @@ Let them meditate on Her within their body vessel,
 The Kundalini light within
 Ascending through Sushumna cavity
 Will in Her Love subside.`,
+    elaborationEnglish: `True tapas is to meditate on kundalini sakti - to seek inward rather to observe, in vain, in myriad elaborate and complicated rituals.`,
     elaborationTamil: `பாடல் #1191 இல் உள்ளபடி ஐந்து பூதங்களையும் இறைவன் இறைவி ஆன்மாவுடன் ஒன்றாகப் பொருந்தி நின்று செய்கின்ற சாதகத்தையே தவமாக மேற்கொள்ளுகின்ற சாதகர்கள் தங்களின் உடலை மறந்து அதற்கு உள்ளே உணர்ந்து இருக்கின்ற இறை சக்தியை எண்ணிக் கொண்டே இருந்தால் அவர்களின் எண்ணத்தைத் தொடர்ந்து மூலாதாரத்திலுள்ள குண்டலினி சோதியானது எழும்பி சுழுமுனை நாடித் துளை வழியே மேலேறிச் சென்று சகஸ்ரதளத்தில் சோதியாக இருக்கின்ற பேரன்பின் வடிவான சாதகரின் அன்பிற்கு ஏற்ற அழகிய அணிகலன்களை அணிந்திருக்கும் இறைவியிடம் சென்று அடங்கி விடும்.`,
   },
   {
     id: 1194, tantraId: 4, verseNumber: 1193,
-    tamil: `பாவித் திருக்கும் பனிமலர் ஆறினும்
+    tamil: `பாலித் திருக்கும் பனிமலர் ஆறினும்
 ஆலித் திருக்கும் அவற்றின் அகம்படி
 சீலத்தை நீக்கத் திகழ்ந்தெழு மந்திரம்
 மூலத்து மேலது முத்தது வாமே`,
@@ -6506,7 +6448,7 @@ The Jnana Sakti in forehead seated,
 The Congregation of Manatreswaras,
 All arived to praise Her;
 Thus She was, the Yoga Sakti, seated.`,
-    elaborationEnglish: `The Congregation of Mantreswaras, All arrived to praise- Her; Thus She was, the. Yoga Sakti, seated.`,
+    elaborationEnglish: `The Four: Pranava, Bija, Sakti, Kilakam.`,
     elaborationTamil: `பாடல் #1197 இல் உள்ளபடி அழகிய ஆபரணங்களை அணிந்து ஆறு ஆதார சக்கரங்களுக்கும் சக்தியளிக்கின்ற இறைவியானவள் மும்மூர்த்திகளாகிய பிரம்மன் திருமால் உருத்திரன் ஆகியோருடைய சக்தியாகவும் ஆறு ஆதாரச் சக்கரங்களிலும் வீசுகின்ற ஒளியாகவும் பதினாறு கலைகளின் மூலம் பதினாறு விதமான செயல்களைப் புரிந்து கொண்டு இருப்பவளுமாகிய இறைவியை தமது எண்ணங்கள் முழுவதும் வைத்து தியானிப்பவர்களும் வேத மந்திரங்களை ஆராய்ந்து இறைவியைத் தெரிந்து கொள்ள முயல்கின்றவர்களும் இறைவியே சரணம் என்று அவளை மட்டுமே சார்ந்து போற்றி வழிபடுபவர்களும் ஆகிய அடியவர்களுக்குள் அவள் வீற்றிருக்கின்றாள்.`,
   },
   {
@@ -6569,6 +6511,9 @@ Hold Her in meditation
 Undistracted by worldly thoughts,
 Hold Her in the mystic junction in cranium,
 And into Samadhi enter.`,
+    elaborationEnglish: `Mantras 1201, 1202, & 1204
+
+Hold Her in your thoughts; hold Her on your head; hold Her in your presence; hold Her in muladhara; hold Her in meditation; and holding Her in the spiritual junction of the cranium, enter in samadhi. Chant the mantra, 'Sivayanama,' in endearing love. This is the way to consume the fruits of the twin karmas.`,
     elaborationTamil: `பாடல் #1200 இல் இறைவி தமது சிந்தையில் வைத்து அருளிய திருவடிகளை சாதகர்கள் தமது தலைக்கு உச்சியில் இருக்கும் சகஸ்ரதளத்திலும் சகஸ்ரதளத்திற்கு முன்பு இருக்கின்ற ஆதார சக்கரங்களிலும் இறுதியில் இருக்கின்ற மூலாதாரத்திலும் வைத்து தம்மைச் சுற்றி இருக்கும் உலகத்தில் மாயையால் நடக்கும் நன்மை தீமைகளில் எண்ணங்களைப் போக விடாமல் இறைவனைப் பற்றி மட்டுமே எண்ணுகின்ற எண்ணங்களில் இறைவியின் திருவடிகளை வைத்து பிறகு அனைத்திலும் வைத்த இறைவியின் திருவடிகளை ஒருமுகமாக ஒரே இடமாக்கி வைத்து சமாதி நிலையில் தியானித்து இருங்கள். கருத்து: ஏழு ஆதார சக்கரங்களிலும் எண்ணங்களிலும் இறைவியின் திருவடிகளை வைத்து தியானித்த பிறகு இப்படி எட்டு இடங்களிலும் வைத்த இறைவியின் திருவடிகளை ஒரே இடமாக்கி வைத்து தியானிக்கும் போது சமாதி நிலையை அடையலாம்.`,
   },
   {
@@ -6666,9 +6611,9 @@ Realize Her;
 The Only One in this world;
 She will make you bide here below for ever
 You may attain eight attributes* of Siva too.`,
-    elaborationEnglish: `deep in the heart. By thus realising Her, you shall attain the
+    elaborationEnglish: `Think of Her; think of Her time and again; think of Her deep in the heart. By thus realising Her, you shall attain the eight attributes of Siva. 1) Eight attributes of Siva - vide Mantra 1, Prelude 8.
 
-eight attributes of Siva. 1) Eight attributes of Siva — vide Mantra 1, Prelude 8.`,
+Course your breath through sushumna, seeking the twin letters Si and Va - in the holy hall of the heart you can meet Her.`,
     elaborationTamil: `பாடல் #1204 இல் உள்ளபடி சாதகரின் மாயையான எண்ணங்கள் நீங்கி இறைவியின் எண்ணமும் தமது எண்ணமும் வேறில்லை எனும் நிலை பெறும் போது அந்த ஒன்றுபட்ட எண்ணத்தில் வீற்றிருக்கும் இறைவியை மனதிலும் வைத்து வேறு எதிலும் செல்லாமல் தடுத்து நிறுத்தி தியானத்தில் வீற்றிருந்து எண்ணமும் மனமும் பாடல் #1201 இல் உள்ளபடி சாதகருக்குள் ஒரே இடமாக்கி அதிலிருந்து உருவாகும் மேல் நிலையான இறைவியை ஒருமுகமாக எண்ணி தியானித்தால் இந்த பிறவியிலேயே மேல் நிலையான இறைவியிடமிருந்து பெறக்கூடிய எட்டு விதமான சித்திகளையும் சாதகரால் பெற்றுக் கொள்ள முடியும்.`,
   },
   {
@@ -6757,7 +6702,7 @@ She, Beginning of universe all.`,
     tamil: `அண்டமுதலாய் அவனிபரி யந்தம்
 கண்டதுஒன்று இல்லைக் கனங்குழை அல்லது
 கண்டதும் கண்டியும் ஆகி ய காரணம்
-குண்டிகை கோளிகை கண்டத ளாலே`,
+குண்டிகை கோளிகை கண்டத னாலே`,
     transliteration: `aṇṭamutalāy avaṉipari yantam
 kaṇṭatuoṉṟu illaik kaṉaṅkuḻai allatu
 kaṇṭatum kaṇṭiyum āki ya kāraṇam
@@ -6866,7 +6811,9 @@ The Virgin with Her Lover commingling stood
 She stood commingling in all Life and Thought
 She stood commingling in all Learning and Wisdom
 She stood commingling as Time Eternal.`,
-    elaborationEnglish: `She stood commingling in all Learning and Wisdom She stood commingling as Time Eternal.`,
+    elaborationEnglish: `The 18 Ganas are: 1) Devas (Amaras), 2) Siddhas, 3) Asuras, 4) Daityas, 5) Garudas, 6) Kinnaras, 7) Nirutas, 8) Kimpurushas, 9) Gandharvas, 10) Yakshas, 11) Vinjayas, 12) Bhutas, 13) Pisachas, 14) Antharas, 15) Munivas, 16) Uragas, 17) Akasavasis, 18) Bhoga Bhumidars.
+
+In all life and thought, in all learning and wisdom, and as time eternal, She stood mingling. She stood in stellar brilliance. She is Malini (Uma); Makuli (kundalini); She is Chandika, the tornado that blows away the troubles of Her devotees. Protectress She thus is, standing indivisible with the Protector.`,
     elaborationTamil: `பாடல் #1214 இல் உள்ளபடி சாதகருக்குள் கலந்து நிற்கின்ற இறைவியானவள் தாமாகத் தனித்து இல்லாமல் என்றும் இளமையுடன் இறைவனுடன் சேர்ந்தே இருக்கின்றாள். அவள் உயிர்கள் அனைத்தும் கற்கின்ற கல்விகளாகவும் அந்த கல்வியைக் கொண்டு செய்கின்ற அனைத்து செயல்களுக்கான அறிவாகவும் இருக்கின்றாள். அவளே என்றும் இளமையுடன் அனைத்து விதமான காலங்களாகவும் இருக்கின்றாள்.`,
   },
   {
@@ -6957,9 +6904,9 @@ And He the Lord stood there
 By the Jewelled One's side.`,
     elaborationEnglish: `1) Denoted by the 51 letters of the Sanskrit alphabet and the letter Aum—
 
-She stood with ‘Him in the Chakra of Fifty-One letters (sahasrara). When jnana of these is acquired. jiva s perfection is attained. She in the six adharas. As prana breath reaches these adharas one after the other. She can, be visioned. The seven centres are then enlivened and the ten breaths
+2) Adharas; Mantras 1219-1221
 
-become one prana.
+She stood with ‘Him in the Chakra of Fifty-One letters (sahasrara). When jnana of these is acquired. jiva s perfection is attained. She in the six adharas. As prana breath reaches these adharas one after the other. She can, be visioned. The seven centres are then enlivened and the ten breaths become one prana.
 
 Here, the kalas are 51. representing the 51 letters of the Sanskrit language.`,
     elaborationTamil: `பாடல் #1218 இல் உள்ளபடி ஆதியும் அந்தமுமாக சாதகருக்குள் வீற்றிருக்கும் இறைவியாகவே மாறி விடுகின்ற சாதகர்கள் காலமாகவும் கலைகளாக இருக்கின்ற ஐம்பத்தொரு தத்துவங்களாகவும் ஆகி நிற்கின்ற போது அவருடைய ஆருயிராக இறைவியே இருக்கின்றாள். இவ்வாறு இறைவியாகவே ஆகி நிற்கின்ற சாதகருடன் இறைவியும் சேர்ந்து நின்று சக்தி மயங்களாக வீற்றிருக்கும் போது இறைவனும் அழகிய ஆபரணங்களை அணிந்திருக்கும் இறைவியுடன் சரிபாகமாக சேர்ந்து வீற்றிருக்கின்றார். கருத்து: சாதகருடைய ஆருயிராகவே இறைவி வீற்றிருக்கும் விதத்தை இந்தப் பாடலில் அறிந்து கொள்ளலாம்.`,
@@ -7040,7 +6987,13 @@ She fortifies Jiva,
 And renders him youthful,
 Flower bedecked She stands
 In Jiva's Eye-brow Center.`,
-    elaborationEnglish: `She. as Manonmani, stands in. the eyebrow centre, radiant as the crescent moon. She is fire; she is the Primal Being and Isa; She is the three spheres; She is the wind and other clements. She protects jiva and renders him youthful through yoga.`,
+    elaborationEnglish: `Mantras 1227 - 1229
+
+Mantras 1224 - 1226
+
+1) Kodandam - eyebrow centre, ajna chakra
+
+She. as Manonmani, stands in. the eyebrow centre, radiant as the crescent moon. She is fire; she is the Primal Being and Isa; She is the three spheres; She is the wind and other clements. She protects jiva and renders him youthful through yoga.`,
     elaborationTamil: `பாடல் #1222 இல் உள்ளபடி சாதகர் தமக்குள் காணும் இறைவனின் மேல் பேரன்பு கொண்ட இறைவியின் திருவுருவமானது அக்னியாகவும் ஆதிப் பரம்பொருளாகவும் இறைவனாகவும் மிகப் பெரியதாக விரிந்து பரவி இருக்கும் அக்னி சூரிய சந்திர ஆகிய மூன்று மண்டலங்களாகவும் வாயு முதலாகிய ஐந்து பூதங்களாகவும் அதிலிருந்து உருவாகி உலகத்திற்கு இறங்கி வருகின்ற உயிராகவும் அந்த உயிரைத் தாங்கி இருக்கின்ற உடலாகவும் அதற்குள் உண்மையை மறைத்துக் கொண்டு இருக்கும் மாயையாகவும் இருக்கின்றது. அந்த இறைவியே மேன்மை மிகுந்த மலர்களைச் சூடிக்கொண்டு இருக்கும் பேரழகு பொருந்திய கூந்தலுடன் சாதகரின் உடலைத் தாங்கிக் கொண்டு நடுவில் இருகின்ற சுழுமுனை நாடியாகவே இருக்கின்றாள். கருத்து: பாடல் #1222 இல் சாதகருக்குள் காட்சி கொடுத்த இறைவியின் திருவுருவம் சாதகருக்குள் இருக்கின்ற விதத்தை இந்த பாடலில் அறிந்து கொள்ளலாம்.`,
   },
   {
@@ -7096,7 +7049,6 @@ At the far end of Cranium top
 She abides, Ananda Mohini, the Golden Lady;
 Meditate on Her in Silentness chanting Aum,
 That way lies life's Redemption.`,
-    elaborationEnglish: `She abides, Ananda Mohini, the Golden Lady; Meditate on Her in Silence chanting Aum, That way lies life’s Redemption.`,
     elaborationTamil: `பாடல் #1225 இல் உள்ளபடி பரசிவமாகவே ஆகிவிட்ட சாதகருடைய தலை உச்சிக்கு மேல் இருக்கின்ற பரவெளியில் பேரொளியாக வீற்றிருக்கும் சிவத்தின் சடை முடியாக வருகின்ற ஒளிக்கீற்றுகளே பேரின்பத்தில் அசைந்து ஆடுகின்ற சக்தியாகவும் அவளது தூய்மையான பொன் போன்ற திரு உருவமாகவும் இருக்கின்றது. இவர்கள் இருவரையும் முதன்மையாக வைத்து ஓதுகின்ற அனைத்து மந்திரங்களுக்குள்ளும் சரிசமமான பாகமாக இருப்பது அனைத்துமாகிய ஓம் எனும் பிரணவ மந்திரமாகும். இந்தப் பிரணவ மந்திரத்துக்குள் அடங்கி இருக்கின்ற அனைத்து உயிர்களுக்கும் இறைவனை நோக்கி சென்று அடைகின்ற வழியாக அதுவே இருக்கின்றது.`,
   },
   {
@@ -7203,11 +7155,11 @@ Well may they decreed Fate conquer.`,
     tamil: `வென்றிட லாகும் விதிவழி தன்னையும்
 வென்றிட லாகும் வினைப்பெரும் பாசத்தை
 வென்றிட லாகும் விழைபுலன் தன்னையும்
-வென்றிடு மங்கைதன் மெய்யுணர் வோர்க்கே. 78.`,
+வென்றிடு மங்கைதன் மெய்யுணர் வோர்க்கே`,
     transliteration: `veṉṟiṭa lākum vitivaḻi taṉṉaiyum
 veṉṟiṭa lākum viṉaipperum pācattai
 veṉṟiṭa lākum viḻaipulaṉ taṉṉaiyum
-veṉṟiṭu maṅkaitaṉ meyyuṇar vōrkkē. 78.`,
+veṉṟiṭu maṅkaitaṉ meyyuṇar vōrkkē`,
     english: `1232: She is Conqueror Supreme
 Well may they decreed Fate conquer,
 Well may they Karmaic Pasa conquer,
@@ -7234,7 +7186,6 @@ That the State how
 The Lady of flower laden tresses and Her Lord
 Of yore have been,
 Verily, verily is this true.`,
-    elaborationEnglish: `The Mother of flower laden tresses and Her Lord Of yore have been, Verily, verily is this true.`,
     elaborationTamil: `பாடல் #1232 இல் உள்ளபடி உண்மையான ஞானத்தை உணர்ந்து தெளிந்தவர்கள் அறிந்து கொண்ட மெய்யுணர்வாக இருக்கின்ற ஐம்பத்தோரு அட்சரங்களாகவும் அந்த அட்சரங்களுக்கு தேவதைகளாக பாரம்பரியமாக தலைமுறை தலைமுறையாக வந்து கொண்டு இருக்கின்ற அனைத்து தேவர்களுக்குள்ளும் ஒன்றாகக் கலந்து நிற்பது பரம்பொருளாகும். அந்தப் பரம்பொருளும் நறுமணமும் மருத்துவ குணமும் கொண்ட கோடக மலர்களைச் சூடியிருக்கும் கூந்தலைக் கொண்ட இறைவியையும் முதன்மையாகக் கொண்டு அவர்களைச் சார்ந்து இருக்கின்ற மெய்யுணர்வு பெற்றவர்களுக்கு அருளுகின்ற திருவடிகளாகவும் சத்தியத்தின் உருவமாகவும் இருக்கின்றது சிவசக்தியே ஆகும்.`,
   },
   {
@@ -7271,34 +7222,23 @@ And the Celestials stood praying
 To swill the ambrosia that flowed;
 And as Ambrosia there She stood
 Radiant as Crescent Moon.`,
-    elaborationEnglish: `She is Stellar Brilliance
-
-They who reach to the Star Eternal Became one with Her,
-
-Of tresses, garland-festooned,
-
-With fragrant Ganga and Moon, And men of holy tapas Self-realized praying;
-
-Thus She stood in stellar brilliance.`,
     elaborationTamil: `பாடல் #1234 இல் உள்ளபடி தமது சிந்தனைக்குள் இருக்கும் மும்மலங்களால் ஆன அனைத்து எண்ணங்களும் நீங்கி மொத்தமும் நன்மையாகவே மாறிவிட்ட சாதகருக்குள் வீற்றிருக்கின்ற சிவனும் வில் போன்ற வளைந்த நெற்றியைக் கொண்ட இறைவியும் அவர்களோடு சேர்ந்து வந்து வீற்றிருக்கும் விண்ணுலகத்து தேவர்களும் சாதகருக்குள் இருக்கும் ஒன்றான அம்சத்தை புகழ்ந்து போற்றி வணங்கி வழிபட அவர்கள் அருந்துவதற்கு அந்த இடத்திலேயே எப்போதும் தெகிட்டாத அமிழ்தமாகவும் வளர் பிறைச் சந்திரனாகவும் இறைவியே இருக்கின்றாள்.`,
   },
   {
     id: 1237, tantraId: 4, verseNumber: 1236,
     tamil: `என்றும் எழுகின்ற ஏரினை எய்தினார்
 அன்றது ஆகுவர் தார்குழ லாளொடு
-மன்றருகு மதிமிளிர் பொன்னணி யாளொடு
-நின்ற சிவனை வழிபடு வாரே`,
+மன்றரு கங்கை மதியொடு மாதவர்
+துன்றிய தாரகை சோதி நின்றாளே`,
     transliteration: `eṉṟum eḻukinṟa ēriṉai eytināraṉ
 aṉṟatu ākuvar tārukuḻa lāḷoṭu
 maṉṟaruku matimilir poṉṉaṇi yāḷoṭu
 niṉṟa civaṉai vaḻipaṭu vārē`,
-    english: `1236: Worship Siva-Sakti and be Worshipped by Celestials
-The Celestials, Vanavas and Dhanavas
-Will come to you and worship your feet,
-And Indra and other Gods too in direction eight;
-Seek therefore the way of worship to reach
-The Lady of tresses, in flower clusters festooned,
-And Her Lord, too.`,
+    english: `1236: She is Stellar Brilliance
+They who reach to the Star Eternal Became one with Her,
+Of tresses, garland-festooned,
+With fragrant Ganga and Moon, And men of holy tapas Self-realized praying;
+Thus She stood in stellar brilliance.`,
     elaborationTamil: `பாடல் #1235 இல் உள்ளபடி எப்போதும் தெகிட்டாத அமிழ்தமாக எழுச்சியோடு இருந்து கொண்டே இருக்கின்ற பேரழகு வாய்ந்த இறைவியை தமக்குள் உணர்ந்து அடைந்தவர்கள் அடைந்த அந்தப் பொழுதிலேயே இறைவியாகவே ஆகிவிடுவார்கள். அவர்களோடு நீண்ட கூந்தலை உடைய இறைவியும் தீயவற்றை நீக்கி தூய்மையைத் தருகின்ற கங்கையாகவும் குளிர்ந்த ஒளியைத் தருகின்ற நிலவாகவும் மாபெரும் தவத்தைப் புரிந்த சாதகர்களோடு எப்போதும் பொருந்தி இருக்கின்ற நட்சத்திரம் போன்ற பேரொளிப் பிழம்பாகவும் நிற்கின்றாள்.`,
   },
   {
@@ -7318,7 +7258,7 @@ With their inner light realizing Her,
 And uniting in Her,
 In the thoughts of Jivas thus reached
 All Jnana appears.`,
-    elaborationEnglish: `In the thoughts of Jivas thus reached All Jnana appears.`,
+    elaborationEnglish: `She appears in the form one conceives; and grants the pure way and the diverse branches of knowledge.`,
     elaborationTamil: `பாடல் #1236 இல் உள்ளபடி சாதகருக்குள் எப்போதும் பொருந்தி நட்சத்திரம் போன்ற பேரொளிப் பிழம்பாகவும் நிற்கின்ற இறைவியானவள் அவரின் சக்திக்குத் தகுதியான ஆபரணங்களை சூடிக்கொண்டு இருக்கின்றாள். அவளோடு உண்மையான ஞானத்தில் ஒன்றாகச் சேர்ந்திருக்கும் சாதகர்கள் தங்களின் உள்ளுக்குள் இருக்கும் இறை ஒளியின் மூலம் அவளை முழுவதுமாக உணர்ந்து கொண்டு வீற்றிருக்கும் போது இதுவரை உலகத்தைக் கடந்து சென்ற ஆன்மாக்களின் எண்ணத்தில் அவர்கள் வேண்டிக் கொண்ட வேண்டுகோள்கள் அனைத்தும் வந்து சேரும். அப்போது அவர்களின் வேண்டுகோள்களுக்கு பொருத்தமான அருளை வழங்குவதற்குத் தேவையான ஞானங்கள் அனைத்தும் சாதகருக்குள் தானாகவே தோன்றிவிடும்.`,
   },
   {
@@ -7397,6 +7337,11 @@ If Aum pervaded, you reach to Centers nine within
 You shall honey-sweet divine become,
 You shall in rapture sing,
 You shall reach State of Greatness Surpassing.`,
+    elaborationEnglish: `Mantras 1241 & 1242
+
+Illusory are the states of Brahma, Vishnu, Hara and Maheswara. She is beyond all those. She pervades in Aum, in sahasrara beyond the six adharas and the three mandalas. There She confers the state of greatness, surpassing that of all the gods. Then the celestials, Vanavas, Dhanavas, Indra and other gods from all directions will come to the yogi and worship at his feet.
+
+Children of Danu, their mother - asuras.`,
     elaborationTamil: `பாடல் #1240 இல் உள்ளபடி அம்மை அப்பராகிய இறைவன் இறைவியோடு தாமும் ஒன்றாகச் சேர்ந்து அவர்களுக்குள்ளேயே அடங்கி பேரின்பத்தில் இருக்கின்ற சாதகர்கள் தமக்குள் இருக்கின்ற ஒன்பது மண்டலங்களிலும் ஓங்கார மந்திரத்தின் நாதமாகவே ஆகிவிட்ட ஒன்பது தெய்வங்களோடும் தாமும் சேர்ந்து ஓங்காரத்தின் நாதத் தன்மை பெற்றுவிடுவார். அதன் பிறகு தனக்குப் பிடித்த வகையான தேன் இருக்கின்ற பூவைத் தேடி மொய்த்து அதிலிருக்கும் தேனை உறிஞ்சிக் குடித்து இன்பத்தில் திளைத்திருக்கும் தேனீக்களைப் போல சாதகரும் தமக்குக் கிடைக்கப் பெற்ற ஓங்காரத்தின் நாதத் தன்மையில் கிடைக்கும் பேரின்பத்திலேயே திளைத்து இருப்பார். சாதகருக்குள் இருக்கின்ற ஒன்பது மண்டலங்கள்: மூலாதாரம் – சூரிய மண்டலம் சுவாதிஷ்டானம் – பிரம்மா மணிபூரகம் – திருமால் அனாகதம் – உருத்திரன் விசுக்தி – மகேஸ்வரன் ஆக்ஞா – சதாசிவம் சகஸ்ராரம் – பரா துவாதசாந்த வெளி (தலை உச்சியிலிருந்து 12 அங்குலம் தூரத்தில் உள்ளது) – பரை சந்திர மண்டலம் (துவாதசாந்த வெளிக்கு மேலே ஆகாயத்தில் உள்ளது) – பராபரை`,
   },
   {
@@ -7457,7 +7402,9 @@ She who holds the lovely parrot in Her hand,
 And sports wavy tresses
 She, Parasakti
 Do adore Her!`,
-    elaborationEnglish: `Adore Parasakti sporting the wavy tresses — Uma of dark slender form — and be illumined. The resplendent Parasakti dispels anava darkness. The Golden Goddess of wealth shall then be at your feet.`,
+    elaborationEnglish: `Mantras 1244 - 1246
+
+Adore Parasakti sporting the wavy tresses — Uma of dark slender form — and be illumined. The resplendent Parasakti dispels anava darkness. The Golden Goddess of wealth shall then be at your feet.`,
     elaborationTamil: `பாடல் #1243 இல் உள்ளபடி உயிர்களுக்குள்ளும் சோதியாக வீற்றிருக்கின்ற பரம்பொருளான இறைவன் அண்ட சராசரங்களையும் தாங்கி நின்று அதிலிருக்கும் அனைத்து உலகங்களாகவும் அதிலிருக்கும் அனைத்து பொருட்களாகவும் இருக்கின்றான். அனைத்தும் அழிந்து போகின்ற பேரூழிக் காலத்திலும் கூட தான் ஒருவன் மட்டும் எப்போதும் அழியாமல் இருக்கின்றான். பசுமையான கிளியை தனது திருக்கையில் ஏந்திக் கொண்டு சுருண்ட அழகிய கூந்தலை உடைய இறைவியானவள் அப்போதும் இறைவனின் மேன்மையான நிலைக்கு ஏற்பவே தாமும் அவனுடன் சரிசமமான பாகமாகக் கலந்து நின்று இருவரும் சேர்ந்து இருக்கின்ற தன்மையில் பராசக்தியாக இருக்கின்றாள். ஒன்றாகச் சேர்ந்து இருக்கும் இவர்கள் இருவரையும் போற்றி வழிபடுங்கள்.`,
   },
   {
@@ -7542,6 +7489,7 @@ That He thus sports in joy
 With Her of bangled hands,
 And Form bejewelled,
 Is indeed a mystery, baffle!`,
+    elaborationEnglish: `Is it then a mystery why Siva sports in joy with the bejewelled Sakti?`,
     elaborationTamil: `பல்வேறு விதமான உயிர்களில் அந்தந்த உருவமாகவே இருக்கும் வல்லமையை உடையவனும் பாடல் #1247 இல் உள்ளபடி இறைவியைத் தொடர்ந்து கொண்டே இருக்கின்ற சாதகருக்குள் பாம்பும் கங்கையையும் அணிந்து இருக்கின்றவனும் ஆகிய இறைவனை தமக்குள் ஆராய்ந்து தேடிப் பார்த்து உணர்ந்து கொண்டால் அவனே குருநாதகராக வீற்றிருந்து பலவிதமான செயல்களைப் புரிந்து அருளும் அழகிய வளையல்களை அணிந்த திருக்கைகளையும் தங்க அணிகலன்களை முழுவதும் அணிந்திருக்கும் திருமேனியையும் உடைய இறைவியாகவே தான் மாறி இருக்கும் திருக்கோலத்தைக் காட்டி அருளுவதை பேரின்பத்தோடு பார்த்தால் ஒரு மாபெரும் அதிசயமாகவே இருக்கின்றது.`,
   },
   {
@@ -7585,23 +7533,7 @@ As I embraced the Lord of worlds all,
 I remained in divine fulfillment,
 As I entwined at the Primal One's Feet
 I received His Sakti's Grace.`,
-    elaborationEnglish: `Once He is realised as Isa, you unite in Him; you become one with Him. By embracing the Lord of all Worlds, the self
-
-is effaced.
-
-Feet are the Refuge
-
-The great Manonmani is Greatness All
-
-The Holy Feet of Her Lord, the Goal True, they say;
-
-This the learned know;
-
-For those who this truth know,
-
-His Golden Feet exalted art
-
-Manonmani is all greatness. The truly learned know that Her Holy Reet are their true “goal. They are the world’s haven of refuge also.`,
+    elaborationEnglish: `Once He is realised as Isa, you unite in Him; you become one with Him. By embracing the Lord of all Worlds, the self is effaced.`,
     elaborationTamil: `பாடல் #1249 இல் உள்ளபடி எமக்குள் ஆதாரமாக இருக்கின்ற இறைவனின் திருவடிகளை உணர்ந்து மாயையை ஒழித்து பலவிதமான பெயர்களால் அழைக்கப்படுகின்ற பரம்பொருள் ஒருவனே என்பதை உணர்ந்து கொண்டேன். அவனோடு ஒன்றாகக் கலந்து நின்று நான் எனும் அகங்காரத்தை ஒழித்தேன். அனைத்து உலகங்களுக்கும் அதிபதியாக இருக்கின்ற அவனோடு ஒன்றாகச் சேர்ந்து நின்று அவனது திருவடிகளைத் தவிர வேறு பற்றுக்கள் அனைத்தையும் ஒழித்தேன். அவனோடு பின்னிப் பிணைந்து என்னையே நான் ஒழித்துவிட்டேன். ஆதலால் யானும் இறைவனும் ஒன்றே எனும் திருவருளை யாம் பெற்ற வழி இதுவே.`,
   },
   {
@@ -7621,6 +7553,7 @@ This the learned know;
 For those who this truth know,
 His Golden Feet exalted are
 Life's refuge unfailing.`,
+    elaborationEnglish: `Manonmani is all greatness. The truly learned know that Her Holy Feet are their true goal. They are the world's haven of refuge also.`,
     elaborationTamil: `பாடல் #1250 இல் உள்ளபடி சாதகர் பெற்ற திருவடிகளின் பெருமையை உடையவள் அனைத்திற்கும் மேலான இறைவனோடு எப்போதும் சரிசமமாக சேர்ந்தே இருக்கும் மனோன்மணி எனும் இறைவியாவாள். நன்மையைத் தருகின்ற திருவடிகளைக் கொண்ட பரம்பொருளான இறைவனை சென்று அடைவதே இந்த உலகத்தில் கிடப்பதற்கு மிகவும் அரிய பயனாகும் என்பதை அவனது திருவடிகளை அடைந்தவர்கள் கூறுவார்கள். அப்படி அடைந்த திருவடிகளால் பெற்ற ஞானத்தின் மூலம் இறைவனை அறிந்து கொண்டு தமது எண்ணத்திலும் அவனை வைத்து முழுவதும் அறிந்து கொள்ள முடிந்தவர்களுக்கு பொன் போன்ற இறைவனின் திருவடிகளை இந்த உலகத்திலேயே அடைய முடியும் என்பதால் அதற்காக இந்த உலகத்தில் பிறவி எடுத்து வந்து அவனோடு ஏகாந்தத்தில் தனித்திருப்பதும் கிடைப்பதற்கு அரிய மிகப்பெரும் பேறாகும்.`,
   },
   {
@@ -7679,8 +7612,7 @@ Had they not,
 Will my Mother and Father know me ever?
 With my Mother and Father I sit,
 And my Mother and Father,
-I constant adore.
-9 EROLI CHAKRAM (CHAKRA OF RADIANT LIGHT)`,
+I constant adore.`,
     elaborationEnglish: `The yogi constantly adores the Mother (Sakti) and Father (Siva), who in love ever stand united.`,
     elaborationTamil: `பாடல் #1253 இல் உள்ளபடி எமது உடலாகவே மாறி எமக்குள் அமர்ந்திருக்கும் இறைவியும் பாடல் #1252 இல் உள்ளபடி எம்மோடு ஏகாந்தத்தில் தனித்து இருக்கும் இறைவனும் எம்மீது பேரன்பு கொண்டதைத் தவிர வேறு எவருமே எம்மை முழுவதுமாக அறிந்து கொண்டது இல்லை. எமக்குள் இருக்கும் இறைவியோடு இறைவனும் சேர்ந்து இருக்க அவர்களோடு யானும் சேர்ந்து இருந்து இறைவியோடு இறைவனையும் முழுவதுமாக யான் புரிந்து கொண்டேன்.`,
   },
@@ -7701,6 +7633,7 @@ With radiant Bindu arise;
 When Nada's radiant Kala everywhere suffuses,
 Then does arise Radiant (Eroli) Chakra
 In Central Kundalini Fire.`,
+    elaborationEnglish: `Va (m), Sa (m), Sha (m), Sa (m) are the four nadas. From radiant bindu in the muladhara four-petalled Lotus arises nada. From nada in the central kundalini there arises the Eroli Chakra.`,
     elaborationTamil: `உயிர்களுக்குள் இருக்கும் மூலாதாரமானது நான்கு இதழ்கள் கொண்ட தாமரை மலர் வடிவத்தில் சக்திமயமான சக்கரமாக இருக்கின்றது. அதை தியானம் தவம் ஆகிய சாதகங்களின் மூலம் மாற்றி அமைக்கும் போது அதிலிருக்கும் குண்டலினி சக்தியானது எழுச்சி பெற்று சுழுமுனை நாடி வழியே மேலெழுந்து வரும் போது பிரகாசமான வெளிச்சமாக வருகின்றது. அந்த வெளிச்சத்திலிருந்து சத்தம் வெளிவருகின்றது. இந்த வெளிச்சமும் சத்தமும் சுழுமுனை நாடியின் அடியிலிருந்து உச்சித் துளை வரை முழுவதும் நிறைந்து நிற்கும் போது அதன் நடுவில் அக்னியாக இருக்கும் சுடரே ஏரொளிச் சக்கரமாகும்.`,
   },
   {
@@ -7737,7 +7670,6 @@ Bindu aforesaid with Nadas four,
 In the four petals of that Adhara stand as Letters respective
 Chant Letters a hundred and forty four times,
 They as Chakra form and lofty arise.`,
-    elaborationEnglish: `Chant Letters a hundred and forty four times, They as Chakra form and lofty arise.`,
     elaborationTamil: `பாடல் #1256 இல் உள்ளபடி உள்ளுக்குள் இருந்து சொல்லப்பட்ட வழிமுறைகளின் படி மேலே ஏறி வந்த வெளிச்சத்திலிருந்து வெளிப்படும் சத்தங்கள் பன்னிரண்டு வகையான ஒலிகளாக இருக்கின்றது. இந்த பன்னிரண்டு வகையான ஒலிகளும் சாதகருக்குள் வீற்றிருக்கும் தலைவனாகிய இறைவனின் அம்சமாகவே இருக்கின்றன. இந்த பன்னிரண்டு வகையான ஒலிகளையும் அசபையாக (உச்சரிக்காமல்) மனதிற்குள் சொல்லிக்கொண்டே இருந்தால் அவை பலவிதமாக பரிணமித்து மொத்தம் நூற்றி நாற்பத்து நான்கு எழுத்துக்களின் வரிவடிவங்களாக வெளிப்படும். இந்த நூற்றி நாற்பத்து நான்கு எழுத்துக்களின் வரிவடிவங்களும் ஒன்று சேர்ந்து வெளிப்படும் போது மூலாதாரத்திலிருந்து ஏரொளிச் சக்கரம் மேல் நோக்கி ஏறி வரும்.`,
   },
   {
