@@ -169,9 +169,7 @@ And feel their way inward
 Through the twelve steps in the ladder
 Of the Soul's ascension to Siva
 Of such are the peerless school of Saivas.`,
-    elaborationEnglish: `The reference is to the 12 states of consciousness experience in the samadhi state, The twelfth state is the Final State of Void from whose bourne there is no retuming. For elaboration of the eleven consciousness experiences (avastas) preceding the twelfth, vide Tantra Eight For elaboration on the twelfth stage of consciousness experience, vide Mantra 1489, infra.
-
-The jnani holds mastery over the sacred lore on earth and the sixty-four attainments. He receives the vision of all worlds, inclusive of the ‘land of Mauna’. He sees the goal of all Vedas, and the Lord Himself.`,
+    elaborationEnglish: `The reference is to the 12 states of consciousness experience in the samadhi state, The twelfth state is the Final State of Void from whose bourne there is no retuming. For elaboration of the eleven consciousness experiences (avastas) preceding the twelfth, vide Tantra Eight For elaboration on the twelfth stage of consciousness experience, vide Mantra 1489, infra.`,
     elaborationTamil: `தனது காதுகளில் ஒளி வீசிப் பிரகாசிக்கும் தங்கத்தால் அழகாக வார்க்கப்பட்ட கடுக்கன்கள் இரண்டையும் காதோடு சேர்த்து அணிந்து கொண்டு இறைவனது திருநாமத்தை ஓதுகின்ற தமது மரியாதைக்கும் மேன்மைக்கும் உரிய உடலுக்கு உள்ளே இறைவனது திருநாமத்தை ஓதுவதினால் உருவாகுகின்ற சக்திகளை தம்மை சுற்றியே செயல் படுத்தும் பூனூல் மற்றும் அதை மேம்படுத்தி செயல் பட வைக்கும் ருத்திராட்சம் ஆகிய இரண்டு மாலைகளையும் அணிந்து கொண்டு இவற்றின் செயல்பாடுகளை சோதனை செய்து கொண்டே பாடல் #457 இல் உள்ளபடி கழுத்துக்கு கீழே எட்டு அங்குலமும் கழுத்துக்கு மேலே நான்கு அங்குலம் சுற்றிக் கொண்டு இருக்கின்ற மூச்சுக்காற்றுடன் சேர்ந்து அசபையாக மந்திரங்களை உச்சரித்துக் கொண்டே அது சரியாக இயங்குகின்றதா என்பதை ஆராயந்து செயல் படுத்துபவர்களே அசுத்த சைவம் வழிமுறையை கடைபிடிக்கும் சைவர்கள் ஆவார்கள்.`,
   },
   {
@@ -212,6 +210,7 @@ And espies the Land of Mauna
 And all other land besides;
 He sees the goal of all Vedas
 And sees Lord and himself in union one.`,
+    elaborationEnglish: `The jnani holds mastery over the sacred lore on earth and the sixty-four attainments. He receives the vision of all worlds, inclusive of the 'land of Mauna'. He sees the goal of all Vedas, and the Lord Himself.`,
     elaborationTamil: `பாடல் #1425 இல் உள்ளபடி சக்தி மயங்களாகிய இறையை இந்த உலகிலேயே உணர்ந்து கொண்ட ஞானியாகிய சாதகர் உலகத்திலுள்ள உயிர்கள் எழுச்சி பெற நன்மையை தருகின்ற நூல்கள் அனைத்தையும் அறிந்து கொள்பவராகவும் பேச்சும் அசைவும் இல்லாத மோன நிலையில் இருந்தாலும் அனைத்து திசைகளிலும் நிகழும் அனைத்தையும் அறிந்தவராகவும் தமது எண்ணம் முழுவதிலும் இறைவனையே வைத்து எட்டு விதமான சித்திகளையும் பெற்றவராகவும் இந்த உலகம் தாண்டி இருக்கின்ற அனைத்து உலகங்களிலுள்ள உயிர்களும் அடைய வேண்டிய இறைவனை வெளிப்படையாக எழுதாமல் உட்பொருளாக மறைத்து வைத்து இருக்கும் வேதங்களையும் அதன் எல்லையாக இருக்கின்ற இறைவனையும் உணர்ந்தவராகவும் அனைத்தையும் ஆளுகின்ற அரசனாக இருக்கின்ற இறைவனோடு தன்னையும் சரிசமமாக பாவிக்கும் குணத்தை கொண்டவராகவும் இருப்பார்.`,
   },
   {
@@ -2120,13 +2119,7 @@ His are the sinewy arms
 That skinned the dark massive elephant
 And donned it for a vesture;
 Do therefore, seek Him and adore Him.`,
-    elaborationEnglish: `The Lord plays the multi-role of Destroyer, Preserver, Creator and Redeemer. Realisation of this truth and adoration of Him will make the jiva feel the might of His sinewy arms.
-
-The ‘significance of attributing different colours to Siva’s form is explained here.
-
-Mantras 1520 & 1521
-
-Siva and Sakti are one and the same. So praise Him in devotion daily. He is truly the unfailing proof. Beholding the vision of Sakti and Siva together dispels darkness.`,
+    elaborationEnglish: `The Lord plays the multi-role of Destroyer, Preserver, Creator and Redeemer. Realisation of this truth and adoration of Him will make the jiva feel the might of His sinewy arms.`,
     elaborationTamil: `சிவந்த மேனியில் அருளை வழங்குபவன் கரிய மேனியில் மாயையால் மறைக்கின்றவன் வெள்ளை மேனியில் அண்ட சராசரங்களிலும் ஜோதியாய் பரவி இருக்கின்றவன் நன்மையைத் தந்து பச்சை மேனியில் ஆன்மாக்களை காத்து அருளுகின்றவன் இப்படி பலவிதமான தன்மைகளை கண்டு உணர்ந்து கொண்டவர்களுக்கு அவர்கள் கண்ட தன்மையிலேயே அருளை வழங்குகின்ற இறைவனை கருமை நிறம் கொண்டு அகங்காரத்தை இல்லாமல் செய்து யானையின் தோல் போன்ற ஆணவத்தை உரித்து எடுத்து தம்மேல் போர்த்திக் கொண்டு நெருப்புக் கணலை கையில் கொண்டு பிறவிகளை அறுத்து முக்தியை அருளபவன் அவனே என்று உணர்ந்து அவன் மேல் பேரன்பு கொள்ளுங்கள்.`,
   },
   {
@@ -2145,6 +2138,8 @@ Yet they say, He and His Consort stand one;
 For them that adore Him daily in devotion,
 He is verily the unfailing proof
 Of labour readily rewarded.`,
+    elaborationEnglish: `Mantras 1521 & 1522
+Siva and Sakti are one and the same. So praise Him in devotion daily. He is truly the unfailing proof. Beholding the vision of Sakti and Siva together dispels darkness.`,
     elaborationTamil: `சாதகர்கள் இறைவனை எந்த வடிவத்திலும் எந்த தன்மையிலும் தாம் எடுத்துக் கொண்ட எந்த சாதகத்தின் மூலமாகவும் சாதகம் செய்து வழிபடுகின்ற காலங்கள் எத்தனை எத்தனை வருடங்களாக இருந்தாலும் ஒன்றோடு ஒன்று தைப்பது போல பிண்ணிப் பிணைந்து இருக்கின்ற இறைவியும் இறைவனும் சாதகர்கள் வணங்கக் கூடிய அனைத்து வடிவத்திற்கும் அனைத்து தன்மைக்கும் ஒரே தலைவராக இருக்கின்றார் என்பதை தமக்குள் உணர்ந்தவர்கள் சொல்லுவார்கள். ஆகவே தினந்தோறும் சூரிய உதயத்திற்கு முன்பே எழுந்து எந்த வடிவத்திலும் எந்த தன்மையிலும் இறைவனை வணங்குகின்ற சாதகர்களுக்கு அவர்களின் கைகளினால் சாதகங்கள் செய்த வழிபாட்டிற்கு அவர்களின் கையில் இருக்கின்ற ரேகைகள் போலவே உடனுக்குடன் பலன்களை தருபவனாக இறைவன் இருக்கின்றான்.`,
   },
   {
@@ -2165,6 +2160,8 @@ In whose matted locks festooned with flowers,
 The bees dance drunk with nectar;
 They that waited in patience and prayer
 They indeed saw Him-their darkness dispelled.`,
+    elaborationEnglish: `Mantras 1521 & 1522
+Siva and Sakti are one and the same. So praise Him in devotion daily. He is truly the unfailing proof. Beholding the vision of Sakti and Siva together dispels darkness.`,
     elaborationTamil: `கண்டு கொண்டோம் இறைவியும் இறைவனும் பிண்ணிப் பிணைந்து தொடர்ச்சியாக விளங்குகின்ற ஆகாயத்தில் இருக்கின்ற ஒளியை. ஆதிகாலத்திலிருந்தே இருக்கின்ற அந்த ஒளியை கண்டு அந்த ஒளியின் நுணுக்கத்தை உணர்ந்தது என்னவென்றால் பரம்பொருளாகிய இறைவனே அந்த பரம் ஜோதியாகவும் இருக்கின்றான் என்பதே ஆகும். வண்டுகள் நறுமணமிக்க மலர்களில் உள்ள தேனை உண்டு களிப்பில் ஆடுவது போல அடியவர்களை தன் அமிழ்தத்தினை உண்டு பேரின்பத்தில் ஆடச் செய்கின்ற நீண்டு வளருகின்ற பிண்ணிய சடையை அணிந்து இருக்கின்ற தலைவனும் அடியவனுமாகிய இறைவனை தமக்குள் இருக்கும் ஜோதியாக கண்டு உணர்ந்து கொண்டவர்களுக்கு மாயையை நீங்கி இறைவன் எப்போதும் அருள் சக்தியாக நிற்கின்றான்.`,
   },
   {
@@ -2424,9 +2421,7 @@ No tapas except it be for Him
 The Six Faiths are nothing but a dreary waste;
 Do seek Nandi of mighty penance;
 You shall indeed be redeemed truly.`,
-    elaborationEnglish: `Mantras 1535 - 1537
-
-Siva is the only Lord; and the six faiths are but a dreary waste. Being materialistic, the six faiths do not lead to the final state. Devotion to Siva alone grants liberation.`,
+    elaborationEnglish: `Siva is the only Lord; and the six faiths are but a dreary waste. Being materialistic, the six faiths do not lead to the final state. Devotion to Siva alone grants liberation.`,
     elaborationTamil: `சிவம் என்று அறியப்படுகின்ற பரம்பொருளைத் தவிர வேறு பரம்பொருள் எதுவும் இல்லை. இறை என்று அறியப்படுவது சிவப் பரம்பொருளே ஆகும். இந்த உலகத்தில் இறைவனை அடைய வேண்டும் என்று உறுதியாக செயல் படுபவர்களுக்கு தவம் என்கின்ற உயர்ந்த நிலையை தவிர வேறு உயர்ந்த நிலை எதுவும் இல்லை. ஆனால் ஆறு விதமான வழி முறைகளையும் ஆசைகளுக்காக புற வழிபாடு செய்பவர்களுக்கு இந்த உலகத்தில் பயனில்லாததைத் தவிர வேறு எதுவும் இல்லை. அதனால் தவத்திற்கு உறுதியாக நிற்கின்ற குருநாதனாகிய இறைவனின் திருவடியை சரணடைந்து மேன்மை நிலையை அடையாமல் இருக்கின்றீர்களே.`,
   },
   {
@@ -2444,7 +2439,9 @@ They of the Six Faiths sought Lord
 Only for heavenly state to gain;
 They sought not to be rid of bondage thorns,
 And so know not to be rid of this world materiality.`,
-    elaborationEnglish: `The path of Siva alone is our defence from earthly sorrows. \\ Tt is the sole path that leads to ultimate liberation through pasa annihilation. Neither the six faiths nor the swollen stream of hundreds of other faiths, tall as their claims are, can lead to the path of Param.`,
+    elaborationEnglish: `Mantras 1535 - 1537
+
+The path of Siva alone is our defence from earthly sorrows. \\ Tt is the sole path that leads to ultimate liberation through pasa annihilation. Neither the six faiths nor the swollen stream of hundreds of other faiths, tall as their claims are, can lead to the path of Param.`,
     elaborationTamil: `அண்ணலாகிய இறைவனை தேடி அடைய உதவும் ஆறு விதமான வழி முறைகளும் முக்தி அடையவும் தேவர்களாக ஆக வேண்டும் என்று மிகவம் விரும்புகின்ற உயிர்களுக்கு வழி காட்டவே உருவாக்கப் பட்டுள்ளன. ஆனாலும் அந்த ஆறு வழி முறைகளின் உட் பொருளை ஆராய்ந்து அறிந்து கொண்டு உணர்ந்து தெளிவடைவதற்கான முயற்சியை இல்லாதவர்களாக இருக்கின்றார்கள். ஆதலால் வெறும் ஆசைகளுக்காக புற வழிபாடு செய்பவர்களுக்கு அவர்கள் ஆசைப் படுகின்ற அனைத்தும் அழிந்து போவதையும் மற்றவர்கள் ஆசைப் படுகின்ற அனைத்தும் அழிந்து போவதையும் அறிந்து கொண்டு அழியாமல் இருக்கின்ற முறையை அறிந்து கொள்ளாமலேயே இவர்கள் இருக்கின்றார்கள். குறிப்பு: ஆறு சமயங்கள் என்பது இறைவனை அடைவதற்கான ஆறு வழி முறைகளாகும். இதனை பாடல் #1530 இல் பார்க்கவும்.`,
   },
   {
@@ -2866,7 +2863,7 @@ When you say so,
 These ignorant men laugh low;
 Poor folk! if they but seek Him in prayer within
 Then shall they meet Him-the Peerless One.`,
-    elaborationEnglish: `Poor folk! if they but seek Him in prayer within’ Then shall they meet Him — the Peerless One.`,
+    elaborationEnglish: ``,
     elaborationTamil: `எப்போதும் நிலையாக இருக்கின்ற ஒருவனாகிய இறைவன் நினைக்கும் வடிவமாகவே கலந்து மனதின் தன்மைக்கு ஏற்றவாறு இருக்கின்றான். இப்படி இறைவன் இருப்பதை எடுத்துக் கூறினால் அறியாமையில் மூழ்கி அறிவுக் குறைபாடினால் ஏழைகளாக இருக்கின்ற மனிதர்கள் இகழ்ந்து சிரிப்பார்கள். இவ்வாறு எண்ணத்திற்கு ஏற்றபடி தம்மோடு பொருந்தி இருக்கின்ற இறைவனை தமது மனதினால் தொழுது வந்தால் தனக்கு சரிசமமாக எதுவும் இல்லாதவனாகிய இறைவன் தங்களின் மனதிற்குள் வெளிப்பட்டு அவனை உணர்வதற்கான வழியில் செல்ல வைப்பான்.`,
   },
   {

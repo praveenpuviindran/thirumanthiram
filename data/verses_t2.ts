@@ -2539,9 +2539,7 @@ Kept it safe from burning Muladhara Fire,
 He drew charmed circles eddying,
 Around the budding life, from Pasa harassing
 And so preserved it safe and cool.`,
-    elaborationEnglish: `The Lord takes infinite care to protect the foetus inside the womb for 300 days. He surrounds it with a protective ‘bag of waters’, keeps it from being scorched by the mother’s
-
-muladhara fire; and He draws charmed circles around the budding life to shield it from harm. The Absolute Being stands as the sentinel, guarding the child in the womb.`,
+    elaborationEnglish: `The Lord takes infinite care to protect the foetus inside the womb for 300 days. He surrounds it with a protective 'bag of waters', keeps it from being scorched by the mother's muladhara fire; and He draws charmed circles around the budding life to shield it from harm. The Absolute Being stands as the sentinel, guarding the child in the womb.`,
     elaborationTamil: `ஆன்மா தான் இருக்கும் உடலின் மூலம் அனுபவிக்க வேண்டிய வினைகளை எப்போது அனுபவித்து முடிக்கின்றதோ அப்போதே அதனது அடுத்த பிறவியை எடுக்க உதவும் பலவிதமான வழிகளை உருவாக்கி விடுகின்றான் இறைவன். ஆன்மா இருக்கும் உடல் இறந்த பின் சுற்றத்தாரால் நீராட்டப்பட்டு சுடுகாட்டிற்கு சுட்டெரிக்க எடுத்துச் செல்லும்போதே அதிலிருந்து வெளிப்பட்ட ஆன்மாவை இன்னும் அனுபவிக்க வேண்டிய பலவிதமான வினைகளான பந்த பாசத்தால் கட்டி புதிய கருவாக உருவாக்கி கர்ப்பப் பைக்குள் வைத்து அங்கே பெண்ணின் அடிவயிற்றில் இருக்கும் நெருப்பினாலும் நீராலும் பாதிக்கப் படாதபடி காப்பாற்றி அருளுகின்றான் இறைவன்.`,
   },
   {
@@ -3750,7 +3748,7 @@ He knows who made it so;
 When you realize the truth
 He will make,
 Celestial beings bow to you.`,
-    elaborationEnglish: `Mantras & 522 ; The throat of the Fifth Face is suffused with darkness. Siva is blue-throated. The story goes that He swallowed the deadly © poison that arose at the time of the chumming the ‘milky ocean’ by the devas and asuras, and that it stayed-in His throat. But the inner meaning is something deeper. Siva alone knows. The knowledge of Truth is verily the goal of realisation.`,
+    elaborationEnglish: `Mantras 521 & 522 ; The throat of the Fifth Face is suffused with darkness. Siva is blue-throated. The story goes that He swallowed the deadly © poison that arose at the time of the chumming the 'milky ocean' by the devas and asuras, and that it stayed-in His throat. But the inner meaning is something deeper. Siva alone knows. The knowledge of Truth is verily the goal of realisation.`,
     elaborationTamil: `செழுமையான கடல்களால் சூழப்பட்டிருக்கும் இந்த உலகத்தைப் படைத்த இறைவனுக்கு மனிதர்களில் யாரெல்லாம் தம்மீது உண்மையான பக்தி இல்லாமல் பொய்யாகப் புகழ்ந்து போற்றுகின்றனர் என்பது நன்றாகத் தெரியும். யாரெல்லாம் தம்மீது உண்மையான பக்தி கொண்டு போற்றி வணங்குகின்றார்களோ அவர்களை வாணுலகத்து தேவர்களும் வந்து வணங்கச்செய்வான் அதோமுகம் கொண்ட கருத்த தொண்டையை உடைய இறைவன்.`,
   },
   {

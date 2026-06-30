@@ -437,11 +437,7 @@ Like the ghee subtly latent in purest milk,
 Into the waveless Thought the Lord in silentness speaks;
 They who, in silentness realise, this mortal coil shuffled,
 Purity they become, in Limitless Light mingling.`,
-    elaborationEnglish: `Latent as the ghee within pure milk is waveless thought for
-
-the Pure Lord. They who grasp its entire inner meaning will
-
-merge as pure spirit in divine light.`,
+    elaborationEnglish: `Latent as the ghee within pure milk is waveless thought for the Pure Lord. They who grasp its entire inner meaning will merge as pure spirit in divine light.`,
     elaborationTamil: `புரை ஊற்றப்படாத சுத்தமான பாலுக்குள்ளே நெய் கலந்து இருப்பது போலவே கடல் அலைகள் போல அலைபாய்ந்து கொண்டிருக்கும் சிந்தனைகளுக்குள்ளே ஞானகுரு சொன்ன மந்திரத்தை ஜெபித்து இறைவனின் மேல் மனம் ஒருநிலைப்பட்டு இருப்பதை உணர்ந்தவர்கள் தாம் பிறந்த இந்த உடலை விட்டுவிட்டு சூட்சும ஒளியாகி எல்லையில்லாத பேரொளியாகிய இறைவனோடு கலந்து சுத்தமான பரவெளியில் என்றுமே நிலைத்து இருப்பார்கள்.`,
   },
   {
