@@ -132,6 +132,7 @@ He spoke the Vedas and scriptures all;
 Him--the haughty Jalandhara challenged in duel
 And the Lord with his toe marked a circle
 And into it He saw his final end.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-342-Second-Tantra-2.-Eight-Prowesses-of-Lord-Shiva.mp3',
     elaborationEnglish: `Jalandhara was a giant, and the foster son of Varuna, the Sea-god. By virtue of his penances, he received a boon that no one else could kill him. He became all-powerful and began to harass the celestials. They complained to Siva. Siva confronted Jalandhara and drew a circle around him. He challenged the giant to lift the circle. Jalandhara lifted it to his head, when lo, the circle turned into a powerful discus and destroyed him. Jalandhara had.to be destroyed by himself. This heroic deed is said to have happened at the place called Tiruvirkudi.`,
     elaborationTamil: `அனைத்து உயிருக்குள்ளும் எங்கும் எதிலும் இரண்டறக் கலந்திருப்பவனும் அனைத்து உயிர்களும் உய்ய வேதங்களை உலகிற்கு ஓதி அந்த வேதத்திற்கு முதல்வனாயும் இருக்கும் இறைவனை உணராமல் உயிர்கள் வீணாக ஒருவர்மேல் ஒருவர் குரோதம் கொண்டு ஆத்திரத்தில் அறிவிழந்து அடுத்த உயிருக்குள்ளும் இறைவன் இருக்கின்றான் என்பதை உணராமல் அந்த உயிரை அழிக்க பல கெட்ட செயல்களைச் செய்கின்றனர். உயிர்கள் இறைவா காப்பாற்று என்று வேண்டிட குரோதம் என்னும் அசுர குணத்தை உயிர்களிடம் உள்ள சக்திமய சக்கரங்களை கருவியாக பயன்படுத்தி இறைவன் தனது திருவடி மூலம் அழித்தான். இந்த பாடலுக்கான புராணம் நிகழ்ந்த இடம் திருவிற்குடி தலமாகும். ஒரு முறை இந்திரன் தான் என்ற அகந்தையுடன் சிவனை தரிசிக்க கைலாயத்திற்கு வந்தான். இதை அறிந்த சிவன் சேவகன் வடிவெடுத்து கைலாய வாசலில் நின்று உள்ளே செல்ல முடியாதபடி தடுத்தார். கோபமடைந்த இந்திரன் தன் வஜ்ராயுதத்தால் சிவனை அடித்தான். கோபத்தால் சிவன் தன் நெற்றிக்கண்ணை திறந்தார். காவல் காப்பவர் சிவன் என்பதை அறிந்த இந்திரன் ஆணவத்தால் தான் செய்த செயலை மன்னிக்க வேண்டினான். கோபத்தில் தன் உடலில் ஏற்பட்ட வியர்வைத்துளி பாற்கடலில் விழுந்தது. அதில் ஒரு குழந்தை தோன்றியது. இந்த குழந்தை பிரம்மனின் தாடியை பிடித்து இழுக்க வலி தாங்காத பிரம்மனின் கண்களிலிருந்து கண்ணீர் தோன்றி அந்த துளியும் குழந்தையின் மீது விழுந்தது. இப்படி சிவனின் வியர்வை துளி, பாற்கடல் நீர், பிரம்மனின் கண்ணீர் துளி ஆகிய ஜலத்தினால் உருவான குழந்தைக்கு ஜலந்தராசூரன் என பெயர் வைக்கப்பட்டது. அவன் பெரியவனானதும் மூவுலகும் தனக்கு அடிமையாக வேண்டும் என்றும் சாகாவரமும் கேட்டான். பிரம்மன் மறுத்தார். அதற்கு ஜலந்தராசூரன் தர்ம பத்தினியான என் மனைவி பிருந்தை எப்போது மனதளவில் கெடுகிறாளோ அப்போது எனக்கு அழிவு வரட்டும் என வரம் வாங்கி விட்டான். இவனது அட்டகாசம் அதிகமானது. கடைசியில் சிவனையே அழிக்க சென்றான். சிவன் அந்தணர் வேடமிட்டு அசுரன் முன் வந்து நின்று தன் காலால் தரையில் சக்கர வடிவில் ஒரு வட்டம் போட்டார் இந்த சக்கரத்தை எடுத்து உன் தலையில் வை. அது உன்னை அழிக்கும் என்றார். ஆணவம் கொண்ட ஜலந்தரன் என் மனைவியின் கற்பின் திறனால் எனக்கு அழிவு வராது என சவால் விட்டான். இந்த நேரத்தில் திருமாலை அழைத்த சிவன் நீர் ஜலந்தராசூரனைப் போல் வடிவெடுத்து அவன் மனைவி பிருந்தை முன் செல்லும்படி கூறினார். கணவன் தான் வந்திருக்கிறார் என வீட்டிற்குள் அழைத்தாள் பிருந்தை. ஒரு நொடியில் மாற்றானை தன் கணவன் என நினைத்ததால் அவளது மனம் களங்கமடைந்தது. இந்நேரத்தில் சக்கரத்தை அசுரன் எடுத்து தலையில் வைக்க அவன் கழுத்தை சக்கரம் துண்டித்து விடுகிறது.`,
   },
@@ -178,6 +179,7 @@ Seeking to rival the Lord's might
 The Heaven's beings performed a sacrifice unholy
 And all those who from that fire arose
 The Lord smote for the very fire to consume.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-344-Second-Tantra-2.-Eight-Prowesses-of-Lord-Shiva.mp3',
     elaborationEnglish: `a Gajasura was an elephant~monster that arose out of the sacrificial fire which the celestials had performed to challenge Siva's supremacy. Siva peeled the elephant’s skin and donned it as a vestment; and the’ celestials of evil intent were immolated in the very sacrificial fire they lit. This happened at Tiruvazhulur.`,
     elaborationTamil: `தாருகா வனத்திலிருந்த முனிவர்கள் இறைவனை வணங்காமல் இறைவனின் அருளை விட தங்களின் மந்திர சக்தியே பெரிது தாம் கற்ற மந்திரங்களின் மூலமாக எதையும் அடையலாம் என்ற அகங்காரத்தில் இருந்தனர். இவர்களின் அறியாமையைப் போக்க இறைவன் அழகிய உருவம் கொண்ட பிக்‌ஷாடனராகத் தோன்றி அந்த முனிவர்களின் வீட்டுக்குச் சென்று அங்கு இருந்த முனி பத்தினிகளின் முன்னால் பிச்சை கேட்டு நின்றார். அவரின் அழகில் மயங்கிய முனி பத்தினிகள் அவர் பின்னாலேயே மயக்கத்தில் கூடி வர ஆரம்பித்தனர். தங்களது பத்தினிகள் இப்படி ஒரு ஆடவனின் பின்னால் மயங்கி வருவதைக் கண்டு கோபமுற்ற முனிவர்கள் தமது தவ வலிமையால் மூன்றுவிதமான தீயை வளர்த்து மந்திரங்கள் மூலமாக (ஆகவனீயம் – காட்டுத்தீ, காருகபத்தியம் – வீட்டுத்தீ, தட்சிணாக்கினியம் – ஏட்டுத்தீ) கரிய நிறமுடைய ஒரு பெரிய யானையைத் தோன்றுவித்தனர். யாகத் தீயில் தோன்றிய யானை அவரை அழித்துவிடும் என்று நினைத்தார்கள். ஆனால் அந்தத் தீயிலிருந்து வெளிவந்த யானையைக் காடே அதிரும்படி பிளந்து கொன்று அதன் தோலை தனக்குப் போர்வையாக போர்த்திக்கொண்டு மூன்று வகையாக நெருப்பும் அதில் சொல்லும் மந்திரங்களும் மந்திரத்தின் பலனாக அதிலிருந்து வரும் பலனும் அனைத்தும் யாமே என்று தாருகா வனத்திலிருந்த முனிவர்களுக்கு உணர்த்தினார். இந்த புராணநிகழ்வு நடந்த இடம் திருவழுவூர் தலமாகும். உள்விளக்கம்: உயிர்களுக்கு வரும் கோபத்தினால் நான் என்ற அகங்காரம் அதிகரித்து என்ன செய்கின்றோம் என்ன பேசுகின்றோம் என்று தெரியாமல் மதம் பிடித்த யானை போல் இருக்கும் போது உயிர்கள் இறைவனை சரணடைய இறைவன் கோபத்தையும் அகங்காரத்தையும் அழித்து அனைத்தும் யாமே என்று உணர்த்துகிறார்.`,
   },
@@ -196,6 +198,7 @@ The Kundalini Fire coiled in Muladhara
 Upward He coursed it to Hollow on top;
 That Fiery Yoga Way He scorched the God of Death
 That was at Kadavoor, the holy shrine here below.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-345-Second-Tantra-2.-Eight-Prowesses-of-Lord-Shiva.mp3',
     elaborationEnglish: `Young Markandeya was an ardent devotee of Siva; but fate had decreed that.he should die at the age of sixteen. On the day destined, Yama, the god of death, promptly threw his noose around Markandeya’s life, not caring that the victim was immersed in Siva worship. At the sight of the god of death, the devotee clung fast to the Linga murthi. The death-noose thus encircled Siva as well. His wrath erupted, and rousing the kundalini fire from the muladhara, Siva spurned Yama forcing him to a regretful retreat by the heat of His divine fire. This heroic feat happened at the place called Kadavur.`,
     elaborationTamil: `மூலாதாரத்தில் எரிந்து கொண்டு இருக்கும் குண்டலினி சக்தியை சுழுமுனை நாடி வழியே மேலேற்றி அங்கே சகஸ்ரரதளத்தில் சேர்த்து அதைத்தாண்டிய பரவெளியில் இருக்கும் இறைவனை உணரும் உயிர்களுக்கு காலனை உதைத்து சாகா வரம் அளிப்பான் இறைவன். இதை உலகத்தவர்க்கு உணர்த்தும் விதமாகவே திருக்கடவூரின் திருத்தலம் இறைவனின் அருளால் நன்றாக அமைந்தது. இந்த பாடலுக்கான புராணம் நிகழ்ந்த இடம் திருக்கடவூர் தலமாகும். மிருகண்டு முனிவரும் அவருடைய மனைவியான மருத்துவவதி தேவியாரும் தங்களுக்கு குழந்தை பாக்கியம் தரும்படி இறைவனை வேண்ட குறைந்த ஆயுட்கொண்ட அறிவாளியான குழந்தை வேண்டுமா அல்லது அதிக ஆயுட்கொண்ட முட்டாளான குழந்தை வேண்டுமா என்று இறைவன் கேட்க அறிவாளியான குழந்தையே வேண்டும் என்று கேட்டு மார்க்கண்டேயன் எனும் குழந்தையைப் பெற்றுக் கொண்டனர். மார்க்கண்டேயர் பிறந்ததிலிருந்து ஆயுள் அதிகரிக்க இறைவனே சரணடைய வேண்டும் என்று போதித்து வந்தனர். அதனால் மிகச்சிறந்த இறை பக்தனான மார்க்கண்டேயர் எப்போதும் இறை பூஜையிலேயே வாழ்க்கையைக் கழித்து வந்தார். அவரது ஆயுட்காலம் முடியும்போது அவரை மேலுலகம் அழைத்துச்செல்ல எமதருமரும் எந்தப் பூஜையில் இருந்தாலும் அவரது ஆயுள் முடிந்தால் அழைத்துச் செல்லவேண்டியது தமது கடமை என்று எண்ணி அவரை அழைத்துச் செல்ல பாசக் கயிற்றை வீசுகிறார். சிவபூஜையில் இருந்த மார்க்கண்டேயர் சிவலிங்கத்தைக் கட்டி அணைத்திருக்கும்போது பாசக்கயிறு அவரோடு சிவலிங்கத்தின் மீதும் விழ அதிலிருந்து இறைவன் வெளிவந்து எமது பூஜையில் இருக்கும் அடியவர் எவரையும் கொண்டு செல்லும் உரிமை உமக்கு இல்லை என்று கூறி எமதருமரை காலால் எட்டி உதைத்துத் தள்ளிவிட்டு, மார்க்கண்டேயருக்கும் என்றும் 16 வயதுடன் சிரஞ்சீவியாக இருக்கும் வரமளித்தார். உட்கருத்து: தியானத்தில் இருந்து மூச்சுக்காற்றை உள்ளிழுத்து அடக்கி அதன் மூலம் மூலாதாரத்தில் எரிந்து கொண்டிருக்கும் குண்டலினி சக்தியை எழுப்பி சுழுமுனை நாடி வழியே மேல் நோக்கி எடுத்துச் சென்று ஏழாவதான சக்கரமான சகஸ்ரரதளத்தில் சேர்த்து அங்கு இருக்கும் இறைவனை உணர்ந்து விட்டால் மரண பயம் இன்றி சிரஞ்சீவியாக இறைவனிடம் பேரானந்தத்திலேயே இருக்கலாம்.`,
   },
@@ -238,6 +241,7 @@ Sakti performed penances severe;
 For all celestial beings to witness,
 For all earthly beings to delight,
 In adoration intense to Primal Lord Divine.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-347-Second-Tantra-3.-Story-of-Linga.mp3',
     elaborationEnglish: `Sakti intent on reaching the Primal Being, incarnated Herself as Parvati, the daughter of the mountain-king, and performed hard penance. All the world stood in wonder. Siva warming up to Her intense devotion blessed Her.`,
     elaborationTamil: `ஆதிமூலமாகிய சிவ பரம்பொருளை அடைய வேண்டும் என்று சக்தி உறுதி எடுத்துக் கொண்டு இமய மலையின் அரசனாகிய பர்வதராஜனின் மகளாகப் பிறந்து பல காலம் உறுதியுடன் மாபெரும் தவம் செய்து தேவர்களும் அறியாத வழிபாட்டு முறைகளை தேவர்களும் அறிய முறையாக பூஜை செய்து இறைவனை அடைந்தாள். உட்கருத்து: ஆதிமூலமாகிய சிவ பரம்பொருளை அடைய வேண்டும் என்று ஆசைப்படும் உயிர்கள் தமது உறுதியிலிருந்து சற்றும் விலகாமல் தியானமும் தவமும் செய்து அசையும் சக்தியாகிய குண்டலினி சக்தியை மேலேற்றி தனது சிரசின் இடப்பக்கம் இருக்கும் அசையா சக்தியாகிய சிற்சக்தியுடன் சேர்த்தால் தேவர்களும் அறியாத இறைவனின் லிங்க உருவத்தையும் லிங்க தத்துவத்தையும் தனக்குள்ளேயே உணர்ந்து இறைவனின் திருவடிகளைச் சென்று அடையலாம்.`,
   },
@@ -258,6 +262,7 @@ Thus despair not
 That He is your reach beyond;
 Sure is the Lord to seekers true
 In them He abideth, Grace abounding.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-348-Second-Tantra-3.-Story-of-Linga.mp3',
     elaborationTamil: `எல்லா உயிர்களிடமும் இருக்கும் ஆணவம், கன்மம், மாயையாகிய மும்மலங்களை அழித்து அருளும் எம்பெருமான் ஈசன் கிடைப்பதற்கு மிகவும் அரிதானவன் என்று எண்ணிக்கொண்டு சோர்ந்து போக வேண்டாம். உண்மையான அன்புடன் தம்மை பூஜிக்கும் அடியவர்களுக்கு ஈசன் பொய்யானவன் அல்ல. பாடல் #347 ல் உள்ளபடி தனக்குள்ளேயே லிங்க உருவத்தையும் லிங்க தத்துவத்தையும் உணர்ந்து அன்போடு பூஜிக்கும் அடியவர்களின் அருகில் பேரன்புடன் பெருங்கருணையோடு நின்று அவர்களின் பக்திக்கு ஏற்ற பரிசை அருளுவான்.`,
   },
   {
@@ -340,6 +345,7 @@ The Devas together rushed and cried;
 And thus they prayed, prostrating low;
 And He of Renown unsurpassed said;
 "Arise, fear not."`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-352-Second-Tantra-3.-Story-of-Linga.mp3',
     elaborationEnglish: `Dandi was a brahmin boy who herded the cows of his village. Filled with intense devotion for Siva, Dandi would make. Lingam images out of sand from the river bed, milk the cows. ‘and offer the five products of cows to the Lingam in worship. The matter reached the ears of his father who, incensed at the way the precious. milk and other products of the cows were being wasted by his son, knocked the sand-made lingam with a blow from his leg. Such was Dandi’s devotion to Siva, that he was unable to contain the insult and smote the parent’s offending leg with a stroke of the sword. Siva appeared on the scene, and blessed Dandi, bestowing His own garland on him. Seeing Dandi’s father dead, the celestials appealed to Siva, who revived the parent. se`,
     elaborationTamil: `தேவர்கள் எல்லாம் தமக்குத் துன்பம் நேரும் போதெல்லாம் வாடிய முகத்துடன் மனம் வருந்தி இறைவனை விரும்பிச்சென்று இறைவா நமசிவாய என்று திருவடி பணிந்து கும்பிட ஈடு இணையில்லாத புகழை உடைய இறைவன் அவர்கள் மேல் கருணை கொண்டு எழுக என்று கூறி அவர்களின் துயரங்களைத் தீர்த்தான். உட்கருத்து: தனக்குள் லிங்க உருவத்தையும் லிங்க தத்துவத்தை உணர்ந்த உயிர்களுக்கு படைக்கும் பிரம்மாவின் தொழிலையும் காக்கும் திருமாலின் தொழிலையும் அளித்து அந்த உயிருக்கு தேவர்கள் என்னும் தகுதியை அளிக்கும் இறைவன் (இதனை திருமந்திர பாடல் எண் #349 மூலம் அறியலாம்) அவர்கள் உணர்ந்த லிங்க தத்துவத்தை இறைவா நமசிவாய என்று வழிபட ஈடு இணையில்லாத புகழை உடைய இறைவன் அவர்கள் மேல் கருணை கொண்டு எழுக என்று கூறி அவர்களின் உடலில் இருந்து உயிரை பிரித்து பிறவா நிலையை அந்த உயிருக்கு அளிப்பார். லிங்க வடிவின் தத்துவமும் இறைவனும் ஒன்றே என்பதை இப்பாடலின் மூலம் உணரலாம்.`,
   },
@@ -360,6 +366,7 @@ And lo! as the Lord in wrath rose
 Helter-skelter ran the Devas
 Deranged in directions all
 --Their depraved worship unconsummated.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-353-Second-Tantra-4.-Yagna-of-Thakkan.mp3',
     elaborationEnglish: `Gods who participated in Daksha’s unholy sacrifice in an attempt to denigrate Siva, met with diverse dire fates—some losing their head, others the face, the nose, the shoulders, the hands or other limbs. Having described the fate of the gods—Brahma, Vishnu, the mountain-god, the sun-god, the moon-god, the fire-god, the goddess of learning, and the god of celestials (Indra), Tirumular exhorts, ‘Be thou constant in devotion to Siva.’’`,
     elaborationTamil: `அனைத்து உயிர்களுக்கும் தந்தையாகவும் தலைவனாகவும் இருக்கும் இறைவனுக்குத் தரும் அவிர்பாகத்தையும் அவருக்குத் தராமலும் அவரை மதிக்காமலும் இறைவனை அழிக்க மாபெரும் யாகம் ஒன்றை செய்தான் தக்கன். அவனது அறியாமையைக் கண்டு கோபமுற்ற ஈசன் அந்த யாகத்தையும் அவனது செறுக்கையும் அழித்து அவனக்கு நல் அறிவைக் கொடுக்க மறக்கருணை கொண்டு வீரபத்திரர் எனும் பைரவ அவதாரத்தை அந்த மாபெரும் யாகத்தின் தீயிலிருந்து வெளிப்பட்டார். அந்த மாபெரும் யாகத்தை செய்தவர்கள் மற்றும் அதை ஏற்க வந்த தேவர்களும் இறைவனின் கோப முக தரிசனத்தைப் பார்த்த மறுகணமே அவனது அருளன்றி இந்த யாகத்தைப் பூர்த்தி செய்ய முடியாதென்பதை அறிந்து இறைவனின் கோபத்தைக் கண்டு மிகவும் அஞ்சி தமது நிலை தடுமாறி எல்லாத் திசையிலும் சிதைந்து போனார்கள். உட்கருத்து: தாம் செய்யும் எந்த செயலானாலும் மனம் வாக்கு உடம்பு மூன்றையும் ஒருநிலைப்படுத்தி இறையருளுடன் செய்வது வேள்வியாகும். மனம், வாக்கு, உடம்பு மூன்றை மட்டுமே வைத்து இறையருள் இல்லாமல் செய்வது தக்கன் வேள்வியாகும்.`,
   },
@@ -383,6 +390,7 @@ A prey to Passion's consuming fetters;
 Then repentant he performed tapas
 And the Lord that has no beginning nor end
 Bestowed His Grace on him.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-354-Second-Tantra-4.-Yagna-of-Thakkan.mp3',
     elaborationTamil: `தக்கன் யாகத்தையும் அதைச் செய்ய முற்பட்டவர்களையும் அதை ஏற்றுக்கொண்ட தேவர்களையும் இறைவனின் பைரவ அவதாரமான வீரபத்திரர் அளித்த தண்டனையை கண்டு யாகத்தீயில் இருந்து எழுந்து வந்த திருமால் இறைவனே தவறு செய்தவன் இவனல்ல உலகினில் பிறந்த சதியின் மேல் வைத்த பாசத்தாலும் கொண்ட பந்தத்தாலும் அறிவிழந்து இவன் செய்த யாகத்தின் அவிர்பாகத்தை ஏற்றுக்கொண்ட நாங்களே பெரும் தவறு செய்தவர்கள் எம்மை மன்னித்து அருளுங்கள் என்று கூறி இறைவனின் திருவடிகளில் விழுந்து தொழ என்றுமே இறப்பில்லாத இறைவனும் அவர்களுக்கு அருள் புரிந்தான். உட்கருத்து: மனம், வாக்கு, உடம்பு மூன்றையும் ஒருநிலைப்படுத்தி பந்த பாசத்தினால் செயல்களை செய்தால் அந்த செயல் இறையருள் இல்லாமல் பூர்த்தியாகாமல் இருக்கும் அதை உணர்ந்து உயிர்கள் பந்த பாசத்தில் இருந்து விடுபட்டு இறையருளுடன் செய்யும் போது இறைவன் அந்த உயிருக்கு அருள் செய்வான்.`,
   },
   {
@@ -507,6 +515,7 @@ For the holy ones to delight"
 And the Lord, who bending His Mountain -bow
 Sent forth shafts of fire at Asura's city
 Destroying the evil ones, never to rise again.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-360-Second-Tantra-4.-Yagna-of-Thakkan.mp3',
     elaborationTamil: `இறைவனின் அருள் வேண்டி வேள்விகள் அமைத்து தம்மை வணங்கும் நல்லவர்கள் அனைவரும் அனைத்துவித நலன்களும் பெற்று வாழ தயைகூர்ந்து அருள் புரியுமாறு பலகோடி தேவர்கள் அனைவரும் இறைவனை வேண்டிக்கொள்ள யாராலும் அழிக்க முடியாத அசுரர்களையும் அவர்களின் முப்புரங்களையும் வில்லேந்தி அம்புகொண்டு எரித்த எம்பெருமானும் கருணைகொண்டு உயிர்களை வாட்டும் பல கொடிய அசுரர்களையும் அழிக்கும் வலிமையை அவர்களுக்கு வழங்கி அருளினான். உட்கருத்து: உயிர்கள் எந்த செயலைச் செய்தாலும், மனம், வாக்கு, உடம்பு ஆகிய மூன்றும் ஒன்றாக வைத்து இறைவனை மட்டுமே நினைத்து அவனது திருவருளை கொடுக்குமாறு வேண்டிக்கொண்டு இறை அருள் பெற்று செய்தால் எத்தகைய வேலையையும் செய்யத்தடையாக இருப்பவற்றை அழிக்கும் சக்தியை இறைவன் உயிர்களுக்கு அருளுவான்.`,
   },
   {
@@ -550,6 +559,7 @@ And then from amidst the floods arose
 As an immeasurable mountain of Light
 The One Lord, manifesting the Truth,
 And thus blessing both.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-362-Second-Tantra-5.-Cataclysm.mp3',
     elaborationEnglish: `At the yugas end when cataclysmal floods swallowed the earth, Brahma, Vishnu and other denizens of the celestial world sought refuge in Siva, and Siva saved them from disaster.`,
     elaborationTamil: `பிரளய வெள்ளத்தில் பெரிய மலைகளும் நீரில் மூழ்கின. உலகெங்கும் படைத்தல் தொழில் நின்றது. அந்நேரத்தில் பிரமனும் திருமாலும் தங்கள் கடமையை செய்யாமல் யாமே தலைவர் என்று ஒருவருக்கொருவர் மாறுபட்டு கூறிக்கொண்டனர். சதாசிவமூர்த்தியான இறைவன் பேரொளி மிகுந்த நெருப்பு மலையாக நின்று வெள்ள நீரெல்லாம் வற்றச் செய்தான். சதாசிவமூர்த்தியின் ஆற்றலைக் கண்ட பிரமனும் திருமாலும் தலைவன் யார் என்பதை உணர்ந்தார்கள். தம் தவற்றை உணர்ந்த அவர்களுக்கு சதாசிவமூர்த்தி நெருப்பு மலையாக நின்று அருள் செய்தார்.`,
   },
@@ -571,6 +581,7 @@ The mortal ones
 Powerless to stand the Fire-Mountain's radiant glow
 Rushed to the surging waters in trembling fear;
 The Lord then said to them: "Fear not! you shall be saved."`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-363-Second-Tantra-5.-Cataclysm.mp3',
     elaborationTamil: `பாடல் #362ல் உள்ளபடி பேரோளி மிகுந்த நெருப்பு மலையாக இருந்த சதாசிவமூர்த்தி கடலை உடுறுவி கீழையும் வானத்தை ஊடுறுவி மேலேயும் இருந்து வானவர்கள் அனைவருக்கும் தலைவன் என்னும் பெயர் பெற்று உலகம் முழுவதும் நிறைந்த ஊழித்தீயில் உலக மக்கள் நெருப்புப் பிழம்பைப் பார்த்துப் பயந்து வெள்ள நீரில் விழுந்து விடாதபடிக்கு யாரும் அஞ்சாதீர்கள் என்று கூறி அருள் செய்தான்.`,
   },
   {
@@ -590,6 +601,7 @@ The ocean of immortals and Devas sang;
 Little do they know
 That He who created the ocean and the firmament
 Rises beyond to the Ocean of his benignant grace.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-364-Second-Tantra-5.-Cataclysm.mp3',
     elaborationTamil: `உலகம் முழுவதும் நிறைந்து இருந்த குளிர்ந்த பிரளய கடல் நீர் வடிந்தது. வானகத்தவர்களும் தேவர்களும் கடல் போன்ற எங்கள் எண்ணங்களில் சிவத்தைப் பற்றிய நினைவே வெள்ளம் போல சூழ்ந்து இருக்க வேண்டும் என்று வேண்டினார்கள். கடல்நீரை விண்ணகம் வரை பரவச் செய்த இறைவனும் கடைக்கண் பார்வையால் அருள் புரிந்து பேரொளியாய் எழுந்தருளினன். இத்தகைய பிரளயத்தை ஏற்படுத்தி பின்பு அனைவருக்கும் அருள் செய்த இறைவன் திருவுள்ளத்தை யாரும் அறியவில்லை.`,
   },
   {
@@ -610,6 +622,7 @@ That thinking thus holds Him to heart?
 When the oceans ebbed and roared
 He placed the Primal Fire to quell the tides;
 How compassionate He was!`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-365-Second-Tantra-5.-Cataclysm.mp3',
     elaborationTamil: `பிரளயத்தின் போது எழுந்த கடலோசையைக் கேட்ட உலகத்தவர் திகைத்துப் போனார்கள். அங்கு பேரோளி மிகுந்த நெருப்பு மலையாக இருந்த சதாசிவமூர்த்தியை அனைத்தையும் படைத்து சுயம்புவாய் தோன்றியவனே என்று இறைவனை மனதில் வைத்து வழிபட்ட உலகத்தில் உள்ள உயிர்களுக்காக கடல்நீர் வெள்ளம் கடலோசை மேலும் அதிகரிக்காமல் இருக்க அந்த நீரில் அக்னியை உண்டாக்கினார் இறைவன். உட்கருத்து: பிரளயத்தை ஏற்படுத்தி அனைத்தையும் அழித்த இறைவன் தன்னை வழிபட்டு சரணடைந்த உயிர்களை காப்பாற்றினார்.`,
   },
   {
@@ -648,6 +661,7 @@ Then away flew his heavenly discus,
 Atop the Silver Mountains
 Of the Lord of Celestial Beings
 That created the seven worlds of delight.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-367-Second-Tantra-6.-Benefits-of-Chakra.mp3',
     elaborationEnglish: `Then the Lord of the Silver Mountain made the discus fly away And it orbited around the seven worlds.
 
 Vishnu worshipped Siva who granted him the powerful discus. But such was the potency of the weapon that it had to be. split by Siva — one half going Vishnu and the other half to Sakti, nonseparate on Siva's side.`,
@@ -859,6 +873,7 @@ And hold fast unto that;
 Then may you receive
 The sceptre to hold domain over earth
 And the Grace to follow in heaven above.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-378-Second-Tantra-8.-Searching-the-Feet-and-Head.mp3',
     elaborationTamil: `அண்டங்கள் அனைத்தலும் இரண்டறக்கலந்து எழுந்து நின்ற மாபெரும் தீப்பிழம்பான பரம்பொருள் உயிர்கள் தம்மை நாடி வந்து சேர பெருங்கருணை கொண்டு உண்மையான வழிமுறைகளை கொடுத்து உலகத்துப்பொருட்கள் எல்லாவற்றிலும் கலந்து உலா வருகிறது. இறைவனை அடையவேண்டும் என்ற உயர்ந்த குறிக்கோளுடன் அந்த உண்மையான வழிமுறைகளை பின்பற்றினால் எல்லாவற்றிலும் கலந்திருக்கும் அடிமுடி காண முடியாத பரம்பொருள் இறைவனை உணரலாம். உட்கருத்து: அடிமுடி காண முடியாத அளவு மிகப்பெரும் மகோன்னதம் மிக்கவனாக இறைவன் காட்டிய நெறி வழிகளைப் பின்பற்றி சென்றால் எல்லாவற்றிலும் கலந்திருக்கும் அடிமுடி காண முடியாத பரம்பொருள் இறைவனை உணரலாம்.`,
   },
   {
@@ -901,6 +916,7 @@ And on this bowed head decree my Fate,"
 And the Lord,
 Surpassing far the dazzle of the sun at end of Time
 Revealed Himself as Light Pure.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-380-Second-Tantra-8.-Searching-the-Feet-and-Head.mp3',
     elaborationTamil: `ஊழிக்காலம் முடிந்ததும் இறைவனை சரணடைந்து ஒளி உடலோடு வாழும் அடியவர்களில் ஒருவரை நான்கு முகங்கள் கொண்டு படைத்தல் தொழில் புரியும் பிரம்மனின் தொழிலை செய்ய இறைவன் தேர்ந்தெடுக்கின்றான். புதியதாக பிரம்மனின் தொழில் பெற்ற அடியவரும் இறைவனை நாடி வந்து என்ன வேலை செய்ய வேண்டும் என்று அதைத் தந்தருளுங்கள் என்று வேண்டிக்கொள்ள ஊழிக்காலத்தில் அனைத்தையும் சுட்டெரிக்கும் சூரியனையும் மிஞ்சி நிற்கும் மாபெரும் ஒளியாகிய இறைவனும் அவருக்கு படைக்கும் தொழிலைக் கொடுத்து அருளினான். குறிப்பு: பிரம்மன் திருமால் மற்றும் உலக தொழில்கள் செய்யும் தேவர்கள் அனைவருமே பல காலமாக இறைவனின் அடியவர்களாக இருந்து தவம் புரிந்தவர்கள்தான். தற்போது இருக்கும் பிரம்மன் திருமால் மற்றும் உலக தொழில்கள் செய்யும் தேவர்களின் பதவிக்காலம் முடிந்ததும் அடுத்த அடியவர்களுக்கு அந்த தொழிலை செய்யும் தகுதி இறைவனது திருவருளால் கிடைத்ததும் அவர்களுக்கு ஏற்ற தொழிலை இறைவன் கொடுத்து அருளுகின்றார்.`,
   },
   {
@@ -974,6 +990,7 @@ Then did Nada with Bindu;
 And further on Sadasiva with Sakti;
 Thus was Maan born
 The finite support of elements five.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-384-Second-Tantra-9.-Creation-of-Everything.mp3',
     elaborationEnglish: `Anava Sakti then acts on the prakriti maya (material) sphere. This sphere is known as ‘maan’ or ‘mahat’. From maan evolves the five elements—earth, water, fire, ether and space.`,
     elaborationTamil: `வார்த்தைகளில் விவரிக்க இயலாத மாபெரும் வல்லமை பொருந்திய ஜோதி வடிவான இறைவன் அண்டம் முதல் அனைத்தையும் உருவாக்க எண்ணி தனது ஒரு கூறு சக்தியை சேர்ந்தே இருக்கும் ஒலிக்கும் ஒளிக்கும் கொடுத்து பஞ்ச பூதங்கள் முதல் உலகம் வரை அனைத்தையும் உருவாக்குகின்றான்.`,
   },
@@ -1037,6 +1054,7 @@ And the Sakti that devoluted Maan
 Together in looks united in full;
 And from that union arose the universe
 As unto a blossom gently opening.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-387-Second-Tantra-9.-Creation-of-Everything.mp3',
     elaborationTamil: `குளிர்ந்த நீரையும் மண்ணையும் படைத்து அதற்கான தன்மைகளை குருவாக இருந்து சதாசிவமூர்த்தி கொடுக்கின்றார். அதன் மூலம் நல்வினைகளை அருளி சதாசிவமூர்த்தியுடன் ஒன்றாகச் சேர்ந்து உலகங்கள் அனைத்திலும் நீரையும் மண்ணையும் சக்தி வளர்க்கின்றாள். சதாசிவமூர்த்தியின் அசையும் சக்தியான எண்ணத்திலே உதித்த கருத்தானது சிவத்துடன் கலந்து மண்ணாகவும் சக்தியோடு கலந்து நீராகவும் இரண்டும் கலந்து உலகங்களாகவும் மாறுகின்றது. இதில் சிவமும் சக்தியும் மலரில் கலந்திருக்கும் வாசனை போல உலகமெங்கும் ஒன்றாகக் கலந்தே இருக்கின்றனர்.`,
   },
   {
@@ -1073,6 +1091,7 @@ With Hari who spat out the seven worlds
 With Brahma, the four headed maker
 The Primal One, the Lord of Celestial Beings
 Created, of yore, this universe vast.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-389-Second-Tantra-9.-Creation-of-Everything.mp3',
     elaborationTamil: `ஏழு உலகங்களையும் காப்பாற்றி பிறகு வெளிப்படுத்திய திருமால் அண்டங்கள் அனைத்திலும் இருக்கின்ற தேவர்களின் தலைவனாகவும் ஆதிமூல நாயகனாகவும் விளங்குகின்ற சிவபெருமான் கர்வத்தினால் தனது ஐந்து தலைகளில் ஒன்றை இறைவனால் கொய்யப்பட்டு நான்கு முகங்களை மட்டுமே கொண்டவனாகிய பிரம்மன் ஆகிய இந்த மூவருடனும் கலந்து இருந்து பழமை வாய்ந்த இந்த உலகங்கள் அனைத்தையும் படைக்கும் பரம்பொருள் சதாசிவமூர்த்தி ஒருவனே ஆவான்.`,
   },
   {
@@ -1110,6 +1129,7 @@ He is the First Cause,
 All-pervasive in love;
 He is Vishnu; He is Brahma,
 He is Veda, the Cosmos, the Abiding One.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-391-Second-Tantra-9.-Creation-of-Everything.mp3',
     elaborationEnglish: `He is Veda, The sound and matter.
 
 He is the First Cause: He is Vishnu; He is Brahma; He is Veda; He is the cosmos. All, all, are diverse manifestations of the Ever-abiding Compassionate One.`,
@@ -1130,6 +1150,7 @@ A rare Ruby--He is easy of reach,
 The One Lord--He is easy of love,
 He is the light within Brahma;
 And now I know why the Creator does it easy so.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-392-Second-Tantra-9.-Creation-of-Everything.mp3',
     elaborationEnglish: `The One Lord—He is easy of love, He is the light within Brahma; And now I know why the Creator does it so easy.`,
     elaborationTamil: `எல்லாப்பயன்களையும் எளிதில் அளிக்கக் கூடியதும் பேரின்பத்தை வழங்கக் கூடியதும் நம்பிக்கைக்கு உரியதுமான ஒரு மாணிக்ககல் இருக்கிறது. அந்தக் மாணிக்ககல்லே உயிர்களைப் படைக்கும் பிரம்மனுக்கு ஒளியாக இருந்து வழிகாட்டுகிறது. அந்த மாணிக்ககல்லாக இறைவன் இருக்கும் காரணத்தை யாம் அறிந்து தெளிந்து கொண்டோம்.`,
   },
@@ -1168,6 +1189,7 @@ And as He created me too,
 He animates within me
 A support to the body, an heir to karmic ills;
 Verily, the Lord is the Just one.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-394-Second-Tantra-9.-Creation-of-Everything.mp3',
     elaborationEnglish: `The immaculate One, who creates all, who creates the bodies and milieus for jivas too, according to their karmic desert. That is His act of divine justice. In the act of creation He stands adorning death’s bones and konrai’s blooms gleaming © as pure gold. He beckons to departed souls as the Final Refuge of Becoming. He enters within jiva and cognises all.`,
     elaborationTamil: `: உடலில் ஆன்மாவை வைத்து உயிராக மாற்றுபவன் என் ஆருயிர் இறைவனே உயிர்களிடத்தில் கொண்ட மாபெரும் கருணையினால் உடலில் இணைந்த ஆன்மாவுடன் உயிராகக் கலந்து இருக்கின்றான். முன்பிறவியின் வினைகளைத் தீர்க்க வேண்டிப் பிறவி எடுத்த அந்த உயிரின் காலம் முடியும் வரை அந்த உயிர் செய்யும் எந்த செயலிலும் தலையிடாமல் நடு நிலையாக நின்று கவனித்துக் கொண்டு அந்த உயிர் வாழ வேண்டிய காலம் வரை அந்த உயிரின் உடலோடு ஒன்றாகக் கலந்து நன்றாகக் காத்துக் கொண்டு நிற்கின்றான் இறைவன்.`,
   },
@@ -1288,6 +1310,7 @@ With Him came the brothers
 Maheswara, Rudra, Vishnu and Brahma--
 Each to perform on heaven and earth
 His allotted function--Creation, Preservation and the rest.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-400-Second-Tantra-9.-Creation-of-Everything.mp3',
     elaborationEnglish: `What are the five elements beginning with space? Who are the five manifestations beginning with Sadasiva?
 
 They originated from the eternal Maya,
@@ -1331,6 +1354,7 @@ Mohini of tempting beauty
 Poorani--the Perfect Being,
 Cause-Effect conjoint in one
 --She, Consciousness beyond Consciousness.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-402-Second-Tantra-9.-Creation-of-Everything.mp3',
     elaborationTamil: `சூரிய சந்திரனை மார்புக் கச்சையாக சூடியிருக்கும் சிவனின் சக்தியான மனோன்மணி மங்கள சொரூபமானவள். அவளே அனைத்திற்கும் காரணமாகிய அசையா சக்தியான இறைவனுடன் அசையும் சக்தியாகவும் உலக காரியங்களை செய்யும் சிவன், மகேசுவரன், உருத்திரன், திருமால், பிரம்மன் ஆகியோருடன் காரிய சக்திகளாகவும் கலந்து நிற்கின்றாள். அவளே ஓங்கார வடிவாகவும் அழிக்கும் தொழிலில் வாரணியாகவும் படைக்கும் தொழிலில் ஆரணியாகவும் காக்கும் தொழிலில் வானவர் கொண்டாடும் மோகினியாகவும், மறைக்கும் தொழிலில் பூரணியாகவும் பேரறிவாக இருக்கின்றாள். உட்கருத்து: அசையா சக்தியாகிய இறைவனின் அசையும் சக்தியாகிய இறைவி உலகம் உருவாக வேண்டும் என்கிற காரணத்தில் பேரறிவு ஞானமாக இருந்து அதை செயலாக்கும் பொருட்டு காரிய சக்திகளாக ஐந்து தேவர்களுடன் ஐந்து தேவிகளாக இருந்து அனைத்தையும் செயல்படுத்துகின்றாள். காரணம் – இறைவன் (அசையாசக்தி) – இறைவி (அசையும்சக்தி) – அனைத்தும் உருவாக்குதல் காரியம் – பிரம்மன் – ஆரணி (சரஸ்வதி) – படைத்தல் காரியம் – திருமால் – மோகினி (இலட்சுமி) – காத்தல் காரியம் – உருத்திரன் – வாரணி – அழித்தல் காரியம் – மகேஸ்வரன் – பூரணி (உமா மகேஸ்வரி) – மறைத்தல் காரியம் – சிவன் – மனோன்மணி (பார்வதி) – அருளல்`,
   },
   {
@@ -1365,6 +1389,7 @@ The One alone created the worlds seven;
 The One alone spanned the worlds seven;
 The One alone survived the worlds seven;
 The One alone pervaded body and life.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-404-Second-Tantra-9.-Creation-of-Everything.mp3',
     elaborationEnglish: `The One alone created the worlds’‘seven; The One alone spanned the worlds seven; The One alone survived the worlds seven; The One alone pervaded body and life.`,
     elaborationTamil: `ஏழு உலகங்களையும் படைக்கின்ற பிரம்மனாகவும் ஏழு உலகங்களையும் காக்கின்ற திருமாலாகவும் ஏழு உலகங்களையும் அழிக்கின்ற சிவபெருமானாகவும் இருப்பவன் இறைவன் ஒருவனே. சதாசிவமூர்த்தியாக இருந்து ஒவ்வொரு உயிரின் உடலோடு உயிராக கலந்து இருப்பவனும் இறைவன் ஒருவனே.`,
   },
@@ -1384,6 +1409,7 @@ Of Crimson fire hue is our Lord!
 He sundered the chain of births,
 That the dark cloud hued Mal in pasa bound,
 And to flower-bedecked Maya-Crowd, consigned.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-405-Second-Tantra-9.-Creation-of-Everything.mp3',
     elaborationTamil: `சிவந்த தாமரை மலரின் நிறத்தைப் போன்ற பிரம்மனும் கொழுந்து விட்டு எரியும் தீப் பிழம்பின் நிறத்தைக் கொண்ட எமது இறைவன் சிவபெருமானும் நீர் நிறைந்த மேகங்களைப் போன்ற கருமை நிறம் கொண்ட திருமாலும் சேர்ந்து மாயையால் பாசப்பிணைப்புகளை உண்டாக்கி உயிர்களை மயக்கி பூக்களை தங்களது கூந்தலில் சூடியிருக்கின்ற பெண்கள் கூட்டத்துடன் ஆண்களை கூடுமாறு செய்து அவர்களின் கூடுதலில் பிறவியை அமைத்து நிற்கின்றான் இறைவன்.`,
   },
   {
@@ -1421,6 +1447,7 @@ The One Family creates the worlds seven;
 The One Family preserves the worlds seven;
 The One Family destroys the worlds seven;
 The One Family pervades all life and body.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-407-Second-Tantra-9.-Creation-of-Everything.mp3',
     elaborationTamil: `தேவர்கள் உடல் கொண்ட மூர்த்தியாகவும் தேவியர்கள் உயிர்கொண்ட சக்தியாகவும் கூடி நின்று ஏழு உலகங்களையும் படைத்து காத்து அழிக்கின்றனர்.`,
   },
   {
@@ -1439,6 +1466,7 @@ Together stirred and Commingled the Family Impure (of matter)
 The Two then besought of the Lord:
 "What shall we make? Command us, O Lord"
 And the Lord Himself then spells them out.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-408-Second-Tantra-9.-Creation-of-Everything.mp3',
     elaborationTamil: `அனைத்திற்கும் தலைவனாகிய சிவம் ஒருவனும் அவனிடமிருந்து நன்மை புரியத் தோன்றிய சிவன் சக்தியாகிய இருவரும் சேர்ந்து அசுத்த மாயையில் பிறக்கும் மனித பிறப்பினரோடு சுத்தமாயையை கூட்டிச் சேர்த்து தேவர்களைப் படைத்தனர். இந்த தேவர்கள் இறைவனிடம் வந்து எங்களுக்கு இடும் பணி என்ன என்று கேட்டுப் பெற்று அப்படியே செய்வதாக ஏற்றுக்கொண்டு அதை செயல் படுத்துகின்றனர். இந்த தேவர்கள் அனைவருக்கும் தத்தமது பணிகளை கருணையால் அருளுபவன் ஆதியிலிருந்தே இருக்கின்ற இறைவன் ஆவான். உட்கருத்து: தேவர்கள் அனைவருமே முதலில் மனிதர்களாகப் பிறந்து பிறகு தவம் செய்து இறைவனிடம் தமக்கு கொடுக்கும் வேலைகளைக் கேட்டு அவனது அருளால் பெற்று அதை நடத்துபவர்களாகும். இதை 302, 380, 398 பாடல்களின் மூலம் தெரிந்து கொள்ளலாம்.`,
   },
   {
@@ -1457,6 +1485,7 @@ Through creations four and eighty lakhs of species
 He filled as life within;
 Then men who in doubt ask: How is it?
 Are verily to enveloping darkness condemned.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-409-Second-Tantra-9.-Creation-of-Everything.mp3',
     elaborationTamil: `இறைவன் உலகத்தில் பரிசாகக் கொடுத்தது என்பத்து நான்கு இலட்சம் வகை உயிரினங்களாகும். இந்த அனைத்து உயிர்களிலும் உண்மையான பரிசாக அவற்றுடன் கலந்து உயிராக நிற்பது இறைவனே ஆகும். ஆனால் இறைவனை தமக்குள் அறியாமல் ஆணவத்தால் அவன் எங்கே இருக்கின்றான் என்று கேட்கும் மனிதர்களை மாயை என்னும் ஆணவ இருளாய் உயிர்களுக்கு பரிசாய் இருக்கும் இறைவனே மூடியிருகின்றான்.`,
   },
   {
@@ -1475,6 +1504,7 @@ The space, air, fire, water and earth
 The sound, word, mind andd the like
 All these were of Maya born,
 In union with Bindu.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-410-Second-Tantra-9.-Creation-of-Everything.mp3',
     elaborationTamil: `சூரியன், சந்திரன் மற்றும் அக்கினி, இந்திரன், இயமன், நிருதி, வருணன், வாயு, குபேரன், ஈசானன் ஆகிய எட்டுத்திசைகளுக்கான காவலர்களும் போதனை செய்யும் ஆகாயம், ஒலியை பரப்பும் காற்று, சுட்டெரிக்கும் நெருப்பு, நீர் இருக்கும் பூமி ஆகிய பஞ்ச பூதங்களும், கேட்டல், ருசித்தல், முகர்தல், பார்த்தல், உணர்தல் ஆகிய ஐந்து ஞானேந்திரியங்களும் வாக்கு, கைகள், கால்கள், உடல்கழிவுகளை வெளியே தள்ளும் உறுப்புகள் பிறப்புறுப்புக்கள் ஆகிய ஐந்து கர்மேந்திரியங்களும். செயல், புத்தி, சித்தம், அஹங்காரம் என நான்கு அந்தக்கரணங்கள் இவை அனைத்தும் அசையா சக்தி அசையும் சக்தியினால் தோன்றிய சுத்தமாயை அசுத்த மாயையில் இருந்து தோன்றியவையாகும்.`,
   },
   {
@@ -1492,6 +1522,7 @@ As Light and Darkness He pervaded,
 As Fame and Blemish He pervaded,
 As Body and Life He pervaded,
 As my constant thought He pervaded.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-411-Second-Tantra-10.-Remembering-the-Dead.mp3',
     elaborationTamil: `உயிரின் உடலில் புகுந்து நிலையாய் நின்ற இறைவன் அவ்வுயிரின் அருள் அறிவு என்னும் வெளிச்சமாகவும் அறியாமை என்னும் இருளாகவும் அவ்வுயிருக்கு கிடைக்கும் புகழ்ச்சியாகவும் இகழ்ச்சியாகவும் அவ்வுயிரின் உடலாகவும் உயிராகவும் ஒன்றி அவ்வுயிரின் அறிவாகவும் நிரந்தரமாக கலந்து அவை வாழும் காலம் வரை அருளுகின்றான்.`,
   },
   {
@@ -1582,6 +1613,7 @@ As love, wisdom and meekness He stands,
 As pleasure and pleasureable union He stands,
 As Time's Beginning and End He stands,
 As Five elements filled He stands in love divine.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-416-Second-Tantra-10.-Remembering-the-Dead.mp3',
     elaborationTamil: `அனைத்து உயிர்களுக்குள்ளும் தோன்றும் உண்மையான அன்பாகவும் அறிவாகவும் அவை பெறும் ஒழுக்கமான அடக்கமாகவும் இருப்பவன் இறைவனே. நல் வினையால் உயிர்கள் பெறும் இன்பமாகவும் இன்பத்தில் மற்ற உயிர்களோடு கலக்கும் புணர்ச்சியாகவும் இருப்பவன் இறைவனே. உலகம் உருவான ஆதிகாலமாகவும் அந்த உலகம் இறுதியில் அழியும் ஊழிக் காலமாகவும் இருப்பவன் இறைவனே. அவனே உயிர்களிடத்தில் கொண்ட மாபெரும் அன்பினால் ஐந்து பூதங்களிலும் அமர்ந்து இருந்து உயிர்களை எப்போதும் காத்து அருளுகின்றான்.`,
   },
   {
@@ -1620,6 +1652,7 @@ He is Light Radiant; He is Consciousness inside;
 Animating life in the body
 He supports me;
 --He is Nandi.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-418-Second-Tantra-10.-Remembering-the-Dead.mp3',
     elaborationEnglish: `He Supports All Worlds A miracle indeed it is To.sustain the lives in the Universe; Not less so, When after total destruction He draws them unto Himself; He supports too That Seventh World The Path of yoga leads to.`,
     elaborationTamil: `அனைத்து உயிர்களுக்கும் உள்ளிருக்கும் உயிராகவும் வெளியிலிருக்கும் உடலாகவும் மூச்சுக்காற்றாகவும் நின்று கர்மாக்கள் வினைகள் சூழ்ந்த அசுத்த மாயையில் இருக்கும் உலக உயிர்களையும் கர்மாக்கள் வினைகள் இல்லாத சுத்த மாயையில் இருக்கும் தேவர்களையும் தாண்டிய பரவெளியில் உண்மைப் பொருளை உணர வைக்கும் பேரொளியாக குருவாய் நின்று அருளுகின்றான் இறைவன். அனைத்து உயிர்களுக்குள் உயிராகவும் உணர்வாகவும் அவற்றின் உடலுக்குள் பரவி இருந்து அந்த உயிர்களின் மூச்சுக்காற்று உடலை விட்டு செல்லாதபடி உடலையும் உயிரையும் உள்ளுக்குள்ளிருந்து தாங்கிக் கொண்டு நிற்பவனும் இறைவனே.`,
   },
@@ -1662,6 +1695,7 @@ Seek Him in yearning love
 Bend low on ground
 Hanker after Him life after life,
 The great One Shall Grant you the body immortal.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-420-Second-Tantra-10.-Remembering-the-Dead.mp3',
     elaborationEnglish: `The creation that ensued thus has to be continuously sustained. Although Vishnu is entrusted with this task, He is onJy an aspect of Siva/Sakti; and so ultimately it is Siva who performs the task of preservation. And so He pervades all: as body and life, as light and darkness, as fame and ignominy, as oceans and continents, as space and the celesuajs, as sea, hill and dale—through the entirety of creation in unbroken continuity. He pervades our thoughts too. There He stands as love, wisdom and meekness as pleasure and pleasurable union, as the beginning and end of time. He sustains the yogic path that leads to the state of existence.
 
 To sustain the lives in countless universes is indeed a miracle that staggers the imaginatidn. But even after the destruction of the cosmos at the end of an aeon, He draws the jivas to Himself, and sustains them in quiescent slumber’ until the next of creation commences.
@@ -1786,6 +1820,7 @@ In Daily Death, are bodies gross and subtle transcended;
 In Fated Death, is the Mayaic body annihilated;
 In Pure Death, Mind and cognates merge in Infinite
 In Redemption Death, Siva's Grace descends true.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-426-Second-Tantra-11.-Destruction.mp3',
     elaborationTamil: `நித்த சங்காரத்தில் உயிர் ஸ்தூல சூட்சும சரீரங்களுடன் தொடர்பு கொண்டிருக்கும். வைத்த சங்காரத்தில் மாயையுடன் கனவு நிலையில் உயிர் ஸ்தூல உடலை விட்டு விலகி சூட்சும உடலுடன் தொடர்பு கொண்டிருக்கும். சுத்த சங்காரத்தில் மனம் எந்த எண்ணமும் இல்லாமல் செயல் ஒன்றும் இல்லாது இருக்கும். உய்த்த சங்காரத்தில் சிவன் அருளில் லயித்து இருக்கும். இதுவே உண்மையான சங்காரம் ஆகும்.`,
   },
   {
@@ -1804,6 +1839,7 @@ Daily Death is unto Fated Death
 And Fated Death unto Pure Death
 And Pure Death unto Redemption Death
 In that alone is the Truth--Jiva becoming Siva.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-427-Second-Tantra-11.-Destruction.mp3',
     elaborationEnglish: `In daily mergence the senses are silent,`,
     elaborationTamil: `உலகத்தில் பிறவி எடுக்க தாய் வயிற்றில் கருவாகப் பிறந்த அனைத்து உயிர்களுமே தங்களின் வினைப் பயனாகிய துன்பங்களையும் சேர்த்துக் கொண்டுதான் பிறக்கின்றன. இறைவனது கருணையினால் அந்த துன்பங்கள் சிறிது நேரமாவது நீங்கித் தம்மை மறந்து உயிர்கள் இருக்கும் தூக்க நிலை தினமும் நிகழும் நித்த சங்காரமாகும். உடலை விட்டு உயிர் பிரிந்து ஆன்மா மட்டுமே இருக்கின்ற நிலை சுத்த சங்காரமாகும் ஸ்தூல உடலும் சூட்சும உடலும் பிரிந்து இருக்கும் கனவு நிலையில் ஆன்மா மாயையிலேயே மூழ்கி கேவலப்பட்டு இருக்கின்ற நிலை வைத்த சங்காரமாகும். வினைகளையெல்லாம் தீர்த்துவிட்ட உயிர் ஸ்தூல உடலை விட்டுப் பிரிந்து சூட்சும உடலும் அழிந்து தனித்தன்மையோடு இருந்த ஆன்மா உண்மைப் பொருளான இறைவனுடனே இரண்டறக் கலந்துவிடும் போது நான் எனும் தனித்தன்மை முற்றிலும் அழிந்து சிவமாக மாறும் நிலை உய்த்த சங்காரமாகும்.`,
   },
@@ -1862,6 +1898,7 @@ And the city where He does it
 He fashioned the body, He pervades everywhere.
 He placed the Mind and cognate tattva group besides,
 He gave us Wisdom ample to discriminate.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-429-Second-Tantra-11.-Destruction.mp3',
     elaborationEnglish: `The jiva sprang as a plant out of the void, and into the void, it shall finally retum. Even the gods are not exempt from this law. Death follows birth, as the night follows day: The only escape from death is not to be born again. By uprooting karma alone, can the birth-death be ended. God dissolves the karma; pray to Him.
 
 Rudra is the god to whom the work of destruction is entrusted, but the real power behind Rudra is that of Siva.`,
@@ -1882,6 +1919,7 @@ He is the One within; He is the Light within;
 He moves not a wee bit from within
 He and your heart are thus together,
 Though, the heart His Form knows not.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-431-Second-Tantra-12.-Illusion-of-the-Soul.mp3',
     elaborationEnglish: `God is within us all. He is the Light within us. He does not move a bit away from us. Yet we do not know Him. Why this concealment by the Lord?`,
     elaborationTamil: `ஒவ்வொரு உயிரின் உள்ளத்திற்குள்ளும் கண்டு உணரக் கூடிய ஜோதி உருவமாக இறைவன் வீற்றிருக்கின்றான். அவன் உயிர்களின் உள்ளத்தை விட்டு ஒரு அடி கூட விலகி நிற்பதில்லை. எப்போதும் உயிர்களின் உள்ளத்துடனே சேர்ந்து இறைவன் இருந்தாலும் மாயையினால் மறைக்கப்பட்ட உயிர்களின் உள்ளம் அவனது உருவத்தை அறியாது.`,
   },
@@ -1902,6 +1940,7 @@ A skeletal frame He fashioned,
 With flesh and skin He clothed it;
 Lighting then the spark of life
 To annihilation He hastened me.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-432-Second-Tantra-12.-Illusion-of-the-Soul.mp3',
     elaborationEnglish: `miseries of Pasam. He builds for us a body with meticulous care; yet He hastens it to death. Why is this so?`,
     elaborationTamil: `இறைவனோடு இருந்த ஆன்மாக்கள் ஆசைப்பட்டுவிடும் போது அந்த ஆசைகளைத் தீர்த்துக்கொள்ள வேண்டி உலகத்தில் பிறவி எடுக்கும்படி உயிர்களாகப் படைக்கின்றான் இறைவன். அந்த உயிர்கள் ஆசைகளைத் தீர்த்துக் கொள்ளும் போது சில வினைகளும் சேர்த்து விடுகிறது. இந்த வினைகளை அனுபவிக்க வேண்டி உலகப்பற்று குடும்பம் பாசம் என்னும் துயரத்துக்குள் உயிர்களை மாயையால் பூட்டி அடைத்துவிடுகின்றான். எலும்பை முழுவதும் தோல் தசைகளால் மூடி அந்த எலும்போடு ஒன்றாகச் சேர்ந்து செயல்படும் இந்த உலக உடம்பானது உயிர்களின் பிறவிக்கு காரணமாகிய வினைகள் முடியும் வரை ஒன்றாகச் சேர்ந்து இருக்கும். இந்தப் பிறவியின் வினைகள் முடிந்ததும் உயிரை முடிப்பதாக இருக்கின்றது. உட்கருத்து: ஆன்மாக்கள் ஆசையினால் இன்பம் பெறுவதற்காகப் பிறவி எடுப்பதால் அந்த இன்பத்தை அனுபவித்து தீர்க்கும்வரை பேரின்பத்தை மறைத்து அருளும் இறைவன் அந்த ஆன்மாக்கள் எடுத்த பிறவியில் இன்பத்தை அனுபவிப்பதினால் கிடைக்கும் வினைகளையும் அதன் விளைவுகளால் ஏற்படும் துன்பத்தையும் அந்தத் துன்பத்திற்குக் காரணமாக இருக்கும் உலகப் பற்றுக்களையும் சேர்த்து பிறவிக்குள் அடைத்துவிடுகின்றான். இதில் எலும்பும் தோலும் போர்த்திய உடலே சிறையாகவும் உலகப் பற்று எனும் மாயை பூட்டாகவும் வினைகள் சாவியாகவும் இருக்கின்றது. எப்போது உயிர்கள் தமது வினைகளை அனுபவித்துக் கழித்து முடிக்கின்றதோ அப்போது இந்தப் பூட்டு திறந்து உலகத்தில் அதுவரை ஆன்மா அனைத்தையும் அனுபவிக்க உதவிய உடலையும் உயிரையும் அழித்து ஆன்மா விடுதலை பெறுகின்றது.`,
   },
@@ -1959,6 +1998,7 @@ Denizens of earth below and heaven above;
 From the black chamber of the Soul
 He dispels darkness;
 And within radiates the pure rays of His dazzling light.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-435-Second-Tantra-12.-Illusion-of-the-Soul-1.mp3',
     elaborationTamil: `உண்மை ஞானத்தை அடைந்த உலக உயிர்களுக்கும் விண்ணுலகத் தேவர்களுக்கும் பேரின்பத்தைப் பெறும் வழியை அருளிச் செய்கின்றான் ஆதியிலிருந்தே இருக்கின்ற தலைவனாகிய இறைவன். உண்மை ஞானத்தை அடையாமல் உலக ஆசையில் இருக்கின்ற உயிர்களுக்கு தினமும் மாறி மாறி வரும் சூரியனின் ஒளியையும் அந்தச் சூரியனின் ஒளியை தன்னுள் வாங்கிக் கொடுக்கும் நிலாவின் ஒளியையும் வெப்பமான தீயினால் கிடைக்கும் ஒளியையும், இந்த மூன்றுவித ஒளியும் இல்லாதபோது இருக்கும் இருளை உணர்வினால் அறிந்திருக்கின்ற உயிர்களுக்கு உணர்வினால் அறியமுடியாத மாயை எனும் இருளைக் கொண்ட உள்ளம் எனும் இருட்டறையில் வீற்றிருக்கின்றான் இறைவன். உட்கருத்து: உண்மை ஞானம் பெற்ற உலகத்து உயிர்களுக்கும் விண்ணுலக உயிர்களுக்கும் பேரின்பத்தைக் கொடுக்கும் இறைவன் உண்மை ஞானம் பெறாத உயிர்களுக்கு மாயை எனும் இருட்டையே கொடுக்கின்றான்.`,
   },
   {
@@ -2044,6 +2084,7 @@ Not doing this,
 You are like one
 Who is seated on the banks of Ganga,
 Yet remains unwashed and impure.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-439-Second-Tantra-12.-Illusion-of-the-Soul.mp3',
     elaborationTamil: `மாயையால் உலகப் பற்றுக்களில் சிக்கிக் கொண்ட உயிர்கள் அந்த உலகப் பற்றுக்களின் மேல் வைத்திருக்கும் பாசத்திலேயே மூழ்கிக் கொண்டு தமது உள்ளத்துக்குள் உத்தமனாக வீற்றிருக்கும் இறைவனை உணர்ந்து அவன் அருளிய அமிர்தத்தை அருந்தி பேரின்பத்தில் திளைக்காமல் இருப்பது எப்படி இருக்கின்றதென்றால் கங்கையின் புனித நீரில் மூழ்கித் தமது பாவ அழுக்குகளைப் போக்கிக் கொள்ள முயற்சி செய்யாமல் கரையிலேயே நின்று பார்த்துக் கொண்டிருப்பதைப் போல இருக்கின்றது. உட்கருத்து: கங்கையில் மூழ்கி பாவத்தைத் தீர்த்துக்கொள்ள முடிந்த போதும் அதைச் செய்யாமல் கரையிலேயே நின்று பார்ப்பது போல தமக்குள்ளேயே இறைவனை உணர்ந்து பேரின்பத்தைப் பெற முடிந்த போதும் அதைச் செய்யாமல் உலகச் சிற்றின்பங்களிலேயே திளைத்து இருப்பதைத்தான் உயிர்கள் விரும்புகின்றன.`,
   },
   {
@@ -2062,6 +2103,7 @@ One God, pervades species all;
 The eye sees things several
 Yet itself it sees not;
 Thus it is, we see not the God in us.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-440-Second-Tantra-12.-Illusion-of-the-Soul.mp3',
     elaborationEnglish: `Mahesvara is the god empowered with this function, but his is only a delegated power.`,
     elaborationTamil: `உயிர்களுக்கு நல்ல முறையில் பயன்படும் பல்வேறு விதமான பாத்திரங்களை குயவன் செய்தாலும் அனைத்தையும் ஒரே விதமான களிமண்ணில் இருந்து தான் செய்கின்றான். அதுபோலவே உலகத்தில் பல்வேறு உருவங்களில் பல பிறவிகள் எடுத்தாலும் அனைத்து பிறவிகளிலும் ஆத்மாவாக இறைவன் ஒருவனே இருக்கின்றான். உயிர்களின் கண்கள் இரண்டாக இருந்தாலும் அவை ஒரேவிதமான காட்சிகளைக் கண்டாலும் தமது உருவத்தை அவற்றால் காண முடியாது. அதுபோலத்தான் இறைவனும் ஒவ்வொரு உயிரின் உள்ளத்துக்குள் இருந்து உயிர்களுக்கு அனைத்தையும் உணர வைத்தாலும் தம்மையே உணர முடியாதவனாக இருக்கின்றான். உட்கருத்து: அனைத்தையும் தமது கண்களால் பார்க்கும் உயிர்கள் தமது கண்களின் பிம்பத்தை கண்ணாடியில் காண முடியுமே தவிர தமது கண்களால் தமது கண்களையே காண முடியாது. அதுபோலவே மாயையால் மறைந்திருக்கும் இறைவன் உள்ளத்துக்குள்ளேயே இருந்து அனைத்தையும் உணர்த்தினாலும் அவனை மட்டும் உணர முடியாமல் இருக்கும்படி உயிர்களை மாயையால் மறைத்து வைத்திருக்கின்றான்.`,
   },
@@ -2082,6 +2124,7 @@ He is fire, earth and sky;
 Know this:
 He is the One that binds and unbinds
 The body that holds life precious.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-441-Second-Tantra-13.-Kindness.mp3',
     elaborationEnglish: `Having experienced pleasure and pain in life, the jivas who seek the Lord are bestowed grace. This bestowal of Grace that leads to the jiva’s redemption or liberation from the of birth and death is the Supreme Act of God. That is the act that gives the ‘coup de grace to all the previous four acts of His.
 
 The attainment of Grace can come through total surrender in loving prayer, through the yoga way or through the
@@ -2127,6 +2170,7 @@ The potter fashions as he conceives
 Even as the Potter our Lord Nandi is;
 He sways the world, this way and that
 The way His Fancy takes.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-443-Second-Tantra-13.-Kindness.mp3',
     elaborationEnglish: `The potter mounts the clay on the wheel The potter fashions as he conceives Even as the Potter our Lord: Nandi is; He moulds the world, this way and that The way His Fancy takes.`,
     elaborationTamil: `குயவன் களிமண்ணைப் பிடித்து தனது மனதுக்கு எதுவெல்லாம் நன்மை தரும் என்று தோன்றுகின்றதோ அந்த மாதிரியெல்லாம் பாத்திரங்கள் வரும்படி வளைத்து உருவாக்குவான். அந்தக் குயவனைப் போலவே குருநாதனாக இருக்கும் எம் இறைவனும் ஆன்மாக்களின் வேண்டுதலுக்கு இணங்கி எதுவாக இருந்தால் அவர்கள் வேண்டிக்கொண்டது நிறைவேறும் என்பதை அறிந்து அதுவாகவே அவர்களை, அசைவில்லாத இந்த அண்டசராசரத்தில் அசைவு பெற்றுச் சுழலும் உலகங்களில் பல்வேறு வித உயிர்களாகப் படைத்து அருளுகின்றான். உட்கருத்து: உயிர்கள் உலகத்தில் பிறப்பது அவற்றின் ஆசையினால்தான். ஆன்மாவாக இருக்கும் உயிர் ஆசைப்பட்டுவிடும் போது இறைவனை வேண்டி உயிர் எடுத்து உலகத்தில் பிறக்கிறது. அப்படிப் பிறக்கும் உயிர் எந்த உருவத்தில் இருந்தால் விரைவில் ஆசைகளைத் தீர்த்துக்கொண்டு தனது வினைகளையும் கழித்துக் கொள்ளும் என்பதை அறிந்த இறைவன் அந்த விதத்திலேயே அவர்களைப் படைத்து அருளுகின்றான்.`,
   },
@@ -2219,6 +2263,7 @@ He filled in oneness, expanding limitless
 Yet is He not easy of reach;
 Siva Himself into myriad Jivas pervaded
 In this worlds as well, He our Lord.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-448-Second-Tantra-13.-Kindness.mp3',
     elaborationEnglish: `He is One with the infinite space of the seven worlds And yet transcends it.
 
 He cannot be indicated as this or that
@@ -2247,6 +2292,7 @@ The precious object, beloved of immortals above,
 The Holy Form, adored of saintly beings below,
 He is the pupil of your eyes;
 He the Object of all Knowledge.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-449-Second-Tantra-13.-Kindness.mp3',
     elaborationTamil: `உயிர்களின் உள்ளத்திற்குள் ஒளியாக இருக்கும் இறைவனே உயிரோடு உயிராகவும் கலந்து ஒரே உடலாக இருக்கின்றான். அவனே விண்ணுலக அமரர்களெல்லாம் விரும்பித் தொழும் அனைத்திற்கும் மேலான பரம்பொருள். அவனே மண்ணுலக அடியவர்களெல்லாம் புகழ்ந்து போற்றும் பல்வேறு உருவங்களாகத் திருமேனி தரித்து இருப்பவன். அவனே கண்களுக்குள் இருந்து காட்சியைக் காட்டும் கருமணியாகவும் இருந்து கண்களால் காண முடியாத பேருண்மைகளைக் குருநாதனாய் இருந்து போதிப்பவனும் ஆவான்.`,
   },
   {
@@ -2267,6 +2313,7 @@ Inseparable as water in milk
 He pervades all in union close;
 Impartial indeed His Goodness;
 Unwearied His bliss--I knew.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-450-Second-Tantra-13.-Kindness.mp3',
     elaborationTamil: `யாராலும் அறிந்துவிட முடியாத அண்டசராசரங்கள் அடங்கிய திருமேனியைக் கொண்ட இறைவன் நீரில் பால் சேர்க்கும் போது எப்படி இரண்டும் ஒன்றாகிக் கலந்து விடுகின்றதோ அதுபோலவே உலகத்தில் பிறக்கும் உயிர்களுடன் உயிராகக் கலந்து உடலாகி ஒன்றாக இருப்பதை இடைவிடாமல் கண்டு பேரின்பம் அடையும் பாக்கியத்தை அவனது திருவருளால் யான் பெற்றிருக்கின்றேன்.`,
   },
   {
@@ -2333,6 +2380,7 @@ The sorrow-house of vexing pasa;
 When that is to be,
 At that hour of union, He ordained;
 He, the Heavenly Lord.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-453-Second-Tantra-14.-Act-of-Conception.mp3',
     elaborationTamil: `ஆணும் பெண்ணும் சிற்றின்பத்தில் மகிழ்ந்து கூடுகின்ற போதே அவர்களின் முன் ஜென்ம வினைகளாலும் புதிதாக பிறக்கும் உயிரின் முன் ஜென்ம வினைகளாலும் இவர்களுக்கு இந்த உயிர் பிறக்க வேண்டும் என்பதை முடிவு செய்து அந்த உயிரினால் பெற்றவர்களும் பெற்றவர்களால் அந்த உயிரும் அடையும் துன்பத்திற்கு காரணமாக இருக்கும் பாசம் எனும் துயரமாகிய பந்தத்தால் கட்டி வைத்து அந்த உயிர் உலகத்தில் எத்தனைக் காலம் வாழ வேண்டும் என்பதையும் அந்த உயிரின் பண்புகளையும் அந்த உயிரின் வாழ்க்கை முறையையும் முன்பே முடிவு செய்து ஆணும் பெண்ணும் அன்பாக சேர்ந்த போதே அதற்கு ஏற்றவாறு கருவை அமைத்து முடிக்கின்றான் இறைவன்.`,
   },
 {
@@ -2461,6 +2509,7 @@ Who in myriad bodies has dwelt of yore,
 Now entered,
 Lo! it is dominated by Mind;
 Maya subtle pervades it.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-459-Second-Tantra-14.-Act-of-Conception.mp3',
     elaborationTamil: `எத்தனையோ பிறவிகளை எடுத்து முடிந்த பின் எடுத்த இந்த பிறவியில் வினைப் பயனால் ஆண் பெண் இருவரும் சந்தித்து இன்பத்தில் கலந்து அவர்களது உருவங்களிலிருந்தும் அவர்களின் முன்னோர்களது உருவங்களிலிருந்தும் பலவிதமான அம்சங்களை எடுத்துக் கொண்டு அந்த அம்சங்களின் சாயலிலேயே உருவம் கொண்டு கரு உருவாகின்றது. ஆணும் பெண்ணும் இன்பத்தில் கலந்து பின் பெண்ணிடம் உருவான அந்தக்கரு புதிதாக உருவானதாக அனைவராலும் அறிந்து கொள்ளப்பட்டாலும் அந்தக் கரு உருவாகுவதற்கு முன்பே இந்த ஆணுக்கும் இந்த பெண்ணுக்கும் தான் இந்தக் கரு உருவாக வேண்டும் என்பது வினைப் பயனால் முடிவு செய்யப்பட்ட ஒன்று என்பதை உணராத ஆணும் பெண்ணும் மாயையில் ஒருவரோடு ஒருவர் கலந்து கரு உருவாகக் காரணமாகி அந்தக் கருவுக்கும் தங்களது மாயையோடு சேர்த்து தங்களது பலவித குணங்களையும் கொடுத்து விடுகின்றார்கள்.`,
   },
   {
@@ -2480,6 +2529,7 @@ From that State Maya and Her tribe aroused it;
 And conferred Consciousness;
 And Maya's evolutes eight--Desires and the rest,
 Thus say scriptures, holy and true.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-460-Second-Tantra-14.-Act-of-Conception.mp3',
     elaborationTamil: `கரு உருவாகும் போது முதலில் கரு தனித்து கேவல நிலையில் இருக்கும். அதன் பிறகு மாயை அதன் தத்துவங்களை கருவோடு சேர்த்து விடும்போது அதுவரை துரிய நிலையில் உறக்கத்தில் இருந்த கரு அந்த நிலையிலிருந்து மாறி விழித்துக் கொண்டு நினைவு தோன்ற ஆரம்பிக்கும். நினைவு தோன்றிய பின் அந்தக் கருவின் முற்பிறவிகளிலிருந்து தொடர்ந்து வரும் வினைப் பயன்களால் வரும் கன்மத்துடன் (மும்மலங்களில் ஒன்று) மாயேயம் என்கிற அசுத்த மாயையின் ஏழுவித காரியங்களும் (காலம், நியதி, கலை, வித்தை, இராகம், புருடன், மாயை) சேர்ந்து மொத்தம் எட்டுவித மாயைகளை அந்தக் கரு பெற்றுவிடும். இதுவே கருவுடன் மாயைகள் சேரும் முறைமை என்று தூய்மையான வேதங்கள் சொல்லும்.`,
   },
   {
@@ -2499,6 +2549,7 @@ With blood and flesh He cemented it;
 Thus did Lord fashion this body-mansion,
 For dear life to dwell
 Him I seek forth, endearment increasing.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-461-Second-Tantra-14.-Act-of-Conception.mp3',
     elaborationTamil: `உயிர்கள் தாம் ஆசைப்பட்ட இன்பத்தை அடைய வேண்டும் என்று எலும்புகளை இணைத்து நரம்புகளால் வரிசையாகக் கட்டி வைத்து சிவந்த இரத்தத்தை வைத்து தோலால் அழகாக மூடி திருத்தமாக செய்யப்பட்ட இந்த வீடாகிய உடலுக்கு உயிர் கொடுத்த இறைவனின் கருணையை எண்ணி அவன் மீது பொங்கிய நட்பினால் அவன் ஒருவனை மட்டுமே அன்பினால் தேடி அடைகின்றேன். உட்கருத்து: ஆன்மா ஆசைப்பட்டுவிடும் போது அந்த ஆசையைத் தீர்க்க பிறவி கொடுத்து அருமையான உடலைக் கருவிலிருந்தே செதுக்கி அழகான வீடாக்கி அதனுள் உயிராக உலவ விட்ட இறைவனை உயிர்கள் எப்போதும் நினைத்து அவன் கருணையை எண்ணி அன்பு கொண்டு அவனைத் தமக்குள் தேடி அடைய வேண்டும்.`,
   },
   {
@@ -2539,6 +2590,7 @@ Kept it safe from burning Muladhara Fire,
 He drew charmed circles eddying,
 Around the budding life, from Pasa harassing
 And so preserved it safe and cool.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-463-Second-Tantra-14.-Act-of-Conception.mp3',
     elaborationEnglish: `The Lord takes infinite care to protect the foetus inside the womb for 300 days. He surrounds it with a protective 'bag of waters', keeps it from being scorched by the mother's muladhara fire; and He draws charmed circles around the budding life to shield it from harm. The Absolute Being stands as the sentinel, guarding the child in the womb.`,
     elaborationTamil: `ஆன்மா தான் இருக்கும் உடலின் மூலம் அனுபவிக்க வேண்டிய வினைகளை எப்போது அனுபவித்து முடிக்கின்றதோ அப்போதே அதனது அடுத்த பிறவியை எடுக்க உதவும் பலவிதமான வழிகளை உருவாக்கி விடுகின்றான் இறைவன். ஆன்மா இருக்கும் உடல் இறந்த பின் சுற்றத்தாரால் நீராட்டப்பட்டு சுடுகாட்டிற்கு சுட்டெரிக்க எடுத்துச் செல்லும்போதே அதிலிருந்து வெளிப்பட்ட ஆன்மாவை இன்னும் அனுபவிக்க வேண்டிய பலவிதமான வினைகளான பந்த பாசத்தால் கட்டி புதிய கருவாக உருவாக்கி கர்ப்பப் பைக்குள் வைத்து அங்கே பெண்ணின் அடிவயிற்றில் இருக்கும் நெருப்பினாலும் நீராலும் பாதிக்கப் படாதபடி காப்பாற்றி அருளுகின்றான் இறைவன்.`,
   },
@@ -2619,6 +2671,7 @@ Subtle senses five;
 And other Tattvas thirty;
 And thus fashioned a body;
 A steaming cauldron with openings nine.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-467-Second-Tantra-14.-Act-of-Conception.mp3',
     elaborationTamil: `பெண்ணின் உடல் என்ற இயந்திரத்தினுள் ஆணின் உடல் என்ற இயந்திரத்தை இயக்கி பெண்ணின் கர்ப்பப்பை என்னும் இயந்திரத்தினுள் கருவை உருவாக வைத்த இறைவன் அந்த கருவை ஐந்து பூதங்களால் ஆட்டி வைத்து ஆன்மாவையும் முப்பது தத்துவங்களையும் சேர்த்து உடல் என்ற இயந்திரத்தைக் கொடுத்து குழந்தையாக்கி அதைப் பித்த நீரினுள் பத்து மாதங்கள் மூழ்கி இருக்கச் செய்து மூச்சுக்காற்றினால் உணவைச் சுட்டு எரிக்கும் வயிறாகிய இயந்திரத்துடன் ஒன்பது துவாரங்களைக் கொண்ட உடம்பில் ஆன்மாவையும் உயிரையும் ஒன்றாகச் சேர்த்து வைத்து அருளுகின்றான் இறைவன். ஒன்பது துவாரங்கள்: கண்கள் 2, காதுகள் 2, மூக்குத்துவாரம் 2, வாய், பிறவிக்குறி, ஆசனவாய். முப்பத்தாறு தத்துவங்கள்: 5 சிவ தத்துவங்கள்: நாதம் – தூய அறிவாலான பரம்பொருளின் முழுமையான நிலை, விந்து – இயங்கிக் கொண்டிருக்கும் கிரியா சக்தி, சாதாக்கியம் – சதாசிவன், ஈசுரம் – மறைத்தல் சக்தியான மகேசுரன், சுத்த வித்தை – படைத்தல், காத்தல், அழித்தல் எனும் முத்தொழிலுக்கு அடிப்படையான இறைதத்துவம். 7 வித்தியா தத்துவங்கள்: காலம், நியதி, கலை, வித்தை, இராகம், மாயம், புருடன் (ஆன்மா) 24 ஆன்ம தத்துவங்கள்: 5 பூதங்கள் – நிலம் (உடல்), நீர் (இரத்தம் மற்று பித்த நீர்கள்), நெருப்பு (உணவைச் செரிக்கும் நெருப்பு மற்றும் உடல் சூடு), காற்று (மூச்சுக் காற்று மற்றும் பத்துவிதமான வாயுக்கள்), ஆகாயம் (உயிர் மற்றும் ஆன்மா). 5 புலன்கள் – கண்களால் பார்த்தல், காதுகளால் கேட்டல், வாயால் சுவைத்தல், மூக்கால் நுகருதல், தோலால் தொடுதல். 5 ஞானேந்திரியங்கள் – ஓசை (கேட்பது), ஊறு (தொடுவது), ஒளி (பார்ப்பது), சுவை (உண்பது), நாற்றம் (முகர்வது). 5 கன்மேந்திரியங்கள்: வாய் (பேச்சு), கைகள் (செயல்), கால்கள் (போக்குவரவு), எருவாய் (கழிவு நீக்கம்), கருவாய் (இன்பமும் பிறப்பும்). 4 அந்தக்கரணங்கள் – மனம் (எண்ணங்கள்), புத்தி (அறிவு), சித்தம் (சிந்தனை), அகங்காரம் (நான் என்ற எண்ணம்).`,
   },
   {
@@ -2636,6 +2689,7 @@ In union's rapture they kneaded the clay
 For Him to fashion sorrow's tenement;
 The kiln burnt, the pitcher emerged,
 With channels nine and Tattvas eighteen.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-468-Second-Tantra-14.-Act-of-Conception.mp3',
     elaborationTamil: `இன்பத்தில் கலந்த ஆண் பெண் இருவரும் மனமொத்து வைத்த கருவாகிய மண் (பிண்டம்) பந்த பாசத்தால் சிக்குண்டு துன்பத்தைப் பெறும் களிமண்ணாலான கலசம் போன்றது. அதைக் குயவன் போல குழைத்து உருவாக்குபவன் இறைவன் ஒருவனே. இந்தக் களிமண்ணாலான கலசத்தில் ஒன்பது துவாரங்களும் (கண்கள் 2 காதுகள் 2 மூக்குத்துவாரம் 2 வாய் பிறவிக்குறி ஆசனவாய்) பதினெட்டு அச்சாரங்களும் (எலும்புகள்) உள்ளன. எப்படி குயவன் தான் குழைத்து உருவாக்கிய கலசம் உறுதியாக இருக்க வேண்டும் என்று சூளையில் இட்டு சுடுகின்றானோ அதுபோல இறைவனும் கருவை தாயின் சூடான அடிவயிற்றுக் கருப்பை எனும் சூளையில் வைத்துப் பத்து மாதங்கள் சுட்டுப் பாதுகாத்து குழந்தையாக உருவாக்கி அருளுகின்றான்.`,
   },
   {
@@ -2654,6 +2708,7 @@ You realise not the great good that wells therein;
 You seek not the Siddhis within them;
 Know this,
 The fleshy body is but of ten senses made.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-469-Second-Tantra-14.-Act-of-Conception.mp3',
     elaborationTamil: `உடம்பு அடையும் ஆறு வகையான நிலைகளை அறியாமல் இருக்கின்றீர்கள். அந்த நிலைகளில் வினைப் பயனால் உருவாகிப் பெரியதாக வளரும் பலவித குணங்களில் நல்லது எது கெட்டது எது என்று பிரித்துப் பார்த்து கெட்டதை விட்டுப் பிரியாமல் இருக்கின்றீர்கள். பஞ்ச பூதங்களால் ஆன இந்த பிண்டமாகிய உடம்பினுள் எட்டுவிதமான மாபெரும் சித்திகளையும் இறைவன் வைத்திருப்பதை அறிந்து அதை அடைந்து பேரின்பப் பெருவாழ்வைப் பெறுவதற்கும் முயற்சி செய்யாமல் இருக்கின்றீர்கள். உடலின் ஆறு நிலைகள்: பேறு – இன்பம். இழவு – பற்றாக்குறை. துன்பம் – துயரம். பிணி – நோய்கள் மூப்பு – முதுமை சாக்காடு – இழிவு நிலை. வினைப் பயனால் பெறும் குணங்கள்: பாடல் #458 இல் காண்க. உடலின் பஞ்ச பூதங்கள்: நிலம் – எலும்பு தோலால் ஆன உடல். நீர் – இரத்தம் மற்றும் பித்த நீர்கள். நெருப்பு – உணவைச் செரிக்கும் நெருப்பு மற்றும் உடல் சூடு. காற்று – மூச்சுக் காற்று மற்றும் உடலில் உள்ள பத்துவிதமான வாயுக்கள். ஆகாயம் – உயிர் மற்றும் ஆன்மா. எட்டு மாபெரும் சித்திகள்: அணிமா – அணுவைப் போல மிகவும் நுண்ணிய உருவம் எடுத்தல். மகிமா – மலையை விடவும் மிகப் பெரிய உருவம் எடுத்தல். இலகிமா – இலவம் பஞ்சை விடவும் மிகவும் லேசான எடையை எந்த உருவத்திலும் எடுத்தல். கரிமா – மலையை விடவும் மிகவும் கனமான எடையை எந்த உருவத்திலும் எடுத்தல். பிராந்தி – நினைத்த இடத்திற்கு கண் இமைக்கும் நேரத்திற்குள் உடனே சென்றுவிடுதல். பிரகாமியம் – மனதில் நினைத்ததை உடனே கைகொள்ளுதல். ஈசத்துவம் – வேண்டிய எதையும் கட்டுப் படுத்தி ஆட்டி வைத்தல். வசித்துவம் – எதையும் அல்லது எவரையும் தன் வசமாக்கி ஆட்கொள்ளுதல்.`,
   },
   {
@@ -2712,6 +2767,7 @@ The light of life is born shielded true;
 A bubble it is in Life's watery expanse;
 A shadow that spreads on earth below;
 Sheathed in the subtle Body-Eight.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-472-Second-Tantra-14.-Act-of-Conception.mp3',
     elaborationEnglish: `The individual life is but a bubble in the Primal Life’s infinite expanse. It is but a shadow of the Divine Light encased in the subtle body that is made of the five protean senses (tanmatras), and the three internal instruments: mind, will and intelligence.`,
     elaborationTamil: `பூவிதழ் போன்ற யோனியில் நுழைந்த மொட்டு போன்ற இலிங்கத்தின் நுனியிலிருந்து வெளிவந்த சுக்கிலம் சென்று கர்ப்பப் பையின் வாசலில் இருக்கும் கருமுட்டையுடன் கலந்தபின் கருமுட்டை கர்ப்பப் பைக்குள் சென்று விரியும். அப்போது விரிந்த முட்டையிலிருந்து வெளிவந்த நீர்க் குழம்பில் ஒளி வடிவான இறைவனின் அம்சமும் ஜென்ம சுமைகளைச் சுமந்த ஆன்மாவும் சேர்ந்து கலந்து பிறவி எடுக்கும். ஆண் பெண்ணின் உயிர் அணுக்கள் சேர்ந்து ஆண் பெண்ணின் சாயலிலேயே உலகத்தில் பிறக்கும் உடம்பாக மாறிவிடும். அந்த உடம்பு முழுவதும் இறைவனின் அம்சம் பரவி எட்டுவிதமான காரணிகள் பற்றிக்கொள்ளும். உடலின் எட்டுவித காரணிகள்: உடல். 2. வாய். 3. கண். 4. மூக்கு. 5. காது. 6. மனம். 7. புத்தி. 8. அகங்காரம்.`,
   },
@@ -2852,6 +2908,7 @@ To age eighty the infant lives;
 The Yogi who knows the science of breath control
 If in sex act He indulges,
 He, the vital flow, accordingly regulates.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-479-Second-Tantra-14.-Act-of-Conception.mp3',
     elaborationEnglish: `If afier ejaculation, man inhales spontaneously five times, the infant to be born will live upto 100 years; eighty, if he inhales four times and so on. Only yogis who have mastered the science of breath can control and regulate the discharge at will.`,
     elaborationTamil: `ஆண் பெண் இன்பத்தின் முடிவில் ஆணிடமிருந்து சுக்கிலம் வெளிவந்து பெண்ணின் யோனியில் பாய்ந்த பிறகு ஆண் விடும் மூச்சுக்காற்றின் அளவு ஐந்து வினாடிகள் அளவிற்கு வெளிவந்தால் பிறக்கும் குழந்தை நூறு ஆண்டுகள் ஆயுளோடு பிறக்கும். ஆண் விடும் மூச்சுக்காற்றின் அளவு நான்கு வினாடிகள் அளவிற்கு வெளிவந்தால் பிறக்கும் குழந்தை எண்பது ஆண்டுகள் ஆயுளோடு பிறக்கும். எந்த அளவு மூச்சுக்காற்று வெளிவருகின்றது என்பதை பிரித்துப் பார்த்து அறிந்து கொண்டு தமக்கு வேண்டிய அளவிற்கு வெளிவரும் படி செய்வது யோக சாதனைகளைப் புரிந்து சாதனைகள் கைவரப்பெற்ற யோகியர்களுக்கே முடியும் என்பதால் அவர்களுக்கு ஆயுள் அளவு கிடையாது. குறிப்பு :மூச்சுக்காற்றைத் தம் வசம் பழக்கி அளவு அறிந்து இழுத்து அளவு அறிந்து வெளிவிடும் ஆற்றலைப் பெற்றவர்கள் யோகியர்கள். அவர்களால் தாம் வெளிவிடும் மூச்சுக்காற்றின் நேர அளவைக் கூட்டி தங்களது ஆயுளை எவ்வளவு வேண்டுமானாலும் நீட்டிக்க முடியும்.`,
   },
@@ -3014,6 +3071,7 @@ And having grown to stature
 Grew to manhood here below;
 Well may it seek the Ancient One
 That before all worlds was.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-487-Second-Tantra-14.-Act-of-Conception.mp3',
     elaborationTamil: `ஆண் பெண் இருவரும் சந்தித்து இன்பத்தில் உறவாடுகின்றார்கள். அவர்களின் உறவினால் துன்பத்தையே கொடுக்கும் பந்த பாசம் எனும் மாயையால் கட்டப்பட்ட கரு உருவாகி குழந்தையாக பிறந்து உயிராக வளர்கிறது. வளரும் அந்த உயிர் மாயையிலிருந்து விடுபட வேண்டும் என்று எண்ணினால் தன்னை உயிராகப் பிறக்க வைத்த இறைவன் ஒருவன் ஆதி காலத்திலிருந்தே எப்போதும் இருக்கின்றான் என்பதை உணர்ந்து அவனைத் தேடி அடைய ஆசைப்பட்டு அவனின் திருநாமத்தை (ஓம் நமசிவாய) மந்திரமாக ஓதி தியானத்தில் இருந்து அவனைத் தமக்குள்ளே அறிந்து மாயையிலிருந்து விடுபடலாம். குறிப்பு: உயிர்கள் தங்களுக்கு பிடித்த தனது இஷ்ட தெய்வத்தின் நாமத்தையும் மந்திரமாக ஓதி தியானத்தில் இருந்து அவனைத் தமக்குள்ளே அறிந்து மாயையிலிருந்து விடுபடலாம்.`,
   },
   {
@@ -3051,6 +3109,7 @@ The root, the shoot, the plant and fruit;
 Thus He blesses all life;
 To each, He grants his life's pleasure,
 With each, He stands according.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-489-Second-Tantra-14.-Act-of-Conception.mp3',
     elaborationTamil: `ஒரு விதை முதலில் முளைத்து செடியாய் வளர்ந்து பின்பு வேர் மண் மற்றும் நீருடன் வினைபுரிந்து தன்னைப்போலவே பலத்துடன் தன்னுடைய தன்மையுடன் பல செடிகளை புதர் போல் உருவாக்குகின்றது. ஒரு வகை செடி தனது வகை செடியை மட்டுமே உருவாக்கும் வேறு வகை செடியை உருவாக்காது. உலகத்தில் எத்தனை வகை தாவரங்கள் அதன் வகைகளை உருவாக்குகின்றதோ அத்தனை வகை தாவரங்களாகவும் ஆதியாய் இருக்கும் இறைவனே இருக்கின்றான். குறிப்பு: கர்ப்பக்கிரியை தலைப்பில் இதுவரை மனித உயிர்கள் எப்படி உருவாகின்றது என்று மட்டுமே சொல்லப்பட்டு இருந்தது. இந்த பாடலில் உலகில் உள்ள தாவரங்கள் உருவாக்கம் பற்றி அருளியிருக்கின்றார்.`,
   },
   {
@@ -3113,6 +3172,7 @@ Of Turiya quiescence
 Was freed and consigned to the folds of Maya,
 And the Lord then entered Jiva's thought
 And suffused his being with Divine Spirit.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-492-Second-Tantra-15.-Three-Types-of-Souls.mp3',
     elaborationEnglish: `The condition of the Jiva before birth is considered to be the same as what it is in the Mukti state, which is the Turiya state. 7 %
 
 Jivas, who are eternal, are given life and body by Siva/Sakti that they may rid themselves of their primordial impurities and become truly free and pure.
@@ -3197,6 +3257,7 @@ Are those who Mukti attained;
 Another, by malas twine (Egoity and Karma) bound;
 Yet another, the Rudras Hundred and Eight;
 The Sakalas have all malas three.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-495-Second-Tantra-15.-Three-Types-of-Souls.mp3',
     elaborationEnglish: `Another, by malas twain (Egoity and Karma) bound; Yet another, the Rudras Hundred and Eight; The Sakalas have all malas three.`,
     elaborationTamil: `உயிர்களின் வகைகளில் இரண்டாவதாக இருக்கும் மெய்பிரளய அகலர் அனைவரும் பிரளயகாலப் பேரழிவில் முக்தியைப் பெறுபவர்கள். ஆணவம், கன்மம் ஆகிய இரண்டு மலங்களை மட்டும் கொண்டிருக்கும் இவர்கள் அபக்குவர் பரமுத்தர் அபரமுத்தர் என்ற பெயருடன் இருக்கின்றனர். அபக்குவர் பரமுத்தர் என்கிற இரண்டு வகையாக 54- 54 என்ற எண்ணிக்கையில் நூற்று எட்டு உருத்திரர்களாக இருக்கின்றனர். அபரமுக்தர் ஒரு வகையாகவும் மொத்தம் மூன்று வகைகளாக இருக்கின்றனர். பாடல் #494ல் உள்ள விஞ்ஞானர். இந்த பாடலில் கூறிய மெய்பிரளய அகலர் ஆகிய இரு வகையில் இல்லாத மற்ற அனைவரும் ஆணவம் கன்மம் மாயை என்ற மூன்று மலங்களையும் கொண்ட அஞ்ஞானர் ஆவார்கள். அபரமுக்தர் விளக்கம்: இவர்கள் ஞானம் அடைந்து உலகத்தில் படைத்தல் மறைத்தல் காத்தல் அருளல் அழித்தல் ஆகிய இறைவனின் தொழில்களை செய்து பிறவி இல்லாத நிலையில் ஆணவம், கன்மம் என இரண்டு மலங்களை மட்டுமே கொண்டு பிரளய ஊழிக்காலம் வரை இறைவனோடு கலப்பதற்கு காத்திருக்கும் ஞானிகள் ஆவார்கள். பரமுக்தர் விளக்கம்: உலக நன்மைக்காக உயிர்களை உய்விக்க உலகத்தில் பிறப்பதற்கு வானுலகத்தில் இறைவனின் கட்டளைக்காக காத்திருப்பவர்கள் பரமுக்தர் என்கின்ற ஞானிகள் ஆவார்கள். இவர்கள் 54 வகையான ருந்திரர் என்கின்ற பதவியில் இருக்கின்றார்கள் அபக்குவர் விளக்கம்: உலக நன்மைக்காக உயிர்களை உய்விக்க உலகத்தில் பிறந்து அனைத்து உயிர்களோடு வாழ்ந்து வருபவர்கள் அபக்குவர் என்கின்ற ஞானிகள் ஆவார்கள். இவர்கள் 54 ருந்திரர் வகையான என்கின்ற பதவியில் இருக்கின்றார்கள் குறிப்பு: பரமுக்தர் அபக்குவர் இருவகையினரும் உலக நன்மைக்காக உயிர்களை உய்விக்க உலகத்தில் பிறந்து உயிர்களோடு உயிராக வாழ்ந்து பல நல்கருத்துக்களை கூறி ஆணவம், கன்மம், மாயை என்ற மூன்று மலங்களையும் கொண்ட அஞ்ஞானர்களை பிறவியில்லா நிலையை அடையச்செய்வதற்கும் இறைவனை உணர்வதற்க்கான காரியத்தையும் செய்து கொண்டிருக்கின்றார்கள்.`,
   },
@@ -3239,6 +3300,7 @@ They uproot Jiva's bondage,
 End cycle of births;
 They alone are,
 Who truth of peerless Tattvas realised.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-497-Second-Tantra-15.-Three-Types-of-Souls.mp3',
     elaborationTamil: `ஆணவம், கன்மம், மாயை, மாயேயம், திரோதாயி என்னும் ஐந்து வலிமை மிகுந்த மலங்களை வென்று தாமே சிவமாகி சித்தர்கள் சாயுச்சியம் என்னும் பேரின்பப் பெருவாழ்வு பெற்று அதிலேயே என்றும் திளைத்து இருப்பார்கள். இவர்கள் இறவாத நிலை பெற்றதால் எப்போதும் பிறவி இல்லாத நிலையைப் பெற்று பசு பாசம் ஆகிய இரண்டும் நீங்கி பதியாக இருக்கும் ஒன்பது வகை தத்துவங்களை தமது தவத்தினால் உணர்ந்து அடைந்தார்கள். பதி பசு பாசம் விளக்கம்: பதி என்பது இறைவனின் பேரான்மா. பசு என்பது இறைவனின் பேரான்மாவிலிருந்து பிரிந்து வந்து உலகங்களில் பிறந்த ஜீவ ஆன்மா. பாசம் என்பது பேரான்மாவுடம் ஜீவ ஆன்மா சேராதவாறு பிரித்து ஐந்து வகை மலங்களால் கட்டி இருப்பது. எப்போது பசுவாகிய ஜீவ ஆன்மா தனது பாசமாகிய மலங்களை அறுத்துக் கொண்டு பதியாகிய பரமாத்மாவை சென்று அடைகிறதோ அப்போது அது முக்தியைப் பெற்று இனி பிறவி இல்லாத நிலையை அடைகிறது. ஒன்பது தத்துவ விளக்கம்: உலகம் உருவாகுவதற்கும் உலக தொழில்கள் நடைபெறுவதற்கு காரணமாய் இருப்பவை ஒன்பது தத்துவங்களாகும். இந்த ஒன்பது தத்துவங்களையும் சித்தர்கள் தமது தவத்தினால் தமக்குள் கண்டு உணர்பவர்கள். சிவம் – அசையா சக்தி சக்தி – அசையும் சக்தி ஒலி – சத்தம் ஒளி – வெளிச்சம் சதாசிவம் – அருளல் மகேசுவரன் – மறைத்தல் உருத்திரன் – அழித்தல் திருமால் – காத்தல் பிரம்மன் – படைத்தல்`,
   },
   {
@@ -3299,6 +3361,7 @@ Of one-ness with Siva Tattva;
 Albeit all three, Sakala and the rest of yore possessed,
 The primal impurities triple,
 Anava, Maya and Karma.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-500-Second-Tantra-15.-Three-Types-of-Souls.mp3',
     elaborationTamil: `ஆணவம் முதலான 5 மலங்களும் இருப்பதினால் கண்ணால் பார்த்தும் அறியாமையால் அதில் உள்ள உண்மை தெரிந்து கொள்ளாதவர்கள் ஒளி ஒலி முதலான அனைத்து இறை தத்துவங்களையும் உணர முடியாது. ஆணவம் முதலான 5 மலங்களும் கடந்தவர்கள் உயர்வான இடத்தில் இருக்கும் சிவசக்தி தத்துவத்தை உணரலாம் உட்கருத்து: ஆணவம் என்கிற மலத்தை விட்டு நீங்காத வரை இறைவனை முழுவதுமாக உணர முடியாது. ஐந்து மலங்களையும் இறையருளால் வென்றவர்கள் மட்டுமே ஆதிப்பரம்பொருளாக இருக்கும் சிவம் (அசையா சக்தி) சக்தி (அசையும் சக்தி) எனும் இரண்டு தத்துவங்களையும் உணர முடியும்.`,
   },
   {
@@ -3316,6 +3379,7 @@ Give a wee bit to Sivajnani,
 You shall attain Siddhi, Mukti and heavenly bliss;
 Give a world of gold to the witless,
 You shall become poor losing all joys.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-501-Second-Tantra-16.-Eligibility.mp3',
     elaborationTamil: `உண்மையான அறிவைப் பெற்ற சிவ ஞானியர்களுக்கு ஒரு எள்ளின் அளவு தங்கத்தைக் கொடுத்தாலும் அதனை இறைவனே ஏற்றுக் கொண்டு அதன் பயனாக முக்தியையும், எண்ணியதை அடைகின்ற சக்தியையும், பேரின்பப் பெருவாழ்விற்கான வழியையும் தந்து அருளுவான். உலக அறிவை மட்டும் கொண்டு தமக்கு ஞானம் இருப்பதாக எண்ணி ஞானியர் போல வேஷம் போட்டுக் கொண்டு இருக்கும் முடர்களிடம் இந்த உலகத்திலுள்ள அனைத்து தங்கத்தையும் தானமாக கொடுத்தாலும் அதனால் ஒரு பயனும் கிடைக்காதது மட்டுமில்லாமல் கொடுத்த வீண் தானத்தின் பயனால் அடுத்த பிறவியிலும் பேரின்பப் பெருவாழ்வு கிடைக்காமல் போய்விடும். உள்விளக்கம்: தகுதியானவர்களுக்கே தானம் செய்ய வேண்டும்.`,
   },
   {
@@ -3335,6 +3399,7 @@ But the Lord seizes Death's life;
 Such indeed, His Prowess is;
 He blesses all who know Him true;
 They who sought Him, immortals became.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-502-Second-Tantra-16.-Eligibility.mp3',
     elaborationTamil: `எமனால் உயிர்கள் ஒரு நாள் இறந்து போவதைப் பார்த்தாலும் தாமும் அப்படி ஒரு நாள் இறந்து போவோம் என்பதை உணராமல் உயிர்கள் இருக்கின்றனர். அதுபோலவே ஒவ்வொரு உயிருக்குள்ளும் அந்த உயிரையே தனது அம்சமாகக் கொண்டு இருக்கும் இறைவன் தமக்குள்ளும் இருக்கின்றான் என்பதையும் உணராமல் இருக்கின்றனர். உலக வாழ்க்கையை விட நன்மை தருவது பேரின்பப் பெருவாழ்வு என்பதை உணர்ந்து அன்பாலும் தவத்தாலும் தேடிச் சென்று தமக்குள் இருக்கும் இறைவனை உணர்ந்து கொள்ளும் சிலர் மட்டுமே இறைவனின் அருள் பெற்று தேவர்களாக பதவி பெறுகிறார்கள். உட்கருத்து: விரைவில் முடியும் உலக வாழ்க்கை மேல் ஆசை வைக்காமல் என்றும் நிரந்தரமான பேரின்பப் பெருவாழ்வுதான் வேண்டும் என்று உணர்ந்த உயிர்கள் மட்டுமே இறைவனின் அருளைப் பெறுவதற்கு தகுதியான பாத்திரமாக இருக்கிறார்கள்.`,
   },
   {
@@ -3353,6 +3418,7 @@ I forgot not the truth of His holy Feet;
 I gave up falsehood and sought them;
 The Feet of Lord of matted locks
 Are a Lamp no oil feeds.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-503-Second-Tantra-16.-Eligibility.mp3',
     elaborationTamil: `வினைப் பயனால் பிறவி எடுத்த போது கருவாக உருவான போதிலிருந்தே யாம் இறை நினைப்பை கைவிடாது பற்றிக் கொண்டேன். உயிர்கள் அனைத்துமாக இருக்கும் உண்மை இறைவனின் திருவடிகளையே எனக்குள் தேடி கயிறு போல பின்னிய சடையை தலையில் அணிந்த இறைவனின் திருஉருவத்தை எனக்குள் கண்டு அவனது திருவடிகளையே சரணடைந்தேன். அதனால் நெய் விட்டு எரிக்கப்படுகின்ற உலக விளக்குகளைப் போல இல்லாமல் நெய்யே விடாமல் தானாக ஒளிரும் விளக்காக எனக்குள் இறைவன் வந்து இருக்கின்றான் என்பதை உணர்ந்து கொண்டேன். உட்கருத்து: பொய்யான உலகப் பற்றுக்களை விட்டுவிட்டு உண்மையான இறைவனையே முழுவதுமாகப் பற்றிக்கொண்ட உயிர்கள் தான் இறைவனைத் தமக்குள் ஒளி வடிவமாகத் தரிசிக்கத் தகுதியான பாத்திரமாக இருக்கிறார்கள்.`,
   },
   {
@@ -3379,6 +3445,7 @@ And witnesses all:
 All things appropriate,
 He does
 To those of tender love for Him.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-504-Second-Tantra-16.-Eligibility.mp3',
     elaborationTamil: `உலகங்களும் உயிர்களும் உருவாகும் காலத்தில் உருவாகி அழியும் காலத்தில் அழிகின்றன. உயிர்களின் வினைகள் தீர்க்க தீர்க்க வினைகள் சென்று விடும். உயிர்கள் செய்யும் கர்மங்களால் வினைகள் வந்தும் சேரும். இவை எல்லாவற்றையும் கட்டிக் காக்கும் குருவாக இருக்கும் இறைவன் காட்டியருள அதைக் கண்டவர்கள் இறைவனின் கட்டளையைப் பெற்று அதைச் செயல்படுத்தும் தகுதி பெற்ற புதிய அடியவர்கள் ஆவார்கள். உட்கருத்து: அனைத்தும் இறைவனே என்ற உண்மையை இறைவன் காட்டத் தமக்குள் கண்டு உணர்ந்தவர்கள் இறைவனின் கட்டளையை செயல் படுத்தும் தகுதியான பாத்திரமாக இருக்கிறார்கள்.`,
   },
   {
@@ -3399,6 +3466,7 @@ Even so is giving
 Unto those who neither good nor holy are;
 Unto a crop they are,
 Raised in season improper.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-505-Second-Tantra-17.-Ineligibility.mp3',
     elaborationEnglish: `The unworthy jivas are those who are neither good nor holy. They are like a crop that is raised in improper Season. They do not flourish, do not yield. They are like the barren cows that give no milk. They are steeped in worldly pleasures. They will never get God-vision. They are perpetuaters of the five deadly sins. They are destined only to the hot hell.
 
 Do not feed them; do- not look after them; do not give them anything. To give’to them is a heinous crime. Both the giver and the receiver will be condemned to perdition.`,
@@ -3462,6 +3530,7 @@ Yet if you give it
 To those that adore not our Lord,
 You shall with them reach
 The Seventh Hell of ineffable pain.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-508-Second-Tantra-17.-Ineligibility.mp3',
     elaborationTamil: `தம்மை ஆளுகின்ற தந்தையான இறைவனே மனித வடிவில் வந்து தானம் கொடுக்கின்றான் என்று கைகூப்பித் தொழுது இறைவனை நினைத்துத் தானம் கேட்காதவர்களுக்கு மலையளவு மாபெரும் பொருளை தானமாகத் தந்தாலும் அதனால் ஒரு பயனும் கிடையாது. இறைவனை நினைக்காமல் தானம் கொடுத்தவனும் இறைவனை நினைக்காமல் தானம் பெற்ற இருவருமே ஏழு வித நரகங்களின் குழியை சென்று அடைவார்கள்.`,
   },
   {
@@ -3502,6 +3571,7 @@ To Yogis who breath control;
 But sure does He
 In thoughts abide,
 Of Jnanis, who doubt-free see.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-510-Second-Tantra-18.-Truth-of-Holy-Water.mp3',
     elaborationTamil: `கோயில்களுக்குச் சென்று இறைவனை வழிபடும் முறையை அறிந்தவர்க்கு இறைவனின் அருள் குளிச்சியாய் தோன்றும். அவனே அந்த கோவிலில் உள்ள தீர்த்தக்குளத்தில் குளித்தால் பாவங்கள் தீர்ந்து விடும் என்றும் இறைவனை அடைந்து விடலாம் என்றும் எண்ணினால் இறைவன் பக்கத்தில் கூட நிற்க மாட்டான். அவனே மூச்சை அடக்கி அளவாக விட்டு முறைப்படி தியானம் செய்யத் தெரிந்து அதை செயல்படுத்தினால் இறைவனின் அருள் கிடைத்தாலும் கிடைக்கும். அவனே தமது உள்ளத்தில் இருக்கும் தீர்த்தத்தை உணர்ந்து தெளிந்து விட்டால் அவன் சிந்தனையில்தான் இறைவன் எப்போதுமே குடிகொண்டிருக்கின்றான்.`,
   },
   {
@@ -4224,6 +4294,7 @@ They indeed Walk in the Path of Virtue
 And are truly blessed;
 To consort with such
 Is indeed Bliss Supreme.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-545-Second-Tantra-25.-Seeking-the-Sages.mp3',
     elaborationTamil: `தேவர்களின் தலைவனான சிவபெருமானை உணர்ந்த பெரியோர்களைத் தேடிச் சென்று அவர்களோடு இணைந்து இருப்பவர்கள் சிவதத்துவத்தைப் பெறுவார்கள். இறைவனை அடையத் தாம் எடுத்துக் கொண்ட நெறியிலிருந்து மாறாமல் நின்று அருள் செய்யும் பெரியாரோடு சேர்ந்திருப்பதே பேரின்பமாகும்.`,
   },
   {
@@ -4287,6 +4358,7 @@ The Devout Eminent will master eddies of birth,
 Devout Dear realizing self will immortal, remain;
 With them who are Rich in Grace
 I joined to consort.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-548-Second-Tantra-25.-Seeking-the-Sages.mp3',
     elaborationEnglish: `Only the true devotees will master the karmic eddies; only they will realise the Self and achieve the deathless state. Only they will enter and be in God. gancy. are rich in grace.`,
     elaborationTamil: `கலை ஞானத்தில் சிறந்து இறைவனை அடையக்கூடிய அருமையை உணர்ந்தவர்கள் ஒரு நொடிப் பொழுதும் இறைவனை மறக்காமல் இருப்பதின் பயனால் பிறவியாகிய பெருங்கடலை நீந்திக் கரைசேரும் பெருமையை உடையவர்கள், இறைவனைத் தனக்குள்ளே உணர்ந்து அதிலேயே ஆழ்ந்து அவனது திருவருளைப் பெற்றவர்கள் ஆகியவர்களோடு யாமும் சேர்ந்து இருக்கின்றோம். உள்கருத்து: 64 கலைகள் உள்ளது. அதில் ஏதேனும் ஒன்றோ பலவோ கற்று அதில் ஞானம் அடைந்தவர்கள். பக்தி மார்கத்தின் மூலமாக இறைவனை ஒரு நொடிப்பொழுதும் மறக்காமல் இருப்பவர்கள். யோக மார்கத்தின் மூலமாக இறைவனை தனக்குள் உணர்ந்தவர்களுடன் யாம் துணையாக இருக்கன்றோம் என்று அருளுகின்றார்.`,
   },
