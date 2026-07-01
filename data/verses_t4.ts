@@ -21,6 +21,7 @@ I expound Siva Yoga;
 Hearken you!!
 I chant the One Letter, Aum
 Dear to our Lord.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-884-Fourth-Tantra-1.Silent-Mantra.mp3',
     elaborationEnglish: `Having revealed in the preceding Tantra the technique of kundalini yoga that climaxes in chandra yoga, Tirumular proceeds to expound the secrets of mantra and yantra.
 
 Mantra is the sound-body of a Devata, and yantra is its diagramatic representation.
@@ -78,6 +79,7 @@ Chitambalam is where Devas reside,
 Chitambalam is where Devas reside,
 Thiru Ambalam is where Devas reside,
 The Sabha of the South is where Devas reside.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-886-Fourth-Tantra-1.Silent-Mantra.mp3',
     elaborationEnglish: `The One Letter mantra, Aum, denotes the Divine Dance. It is Tandava, the Grace Act of the Lord performed in the Golden Hall of Chidambaram, the Sabha of the South.
 
 The word, Chidambaram, is of Sanskrit origin, and is made up of two words ‘cit’ (meaning mind, or thought) and ‘ambaram® (meaning sky or space). Hence the word would mean Infinite Mind or the Divine ‘itself. As Mular himself has pointed out in various passages, Siva’s dance appeared first as a mental vision in the mind of Siddhars. The temple
@@ -109,6 +111,7 @@ In the Golden Temple is the Ananda (Bliss) Dance,
 In the Golden Temple is the Anavarata (Eternal) Dance,
 In the Golden Temple is the Pralaya (Deluge) Dance,
 In the Golden Temple is the Samhara (Dissolution) Dance.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-887-Fourth-Tantra-1.Silent-Mantra.mp3',
     elaborationEnglish: `The Atbhuta (Wonder) Dance, the Ananda (Bliss) Dance, the Anavarata (Eternal) Dance. the Pralaya (Deluge) Dance, and the Samhara (Dissolution) Dance are performed in the Golden Sabha.`,
     elaborationTamil: `பாடல் #886 ல் உள்ளபடி உலகத்திலுள்ள அனைவருக்கும் பொதுவான இறை சக்தி வீற்றிருக்கும் தென் நாட்டு சிதம்பரத்திலுள்ள பொன்னம்பலம் இறைவனின் ஐந்து வகையான திருக்கூத்துக்களை (நடனம்) காட்டி நிற்கின்றது. அவை அண்ட சராசரங்களில் இருக்கும் அனைத்து உயிர்களையும் படைக்கின்ற அற்புத தாண்டவம், அந்த உயிர்களில் உண்மை ஞானம் பெற்றவருக்கு பேரின்பத்தைக் கொடுக்கும் ஆனந்த தாண்டவம், அனைத்து உயிர்களின் வாழ்க்கை முழுதும் அவற்றைத் தாங்கிக் கொண்டு மூச்சாய் உயிராய் இயங்குகின்ற அனவரத் தாண்டவம், அவற்றின் விதி முடியும் போது உலக வாழ்க்கையை அழித்து அருளுகின்ற சங்காரத் தாண்டவம், உலகங்களையும் அதிலிருக்கும் உயிர்களையும் முற்றாக அழித்துத் தம்மோடு மீண்டும் சேர்த்துக்கொள்ளும் ஊழிக்காலப் பிரளயத் தாண்டவம் ஆகிய பெருமை வாய்ந்த ஐந்து தாண்டவங்களே ஆகும்.`,
   },
@@ -254,6 +257,7 @@ They are the dance Holy;
 They are the Agamic teachings divine,
 They are the Immaculate Purity
 Of the Divine Dance Hall.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-894-Fourth-Tantra-1.Silent-Mantra.mp3',
     elaborationEnglish: `The letters Si and Va are Sadasiva. They are the imperishable Agamas. They are the Godly goal. They are the mastwood tree on the banks of the Ganga within. They are the Holy Dance. They are the immaculate purity of the Divine Dance Hall.`,
     elaborationTamil: `ஓங்காரத்தின் அகார உகாரங்களே சதாசிவ தத்துவமாகவும், எக்காலத்திலும் மாறாத ஆகமங்களாகவும், வண்டுகள் மகிழ்ந்து தங்கும் புன்னை மரம் போல் அடியவர்கள் மகிழ்ந்து தங்கும் சிவ பரம்பொருளின் சரணாகதி திருவடிகளாகவும் தில்லையில் ஆடும் திருக்கூத்தாகவும் ஆகமங்கள் கூறும் சரியை, கிரியை, யோகம், ஞானம் ஆகிய நான்கு வழிமுறைகளாகவும் உலகங்கள் அனைத்திற்கும் பொதுவான தென்னாட்டு சிற்றம்பலத்தின் மலமாசுக்களை நீக்கும் பொன் மன்றமாகவும் இருக்கின்றன.`,
   },
@@ -293,6 +297,7 @@ Himself as His Mountain stands;
 Himself as Pervasive Himself stands;
 Himself He stands,
 As Lord that is Himself.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-896-Fourth-Tantra-1.Silent-Mantra.mp3',
     elaborationTamil: `இறைவன் தனக்குத் தானே குருவாக நின்றும் அனைத்தையும் தாங்கி தன்னையும் தாங்கி நிற்கும் மலையாக நின்றும் அனைத்திலும் பரவி தனக்குள்ளும் பரவி நின்றும் தனக்கு தானே இறைவனாகவும் இருக்கின்றான். குறிப்பு: இறைவன் தனக்குத் தானே என்னவாகவெல்லாம் இருக்கின்றார் என்பதை இப்பாடலில் அருளுகின்றார்.`,
   },
   {
@@ -328,6 +333,7 @@ The peerless Feet of Lord are Letters A and U;
 The peerless Feet of Lord are Letters Two and Five;
 The peerless Feet of Lord are Letters Fifty and One
 The peerless Feet are mantras seven times thousand.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/12/Song-898-Fourth-Tantra-1.-Silent-Mantra.mp3',
     elaborationEnglish: `Letters eight: The five letters of Panchakshara and those Bijaksharas.`,
     elaborationTamil: `ஈடுஇணையில்லாத இறைவனின் திருவடிகளின் உருவமே அகாரம் உகாரம் மகாரம் எனும் மூன்று எழுத்துக்கள் சேர்ந்த ஓங்காரமாகவும் நமசிவாய எனும் ஐந்தெழுத்து மந்திரமாகவும் இருக்கின்றது. அந்தத் திருவடிகளே உயிர்களின் உடலுக்குள் பத்துவித காற்றுக்களாகவும் மொத்தம் 51 இதழ்கள் கொண்ட ஆறு ஆதார சக்கரங்களின் 51 யோக நாடிகளாகவும் ஆதார ஏழாயிரத்திலிருந்து அதன் பரிணாமங்களில் மொத்தம் ஏழு கோடி வரையிலும் இருக்கும் மந்திரங்களாகவும் இருக்கின்றன. குறிப்பு: இறைவனுடைய இணையில்லாத திருவடிகள் எதுவாகவெல்லாம் இருக்கின்றது என்பதை இப்பாடலில் அருளுகின்றார்.`,
   },
@@ -347,6 +353,7 @@ And then into the Seven with endings diverse,
 Thus of the Seven Thousand mantras chanted,
 That are beyond thought,
 Have as vital the Seven and Two in the ultimate.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-899-Fourth-Tantra-1.-Silent-Mantra.mp3',
     elaborationEnglish: `Mantras 899 & 900 - But the two letters are the vital, ultimate or contained all mantras. It is Siva's ma our divine support.
 Excluding the one in sahasrara
 Mantras have seven different endings: i)nama, ii)svata; iii)svaha; iv)vamshat; v)vashat; vi)hum; vii)phat
@@ -500,6 +507,7 @@ As you breath in,
 Your body becomes gold;
 And in time,
 Shall you behold the Golden Feet of Lord.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2023/08/Song-906-Fourth-Tantra-1.-Silent-Mantra.mp3',
     elaborationTamil: `பாடல் #904 இல் உள்ளபடி ஸ்ரீ சக்கரத்தில் பொறிக்கப்படும் சிவயநம எனும் மந்திரம் பொன் போன்ற மந்திரமாகும். அந்த மந்திரத்தை வாயால் உச்சரிக்காமல் மூச்சுக்காற்றோடு சேர்த்து ஜெபித்தால் உடலுக்குள் இருக்கும் ஐம்புலன்களும் இறையருளால் செம்மையாகும். அதன் பிறகு மந்திரத்தோடு இழுக்கப்பட்ட மூச்சுக்காற்றை உடம்பின் அனைத்து பகுதிக்கும் செலுத்தக்கூடிய சாதகர்களின் உடம்பே இறைவனின் பொன்னான பாதங்களாக மாறும்.`,
   },
   {
@@ -542,6 +550,7 @@ If you chant the mantra,
 The fiery snake of Pasa will leave you;
 That mantra is the secret of the Holy Dance,
 Chant it unceasing.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-908-Fourth-Tantra-1.-Silent-Mantra.mp3',
     elaborationTamil: `பாடல் #907 இல் உள்ளபடி சாதகருக்கு கிடைத்த சிந்தனைகளை செயல்படுத்தினால் உடலை விட்டு ஆத்மா வெளியே சென்று பேரின்பத்தை அனுபவிக்கும். சாதகரின் உடலை விட்டு ஆன்மா வெளியே சென்றாலும் ஆன்மாவிற்கும் நல்ல உடலுக்குமான இணைப்பு விட்டு பிரியாமல் தானாகவே இணைந்து இருக்கும். இதனால் பாசமாகிய பற்று அறுந்து குண்டலினி சக்தி உடலைவிட்டு வெளியே சென்று பாடல் #858 இல் உள்ளபடி தலைக்கு மேல் இருக்கும் சந்திரமண்டலத்தோடு இணைந்துவிடும். இதனால் கிடைக்கும் ஞானம் இறைவன் ஆடுகின்ற திருக்கூத்துகளின் சூட்சுமங்களாகும். குறிப்பு: நல்ல உடல் என்பது பாடல் #902 இல் உள்ளபடி சாதகருக்கு கிடைக்கும் பொன் போன்ற ஒளி உடம்பாகும்.`,
   },
   {
@@ -560,6 +569,7 @@ Chant it eight thousand times;
 You shall see the (Sushumna) Path Subtle,
 You may enjoy the bliss of Siva
 That is subtlest of all.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-909-Fourth-Tantra-1.-Silent-Mantra.mp3',
     elaborationEnglish: `'Sivaya nama' is the sukshma mantra. Chant it eight thousand times. You will vision the subtle path of sushumna. You can destroy karma that is very subtle. You can enjoy the bliss of Siva that is the subtlest of all.`,
     elaborationTamil: `பாடல் #908 இல் உள்ளபடி திருக்கூத்தின் சூட்சுமமாக இருக்கும் சிவயநம மந்திரத்தை அறிந்து எட்டாயிரத்திற்கும் மேலான எண்ணிக்கையில் உச்சரிக்காமல் மூச்சுக்காற்றோடு சேர்த்து ஜெபிக்கும் சாதகர்கள் இறைவனை அடையும் சூட்சுமமான பாதையை காண்பார்கள். அந்த பாதையில் செல்லும் சாதகர்கள் தங்களின் பல ஜென்மங்களாக தொடரும் சூட்சுமமான வினைகளை அழித்துவிடலாம். வினைகள் அழிந்த பின் இறைவனை உணர்ந்து பேரின்பத்தில் திளைத்திருக்கலாம்.`,
   },
@@ -585,6 +595,7 @@ They become the Five Letter mantra
 And joy that is within joy;
 Bliss lies in the seed-letters Five;
 Hum-Hrim-Ham-Ksam-Am, are they.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-910-Fourth-Tantra-1.-Silent-Mantra.mp3',
     elaborationEnglish: `One the supreme bliss. One the supreme bliss. "-thus chant the mantra. You shall have bliss. Bliss has its source in the Five Letters, A, I, U, I and Aum - they are the five life-vowels. The five life-vowels became the Five-Lettered mantra. They correspond to the Five seed-letters; Ham, Hrim, Hum, Sum, and Aum.
 True Ambala Chakra (iii)
 Letters i, u, a, e and Aum are the Dance letters.
@@ -632,6 +643,7 @@ The Dance-Letters Si Va Ya become Namasivaya
 The Dance-Letters I, U, A, E and O(m) become Sivaya Nama
 The Dance-Letters I, U, A, E and O(m) become Si Va Ya Nama
 The Dance-Letters I, U, A, E and O(m) become the stellar mantra Nama Sivaya`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-912-Fourth-Tantra-1.-Silent-Mantra.mp3',
     elaborationEnglish: `‘Sivayanama’ becomes ‘Ma Si Va Ya Na, that are I, U, A, E and O — the dance-letters of Siva.
 
 Letters aeu, ae and Aum denote the Five Letters, Si, Va, Ya, Na, Ma. The origin of the Five Letter mantra is traced to the letter-sounds in Siva’s dance steps.`,
@@ -657,6 +669,7 @@ He danced on one Foot;
 He danced in Saktis Nine;
 He danced in arena that is Space;
 He danced the Dance of Ruby.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-913-Fourth-Tantra-1.-Silent-Mantra.mp3',
     elaborationEnglish: `The Lord danced as One, alone. He danced as two with Sakti. He danced with several - all creation. He danced with three - the sun, moon and fire. He danced with jiva and with all the worlds. He danced with one Foot, and He danced with the nine Saktis. He danced in the adharas that are space. He danced the Dance of the Ruby.`,
     elaborationTamil: `அசையா சக்தியாக இருக்கின்ற இறைவன் அசையும் சக்தியோடு சிவசக்தியாக ஆடுகின்ற போது அவரோடு சேர்ந்து அண்டசராசரங்கள் அனைத்தும் ஆடுகின்றன. அசபை மூலம் சாதகம் செய்யும் சாதகர்களின் ஆன்மாவும் சிவசக்தியோடு சேர்ந்து ஆட அவர்களின் உடலிலுள்ள ஏழு சக்கரங்களும் அந்த சக்திகளோடு சேர்ந்து ஒன்றாக இணைந்து ஆடுகின்றது. நான்கு திசைகளும் ஒன்பது கோள்களும் சேர்ந்து இறைவன் அண்டசராசரத்தில் ஆடுகின்ற திருக்கூத்தே சாதகரின் உடலாகிய பிண்டத்தில் இறையருள் நிறைந்து மாணிக்க ஜோதியாக திருக்கூத்தாடும்.`,
   },
@@ -675,6 +688,7 @@ Draw twelve vertical lines and cross them
 With twelve horizontal lines
 Thus are formed hundred and twenty-one squares,
 In this chakra the Lord dances.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-914-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationEnglish: `Tiru Ambala Chakra: ref. Mantra 904, ante. This and the mantras following give a detailed exposition on _ the configuration of this chakra (ideo-gram). While commentators widely differ in their interpretation of these mantras, an ideogram into which much research has gone is one attempted by Sri G. Varadara in his book, Neri’, (Tamil), pp. 11-115.
 
 This rather extensive section on certain yantras has been condensed by the translator into a commentary, Consequently, it is not amenable to enumeration.
@@ -723,6 +737,7 @@ In his own Letter "Si", He abides;
 The four letters conjoint are great Letters of His name
 On the four sides of His Chakra are His own Five letters
 In the One letter He abides is Hara's mantra too.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-915-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationEnglish: `The number 121 is the square of 11, and there are, according to the Vedas, 11! Rudras (Sivas).`,
     elaborationTamil: `பாடல் #914 இல் உள்ளபடி சக்கரத்தில் அமர்ந்திருக்கும் இறைவன் வாழுகின்ற இடம் சக்கரத்தின் நடுவில் இருக்கும் சி என்கின்ற முதல் எழுத்தாகும். அந்த சக்கரத்தில் இருக்கும் மற்ற நான்கு எழுத்துக்களாகிய வ ய ந ம ஆகியவை இறைவனின் பேரெழுத்தாகும். சக்கரத்தின் நான்கு மூலைகளிலும் இறைவன் வாழுகின்ற சி என்ற முதல் எழுத்தே அரனாக இருந்து மொத்தம் ஐந்து எழுத்தாகின்றது. சக்கரத்தில் உள்ள அனைத்து எழுத்துக்களும் வேறு வேறாக இருந்தாலும் அவை அனைத்தும் இறைவனின் திருவுருவமாக இருக்கும் ஓம் என்னும் ஓங்கார எழுத்தாகவே இருக்கின்றது.`,
   },
@@ -745,6 +760,7 @@ Say "Hara Hara"
 And you shall a Celestial be;
 Say "Hara Hara"
 You shall no more birth know.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-916-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `இறைவனின் திருஉருவாக இருக்கும் ஓங்கார மந்திரத்தைக் குறிப்பதே ஹரஹர எனும் மந்திரமாகும். இதுவே திருவம்பலச் சக்கரத்தில் சிவசிவ என்று அமர்ந்திருக்கும். இதைவிட அறிந்து உணர்ந்து கொள்வதற்கு மிகவும் கடினமான மந்திரம் வேறொன்று இல்லை. அதனாலேயே உலகத்து உயிர்கள் இதை அறிந்து கொள்ளாமல் இருக்கின்றார்கள். இந்த மந்திரத்தை அறிந்து உணர்ந்து செபித்தால் அனைத்து பிறவிகளும் அன்றே அழிந்து பிறவி இல்லாத நிலையை அடைந்து தேவர்களாகவே ஆகிவிடுவார்கள். குறிப்பு: திருவம்பல சக்கரத்தை வரைந்து செபிப்பவர்களுக்கு சிவசிவ மந்திரம் பயனளிப்பது போல ஹரஹர மந்திரத்தை அறிந்து உணர்ந்து செபித்தாலே பலன் அளிக்கும்.`,
   },
   {
@@ -764,6 +780,7 @@ Arose the Five Gods,
 And the Saktis Nine,
 And the Bindu and Nada;
 Thus flourishes the Mantra, the Word Pure.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-917-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `திருவம்பல சக்கரத்தில் நடுவில் இருக்கும் சி மந்திர எழுத்தை சுற்றி உள்ள எட்டு கட்டங்களும் எமது தலைவனாகிய இறைவன் வீற்றிருக்கும் இடங்களாகும். இந்த எட்டு கட்டங்களில் பாடல் #915 இல் உள்ளபடி மறைந்திருக்கும் ஒங்கார எழுத்தும் சக்கரத்தில் எழுதியிருக்கும் சிவயநம எழுத்துக்களும் ஒன்றாக சேரும் போது ஓம் நமசிவாய என்னும் மந்திரமாகிறது. தூய்மையான எண்ணங்களோடு இந்த மந்திரத்தை ஜெபிக்க ஈரேழு பதினான்கு உலகங்களிலும் ஒலியாகவும் ஒளியாகவும் விளங்குகின்ற சிவசக்தி திருவம்பல சக்கரத்தில் சிறந்து வீற்றிருக்கும்.`,
   },
   {
@@ -783,6 +800,7 @@ Who, on the blooming lotus sits;
 They who chant the letter aspirated "O"
 Conjoint with the letter unaspirated "m"
 May well preserve their life ever.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-918-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `உயிர்கள் தமக்குள் இருக்கும் சகஸ்ரதள ஆயிரம் இதழ் கொண்ட தாமரை மலரில் இறைவன் சிவசக்தியாய் ஒன்றிணைந்து வீற்றிருக்கும் விதத்தை அறிவதில்லை. திருவம்பல சக்கரத்தில் பாடல் #915 இல் உள்ளபடி மறைந்திருக்கும் ஒங்கார எழுத்தையும் மறையாமல் வீற்றிருக்கும் சிவயநம எழுத்துக்களையும் ஒன்றாக சேர்த்து தூய்மையான எண்ணத்தோடு ஜெபிக்க முடிந்தவர்களின் சகஸ்ரதள தாமரை மலர் மலர்ந்து என்றும் இறவாத நிலையை அடைவார்கள்.`,
   },
   {
@@ -801,6 +819,7 @@ That Panchakshara Manifest (is Namasivaya)
 That Subtle is Sivayanama
 Thus is He in that Mantra,
 Manifest and Subtle.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-919-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `பாடல் #914 இல் உள்ளபடி திருவம்பலச் சக்கரத்தில் இருக்கும் பஞ்சாட்சர மந்திரத்தையே கோயிலாக கொண்டு இறைவன் அமர்ந்த பிறகு சாதகர்கள் சக்கரத்தில் வரிவடிவமாக இருக்கும் சிவயநம மந்திர எழுத்துக்களில் வீற்றிருக்கும் இறைவன் மேல் எண்ணத்தை வைத்து செபித்தால் பாடல் #915 இல் உள்ளபடி சக்கரத்தில் சூட்சுமமாக மறைந்திருக்கும் ஓங்கார மந்திரத்தை அறிந்து கொள்ள முடியும். அறிந்தபின் அதையும் சேர்த்து ஓம் நமசிவாய எனும் திருமந்திரமாக செபிக்கும் சாதகர்கள் பஞ்சாட்சர மந்திரம் கொண்ட திருவம்பலச் சக்கரத்தைக் கோயிலாக கொண்டு அமர்ந்ததைப் போலவே அந்த மந்திரத்தை செபிக்கும் தமது உடலையும் கோயிலாக கொண்டு இறைவன் தமக்குள்ளும் வீற்றிருக்கிறான் என்பதை உணர்ந்து கொள்வார்கள்.`,
   },
   {
@@ -818,6 +837,7 @@ That Chakra is with six by six lines formed,
 The lines inside are five by five
 Thus in all into five and twenty chambers divided;
 In Center of these is Letter Ma.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-920-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `திருவம்பல சக்கரம் வடிவமைக்க இடமிருந்து வலமாக ஆறு கோடுகள் வரைந்து அதனோடு இணைந்து மேலிருந்து கீழாக ஆறு கோடுகளும் வரைந்தால் வரும் சக்கரத்தில் இருபத்தைந்து கட்டங்கள் இருக்கும். இந்த கட்டங்களுக்கு நடுவில் இருக்கும் ம எழுத்து உயிர்களின் ஆன்மாவாக திருவம்பல சக்கரத்தோடு இணைந்து இருக்கின்றது.`,
   },
   {
@@ -858,6 +878,7 @@ In the Center on top place 'Si'
 On sides two place letters 'Va' and 'Ya'
 Inside inscribe Na Ma Si Va Ya
 On the outer round figure Letters Si Va Ya Na Ma.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-922-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `பாடல் #921 இல் உள்ளபடி எழுதி அமைத்த உருவத்தின் நடுவில் இருக்கும் ஓம் எனும் பிரணவ மந்திரத்திற்கு மேலே இருக்கும் ய எழுத்துக்கு இரண்டு பக்கமும் இருக்கும் சி எழுத்துக்கள் திருவம்பலத்தில் ஆடுகின்ற நடராஜரின் திருவாயாகவும் அதற்கு நடுவில் நிற்கின்ற நமசிவாய மந்திரம் நடராஜரின் திருமுகமாகவும் அதற்கு கீழே இருக்கின்ற சிவாயநம மந்திரம் நடராஜரைச் சுற்றியுள்ள நெருப்பு வட்டமாகவும் இருக்கின்றது.`,
   },
   {
@@ -880,6 +901,7 @@ Still below comes Letters in order Ya Na Ma Si Va
 In the squares last are Letters Va Ya Na Ma Si
 Thus do you fill squares in Chakra
 With ‘Si’ to begin and ‘Si’ to end.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-923-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationEnglish: `Tiru Ambala Chakra (ix) See Mantra 905 supra — the difference is that here there are only two horizontal lines.`,
     elaborationTamil: `சிவாயநம என்னும் ஐந்தெழுத்து மந்திரத்தை ஆராய்ந்து தியானிக்க சிவாயநம, மசிவாயந, நமசிவாய, யநமசிவா, வாயநமசி, என்று ஐந்து வகையாக சி எழுத்தில் ஆரம்பித்து ந எழுத்தில் முடியும் வகையில் அமையும். (நுண்மையாய் சிவாயநம என்னும் மந்திரத்தினை நான்கு முறை எழுத்துக்களை மாற்றியமைத்து ஒவ்வோர் எழுத்தும் முதலெழுத்தாக வரும்படி எழுதினால் திருவம்பலச்சக்கரத்தில் உள்ள இருபத்தைந்து கட்டத்திலும் சிவாயநம ஐந்தெழுத்து அமைந்திருக்கும் உண்மை தெரியும்.)`,
   },
@@ -921,6 +943,7 @@ At the outer circle describe Hara Hara,
 In the inner circle describe Hari Hari,
 In the inner most center place Om, the Ajapa,
 Mark the ends of circle by Trident sign.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-925-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `பாடல் #924 இல் உள்ளபடி திருவம்பலச் சக்கரம் வரைந்து அதனைச் சுற்றி வெளிப்புற வட்டத்தில் ஹர ஹர என்று தொடர்ச்சியாக எழுதி அதற்கு அடுத்த நடு வட்டத்தில் ஹரி ஹரி என்று தொடர்ச்சியாக எழுதி அதற்கு அடுத்த உள் வட்டத்தில் அம் சம் எனும் மந்திரத்தின் பீஜங்களான ஹம்ஸ ஸொஹம் என்ற எழுத்துக்களை தொடர்ச்சியாக எழுதி அதற்குள் வட்டமாக ஓம் எனும் எழுத்தை எழுதினால் வருவது திருவம்பலச் சக்கரத்தின் சூலமாகும். குறிப்பு: இந்த திருவம்பலச் சக்கரத்தின் தொடர்ச்சி அடுத்தப் பாடலிலும் தொடரும்.`,
   },
   {
@@ -941,6 +964,7 @@ Write Letters Five
 In the space betwixt trident signs;
 The Chakra thus formed,
 Indeed, is Lord's Abode.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-926-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `பாடல் #925 இல் உள்ளபடி திருவம்பலச் சக்கரத்தின் நடுவில் அமைந்த சூலத்தின் நான்கு புறங்களின் தலைப்பகுதியிலும் சக்தி மந்திரத்தின் பீஜமான ஹ்ரீம் என்ற எழுத்தை எழுதி அதைச் சுற்றி இருக்கும் ஓம் என்ற எழுத்துக்குள்ளிருக்கும் சூலங்களுக்கு நடுவில் இருக்கின்ற கட்டத்தின் மேல் ஐந்து பூதங்களைக் குறிக்கும் அ, இ, உ, எ, ஒ ஆகிய ஐந்து எழுத்துக்களை எழுதி அமைக்கப்படும் திருவம்பலச் சக்கரமே அனைத்திற்கும் தலைவனாகிய இறைவன் வீற்றிருக்கும் இடமாகும். குறிப்பு: இந்த திருவம்பலச் சக்கரத்தின் தொடர்ச்சி அடுத்தப் பாடலிலும் தொடரும்…`,
   },
   {
@@ -961,6 +985,7 @@ Inscribe the Letters Five,
 A, E, U, AE and O
 That denote the Five Letters
 Si, Va, Ya, Na, Ma.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-927-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `பாடல் #926 இல் உள்ளபடி திருவம்பலச் சக்கரத்திற்குள் இருக்கும் சூலங்களுக்கு இடைப்பட்ட கட்டத்தின் மேல் எழுதப்படுகின்ற அ, இ, உ, எ, ஒ என்கிற ஐந்து எழுத்துக்களும் இறைவனுடைய பெயராக விளங்குகின்றது. குறிப்பு: இந்த திருவம்பலச் சக்கரத்தின் தொடர்ச்சி அடுத்தப் பாடலிலும் தொடரும்…`,
   },
   {
@@ -998,6 +1023,7 @@ Anterior to chanting this mantra
 Were the seed-mantras that pertains
 To Wind, Water, Fire, Earth and Sky
 Yam, Vam, Ram, Lam, and Ham.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-929-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationEnglish: `Mular connects the pancakshara with the five elements and their corresponding bija mantras in Tantrism. (These latter are nasalised forms of the letters Y, R, L, V and Ha.)`,
     elaborationTamil: `திருவம்பலச் சக்கரத்தில் மந்திரங்களை பாடல் #924 முதல் #928 வரை சொல்லியபடி வரையும் வழியையும் பாடல் #916, #917 #918 வரை சொல்லியபடி வழிபட வேண்டிய முறைகளையும் முயற்சி செய்பவர்களுக்கு இறைவன் குருவாக நின்று அவர்களது அறிவு தெளிவு பெறும்படி செய்வான். காற்று, நீர், நெருப்பு, நிலம், ஆகாயம் ஆகிய பஞ்ச பூதங்களின் பீஜ மந்திரங்களாகிய யம், வம், ரம், லம், ஹம் ஆகியவற்றை சக்கரத்தில் வரையப்பட்டுள்ள மந்திரங்களுக்கு முன்பாக சேர்த்து வழிபட வேண்டும். திருவம்பலச் சக்கரத்தில் உள்ள மந்திரங்களுக்கு முன் பஞ்ச பூத பீஜங்களை சேர்க்கும் முறை. நிலம் = லம் யநமவாசி நீர் = வம் வாயநமசி நெருப்பு = ரம் நமசிவாய வாயு = யம் மசிவாயந ஆகாயம் = ஹம் சிவாயநம`,
   },
@@ -1025,6 +1051,7 @@ Thus when you chant the mantra, full formed
 As Sum Sauh Si Va Ya Na Ma,
 The triple Pasas in distress howling
 Takes to their heels, away, away.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-930-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `திருவம்பலச் சக்கரத்தில் உள்ள ஐம்பத்தொரு எழுத்துக்களில் நாற்பத்து எட்டாவதாக உள்ள ‘ஸ’ எழுத்துடன் ஆறாவதாக உள்ள ‘ஊ’ எழுத்தை சேர்த்து ‘ஸூம்’ என்ற பீஜ மந்திரமாகவும், ‘ஸ’ எழுத்துடன் பதினான்காவதாக உள்ள ‘ஒள’ எழுத்தையும் சேர்த்து ‘ஸெள’ என்ற பீஜ மந்திரமாகவும் சேர்த்துக் கொண்டு அதற்கு முன்பு ஒளியும் ஒலியுமாகிய ஓங்கார மந்திரத்தையும் அதற்கு பின்பு ‘சிவாயநம’ மந்திரத்தையும் சேர்த்து ‘ஓம் ஸூம் ஸெள சிவாயநம’ என்று உச்சரித்தால் ஆணவம், கன்மம், மாயை ஆகிய மூன்று மலங்களும் தனித்தனியாகப் பிரிந்து சென்றுவிடும்.`,
   },
   {
@@ -1042,6 +1069,7 @@ The Lord is seated in His Consort's Letter (Sauh)
 The Lady is seated in Her Lord's Letter (Hum)
 When thus the Two are in amity seated
 The holy beings comrehend the meaning inner.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-931-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `நமசிவாய மந்திரத்தில் இறைவியைக் குறிக்கும் ‘வ’ எழுத்துக்குள் இறைவனும் அடங்கியிருக்கிறான். அது போலவே இறைவனைக் குறிக்கும் ‘சி’ எழுத்துக்குள் இறைவியும் அடங்கியிருக்கிறாள். பாடல் #930 இல் உள்ளபடி திருவம்பலச் சக்கரம் வரைந்து மந்திரத்தை செபிக்கும் சாதகர்கள் திருவம்பலச் சக்கரத்தில் இருக்கும் இறைவனும் இறைவியும் ‘சிவ’ மற்றும் ‘வசி’ எனும் மந்திர எழுத்துக்களில் சேர்ந்து இருப்பதை அறிவார்கள். குறிப்பு: திருவம்பலச் சக்கரத்தை முறைப்படி தியானிக்கும் சாதகர்களே புண்ணியவாளர்கள் ஆவார்கள்.`,
   },
   {
@@ -1063,6 +1091,7 @@ Center your mind on it
 And course your breath above,
 You shalt vision indeed
 The Dance of Divine Light.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-932-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `அடிப் பகுதியில் இறைவனைக் குறிக்கும் ‘அ’ எழுத்தை பீடமாக வைத்து எழுதி நடுப் பகுதியில் சிவசக்தியை குறிக்கும் ‘ஹர’ எழுத்துக்களை எழுதி மேல் பகுதியில் இறைவியைக் குறிக்கும் ‘இ’ எழுத்தை எழுதினால் வரும் வடிவம் இலிங்க சொரூபமாகும். அந்த லிங்க உருவத்தோடு உயிர்களைக் குறிக்கும் ‘ம’ எழுத்தையும் சேர்த்து மூச்சுக்காற்றோடு தியானித்தால் இறைவனின் திருநடனத்தை இசையோடு சுடர் விட்டு எரியும் ஒளி உருவமாக காணலாம். குறிப்பு: பாடல் #765 இல் அகார உகார மகார எழுத்துக்களின் விளக்கத்தை காணலாம். பாடல் #931 இல் உள்ளபடி இறைவனும் இறைவியும் சேர்ந்திருக்கும் ‘சிவ’ ‘வசி’ எழுத்துக்களுக்கு நடுவில் ஆன்மாவை குறிக்கும் மகாராமாகிய ‘ய’ எழுத்தை சேர்த்து சிவயவசி எனும் மந்திரமாக தியானிக்க வேண்டும்.`,
   },
   {
@@ -1084,6 +1113,7 @@ None knows;
 They who know this union mystery
 Are indeed blessed
 Of both, Sakti and Sadasiva.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-933-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `பாடல் #931 இல் உள்ளபடி ‘சி’ என்ற எழுத்தின் அட்சரமான ‘ச’ எழுத்தில் அடங்கியிருக்கும் சக்தியும் ‘வ’ என்ற எழுத்தின் அட்சரமான ‘அ’ எழுத்தில் அடங்கியிருக்கும் சிவமும் ஒன்றாக சேர்ந்த சிவசக்திக்குள் அண்டசராசரங்கள் அனைத்தும் அடங்கியிருப்பதை யாரும் அறியவில்லை. பாடல் #932 இல் உள்ளபடி தியானித்து இதை அறிந்து கொண்ட சாதகர்கள் இரண்டாக பிரிந்து இருக்கும் சிவசக்தியானது ஒன்றான சதாசிவமூர்த்தியாகவே இருப்பதை உணர்ந்து கொள்வார்கள். குறிப்பு: பாடல் #931 இல் உள்ள குறிப்பின்படி ‘சிவயவசி’ என்று இறைவனுக்கும் இறைவிக்கும் நடுவில் ஆன்மாவை வைத்து தியானிக்கும் சாதகர்கள் இறைவன் இறைவி என்று இரண்டாகப் பார்த்த பொருள் ஒன்றான சதாசிவம் என்பதை உணர்ந்து கொள்வார்கள்.`,
   },
   {
@@ -1101,6 +1131,7 @@ Letter-Five is seat of Nandi
 Letter-Five is Holy Mantra
 Letter-Five is Divine Chakra
 Letter-Five is Lord's abode.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-934-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationEnglish: `Letter-Five is Divine Chakra Letter-Five is Lord’s abode. ~`,
     elaborationTamil: `திருவம்பலச் சக்கரத்தில் உள்ள நமசிவாய என்னும் மந்திரத்தை எண்ணி தியானித்தால் உள்ளுக்குள் இருந்து இறைவனே குருவாக வந்து வழி காட்டுவார். குருவாக அமர்ந்த இறைவனின் வழிகாட்டுதலின் படி நமசிவாய மந்திரத்தின் ஐந்து அட்சரங்களான அ, இ, உ, எ, ஒ என்கிற எழுத்துக்கள் இறைவனின் வடிவமாகவே இருப்பதை உணர்ந்து திருவம்பலச் சக்கரத்தில் அமைந்திருக்கும் இந்த ஐந்து அட்சரங்களும் சதாசிவமூர்த்தியாகவே இருப்பதை அறிந்து கொள்ளலாம்.`,
   },
@@ -1120,6 +1151,7 @@ Many are the ways;
 Chant first Letter of Dance (Si),
 Thou with Dancer will one in thought be;
 That the way to see the Dancer truly.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-935-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationEnglish: `Even the chanting of the first letter of Sivayanama is enough to enable the devotee to envision the Dancer.`,
     elaborationTamil: `திருவம்பலச் சக்கரத்தில் திருநடனமாடும் இறைவனைக் கண்டு அடைய வழிகள் பல இருக்கிறது என்று பேசினாலும் இறைவனின் வடிவமாக இருக்கும் நமசிவாய மந்திரத்தின் முதலெழுத்தான ‘ந’ அல்லது அதன் அட்சரமான ‘அ’ என்ற எழுத்தை செபித்தால் இறைவனாகிய அந்த எழுத்தோடு ஒன்றாக சேர்ந்து நிற்பார்கள். இதுவே திருவம்பலச் சக்கரத்தில் திருநடனமாடும் இறைவனைக் கண்டு அடையும் வழியாகும். குறிப்பு: ‘ந’ அல்லது ‘அ’ என்ற முதலெழுத்தை ஒலியலை சிறிதும் மாறாமல் தொடர்ந்து உச்சரித்து செபிக்க வேண்டும்.`,
   },
@@ -1138,6 +1170,7 @@ Kindle the Fire (Kundalini) where it dormant lies
 Chant letter "OM" that in Kundalini is,
 The Lord of Vedas stands in there
 You His friend in there become.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-936-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `பாடல் #935 இல் உள்ளபடி நமசிவாய மந்திரத்தின் முதலெழுத்தாகிய ‘ந’ எழுத்தை செபித்து திருவம்பலச் சக்கரத்தின் நான்கு திசையிலும் உள்ள சூலத்தின் அக்கினியை எழுப்பும் சாதகர்கள் நான்கு திசைகளுக்குள்ளும் மறைந்து நிற்கின்ற இறைவனோடு தாமும் கலந்து நின்று திருவம்பலச் சக்கரத்தை தமக்குள் உணர்வார்கள்.`,
   },
   {
@@ -1158,6 +1191,7 @@ High above in Sahasrara places thee;
 There do you chant Her syllable "Ma"
 You shall indeed be placed
 As unto a gem of ray serene.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-937-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `பாடல் #936 இல் உள்ளபடி திருவம்பலச் சக்கரத்தை தமக்குள் உணர்ந்தபின் அதிலிருந்து வெளிவரும் சக்தியை தமக்குள் உணர்ந்து கொண்டே இருந்தால் சக்கரத்திலிருந்து வரும் சக்திமயம் சாதகரின் உடலைச் சுற்றி உறைபோல் மூடிக்கொள்ளும். அதன் பிறகு ‘நமசிவாய’ மந்திரத்தின் இரண்டாவது எழுத்தாகிய ‘ம’ எழுத்தை செபித்தால் சாதகரின் சதையால் ஆன உடலும் மாணிக்கக் கல்லைப் போல ஒளிவிட்டுப் பிரகாசிக்கும்.`,
   },
   {
@@ -1177,6 +1211,7 @@ And the Lord revealed His letter "Si"
 Sparkling as rays within gem pure,
 It beamed aloft for all to see
 Unto a light set on mountain top.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-938-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `பாடல் #937 இல் உள்ளபடி சாதகரின் உடலிலிருந்து பிரகாசிக்கும் ஒளி கீழிருந்து மேல் நோக்கி எழும் சுடர் போல உணர்ந்தால் தமது உடலில் இருக்கும் பஞ்ச பூதங்களுக்கும் தலைவனாக இருப்பதை உணர்வார்கள். அதன்பிறகு நமசிவாய மந்திரத்தின் மூன்றாவது எழுத்தாகிய ‘சி’ எழுத்தை செபித்தால் சாதகரின் உடலிலிருந்து பிரகாசிக்கும் ஒளியாகத் தாமே இருப்பதை இறைவன் காட்டி நிற்பான்.`,
   },
   {
@@ -1195,6 +1230,7 @@ Himself He stands as the Vedas Self-Existent,
 Chant His uplifting attributes
 Himself He reveals,
 The Sage Unborn of Vedas.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-939-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `பாடல் #938 இல் உள்ளபடி சாதகருக்குள் ஒளியாக தன்னை காட்டி நின்ற இறைவன் குளிர்ந்த சுடர் ஒளியாக நிற்பதையும் அந்த இறைவனே வேதங்களின் பொருளாகவும் அதில் கூறியுள்ள பலவித குணங்களாகவும் தமக்குள் நிற்பதை உணர்ந்து பாடல் #936 #937 #938 இல் உள்ளபடி ’ந’ ’ம’ ’சி’ எழுத்தை செபித்துக்கொண்டே இருந்தால் தனக்குள் மட்டுமில்லாமல் தனக்கு வெளியில் இருக்கும் அனைத்திலும் மறைந்து நிற்பது இறைவனின் தன்மையே என்பதை சாதகர் அறிந்து கொள்வார்.`,
   },
   {
@@ -1212,6 +1248,7 @@ He, Lord of Vedas, gave us this birth,
 That we might the Lord of Vedas become;
 The Lord of Vedas stood within Letter-Five;
 The Lord of Vedas is Himself Letter-Five.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-940-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `உயிர்கள் இறைவனின் தன்மையை தமக்குள் உணர்ந்து கொள்ள மனிதப் பிறவியை பெற்றுள்ளன. அதனை அறிந்து அனைத்து உயிர்களையும் இறைவனாகப் பார்த்து உணர்பவர்கள் ஐந்தெழுத்தான ‘நமசிவாய’ என்னும் மந்திரத்தில் மறைவாக இருக்கும் பரம்பொருளை உள்ளத்தில் வைத்து தியானிக்க அவர்களும் இறைவனாகும் பேறு பெற்று ‘நமசிவாய’ ஐந்தெழுத்து மந்திரத்தை தாமாகவே உணர்வார்கள்.`,
   },
   {
@@ -1231,6 +1268,7 @@ His shoulders are Letter "Si"
 His mouth Letter "Va"
 His cranial center aloft is Letter "Ya"
 --Thus Five-Letter Form of Siva is.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/10/Song-941-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `திருவம்பலச் சக்கரத்தில் ஆடுகின்ற இறைவனுக்கு பாதமாக ‘ந’ எழுத்து திருவடியாய் நிற்கும். நாபியாக (தொப்புள்) ‘ம’ எழுத்து நிற்கும். ‘சி’ எழுத்து இருதோள்களாக நிற்கும். ‘வ’ எழுத்து வாயாக நிற்கும். இறைவன் தமக்குள் எழுத்து வடிவாக நிற்பதை கண்டு உணர்ந்த சாதகரின் உயிர் ஒளி மயமாகி இறைவனின் திருவைந்தெழுத்தின் இயல்பை அடைந்து அதன் கடைசி எழுத்தாகிய ‘ய’ எழுத்தாக அவர்களின் ஆன்மா நிற்கும்.`,
   },
   {
@@ -1248,6 +1286,7 @@ Of greatness thus are Letters two and three,
 And in it as His Radiant Form Nandi shone;
 See Him as Letter "OM"
 Wide He spreads unto Ocean Vast.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/10/Song-942-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `பாடல் #941 இல் உள்ளபடி இறைவனின் திருவைந்தெழுத்தின் இயல்பை அடைந்த சாதகர்கள் அதனுடன் ஓங்காரம் சேர்த்து ‘ஓம் நமசிவாய’ எனும் மந்திரத்தின் அனைத்து இயல்புகளையும் அடைவதற்கு அவர்களுக்குள் குருவாக இருக்கும் இறைவன் சிறப்பான வழிகாட்டுவார். அப்படி சிறப்பான நிலையை அடைந்த பிறகு சாதகர்கள் தங்களின் ஆன்மாவின் ஒளி வழியாக இறைவனின் பேரொளியைப் பார்த்து மனம் ஒன்றி இருந்தால் அவர்களுக்குள் ஆன்ம ஒளியாக இருக்கும் இறைவனே அண்ட சராசரங்கள் எங்கும் பேரொளி ஜோதியாக பரவி நிற்கின்றான் என்பதை உணர்ந்து கொள்வார்கள்.`,
   },
   {
@@ -1267,6 +1306,7 @@ Do you chant it appropriate,
 All hostility that harasses you shall flee;
 It is the Mantra that makes you mighty and strong;
 That Mantra do you invoke chanting OM.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/10/Song-943-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `’ஓம்’ எனும் பிரணவ மந்திரம் அனைத்து உயிர்களுக்குள்ளும் இயங்கிக் கொண்டே இருக்கின்றது. எதையும் கொடுக்கும் வல்லமை பொருந்திய இந்த மந்திரத்தை முறைப்படி குரு உபதேசித்து பெற்று தம்மை பகைவர்கள் போல் சூழ்ந்திருக்கும் வினையால் உருவாகும் இன்ப துன்பங்கள் அனைத்தும் போகும்படி அந்த பிரணவ மந்திரத்தை உச்சரித்துக் கொண்டே இருக்க வேண்டும். கருத்து: உயிர்களுக்குள் மூச்சுக்காற்றாக ஓடிக்கொண்டிருக்கும் ஓம் என்னும் பிரணவ மந்திரத்துடன் குருநாதரின் உபதேசம் பெற்ற மந்திரத்தையும் சேர்த்து செபித்து கொண்டே இருந்தால் வினைகளால் உருவாகும் இன்ப துன்பங்கள் அனைத்தும் சென்றுவிடும்.`,
   },
   {
@@ -1327,6 +1367,7 @@ Further on place the letters in order thus:
 Ma Va Ya Na Si; Si Ya Na Ma Va;
 And Va Si Ma Ya Na
 Thus do the Five Letters in Chakra permuted stand.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/10/Song-946-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `‘சிவயநம’ என்ற ஐந்தெழுத்து மந்திரத்தில் ‘சிவ’ இறைவியையும் ‘நம’ இறைவனையும் ‘ய’ ஆன்மாவையும் குறிக்கும். இந்த ‘ய’ எழுத்தை முதலாகக் கொண்டு ய ந வ சி ம ம வ ய ந சி சி ய ந ம வ வ சி ம ய ந சி வ ய ந ம என்ற முறையில் வரைய வேண்டும். இதன் தொடர்ச்சி அடுத்த பாடலிலும் உள்ளது.`,
   },
   {
@@ -1371,6 +1412,7 @@ He, Master of comely Maya Land;
 And from Nandi flowed Milk of Grace
 As from mother-cow unto calf;
 Nandi, who stands high aloft Mount Kailas.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/10/Song-948-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationEnglish: `The word ‘chakra’ stands for ‘ta circle used in a variety of senses. In rituals, there are different chakra - sadhanas in which male and female aspirants assemble and perform the rites of Pancamakara..... According to the Niruttara-tantra, chakras are of five types, - Raja, Maha, Deva, Vira, and Pasu. The term chakra is also. used to denote yantras or diagrams and variously known as and so forth. Again, the term is used to denote different nerve - plexuses within the body’’. (N.N. Bhattacharyya, ‘‘History of the Tantric Religion’. p.419).`,
     elaborationTamil: `பாடல் #947 இல் உள்ளபடி பஞ்சபூதங்களுடன் அமைக்கப்பட்ட சக்கரத்தைப் போலவே சாதகரின் உடலில் இருக்கும் பஞ்ச பூதங்களும் இறைவன் ஆடுகின்ற மன்றங்களாகவும் சாதகரின் ஆன்மா இறைவனோடு இணைந்து இருக்கின்றது. ஆனால் மாயையால் இறைவனோடு கலந்திருக்கின்றோம் என்பதை அறியாமல் தனித்திருப்பதைப் போன்ற பிரம்மையிலும் இருக்கின்றது. இந்த சக்கரத்தை முறைப்படி செபிக்கும் சாதகர்களின் ஆன்மா கன்றாக இருந்து பசுவாக இருக்கும் இறைவனிடம் ஞானப்பாலை அருந்துகின்றது. அதன் பிறகு சாதகரின் தலை உச்சியில் இருக்கும் சகஸ்ரதளத்தில் இறைவன் ஜோதி உருவமாக தரிசனம் கொடுத்து சாதகரின் ஆன்மாவும் தாமும் ஒன்றே எனும் கொள்கையை உணர வைப்பார்.`,
   },
@@ -1389,6 +1431,7 @@ Within this Chakra is much good that comes
 Within this Chakra are Names Five
 This Chakra is Letter-Five of Dancer Divine
 This Chakra is where Dance Divine incessant goes on.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/10/Song-949-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `பாடல் #946 இல் உள்ள முறைப்படி வரையப்பட்ட சக்கரத்திற்குள் பாடல் #929 இல் உள்ளபடி பஞ்சபூதங்களின் குறிகளும் அதன் குணங்களும் இருக்கின்றது. இந்த சக்கரத்திலுள்ள ‘சிவயநம’ எனும் ஐந்தெழுத்து மந்திரமாக இருக்கும் இறைவன் இச்சக்கரத்துள்ளே ஆனந்த நடனம் புரிகின்றான். குறிப்பு: பஞ்ச பூதங்களின் குறிகளும் அதன் குணங்களும்: நிலம் = சதுரம் – வாசனை (முகர்வது) நீர் = பிறைவட்டம் – சுவை (கிரகித்தல்) நெருப்பு = முக்கோணம் – ஒளி (வெளிச்சம்) வாயு = அறுகோணம் – ஸ்பரிசம் (தொடுதல்) ஆகாயம் = வட்டம் – ஒலி (சத்தம்)`,
   },
   {
@@ -1410,6 +1453,7 @@ On its "leg" place Bindu letter "Si"
 On its "horn" place Nada letter "Va"
 This the Siva Mantra,
 You clear shall know.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/10/Song-950-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `இடமிருந்து வலமாக ஒரு நேர் கோடு வரைந்து அதன் தலையில் ஒரு சுழி வட்டம் வரைந்து அந்த வட்டத்தையும் கோட்டையும் இணைக்கும் படி ஒரு வளைந்த கொம்பு வரைந்தால் ‘உ’ எனும் எழுத்து வரும். இந்த ‘உ’ எழுத்தின் வடிவத்தை மனதிற்குள் வைத்து தியானித்தால் அந்த எழுத்தைச் சுற்றியிருக்கும் அக்னியில் இருந்து ஒளியும் ஒலியும் வெளிப்படுவதை உணரலாம். இந்த ஒளி ஒலியின் பொருளை உணர்ந்தால் கிடைக்கும் பிராசாதம் சிவமந்திரமாகும்.`,
   },
   {
@@ -1435,6 +1479,7 @@ And "Si" and rest in order following,
 As you thus chant,
 The Primal Lord of "Om" appears,
 Rejoicing.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/10/Song-951-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `‘அ’ ‘உ’ எழுத்துக்கள் அடங்கியுள்ள ‘ஓம்’ எழுத்தோடு ‘சி’ நடுவாக இருக்கும் ‘நமசிவய’ எழுத்தையும் சேர்த்து ‘ஓம் நமசிவய’ எனும் மந்திரத்தையும், ‘வ’ முதலாக இருக்கும் ‘வசியநம’ சேர்த்து ‘ஓம் வசியநம’ எனும் மந்திரத்தையும், ‘சி’ முதலாக இருக்கும் ‘சிவயநம’ சேர்த்து ‘ஓம் சிவயநம’ எனும் மந்திரத்தையும் மானசீகமாக வெளியில் இருக்கும் காற்றோடு சேர்த்து செபித்துக் கொண்டே இறைவன் மேல் சிந்தனையை வைத்திருந்தால் ஓங்காரத்தின் முதல்வனாகிய இறைவன் சாதகருக்குள் அன்போடு எழுந்தருளுவான்.`,
   },
   {
@@ -1457,6 +1502,7 @@ He is Light Divine,
 He is Whole Truth,
 He is the Alchemic pill,
 Of flawless gold.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/10/Song-952-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationEnglish: `He .is the Alchemic pill, Of flawless gold.`,
     elaborationTamil: `பாடல் #951 இல் உள்ளபடி சாதகருக்குள் அன்போடு எழுந்தருளிய இறைவனை ‘அ’ வடிவில் உணரலாம். ‘அ’ வடிவிற்குள் இருக்கும் மும்மலங்களும் நீங்கிய செழுமையான சுடர் போன்ற உண்மை பொருளை கண்டால் அது மாசில்லாத தூய்மையான தங்கத்தை போல் இருக்கும்.`,
   },
@@ -1516,6 +1562,7 @@ And be in the center within of the Garland of Letters;
 When in the Center of that garland
 The Primal Mantra AUM, Vedas speak of appears,
 Then is Mukti, sure indeed.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/10/Song-955-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `பாடல் #954 இல் உள்ளபடி தமது உடலுக்கு நடுவில் இருக்கும் ஓங்கார எழுத்தை உணர்ந்த சாதகர்கள் தினமும் காலையிலும் மாலையிலும் அதைத் தியானித்தால் அதிலிருந்து ஐம்பது அட்சரங்களும் (பாடல் #924 இல் உள்ளபடி) வெளிப்படுவதை உணரலாம். இந்த ஐம்பது அட்சரங்களுடன் ஓங்கார எழுத்தைச் சேர்த்து மொத்தம் ஐம்பத்தோரு அட்சரங்களின் பரிபூரண உச்ச நிலையை சாதகர்கள் தியானத்தின் மூலம் அடைந்தால் வேதம் சொல்லுகின்ற மூலப் பொருளாகிய இறைவன் அவர்களுக்கு முக்தியை அருளுவான்.`,
   },
   {
@@ -1533,6 +1580,7 @@ Below the navel is a goodly Letter,
 The unholy its greatness know not;
 Even the Creator (Brahma) knows it not,
 There it is Siva with Sakti, in splendour fullsome all.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/10/Song-956-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `தொப்புளுக்கு கீழே இருக்கும் மூலாதாரத்தில் ஓம் என்னும் நன்மை தரும் பிரணவ எழுத்து ஒன்று உள்ளது. தீவினையாளர்கள் அந்த பிரணவ எழுத்தின் பயன்களை அறியாமல் இருக்கின்றார்கள். ஓம் பிரணவ எழுத்தின் பொருளை பிரம்மன் முதலான தேவர்களும் கூட அறிந்து கொள்ள முடியாது. ஓம் என்னும் அந்த எழுத்தில் இறைவியோடு தானும் சேர்ந்து இறைவனும் இருக்கின்றான்.`,
   },
   {
@@ -1550,6 +1598,7 @@ avvoṭu cavvum aṉātiyum āmē`,
 But none know the truth of Hamsa;
 When that truth any one knows
 He shall know Hamsa as beginningless.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/10/Song-957-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `‘ஔ’ ‘சௌ’ என்ற எழுத்துக்கள் இறைவன் இருக்கின்ற மந்திரமாகும். இவை இரண்டையும் சேர்த்து உச்சரித்தால் ‘ஹௌ’ எழுத்தாகி அதன் உச்சரிப்பால் ‘ஹ’ என்றும் அதனோடு ‘ம்’ என்ற எழுத்தை சேர்த்து உச்சரித்தால் ‘ஹம்’ என்ற மந்திரமாக மாறிவிடும். அதன்படியே ‘செள’ எழுத்தோடு ‘ம்’ என்ற எழுத்தை சேர்த்து உச்சரித்தால் ‘செளம்’ என்ற மந்திரமாக மாறிவிடும். இந்த இரண்டு மந்திரங்களையும் சேர்த்தால் ‘அம்சம்’ எனும் மந்திரமாக இருக்கும். இந்த மந்திரத்தின் அருமையை யாரும் அறியவில்லை. இந்த மந்திரத்தின் அருமையை அறிந்தவர்கள் அந்த மந்திரத்தில் மூலப் பரம்பொருளாகிய சதாசிவமூர்த்தி இருப்பதை அறியலாம்.`,
   },
   {
@@ -1569,6 +1618,7 @@ It roots lie deep in the navel;
 They who know it not, come by it not;
 They but prayed at sunset
 And with loud noise departed.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/10/Song-958-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `பாடல் #957 இல் உள்ள ‘ஹம்சம்’ மந்திரம் பாடல் #925 இல் உள்ளபடி திருவம்பலச் சக்கரத்தின் நடுவில் இருக்கிறது. இந்த மந்திரத்தை சாதகம் செய்து அதன் சக்தியை அறியாமல் இருக்கின்றார்கள். அதன் சக்தியை அறிந்தவர்களும் வெறுமனே காலையிலும் மாலையிலும் உரக்க செபித்துவிட்டு மந்திரத்தின் பரிபூரண நிலையை அறியாமலேயே சென்றுவிடுகிறார்கள்.`,
   },
   
@@ -1591,6 +1641,7 @@ When constant chanted,
 That Mantra in life's center
 Is verily unto a mahout's goad,
 That elephantine passions control.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/10/Song-959-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `பாடல் #957 இல் உள்ள ‘ஹம்சம்’ மந்திரத்தை மனதிற்குள் செபித்து அதன் அதிர்வலைகளை மானசீகமாக அனைத்து திசைகளும் பெறும்படி அனுப்ப வேண்டும். அப்படி செய்தால் அந்த மந்திரம் உயிருக்குள் மரத்தின் வேர் போல ஆதாரமாக நிற்கும். இந்த மந்திரத்தை நெஞ்சத் தாமரைக்குள் பதித்து மனதில் சலனங்கள் இன்றி தியானித்தால் உயிருக்குள் இருக்கும் மந்திரம் மதம் பிடித்த யானையைக் கட்டுப்படுத்தும் அங்குசம் போல மனதையும் எண்ணங்களையும் கட்டுப்படுத்தி இறைவனை நோக்கி வழிநடத்திச் செல்லும். குறிப்பு: ‘ஹம்சம்’ மந்திரத்தை ஆத்மார்த்தமாக மனதிற்குள் பதித்து எந்தவித சலனமும் இன்றி தியானித்து அதன் அதிர்வலைகளை நான்கு திசைகளுக்கும் சென்று பரவும்படி செய்து வந்தால் அந்த மந்திரம் உயிருக்குள் வேர் போல ஊன்றி நின்று நம்மை இறைவனை நோக்கி செல்லும் பாதையை விட்டு விலகாமல் கட்டுப் படுத்தி வைக்கும்.`,
   },
 {
@@ -1649,6 +1700,7 @@ They who chant not the Six-Lettered Mantra
 Are they who know not;
 Even they who chant with other letter none,
 May with One-Letter (AUM) redeemed be.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/10/Song-962-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `பாடல் #961 இல் உள்ளபடி சாதகருக்குள் வேள்வியாக இருக்கும் ‘ஓம் நமசிவாய’ எனும் ஆறெழுத்து மந்திரத்தை செபிக்கும் முறை அறிந்தவர்கள் கூட அந்த ஆறு எழுத்துக்களும் ஒரு எழுத்திலேயே அடங்கியிருப்பதை அறிந்து அதை ஓதி உணராமல் இருக்கின்றார்கள். இந்த ஆறெழுத்துக்களும் அடங்கியிருக்கும் ‘ஓம்’ எனும் ஓரெழுத்தை மட்டும் வேறு எழுத்துக்கள் எதுவும் துணையின்றி ஓதி உணரக்கூடியவர்களுக்கு அந்த ஓரெழுத்தே உயிருக்குள் இருக்கும் இறைவனை உணர வைக்கும். குறிப்பு: ‘ஓம் நமசிவாய’ என்னும் ஆறெழுத்து மந்திரத்தை பல கோடி முறை செபிக்கும் சாதகர்கள் அந்த ஆறெழுத்து மந்திரத்தை ஒரேழுத்து மந்திரமாக உணர்வார்கள்.`,
   },
   {
@@ -1731,6 +1783,7 @@ With Five letters He created elements five;
 With Five letters He created diverse life;
 With Five letters He supported spaces vast,
 With Five letters He in Jivas abides.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/10/Song-966-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `பாடல் #965 இல் உள்ளபடி திருவம்பலச் சக்கரத்தில் உணர்ந்த ஐந்தெழுத்து ‘நமசிவாய’ எனும் மந்திரத்தின் மூலம் நிலம் நீர் நெருப்பு காற்று ஆகாயம் ஆகிய ஐம்பூதங்களையும் இறைவன் படைத்தான். இந்த பஞ்ச பூதங்களையும் ஆதார சக்தியாக வைத்து பல அண்ட சராசரங்களையும் இறைவன் படைத்தான். ஐந்தெழுத்து மந்திரத்தின் மூலம் படைத்த அண்ட சராசரங்கள் அனைத்தையும் காக்கின்றான் இறைவன். ஐந்தெழுத்து மந்திரத்தின் மூலம் படைத்துக் காத்த அனைத்துமே தாமே என்பதை காட்டி நின்றான்.`,
   },
   {
@@ -1770,6 +1823,7 @@ He is Song too;
 The Celestials adore Him fervent;
 In their thoughts He stood;
 In Five Letters He stood.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/10/Song-968-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `திருவம்பலச் சக்கரத்தை முறையாக சாதகம் செய்யும் சாதகர்கள் உண்ணும் அமிர்தமாகவும் அவர்கள் வாழும் அழிவில்லாத காலமாகவும் இசைக்கின்ற இசையாகவும், அதிலிருக்கும் கேள்வியாகவும் பாடுகின்ற பாடல்களாகவும் வாணுலகத் தேவர்களும் விரும்பி தொழுகின்ற திருவடிகளாகவும் எண்ணிலடங்காத எழுத்துக்களின் மூலமாகவும் இருப்பது ஐந்து எழுத்து ‘நமசிவாய’ எனும் மந்திரமே ஆகும்.`,
   },
   {
@@ -1823,6 +1877,7 @@ In the sound of Fourth Letter (Va) world takes form,
 In the sound of Fourth Letter is World contained,
 For them who chant Fourth Letter incessant,
 The Fourth Letter is Way Holy.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/11/Song-971-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationEnglish: `In the mantra. Na Ma Si Va Ya (Panchakshara), the fourth letter is Va, denoting Sakti.`,
     elaborationTamil: `‘நமசிவாய’ எனும் மந்திரத்தில் நான்காவது எழுத்தாகிய ‘வா’ எழுத்தின் ஒலி வடிவமாகவே இந்த உலகம் இருக்கின்றது. ‘வா’ எழுத்திற்குள் உலகம் அனைத்தும் அடங்கியிருக்கின்றது. இந்த ‘வா’ எழுத்தின் முழுப்பொருளை அறிந்து உணரக் கூடியவர்களுக்கு அதுவே ஆதாரமாய் நின்று மேன்மையான நல்நெறியினை கொடுக்கும்.`,
   },
@@ -1863,6 +1918,7 @@ Offer it into the fire of Om
 Chant incessant Na Ma Si Va
 That the name of Sakti Finite is;
 She, Mistress of Dharma, stands revealed.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/11/Song-973-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `உயிர்கள் வாழ உதவும் உணவு தானியங்களாகவும் அதை பக்குவமாக சமைத்த உணவின் சுவையாகவும் இருந்து அந்த உணவை வயிற்றில் செரிக்க வைக்கின்ற நெருப்பாகவும் இருக்கும் சிவசக்தின் பெயர் ‘நமசிவ’ ஆகும். இந்த மந்திரத்தை எப்போதும் தியானித்துக் கொண்டே இருப்பவர்களுக்கு தியானத்தின் பலனைத் தரும் தலைவி வெளிப்பட்டு துணையாக நிற்பாள்.`,
   },
   {
@@ -1880,6 +1936,7 @@ Letters Five are Lord's gift,
 In it, central He dances, night and day,
 In endearment eternal;
 He that assumed, Forms Eight.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/11/Song-974-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationEnglish: `Five elements plus the sun, moon and jiva are the eight forms of Siva, or Siva is pervasive in the eight directions.`,
     elaborationTamil: `பாடல் #973 இல் உள்ளபடி தியானத்தின் பயனால் பரிசாகக் கிடைத்த தலைவி வழிகாட்டும் தலைவனுக்கு உரிய மந்திரம் ‘நமசிவாய’ மந்திரமாகும். இந்த மந்திரத்தை இறை நினைப்பிலிருந்து சிறிதும் விலகாமல் (கண் இமைக்கும் நேரம் கூட இறைவனை மறக்காமல் இருப்பது) இரவு பகல் எப்போழுதும் உச்சரித்தால் பாடல் #917 இல் உள்ளபடி திருவம்பலச் சக்கரத்தின் நடுவே இருக்கும் ‘சி’ எழுத்தில் நின்று ஆடுகின்ற சிவத்தை பாடல் #936 இல் உள்ளபடி தமக்குள் உணர்ந்து அந்த சிவப் பரம்பொருளே சக்கரத்தின் எட்டுத் திசைகளிலும் சக்தியாக நிற்பதை உணரலாம்.`,
   },
@@ -1921,6 +1978,7 @@ Together with "OM" at beginning of all,
 If you even once chant thus,
 The Lord of "Ma" (Maya)
 Will in your heart be.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/11/Song-976-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `‘சி’ எழுத்தை நடுவில் கொண்டிருக்கும் ‘நமசிவாய’ மந்திரத்தை மூச்சுக்காற்றை உள்ளிழுக்கும் போதும் வெளிவிடும் போதும் மூச்சுக்காற்றோடு சேர்த்து அதற்கு முன்பு ‘ஓம்’ சேர்த்துக் கொண்டு மனதிற்குள் செபித்து வந்தால் இறைவன் சாதகரின் மனதிற்குள் எழுந்தருளுவான். குறிப்பு: மூச்சுக்காற்றை இழுக்கும் போது ‘ஓம்’ என்றும் வெளிவிடும்போது ‘நமசிவாய’ என்றும் செபிக்க வேண்டும்.`,
   },
   {
@@ -2023,6 +2081,7 @@ Along with "Si", "Va" and "Ya" (That is as Om Sivaya)
 Is verily Siva's Form,
 They who understand "Si", "Va" and "Ya" with "A" and "U"
 Have realised "Om Sivaya" as Mantra great.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/11/Song-981-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `பாடல் #980 இல் உள்ளபடி ‘சிவாயநம’ எனும் மந்திரத்தில் உள்ள ‘சிவாய’ உடன் ‘அவ்’ சேர்த்து ‘சிவாயஅவ்’ என்று அதன் பொருளை தெளிவாக அறிந்து வாயால் உச்சரிக்காமல் உள்ளத்திற்குள் செபித்தால் அந்த மந்திரமே சாதாகரின் உள்ளத்தில் இறைவனின் திரு உருவமாக இருக்கும். அப்படி உள்ளத்திற்குள் மந்திர வடிவாக இறைவன் வீற்றிருந்தபின் மலமாசுகள் அகன்று இறைவனை உணர்ந்த சாதாகர்கள் தாமே மந்திர வடிவான இறைவனாக இருக்கிறார்கள். குறிப்பு: ‘சிவாய அவ்’ என்று பாடலில் இருந்தாலும் இந்த மந்திரத்திற்கான பீஜ மந்திரம் பாடல் #957 இல் உள்ளபடி ‘சிவாய ஔ’ ஆகும்.`,
   },
   {
@@ -2103,6 +2162,7 @@ Seek Nandi in Jnana within,
 The Five wavering senses,
 Your friends become;
 Chant AUM and be doubt-free.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/11/Song-985-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `சாதகர்கள் தேடுகின்ற இறைவனை தமக்குள்ளேயே அறிவு வடிவமாக உணர்ந்து அந்த அறிவைப் பெறுதற்கு அகார உகாரங்களின் கூட்டாகிய ‘ஓம்’ எனும் மந்திரத்தை தியானித்தால் இறைவனே குருவாக நின்று வழிகாட்டுவார். அவரின் வழிகாட்டுதலின் படி இதுவரை தம்மோடு மாறுபட்டுப் போராடி வந்த ஐந்து புலன்களும் தம் வயப்பட்டு துணைசெய்து நிற்கும். ஐந்து புலன்களையும் தம் வயப்படுத்த தேடிக்கொண்டிருந்த வழியை இவ்வாறு தெளிவாக அறிந்து கொள்ளுங்கள்.`,
   },
   {
@@ -2120,6 +2180,7 @@ They know not well Letter Eight (“A”) and Two (“U”)*
 They the ignorant ones, know not what “Eight” (“A”) and Two (“U”) are;
 Eight and Two (AUM) are but Nine;*
 That verily is truth of Siddhanta Jnana.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/11/Song-986-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationEnglish: `In Tamil, the numeral, eight, is written as the letter, *’ (A); and the numeral, two, is written as the letter, ‘’ (U). Hence the play on the words ‘eight’ and ‘two.’The illiterates are generally referred to as those who cannot count eight and two.`,
     elaborationTamil: `எட்டு என்பது அகராமாகிய சிவம். இரண்டு என்பது உகாரமாகிய சக்தி. இருமூன்றும் நான்கும் சேர்ந்த பத்து என்பது யகாரமாகிய உயிர். குறிப்பு மொழியால் உணர்த்தப்பட்ட இப்பொருள்களை அனுபவமாக உணராதவர்கள் ‘அ, உ, ய’ எனும் எழுத்துக்களை அறியத் தொடங்கும் தொடக்க அறிவுகூட இல்லாதவரேயாவர். சாதகர்கள் இந்த எழுத்துக்களின் உட்பொருளை உணர்வதன் மூலம் தன்னை அறிந்து சதாசிவத்தை அடையும் உபாயத்தை உணர்த்துவதே இந்த ஞானப் பாதையாகும்.`,
   },
@@ -2141,6 +2202,7 @@ Place Lord's Letter-Six--Om Na Ma Si Va Ya,
 In forty and eight squares that remains,
 The Sacred Letters distribute,
 And there pray.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/11/Song-987-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `இடமிருந்து வலமாக எட்டு கோடுகளும் மேலிருந்து கீழாக எட்டு கோடுகளும் வரைந்தால் அதற்குள் நாற்பத்தொன்பது கட்டங்கள் வரும். இதில் நடுவிலுள்ள கட்டத்தில் இறைவனின் வடிவமான ‘ஓம்’ எழுத்தை எழுதி அதைச் சுற்றியுள்ள நாற்பத்தெட்டு கட்டங்களிலும் ‘சிவாயநம’ எனும் ஐந்தெழுத்து மந்திரத்தை மாற்றி மாற்றி எழுதி அமைத்தால் வரும் சக்கரம் செபிப்பதற்கு உகந்ததாகும். (இந்த சக்கரத்தின் அமைப்பு அடுத்த பாடலிலும் தொடரும்)`,
   },
   {
@@ -2159,6 +2221,7 @@ The Dhanavar, the Chattar, the Sathirar two,
 The two Guard-gods, and the rest of them fifteen,
 Bindu, and Nada and Siva Gana Natha,
 Thus form Siva Chakra.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/11/Song-988-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `தானவராகிய சேத்திர பாலகர் (பைரவர் – காலத்தை காப்பவர்), சட்டராகிய வீரபத்திரர், சதிரர்களாகிய பிள்ளையார், முருகர் என இந்த மூன்று வகையினரோடு இந்திரன், அக்கினி, யமன், நிருதி, வருணன், வாயு, குபேரன், ஈசானன், நந்தி, இடபன், மாகாளன், பிருங்கி, சண்டன், விருஷபர், சண்டிகேசுவரர் ஆகிய 15 பேருடன் பிரம்மா, திருமால், மகேசுவரன், சதாசிவன், உருத்திரன் ஆகிய ஐவரும் சேர்ந்து மொத்தம் 24 தெய்வங்களின் பீஜ எழுத்துக்களை பாடல் #987 இல் உள்ள சக்கரத்தை சுற்றி 24 கட்டங்களிளும் எழுத சிவசக்கரம் அமையும். குறிப்பு: அசையா சக்தியாகிய இறைவனிடமிருந்து முதலில் தோன்றிய ஒலி ஒளியிடமிருந்து உருவாகிய ஐந்து மூர்த்திகளே சேனைகளாவார்கள்.`,
   },
   {
@@ -2198,6 +2261,7 @@ Siva the First, then the Three, and the Five following,
 Nine are they all, yet one and the same,
 With them flourished Bindu and Nada--
 All these but names of Sankara First.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/11/Song-990-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `‘சிவாய’ என்ற மூன்று எழுத்தோடு ‘நம’ என்ற இரண்டு எழுத்து சேர்ந்து ‘சிவாயநம’ எனும் சிறந்த ஐந்தெழுத்து மந்திரத்தோடு ஆதார 12 எழுத்துக்களும் சேர்ந்து ஒன்றோடு ஒன்றாகக் கலந்து இருக்கும் திருவம்பலச் சக்கரத்தில் ஒளி ஒலியாக சிவசக்தி சிறந்து விளங்கும் நிலையில் அது சங்கரன் சக்கரம் ஆகும்.`,
   },
   {
@@ -2247,6 +2311,7 @@ I then lost my sense of Self,
 Betaking to gracious way of Lord Eternal;
 In endearment undiminished,
 Do chant "Nama."`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/11/Song-992-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `பாடல் #991 இல் உள்ளபடி திரிமண்டல சக்கரத்தை இதயத்தாமரைக்குள் வைத்து பலகாலமாக சாதகம் செய்து விழுப்புணர்வு பெற்று ஆதியிலிருந்தே அழியாமல் என்றும் உடனிருக்கும் இறைவனை கண்டுகொண்டு அவன் காட்டிய வழியே சென்று என்றும் அழியாமல் அவனே சரணாகதி என்று இருக்கலாம். குறிப்பு: சக்கரத்தை வெளியில் பூசிப்பதால் பயனில்லை சக்கரத்தை மனதில் எண்ணி தியானிப்பதாலேயே பயன் கிடைக்கும் என்பதை இப்பாடலின் மூலம் உணரலாம்.`,
   },
   {
@@ -2265,6 +2330,7 @@ Meditate on Mantra that confers Grace;
 Approaching Him, they chant "Nama";
 Thinking of Him dear as apple of their eye
 They with Him united stood.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/11/Song-993-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `புண்ணியத்தால் வானுலக வாழ்வு பெற்ற தேவர்கள் இறைவனுக்கு இணையான ‘நமசிவாய’ ஐந்தெழுத்து மந்திரத்தால் இறைவனை பூ மழை போல் அர்ச்சனை செய்து தியானித்து நமசிவாய மந்திரத்தை உணர்ந்து கண்ணிலிருந்து காணும் அனைத்தையும் அந்த மந்திரமாகவே கண்டு அதனுடன் கலந்து இருப்பார்கள்.`,
   },
   {
@@ -2285,6 +2351,7 @@ That the Letters of Savitri mantra art;
 Savitri has the Letter First (that is Aum)
 They whom separate meditate on it,
 Have no more the birth-travail.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/11/Song-994-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationEnglish: `Savitri (Divine Creator) is also Gayatri, the most sacred of all vaidika mantras... It runs:
 
 Meaning: Aum. The earthly, atmospheric and celestial spheres. Let us contemplate the wondrous Solar Spirit of the Divine Creator. May He direct our intellect. Aum.`,
@@ -2352,6 +2419,7 @@ And warm it gently over fire,
 Center thy meditation on it,
 Strong the concentration thou attain
 Thine enemies rendered actionless, sure (Sthambana).`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/11/Song-997-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationEnglish: `Sthambana—stopping, checking, restraining the powers of fire, the flowing of water, the ferocity of wild beasts, etc; making a spirit or person stand immovable in one place and depriving him of the power of speech.`,
     elaborationTamil: `பட்டுப் போகாத அரச மரத்தின் பலகையை நேராக வைத்து அதன் மேலே நன்றாகப் பதியுமாறு ‘மசிவாயந’ என்று எழுதி அது போலவே பனை ஓலையிலும் எழுதி அந்த ஓலையின் மேலே தேன் கூட்டைச் சுட்டால் கிடைக்கும் மெழுகினால் பூசி அந்த மெழுகு ஓலையோடு ஒட்டி பக்குவப்படும் அளவிற்கு நெருப்பில் காட்டி அவ்வாறு பக்குவப்பட்ட ஓலையை அரசம் பலகையின் மேல் வைத்து அதில் எழுதியுள்ள ‘மசிவாயந’ என்ற மந்திரத்தை ஓதி வருபவர்களுக்கு தம்பனம் எனும் சித்தி கிடைக்கும். குறிப்பு: தம்பனம் என்பது இறைவனை அடையத் தடையாக இருக்கும் எதையும் கட்டுதல் அல்லது அடக்குதல் என்று பொருள்படும்.`,
   },
@@ -2374,6 +2442,7 @@ Smear it with ingredients five,
 (Ginger, Pepper, mustard, garlic and asofetida)
 Bury it head downward in the hearth's fire
 You shall attain powers of Mohana (Fascination).`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/12/Song-998-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationTamil: `பட்டுப்போகாத கொன்றை மரத்தின் பலகையை எடுத்து அதை யமனுடய திசையாகிய தெற்குத் திசையை நோக்கி வைத்து அதில் பாடல் #997 இல் உள்ளபடி ‘மசிவாயந’ என்று எழுதி அதன்பின் அந்தப் பலகையின் மேல் மறைப்பில்லாமல் நன்றாகத் தெரியும்படி ஐந்துவித காயங்களாகிய சுக்கு மிளகு கடுகு பூண்டு மற்றும் பெருங்காயம் ஆகியவற்றைப் பூசிவிட்டு அந்தப் பலைகையைத் தலைகீழாக மண்ணில் புதைத்துவிட்டு அதன் மேலே அமர்ந்து அதில் எழுதி மந்திரத்தை தியானித்து செபித்து வந்தால் மோகனம் எனும் வித்தை கைகூடும். குறிப்பு: மோகனம் வித்தை என்பது வேண்டியவற்றை வசியம் செய்வதாகும். உணவுப் பொருளை சுட்டு பக்குவப்படுத்தும் அடுப்பு போல பலகையைப் பக்குவப்படுத்த வேண்டும் என்பதே இங்கு அடுப்பாக குறிப்பிடப்பட்டுள்ளது.`,
   },
   {
@@ -2395,6 +2464,7 @@ Inscribe mark of Bindu (dot)
 And surround it by "Om"
 Then concentrate on the Mantra,
 Uchchatana (the Science of Exorcism) will be yours.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/12/Song-999-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationEnglish: `Utchatana—powers of expulsion. Setting demons against a person to ruin him by magical incantations, or dislodging them by magical incantations, or dislodging them from persons or places.`,
     elaborationTamil: `வடமேற்கில் சிவபெருமானின் அழிக்கும் முகத்தில் ஒன்றாகிய ஐயனார் கோயிலில் அழகாகத் தெரியும்படி பட்டுப்போகாத பூவரசம் பலகையின் மேல் ஓலையை வைத்து அதை நெருப்பிலிருந்து வரும் புகை மேல் காட்டி முழுவதும் கரி படரும் வரை வைத்து அதன்மேல் விஷத்தினைப் பூச வேண்டும். அதன் பிறகு ஓலை மேல் ஓங்காரம் எழுதி வைத்து மந்திரம் செபித்து வந்தால் உச்சாடனம் எனும் வாக்கு பலிதம் உண்டாகும். குறிப்பு: ஐயனார் கோயில் என்பது ஊரின் வட மேற்கு எல்லையைக் குறிக்கும். வாக்கு பலிதம் என்றால் சாதகர் சொல்லும் வார்த்தைகள் அப்படியே நடப்பதாகும்.`,
   },
@@ -2457,6 +2527,7 @@ Face Westward,
 And Chant Pranava mantra ("Aum") eight thousand times;
 This the way to attain
 Power of bringing things and people unto you--Akarshana.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/12/Song-1002-Fourth-Tantra-2.-Chakra-of-Sacred-Dance.mp3',
     elaborationEnglish: `Akarshanam — summoning or invoking a spirit or absent person visibly into one’s presence. These magical acts are exposited as eight in number. Besides the six above, the other two are: vidvedanam, or excitement to hatred; and bhedanam, causing dissension, discord, etc.`,
     elaborationTamil: `தகுந்த வியாழக் கிழமை அன்று ஓலைச்சுவடியில் ‘யநமசிவா’ என்று எழுதி அதன் மேல் புடம் போட்ட வெள்ளிப் பற்பத்தைப் பூசி பட்டுப்போகாத ஒரு வெள்ளை நிற நாவல் மரப் பலகையின் மேல் வைத்து அந்தப் பலகையை மேற்குத் திசை நோக்கி வைத்து எழுதிய ‘யநமசிவா’ மந்திரத்தை எட்டாயிரம் முறை உச்சரித்தால் ஆகருடணம் (ஆகர்ஷணம்) எனும் வித்தை கைகூடும். குறிப்பு: ஆகருடணம் என்பது எண்ணத்தால் கவர்தல் அல்லது வசீகரித்தல் ஆகும்.`,
   },
@@ -2476,6 +2547,7 @@ Flower of areca palm, madhavi creeper, shoe-flower (Mandharam)
 Thumbai, vakulam, surapunnai, jasmine,
 Shenpagam, padiri, chrysanthum
 With these do worship.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/12/1003a.mp3',
     elaborationEnglish: ``,
     elaborationTamil: `தாமரை மலர் (அம்புயம்) 2. கருங்குவளை மலர் (நீலம்) 3. செழுங்கழுநீர் மலர் (கழுநீர்) 4. அழகாக கட்டிய நெய்தல் மலர் 5. மாலை மணம் விரிக்கும் பாக்கு மலர் (பூகம்) 6. மாதவி மலர் 7. மந்தாரை மலர் 8. தும்பை மலர் 9. மகிழம்பூ மலர் (வகுளம்) 10. சுரபுன்னை மலர் 11. மல்லிகை மலர் 12. செண்பகம் மலர் 13. பாதிரி மலர் 14. செவ்வந்தி மலர் ஆகிய பதினான்கு வகைப் பூக்களும் இறைவனுக்கு அருச்சினை செய்ய ஏற்ற மலர்கள் ஆகும்.`,
   },
@@ -2495,6 +2567,7 @@ Musk, sandal paste, perfumed kumkum,
 Camphor, eagle wood fragrant and the rest
 Mix in water of rose and make a paste
 Then put it on (Chakra) and worship.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/12/Song-1004-Fourth-Tantra-3.-Pooja-of-Chakra.mp3',
     elaborationEnglish: `Musk, sandal paste, perfumed kumkum, Camphor, eagle wood fragrant rest Mix in water or rose water and make a paste Then put it on (Chakra) and worship.`,
     elaborationTamil: `புனுகு கஸ்தூரி ஆகிய கலவைகளுடன் சேர்த்து அரைத்த சந்தனம் வாசம் மிகுந்த குங்குமம் பச்சைக் கற்பூரம் கருமையான அகில் கட்டையை அரைத்த சாந்து ஆகியவற்றை சரியான அளவு எடுத்து முறைப்படி அவற்றை பன்னீரால் குழைத்து அந்தக் கலவையை இறைவனின் திருமேனியின் மேல் அழகுடன் காப்புப் போல பூசிவிட்டு அன்போடு அருச்சனை செய்தல் வேண்டும்.`,
   },
@@ -2533,6 +2606,7 @@ Worshipping thus, there is nothing that you cannot attain,
 Worshipping thus, you shall come by Indra's wealth
 Worshipping thus, you shall attain miraculous Siddhi powers,
 Worshipping thus, you shall attain Mukti.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/12/Song-1006-Fourth-Tantra-3.-Pooja-of-Chakra.mp3',
     elaborationTamil: `பாடல் #1003, #1004 மற்றும் #1005 இல் உள்ள முறைப்படி இறைவனை அன்போடு மனம் ஒன்றி வழிபட்டால் கிடைக்காத பேறுகளே இல்லை. இந்திரனிடம் உள்ள செல்வமும் எட்டு வகை சித்திகளும் பிறவியில்லா முக்தியும் கிடைக்கும்.`,
   },
   {
@@ -2575,6 +2649,7 @@ They who are Siva Yogins great
 They too seek not Kriyas;
 They who are in loving devotion surpassing stand
 They too seek not Kriyas.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/12/Song-1008-Fourth-Tantra-3.-Pooja-of-Chakra.mp3',
     elaborationEnglish: ``,
     elaborationTamil: `இறைவன் ஆட்கொண்ட அடியவர்கள், இறைவனை அடைய வேண்டி மேலும் மேலும் கர்மங்களை சேர்த்துக் கொள்ள விரும்பாதவர்கள், மிகப்பெரிய சிவ யோகிகள், இறைவன் மேல் மிகவும் ஆழ்ந்த அன்பு கொண்டவர்கள் ஆகியோர் அருச்சினை செய்ய விரும்ப மாட்டார்கள். குறிப்பு: நீண்ட காலம் அருச்சினை செய்து இறையருளை பெற்றவர்களும் சிவ சிந்தனையிலேயே இருக்கும் யோகிகளும் அருச்சினை செய்யும் அவசியம் இல்லை.`,
   },
@@ -2593,6 +2668,7 @@ They know not to reach Him by Jnana Divine;
 They seek Him by ways of senses, in vain;
 If within you, you constant seek Him in right way,
 You shall indeed be in Nadanta.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/12/Song-1009-Fourth-Tantra-3.-Pooja-of-Chakra.mp3',
     elaborationEnglish: `Mular identifies Nadanta with the Jnana Marga here.`,
     elaborationTamil: `அறிவின் மூலம் உணர்ந்து அடையக்கூடிய ஞானத்தை யாரும் தெரிந்து கொள்வதில்லை. பூசை வழிபாடு மந்திரம் யந்திரம் என்று தங்களின் புலன்கள் காட்டும் வழியிலேயே சென்று இறைவனைத் தேடிக் கிடைக்கவில்லை என்று புலம்புகின்றார்கள். தமக்குள்ளே முறைப்படி அருச்சினை செய்து பார்த்தால் அங்கே ஒளிவீசும் மாணிக்கம் போல இருக்கும் இறைவனைக் காணலாம். குறிப்பு: இப்பாடலின் மூலம் மானசீக பூஜையின் மூலம் இறைவனை அடையலாம் என்பதை அறிந்து கொள்ளலாம்.`,
   },
@@ -2612,6 +2688,7 @@ So does it seek Grace and Ignorance at once;
 The knowledge within of Jiva is bereft of Light;
 Except those who have Divine Jnana attained,
 The rest despair of dispelling Darkness.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/12/Song-1010-Fourth-Tantra-3.-Pooja-of-Chakra.mp3',
     elaborationEnglish: ``,
     elaborationTamil: `ஆகாயத்தில் இருட்டு வெளிச்சம் என்று இரண்டும் இருப்பது போல் மனதிலும் அறிவு அறியாமை என இரண்டு தன்மை உள்ளது. மயக்கத்தைத் தரும் அறியாமையும் தெளிவைத் தரும் அறிவும் ஆகிய இரண்டுமே நிலை பெற்றிருக்கும். பாடல் #1009 இல் உள்ளபடி மானசீக பூஜையின் மூலம் இறையருளைப் பெற்று உள்ளிருக்கும் மாணிக்க ஒளியைக் கண்டவர்கள் தமது அறியாமையை அன்றே அழித்தவர்கள் ஆவார்கள்.`,
   },
@@ -2636,6 +2713,7 @@ If they take to Jnana,
 They with Siva one become;
 They who seek Kriya,
 May but Devas be.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/12/Song-1011-Fourth-Tantra-3.-Pooja-of-Chakra.mp3',
     elaborationTamil: `உயிர்கள் அருச்சனை செய்து தனது பக்தியினால் தம்மை சிவமாகவும் சிவமே தானாகவும் ஆகிய இரு வழிகளிலும் சிவத்தை அறிந்து உணர்ந்தவர்களின் பேரன்பினால் இறைவனை அடையும் வழிகளில் நான்காம் நிலையாகிய சாயுச்சிய நிலையை அடைவார்கள். அப்படி சாயுச்சிய நிலையை அடைந்தவர்கள் பேரொளியாகிய ஆதித்ய (சூரிய) தேவராவார்கள். குறிப்பு: இறைவன் பேரொளி வடிவில் உயிர்களின் கர்மங்களை பொசுக்கும் நிலையே ஆதித்ய தேவர் ஆகும். இறைவனை அடையும் நான்கு முறைகள்: சாலோகம் – இறைவன் இருக்கும் இடத்தில் அவனோடு சேர்ந்து வாழ்வது. சாமீபம் – இறைவனுக்கு பக்கத்தில் அமர்ந்து நெருக்கமாக வாழ்வது. சாரூபம் – இறைவனுக்கு பிரதிநிதியாக அவருக்கு செய்வதை ஏற்றுக்கொள்வது. சாயுச்சியம் – இறைவனோடு எப்போதும் சேர்ந்து இருப்பது.`,
   },
   {
@@ -2697,6 +2775,7 @@ Then beyond in the Eleventh
 In Paraparam the Supreme;
 Then beyond, beyond is Void,
 The Dvadasanda Space Infinite.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/12/Song-1014-Fourth-Tantra-3.-Pooja-of-Chakra.mp3',
     elaborationTamil: `பாடல் #1013 இல் உள்ளபடி உண்மையான வீடுபெற்றை பெற்ற சாதகரின் உடலுக்குள் சிவ அமுது ஊறி தலை உச்சிக்குச் சென்றவுடன் பேரொளி தோன்றி உடலை சுற்றியுள்ள எட்டு தத்துவங்களும் விலகும். அப்படி தோன்றிய பேரொளியை ஒலியாகவும் ஒளியாகவும் தரிசித்தால் பரவெளியில் வீற்றிருக்கும் இறைவன் தமக்குள்ளிருந்து வெளிப்படுவான். எட்டு தத்துவங்கள்: பாடல் #460 இல் உள்ளபடி உயிர்கள் உருவாகும் போது அந்தக் கருவின் முற்பிறவிகளிலிருந்து தொடர்ந்து வினைப் பயன்களால் வரும் கன்மத்துடன் (மும்மலங்களில் ஒன்று) மாயேயம் என்கிற அசுத்த மாயையின் ஏழுவித காரியங்களும் (காலம், நியதி, கலை, வித்தை, இராகம், புருடன், மாயை) சேர்ந்து மொத்தம் எட்டுவித மாயைகளை அந்தக் கரு பெற்றுவிடும். இதுவே எட்டு தத்துவங்களாகும்.`,
   },
   {
@@ -2716,6 +2795,7 @@ Will blaze the blessed fire;
 In the sacrificial pits nine
 Will arise all things goodly;
 Thus shall I speak of sacrificial pits nine.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/12/Song-1015-Fourth-Tantra-4.-Nine-Yagna-Pits.mp3',
     elaborationEnglish: `The word 'navagundam' (nine pits) is used in a double sense here. On the one hand, it refers to the nine fire-pits used in sacrificial (yajna) worship, and on the other, it refers to the human body with its nine orifices.
 
 Chapter IV: NAVAGUNDAM (NINE SACRIFICIAL PITS)
@@ -2756,6 +2836,7 @@ The sacrificial pit is triangle-shaped;
 It is square shaped, pentagon shaped;
 And hexagon shaped, triangle upon triangle made;
 Other pits that blaze in fire, we later relate.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/12/Song-1016-Fourth-Tantra-4.-Nine-Yagna-Pits.mp3',
     elaborationTamil: `சொல்லப்படும் குண்டத்தை முக்கோண்த்தில் அமைத்து அதனுள்ளே ஹோமத்தீயை எழுப்பினால் அதிலிருந்து நான்கு பக்கத்திலிருந்தும் இன்பமாக ஐந்து விதமான நன்மைகள் மேலெழுந்து வரும். இந்த ஹோமத்தில் இருக்கும் அக்னி வழியாக உயிருக்கு துன்பம் தரும் ஆணவம் கன்மம் மாயை ஆகிய மும்மலங்களும் அழியும். இந்த நவகுண்டங்களில் செய்யப்படும் ஹோமத்திற்கு மேலான ஹோமமாக யாம் ஒன்றையும் அறியவில்லை.`,
   },
   
@@ -2837,6 +2918,7 @@ The Five Letters stand dancing in Fire
 The humming orbs of Zodiac, twelve, will appear;
 A resplendent Light it is
 For those who seek.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/12/Song-1020-Fourth-Tantra-4.-Nine-Yagna-Pits.mp3',
     elaborationTamil: `உடலுக்குள் மானசீகமாக உருவகப்படுத்திய முக்கோண குண்டத்திலிருந்து எழுகின்ற அக்னியில் ஆடுகின்ற பிராணன், அபானன், உதானன், வியானன், சமானன் எனும் ஐந்து வாயுக்களும் உடலுக்குள்ளும் வெளியிலும் இருக்கின்றது. அந்தக் குண்டத்திலிருந்து எழும் அக்னியிலிருந்து 12 விதமான ஒலிகள் வெளிவரும். அந்த ஒலிகளைத் தேடி அறிந்து கொள்ளும் சாதகர்கள் தமக்குள் நல்ல சுடரொளியை அறிந்து கொள்ளலாம்.`,
   },
   {
@@ -2855,6 +2937,7 @@ On the hand, Fire will appear if so they will
 The glowing body trembling and shaking
 Will give forth the shining Linga
 Goodly is the Linga that arose in light, said Sakti.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/12/Song-1021-Fourth-Tantra-4.-Nine-Yagna-Pits.mp3',
     elaborationEnglish: `The head and face of him who tends the sacrificial fire will glow in a halo of light. will appear on his palms, if he so wills. The glowing body, trembling and shaking, will give forth the shining linga.`,
     elaborationTamil: `பாடல் #1020 இல் உள்ளபடி அறிந்து கொண்ட சுடரின் உச்சிக் கொழுந்தின் தலைப் பகுதி வட்ட வடிவ முகமாகவும் சுடரைச் சுற்றிலும் பரவுகின்ற நெருப்புக் கதிர்கள் கைகளாகவும் சுடரின் நடுவில் இருக்கும் அழகிய பகுதி உடலாகவும் இருந்து அசைகின்ற சுடரே சிவலிங்க வடிவமாக இருக்கின்றது. இந்த சிவலிங்க வடிவத்தில் எழும் நல்ல சுடர் நன்மையைத் தரும் என்று சக்தி அருளினாள்.`,
   },
@@ -2899,6 +2982,7 @@ Unto mythical serpents from directions eight;
 And Kundalini too with its petals four
 In me flamed,
 Filling my inside with radiant light.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/12/Song-1023-Fourth-Tantra-4.-Nine-Yagna-Pits.mp3',
     elaborationTamil: `வில்லின் இரு பக்க நுனிகளும் வளைந்து இளம்பிறை விடிவில் இருக்கும் பிறை (அரை நிலா) குண்டத்தில் இரு நுனிகளிலும் பாம்பு போல் வளைந்து எழுகின்ற அக்னி எல்லாத் திசைகளிலும் சுடர்விட்டு விளங்கும். அப்படி எல்லாத் திசைகளிலும் பரவியிருக்கும் சுடரொளி எமது உடலுக்குள் மேருவாக இருக்கும் முதுகுத் தண்டின் உச்சியில் வீற்றிருக்கிறது. குறிப்பு: வெளியில் செய்யும் பிறை (அரை நிலா) குண்டத்தில் எழும் அக்னியைப் போலவே மானசீகமாக உடலை பிறை குண்டமாக பாவித்து செய்யும் யாகத்திலும் குண்டலினி சக்தி அக்னியாக எழுந்து முதுகுத் தண்டின் உச்சியில் வீற்றிருக்கும்.`,
   },
   {
@@ -2917,6 +3001,7 @@ It flowed as water of worship at His Feet;
 It reached the mighty arms eight of Dancer
 That fills universe entire;
 It reached the fire in the Fore-head eye of Lord.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/12/Song-1024-Fourth-Tantra-4.-Nine-Yagna-Pits.mp3',
     elaborationEnglish: `The kundalini fire reaches the Feet of Siva within, even as the fire from the sacrifical pit reaches to Siva above.`,
     elaborationTamil: `பாடல் #1023 இல் உள்ளபடி உடலில் இருக்கும் முதுகுத்தண்டின் உச்சியை அடிப்பாகமாகக் கொண்டு எழும் சுடர் ஒரே ஜோதியாக அழகாக அசைந்தாடும். அப்போது அங்கிருந்து அமிர்தம் சுரந்து சகஸ்ரதளத்தில் இருக்கும் ஆயிரம் இதழ் தாமரை மலர்ந்து விரிவடையும். இந்த செழுமையான சுடர் முக்கண்களையுடைய இறைவனின் திருமுகமாக இருக்கிறது. கருத்து: மானசீகமாக உடலைக் குண்டமாக பாவித்து இந்த யாகத்தை செய்தால் இறைவனின் மூன்றாவது கண்ணைக் குறிக்கும் பேரறிவு ஞானத்தை அடையலாம்.`,
   },
@@ -3041,6 +3126,7 @@ Two His faces, six His eyes,
 Seven His tongues, four His horns
 Thus does He rise from the Sacrificial Fire Pit
 He the one that no end knows.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/01/Song-1030-Fourth-Tantra-4.-Nine-Yagna-Pits.mp3',
     elaborationEnglish: `Tirumular describes the Form of God that arises in the sacrificial pit somewhat the lines recounted in the relevant Rig Veda hymn. "Three His Feet, seven His hands, Two His faces, Six His eyes, Seven His tongues, four His horns - thus does arise the God of the sacrificial pit."`,
     elaborationTamil: `நவகுண்டத்திலிருந்து எழுகின்ற அக்னியில் வெளிச்சம் சத்தம் காற்று ஆகிய மூன்றும் கைகளாக எழுகின்றது. இடகலை பிங்கலை ஆகிய நாடிகள் கூர்மையான முகங்களாக இருக்கின்றது. ஆறு சக்கரங்கள் கண்களாக இருக்கின்றது. இதன் மூலம் உடலை குண்டமாக வைத்து நான்கு வேதங்களில் உள்ள மந்திரங்களை விடாமல் ஓதி உச்சரித்து மூலாதாரத்திலுள்ள குண்டலினியை ஆறு சக்கரங்களுக்கும் மேலெழுப்பிச் செல்லும் போது அந்த சக்கரங்களில் வீற்றிருக்கும் முடிவில்லாத இறை சக்தியை அறிந்து கொள்ளலாம்.`,
   },
@@ -3146,6 +3232,7 @@ They who seek Him, desires severed,
 Through Light within
 Reach the goal
 And remain blemishless, ever after.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/01/Song-1035-Fourth-Tantra-4.-Nine-Yagna-Pits.mp3',
     elaborationTamil: `பாடல் #1034 இல் உள்ளபடி சகஸ்ரதள ஜோதியோடு கலந்த பின் அங்கே முழுமையான நல்ல சுடரொளியாக இருக்கும் பரம்பொருள் ஆட்கொள்கிறது. உலக ஞானங்கள் அனைத்தையும் கற்று அறிந்திருந்தாலும் கூட அதைவிட மேலான இந்த இறை ஞானத்தை உணர்ந்தவர்களின் எண்ணத்துள்ளே அவன் இருப்பான். அந்த எண்ணங்களையும் விட்டு விலகி எங்கும் பரவியிருக்கும் இறைவனின் பேரொளியை விரும்பி சென்று அடைந்து அங்கே இறைவனோடு பேரின்பத்தில் சேர்ந்து இருப்பார்கள். கருத்து: நவகுண்ட யாகத்தை முறைப்படி செய்த சாதகர்கள் தமது மூலாதாரத்திலுள்ள அக்னியை எழுப்பி சகஸ்ரதளத்தில் இருக்கும் இறை சக்தியோடு சேர்த்து விட்டால் இறையருளால் அனைத்து எண்ணங்களும் அற்ற நிலையை அடைந்து இறைவனோடு ஒன்றாகச் சேர்ந்து இருப்பார்கள்.`,
   },
   {
@@ -3185,6 +3272,7 @@ That One Being Great, do you seek;
 The Celestials in Jnana sacrifice excelled
 Verily merged in Him,
 That is Truth Unalloyed.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/01/Song-1037-Fourth-Tantra-4.-Nine-Yagna-Pits.mp3',
     elaborationTamil: `இறைவனால் முறையாக வகுக்கப்பட்டு படைக்கப்பட்ட பரந்து விரிந்த கடல்களைக் கொண்ட ஏழு உலகங்கள் இருக்கின்றன. இந்த ஏழு உலகங்களிலுள்ள உயிர்களனைத்தும் முக்திபெற வேண்டும் என்ற கருணையினால் அவை முக்திபெறும் வழிமுறைகளையும் முறையாக இறைவன் வகுத்திருக்கின்றான். அவனை உயிர்கள் சென்று அடைந்தால் முறையாக வகுக்கப்பட்ட நவகுண்ட யாகத்தின் மூலம் கிடைக்கும் ஞானங்கள் அனைத்தும் அறிந்து உயிர்கள் தேவர்களாக உயர்ந்த நிலையை அடைவார்கள். அவ்வாறு உயர்ந்த தேவர்கள் பொய் முறைகளால் வகுக்கப்பட்ட எந்தவித மாயையும் இல்லாத உண்மையான மெய்ப்பொருளான சதாசிவமூர்த்தியோடு கலந்து இருப்பார்கள்.`,
   },
   
@@ -3206,6 +3294,7 @@ The third eye in Forehead
 Thus is Lord,
 From Sacrificial Fire Pit arises;
 Seek that Holy One within your head.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/01/Song-1038-Fourth-Tantra-4.-Nine-Yagna-Pits.mp3',
     elaborationTamil: `பாடல் #1037 இல் உள்ளபடி சதாசிவமூர்த்தியுடன் கலந்து நிற்கின்ற சாதகரின் உடலாகிய நவகுண்டத்திலுள்ள அக்கினியின் அடியாக இருப்பது இறைவனின் பாதங்களாக இருக்கின்றது. சுடராகப் பரவும் அக்கினியாக இருப்பது இறைவனின் கரங்களாக இருக்கின்றது. குண்டத்திலிருந்து மேல் நோக்கி எழுகின்ற அக்கினியின் ஜூவாலையே இறைவனின் சிவந்த முகமாகவும் மூக்காகவும் இருக்கின்றது. அக்கினியின் கங்கானது இறைவனின் மூன்றாம் கண்ணாக இருக்கின்றது. காற்றின் போக்கில் அலையும் அக்கினியின் உச்சி நுனியாக இருப்பது இறைவனின் சடைபின்னிய முடிக்கற்றைகளாக இருக்கின்றது. இப்படி நவகுண்டத்தின் அக்கினியில் இறைவன் உத்தமமான உருவமாக இருக்கிறார். குறிப்பு: நவகுண்ட யாகம் செய்து உணர்ந்த இறைவன் அக்கினி உருவமாக எப்படி இருக்கின்றார் என்பதை இந்த பாடலில் அறிந்து கொள்ளலாம்.`,
   },
 {
@@ -3304,6 +3393,7 @@ The Yogi in his Nadis raises the fire in Centers nine;
 Even as the Seed of Birth trembled in fear of it,
 So did the universe vast,
 At the mighty yogic achievement.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/01/Song-1043-Fourth-Tantra-4.-Nine-Yagna-Pits.mp3',
     elaborationTamil: `பாடல் #1042 இல் உள்ளபடி கோடி யுகங்களாக நிலைத்திருக்கும் உடலைப் பெற்ற சாதகர் யோகியாகிறார். அந்த யோகி நவகுண்டமாகிய தமது உடலுக்குள் இருக்கும் ஒன்பது வகையான குண்டங்களிலும் தாமாகவே அக்னி எழுப்பிக்கொண்டே இருக்கின்றார். கரு உற்பத்திக்கு உயிர்சக்தி கருவியாகப் பயன்படுவதைப் போல இறையருளை தமக்குள் கண்டுகொண்ட யோகியின் நவகுண்ட உடலை உலகம் தனது நன்மைக்கு கருவியாகப் பயன்படுத்திக் கொள்கிறது. கருத்து: கோடி யுகங்கள் இருக்கும் யோகியின் மேன்மையான உடலை உலகம் தனது நன்மைக்கு பயன்படுத்திக் கொள்கிறது.`,
   },
   {
@@ -3329,6 +3419,7 @@ Of oval shaped unto the the golden bowl
 Thus of yore are shaped,
 The nine Sacrificial Fire Pits,
 Where you seek Lord Supreme.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/01/Song-1044-Fourth-Tantra-4.-Nine-Yagna-Pits.mp3',
     elaborationTamil: `பாடல் #1043 இல் உள்ளபடி உலக நன்மைக்கு கருவியாக இருக்கும் யோகின் உடலுக்குள் 1. நான்கு கோணம் கொண்ட குண்டம் (சதுர வடிவம்), 2. யாக குண்டத்தில் எரியும் அக்னி போன்ற முக்கோண குண்டம் (முக்கோண வடிவம்), 3. வளைத்த வில்லைப் போன்ற பிறை வட்ட வடிவம் கொண்ட பிறை குண்டம் (பிறை வடிவம்), 4. ஆரம்பமும் முடிவும் இல்லாத வேதங்களைப் போன்ற வட்ட குண்டம் (வட்ட வடிவம்), 5. சக்தி விளையும் மயங்களான ஆறு சக்கரங்கள் கொண்ட குண்டம் (அறுகோண வடிவம்), 6. உலகத்தின் எட்டுத் திசைகள் கொண்ட குண்டம் (அட்டகோண வடிவம்), 7. இலை வடிவம் போன்ற குண்டம் (இலை வடிவம்), 8. ஐந்துவிதமான பொறிகள் கொண்ட குண்டம் (பஞ்சகோண வடிவம்), 9. பொன் போன்ற தாமரை மலர் வடிவம் கொண்ட குண்டம் (பதும வடிவம்) ஆகிய ஒன்பது வகையான குண்டங்கள் இருக்கின்றது. இந்த நவ குண்டங்களின் மூலமாக யோகியானவர் ஆதி மூலமாகிய இறைவனை ஒன்பது கோடி யுகங்களானாலும் நாடிக்கொண்டே இருப்பார்.`,
   },
   {
@@ -3378,6 +3469,7 @@ Kum-Kum, Pari Parai, Narani,
 The dark hued Easi, Manonmani
 Thus of forms diverse and hues many,
 One Sakti manifests several.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/01/Song-1046-Fourth-Tantra-5.-Chakra-of-Three-Goddesses.mp3',
     elaborationEnglish: `Sundari—the Beauteous
 
 Andari—of the form of sky
@@ -3401,6 +3493,7 @@ In the Three Cities--(Triangle)--of themselves arose,
 Of three forms, the One She is;
 Of color gold, red, and white She is,
 Knowledge, enjoyment and Mukti she grants.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/01/Song-1047-Fourth-Tantra-5.-Chakra-of-Three-Goddesses.mp3',
     elaborationTamil: `திரிபுரை சக்தியானது மூன்று புரங்களில் இருக்கும் தேவர்களுக்கும் அவரவர்களின் தன்மைக்கேற்ற உருவங்களைக் கொண்ட தேவியர்களாக தாமாகவே அமைந்திருக்கும். திரிபுரையாக இருக்கும் இந்த சக்தியே பொன் நிறம் கொண்ட லட்சுமியாக இருந்து போகத்தையும், வெண்மை நிறம் கொண்ட சரஸ்வதியாக இருந்து ஞானத்தையும், செம்மையான கருமை நிறம் கொண்ட பார்வதியாக இருந்து மாயையை அழித்து முக்தியையும் அருளும் சக்தியாக இருக்கின்றார்கள்.`,
   },
 {
@@ -3467,6 +3560,7 @@ Necklace of Rudraksha beads, garland of flowers and glowing Crown,
 Where the crescent moon beams forth
 Thus adorned, She, the Chandika,
 Stands supporting directions four.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/01/Song-1050-Fourth-Tantra-5.-Chakra-of-Three-Goddesses.mp3',
     elaborationTamil: `பெரிய மணிகள் பதித்த குண்டலங்களை அணிந்த காதுகளும், வில்லைப் போன்ற வளைந்த புருவங்களையும், அரக்கு நிறத்தில் இருக்கும் திருமேனியையும், சிவமணி மாலையை ஆரமாகவும், தலையில் ஒளிர் விடும் நிலாவை கிரீடமாகவும் கொண்டு சண்டிகை எனும் பெயருடன் நான்கு திசைகளையும் தாங்கி நிற்கின்றவள் திரிபுரை சக்தியாகும். கருத்து: திரிபுரை சக்தியானது சண்டிகை எனும் பெயருடன் நான்கு திசைகளையும் தாங்கி இருப்பதை இந்தப் பாடலில் உருவகிக்கலாம். பாடல் #1049 இல் உள்ளபடி காதுகளில் அணிந்த குண்டலங்கள் சூரிய சந்திரனைக் குறிக்கின்றது. கொலை செய்யும் வில்லைப் போன்ற வளைந்த புருவங்கள் அழிப்பதைக் குறிக்கின்றது. கழுத்திலிருக்கும் சிவமணி மாலை உலகத்தைச் சுற்றி நிற்கும் நவகிரகங்களைக் குறிக்கின்றது. நிலவிலிருந்து வரும் குளிர்ந்த ஒளி போன்ற தலைமுடி உலகங்களுக்கு குளிர்ச்சியைக் கொடுத்து பாதுகாப்பதை குறிக்கின்றது. அரக்கு நிற திருமேனி எப்போதும் நில்லாமல் அசைந்து கொண்டே இருக்கின்ற சக்தியின் வேகத்தை குறிக்கின்றது.`,
   },
   {
@@ -3515,6 +3609,7 @@ She is all these,
 And She is atom within atom;
 She is Self-manifest Form divine,
 She is Jnana embodied.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/01/Song-1052-Fourth-Tantra-5.-Chakra-of-Three-Goddesses.mp3',
     elaborationTamil: `பாடல் #1051 இல் உள்ளபடி தூய்மையும் அனைத்து ஞானத்தின் மொத்த உருவமாகவும் இருக்கும் திரிபுரை சக்தி கருணையோடு பேரின்பத்தை அளிப்பவள். அவள் அனைத்தையும் ஆட்டுவிக்கும் மெய்ப்பொருளான உமா சக்தி எனும் பெயருடைய மாபெரும் சக்தியாக இருக்கின்றாள். அத்தகைய மாபெரும் சக்தி அணுவுக்குள் அணுவைப் போல நுண்ணியமாகவும் இருக்கின்றாள். இப்படி இருக்கும் இவளது திருக்கோலமே மொத்த ஞானத்தின் உருவமாகும். கருத்து: திரிபுரை சக்தி உமா சக்தி என்ற பெயரில் ஞானத்தின் முழு உருவமாக இருந்து அதைத் தேடுபவர்களுக்கு கருணையோடு அருளுபவளாக இருக்கின்றாள்.`,
   },
   {
@@ -3591,6 +3686,7 @@ She is Sakti pervasive,
 She is Sakti that protects through timeless aeons,
 She is Supreme Pleasure that all blessings confers,
 This you know not.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/01/Song-1056-Fourth-Tantra-5.-Chakra-of-Three-Goddesses.mp3',
     elaborationTamil: `பாடல் #1054 இல் உள்ளபடி ஞானத்தின் மொத்த வடிவாக இருக்கும் பராசக்தியானவள் மாபெரும் சக்தியாக பலவகைகளிலும் உயிர்கள் செய்யும் அனைத்து செயல்களிலும் அந்தந்த செயல்களுக்கு ஏற்ற சக்தியாக நின்று அருளுகின்றாள். பராசக்தியின் இந்த தன்மையை உயிர்கள் உணராமல் இருக்கின்றார்கள். இந்தப் பராசக்தியே யுகம் யுகமாக தொடர்ந்து பிறவி எடுக்கும் ஆன்மாக்களுடன் உடனிருந்து பாதுகாக்கின்றாள். திரிபுரையாகிய இந்த பராசக்தியே உயிர்கள் செய்யும் செயல்களுக்கு ஏற்ற பலனை அருளி இன்பத்தை வழங்குகின்றாள்.`,
   },
   {
@@ -3610,6 +3706,7 @@ She is Para Sakti that shares Siva's Form,
 She stands as support
 For tender Jnana Vine,
 That Her devotees daily in their hearts grow.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/01/Song-1057-Fourth-Tantra-5.-Chakra-of-Three-Goddesses.mp3',
     elaborationTamil: `பாடல் #1056 இல் உள்ளபடி இன்பத்தை அனுபவிக்கின்ற உயிர்களின் செயல்களுக்கேற்ப அவர்களுடன் சேர்ந்து பின்னிப் பிணைந்து இருக்கும் சடை முடியைப் போல நிற்கின்றாள் பராசக்தி. இந்தப் பராசக்தியை தினந்தோறும் தியானித்து சாதகம் செய்யும் அடியவர்களுக்கு அவர்கள் செய்த சாதகத்தின் பலனாக கொடி போல வளர்கின்ற ஞானத்தைக் கொடுத்து அந்த கொடியில் சரிபாதியாக நின்று அதைத் தாங்கி வளர்க்கின்ற கொம்பாகவும் இருக்கின்றாள்.`,
   },
   {
@@ -3629,6 +3726,7 @@ She adorns fragrant flowers on Her tresses,
 She is the One that Celestials seek,
 She is the nymph of red coral hue
 In faith intense, I hold Her, dear in my heart.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/02/Song-1058-Fourth-Tantra-5.-Chakra-of-Three-Goddesses.mp3',
     elaborationTamil: `பாடல் #1057 இல் உள்ளபடி ஞானத்தை தாங்கி வளர்க்கின்ற கொம்பைப் போன்றவளும், முழுமையுடன் அழகாக விளங்கும் கொங்கைகளை கொண்டவளும், மணம் கமழ்கின்ற வாசனை மலர்களை தன் கூந்தலில் சூடிக்கொண்டு இருப்பவளும், தேவர்களும் விரும்பி தேடுகின்றவளாக இருப்பவளும், பவளம் போன்ற சிகப்பான மேனியைக் கொண்ட சிறுமியாக இருப்பவளுமாகிய திரிபுரை சக்தி இராஜராஜேஸ்வரி எனும் திருநாமத்தைக் கொண்டு அருளுகின்றாள். இறைவனோடு இரண்டறக் கலக்கும் ஞானத்தை அளிக்கக் கூடியவள் இந்த சக்தியே என்று நம்பி எனது உள்ளத்திற்குள்ளே பணிவோடு வைத்திருக்கின்றேன். கருத்து: திரிபுரை சக்தியானது இராஜராஜேஸ்வரி எனும் பெயருடன் தேவர்களுக்கும் அமிர்தத்தை அருளி ஞானத்தை வளர்ப்பவளாக இருப்பதை இந்தப் பாடலில் உருவகிக்கலாம். கொம்பை போன்றவள் என்பது ஞானம் என்கிற கொடியைத் தாங்கி வளர்க்கின்ற கொம்பாக இருப்பதைக் குறிக்கின்றது. முழுமையான அழகுடன் விளங்கும் கொங்கைகள் என்பது தேவர்களுக்கும் அமிர்தமான பாலை தருபவளாக இருப்பதைக் குறிக்கின்றது. மணம் கமழ்கின்ற வாசனை மலர்களை சூடியுள்ளவள் என்பது வண்டு தேனைத் தேடி வாசனையுள்ள மலரை நோக்கிச் செல்வதைப் போல தேவர்கள் இறைவனேடு இரண்டறக் கலக்கும் ஞானத்தை தேடிப் பெறுவதற்கு இராஜராஜேஸ்வரியை நாடிச் செல்வதைக் குறிக்கின்றது. செம்பவளத் திருமேனியைக் கொண்ட சிறுமி என்பது உச்ச நிலை ஞானத்தின் ஆரம்பத்தைக் கொடுத்து அருளும் இராஜராஜேஸ்வரியின் திருவுருவத்தைக் குறிக்கின்றது.`,
   },
   {
@@ -3665,6 +3763,7 @@ She performs tapas continuous,
 She is lovely as peacock,
 She is Virgin, all knowledge-conquered,
 In my heart, She stands filled.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/02/Song-1060-Fourth-Tantra-5.-Chakra-of-Three-Goddesses.mp3',
     elaborationTamil: `பாடல் #1059 இல் உள்ளபடி தலைவியாக இருக்கும் ஸ்ரீவித்யா தேவி அனைத்திற்கும் மேலான ஞானத்தின் உச்சியில் நின்று உலகத்தோடு கலந்து அனைத்து உயிர்களுக்கும் அவரவர்களின் செயல்களுக்கு ஏற்ற சரிசமமான அறிவைக் கொடுக்கும் ஞானப் பாலை அருளுகின்றாள். இந்த சக்தியானவள் என்றும் மாறாதவளாக அனைத்து செயல்களையும் செய்வதற்கு தேவையான ஞானத்தை அருளி அதில் வெற்றியும் பெற்று இருக்கின்றாள். திரிபுரை சக்தியாக இருக்கும் இந்த ஸ்ரீவித்யா தேவியை எனது உள்ளத்துக்குள்ளே வைத்து நிலை நிறுத்தியதால் அவள் எனக்குள் முழுவதும் நிறைந்து நிற்கின்றாள். கருத்து: அனைத்து செயல்களையும் செய்யும் ஞானத்தை வழங்குகின்ற திரிபுரை சக்தியானது ஸ்ரீவித்யா தேவி எனும் பெயருடன் உயிர்களுக்குள்ளே என்றும் மாறாமல் நிலைபெற்று நின்று அவரவர்களின் செயல்களுக்கு ஏற்ற அறிவைக் கொடுப்பதை இந்தப் பாடலில் அறிந்து கொள்ளலாம்.`,
   },
   {
@@ -3685,6 +3784,7 @@ She entered the Holy Dance arena;
 She is Manonmani, the Jewel of Inmost Thought,
 She is Ever-Auspicious, (Mangali)
 And in me She merged, inseparate ever.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2021/02/Song-1061-Fourth-Tantra-5.-Chakra-of-Three-Goddesses.mp3',
     elaborationTamil: `பாடல் #1060 இல் உள்ளபடி எனக்குள் நிறைந்து நின்ற திரிபுரை சக்தி தான் செய்யும் செயல்களுக்கு ஏற்ற அணிகலன்களை அணிந்து கொண்டு அனைத்து செயல்களோடு கலந்து எனது உள்ளத்தில் பதிந்து இருக்கின்றாள். ஏழு உலகத்திலும் அவளை உணர்ந்தவர்கள் வந்து தொழுகின்றபடி எனது மனமாகிய அம்பலத்தில் ஆடுகின்ற இறைவனோடு ஒன்றி மனோன்மணி எனும் பெயருடன் தான் செய்கின்ற அனைத்து செயல்களையும் மங்கலமாக்குகின்றாள். சிவம் வேறு திரிபுரை சக்தி வேறு என்று வேறுபடாமல் ஒன்றோடு ஒன்றாக ஒன்றி நின்று எப்போதும் பிரியாமல் எனது உள்ளத்துள் ஒன்றாக அடைந்திருக்கின்றாள். குறிப்பு: இறைவன் ஆடுகின்ற அனைத்து இடங்களும் (அடியவர்களின் உள்ளம் உட்பட) அம்பலம் என்று அறியப்படும். இறைவனோடு திரிபுரை சக்தி ஒன்றாகக் கலந்து நிற்பதை மனோன்மணி என்ற பெயரில் அறியலாம்.`,
   },
   {
@@ -3706,6 +3806,7 @@ Manonmani, the Jewel of Inmost Thought,
 Mangali, the Auspicious Ever,
 She is the path to gather Jnana,
 Her, they know not.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/02/Song-1062-Fourth-Tantra-5.-Chakra-of-Three-Goddesses.mp3',
     elaborationTamil: `பாடல் #1061 இல் உள்ளபடி எமது உள்ளத்திற்குள் ஒன்றாக அடைந்திருக்கும் மனோன்மணி சக்தியானவள் தான் செய்யும் செயல்களுக்கு ஏற்ற அணிகலன்களை அணிந்து கொண்டு முடிவில்லாமல் அனைத்து செயல்களையும் செய்து கொண்டே இருக்கின்றாள். அப்படி அவள் செய்யும் அனைத்து செயல்களுக்கும் காரணமாக இருக்கும் மிகப்பெரும் தலைவனாகிய இறைவனோடு சேர்ந்து எப்போதும் தாண்டவம் ஆடிக்கொண்டே இருக்கும் மனோன்மணியானவள் தான் செய்கின்ற அனைத்து செயல்களையும் மங்கலமாக்குகின்றாள். இவளை தனது சிந்தனைக்குள் எப்போதும் வைத்திருக்கும் வழியை ஆராய்ந்து அறிந்து கொள்ளாமல் உயிர்கள் இருக்கின்றார்கள்.`,
   },
   {
@@ -3724,6 +3825,7 @@ The Lady of fragrant flower bedecked tresses
 In the Lord, in union, stands;
 They who then rise in adoration
 Shall Her bounteous Grace receive.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/02/Song-1063-Fourth-Tantra-5.-Chakra-of-Three-Goddesses.mp3',
     elaborationTamil: `பாடல் #1062 இல் உள்ளபடி திரிபுரையாக இருக்கும் மனோன்மணி சக்தியை தமது சிந்தனைக்குள் எப்போதும் வைத்திருக்கும் வழியை ஆராய்ந்து உணர்ந்து கொண்டவர்கள் அவ்வழியிலேயே சாதகம் செய்யும் போது இறைவன் அவர்களுக்கு உள்ளிருந்து ஒளியாக வெளிப்படுவான். அந்த இறைவனோடு நறுமணம் கமழும் மலர்களை தன் கூந்தலில் அணிந்து இருக்கும் இறைவியும் ஒன்றாகக் கலந்திருந்து வெளிப்படுவாள். அப்படி வெளிப்பட்ட திரிபுரை சக்தி காட்டும் வழியில் அன்போடு செல்பவர்களுக்கு அவள் நற்கதியை அருளுவாள்.`,
   },
   {
@@ -3746,6 +3848,7 @@ And made it pure;
 She showed me the way to Siva-state
 She made me radiant in Jnana
 And redeemed me.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/02/Song-1064-Fourth-Tantra-5.-Chakra-of-Three-Goddesses.mp3',
     elaborationTamil: `பாடல் #1063 இல் உள்ளபடி நற்கதியை அருளுகின்ற திரிபுரை சக்தியான இறைவி பேரானந்தத்தின் வடிவமாகப் பேரழகுடன் இருக்கின்றாள். புளியம் பழத்தின் மேல்பகுதி கடினமாக இருந்தாலும் அதனுள் இருக்கும் பழுத்த பழம் மென்மையாகவும் ஓடுடன் ஒட்டாமலும் இருப்பது போல திரிபுரை சக்தி தனது அருள் பார்வையால் எமது உள்ளத்திற்குள் பார்த்து எம்மை தெளிய வைத்து எமக்குள் ஒளியாக இருக்கும் இறைவனின் சிவகதியை காட்டி எம்மை மேன்மை அடைய வைத்து தன்னுள்ளே அடக்கிக் கொண்டாள்.`,
   },
   {
@@ -3765,6 +3868,7 @@ She stood filling the Dance arena at Thillai;
 They saw not;
 She stood as Cause of Cause;
 Pervading spheres Three.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/02/Song-1065-Fourth-Tantra-5.-Chakra-of-Three-Goddesses.mp3',
     elaborationEnglish: `Sun, moon and fire are the three spheres.`,
     elaborationTamil: `திரிபுரை சக்திக்கு உருவம் உண்டு என்று சொல்பவர்களுக்கு உருவமாக இருக்கிறாள். உருவம் இல்லை என்று சொல்பவர்களுக்கு அருவமாக இருக்கிறாள். தன்னைத் தியானித்தவர்களுக்கு அவர்கள் தியானித்த உருவமாகவே அவள் காட்சி கொடுக்கின்றாள். உலகத்தின் இயக்கத்திற்கு காரணம் இறைவன் காரியம் இறைவி இவர்கள் இருவரும் ஒன்றாக சேர்ந்து அருவுருவமாக தில்லை அம்பலத்தில் எங்கும் நிறைந்து ஆடுகின்றார்கள். இந்த அருவுருவமே உலகத்திலுள்ள அனைத்து உயிர்களும் உய்ய வேண்டும் என்பதற்காக சூரிய சந்திர அக்னி ஆகிய மூன்று மண்டலங்களிலும் நிறைந்து திரிபுரை சக்தியாக நிற்கின்றாள். கருத்து: உலக இயக்கத்திற்கு வெப்பம் குளிர்ச்சி இரண்டுமே வேண்டும் இதை சூரிய சந்திர மண்டலங்களாக இருந்து திரிபுரை சக்தி அருளுகின்றாள். பிரளயத்தில் அனைத்து உயிர்களும் இறைவனோடு திரும்பவும் சென்று கலந்து விடுவதற்கு அக்னி மண்டலமாக திரிபுரை சக்தி நிற்கின்றாள். பாடல் #612 இல் உள்ளபடி உடலில் (பிண்டத்தில்) இருக்கும் மூன்று மண்டலங்களே உலகத்திலும் (அண்டத்தில்) இருக்கின்றது. இவளே திரிபுரை என்று அறியப்படுகின்றாள்.`,
   },
@@ -3807,6 +3911,7 @@ She chants the Vedas,
 She is Parvati,
 Bear Her Feet on thy head
 And adore with songs devout.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/02/Song-1067-Fourth-Tantra-5.-Chakra-of-Three-Goddesses.mp3',
     elaborationTamil: `பாடல் #1066 இல் உள்ளபடி சிவகதியைச் சொல்கின்ற அனைத்து சொற்களாகவும் இருக்கின்ற திரிபுரை சக்தியே எங்கள் இறைவியாகும். அவள் மூன்று கண்களை உடையவள். உருவமில்லாத அவளே படிகம் போன்ற ஊடுருவிப் பார்க்கும் திருமேனியை விரும்பி வெள்ளைத் தாமரையில் அமர்ந்து கொண்டு எப்போதும் வேதங்களை ஓதிக் கொண்டிருக்கும் பிரம்மனின் தேவியான சரஸ்வதியாக இருக்கின்றாள். இவளது திருப்பாதங்களை தரிசித்து எமது தலைமேல் தாங்கி அவளின் தோத்திரங்களை எப்போதும் எமது வாய் சொல்லிக் கொண்டே இருக்கின்றது. கருத்து: திரிபுரை சக்தியானவள் பிரம்மனின் தேவியான சரஸ்வதி எனும் பெயருடன் உயிர்கள் வாழும் வாழ்க்கைக்குத் தேவையான அறிவைக் (கல்வி) கொடுத்து அருளுவதை இந்தப் பாடலில் உருவகிக்கலாம். முக்கண்ணி என்பது மூன்று காலங்களையும் பார்க்கின்ற இறைவியானவள் உயிர்களின் சென்ற பிறவிகளின் கர்மங்களைப் பார்த்து இந்த பிறவியை படைப்பதையும் இந்தப் பிறவியின் கர்மங்களைப் பார்த்து பின்பு வரும் பிறவிகளை தீர்மானித்து சிவகதியை அடைய வைப்பதையும் குறிக்கின்றது. வெள்ளைத் தாமரையில் அமர்ந்திருக்கும் படிகம் போன்ற உருவம் என்பது தூய்மையான எண்ணங்களுடன் அனைத்தையும் ஊடுருவிப் பார்க்கின்ற ஞானத்தின் உருவமாக இருப்பதைக் குறிக்கின்றது. திருமுறை பாடும் பார்ப்பனி என்பது உயிர்கள் சிவகதி அடைவதற்கு தமது கர்மங்களைத் தீர்க்க பல பிறவிகளை எடுக்க வேண்டும் என்பதற்காக வேதங்களை ஓதிக்கொண்டே படைக்கும் தொழிலை செய்யும் பிரம்மாவும் அவருக்கு சக்தியாக சரஸ்வதியும் இருப்பதைக் குறிக்கின்றது.`,
   },
   {
@@ -3847,6 +3952,7 @@ On Lotus of Dharma seated;
 Chant Her name as Siva Sakti, times infinite
 You will see Her Light,
 And all things past, present and future.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/02/Song-1069-Fourth-Tantra-5.-Chakra-of-Three-Goddesses.mp3',
     elaborationTamil: `ஆதியாக இருக்கும் திரிபுரை சக்தி பல விதங்களில் நிறைந்து இருக்கும் அண்டத்திலுள்ள அனைத்தையும் காத்து அருளுகின்ற திருமாலின் தங்கை என்று அழைக்கப்படுகின்ற பார்வதி தேவி அடியவர்களின் மனசாட்சியாக இருக்கும் நெஞ்சத் தாமரையில் அமர்ந்திருக்கிறாள். அவளின் திருநாம மந்திரத்தை அந்தத் தாமரைக்கு நடுவில் மானசீகமாக வைத்து அந்த மந்திரத்தை செபித்து வரும் அடியவர்களின் உள்ளொளி பெருகி முக்கால ஞானமும் அவர்களுக்கு கிடைத்துவிடும். குறிப்பு: திரிபுரை சக்தியாக இருக்கும் பார்வதி தேவியை வழிபடுபவர்கள் தங்களது குருவின் மூலம் அவளின் திருநாம மந்திரத்தை மந்திர தீட்சையாகப் பெற்று செபிக்க வேண்டும். அவ்வாறு செபிப்பவர்களுக்கு மூன்று காலங்களிலும் நடப்பவற்றை அறிந்து கொள்ளும் ஞானம் கிடைக்கும்.`,
   },
   {
@@ -3885,6 +3991,7 @@ Of Divine Jnana filled
 Transformed your inconstant thoughts,
 And made you realize God-truth;
 Her Holy Feet, I adore ever.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/02/Song-1071-Fourth-Tantra-5.-Chakra-of-Three-Goddesses.mp3',
     elaborationTamil: `பாடல் #1070 இல் உள்ளபடி திரிபுரை சக்தி கொடுத்த நல்லருளைப் பெற்று உணர்ந்தவர்கள் அதை எடுத்துச் சொல்லும் போது அதைக் கேட்கும் மனிதர்களே நீங்கள் கேட்டதை உணர்ந்து உலகப் பொருட்களைப் பற்றிக் கொண்டு மாயையில் மயங்கி இருக்கும் உங்களுடைய சிந்தனையை மாற்றி உலகங்கள் அனைத்தையும் இயக்குகின்ற திரிபுரை சக்தியின் தலைவனாகவும் அடியவர்கள் வணங்கிப் போற்றும் உண்மைப் பொருளாகவும் இருக்கும் இறைவனின் திருவடிகளைப் பற்றிக் கொண்டு அவனது திருவடிகளையே போற்றி வணங்கும் என்னோடு சேர்ந்து போற்றி வணங்குங்கள்.`,
   },
   {
@@ -3907,6 +4014,7 @@ And the rest of insignia,
 She of the pearly teeth,
 They who meditate on them true,
 In their hearts she arose.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/02/Song-1072-Fourth-Tantra-5.-Chakra-of-Three-Goddesses.mp3',
     elaborationTamil: `பாடல் #1071 இல் உள்ளபடி இறைவனின் திருவடிகளைப் போற்றி வணங்குபவர்களின் உள்ளத்தில் திரிபுரை சக்தியானவள் வராஹி எனும் பெயர் கொண்டு பன்றியின் முகத்தோடும் அதற்கேற்ற திருவடிகளோடும் வந்து கீழ்மையான எண்ணத்தை இடித்து மாற்றுகின்ற இரும்பு உலக்கையையும் அந்த எண்ணத்தை சீர்படுத்த உழுகின்ற ஏர் கலப்பையையும் மனதை ஒருநிலைப் படுத்துகின்ற வெண்மையான சங்கையும் கைகளில் ஏந்தி இருக்கின்றாள். அவளின் உருவத்தை மறந்து உருவமற்ற திரிபுரை சக்தியை உணர்ந்தவர்களின் உள்ளத்தில் அவள் ஓங்கி நிற்கின்றாள். கருத்து: திரிபுரை சக்தியானது அடியவர்களின் உள்ளத்தில் வராஹி எனும் உருவத்தில் ஓங்கி நிற்பதை இந்தப் பாடலில் உருவகிக்கலாம். திரிபுரை சக்தியைப் போற்றி வணங்குபவர்களின் உள்ளத்தில் அவள் வராஹி உருவம் கொண்டு வந்து தனது கைகளிலுள்ள இரும்பு உலக்கையால் கீழ்மையான எண்ணங்களை இடித்து அதை ஏர் கலப்பையால் சீர்படுத்தி அவர்களின் மனதை வெண்மையான சங்கினால் ஒருநிலைப் படுத்தி அவர்களின் உள்ளத்தில் ஓங்கி நிற்கின்றாள்.`,
   },
   {
@@ -3926,6 +4034,7 @@ As Ankhari of Creative Force She became
 And gave birth to the Five Gods
 And then lapsed sweet
 Into the music of Her mantra "Hrim."`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/02/Song-1073-Fourth-Tantra-5.-Chakra-of-Three-Goddesses.mp3',
     elaborationTamil: `பாடல் #1072 இல் உள்ளபடி அனைத்திலும் ஓங்கி நிற்கின்ற திரிபுரை சக்தியானவள் ஒரு பெண் பிள்ளையாக இருக்கின்றாள். அவள் என்றுமே நீங்காத பச்சை நிறத்தை உடையவள். அவளே அனைத்திலும் மேலானவளாக நின்று ஐந்து தேவர்களான பிரம்மன் விஷ்ணு உருத்திரன் மகேஸ்வரன் சதாசிவன் ஆகியோரை படைத்து அவர்களின் செயல்களாகவே எப்போதும் இனிமையுடன் இருக்கின்றாள். கருத்து: திரிபுரை சக்தியானவள் ஐந்து தேவர்களின் செயல்களாக இருப்பதை இந்தப் பாடலில் உருவகிக்கலாம். பெண் பிள்ளை என்பது திரிபுரை தனக்கு என்று எதுவும் செய்யாமல் அனைவருக்கும் தேவையானதை எப்போதும் செய்கின்றவளாக இருப்பதைக் குறிக்கின்றது. நீங்காத பச்சை நிறத்தை உடையவள் என்பது எப்போதும் இளமையாகவே இருப்பதைக் குறிக்கின்றது. ரீங்காரத்தின் உள்ளே என்பது நிற்காமல் தொடர்ந்து செய்து கொண்டே இருக்கும் சக்தியைக் குறிக்கின்றது. இனிது இருந்தாள் என்பது அவள் செய்யும் அனைத்து செயல்களும் நன்மையாகவே இருப்பதைக் குறிக்கின்றது.`,
   },
   {
@@ -4036,6 +4145,7 @@ They who meditate on Her
 Will not go the way of fleshly Jivas, Tattva bound;
 They radiant become, the blessed ones
 Who on Tiripurai meditate.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/02/Song-1077-Fourth-Tantra-6.-Mantra-of-Bhairavi.mp3',
     elaborationTamil: `பாடல் #1076 இல் உள்ளபடி ஆதியும் அந்தமுமாகி நிற்கின்ற வயிரவி மந்திரத்தில் பிரம்மன் விஷ்ணு உருத்திரன் ஆகிய மூன்று தேவர்களும் அடங்கி இருக்கின்றனர். முக்தி எனும் பெரும்பயன் பெறுவதற்கு மூன்று தேவர்களும் அடங்கி இருக்கும் வயிரவி மந்திரத்தை பஞ்சபூதங்களால் ஆன அழியக்கூடிய உலகத்தைச் சார்ந்து இருக்கின்ற வாழ்க்கை முறையை விரும்பாமல் சாதகம் செய்கின்ற சாதகர்களாகவும் அவர்கள் செய்கின்ற சாதகமாகவும் செய்யப்படுகின்ற நோக்கமாகவும் இருந்து புண்ணியத்தை வயிரவி அருளுகின்றாள்.`,
   },
   {
@@ -4054,6 +4164,7 @@ Meditate on Her for a month of days twenty seven;
 And reach the centers of Fire, Sun and Moon within;
 He who thus firm in meditation stands
 Becomes Siva Himself.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/02/Song-1078-Fourth-Tantra-6.-Mantra-of-Bhairavi.mp3',
     elaborationTamil: `பாடல் #1077 இல் உள்ளபடி வயிரவியிடம் புண்ணித்தைப் பெற்று குருவாக இருப்பவர்கள் இறைவனின் தன்மையில் இருந்து வயிரவி மந்திரத்தையும் அதைச் சொல்லும் முறையையும் அருளுவார். குரு சொன்ன முறைப்படி வயிரவி மந்திரத்தை எண்ணத்தில் வைத்து இருபத்தேழு நாட்களும் சூரிய கலை சந்திர கலை ஆகியவற்றின் மூலம் உள்ளிழுத்த மூச்சுக்காற்றால் மூலாதாரத்தில் இருக்கும் அக்னியை வளர்த்து அதை முழுவதுமாக ஆராய்ந்து அதன்படி தொடர்ந்து சிறிதும் மாறாத சிந்தனையுடன் மானசீகமாக செபித்து சாதகம் செய்து வருபவர்களின் சிந்தனையில் பேரழகுடைய சிவபெருமான் வந்து வீற்றிருப்பான். கருத்து: குரு கூறிய முறைப்படி வயிரவி மந்திரத்தை சாதகம் செய்யும் போது நொடிப் பொழுது நேரம் கூட இறைவனைத் தவிர வேறு எந்த சிந்தனையும் இல்லாமல் செய்பவர்களின் சிந்தனையில் இறைவன் வந்து வீற்றிருப்பான்.`,
   },
   {
@@ -4075,6 +4186,7 @@ The Lord that is Nandi,
 The Hero Mighty;
 With Him in Golden Mount of Kailas will he be;
 All the World will there adore him.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/02/Song-1079-Fourth-Tantra-6.-Mantra-of-Bhairavi.mp3',
     elaborationTamil: `திருக்கயிலாய மலையில் உலகங்கள் யாவும் போற்றி வணங்கும் மாபெரும் குருவாகவும் அனைத்திற்கும் காவலனாகவும் வீற்றிருக்கும் பேரழகுடைய சிவபெருமானுடன் திரிபுரை சக்தியாகிய அம்மையும் சேர்ந்து இருக்கின்றாள். அது போலவே வயிரவி மந்திரத்தை இடைவிடாது செபித்து வரும் சாதகர்களின் உள்ளத்தையே கயிலாய மலையாகக் கொண்டு இறைவன் வந்து வீற்றிருக்கும் போது அவனுடனே ஒன்றாகக் கலந்து திரிபுரையும் வந்து வீற்றிருப்பாள்.`,
   },
   {
@@ -4094,6 +4206,7 @@ He who meditates on Her
 For a lunar month of twenty seven days,
 Will vision Bhairavi,
 Her trident blessing him.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/02/Song-1080-Fourth-Tantra-6.-Mantra-of-Bhairavi.mp3',
     elaborationTamil: `பாடல் #1079 இல் உள்ளபடி சாதகர்களின் உள்ளத்திற்குள் திரிபுரையோடு ஒன்றாகக் கலந்து வீற்றிருக்கும் இறைவனின் திருவருளால் தமக்குள்ளே அவரை குருவாக உணரலாம். அப்படி குருவாக உணர்ந்த இறைவனே தருமத்தின் படி தகுதியானவர்களுக்கு வேதங்களில் உள்ள முறையில் வயிரவி மந்திரத்தையும் அதை சாதகம் செய்யும் முறையையும் அருளுகின்றார். அவர் அருளிய முறையின் படி இருபத்தேழு நாட்கள் வயிரவி மந்திரத்தை சாதகம் செய்தால் அதன் சக்தி பெருகிக் கொண்டே இருந்து வயிரவியானவள் சூலம் தாங்கிய சோதி வடிவாக வந்து சாதகரை ஆட்கொள்வாள்.`,
   },
   {
@@ -4174,6 +4287,7 @@ Eight the Virgin Saktis
 Four and Sixty the fair damsels, surround Her;
 So encircling,
 They visioned Her Glory.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/02/Song-1084-Fourth-Tantra-6.-Mantra-of-Bhairavi.mp3',
     elaborationTamil: `பாடல் #1083 இல் உள்ளபடி பேரானந்தத்தில் பூரித்து இருக்கின்ற வயிரவியின் பூப்போன்ற இதழ்களிலிருந்து (வாயிலிருந்து) எட்டுவிதமான கன்னியர்கள் தோன்றி எட்டு திசைகளுக்கும் ஒவ்வொருவராக இருக்கின்றார்கள். ஒவ்வொருவரிடமிருந்தும் எட்டுவிதமான கலைகள் தோன்றி அந்தந்த கலைகளுக்கான தேவியர்களாக மொத்தம் 64 கலைகளுக்கு 64 தேவியர்களாக இருக்கின்றார்கள். வயிரவி மந்திரத்தை சாதகம் செய்கின்ற சாதகர்கள் வயிரவியின் அம்சமான 64 தேவியர்களின் தரிசனத்தை கண்பார்கள்.`,
   },
   {
@@ -4198,6 +4312,7 @@ And its eight cardinal points,
 She is possessed of Wealth of Grace
 She is seated on Lotus
 She who our worship compells.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/03/Song-1085-Fourth-Tantra-6.-Mantra-of-Bhairavi.mp3',
     elaborationTamil: `பாடல் #1084 இல் உள்ளபடி சாதகர்கள் தரிசித்த வயிரவி தனது நான்கு கைகளிலும் சிலம்பு வளையல் சங்கு சக்கரம் ஆகியவற்றை ஏந்திக்கொண்டு இருக்கின்றாள். அவள் இருக்கும் எட்டுத் திசைகளிலும் யோகம் செய்த யோகியர்களுக்கு இறைவியான பராசக்தியின் உருவமாக அண்டசராசரங்களையும் அதிலிருக்கும் எட்டுத் திசைகளையும் தாங்கிக் கொண்டு இருக்கும் அருள் வடிவாக அவர்களின் நெஞ்சத்தாமரைக்குள் வீற்றிருந்து அவர்களின் பூஜையை ஏற்றுக் கொள்பவளாக இருக்கின்றாள். கருத்து: வயிரவி மந்திரத்தை சாதகம் செய்து 64 கலைகளுக்கான தேவியர்களை சாதகர்கள் தரிசித்தனர். அதன் பிறகு எட்டு திசைகளிலும் இருக்கும் 64 தேவியர்களுக்கும் இறைவியான பராசக்தியை யோகம் செய்தால் அவள் அருள் வடிவாக யோகியர்களின் உள்ளத்திற்குள் வந்து வீற்றிருப்பாள். இவளே யோகியர்கள் செய்கின்ற பூஜையை ஏற்றுக்கொள்பவளாக இருக்கின்றாள். யோகியர்கள் எப்படி பூஜை செய்ய வேண்டும் என்பதை அடுத்த பாடலில் அருளுகின்றார்.`,
   },
   {
@@ -4219,6 +4334,7 @@ That spells no word;
 There shall you hear the sound of Her conch
 For yojanas around;
 Thus is Tiripurai, whom you seek.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/03/Song-1086-Fourth-Tantra-6.-Mantra-of-Bhairavi.mp3',
     elaborationTamil: `பாடல் #1085 இல் உள்ளபடி யோகியர்களின் உள்ளத்திற்குள் வந்து வீற்றிருக்கும் பராசக்தியை மானசீகமாக பூஜிக்கும் முறையை இந்தப் பாடலில் அறியலாம். சந்தனம் குங்குமம் பன்னீர் முதலிய நறுமணப் பொருள்களால் அபிஷேகம் செய்தும், வாசனை மிக்க மலர்களை மாலையாக செய்து அணிவித்தும், தங்களின் மூச்சுக்காற்றையே நாதஸ்வரமாகவும் இதயத் துடிப்பை மிருதங்க வாத்தியமாகவும் பல நாடிகளின் துடிப்புகள் உபவாத்தியங்களாகவும் கொண்டு இசைத்தும், மணியடித்தால் எதிரொலிக்கும் ஒலி போல வாயால் உச்சரிக்காமல் மனதிற்குள்ளேயே உள்ளுக்குள் எதிரொலிக்கும்படி மந்திரங்களை செபித்தும் யோகம் செய்து உலகங்கள் அனைத்திலும் நிறைந்து இருக்கும் திரிபுரையை தரிசிக்கலாம். கருத்து: மானசீக பூஜையின் மகத்துவத்தை இந்தப் பாடலில் அறிந்து கொள்ளலாம்.`,
   },
   {
@@ -4237,6 +4353,7 @@ Many are the Gods they concieve of;
 But she is the Supreme Cause
 Whom the three Gods,
 Siva, Brahma and Vishnu adore.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/03/Song-1087-Fourth-Tantra-6.-Mantra-of-Bhairavi.mp3',
     elaborationEnglish: `In the sphere of the ‘sun’ She appears with twelve kalas. In the sphere of the ‘moon,’ with sixteen kalas. Nada arises in the moon's sphere. But Sakti is the source of that moon's sphere with kalas sixteen. That sphere of the moon knows no waxing and waning. It is of infinite beauty, and of intoxicating fragrance. There She waseborn; there She abides in infinite bliss.`,
     elaborationTamil: `பாடல் #1086 இல் உள்ளபடி யோகியர்கள் தரிசித்த திரிபுரை சக்தியானவள் உலகத்தில் காணப்படுகின்ற அனைத்து விதமான தெய்வங்களின் உருவமாகவே இருக்கின்றாள். ஒரே விதமான தங்கத்திலிருந்து பலவிதமான நகைகள் செய்யப்படுவது போல ஒரே சக்தியானவள் அனைத்து தெய்வங்களாக இருக்கின்றாள். சாதகர்கள் போற்றுகின்ற மும்மூர்த்திகளான சிவன், பிரம்மா, விஷ்ணு ஆகிய மூவரும் செய்கின்ற அழித்தல், படைத்தல், காத்தல் ஆகிய தொழில்களுக்கு நன்மை செய்யும் காரணியாக திரிபுரை சக்தியே இருப்பதைக் கண்டுகொள்ளுங்கள். கருத்து: உலகத்து உயிர்கள் வணங்குகின்ற பலவிதமான தெய்வங்கள் அனைத்துமே ஒரே சக்தியான திரிபுரையின் அம்சங்களாகவே இருக்கின்றன என்பதை இந்தப் பாடலில் அறிந்து கொள்ளலாம்.`,
   },
@@ -4301,6 +4418,7 @@ Counting them in order appropriate
 Nandi laid down laws and rules of Japa way
 He who of yore expounded
 The ways of yoga-eight limbed.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/03/Song-1090-Fourth-Tantra-6.-Mantra-of-Bhairavi.mp3',
     elaborationTamil: `பாடல் #1089 இல் உள்ளபடி இறைவன் அருளிய ஒன்பது சக்திகளை வழிபடும் முறையை இப்பாடலில் அறிந்து கொள்ளலாம். வயிரவியின் ஒன்பது சக்திகளில் முதன்மையாக இருக்கும் மனோன்மணியைச் சுற்றி வயிரவி செய்யும் 12 கலைகளை (பாடல் #1075 இல் உள்ளபடி) எண்ணத்தில் வைத்து தியானித்து வயிரவி இருக்கும் திருக்கோலத்தை தமக்குள் தரிசிக்கும் முன்பே அதை எவ்வாறு செய்ய வேண்டும் அதற்கான வழி முறைகள் என்னென்ன என்பதை குருவாக இருந்து இறைவனே கொடுத்து அருளினார். கருத்து: வயிரவி செய்யும் பன்னிரண்டு செயல்களை எண்ணி தியானித்தால் வயிரவியின் திருக்கோலத்தை தரிசிக்கும் வழியை இறைவனே குருவாக வந்து அருளுவார்.`,
   },
   {
@@ -4323,6 +4441,7 @@ With thread-like column of smoke
 From sacrificial fire of Kundalini She arose,
 Reached the heights of astral sphere
 And with ambrosia returned.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/03/Song-1091-Fourth-Tantra-6.-Mantra-of-Bhairavi.mp3',
     elaborationTamil: `பாடல் #1090 இல் உள்ளபடி குருவாகிய இறைவன் அருளிய வழிமுறையில் சாதகம் செய்தால் நறுமணம் வீசுகின்ற மலர்களை சூடியிருக்கும் கூந்தலுடன் கருணை பொழியும் கண்களை உடைய வயிரவியானவள் சாதகர்களின் உள்ளுக்குள்ளே வீற்றிருந்து அவர்களின் ஆணவம் மலத்தை கொஞ்சம் கொஞ்சமாக நீக்கி அருளுவாள். வெளியில் செய்யும் யாகத்தீயில் வரும் நுண்மையான புகையைப் போலவே உள்ளுக்குள் இருக்கும் மூலாதார அக்னியிலிருந்து குண்டலினி சக்தியை ஒவ்வொரு சக்கரங்களாக மேலே ஏற்றிச் சென்று தலை உச்சியிலுள்ள சகஸ்ரதளத்தில் சேர்த்து அங்கே அமிழ்தத்தை சுரக்க வைத்து அதைப் பருகிய ஆன்மா ஆணவத்திலிருந்து முழுவதும் மீண்டு தூய்மையானதாக திரும்பி வருவதைக் காணுங்கள்.`,
   },
   {
@@ -4343,6 +4462,7 @@ The offering of Prana
 That courses through central Sushumna,
 Reaches the heights of cranium top.
 There, chant Sikha Mantra (Sikhaya Nama).`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/03/Song-1092-Fourth-Tantra-6.-Mantra-of-Bhairavi.mp3',
     elaborationTamil: `பாடல் #1091 இல் உள்ளபடி தூய்மையான ஆன்மாவை சாதகர் கண்டு உணர்ந்த பிறகு இருதயத்தில் கேட்கும் இருதய மந்திரத்துடன் ‘நம’ சேர்த்து இறைவனை போற்றி வணங்கினால் மூலாதாரத்திலிருந்து கிளம்பிய அக்னி தலைக்கு மேலே சுழுமுனை நாடியின் உச்சி வரை மிகவும் நீண்டு மாபெரும் அக்னியாக இருக்கும். இதன் பிறகு தலை உச்சிக்கும் அதிலிருந்து சிறிது தூரத்திலிருக்கும் துவாதசாந்த வெளிக்கும் நடுவில் கேட்கும் சிதாகாய மந்திரத்தை அறிந்து கொள்ளுங்கள். குறிப்பு: பாடல் #1086 இல் உள்ளபடி மானசீக பூஜையில் இதயத்துடிப்பை மிருதங்கமாக பாவிக்கும் போது கேட்கும் ஒலியே இருதய மந்திரமாகும். மூச்சுக்காற்றை நாதஸ்வரமாகவும் பாவிக்கும் போது தலை உச்சியில் கேட்கும் ஒலியே சிதாகாய மந்திரமாகும்.`,
   },
   {
@@ -4363,6 +4483,7 @@ And then perform Sula Mudra
 And chant Netra mantra,
 Thus worshipping,
 Will ever rebirth harass you?`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/03/Song-1093-Fourth-Tantra-6.-Mantra-of-Bhairavi.mp3',
     elaborationEnglish: `Sula Mudra - Sign of the trident
 Netra Mudra - Netisaya Nama`,
     elaborationTamil: `பாடல் #1092 இல் உள்ளபடி தலை உச்சியில் கேட்ட சிதாகாய மந்திரத்தின் மூலம் உயிர்கள் ஆதியிலிருந்தே தங்களின் ஆன்மாவோடு தொடர்ந்து வந்து இறைவனை அடைய விடாமல் அவர்களின் உடலைச் சுற்றி கவசம் போல தடுத்துக் கொண்டு இருக்கும் உயிர் பயத்தையும் உலகப் பற்றையும் மாற்றி அமைக்க அந்த மந்திரத்துடன் நேத்திர முத்திரையை சேர்த்து தியானித்து வந்தால் அந்தப் பயத்தையும் பற்றையும் சூலம் அழித்து இனி பிறவி இல்லாத நிலைக்கு கொண்டு செல்லும். கருத்து: இறைவனை அடைய விடாமல் உயிர்களைச் சுற்றி கவசமாக இருக்கும் உயிர் பயம் உலகப் பற்று ஆகிய எதிர்மறை எண்ணங்களை வயிரவியின் சிதாகாய மந்திரத்துடன் நேத்திர முத்திரையை சேர்த்து தியானிப்பதின் மூலம் இறைவனை அடையும் நேர்மறை எண்ணங்களாக மாற்றி அமைத்து பிறவி இல்லாத நிலையை அடையலாம்.`,
@@ -4401,6 +4522,7 @@ Take away "i"
 Conjoin the Bindu letter "M"
 The the mantra "Sam" do you chant
 For Pranayama practice to promote.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/03/Song-1095-Fourth-Tantra-6.-Mantra-of-Bhairavi.mp3',
     elaborationTamil: `பாடல் #1092 இல் உள்ள சிதாகாய மந்திரத்தை எப்படி செபிப்பது என்பதை இந்தப் பாடலில் அறிந்து கொள்ளலாம். பாடல் #1094 இல் உள்ளபடி செபித்த சிதாகாய மந்திரத்தில் ‘இ’ என்ற எழுத்தை நீக்கிவிட்டு ‘ச’ எழுத்தை முன்னே வைத்து ‘சம்’ எனும் மந்திரத்தை இறைவனைத் தவிர வேறு எந்த எண்ணங்களும் இல்லாமல் உச்சரித்து மூச்சுக்காற்று உபதேசித்த (பாடல் #1092 இல் உள்ளபடி) வயிரவி மந்திரத்தை பிரகாசமான ஒளிக்கீற்றுக்களை உடைய குண்டலினி (பாடல் #860 இல் காண்க) அக்னியோடு சேர்த்து உரக்க (சத்தமாக) செபியுங்கள்.`,
   },
   {
@@ -4466,6 +4588,7 @@ The life species several,
 The Light that is Parapari--
 All these are but the Primal Sakti;
 As One Energy She pervades all.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/03/Song-1098-Fourth-Tantra-6.-Mantra-of-Bhairavi.mp3',
     elaborationEnglish: `“Sakti.is Supreme Energy’ — that is the central formula, the core thought, the heart of Sakti worship.`,
     elaborationTamil: `பாடல் #1097 இல் உள்ளபடி சாதகர்கள் சமர்ப்பணம் செய்த சிதாகாய மந்திரம் வேதமாகவும், அண்ட சராசரங்களாகவும், ஐந்து பூதங்களாகவும், நான்கு திசைகளிலும் தேடிப் பார்க்கும் மூன்று கண்களை உடைய இறைவியாகவும், இருண்ட அண்டமாகவும், ஒளி பொருந்திய பரவெளியாகவும், பலவிதமான உடல்களில் பிறவி எடுத்து வரும் உயிர்களாகவும், சோதி வடிவாகவும், அசையும் சக்தியான பராசக்தியாகவும், அனைத்தையும் உருவாக்குகின்ற ஆற்றலுடன் அனைத்துமாகவும் இருக்கின்ற ஆதி தலைவியாகவும் இருக்கின்றது. கருத்து: சிதாகாய மந்திரத்தின் தன்மைகளை இந்தப் பாடலில் அறிந்து கொள்ளலாம்.`,
   },
@@ -4487,6 +4610,7 @@ Will be body, soul and God in one;
 Snapped will be the cycle of births here below;
 A form, comely beyond words,
 Will theirs be.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/03/Song-1099-Fourth-Tantra-6.-Mantra-of-Bhairavi.mp3',
     elaborationTamil: `பாடல் #1098 இல் உள்ளபடி ஆதி சக்தியான வயிரவியே எப்போதும் இளமையுடன் அண்ட சராசரங்களிலுள்ள அனைத்து இடத்திற்கும் அரசியாக வீற்றிருக்கின்றாள். அவளது மந்திரத்தை செபித்து தமக்குள் அவளை உணரும் சாதகர்களின் உடலும் உயிரும் இறைவனாகவே ஆகிவிடும். மாயையால் மயங்கி இருக்கும் இந்த உலகத்தில் மீண்டும் பிறவி எடுக்காமல் இருக்கும் படி எப்போதும் அழியாத உடலையும் அவர்கள் பெற்று விடுவார்கள்.`,
   },
   {
@@ -4525,6 +4649,7 @@ She made my thoughts doubt-free
 She infused joy in me,
 She made the divine light shine in me,
 And redeemed me too.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/03/Song-1101-Fourth-Tantra-6.-Mantra-of-Bhairavi.mp3',
     elaborationTamil: `பாடல் #1100 இல் உள்ளபடி அனைத்திற்கும் மேலான சதாசிவத்தை வெளிப்படுத்தி அருளிய வயிரவி தேவி அதன் பயனாக பேரறிவு ஞானத்தைக் கொடுத்து அந்த ஞானத்தின் பயனாக தெளிவான சிந்தனையைக் கொடுத்து அதன் பயனாக பேரின்பத்தை அடைய வைத்து அதன் பயனாக பெருஞ்சோதி வடிவான இறைவனுடன் கதிர் வடிவான எம் ஆன்மாவை சேர வைத்து அதன் பயனாக எம்மையும் சோதி உருவம் பெற வைத்து எமது ஆன்மா முக்தியடையும்படி செய்து எம்மை முழுவதும் ஆட்கொண்டாள்.`,
   },
   {
@@ -4543,6 +4668,7 @@ She sports the garland of Kalas sixteen,
 She beamed forth the lights three--Fire, Sun and Moon
 She the Goodly Lady
 On the cool heights of head within stands.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/03/Song-1102-Fourth-Tantra-6.-Mantra-of-Bhairavi.mp3',
     elaborationTamil: `பாடல் #1101 இல் உள்ளபடி எம்மை உய்யும் படி செய்து ஆட்கொண்ட சோதியான வயிரவி உயிர்களும் உய்வதற்காக அவரவர் மனப் பக்குவத்துக்கு ஏற்ப பல கோடித் தோற்றங்களுடன் உயிர்களின் உள்ளுக்குள்ளே இருக்கின்றாள். உயிர்களின் அறியாமையை நீக்குவதற்கு அறுபத்து நான்கு கலைகளையும் அருளி அவற்றின் உச்சமாகவும் இருக்கின்றாள். உயிர்களின் வெளிப்புற இருளை நீக்குவுதற்கு ஆகாயத்தில் சூரியன், சந்திரன், மூலாதார அக்னி ஆகிய மூன்று விதமான ஒளிகளை அருளினாள். சாதகர்களின் தலை உச்சிக்கு மேல் வீற்றிருந்து உலகத்தை அவரோடு பிணைத்து நன்மை புரிபவளாக இருக்கின்றாள். கருத்து: வயிரவியானவள் உயிர்களின் எண்ணங்களுக்கு ஏற்ற உருவத்துடன் அவர்களின் உள்ளுக்குள்ளே இருக்கின்றாள். சாதகர்களின் உள்ளே இருக்கும் அறியாமையாகிய இருளை அறுபத்து நான்கு கலைகளின் மூலம் நீக்கி வெளியே இருக்கும் இருளை சூரிய சந்திர அக்னி ஒளிகளின் மூலம் நீக்கி உலகத்தோடு அவரை பிணைத்து (ஒன்றோடு ஒன்று கலந்து) நன்மை புரிகின்றாள் வயிரவி.`,
   },
   {
@@ -4564,6 +4690,7 @@ Dispells Mayaic darkness,
 Gently stand and adore Her;
 Having adored Her
 Births no more shall yours be.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/03/Song-1103-Fourth-Tantra-6.-Mantra-of-Bhairavi.mp3',
     elaborationTamil: `பாடல் #1102 இல் உள்ளபடி சாதகரை உலகத்தோடு பிணைத்து நன்மை புரிகின்ற வயிரவியானவள் உலகோர் செய்யும் அனைத்து விதமான தவத்தின் தலைவியாக இருக்கின்றாள். அந்த தவத்தின் பயனாக சாதகரின் மாயையை நீக்கி அருளுகின்ற மனோன்மணியாகவும் இருக்கின்றாள். அவளை அமைதியான மன நிலையில் வேறு எண்ணங்கள் இல்லாமல் புகழ்ந்து போற்றி வணங்குங்கள். அப்படி வணங்கினால் கொடுமையான இந்த உலக வாழ்க்கையை மறுபடியும் அனுபவிக்காத படி உங்களின் பிறவிகளை நீக்கி அருளுவாள்.`,
   },
   {
@@ -4585,6 +4712,7 @@ She holds the trident
 She the Beautiful,
 She in endearment,
 In my heart constant stood.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/03/Song-1104-Fourth-Tantra-6.-Mantra-of-Bhairavi.mp3',
     elaborationTamil: `பாடல் #1103 இல் உள்ளபடி சாதகர்களின் பிறவிகளை நீக்கி அருளுகின்ற வயிரவி தேவியானவளின் உருவத்தை இந்தப் பாடலில் தெரிந்து கொள்ளலாம். மூங்கில்களைப் போல் மெல்லிய அழகுடன் வலிமை பொருந்திய தோள்களை உடையவளும், நறுமணம் கமழுகின்ற மென்மையான மலர்களை சூடியிருப்பவளும், பேரழகு பொருந்திய கூந்தலை உடையவளும், இளம் பிறை நிலாவை தனது தலையில் ஆபரணமாக சூடியிருப்பவளும், தூய்மையான சடை முடியைக் கொண்டு இருப்பவளும், திரிசூலத்தை தனது கைகளின் ஏந்தியிருப்பவளும், பேரழகு பொருந்தியவளுமான வயிரவி தேவி எமது உள்ளத்தை அவளுக்கு விருப்பமான இடமாக ஏற்றுக் கொண்டு அதிலே இன்பத்துடன் வீற்றிருந்தாள்.`,
   },
   {
@@ -4606,6 +4734,7 @@ She beckoned me apart
 She Separated my impurities
 She loved my heart,
 And there She entered.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/03/Song-1105-Fourth-Tantra-6.-Mantra-of-Bhairavi.mp3',
     elaborationTamil: `பாடல் #1104 இல் உள்ளபடி எமது உள்ளத்தையும் தனக்கு விருப்பமான இடமாக ஏற்றுக்கொண்டு அதில் ஓர் இடத்தில் இளமையோடு எமது உள்ளத்தின் நாயகியாக தான் ஒருவளே வீற்றிருக்கும் வயிரவி தேவி பின்பு எமது உள்ளத்தின் தலைவியாகி இருக்கின்றாள். அதன் பிறகு உலகம் உடல் ஆசை பந்தம் பாசம் ஆகியவற்றின் மேலுள்ள பற்றிலிருந்து எமது உள்ளத்தை பிரித்து தனியாக்கி அதை நன்மையே உருவான இறைவனோடு சேர்ந்து இருக்க வைத்து எமது உள்ளம் முழுவதும் நன்மையே மிகுதியாக இருக்கும் படி செய்து இறைவன் வீற்றிருக்கும் எமது உள்ளத்தையே விரும்பி அங்கே வீற்றிருக்கின்றாள்.`,
   },
   {
@@ -4628,6 +4757,7 @@ On Her feet She wears golden anklet,
 That in rythmic music sings;
 Thus She entered my heart,
 And there slumbers.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/03/Song-1106-Fourth-Tantra-6.-Mantra-of-Bhairavi.mp3',
     elaborationEnglish: `1)Ida, Pingala and Sushumna`,
     elaborationTamil: `பாடல் #1105 இல் உள்ளபடி எமது உள்ளத்தையே விரும்பி வீற்றிருக்கின்ற வயிரவியானவள் எமது உடலுக்குள் இருக்கும் இடகலை பிங்கலை சுழுமுனை ஆகிய மூன்று விதமான நாடிகளில் நடுவில் உயர்ந்து இருக்கும் சுழுமுனை நாடியின் வழியே மூலாதாரத்தில் இருந்து தமது கால்களில் தண்டையை அணிந்து கொண்டு இருக்கும் இறைவனோடு சேர்ந்து நன்மைகளின் மொத்த உருவமாக இருக்கும் இறைவியும் தனது திருவடிகளில் தூய்மையான பொன்னாலான சிலம்புகளை அணிந்து கொண்டு ஆடிக்கொண்டே மேலேழுந்து வருகின்றாள். இவர்கள் இருவரின் ஆடலில் இருந்து வரும் ஓசை எமக்குள் முழுவதும் பரவி ஒலிக்க அதிலேயே லயித்து இருக்கின்றேன்.`,
   },
@@ -4649,6 +4779,7 @@ And into my mouth transferred,
 Her luminous spittle of Grace
 And said, "No more shall you slumber, my son."
 This, the miracle She performed.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/03/Song-1107-Fourth-Tantra-6.-Mantra-of-Bhairavi.mp3',
     elaborationTamil: `பாடல் #1106 இல் உள்ளபடி தன்னை மறந்து ஆழ்நிலையில் லயித்து இருக்கும் போது வயிரவியானவள் இறைவனும் இறைவியும் சேர்ந்து இருக்கும் மனோன்மணி எனும் அம்சமாக எமக்குள் வந்து மென்மையாக சத்தம் செய்யும் வளையல்கள் அணிந்த தமது திருக்கரங்களால் எமது கழுத்தை வளைத்துப் பிடித்துக் கொண்டு ஆழ்நிலையில் யாம் லயித்து இருக்கும் நிலையிலேயே எமது வாயில் தாம்பூலத்தை உமிழ்ந்து கொடுத்து விட்டு அனைத்தையும் மறந்த நிலையில் லயித்துக் கொண்டே இருக்காதே அடியவனே என்று கூறி எப்போதும் விழிப்பு நிலையிலேயே பேரின்பத்தில் லயித்து இருக்கும் வழிமுறையையும் தந்து அருளினாள். கருத்து: பாடல் #1106 இல் அனைத்தையும் மறந்த நிலையில் இறைவனும் இறைவியும் ஆடும் ஆட்டத்திலிருந்து வரும் ஓசையிலேயே லயித்து இருக்கும் எமக்கு இறைவனும் இறைவியும் ஒன்றாக சேர்ந்து இருக்கும் அம்சமான மனோன்மணியானவள் எமது வாயில் அமிழ்தத்தை ஊட்டி அனைத்தையும் அறிந்த நிலையிலும் பேரின்பத்தில் லயித்து இருக்கும் வழிமுறையை தந்தருளினாள்.`,
   },
   {
@@ -4668,6 +4799,7 @@ She fostered love divine in me,
 In the Sushumna that bathes the Moon in full light
 She contained my desires and said,
 "Fear not."`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/03/Song-1108-Fourth-Tantra-6.-Mantra-of-Bhairavi.mp3',
     elaborationTamil: `பாடல் #1107 இல் உள்ளபடி விழிப்பு நிலையிலேயே பேரின்பத்தில் லயித்து இருக்கும் வழிமுறையை அருளிய இறைவி எமது உள்ளத்திற்குள் இருக்கும் பயம் பற்று ஆகிய அனைத்தையும் சுத்தமாக நீக்கி அருளி உலகப் பற்றுக்களில் சிக்கிக் கொண்டு எப்போதும் அலைந்து கொண்டே இருக்கும் எமது மனதிற்குள் இருக்கும் ஆசையை அடக்கி வைத்து எதற்கும் பயப்பட வேண்டாம் நான் இருக்கின்றேன் என்று எமக்கு அபயம் அருளினாள்.`,
   },
   {
@@ -4772,6 +4904,7 @@ She then entered the four-finger prana of breath retained
 And She joined Siva in union divine
 And performed penance rare,
 She, the Ancient One.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/03/Song-1113-Fourth-Tantra-6.-Mantra-of-Bhairavi.mp3',
     elaborationEnglish: `Of 12 finger-length breath inhaled, purata eight finger-length is exhaled (rechaka); the four finger-length is retained in kumbhaka.`,
     elaborationTamil: `பாடல் #1112 இல் உள்ளபடி எமக்குள் வீற்றிருந்த வயிரவி தேவியானவள் அழகிய ஆபரணங்களை சூடிய மங்கையாக எமது உள்ளம் முழுவதும் பரவி சகஸ்ரதளத்திலும் வீற்றிருந்தாள். அதன் பிறகு எமது தலைக்குள் இருக்கும் சகஸ்ரதளத்தில் வீற்றிந்தவள் அங்கிருந்து நான்கு விரற்கடை அளவு தூரத்தில் தலைக்கு மேலே உள்ள துவாதசாந்த வெளியில் வீற்றிருக்கும் இறைவனோடு சேர்ந்து பூவிதழில் வீற்றிருந்தாள். அதன் பிறகு எமக்குள் மேலும் கீழும் அலைந்து கொண்டிருந்த மூச்சுக்காற்றை சீராக்கி எமது முதுகுத் தண்டில் இருக்கும் சுழுமுனை நாடியோடு ஒன்றாகச் சேர்ந்து கலந்திருந்து எம்மை அருமையான தவங்களை செய்ய வைத்து அருளினாள் ஆதிப் பரம்பொருளாகிய இறைவி.`,
   },
@@ -4798,6 +4931,7 @@ She is Samadhi, the transcendental End
 She is Manonmani, the Jewel of the Inmost Mind
 She in my sentience entered,
 And in my heart abided.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/03/Song-1114-Fourth-Tantra-6.-Mantra-of-Bhairavi.mp3',
     elaborationTamil: `பாடல் #1113 இல் உள்ளபடி ஆதிப் பரம்பொருளாகிய இறைவி அனைத்திற்கும் ஆரம்பமாகவும், தனக்கு என்று ஒரு ஆரம்பம் இல்லாமலும், அனைத்திற்கும் காரணமாகவும், தனக்கென்று ஒரு காரணம் இல்லாமலும், ஒளியாகவும் இருளாகவும், பேரின்பத்தை வழங்கும் அழகான இறைவியாகவும், துவாதசாந்த வெளியிலே சமாதி நிலையில் இறைவனுடன் சேர்ந்து மங்கையாக வீற்றிருந்து என்றும் நன்மையையே உடையவளாகவும் இருக்கின்றாள் என்பதை யாம் எப்போதும் போற்றிப் புகழ்ந்து கொண்டே இருக்கின்றோம். அவளும் எமது உள்ளத்திற்குள் எம்மோடு சேர்ந்து இருந்து அனைத்தையும் எம்மை செய்வித்தாள்.`,
   },
   {
@@ -4843,6 +4977,7 @@ Who in constant devotion seek;
 She has eyes three fish-shaped,
 She has lips red
 That warble words sweet,`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/04/Song-1116-Fourth-Tantra-6.-Mantra-of-Bhairavi.mp3',
     elaborationEnglish: `Her face is compassion full, That in Grace reveals before me.`,
     elaborationTamil: `இறைவனை உணர்ந்து அடைவதற்காக வழங்கப்பட்ட பிறவியை அவனைப் பற்றி எண்ணாமல் வீணாக பல பேச்சுகளை பேசிக் கழிக்கின்றனர் மூடத்தனமான உயிர்கள். இவர்கள் தம்மை நாடி சாதகம் செய்யும் அடியவர்களுக்கு முக்தியை அருளும் ஆதியான இறைவியை அறிந்து கொள்வதில்லை. அவளை அடைய முயன்று சாதகம் செய்யும் அடியவர்களுக்கு முன்பு அவள் முட்டையிட்டு அதைப் பார்வையிலேயே பார்த்து பொரிக்க வைக்கும் மீன்களைப் போல அடியவர்களை எப்போதும் கருணையோடு பார்த்துக் கொண்டே இருக்கும் ஞானக் கண்களோடும் அடியவர்களை தம்மிடம் வந்து சேரும்படி மீண்டும் மீண்டும் அழைக்கின்ற சிவந்த வாயோடும் அடியவர்களின் மேல் கருணையோடு பார்வையை வீசும் திருமுகத்தோடும் எதிர்வந்து அருள்புரிவாள்.`,
   },
@@ -4886,6 +5021,7 @@ And among them is Siva too
 Who Books of Truth composed!
 Oh, this Maya!
 Dark, dark indeed it is!`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/04/Song-1118-Fourth-Tantra-6.-Mantra-of-Bhairavi.mp3',
     elaborationEnglish: `There is a play on words. when Maya is said to be ‘dark’ She is so because, it is she who is the cause of delusion. Also in Tamil, ‘“Mayam” means blackness. cf. Mayon, a Tamil name for Vishnu. ‘Children Five refers to the five gods of , namely Siva, Sakti Herself. Vishnu, Surya. and Ganapati in Puranic mythology.`,
     elaborationTamil: `பாடல் #1117 இல் உள்ளபடி ஒளியாகிய இறைவனை இறைவியின் இருள் தன்மை மறைத்து வைத்திருக்கின்றது. என்றும் கன்னியாகவே இருக்கும் இறைவியானவள் என்றும் அழியாத இறைவனுடன் கொண்ட அன்பினால் அவனது ஆசைப்படியே தனது எண்ணத்தாலேயே ஐந்து தெய்வங்களான பிரம்மன், திருமால், உருத்திரன், மகேஸ்வரன், சதாசிவன் ஆகியோரை உருவாக்கி அருளினாள். இறைவன் சொல்லியபடியே எழுதப்பட்ட தூய்மையான வேதங்கள் கூறுகின்ற ஒளி வடிவமான இறைவனும் இருள் தன்மை கொண்ட இறைவியோடு சேர்ந்து உயிர்களுக்குள் வீற்றிருக்கின்றான். ஆனாலும் அவனையே மறைக்கின்ற அளவிற்கு இறைவியின் இருள் தன்மை இருக்கின்றது. இந்த மாயையின் சக்திதான் எவ்வளவு பெரியது? கருத்து: சுத்த மாயையின் ஒளி அம்சமான இறைவனும் மாயையின் இருள் அம்சமான இறைவியும் உயிர்களுடன் பிறவியிலேயே சேர்ந்து வந்துவிடுகின்றனர். ஆனாலும் இறைவியானவள் தனது இருள் தன்மையான மாயையால் உயிர்கள் தங்களின் கர்மங்களைத் தீர்த்துக் கொள்ளும் வரை இறைவனை மறைத்து அருளுகின்றாள். மேஜை மேல் வைக்கப்பட்ட விளக்கின் அடியிலேயே இருள் இருப்பதைப் போல உயிர்களின் தலை உச்சியில் உள்ள சகஸ்ரதளத்தில் ஒளியாக இருக்கும் இறைவனை மறைக்கின்ற இருளாக இறைவி இருக்கின்றாள். குறிப்பு: ஐந்து தெய்வங்களையும் தனது எண்ணத்தாலே உருவாக்கியதால் வேறு எந்த மாற்றமும் அடையாமல் இறைவி என்றும் கன்னியாகவே இருக்கின்றாள்.`,
   },
@@ -4908,6 +5044,7 @@ Thus in doubt-free mind,
 Adore Lord;
 The Primal One,
 Will sure bless you.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/04/Song-1119-Fourth-Tantra-6.-Mantra-of-Bhairavi.mp3',
     elaborationTamil: `உயிர்களுக்குள் ஒளியை மறைக்கின்ற இருள் தன்மையாக ஆதி சக்தியான இறைவியும் இருளை அகற்றுகின்ற வெளிச்ச தன்மையாக எமது தலைவனாகிய இறைவனும் இருக்கிறார்கள். இந்த உண்மையை அறிந்து உணர்ந்தவர்கள் புண்ணியம் செய்தவர்களாக இந்தப் பிறவியிலேயே பேரின்பத்தை பெறுகின்றார்கள். இந்த உண்மையை அறிந்து தெளிவு பெற்ற ஞானமே இறைவனை அடையும் வழியைக் காட்டும் என்று நம்பி முழுமையாகச் சரணடைந்தால் ஆதியாகிய இறைவன் அவர்களுக்குள் வெளிப்பட்டு அருள் புரிவான்.`,
   },
 {
@@ -4931,6 +5068,7 @@ She is the End of Samadhi,
 Manonmani, the Jewel of Inmost Thought,
 In my prayerful heart,
 She blossomed exuberant.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/04/Song-1120-Fourth-Tantra-6.-Mantra-of-Bhairavi.mp3',
     elaborationTamil: `அனைத்திற்கும் முதலாகவும் அனைத்துமாகவும் உலக இயக்கத்திற்கு காரணமாகவும் அசையா சக்தியான சதாசிவமூர்த்தியுடன் சரிபாதியான அசையும் சக்தியாகவும் அனைத்திற்கும் மேலானவளாகவும் அனைத்திற்குள்ளும் உறைந்து இருப்பவளுமாகிய வயிரவி தேவி அனைத்தையும் பொன் வளையல் போல வளைத்து இருக்கின்றாள். அழகான மங்கையாகவும் அமைதியாகவும் இறைவனோடு சேர்ந்து உயிர்களின் மனதை இயக்குபவளாகவும் நன்மையின் வடிவமாகவும் இருக்கின்ற அவளை எப்போதும் போற்றி வணங்கும் எமது உள்ளத்திற்குள்ளிருந்து வெளிப்பட்டு அருளினாள்.`,
   },
   {
@@ -4952,6 +5090,7 @@ She is Tattvas,
 She is Primal One,
 She is kindred of Jiva,
 Thus She assured me.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/04/Song-1121-Fourth-Tantra-6.-Mantra-of-Bhairavi.mp3',
     elaborationTamil: `இறைவனை அடைவதற்கு உலகத்தோர் கற்றுக்கொள்கின்ற அனைத்து கல்விகளுக்கும் மேலான கல்வியாக ஆதியிலிருந்தே இருக்கின்ற வேதங்களாக இறைவியே இருப்பதை யாரும் அறியாமல் இருக்கின்றனர். சாதி, மதம், இனம், குலம் என்கிற பலவிதமான பிரிவினைகளாக பிரிந்து இருக்கும் அனைத்திற்கும் தத்துவமாகவும் அவளே இருக்கின்றாள் என்பதையும் அவளே அனைத்திற்கும் முதல்வியானவள் என்பதையும் ஆன்மாக்களின் தலைவியாகிய இறைவியே எமக்கு ஓதி அருளினாள்.`,
   },
   {
@@ -4973,6 +5112,7 @@ Whom all praise high,
 She is comely one, dear to Siva
 She whom I adore,
 Severed my Karmas hard.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/04/Song-1122-Fourth-Tantra-6.-Mantra-of-Bhairavi.mp3',
     elaborationTamil: `ஆன்மாக்களின் தலைவியானவளும் எல்லாவித நன்மைகளையும் அருளுகின்ற திரு ஆவடு திருத்தலத்தில் (திருவாவடுதுறை) வீற்றிக்கின்றவளும் உயிர்களின் சொல்லிற்குத் தலைவியானவளும் அவளுடைய நன்மைகளைப் புகழ்ந்து போற்றி பாடி வணங்குகின்றவர்களுக்கு செல்வத்திற்கெல்லாம் மேலான செல்வமாகிய முக்தியை அருளுகின்றவளும் சதாசிவமூர்த்தியின் சரிபாதியாக இருக்கும் துணைவியானவளும் அனைத்திலும் பரவி இருக்கின்ற அனைத்திற்கும் தலைவியானவளும் ஆகிய வயிரவி தேவியானவள் தம்மை முழுவதுமாக சரணடைகின்ற உயிர்களின் வினைகளை எல்லாம் தடுத்து ஆட்கொண்டு அருளினாள். குறிப்பு: இத்தலத்தில் தான் திருமூலர் 3000 வருடங்கள் தவமிருந்து திருமந்திரம் பாடல்களை இயற்றினார்.`,
   },
   {
@@ -4992,6 +5132,7 @@ She is Truth of all those who reach Her,
 She is Lady that took me into Her vassalage,
 The Lord is Her Spouse
 Yet Beginningless is She.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/04/Song-1123-Fourth-Tantra-6.-Mantra-of-Bhairavi.mp3',
     elaborationTamil: `பாடல் #1122 இல் உள்ளபடி தன்னை முழுவதுமாக சரணடைகின்ற உயிர்களின் வினைகளை எல்லாம் தடுத்து ஆட்கொண்ட இறைவி அவர்களின் உள்ளத்திற்குள் ஒளியாக பரவி இருக்கின்றாள். அவளை முழுவதுமாக சரணடைந்தவர்கள் அனைவருக்கும் உண்மைப் பொருளாகவும் முக்தியை அருளுபவளாகவும் அவளே நிற்கின்றாள். எம்மையும் தடுத்து ஆட்கொண்டு தமது அடிமையாக ஆக்கிக் கொண்ட அந்த இறைவியோடு இறைவனையும் அவளது சரிபாதி துணைவனாகக் கொண்டு பார்த்தால் அவனைப் போலவே அவளுக்கும் தொடக்கம் என்று ஒன்று இல்லாதவளாக இருக்கின்றாள்.`,
   },
   {
@@ -5012,6 +5153,7 @@ She is abiding Light Divine,
 She is the Self-Manifest Light
 She that became Half of Siva's Form,
 She, of Kalas twelve, Para Parai.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/04/Song-1124-Fourth-Tantra-6.-Mantra-of-Bhairavi.mp3',
     elaborationEnglish: `Sakti being another form of the Sun (the pure energy form) possesses twelve Kalas, that is the twelve positions in the Zodiac.
 
 Purna Sakti is the primal Sakti. She possesses the full sixteen kalas. She is perfection. She is united with Siva in the sphere éf pure consciousness. Yet, She remains eternally virgin This is the subtlest of the subtle of God. But from it follows the great Truth that Siva is the Father, and Sakti is the Mother; and that Mother and Father are One.
@@ -5056,6 +5198,7 @@ I measured the Primal Lord
 Of spaces Vast;
 I measured His Grace in devotion
 And knew all.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/04/Song-1125-Fourth-Tantra-7.-Omnipresent-Energy.mp3',
     elaborationTamil: `இந்த விரிந்து பரந்த உலகத்தின் முடிவாகவும் ஆன்மாக்களின் முடிவாகவும் உலகத்தின் ஆரம்பமாகவும் உலகத்திலுள்ள அனைத்து உயிர்களில் ஆணாகவும் பெண்ணாகவும் இருக்கின்ற இறைவனை எங்கெல்லாமோ அலைந்து தேடினோம். பின்பு அவனருளால் எமக்குள்ளேயே ஆராய்ந்து பரிபூரணமாக இருக்கும் அந்த சிவசக்தியை முழுவதுமாக உணர்ந்து கொண்டோம்.`,
   },
   {
@@ -5078,6 +5221,7 @@ She, the Virgin Eternal;
 Meditate on Her in Muladhara, where She is
 Success indeed shall be
 Your yogic feat in breath control.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/04/Song-1126-Fourth-Tantra-7.-Omnipresent-Energy-1.mp3',
     elaborationEnglish: `It is important to note that Sakti.is frequently referred to as a virgin, even though she is said to be the wife of Siva and mother of children, (Here five, and in the Vedas, seven or eight as Aditi). This is because the magical power of a woman is thought to reside in her virginity. Cf. Kannagi, that is, Kanya plus nagi, literally the ‘‘naga virgin’, of Silappadikaram, the Tamil classic.`,
     elaborationTamil: `பாடல் #1125 இல் உள்ளபடி யாம் உணர்ந்து கொண்ட இறைவனையும் பேரூழிக் காலத்தில் அனைத்தையும் அழிக்கின்ற சக்தியாக இருக்கின்ற இறைவி அவனோடு சேர்ந்து இருப்பதே பரிபூரணமான நிலை என்பதையும் யாரும் உணர்ந்து கொள்ளாமல் இருக்கின்றார்கள். இறைவனை அறிந்து கொண்ட அடியார்களுக்கு அருள் புரிகின்ற இறைவியானவள் இறைவனை அடையும் பூர்வ ஜென்ம புண்ணியம் பெற்றவர்களுக்கு உள்ளே குருவாக இருந்து அவரவர்களுக்கு ஏற்ற விதத்தில் அருளிய வழிமுறைகளை மேற்கொண்டு அதன் படியே கடைபிடித்து வருபவர்களின் உள்ளே இறைவன் வந்து வீற்றிருப்பான்.`,
   },
@@ -5097,6 +5241,7 @@ The Lord of many splendoured crown (Siva)
 Who in the fragrant (Blossom) appears, (Sahasrara)
 And the Lady who with Him is in rapturous union,
 All in one love-union for ever merged.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/04/Song-1127-Fourth-Tantra-7.-Omnipresent-Energy.mp3',
     elaborationTamil: `பாடல் #1126 இல் உள்ளபடி அடியவர்களின் உள்ளுக்குள் வந்து வீற்றிருக்கின்ற இறைவன் அவர்களின் ஐந்து புலன்களையும் அவர்களின் மனமாகிய கோலின் மூலம் ஆன்மாவாகிய பாகனைக் கொண்டு அடக்கி ஆளுகின்றான். குற்றம் குறையில்லாமல் பிரகாசிக்கும் நவரத்தினங்களால் ஆன கிரீடத்தை அணிந்து கொண்டு பிரகாசிக்கும் ஒளி வண்ணத்தில் திருமேனியை உடைய இறைவனும் அவனோடு பேரின்பத்தில் கலந்து இனிமையாக பின்னிப் பிணைந்து வீற்றிருக்கின்ற இறைவியும் உண்மையான அன்போடு இறைவனை நேசிக்கின்ற அடியவர்களின் உள்ளுக்குள் வந்து ஒன்றாக வீற்றிருப்பார்கள். கருத்து: அடியவர்களின் உள்ளுக்குள் வந்து வீற்றிருந்த இறைவன் அவர்களின் ஐந்து புலன்களையும் அவர்களின் மனதால் அடக்கி அவர்களின் ஆன்மாவை அன்பினால் பேரின்பத்தில் பின்னிப் பிணைத்து வீற்றிருக்கின்றான்.`,
   },
   {
@@ -5136,6 +5281,7 @@ Are there in union;
 As your unerring guide for you Here-after;
 Nandi verily stood,
 As Mother and Father in one.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/04/Song-1129-Fourth-Tantra-7.-Omnipresent-Energy.mp3',
     elaborationTamil: `எமது அம்மையாகவும் அப்பனாகவும் இறைவியும் இறைவனுமே இருக்கின்றார்கள் என்கிற பெருமையான எண்ணங்களை நீக்கிவிட்டு எவர் ஒருவர் இறைவியை நினைத்து தியானிக்கின்றார்களோ அவர்களின் உள்ளுக்குள் தாயாக வந்து வீற்றிருக்கும் இறைவியோடு பேரூழிக்காலத்தின் தலைவனாகிய இறைவனும் வந்து உடன் வீற்றிருக்கின்றான். இறைவியை நினைப்பவர்களின் மனமே இறைவியாகி அவர்களின் உலகம் சார்ந்த மாய சிந்தனைகளை மாற்றி உண்மையை சொல்லி அருளுகின்றாள். பிறகு அந்த அம்மையே இறைவனோடு சேர்ந்து நின்று குருவாக இருந்து வழிகாட்டுகின்றாள்.`,
   },
   {
@@ -5178,6 +5324,7 @@ Steadying the wavering mind,
 Centering it on high,
 Thus when they realize praiseworthy Para
 They and He for ever one become.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/04/Song-1131-Fourth-Tantra-7.-Omnipresent-Energy.mp3',
     elaborationTamil: `பாடல் #1130 இல் உள்ளபடி இறைவனை அடைவதற்கு வேண்டிய ஞானத்தை ஆணையாக இறைவி அருளிய படியே இன்ப துன்பங்களை அனுபவிக்காமல் உள்ளுக்குள் இறைவியை தியானித்துக் கொண்டே இருக்கின்ற அடியவர்களின் மாயையால் மயங்கி ஆசையின் வழியே செல்கின்ற மனதை அடக்கி ஒருமுகப்படுத்தி அனைத்திற்கும் மேலான பரம்பொருளாகிய இறைவனை அவர்களுக்குள் அறிந்து உணர்ந்து கொள்ளும்படி இறைவி அருளுகின்றாள். அவ்வாறு பரம்பொருளை அறிந்து கொண்ட அடியவர்களின் உள்ளத்தையே தமக்கு மிகவும் பிடித்த ஆசனமாக எடுத்துக் கொண்டு இறைவனும் வந்து வீற்றிருப்பான்.`,
   },
   {
@@ -5198,6 +5345,7 @@ In the astral sphere within;
 Unto a column of treacle
 The light of Kundalini bright rises,
 Know you, where that Fawn dances!`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/04/Song-1132-Fourth-Tantra-7.-Omnipresent-Energy.mp3',
     elaborationEnglish: `The term ‘‘Moon in the astral sphere within’’ refers to the six cakras, or nerve plexuses in the body, through which when roused Kundalini passes in tantric sadhana.`,
     elaborationTamil: `பாடல் #1131 இல் உள்ளபடி அடியவர்களின் உள்ளத்திற்குள் இறைவனோடு ஒன்றாக வீற்றிருக்கும் அனைத்து தத்துவங்களின் தலைவியான இறைவி சிதகாய மண்டலமாகிய சித்தத்திற்குள் (சிந்தனை) இருந்து குண்டலினியை மேலேற்றும் ஞானத்தை விளக்கி அருளுகின்றாள். அதன் படியே சாதகம் செய்து தங்களின் மூலாதாரத்தில் இருந்து குண்டலினி சக்தியை எழுப்பி அதனோடு சேர்ந்து கிடைக்கும் பேரின்பத்தை அனுபவித்துக் கொண்டே இருந்தால் அது மெதுவாக அசைந்து ஒவ்வொரு சக்கரமாக ஏற்றிச் சென்று தலை உச்சியில் இருக்கும் சகஸ்ரதளத்தில் ஜோதியாக வீற்றிருக்கும் இறைவனோடு கலந்த பிறகு அங்கே இறைவன் ஆடுகின்ற அம்பலத்தை தரிசிக்கலாம் என்பதை அறியாமல் பலர் இருக்கின்றனர்.`,
   },
@@ -5219,6 +5367,7 @@ That forever abide;
 In the thoughts of those
 Who intense cherish Her,
 She abides for sure.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/04/Song-1133-Fourth-Tantra-7.-Omnipresent-Energy.mp3',
     elaborationTamil: `உயிர்களின் உண்மை அறிவை மாயை மறைத்து இருப்பதால் அவர்களுக்குள் இருக்கும் ஐந்து புலன்களும் உலக அறிவை மட்டுமே கொடுக்கின்றன. இதை மாற்றி அவர்களின் மாயையை நீக்கி உண்மை அறிவைக் கொடுக்கின்ற இறைவியின் அருள் அவர்களுக்கு கிடைத்து விட்டால் அவர்களுக்கு இறைவனும் தாமும் வேறில்லை என்கிற பேரறிவு ஞானம் கிடைத்து விடும். அதன் பிறகு அவர்கள் தமக்குள் இருக்கும் இறைவனை நினைத்து எப்போதும் பேரின்பத்திலேயே இருப்பதினால் இறைவியும் அவர்களின் சித்தத்தில் சேர்ந்து வீற்றிருப்பதை தமது செயலாக வைத்திருப்பாள். குறிப்பு: பாடல் #1132 இல் உள்ளபடி தமக்குள் இறைவன் ஆடுகின்ற அம்பலத்தை தரிசிக்க முடியும் என்கிற அறிவு இல்லாமல் இருக்கின்றவர்களுக்கு உண்மை ஞானத்தை கொடுக்கும் இறைவியின் அருள் கிடைத்து விட்டால் அவர்கள் தாமே இறைவனாக இருப்பதை உணர்ந்து எப்போதும் பேரின்பத்திலேயே இருப்பார்கள். இவர்கள் பேரின்பத்தில் இறைவனை எப்போதும் நினைத்துக் கொண்டே இருப்பதால் இறைவியும் அவர்களின் சித்தத்துடன் சேர்ந்திருப்பதை தனது தர்மமாக வைத்திருப்பாள்.`,
   },
   {
@@ -5260,6 +5409,7 @@ You shall one with Para Sakti be;
 And reach the Mukti State Finale,
 She, the Tatparai,
 All Grace confers.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/04/Song-1135-Fourth-Tantra-7.-Omnipresent-Energy.mp3',
     elaborationTamil: `பாடல் #1134 இல் உள்ளபடி எப்போதும் இளமை மாறாத உடலைப் பெற்று என்றும் இறைவியோடு சேர்ந்து இருக்கின்ற சாதகர்கள் அதற்கும் மேலான நிலைக்கு செல்வதற்கு தடையாக இருக்கின்ற அம்மை அப்பன் எனும் பிரிவினையான எண்ணங்களை விட்டு விட்டு முக்திக்கு சரிசமமாகச் சொல்லப்படுகின்ற அனைத்துமாகவும் நிற்கின்ற இறைவியே ஆதிப் பரம்பொருளாக இருக்கின்றாள் என்பதை அறிந்து கொள்வார்கள். குறிப்பு:இறைவன் இறைவி என்று தனித்தனியாக நினைக்கின்ற எண்ணத்தை விடுகின்ற சாதகர்களுக்கு இறைவன் இறைவி என்று தனித்தனியாக இல்லாமல் ஒரே மூலப் பரம்பொருளாக பராசக்தியே இருப்பதை இந்தப் பாடலில் அறிந்து கொள்ளலாம்.`,
   },
   {
@@ -5277,6 +5427,7 @@ Parasakti, who with pervasive Para stood,
 Becomes Jnana Sakti and Ichcha Sakti;
 And when Kriya Sakti arrives, (from Bindu)
 The Dancer immanent becomes in them all.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/04/Song-1136-Fourth-Tantra-7.-Omnipresent-Energy.mp3',
     elaborationTamil: `பாடல் #1135 இல் உள்ளபடி சாதகருக்குள் அனைத்துமாக நின்ற ஆதி பரம்பொருளாகிய இறைவியே அசையா சக்தியாகிய இறைவனோடு சேர்ந்து நிற்கின்ற போது ஞானா சக்தியாகவும் இச்சா சக்தியாகவும் நிற்கின்றாள் என்பதையும் அவளை நன்மையே வடிவானவளாக அறிகின்ற போது கிரியா சக்தியாகவும் நிற்கின்றாள் என்பதையும் அறிந்து கொண்டு அவளின் எண்ணங்களிலேயே வீற்றிருக்கும் சாதகர்கள் தமக்குள் இருக்கின்ற அனைத்தும் அவளின் அம்சமாகவே மாறி விடுவதை உணர்ந்து கொள்வார்கள். குறிப்பு: அசையா சக்தியாக இருக்கும் இறைவனுடன் இருக்கும் பூரண சக்தியானவள் உலகங்களை உருவாக்க வேண்டும் என்கிற எண்ணம் தோன்றுகிற போது அது இச்சா சக்தியாகவும், அதை எப்படியெல்லாம் உருவாக்கலாம் என்று எண்ணுகின்ற போது அது ஞானா சக்தியாகவும், அதை எண்ணிய படியே உருவாக்குகின்ற போது கிரியா சக்தியாகவும் இருக்கின்றாள். அசையா சக்தியான இறைவனும் அசையும் சக்தியாகிய இறைவியும் சேர்ந்து இருக்கும் பூரண சக்தியை தமக்குள் உணர்ந்த சாதகர்கள் இந்த மூன்று சித்திகளையும் பெற்று அதை உலகத் தேவைக்கேற்ப செயல் படுத்துவார்கள்.`,
   },
   {
@@ -5297,6 +5448,7 @@ When together they stirred the Primordial Bindu
 For creation to commence,
 He in Thought was one with Her
 Thus it was, My Father stood.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/04/Song-1137-Fourth-Tantra-7.-Omnipresent-Energy.mp3',
     elaborationTamil: `பாடல் #1136 இல் உள்ளபடி சாதகர்கள் தமக்குள் இருக்கும் அனைத்து அம்சங்களாகவும் இறைவியே மாறி நிற்பதை உணர்ந்தாலும் தம்முடைய உருவமும் இறைவியாகவே மாறி நிற்பதை உணராமல் இருக்கின்றார்கள். ஆணின் அம்சமும் பெண்ணின் அம்சமும் ஒன்று சேர்ந்து கருவாக உருவாகுவது போலவே இறைவியும் தாமும் ஒன்றாக கலந்து நிற்பதை சாதகர்கள் உணருகின்ற போது இறைவியும் தாமும் ஒன்றே என்று சிந்திக்கும் அவர்களின் சிந்தனைக்குள் இறைவனும் வந்து வீற்றிருப்பான்.`,
   },
   {
@@ -5318,6 +5470,7 @@ As on Her matted locks
 She is Sathavi, of Sattva Guna possessed
 She is the Beginning and End
 Thus is Her Form Divine.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/04/Song-1138-Fourth-Tantra-7.-Omnipresent-Energy.mp3',
     elaborationTamil: `பாடல் #1137 இல் உள்ளபடி இறைவியும் தாமும் ஒன்றே என்று சிந்திக்கின்ற சாதகரின் சிந்தைக்குள் வீற்றிருக்கின்ற இறைவியும் இறைவனும் சேர்ந்த பூரண சக்தி அவரின் உடலுக்குள்ளிருந்து வெளிச்சமாகவும் சத்தமாகவும் உலகம் முழுவதும் விரிந்து பரவி அனைத்தையும் இயக்குகின்றது. இறைவனைப் போலவே சாதகரும் சந்திரனை சூடிக்கொண்டு சடை முடி தரித்துக் கொண்டு சாத்வீக குணத்துடன் இறைவனும் இறைவியும் சேர்ந்த பூரண சக்தியின் உருவமாகவே ஆகிவிடுகின்றார்.`,
   },
   {
@@ -5338,6 +5491,7 @@ Yet they know not the way to Her;
 Into them that hold Her in their hearts,
 She welled up from within
 And unto a bright lamp shed Her light.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/04/Song-1139-Fourth-Tantra-7.-Omnipresent-Energy.mp3',
     elaborationTamil: `அனைத்து உயிர்களுக்குள்ளும் மறைந்து இருக்கின்ற அமிழ்தமான பாலை வழங்குகின்ற இறைவியை தமக்குள்ளேயே ஆராய்ந்து அறிந்து தெளிவு பெற்று அந்த அமிழ்தமான பாலை உண்மை ஞானத்தை தரும் பேரொளியாக மாற்றுகின்ற வழியை அறிந்து கொண்டவர்கள் யாரும் இல்லை. அந்த வழியை குருவின் உபதேசத்தாலோ அல்லது இறைவியின் அருளாலோ அறிந்து கொண்டு அதன்படியே தமக்குள் ஆராய்ந்து இறைவியை அறிந்து கொண்டு தெளிவு அடைந்தவர்களின் உள்ளுக்குள் இருந்து இறைவி அமிழ்தப் பாலை உண்மை ஞானத்தையும் பேரின்பத்தையும் கொடுக்கின்ற பேரொளி தீபமாக ஊறிக் கொண்டே இருப்பாள்.`,
   },
   {
@@ -5358,6 +5512,7 @@ Ye who have not seen Him,
 Away, from Here!
 The Sadhakas have seen Him
 He is the support of their heart.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/04/Song-1140-Fourth-Tantra-7.-Omnipresent-Energy.mp3',
     elaborationTamil: `பாடல் #1139 இல் உள்ளபடி உள்ளத்திற்குள் தெளிவு பெற்ற சாதகர்களுக்கு மீதி இருக்கும் கர்மங்களையும் பிறவிகளையும் எரித்து அழிக்கும் அக்னியாக உருத்திரனின் அம்சம் ஜோதியாக காளையின் மேல் வீற்றிருந்து சாதகருக்கு தரிசனம் கொடுக்கின்றார். இதை தரிசித்ததால் தமது நெஞ்சத்திற்குள் இறைவனை அடையும் படி வீற்றிருக்கப் பெற்றவர்கள் சாதகர்கள் ஆவார்கள். குறிப்பு: இறையருளால் இறைவனின் அம்சத்தை தரிசித்து தமது கர்மங்களையும் பிறவிகளையும் நீக்கப் பெற்றவர்களே சாதகர்கள் ஆவார்கள்.`,
   },
   {
@@ -5377,6 +5532,7 @@ Of Worlds two hundred and eighteen above is She seated;
 She is the Blessed One that is seated on the Flower of Heart
 She is the bejewelled one that is on
 Earth (Muladhara) below.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/04/Song-1141-Fourth-Tantra-7.-Omnipresent-Energy.mp3',
     elaborationEnglish: `1) Bhuvanas, (worlds) are enumerated as 224, vide Mantra 265, Tantra Three. Above 218 would place Sakti in the Siva tattva, in santyatita kala.`,
     elaborationTamil: `பாடல் #1140 இல் உள்ளபடி இறைவனை தமது நெஞ்சத்திற்குள் அடையும்படி பெற்ற சாதகருக்குள் இறைவன் ஆறு இதழ்கள் கொண்ட சுவாதிஷ்டான சக்கரத்தில் வந்து பின்பு அங்கிருந்து நான்கு இதழ்கள் கொண்ட மூலாதார சக்கரத்தில் உள்ள குண்டலினி சக்தியை சாதகரின் 3600 சுவாசங்களின் மூலம் எழுப்பி விடுகிறார். அங்கிருந்து வெளிப்பட்ட சக்தியானவள் ஆறு சக்கரங்களையும் கடந்து ஏழாவதாக இருக்கும் சகஸ்ரதளத்தில் உள்ள ஆயிரம் தாமரை இதழ்களின் மேல் வீற்றிருக்கும் சக்தியை வெளிப்படுத்துவாள். உலகங்கள் அனைத்திலும் பரவி வீற்றிருக்கின்ற இறைவியே சகஸ்ரதள சக்தியாக அங்கிருந்து பசுமையான கொடி போல வெளிப்படுவாள். கருத்து: இறைவியும் தாமும் வேறில்லை என்று எண்ணுகின்ற சாதகரின் நெஞ்சத்தில் இறைவன் வந்து வீற்றிருக்கின்றார். அந்த இறைவன் சாதகரின் மூச்சுக்காற்றில் 3000 எண்ணிக்கையை எடுத்து சுவாதிஷ்டான சக்கரத்தை எழுப்பி விடுகின்றார். அதன் பிறகு சாதகரின் மூச்சுக்காற்றில் 3600 எண்ணிக்கையை எடுத்து மூலாதார சக்கரத்தில் இருக்கின்ற குண்டலினி சக்தியை எழுப்பி விடுகின்றார். அந்த குண்டலினி சக்தியானது அதற்கு மேலுள்ள ஐந்து சக்கரங்களையும் தாண்டி மேலே ஏறிச் சென்று ஏழாவது சக்கரமான சகஸ்ரதளத்தில் உள்ள ஆயிரம் தாமரை இதழ்களின் மேல் வீற்றிருக்கும் சக்தியை எழுப்பி விடுகின்றது. அங்கிருக்கும் சக்தியானவள் பசுமையான கொடி போல சாதகரின் உடலுக்குள்ளிருந்து வெளிப்படுவாள். குறிப்பு: மனிதன் ஒரு நாளுக்கு மொத்தம் 21,600 முறை சுவாசிக்கின்றான். யோகப் பயிற்சிகள் செய்யும் சாதகர்களுக்கு இந்த சுவாசக் காற்றானது நுரையீரலில் இருந்து உடலுக்குள் இருக்கும் ஆறு சக்கரங்களுக்கும் முறையே 3000 சுவாசங்களாக சென்று சக்தியூட்டுகிறது (6 x 3000 = 18,000). மூலாதார சக்கரத்தில் 3600 சுவாசங்களாக சென்று சக்தியூட்டுகின்றது (18,000 + 3,600 = 21,600). ஆக மொத்தம் 21,600 சுவாசங்களும் சக்கரங்களுக்கு சென்று சக்தியூட்டுகிறது.`,
   },
@@ -5396,6 +5552,7 @@ She is the Light that shines high
 As pennon resplendent,
 She is dazzling unto the lightning in the sky,
 And all worlds in Sakti's Way whirl.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/04/Song-1142-Fourth-Tantra-7.-Omnipresent-Energy.mp3',
     elaborationTamil: `பாடல் #1141 இல் உள்ளபடி சாதகருக்குள்ளிருந்து பசுமையான கொடி போல வெளிப்பட்ட சக்தியானவள் இறைவனோடு சேர்ந்து பூரண சக்தியாக ஒரு பருமனான பிரகாசத்தைத் தருகின்ற ஜோதியாக வானம் வரை கொடி போல் வளர்ந்து உலகங்கள் அனைத்தையும் இயங்க வைக்கின்றாள்.`,
   },
   {
@@ -5414,6 +5571,7 @@ That Flower walked,
 As nine Saktis were they there;
 Kundalini Light through Central passage arose,
 And into the Lotus in Sahasrara spread.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/04/Song-1143-Fourth-Tantra-7.-Omnipresent-Energy.mp3',
     elaborationEnglish: `1) Six adharas and three lights. sun, moon and fire.
 2) Vamai, Seshtai, Raudri, Kali, Kalavikarni, Balavikarni, Balabrahmadam, Sarvabhudadamani, Manonmani.`,
     elaborationTamil: `பாடல் #1142 இல் உள்ளபடி சாதகருக்குள் இருக்கும் சகஸ்ரதளத்தில் வீற்றிருக்கும் இறைவனோடு சேர்ந்து பூரண சக்தியாக இருக்கும் இறைவி அங்கிருந்து வெளிப்பட்டு உலகங்கள் அனைத்தையும் இயங்க வைப்பதற்கு ஒன்பது விதமான அம்சங்களாக வெளிப்படுகிறாள். இந்த அம்சங்கள் எட்டு விதமான தேவியர்களாகவும் இறைவனும் இறைவியும் சேர்ந்த பூரண சக்தியின் அம்சமான மனோன்மணியும் சேர்ந்து மொத்தம் ஒன்பது விதமான சக்திகளாக அவரவர்களுக்கு ஏற்ற தனித்தன்மையான வழிகளின் மூலம் ஜோதி வடிவாய் கொடி போல சகஸ்ரதளத்திலிருந்து வெளிப்பட்டு வளர்ந்து சென்று உலகங்கள் அனைத்தையும் இயக்குகின்றார்கள். இவர்கள் தத்தமது வழிகளின் மூலம் தொடர்ந்து செயல்பட்டுக் கொண்டே இருப்பதற்கான ஆதார சக்தியாக சகஸ்ரதளத்தில் இருக்கும் ஜோதி இருக்கின்றது.`,
@@ -5497,6 +5655,7 @@ Her tresses are bedecked with flower garlands
 Her Form is red gold,
 Fragrant by far
 Daily She looks at Lord and prays.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/05/Song-1147-Fourth-Tantra-7.-Omnipresent-Energy.mp3',
     elaborationTamil: `அம்பைப் போன்ற கூர்மையான கண்களையும் என்றும் மாறாத இளமையுடனும் இறைவனோடு சேர்ந்து இருக்கும் மனோன்மணி எனும் பெயருடனும் கொம்பைப் போல மெலிந்து வளைந்த இடையுடனும் வாசனை மிக்க மலர்களைச் சூடிய கூந்தலுடனும் இருக்கின்ற இறைவியானவள் சாதகருக்குள் முழுவதும் பரவி உலாவிக் கொண்டே இருக்கின்ற போது சாதகரின் உடலானது தூய்மையான தங்கத்தால் செய்ததைப் போல மாறி அவருக்குள்ளிருந்து நறுமணம் திரண்டு நாள் தோறும் வீசிக்கொண்டே இருக்கும். இப்படி சாதகம் செய்து வீற்றிருக்கின்ற சாதகரை அன்போடு பார்த்துக் கொண்டே இறைவியும் அவருடன் விரும்பி வீற்றிருக்கின்றாள்.`,
   },
   {
@@ -5518,6 +5677,7 @@ She stands elated
 Pervading worlds and universes;
 She stands adorned
 With three lights, Sun, Moon and Fire.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/05/Song-1148-Fourth-Tantra-7.-Omnipresent-Energy.mp3',
     elaborationTamil: `பாடல் #1147 இல் உள்ளபடி சாதகருக்குள் விரும்பி வீற்றிருக்கும் மிகப் பெரும் தெய்வமாகிய இறைவியே நான்கு வேதங்களும் புகழ்ந்து சொல்லுகின்ற மாபெரும் சக்தியாக இருக்கின்றாள். இறைவன் இறைவி சாதகரின் ஆன்மா ஆகிய மூன்று ஜோதிகளும் ஒன்றோடு ஒன்று சேர்ந்து நிற்கின்ற பூரண சக்தியாக அனைத்து திசைகளும் அவளுடைய அழகிய ஆடையாகவும் பூமியையும் கடந்து நிற்கின்ற திருவடிகளையும் கொண்டு நிற்கும் அவளை வேதங்களோடு அண்ட சராசரங்களும் அதிலிருக்கும் அனைத்து உலகங்களும் சிறப்பாக போற்றி வணங்குகின்றன.`,
   },
   {
@@ -5538,6 +5698,7 @@ In Her Thought;
 She is draped in Cosmic Light,
 She beautifies all,
 Her I stood adoring.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/05/Song-1149-Fourth-Tantra-7.-Omnipresent-Energy.mp3',
     elaborationTamil: `பாடல் #1148 இல் உள்ளபடி மூன்று ஜோதிகளையும் ஒன்றாக சேர்ந்து நிற்கின்ற இறைவியானவள் மேலுலகம் பூலோகம் கீழுலகம் ஆகிய மூன்று உலகங்களுக்குள்ளும் கலந்து நின்று கோடிக்கணக்கான அண்ட சராசரங்களையும் அதற்குள் பல உயிர்களையும் உருவாக்கும் வல்லமை பெற்றவள். உயிர்களையும் படைத்து அந்த உயிர்களுக்கு அண்டத்தில் இருக்கும் இறைவனது பேரொளியை காட்டி அருளி உயிர்களுக்கு அந்த ஜோதியை அடையும் வழியையும் அருளுகின்றாள். இவை அனைத்தையும் செய்யும் வல்லமை பெற்ற இறைவியையே யானும் போற்றி வணங்குகின்றேன்.`,
   },
   {
@@ -5561,6 +5722,7 @@ Her countenance is
 Of passions dispelled;
 She is of soft finery
 She drives away fearsome death.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/05/Song-1150-Fourth-Tantra-7.-Omnipresent-Energy.mp3',
     elaborationTamil: `பாடல் #1149 இல் உள்ளபடி அண்ட சராசரங்களையும் அதிலுள்ள அனைத்து உயிர்களையும் படைக்கும் வல்லமை பெற்றவளும் உலகங்கள் அனைத்திற்கும் அதிபதியாக இருக்கின்றவளும் யான் போற்றி வணங்குகின்றவளும் அரியதான தவங்களை செய்பவர்களுக்கு மட்டுமே கிடைக்கின்ற என்றும் இளமை ஆற்றலுடன் இருப்பவளுமாகிய இறைவியை போற்றி வணங்குகின்ற உயிர்களின் ஆற்றலுக்குள் வந்து வீற்றிருந்து அவர்களின் முகத்தில் இருக்கும் நெற்றிக்குள் அழகிய ஆபரணங்களை சூடிக்கொண்டு வீற்றிருந்து அவர்களின் அகங்காரத்தை அடக்கி விட்டு பசுமையான கொடியாக இருந்து அவர்களின் இறப்பை நீக்கி ஆட்கொள்கிறாள். கருத்து: உலகங்கள் அனைத்திற்கும் தலைவியாக இருக்கின்ற எமது இறைவியை போற்றி வணங்குகின்ற சாதகர்களின் நெற்றிக்குள் நீல ஜோதியாக அமர்ந்து அவர்களின் அகங்காரத்தை அடக்கி மரணமில்லா பெருவாழ்வை அளித்து ஆட்கொண்டு அருளுகின்றாள்.`,
   },
   {
@@ -5583,6 +5745,7 @@ That all Karma destroys
 She for ever uproots Karmas
 Of Her devotees;
 She is the Primal One.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/05/Song-1151-Fourth-Tantra-7.-Omnipresent-Energy.mp3',
     elaborationTamil: `பாடல் #1150 இல் உள்ளபடி சாதகர்களின் இறப்பை நீக்கி ஆட்கொள்கின்ற பசுமையான கொடி போன்ற இறைவியைப் பற்றிக் கொண்டவர்களின் உள்ளுக்குள் பேரின்பத்தைக் கொடுக்கின்ற அமிழ்தத்தை ஊறச் செய்து அருளுகின்ற பேரழகியான இறைவி திரிபுரை சக்தி எனும் வடிவத்தில் என்றும் இளமையுடன் இருக்கின்றாள். பலவிதமான பயத்தைக் கொடுக்கின்ற தீமையான கொடிய வினைகளை அழித்து அருள வேண்டும் என்று இறைவியின் திருவடிகளைப் பற்றிக் கொண்டு சரணடைபவர்களை தாங்கிக் கொண்டு தமது அடியார்களான அவர்களின் தீமையான கொடிய வினைகளை முழுவதுமாக அழித்து அருளுகின்ற ஆதிப் பரம்பொருளாக இறைவி இருக்கின்றாள்.`,
   },
   {
@@ -5604,6 +5767,7 @@ She drove away Maya
 That transitory fame gives,
 She of abiding fame,
 In my heart entered.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/05/Song-1152-Fourth-Tantra-7.-Omnipresent-Energy.mp3',
     elaborationTamil: `மென்மையான இசையைப் போல ஒலி வடிவத்தில் இருக்கும் பேரழகுடைய இறைவி அகண்ட பரகாயத்தில் மென்மையான கொடி போல ஒளி வடிவத்தில் பரவி இருக்கின்றாள். பேரழகுடைய இறைவி கூட்டுப் பிரார்த்தனையில் பலவகையாகப் போற்றி வணங்கும் பக்தர்களின் பக்குவத்திற்கு ஏற்ப பயன்களை அருளுகின்ற பசுமையான கொடி போன்றவள். தமது அடியவர்களுக்குள் இருக்கும் பேரழகுடைய மாயையாகிய சக்தியை வெளியேற்றி துரத்திவிட்டு அருளாற்றலில் வல்லமை பொருந்திய பேரழகுடைய இறைவி அவர்களின் மனதிற்குள் புகுந்து அருளோடு வீற்றிருப்பாள்.`,
   },
   {
@@ -5694,6 +5858,7 @@ She spread Herself over Adharas six;
 She held the Vedic Truth in Her Thought;
 She centered on Her the Letters Five
 She, the Lady Benevolent.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/05/Song-1156-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1155 இல் உள்ளபடி சாதகரின் தலை உச்சியில் உள்ள சகஸ்ரதளத்தில் இறைவனோடு சேர்ந்து பூரண சக்தியாக வீற்றிருக்கும் இறைவியானவள் சாதகர் எப்போதும் தன்னுடைய ஒளி உருவத்தைத் தரிசித்துக் கொண்டே இருக்கும் படி செய்து வேதங்களின் உண்மையான பொருளாகிய பேரறிவு ஞானத்தை அவருக்கு கொடுத்து ஐந்து புலன்களின் வழியே வரும் வினைகளின் கொடுமையை சாதகருக்கு எடுத்துச் சொல்லி அது வந்து சேராத படி ஐந்து புலன்களையும் தடுத்து அருளி பேரழகுடன் நன்மையே வடிவாக வீற்றிருக்கிறாள்.`,
   },
   {
@@ -5713,6 +5878,7 @@ Follow that Lady of Divine Light
 And gain Her support;
 All sorrows will see their end;
 And you become blemishless Pure.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/05/Song-1157-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1156 இல் உள்ளபடி சாதகரின் ஐந்து புலன்களையும் தடுத்தருளி பேரழகுடன் நன்மையின் வடிவமாக வீற்றிருக்கின்ற இறைவியானவள் இறைவனுடன் சேர்ந்து அவனில் சரிபாதியாக இருக்கின்ற போது ஜோதி வடிவத்தில் பூரண சக்தியாக வீற்றிருக்கின்றாள். இந்த இறைவியை தமது உயிருக்குத் துணையாக பெற்றுக் கொள்ள முடிந்த சாதகர்களுக்கு வினைகளினால் வரும் துன்பங்களைத் தீர்த்து அவர்களோடு இருக்கும் மாசு மலங்களை அகற்றி தூய்மையாக்கி அருளுகின்றாள் இறைவி. கருத்து: இறைவி தன்னுடைய பெண் அம்சத்திலேயே இருந்தாலும் சரி பாதி ஆண் அம்சத்திலும் இறைவனோடு சேர்ந்து வீற்றிருக்கிறாள்.`,
   },
   {
@@ -5732,6 +5898,7 @@ That bedecks honeyed-flowers in Her tresses;
 He shares Her in His Form;
 And He from Her arises
 Himself thus a woman too!`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/05/Song-1158-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பர வெளியில் பரந்து விரிந்திருக்கும் இறைவன் பேரன்பு மிக்க இறைவியின் இதயத் தாமரையிலும் பேரின்பத் தேனைக் கொண்டு மிகவும் நறுமணம் கமழும் மலர்களைச் சூடியிருக்கும் கூந்தலை உடைய இறைவியின் மனதிலும் வீற்றிருக்கின்றான். மாயை எனும் மயக்கத்தில் அடங்காதவனாகிய இறைவன் அடியவர்கள் வேண்டும் தன்மைக்கு ஏற்ப பலவகையாக நின்றாலும் தனது உடலில் சரி பாதி பாகம் இறைவியைக் கொண்டு இருப்பதால் இயல்பிலேயே இறைவியின் பெண் தன்மை உடையவனாகவும் இருக்கின்றான். கருத்து: இறைவன் தன்னுடைய ஆண் அம்சத்திலேயே இருந்தாலும் சரி பாதி பெண் அம்சத்திலும் இறைவியோடு சேர்ந்து வீற்றிருக்கிறான்.`,
   },
   {
@@ -5751,6 +5918,7 @@ From Woman arose Man;
 When you know the why of this,
 No more will there be talk
 Of Sakti from Sivam arising.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/05/Song-1159-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பெண்ணாகப் பிறக்கும் ஒரு உயிருக்குள் பெண் தன்மை மட்டுமே இருக்கும் என்று நினைப்பது அறிவீனம். பெண் பாலாக பிறக்கும் உயிருக்குள் பாதி ஆண் தன்மையும் சேர்ந்தே பிறக்கின்றது. அதுபோலவே ஆண் பாலாக பிறக்கும் உயிருக்குள் பாதி பெண் தன்மையும் சேர்ந்தே பிறக்கின்றது. பாடல் #1157 இல் உள்ளபடி இறைவி தனது பெண் தன்மையிலேயே இறைவனின் ஆண் தன்மையையும் கொண்டிருக்கிறாள் என்பதையும் பாடல் #1158 இல் உள்ளபடி இறைவனும் தனது ஆண் தன்மையிலேயே இறைவியின் பெண் தன்மையையும் கொண்டிருக்கிறான் என்பதையும் அறிந்து கொண்ட சாதகர்கள் தமது பிறவியிலேயே இவர்களின் இரண்டு தன்மைகளும் தம்மோடு சேர்ந்தே பிறப்பதை முழுவதுமாக அறிந்து கொண்டு அதிலேயே மனம் இலயித்து சாதகம் செய்தால் பேச்சில்லாத மோன நிலையில் இறைவனை நோக்கி செல்லுவார்கள்.`,
   },
   {
@@ -5770,6 +5938,7 @@ She is Pure Light
 She is Manomani Sakti;
 The Blemishless Light espousing God
 Entered in me and delighted me.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/05/Song-1160-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1159 இல் உள்ளபடி பேச்சில்லாத மோன நிலையில் இறைவனை நோக்கி செல்லுகின்ற சாதகர்கள் நன்மை தரும் பெரும் பொருளாகிய இறைவனை தமக்குள் தரிசித்த பெருமைக்கு உரியவர்கள். மாசு மருவில்லாத சோதி வடிவில் மனோன்மணி எனும் பெண் தன்மையில் என்றும் இளமையுடன் இருக்கும் இறைவி மாசற்ற சோதியான இறைவனுடன் ஒன்றாகச் சேர்ந்து பூரண சக்தியாக குற்றம் குறையில்லாத அந்த சாதகர்களின் உள்ளத்திற்குள் புகுந்து பேரின்பத்தில் அவர்களோடு வீற்றிருப்பாள்.`,
   },
   {
@@ -5852,6 +6021,7 @@ Beyond description is the fiery sphere that envelops Her,
 Beyond description it is even for bedazzled Jnanis
 She is Supreme Mistress of unconquerable acts
 She is Manomani that is beyond grasp.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/05/Song-1164-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `வார்த்தைகளால் விவரித்து சொல்ல முடியாத அரும்பெரும் ஜோதியாக இருக்கும் இறைவனிடமிருந்து வெளிப்படும் கனிந்த நெருப்புத் தணல் பொதிந்து உள்ள பரவெளி மண்டலத்தில் பாடல் #1163 இல் உள்ளபடி இறைவியின் நிலையை அடைந்த சாதகர்கள் அந்த தணலின் வெப்பத்தை அனுபவித்து சொல்ல முடியாத திகைப்பில் அங்கேயே இருப்பார்கள். அண்ட சராசரங்களில் இருக்கும் அனைத்து உலகங்களும் இயங்குவதற்கு காரணமாகவும் எளிதில் வெற்றி கொள்ள முடியாததாகவும் இருக்கின்ற வினைகளை தனித்திருந்து ஆளுகின்ற பெருந்தலைவியாகிய இறைவியே எளிதில் அடைந்து விட முடியாத மனோன்மணி எனும் சிவசக்தியாக இருக்கிறாள்.`,
   },
   {
@@ -5869,6 +6039,7 @@ Holding the worlds apart, as the Heavens high He spreads;
 Himself the scorching Fire, Sun and Moon,
 Himself the Mother that sends down the rains,
 Himself the mountains strong and oceans cold.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/05/Song-1165-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1164 இல் உள்ளபடி மனோன்மணி எனும் சிவசக்தியே மேலுலகம் கீழுலகம் ஆகிய இரண்டு வகையான உலகங்களையும் (பாடல் #1153 இல் உள்ளபடி மேலுலகம் கீழுலகம் என்று இரண்டு வகையில் மொத்தம் 14 உலகங்கள் இருக்கின்றன) அண்ட சராசரங்களில் விரிந்திருக்கும் ஆகாயமாகவும் உயிர்களுக்கு வெப்பத்தை தருகின்ற நெருப்பாகவும் உலகத்திற்கு ஒளியையும் சக்தியையும் தருகின்ற சூரியனாகவும் இரவில் குளிர்ச்சியான ஒளியைத் தருகின்ற நிலவாகவும் மழையைப் பொழிய வைக்கின்ற மேகங்களாகவும் உலகம் முழுவதும் விரிந்து பரந்திருக்கும் மலைகளாகவும் குளிர்ந்த நீரைக் கொண்டிருக்கும் கடல்களாகவும் இருந்து அனைத்தையும் தனது அருட் பார்வையினாலேயே செயல்படுத்துகின்றாள்.`,
   },
   {
@@ -5888,6 +6059,7 @@ Yet regard them not as humans;
 Divine are their qualities;
 Serene is their composure
 Higher than Celestials are they.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/05/Song-1166-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1165 இல் உள்ளபடி அனைத்தையும் தனது அருட் பார்வையினால் செயல்படுத்துகின்ற இறைவியோடு சேர்ந்து அவளிருக்கும் இடத்திலேயே வீற்றிருக்கும் பேறு பெற்ற சாதகர்கள் மண்ணுலகத்தை தமது இருப்பிடமாகக் கொண்டு வாழ்ந்து கொண்டிருக்கும் மனிதர்களோடு ஒன்றாக சேர்ந்து இருக்காமல் தனித்திருந்து உண்மை ஞானத்தை உணர்ந்த பண்பைக் கொண்டவர்களாக இருப்பதால் மண்ணுலகத்தில் நிகழும் எதனாலும் பாதிக்கப்படாமல் விண்ணுலகத்தை தமது இருப்பிடமாகக் கொண்ட தேவர்கள், முனிவர்கள், சித்தர்கள் ஆகியோர்களை தமது ஞானத்தால் கண்டு கொண்டே இருப்பார்கள்.`,
   },
   {
@@ -6012,6 +6184,7 @@ The goodly Yoga Sakti's visage is toward south;
 The goodly Yoga Sakti's navel is Cosmic center;
 The goodly Yoga Sakti's feet are sublime exceeding;
 --This may you realize.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/05/Song-1172-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationEnglish: `Yoga Sakti is the pedestal of light within. She faces South. Her navel is the centre of the cosmos. Her Feet are exceedingly sublime.`,
     elaborationTamil: `பாடல் #1171 இல் உள்ளபடி ஆயுழி எனும் மாபெரும் யோகத்தில் இருக்கும் போது அதிலிருந்து அனைத்திற்கும் நன்மை தருவதற்கு வெளிப்படும் சக்தியின் ஒளி உருவத்தை தாங்குகின்ற பீடமாக சாதகரின் உடலே இருக்கின்றது. அந்த சக்தியின் ஒளியானது தெற்குத் திசையை நோக்கி பரவிக் கொண்டிருக்கின்றது. அந்த சக்தியின் ஒளி சாதகரின் வயிற்றின் நடுப்பகுதியிலிருந்து வெளிப்படுகின்றது. இந்த சக்தியாக வெளிப்படும் இறைவியின் திருவடிகளே அனைத்திற்கும் மேலானது என்பதை உங்களுக்குள் ஆராய்ந்து அறிந்து கொள்ளுங்கள்.`,
   },
@@ -6096,6 +6269,7 @@ She is pervasive-all,
 She is Paraparai that ParaParan holds
 She is Sakti and Ananda Sakti too,
 She indeed is of fragrance intoxicating.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2021/06/Song-1176-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationEnglish: `Her mudras are-triple — jnana mudra, tattva mudra-and ananda mudra.
 
 1) Jnana mudra, abhaya mudra, varada mudra. Thé three mudras used in the Sri Meenakshi Temple, of Madurai, are: tishabha mudra, meena mudra and rajakara naga mudra — vide Chintamani,”’ p.294.`,
@@ -6136,6 +6310,7 @@ She is Manonmani beyond word and thought,
 She is the Lady that has ghosts and Ganas for Her host,
 For Hara who all knowledge surpasses,
 She is Mother, Daughter and Spouse at once.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/06/Song-1178-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1177 இல் உள்ளபடி சாதகர்கள் தமக்குள்ளே தேடி அறிந்து கொண்ட இறைவியானவள் இறைவனுடன் எப்படி சேர்ந்து இருக்கின்றாள் என்பதை இந்தப் பாடல் அறிந்து கொள்ளலாம். வாக்கால் சொல்ல முடியாதவளும் எண்ணங்களால் எளிதில் கற்பனை செய்து பார்க்க முடியாதவளும் ஆகிய மனோன்மணி எனும் இறைவி தனது பெண் தன்மையில் என்றும் இளமையுடன் இருந்து உலகங்களின் இயக்கம் நடைபெறுவதற்கு எண்ணங்களோடு இருக்கின்ற ஆன்மாக்களையும் தேவ கணங்களையும் அதிகமாக வைத்து இயக்குகின்றாள். கல்வி அறிவால் எவ்வளவு ஆராய்ந்தாலும் உணர்ந்து கொள்ள முடியாத இறைவனுக்கு அவளே தாயாகவும் மகளாகவும் என்றும் நன்மை தரும் துணைவியாகவும் இருக்கின்றாள். குறிப்பு: உலக இயக்கம் நடைபெறுவதற்கு இறைவியின் எண்ணத்திற்கு ஏற்ப ஐந்து பூதங்களையும் கணங்கள் செயல் படுத்துகின்றது. இறைவனிடமிருந்து தன் ஆசைகளைத் தீர்த்துக் கொள்வதற்காக பிரிந்து வந்த எண்ணங்களுடைய ஆன்மா தனது ஆசைகளையும் அதனால் சேரும் வினைகளையும் பிறவி எடுத்து தீர்த்துக் கொள்கிறது. இதுவே இங்கு பேய் என்று குறிப்பிடப் படுகின்றது. உப குறிப்பு: சாதகர் தமக்குள் ஆராய்ந்து உணர்ந்து கொள்ளும் இறைவியானவள் முதல் நிலையில் தாயாக இருந்து சாதகரின் மேல் அன்பு செலுத்துகிறாள். இரண்டாவது நிலையில் சாதகர் தாம் உணர்ந்த இறைவியின் மேல் தன் மகளைப் போல அன்பு செலுத்துகிறார். மூன்றாவது நிலையில் இறைவியும் சாதகரும் சரிசமமாக ஒருவரோடு ஒருவர் அன்பு செலுத்துகிறார்கள்.`,
   },
   {
@@ -6176,6 +6351,7 @@ She as One pervaded the Adharas six
 She as Eternal stood,
 Our Lovely bejewelled Lady,
 Know you this.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/06/Song-1180-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1179 இல் உள்ளபடி பத்து திசைகளையும் தமக்குள் கொண்டவளான இறைவி இறைவனோடு சேர்ந்து எப்படி இருக்கின்றாள் என்பதை இந்தப் பாடலில் அறிந்து கொள்ளலாம். பத்து திசைகளையும் பத்து முகங்களாகக் கொண்ட எமது பராசக்தியான இறைவியே உயிர்கள் உய்ய வேண்டும் என்று நான்கு வேதங்களையும் அவற்றின் ஆறு அங்கங்களையும் உருவாக்கி வைத்து அருளினாள். அவளே அனைத்திற்கும் ஆதாரமான இறைவனுடன் ஒன்றாகச் சேர்ந்து மிகவும் உயர்ந்த நிலையில் எல்லா காலத்திலும் எப்போதும் இறைவனுடன் சரிசமமான பாகமாக சேர்ந்தே நிற்கின்றாள். வேதத்தின் ஆறு அங்கங்கள்: சிட்சை – வேதத்தின் எழுத்து மற்றும் ஒலி முதலியவற்றைப் பற்றிச் சொல்வது. வியாகரணம் – சொற்களின் இலக்கணத்தை ஆராய்வது. சந்தம் – செய்யுள் இலக்கணம் பற்றிச் சொல்வது. சோதிடம் – கோள் நிலைகளை வைத்து காலத்தை ஆராய்வது. நிருக்தம் – வேதச் சொற்களுக்கு பொருள் கூறுவது. கல்பம் – வேதத்தின் செயல் முறைகளை உரைப்பது.`,
   },
   {
@@ -6197,6 +6373,7 @@ She is of breasts ambrosial,
 She is Mistress of Over-Soul (Siva),
 She knows separateness none
 From Her Lord.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/06/Song-1181-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1180 இல் உள்ளபடி இறைவனோடு பல விதங்களில் கலந்து இருக்கும் இறைவியானவள் அவனோடு உத்தமமான உயிர்களையும் சேர்த்து அருளுவதை இந்தப் பாடலில் அறிந்து கொள்ளலாம். எம்மால் புகழ்ந்து கூறப்படுகின்ற என்றும் இளமை பொருந்திய இறைவியானவள் வளைந்த புருவங்களோடு சீரும் சிறப்பும் கொண்டவளாக ஏழு உலகங்களிலும் திகழ்ந்து இருக்கின்றாள். வேதங்களாகவே இருக்கின்ற என்றும் இளமையான இறைவி உயிர்களுக்கு உண்மை ஞானத்தைக் கொடுக்கின்ற அமிழ்தப் பாலைக் கொண்ட தனங்களை உடையவள். தகுதியான உயிர்களுக்கு உண்மை ஞானத்தைக் கொடுக்கின்ற அமிழ்தப் பாலை அளித்து ஆட்கொண்டு இறைவன் வேறு ஆன்மா வேறு என்று பிரிந்து இருக்கும் அவர்களின் தன்மையை நீக்கி இறைவனோடு ஒன்றாகச் சேர்த்து அருளுகின்றாள்.`,
   },
   {
@@ -6215,6 +6392,7 @@ She is the lovely vine in Muladhara unites,
 With senses centered, and in union absorbed
 She in Jnana merging stood
 In the Jiva within.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/06/Song-1182-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1181 இல் உள்ளபடி இறைவன் வேறு ஆன்மா வேறு என்று பிரிந்து இருக்கும் தன்மையை நீக்கி இறைவனோடு ஒன்றாக சேர்வதற்கு அருளுகின்ற இறைவியானவள் ஆரம்ப நிலையில் சாதகரின் ஆன்மாவை பெரும் கருணையோடு காத்து நின்று இறைவனை அடைய வேண்டும் என்று நினைக்கின்ற அவரின் எண்ணங்களோடு சேர்ந்து நின்று கொம்பின் உயரத்திற்கு ஏற்ப வளர்கின்ற பூங்கொடியைப் போல சாதகரின் எண்ணங்களுக்கு ஏற்ப அருள் புரிகின்ற அழகிய பூங்கொடியாக இருக்கின்றாள். இறைவனை அடைய வேண்டும் என்று நினைக்கின்ற சாதகரின் மனதை அதற்கு ஏற்ப பக்குவப்படுத்தி அதனோடு ஒன்றாக சேர்ந்து நின்று அவருக்கு இறைவனை அடைவதற்கு வேண்டிய உண்மை ஞானத்தை அருளி அந்த ஞானத்தோடு கலந்து ஒன்றாக சாதகரின் உயிருக்குள் நிற்கின்றாள்.`,
   },
   {
@@ -6234,6 +6412,7 @@ And in me in union joined,
 And into the rapture of tapasvin way
 Entranced, drew me;
 She, Lady of boundless Bounty.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/06/Song-1183-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1182 இல் உள்ளபடி உண்மை ஞானத்தோடு கலந்து ஒன்றாக சாதகரின் உயிருக்குள் நிற்கின்ற இறைவியானவள் அவருக்கு எவ்வாறு அருள் புரிகிறாள் என்பதை இப்பாடலில் அறிந்து கொள்ளலாம். சாதகரின் உள்ளத்திற்கு உள்ளே வந்து அவருடனே சேர்ந்து நிற்கின்ற இறைவியானவள் அவரின் ஐந்து புலன்களும் இறைவனை நோக்கி செல்வதை தடுத்து ஆசைகளின் வழியே செல்ல வைக்கின்ற கள்ளத் தனத்தை (வஞ்சகத் தன்மையை) அகற்றி அவருடன் ஒன்றாகக் கலந்து நின்று அவரை தம்மோடு அணைத்துக் கொண்டு அவர் கொண்ட தவத்தின் வழிப்படியே செல்வதில் இருந்து தவறிவிடாமல் காப்பாற்றி அவர் செய்கின்ற தவம் கைகூடும் காலத்தில் பேரின்பத்தை அளித்து அதிலேயே அவர் லயித்து இருக்குமாறு அருளுகின்ற பெருங்கருணை கொண்ட வள்ளல் தலைவியாக இருக்கின்றாள்.`,
   },
   {
@@ -6255,6 +6434,7 @@ They know this not,
 The Cosmic Daughter in amity stood in me;
 In the Center, where Cranium Flower is,
 She in sweetness stood.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/06/Song-1184-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationEnglish: `As Bhoga Sakti, She grants Grace to jivas in bounteous sweetness.`,
     elaborationTamil: `பாடல் #1183 இல் உள்ளபடி பேரின்பத்தைக் கொடுத்து அருளுகின்ற பெரும் கருணை வள்ளலாக இருக்கின்ற இறைவியானவள் சாதகருடன் எவ்வாறு சேர்ந்து இருக்கின்றாள் என்பதை இந்தப் பாடலில் அறிந்து கொள்ளலாம். சாதகருக்கு அருள் புரிந்து பேரின்பத்தைக் கொடுக்கின்ற மாபெரும் சக்தியாகிய இறைவி சாதகருக்குள் வீற்றிருந்து தமது அருளினால் புரிகின்ற பேரின்பத்தைப் பற்றி அறிந்து கொள்ளாமல் சில சாதகர்கள் இருக்கின்றனர். பேரின்பத்தை அறிந்து கொண்ட சாதகர்களுக்குள் அண்டத்தில் இருக்கும் பராசக்தியின் ஒரு துளியாக வீற்றிருக்கும் இறைவியானவள் பூவும் நிறமும் போல சாதகரும் தாமும் ஒன்றாகக் கலந்து வீற்றிருக்கின்றாள். இப்படி இறைவியோடு தாமும் கலந்து வீற்றிருக்கின்ற நிலையை மட்டுமே குறிக்கோளாகக் கொண்டு வீற்றிருக்கின்ற சாதகர்களோடு அவளும் இன்பமாக வீற்றிருக்கின்றாள்.`,
   },
@@ -6275,6 +6455,7 @@ In union perfect intense,
 And in wonder abiding,
 And in that Cranium Center She was,
 That, indeed, is union true.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/06/Song-1185-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1184 இல் உள்ளபடி சாதகர்களோடு கலந்து இன்பமாக வீற்றிருக்கின்ற இறைவியானவள் எவ்வாறு கலந்து இருக்கின்றாள் என்பதை இந்தப் பாடலில் அறிந்து கொள்ளலாம். இறைவியானவள் பேரழகுடன் ஆபரணங்களை அணிந்து கொண்டு எமது உள்ளதிற்குள் புகுந்து வீற்றிருந்து எம்மோடு கலந்து இருப்பதில் மேல் நிலை பெற்றதை யாம் பரிபூரணமாக எமக்குள் உணர்ந்து அதையே எப்போதும் மனதிற்குள் எண்ணிக்கொண்டு இறைவியோடு இருப்பதே என்றும் நிரந்தரம் என்கிற உணர்வோடு பத்து திசைகளிலும் வீற்றிருக்கின்ற இறைவியோடு யாமும் சேர்ந்து இருப்பதையே குறிக்கோளாக வைத்து இருப்பது இறைவியோடு உண்மையாகக் கலந்து இருக்கும் நிலையாகும். கருத்து: இறைவி தமக்குள் கலந்து இருப்பதை உணர்ந்திருப்பதைப் போலவே தம்மைச் சுற்றி இருக்கும் பத்து திசைகளிலும் இருக்கும் இறைவியோடு தாமும் கலந்து இருப்பதே இறைவியோடு உண்மையாகக் கலந்து இருக்கும் நிலையாகும்.`,
   },
   {
@@ -6340,6 +6521,7 @@ Whence arises the articulate sound,
 For all this,
 The source is the Moon Sphere
 (Where Sakti is.)`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/06/Song-1188-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationEnglish: `The practice of nada or listening to internal sounds leads to samadhi. Compare Hatha Yoga Pradipika, iv, pp. 64-67: “I will now describe the practice of anahatha nada (heart sound), as propounded by Goraka Natha for the benefit of those who are unable to understand the principles of knowledge. Adiriatha propounds one and a quarter crore methods of trance and they are all extant. Of these, the hearing of the anahdtha nada (heart sound) is the only one, which is the chief, in my opinion. Sitting with mukta asana and with the sambhavi mudra, the yogi should hear the ‘sound inside.his right car, with a collected mind. The ears, the eyes, the nose and the mouth should be closed and then the clear sound is heard in the passage of sushumna which has been clednsed of all its impurities.””`,
     elaborationTamil: `பாடல் #1187 இல் உள்ளபடி சந்திர மண்டலத்தில் வீற்றிருக்கின்ற இறைவியை சாதகர்கள் உணர்ந்த பிறகு அங்கிருந்து எழுகின்ற நாத (ஒலி) சக்தி சூரியனின் கதிர்களைப் போலத் திரும்பி கீழ் நோக்கி வந்து அந்நாக்கில் அடியில் சோதியாக உருவாகி அந்த சோதியை தொண்டைக்குள்ளிருந்து இதயத்திற்குள் உந்தித் தள்ளுகிறது. இதயத்திற்குள் வந்த சோதி ஒலியாக மாறி ஒலிக்கின்றது. இப்படி சந்திர மண்டலத்தில் எழுகின்ற நாத (ஒலி) சக்தி சூரிய கதிர்களைப் போல தொண்டைக்குள் சோதியாகிப் பின் இதயத்திற்குள் ஒலியாக மாறுகின்ற அனைத்தும் சென்று அடைகின்ற இறுதியான இடமாக சந்திர மண்டலத்தில் வீற்றிருக்கும் இறைவி இருக்கின்றாள்.`,
   },
@@ -6404,6 +6586,7 @@ Looked inward and out;
 The Maya and the Five Sons
 With their Saktis arising
 Commenced their tasks respective.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2021/06/Song-1191-Fourth-Tantra-8.-Chakra-Base-and-Support-1.mp3',
     elaborationEnglish: `Creation, Preservation, Dissolution, Obfuscation and Revealing Grace.
 
 In Siva/Sakti union, Siva and Sakti looked inward and outward. There arose maya and the five Gods, who with their-respective saktis commenced the Five Acts — Creation, Preservation, Dissolution, Obfuscation and Revealing.`,
@@ -6425,6 +6608,7 @@ Let them meditate on Her within their body vessel,
 The Kundalini light within
 Ascending through Sushumna cavity
 Will in Her Love subside.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/06/Song-1192-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationEnglish: `True tapas is to meditate on kundalini sakti - to seek inward rather to observe, in vain, in myriad elaborate and complicated rituals.`,
     elaborationTamil: `பாடல் #1191 இல் உள்ளபடி ஐந்து பூதங்களையும் இறைவன் இறைவி ஆன்மாவுடன் ஒன்றாகப் பொருந்தி நின்று செய்கின்ற சாதகத்தையே தவமாக மேற்கொள்ளுகின்ற சாதகர்கள் தங்களின் உடலை மறந்து அதற்கு உள்ளே உணர்ந்து இருக்கின்ற இறை சக்தியை எண்ணிக் கொண்டே இருந்தால் அவர்களின் எண்ணத்தைத் தொடர்ந்து மூலாதாரத்திலுள்ள குண்டலினி சோதியானது எழும்பி சுழுமுனை நாடித் துளை வழியே மேலேறிச் சென்று சகஸ்ரதளத்தில் சோதியாக இருக்கின்ற பேரன்பின் வடிவான சாதகரின் அன்பிற்கு ஏற்ற அழகிய அணிகலன்களை அணிந்திருக்கும் இறைவியிடம் சென்று அடங்கி விடும்.`,
   },
@@ -6465,6 +6649,7 @@ She is the bejewelled Lady
 To Paraparan belongs,
 Vithaki She is,
 In my heart She stood.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/06/Song-1194-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationEnglish: `Her visage is radiant. She is Sakti (of prowess great); She is Sakiri (of Grace-granting); She is Sahali (of manifest form); She is Jatadhari (of matted locks); She is Vithaki (of jnana possessed); She is with ten hands.`,
     elaborationTamil: `பாடல் #1193 இல் உள்ளபடி மூலாதாரத்திலிருந்து முத்துப் போல கிடைக்கும் மந்திரமானது இறைவியின் அம்சத்தில் இருப்பதை இந்தப் பாடலில் அறிந்து கொள்ளலாம். இந்த மந்திரமான இறைவி முத்து போன்ற வெண்மை ஒளியாகப் பிரகாசிக்கின்றாள். தனது அனைத்து முகங்களிலும் மூன்று கண்களை வைத்திருக்கின்றாள். சக்தி மயமாக இருக்கின்றாள். அளவில்லாத ஆற்றலைக் கொண்டிருக்கின்றாள். அடியவர் வேண்டும் உருவத்தையே மேற்கொண்டு வருகின்றாள். சடை முடியை அணிந்து கொண்டிருக்கின்றாள். பத்துக் கைகளைக் கொண்டிருக்கின்றாள். அசையா சக்தியாகிய இறைவனைச் சுற்றிக் கொண்டிருக்கும் பொன் வளையலாக இருக்கின்றாள். ஞானத்தின் தலைவியாக இருக்கின்றாள். இந்த இறைவியே எமது உள்ளம் முழுவதும் பரவி வீற்றிருக்கின்றாள்.`,
   },
@@ -6485,6 +6670,7 @@ She is Head of all three together,
 She abandons you not
 Even if you forget Her;
 She is Light within.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/06/Song-1195-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1194 இல் உள்ளபடி சாதகரின் உள்ளத்திற்கும் பரவி வீற்றிருக்கும் இறைவியானவள் அவருக்குள் இருக்கும் மூன்று மண்டலங்களிலும் பேரொளி உருவமாக இருப்பதை இந்தப் பாடலில் அறிந்து கொள்ளலாம். சாதகருக்குள் இருக்கும் மூன்று மண்டலங்களில் அடியில் இருக்கும் அக்னி மண்டலமாகிய மூலாக்னியே இறைவியின் நன்மை தரும் திருவடிகளாகவும், சூரிய மண்டலமே இறைவியின் திருமேனியாகவும், தலை உச்சிக்கு மேலே இருக்கும் துவாதசாந்த வெளியையும் தாண்டி இருக்கும் சந்திர மண்டலமே (பாடல் #1187 இல் உள்ளபடி) இறைவியின் திருமுடியாகவும் கொண்ட பேரொளி உருவமாக இறைவி இருக்கின்றாள். சாதகர் கண்மூடி தியானத்தில் இருந்தாலும் தமக்குள் பேரொளி உருவமாக இறைவி வீற்றிருப்பதை உணர்ந்து தரிசிக்க முடியும்.`,
   },
   {
@@ -6526,6 +6712,7 @@ That is Bliss Divine;
 She spreads it over Adharas six,
 In order according,
 She, the bejewelled One.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/06/Song-1197-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1196 இல் உள்ளபடி விசுத்திச் சக்கரத்திலிருந்து கொடி போல மேலேறிச் சென்று சகஸ்ரதளத்தில் உச்ச நிலையில் மின்னல் போன்ற ஒளியையும் சக்தியையும் கொண்டு இருக்கும் இறைவியானவள் அங்கிருக்கும் இறை சக்தியையே முதன்மையாகக் கொண்டு அதனுள் வீற்றிருக்கும் போது அங்கிருந்து கங்கையைப் போன்ற அமிழ்தம் கீழிறங்கும் படி இறை சக்தியானது ஊற்றாகப் பொழிகின்றது. இதுவே பசுமையான பொன் போன்ற திருவடிகளைக் கொண்ட இறைவனின் உருவமாக இருப்பது பேரின்பமாகும். இந்தப் பேரின்பத்தை அருளும் அமிழ்தத்தை சாதகரின் பக்குவத்திற்கு ஏற்றபடி அவருக்குள் இருக்கும் ஆறு ஆதார சக்கரங்களுக்கும் முறையாக அருளுகின்ற தலைவியாக அழகிய ஆபரணங்களை அணிந்திருக்கும் இறைவி இருக்கின்றாள். கருத்து: இறைவன் சகஸ்ரதளத்திலிருந்து அமிழ்தத்தின் மூலம் பேரின்பத்தை அருளும் உருவமாக இருக்கின்றார். இறைவி அதை ஆறு சக்கரங்களுக்கு கொடுக்கும் சக்தியாக இருக்கின்றாள்.`,
   },
   {
@@ -6547,6 +6734,7 @@ The Jnana Sakti in forehead seated,
 The Congregation of Manatreswaras,
 All arived to praise Her;
 Thus She was, the Yoga Sakti, seated.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/06/Song-1198-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationEnglish: ``,
     elaborationTamil: `பாடல் #1197 இல் உள்ளபடி அழகிய ஆபரணங்களை அணிந்து ஆறு ஆதார சக்கரங்களுக்கும் சக்தியளிக்கின்ற இறைவியானவள் மும்மூர்த்திகளாகிய பிரம்மன் திருமால் உருத்திரன் ஆகியோருடைய சக்தியாகவும் ஆறு ஆதாரச் சக்கரங்களிலும் வீசுகின்ற ஒளியாகவும் பதினாறு கலைகளின் மூலம் பதினாறு விதமான செயல்களைப் புரிந்து கொண்டு இருப்பவளுமாகிய இறைவியை தமது எண்ணங்கள் முழுவதும் வைத்து தியானிப்பவர்களும் வேத மந்திரங்களை ஆராய்ந்து இறைவியைத் தெரிந்து கொள்ள முயல்கின்றவர்களும் இறைவியே சரணம் என்று அவளை மட்டுமே சார்ந்து போற்றி வழிபடுபவர்களும் ஆகிய அடியவர்களுக்குள் அவள் வீற்றிருக்கின்றாள்.`,
   },
@@ -6569,6 +6757,7 @@ Their devotion went;
 Wretches they are;
 Unto a beaten dog,
 They scream and wail.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/06/Song-1199-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1198 இல் உள்ளபடி சாதகம் செய்பவர்களின் உள்ளுக்குள் வீற்றிருக்கும் இறைவியானவள் சாதகம் செய்வதன் மூலமே அறிந்து கொள்ளக் கூடிய ஆரம்ப நிலையில் பெண் தெய்வமாக இருக்கின்றாள். இவளே முக்தியை அருளுகின்ற தலைவி என்பதை அறியாமல் பலர் இருக்கின்றனர். இப்படி இருப்பவர்களே அடியவர்கள் இறைவியின் மேல் வைக்கும் பக்தியை அறிந்து கொள்ளாமல் இழிவாகப் பேசி ஏளனம் செய்து பாவிகளாக இருக்கின்றனர். இந்தப் பாவிகள் தன்னால் புரிந்து கொள்ள முடியாததைப் பார்த்து குரைக்கின்ற நாயைப் போலவே இறைவியை அறிந்து கொள்ளாமல் பிதற்றிக் கொண்டு இருக்கின்றார்கள்.`,
   },
   {
@@ -6589,6 +6778,7 @@ The Lady of cloud-dark tresses
 Revealed Her Holy Feet, Lotus-like,
 And placing them on their thoughts,
 Blessed them with Her Grace.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/07/Song-1200-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `இறைவியின் திருவடியை யாரால் தரிசிக்க முடியும் என்றால் இறைவனை அடைய வேண்டும் என்ற எண்ணத்தில் உறுதியாக தியானத்தில் வீற்றிருந்து பாடல் #1193 இல் உள்ளபடி தமக்குளிருந்து கிடைத்த மந்திரத்தை ஓதிக் கொண்டே இருக்க முடிந்தவர்களுக்கு கிடைக்கும் பேறாகும். இப்படி சாதகம் செய்பவர்களுக்கு மழை பொழியும் மேகங்களைப் போல கருமையான நிறத்தில் பேரழகு பொருந்திய கூந்தலை உடைய இறைவியானவள் தனது தாமரை மலர் போன்ற சீரும் சிறப்பும் வாய்ந்த மேன்மை மிக்க திருவடிகளை அவர்களது சிந்தையில் வைத்து அருளுவாள்.`,
   },
   {
@@ -6635,6 +6825,7 @@ Chant the Mantra in love endearing
 As the First of Saktis Nine
 She in your Full Moon Sphere,
 Ever abides.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/07/Song-1202-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1201 இல் உள்ளபடி இறைவியின் திருவடிகளையே தியானித்து சமாதி நிலையில் வீற்றிருக்கும் சாதகர்களுக்கு ஆதியிலிருந்து இறைவனோடு சேர்ந்து இருக்கின்றவளும் வில் போல் வளைந்த நெற்றியைக் கொண்டவளுமான இறைவியே தலைவியாக வீற்றிருந்து பாடல் #871 இல் உள்ளபடி சாதகருக்குள் இருக்கும் ஒன்பது மண்டலங்களுக்கும் முதன்மை சக்தியாக விளங்கி அவளது கருணையால் பாடல் #1193 இல் உள்ளபடி அவருக்குள்ளிருந்து எழுந்த மந்திரத்தை தானாகவே ஒன்பது மண்டலங்களுக்கும் எப்போதும் ஓடிக் கொண்டே இருக்கும் படி செய்து சாதகரின் உடலையே தமக்கு மிகவும் விருப்பமான கோயிலாகக் கொண்டு வீற்றிருக்கின்றாள்.`,
   },
   {
@@ -6699,6 +6890,7 @@ Realize Her;
 The Only One in this world;
 She will make you bide here below for ever
 You may attain eight attributes* of Siva too.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/07/Song-1205-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationEnglish: `Think of Her; think of Her time and again; think of Her deep in the heart. By thus realising Her, you shall attain the eight attributes of Siva. 1) Eight attributes of Siva - vide Mantra 1, Prelude 8.`,
     elaborationTamil: `பாடல் #1204 இல் உள்ளபடி சாதகரின் மாயையான எண்ணங்கள் நீங்கி இறைவியின் எண்ணமும் தமது எண்ணமும் வேறில்லை எனும் நிலை பெறும் போது அந்த ஒன்றுபட்ட எண்ணத்தில் வீற்றிருக்கும் இறைவியை மனதிலும் வைத்து வேறு எதிலும் செல்லாமல் தடுத்து நிறுத்தி தியானத்தில் வீற்றிருந்து எண்ணமும் மனமும் பாடல் #1201 இல் உள்ளபடி சாதகருக்குள் ஒரே இடமாக்கி அதிலிருந்து உருவாகும் மேல் நிலையான இறைவியை ஒருமுகமாக எண்ணி தியானித்தால் இந்த பிறவியிலேயே மேல் நிலையான இறைவியிடமிருந்து பெறக்கூடிய எட்டு விதமான சித்திகளையும் சாதகரால் பெற்றுக் கொள்ள முடியும்.`,
   },
@@ -6720,6 +6912,7 @@ And meet Her, of shining fragrant tresses
 In your heart's Center She as Light stands,
 There She stood, bedecked with Flower,
 That is Crescent Moon.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/07/Song-1206-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `ஆமை தனது தலையையும் நான்கு கால்களையும் ஓட்டுக்குள் இழுத்துக் கொள்ளுவது போல சாதகர் தமக்குள் இருக்கும் ஐந்து புலன்களையும் வெளிப்புறத்தில் கவனம் செல்லாது தடுத்து தமக்குள் அடக்கி வைத்து ஓம் எனும் மந்திரத்தை ஓதிக்கொண்டே இருந்தால் சாதகருக்குள் சூழ்ந்திருக்கும் இருளுக்குள் மறைந்து உள்ளுக்குள் ஒளியாக நிற்கும் நறுமணம் வீசுகின்ற கூந்தலுடன் ஒன்றோடு ஒன்று தைப்பது போல சாதகரோடு பிண்ணிப் பிணைந்து இருக்கின்ற இறைவியை தரிசித்து விட்டால் அதன் பிறகு அவளே சாதகரின் தலை உச்சிக்கு மேலே இருக்கும் ஒன்பதாவது மண்டலமாகிய சந்திர மண்டலத்தில் நறுமணம் வீசுகின்ற மலர்களைச் சூடிக்கொண்டு இருக்கிறாள் என்பதை அறிந்து உணர்ந்து கொள்ளலாம். கருத்து: சமாதியில் இருக்கும் சாதகருக்குள் மாயை எனும் இருளுக்குள் மறைந்து ஒளியாக இருக்கும் இறைவியை தனது ஐந்து புலன்களையும் அடக்கி ஓங்கார மந்திரத்தை செபிப்பதின் மூலம் தரிசித்து விட்டால் அதன் பிறகு அந்த மாயை இருள் நீங்கி பேரொளிப் பிரகாசமாக சந்திர மண்டலத்தில் வீற்றிருக்கின்ற இறைவியே தமக்குள் ஒளியாக இருக்கின்றாள் என்பதை அறிந்து உணர்ந்து கொள்ளலாம்.`,
   },
   {
@@ -6741,6 +6934,7 @@ That is the heart of Rudra mantra
 She dances in rapture, in Holy Hall of Heart
 Meet Her through Sushumna,
 Your breath that way coursing.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/07/Song-1207-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1206 இல் உள்ளபடி சந்திர மண்டலத்தில் நறுமணம் வீசுகின்ற மலர்களை சூடிக்கொண்டு இருக்கின்ற இறைவியானவள் தனது கைகளில் ஆணவத்தை அடக்குகின்றா அங்குசத்தையும் உயிர்களின் பிணைப்பாகிய பாசக் கயிறையும் வைத்துக் கொண்டு சுழுமுனை நாட வழியே சென்று அடைகின்ற இடமாக வீற்றிருக்கின்றாள். இரண்டு கைகளிலும் வளைகள் அணிந்து பேரழகு வாய்ந்த அவளது திருக்கரங்களில் உடுக்கையையும் நெருப்பு சட்டியையும் வைத்துக் கொண்டு சாதகர்கள் நாடுகின்ற இறைவன் இறைவி எனும் இரண்டு திருவடிகளைக் கொண்டு நன்மையின் வடிவமாக முலாதாரத்திலிருந்து சகஸ்ரதளம் வரை நீண்டு இருக்கும் சுழுமுனை நாடியில் உருத்திர நடராஜ வடிவமாக நின்று திருநடனம் புரிந்து கொண்டு இருக்கின்றாள். சீரும் சிறப்பும் மிக்க அவளோடு சாதகர்கள் ஒன்று சேர்ந்து விட்டால் அவரது உள்ளமே இறைவனும் இறைவியும் சேர்ந்து நடராஜ உருவமாக திருநடனம் புரிகின்ற அம்பலமாக மாறிவிடும். கருத்து: சந்திர மண்டலத்தில் பேரொளியாக வீற்றிருக்கும் இறைவியை தமக்குள் அறிந்து கொண்டு உணர்ந்து விட்ட சாதகர்கள் அவளோடு தாமும் ஒன்றாக சேர்ந்து விட்டால் அவரது உள்ளமே இறைவனும் இறைவியும் சேர்ந்து நடராஜ உருவமாக திருநடனம் புரிகின்ற அம்பலமாக ஆகிவிடும்.`,
   },
   {
@@ -6761,6 +6955,7 @@ Kama, God of Love, and his brother Sama,
 And Sun, Fire and Moon
 All, all, besought Her Feet
 And on their heads they bore them.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/07/Song-1208-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1207 இல் உள்ளபடி அம்பலமாக ஆகிவிட்ட சாதகருக்குள் திருநடனம் புரிகின்ற நடராஜ உருவத் தத்துவத்தில் இயங்கிக் கொண்டு இருக்கின்ற பிரம்மன் திருமால் உருத்திரன் மகேஸ்வரன் சதாசிவன் ஆகிய ஐந்து தேவர்களையும் தமக்குள் உணர்ந்து அவர்களின் திருவடிகளைத் தொழுது நின்று சாதகர் அவர்களின் திருவடிப் பேற்றை அடைந்தார். அவ்வாறு அடைந்த பிறகு சாதகருக்குள் தூமாயையாக இருக்கும் காமனாகிய ஆசையும் புதனாகிய பற்றுக்களும் சாதகர் சமாதி நிலையை அடைவதற்கு உதவுகின்ற சூரிய மண்டலம் மூலாதார அக்னி சந்திர மண்டலம் ஆகிய மூன்று அங்கங்களும் சேர்ந்து இறைவியை நாடி வந்து அவளின் திருவடியில் சரணாகதியாகத் தொழுது நிற்கும் போது இறைவி அவர்களை ஆட்கொண்டு வீற்றிருந்தாள்.`,
   },
   {
@@ -6800,6 +6995,7 @@ Nothing there is but the Bejewelled Lady;
 It is all but Sakti and Siva conjoint
 As we see (in Her Form),
 Pitcher and serpent together.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/07/Song-1210-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1209 இல் உள்ளபடி அண்டத்தின் முதல்வியாய் இருக்கும் இறைவியே அண்ட சராசரங்கள் முதல் உலகங்கள் அனைத்திற்கும் ஆதியாகவும் அந்தமாகவும் இருந்து பரிபாலிக்கிறாள் இவளைத் தவிர வேறொரு சக்தியை யாம் கண்டது இல்லை. இருந்தாலும் இறைவி மட்டும் தனியாக நின்று உலகங்கள் அனைத்திற்கும் முதல்வியாக இல்லாமல் சிவப் பரம்பொருளோடு கூடி நின்றே அனைத்திற்கும் முதல்வியாக இருக்கின்றதன் காரணம் உலகங்களில் இருக்கும் அனைத்து உயிர்களும் படைப்புக்கான இயற்கையில் ஆண் பெண் எனும் இரு நிலைகளில் நிற்பதே ஆகும்.`,
   },
   {
@@ -6821,6 +7017,7 @@ Piercing Chakras
 She entered unopened flower above,
 With Lord, She there sat,
 High in Sahasrara.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/07/Song-1211-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationEnglish: `The Lord consumed poison, enabling the celestjals to consume the ambrosia that confers immortality. There She, was with Him then, and thus did it happen.`,
     elaborationTamil: `ஆலகால விஷத்தை தாம் ஏற்றுக் கொண்டு அமரத்துவம் தருகின்ற சிவ அமிழ்தத்தை விண்ணுலகத்தில் இருக்கும் தேவர்களுக்கு அருளிய இறைவனின் திருவடிகளை சரணாகதியாக கொண்டு வீற்றிருக்கும் சாதகர்களுக்கு இறைவன் தாம் தேவர்களுக்கு அருளிய சிவ அமிழ்தத்தைக் கொடுத்து இறப்பில்லாத நிலையை அருளுகின்றார். அதன் பிறகு அவர்கள் சிவ அமிழ்தம் அருந்தியதின் பயனாக சிவ இன்பமும் கிடைக்கப் பெற்று அதிலேயே இறைவனோடு சேர்ந்து வீற்றிருப்பார்கள். அப்போது குண்டலினி சக்தி வந்து சேருகின்ற இடமாகிய சுழுமுனை நாடியின் உச்சித் துளையில் நின்று ஆடுகின்ற இறைவியும் முன்னதாகவே வந்து இறைவனோடு சேர்ந்து தலை உச்சியிலுள்ள சகஸ்ரதளத்தில் வீற்றிருப்பாள்.`,
   },
@@ -6863,6 +7060,7 @@ With those who chant,
 Syallble Na-Ma-Si-Va
 She, Lady of Niyama,
 Constant stood to succour.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/07/Song-1213-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1212 இல் உள்ளபடி சாதகருக்கு அமிழ்தத்தை கொடுக்கின்ற இறைவியானவள் அதனால் கிடைக்கும் பேரின்பமாகவும் சாதகர் உண்ணும் உணவாகவும் இருந்து அந்த உணவைச் செரிக்க வைக்கின்ற நெருப்பாகவும் குண்டலினி சக்தியின் அக்னியாகவும் சாதகரோடு எப்போதும் சேர்ந்து இருக்கின்றாள். அவளது திருநாமமாகிய ‘நமசிவ’ எனும் மந்திரத்தை எண்ணி தியானத்தில் இருப்பவர்களுக்கு அவர்கள் தினந்தோறும் தவறாமல் கடைபிடிக்கும் நியமங்களுக்கு (பாடல் #556 இல் காண்க) துணையாகவும் இருந்து அவர்களுக்குள் முழுவதும் பரவி வீற்றிருக்கின்றாள்.`,
   },
   {
@@ -6882,6 +7080,7 @@ Of rich pearl's radiance She is,
 Of wavy tresses She is,
 She immanent stands in Jivas
 As Kala pervasive.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/07/Song-1214-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1213 இல் உள்ளபடி சாதகருக்குள் முழுவதும் பரவி வீற்றிருக்கும் இறைவியானவள் நிலவைப் போன்ற குளிர்ந்த ஒளியை வீசும் நீண்ட படிகக் கல்லைப் போன்ற வெண்மையை உடையவள். கல்லால் செதுக்கப்பட்ட சிலையைப் போன்ற அழகிய வடிவத்துடன் சிறந்த முத்துப் போன்ற இயல்பிலேயே பிரகாசிக்கும் தன்மையை உடையவள். சுருண்டு இருக்கும் அழகிய கூந்தலில் வாசனை மிக்க மலர்களை சூடியிருப்பவள். அவள் சாதகருக்குள்ளிருந்து பாடல் #1189 இல் உள்ளபடி உடலின் இயக்கத்திற்கு உதவும் பதினாறு கலைகளாகக் கலந்து நிற்கின்றாள்.`,
   },
   {
@@ -6899,6 +7098,7 @@ The Virgin with Her Lover commingling stood
 She stood commingling in all Life and Thought
 She stood commingling in all Learning and Wisdom
 She stood commingling as Time Eternal.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/07/Song-1215-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationEnglish: `In all life and thought, in all learning and wisdom, and as time eternal, She stood mingling. She stood in stellar brilliance. She is Malini (Uma); Makuli (kundalini); She is Chandika, the tornado that blows away the troubles of Her devotees. Protectress She thus is, standing indivisible with the Protector.`,
     elaborationTamil: `பாடல் #1214 இல் உள்ளபடி சாதகருக்குள் கலந்து நிற்கின்ற இறைவியானவள் தாமாகத் தனித்து இல்லாமல் என்றும் இளமையுடன் இறைவனுடன் சேர்ந்தே இருக்கின்றாள். அவள் உயிர்கள் அனைத்தும் கற்கின்ற கல்விகளாகவும் அந்த கல்வியைக் கொண்டு செய்கின்ற அனைத்து செயல்களுக்கான அறிவாகவும் இருக்கின்றாள். அவளே என்றும் இளமையுடன் அனைத்து விதமான காலங்களாகவும் இருக்கின்றாள்.`,
   },
@@ -6921,6 +7121,7 @@ Mantra Chandika
 (That blows away the troubles of Her devotees like a tornado)
 She is Protectress,
 She with Protector indivisible stands.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/07/Song-1216-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1215 இல் உள்ளபடி அனைத்து விதமான காலங்களாகவும் இருக்கின்ற இறைவியே உயிர்களின் எண்ணத்தையும் அதிலிருந்து வரும் ஆசைகளையும் அவரவர்களின் கர்ம நிலைகளுக்கு ஏற்ப கைகூட வைக்கின்றவள். சாதகரோடு ஒன்றாகச் சேர்ந்து இருந்து என்றும் பிரியாமல் இருக்கும் தன்மையை அவருக்கு அருளியவள். அந்த இறைவியே திருமாலின் தங்கையாகிய பார்வதியாகவும் அனைத்திற்கும் மேலானவளாகவும் மந்திரங்களின் சக்தியாகவும் தீய சக்திகளை புயல் போல் அடித்து விரட்டுகின்ற சண்டிகையாகவும் அருள் பாலிக்கின்றவளாகவும் அருள் பாலிக்கின்ற இறைவனோடு சரிசமமான பாகமாகவும் இருக்கின்றாள்.`,
   },
   {
@@ -6962,6 +7163,7 @@ Among them are the active group of Five (Senses);
 In the body so constituted
 She stands as Beginning and End,
 Praised by Brahma and the twice-nine Ganas.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/07/Song-1218-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationEnglish: `The 18 Ganas are: 1) Devas (Amaras), 2) Siddhas, 3) Asuras, 4) Daityas, 5) Garudas, 6) Kinnaras, 7) Nirutas, 8) Kinnaras, 7) Nirutas, 8) Kimpurushas, 9) Gandharvas, 10) Yakshas, 11) Vinjayas, 12) Bhutas, 13) Pisachas, 14) Antharas, 15) Munivas, 16) Uragas, 17) Akasavasis, 18) Bhoga Bhumidars.
 
 Brahma and the hordes of cighteen praise Sakti. who stands as the beginning and the end. in the body with jiva, with the tattvas and the five 'senses that constitute the body.
@@ -7015,6 +7217,7 @@ As the mind the Adharas six reaches
 There She in each is with Her presence
 Thus She, of the flowing tresses,
 In sweetness stood.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/07/Song-1220-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1219 இல் உள்ளபடி சக்திமயமாக மாறிய சாதகரின் உடலுக்குள் வந்து வீற்றிருக்கும் அழகிய ஆபரணங்களை அணிந்த இறைவியோடு ஆதிப் பரம்பொருளாகிய இறைவனும் சேர்ந்து வீற்றிருக்கின்றார். அப்போது சாதகர் தமது எண்ணத்தால் அவர்களை நோக்கி நெருங்கிச் செல்லும் போது அவர்கள் இருவரும் சேர்ந்த அம்சமானது சாதகரின் உடலுக்குள் இருக்கின்ற ஆறு ஆதாரச் சக்கரங்களும் அவரது தலை உச்சியில் இருக்கின்ற சகஸ்ரதளமும் தலை உச்சியைத் தாண்டி இருக்கின்ற துவாதசாந்த வெளியும் ஆகிய எட்டு இடங்களிலும் வந்து வீற்றிருக்கும். அதன் விளைவால் புனிதமாக மாறிய சாதகரின் மனமும் அவருக்குள் இருக்கின்ற ஆறு ஆதாரச் சக்கரங்களும் இறைவியின் திருமுகமாக மாறி அதில் நறுமணம் வீசுகின்ற நீண்ட கூந்தலையுடைய இறைவி இனிமையாக வீற்றிருக்கின்றாள். கருத்து: சாதகருக்குள் வீற்றிருக்கின்ற இறைவனும் இறைவியும் சாதரின் எண்ணத்தால் நெருங்கும் பொழுது அவருக்குள் இருக்கின்ற எட்டு இடங்களிலும் வீற்றிருந்து அதன் விளைவால் அவரது மனதை இறைவியின் தூய்மையான மனமாகவே மாற்றுகின்ற விதத்தை இந்தப் பாடலில் அறிந்து கொள்ளலாம்.`,
   },
   {
@@ -7035,6 +7238,7 @@ The ten breaths within me
 As one Prana breath became;
 And there She stood,
 Chanting (Aum) and awareness imparting.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/07/Song-1221-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1220 இல் உள்ளபடி சாதகருக்குள் இனிமையாக வீற்றிருக்கும் இறைவியானவள் தமது மேலான நிலைக்கு ஏற்ற அழகிய அணிகலன்களை அணிந்து கொண்டு சாதகரோடு சேர்ந்து அவருக்குள் நீண்டு பரவி இருக்கும் ஒரு பொழுதிலேயே சாதகருக்குள் இருக்கும் ஏழு சக்கரங்களும் மேன்மையான நிலையில் சக்தியூட்டம் பெறுகிறது. அதன் பிறகு சாதகருக்குள் இருக்கும் பத்து வாயுக்களும் (பாடல் #595 இல் காண்க) ஒன்றாகச் சேர்ந்து உயர்ந்த நிலையில் பிராணனாக மாறி அதில் இறைவியின் நாமம் எப்போதும் இயல்பிலேயே இடைவிடாமல் ஓதிக் கொண்டே இருக்கும் போது இறைவனும் இறைவியும் சேர்ந்து இருக்கும் உண்மை நிலையை சாதகர் பரிபூரணமாக உணர்ந்து கொள்ளும்படி இறைவி அவருக்குள் நின்று அருள்புரிகின்றாள். கருத்து: சாதகரின் உடலுக்குள் இருக்கின்ற பத்து வாயுக்களும் ஒன்றாகச் சேர்ந்து உயர்ந்த நிலையில் பிராணனாக மாறும் பொழுது அதில் இறைவியின் நாமம் எப்போதும் ஓடிக்கொண்டே இருக்கும் போது சாதகரால் இறைவனும் இறைவியும் சேர்ந்து இருக்கின்ற உண்மை நிலையை பரிபூரணமாக உணர்ந்து கொள்ள முடியும் என்பதை இந்தப் பாடலில் அறிந்து கொள்ளலாம்.`,
   },
   {
@@ -7053,6 +7257,7 @@ Is the way of union in God,
 Thus does Siva (contriver) and Sakti (consort of the contriver)
 Together in amity arise;
 She, the Beloved of Siva, (Sivakami) blesses you.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/07/Song-1222-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1221 இல் உள்ளபடி இறைவனும் இறைவியும் சேர்ந்து இருக்கும் உண்மை நிலையை சாதகர் பரிபூரணமாக உணர்ந்து கொள்ளும் பொழுது அவருக்குள்ளிருந்து எழுகின்ற மந்திரமானது ஓம் எனும் பிரணவ மந்திரத்தின் உட்பொருளாகும். சாதகர் அந்த உட்பொருளை உணர்ந்து கொள்ளும் பொழுது அவருக்குள்ளிருந்து நறுமணத்துடன் எழுகின்ற உட்பொருளே அவர் சென்று சேருகின்ற இறுதியான இடமாகவும் ஆதிப் பரம்பொருளாகவும் இருக்கின்றது. அந்த ஆதிப் பரம்பொருளான உட்பொருளின் இரண்டு தன்மைகளாக இதுவரை ஒளிந்து கொண்டிருக்கும் கள்வனாகிய இறைவனும் கள்வியாகிய இறைவியும் வெளிப்பட்டு ஒன்றாகச் சேர்ந்து இறைவனின் மேல் பேரன்பு கொண்ட இறைவியின் திருவுருவமாக சாதகருக்கு காட்சி கொடுப்பார்கள். கருத்து: உண்மையை அறிந்து கொண்டால் உயிர்களால் தங்களின் கர்மங்களை அனுபவத்து கழிக்க முடியாது என்பதால் மறக்கருணையால் அனைத்தையும் மாயையால் மறைந்து சூதானமாக ஓங்கார மந்திரத்தின் உட்பொருள் தத்துவமாக உயிர்களுக்குள்ளேயே மறைந்து இருக்கின்ற இறைவனும் இறைவியும் எப்படி இருக்கின்றார்கள் என்பதை இந்தப் பாடலில் அறிந்து கொள்ளலாம்.`,
   },
   {
@@ -7073,6 +7278,7 @@ She fortifies Jiva,
 And renders him youthful,
 Flower bedecked She stands
 In Jiva's Eye-brow Center.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/07/Song-1223-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationEnglish: `1) Kodandam - eyebrow centre, ajna chakra
 
 She. as Manonmani, stands in. the eyebrow centre, radiant as the crescent moon. She is fire; she is the Primal Being and Isa; She is the three spheres; She is the wind and other clements. She protects jiva and renders him youthful through yoga.`,
@@ -7094,6 +7300,7 @@ She one with Fifty Letters becomes;
 She is Para Parai and Parai too;
 She is of the Acts Five-
 Creation, Preservation, Dissolution, Obfuscation and Redemption.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/07/Song-1224-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationEnglish: `Mantras 1224 - 1226
 
 She is of the Five Acts, Creation, Preservation, Dissolution, and Revealing Grace. She is Mohini vibrant and Yooini amiable. Liberation lies in meditating on Her, chanting Aum in silence.`,
@@ -7116,6 +7323,7 @@ They who reach to Her
 Stand at Her Feet adoring,
 Unite in Siva that in their life is;
 Para Siva, too, they ascend to become.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/07/Song-1225-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1224 இல் உள்ளபடி ஐந்து தொழில்களையும் புரியும் இறைவியை தமக்குள் அறிந்து கொண்ட சாதகர் அவருக்குள் எப்போதும் இயங்கிக் கொண்டு இருக்கின்ற குண்டலினி சக்தியையும் அதைச் சார்ந்து இருக்கின்ற யோகத்தின் காரியமாக விளங்கும் சக்தியையும் தாண்டி மேல் நிலைக்குச் சென்று பராசக்தியின் தன்மையை அடைந்து அவளின் திருவடியைப் போற்றி வணங்குவார்கள். அவ்வாறு இறைவியின் திருவடிகளைப் போற்றி வணங்கிக் கொண்டு இருக்கும் சாதகர்களின் ஆன்மா பரம்பொருளாகிய இறைவனின் அம்சமான சிவம் எனும் நிலையை அடைந்து அதையும் தாண்டி அனைத்திற்கும் மேலான நிலையில் இருக்கும் அசையா சக்தியாகிய பரசிவத்தோடு ஒன்றாகக் கலந்துவிடும். கருத்து: பராசக்தியின் நிலையை அடைந்த சாதகர்கள் அவளின் திருவடிகளை போற்றி வணங்கிக் கொண்டே இருந்தால் இறைவனின் அம்சமான சிவம் எனும் நிலையை அடைந்து அதன் பிறகு அனைத்திற்கும் மேலான அசையா சக்தியாகிய பரசிவத்தோடு கலந்துவிடுவார்கள்.`,
   },
   {
@@ -7133,6 +7341,7 @@ At the far end of Cranium top
 She abides, Ananda Mohini, the Golden Lady;
 Meditate on Her in Silentness chanting Aum,
 That way lies life's Redemption.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/07/Song-1226-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1225 இல் உள்ளபடி பரசிவமாகவே ஆகிவிட்ட சாதகருடைய தலை உச்சிக்கு மேல் இருக்கின்ற பரவெளியில் பேரொளியாக வீற்றிருக்கும் சிவத்தின் சடை முடியாக வருகின்ற ஒளிக்கீற்றுகளே பேரின்பத்தில் அசைந்து ஆடுகின்ற சக்தியாகவும் அவளது தூய்மையான பொன் போன்ற திரு உருவமாகவும் இருக்கின்றது. இவர்கள் இருவரையும் முதன்மையாக வைத்து ஓதுகின்ற அனைத்து மந்திரங்களுக்குள்ளும் சரிசமமான பாகமாக இருப்பது அனைத்துமாகிய ஓம் எனும் பிரணவ மந்திரமாகும். இந்தப் பிரணவ மந்திரத்துக்குள் அடங்கி இருக்கின்ற அனைத்து உயிர்களுக்கும் இறைவனை நோக்கி சென்று அடைகின்ற வழியாக அதுவே இருக்கின்றது.`,
   },
   {
@@ -7152,6 +7361,7 @@ Rare is She for any to know,
 To them that seek Her
 United in word and thought,
 She as Wisdom Subtle appears.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/07/Song-1227-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationEnglish: `Mantras 1227 - 1229
 
 She is Mother of several faiths; She is Manonmani (the heart's precious gem) and Mangali, the Auspicious. She is subtle wisdom. When sought, united in word and thought, She' can be visioned. She is jnana, the true way. She drives away evil ways.`,
@@ -7175,6 +7385,7 @@ That is Jnana;
 That Way is the Holy Way,
 For those who seek Siva-State,
 The Way of Sanmarga (Jnana) is Way True.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/07/Song-1228-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1227 இல் உள்ளபடி பேரறிவை நோக்கி செல்லுகின்ற சாதகர்களுக்கு பேரறிவின் நுண்ணியமான அறிவாக இருக்கின்ற இறைவியே அவர்களுக்கு புத்தி நுட்பமான அறிவைக் கொடுக்கின்றாள். அவர்களுக்குப் பின்னால் இருந்து ஆட்டுவிக்கின்ற அறிவாக இருப்பது இறைவனுடைய பேரறிவாகும். சிவத்தோடு ஒன்றாக கலக்க வேண்டும் என்று இறைவனது பேரறிவை அறிந்து கொண்டு அதன் வழியே செல்லுகின்ற சாதகர்களுக்கு அவர்கள் செல்லுகின்ற செம்மையான வழிமுறையாக இருப்பதுவே சன்மார்க்கம் என்று அழைக்கப் படுகின்றது.`,
   },
   {
@@ -7194,6 +7405,7 @@ From that goodly Way,
 All goodly deeds arises
 Of that Sanmarga,
 Sakti indeed the Mistress is.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/08/Song-1229-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1228 இல் உள்ளபடி இறைவனை அடைவதற்கு செல்லுகின்ற செம்மையான வழிமுறையாக இருக்கும் சன்மார்க்கமே அனைத்து சமயங்களும் இறைவனை அடைவதற்கு தருகின்ற பலவித வழிகளாக இருக்கின்றது. பொய்யான வழிகள் அனைத்தும் உண்மையான ஞான வழியில் நடப்பவர்களை விட்டு தானாகவே விலகி விடும். நன்மையான வழிகளை அருளி காப்பாற்றுகின்ற அனைத்து விதமான தேவர்களாகவும் நன்மையான வழிமுறையாகவும் உண்மையான ஞான வழியில் சென்று அடையும் அருட் சக்தியாகவும் ‘சக்தி’ என்று எந்த அடைமொழியும் இல்லாமல் அழைக்கப்படுகின்ற இறைவியே இருக்கின்றாள்.`,
   },
   {
@@ -7213,6 +7425,7 @@ When you meditate constant on Sakti
 That as Aum ripens,
 That the Way sure
 To enter the Center aloft Sahasrara.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/08/Song-1230-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationEnglish: `Mantras 1230 - 1232
 
 Constant meditation on Sakti ripens as Aum, opens the sure way to enter the sahasrara and helps to conquer the formidable fate, karmas, and the senses.`,
@@ -7236,6 +7449,7 @@ Of flower bedecked tresses
 In the Moon's sphere whence ambrosia flows
 And there pray,
 Well may they decreed Fate conquer.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/08/Song-1231-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1230 இல் உள்ளபடி முக்திக்கான ஆரம்பத்தை அறிந்து கொள்ளும் சரியான வழியை தெரிந்து கொள்ளாமல் அது என்றும் இது என்றும் பலவிதமான வழிகளில் சென்று வாழ்நாட்களை வீணாகக் கழிக்காமல் அடியவர்களை மயக்கும் தேன் கொண்டு மலர்ந்து இருக்கும் நறுமணம் மிக்க பூக்களைச் சூடியிருக்கும் அழகிய கூந்தலுடன் என்றும் இளமையுடன் இருக்கும் நன்மையின் வடிவான இறைவியும் அவளோடு சேர்ந்து இறைவனும் தமக்குள் வீற்றிருக்கும் சகஸ்ரதளத்தில் தமது குண்டலினி சக்தியை பாடல் #1230 இல் உள்ளபடி சுழுமுனை நாடியின் வழியே மூலாதாரத்திலிருந்து மேலேற்றிச் சென்று சேர்த்து அங்கிருக்கும் அமிழ்தத்தைப் பருகி அங்கிருக்கும் இறைவனையும் இறைவியையும் உணர்ந்து அவர்களைப் பணிந்து வணங்க முடிந்தவர்களுக்கு அவர்களின் விதி என்று சொல்லப்படும் அனைத்து கர்மங்களையும் ஆணவத்தையும் மாயையும் வென்றுவிட முடியும்.`,
   },
   {
@@ -7254,6 +7468,7 @@ Well may they Karmaic Pasa conquer,
 Well may they desire-ridden Senses conquer,
 Well may all these know
 The Lady that conquers all.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/08/Song-1232-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1231 இல் உள்ளபடி இறைவனையும் இறைவியையும் உண்மையாக உணர்ந்து அவர்களைப் பணிந்து வணங்க முடிந்தவர்களால் விதியென்று சொல்லும் அனைத்து கர்ம வழிகளையும் அதனால் இருக்கும் ஆணவத்தையும் மாயையும் வினையினால் உருவாகும் பெரும் பந்த பாசத்தையும் ஆசையை உருவாக்கி மயக்குகின்ற ஐந்து புலன்களையும் அதனால் வருகின்ற ஆசைகளையும் வென்று விட முடியும்.`,
   },
   {
@@ -7274,6 +7489,7 @@ That the State how
 The Lady of flower laden tresses and Her Lord
 Of yore have been,
 Verily, verily is this true.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/08/Song-1233-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1232 இல் உள்ளபடி உண்மையான ஞானத்தை உணர்ந்து தெளிந்தவர்கள் அறிந்து கொண்ட மெய்யுணர்வாக இருக்கின்ற ஐம்பத்தோரு அட்சரங்களாகவும் அந்த அட்சரங்களுக்கு தேவதைகளாக பாரம்பரியமாக தலைமுறை தலைமுறையாக வந்து கொண்டு இருக்கின்ற அனைத்து தேவர்களுக்குள்ளும் ஒன்றாகக் கலந்து நிற்பது பரம்பொருளாகும். அந்தப் பரம்பொருளும் நறுமணமும் மருத்துவ குணமும் கொண்ட கோடக மலர்களைச் சூடியிருக்கும் கூந்தலைக் கொண்ட இறைவியையும் முதன்மையாகக் கொண்டு அவர்களைச் சார்ந்து இருக்கின்ற மெய்யுணர்வு பெற்றவர்களுக்கு அருளுகின்ற திருவடிகளாகவும் சத்தியத்தின் உருவமாகவும் இருக்கின்றது சிவசக்தியே ஆகும்.`,
   },
   {
@@ -7291,6 +7507,7 @@ When Sakti and Siva united
 All creation, without seed, arose;
 And thus was it with the Fifty-one Letter-Beings,
 Acquiring Jnana, Jivas Perfection attained.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/08/Song-1234-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1233 இல் உள்ளபடி இறைவனையும் இறைவியையும் முதன்மையாகக் கொண்டு அவர்களைச் சார்ந்து இருக்கின்ற சாதகர்கள் சத்தியத்தின் உருவமாக இருக்கின்ற இறைவியோடும் தாமாகவே தோன்றி எப்போதும் இருக்கின்ற இறைவனோடும் தாமும் ஒன்றாகச் சேர்ந்து இருக்கின்ற உண்மையான ஞானத்தை உணர்ந்து விட்டால் விதை போட்டால் பயிர் வளரும் என்கிற உலக நியதிக்கு எதிராக விதை போடாமலே அனைத்து பயிர்களும் விளைந்து விடும் அதிசயம் போல அனைத்து ஞானங்களும் அவர் முயற்சி செய்யாமலேயே இறையருளால் அவருக்கு கிடைக்கப் பெறும். அது போலவே பாடல் #1224 இல் உள்ளபடி அவருக்குள்ளிருந்து வெளிப்பட்ட ஐம்பத்தோரு அட்சரங்களும் அவற்றுக்கு அதிபதியான தேவர்களும் அவரின் சித்தத்தில் இருக்கும் சிவத்தோடு கலந்து அவரின் சிந்தனைக்குள் இருக்கும் அனைத்து மும்மலங்களால் ஆன அனைத்து எண்ணங்களும் நீங்கி மொத்தமும் நன்மையாகவே அவர் மாறிவிடுவார்.`,
   },
   {
@@ -7310,6 +7527,7 @@ And the Celestials stood praying
 To swill the ambrosia that flowed;
 And as Ambrosia there She stood
 Radiant as Crescent Moon.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/08/Song-1235-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1234 இல் உள்ளபடி தமது சிந்தனைக்குள் இருக்கும் மும்மலங்களால் ஆன அனைத்து எண்ணங்களும் நீங்கி மொத்தமும் நன்மையாகவே மாறிவிட்ட சாதகருக்குள் வீற்றிருக்கின்ற சிவனும் வில் போன்ற வளைந்த நெற்றியைக் கொண்ட இறைவியும் அவர்களோடு சேர்ந்து வந்து வீற்றிருக்கும் விண்ணுலகத்து தேவர்களும் சாதகருக்குள் இருக்கும் ஒன்றான அம்சத்தை புகழ்ந்து போற்றி வணங்கி வழிபட அவர்கள் அருந்துவதற்கு அந்த இடத்திலேயே எப்போதும் தெகிட்டாத அமிழ்தமாகவும் வளர் பிறைச் சந்திரனாகவும் இறைவியே இருக்கின்றாள்.`,
   },
   {
@@ -7327,6 +7545,7 @@ They who reach to the Star Eternal Became one with Her,
 Of tresses, garland-festooned,
 With fragrant Ganga and Moon, And men of holy tapas Self-realized praying;
 Thus She stood in stellar brilliance.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2021/08/Song-1236-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1235 இல் உள்ளபடி எப்போதும் தெகிட்டாத அமிழ்தமாக எழுச்சியோடு இருந்து கொண்டே இருக்கின்ற பேரழகு வாய்ந்த இறைவியை தமக்குள் உணர்ந்து அடைந்தவர்கள் அடைந்த அந்தப் பொழுதிலேயே இறைவியாகவே ஆகிவிடுவார்கள். அவர்களோடு நீண்ட கூந்தலை உடைய இறைவியும் தீயவற்றை நீக்கி தூய்மையைத் தருகின்ற கங்கையாகவும் குளிர்ந்த ஒளியைத் தருகின்ற நிலவாகவும் மாபெரும் தவத்தைப் புரிந்த சாதகர்களோடு எப்போதும் பொருந்தி இருக்கின்ற நட்சத்திரம் போன்ற பேரொளிப் பிழம்பாகவும் நிற்கின்றாள்.`,
   },
   {
@@ -7346,6 +7565,7 @@ With their inner light realizing Her,
 And uniting in Her,
 In the thoughts of Jivas thus reached
 All Jnana appears.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/08/Song-1237-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationEnglish: ``,
     elaborationTamil: `பாடல் #1236 இல் உள்ளபடி சாதகருக்குள் எப்போதும் பொருந்தி நட்சத்திரம் போன்ற பேரொளிப் பிழம்பாகவும் நிற்கின்ற இறைவியானவள் அவரின் சக்திக்குத் தகுதியான ஆபரணங்களை சூடிக்கொண்டு இருக்கின்றாள். அவளோடு உண்மையான ஞானத்தில் ஒன்றாகச் சேர்ந்திருக்கும் சாதகர்கள் தங்களின் உள்ளுக்குள் இருக்கும் இறை ஒளியின் மூலம் அவளை முழுவதுமாக உணர்ந்து கொண்டு வீற்றிருக்கும் போது இதுவரை உலகத்தைக் கடந்து சென்ற ஆன்மாக்களின் எண்ணத்தில் அவர்கள் வேண்டிக் கொண்ட வேண்டுகோள்கள் அனைத்தும் வந்து சேரும். அப்போது அவர்களின் வேண்டுகோள்களுக்கு பொருத்தமான அருளை வழங்குவதற்குத் தேவையான ஞானங்கள் அனைத்தும் சாதகருக்குள் தானாகவே தோன்றிவிடும்.`,
   },
@@ -7389,6 +7609,7 @@ She is damsel red-hued.
 She is Sivananda Sundari (Siva-Bliss-Beauty),
 She stood as Pure Way,
 In Love endearing.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/08/Song-1239-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1238 இல் உள்ளபடி இறைவியாகவே ஆகிவிட்ட சாதகர்கள் நுண்ணியதாக அறியும் அறிவையும் தாண்டிய நிலையில் அணுவுக்குள் அணுவாகவும் மாயையாகவும் ஆகி நின்று அனைத்திற்கும் மேன்மையான பெருமையை உடையவளாகவும் இருக்கின்றாள். சிவந்த நிறத்தோடு என்றும் இளமையுடன் பேரானந்தத்திற்கும் மேலான சிவானந்தமாகவே இருக்கின்ற அவளே பேரழகுடன் பேரன்பின் வடிவமாகவே ஆகி சாதகர் செல்கின்ற மேன்மையான வழியாகவும் ஆகி நிற்கின்றாள்.`,
   },
   {
@@ -7408,6 +7629,7 @@ But with Lord
 Center Her in your thoughts,
 And there in Jnana
 You shall absorbed be.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/08/Song-1240-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1239 இல் உள்ளபடி சாதகர்கள் செல்கின்ற மேன்மையான வழியாகவே ஆகி அவரது வழிகளுக்குத் தகுதியான அணிகலன்களை அணிந்து கொண்டு நிற்கின்ற இறைவியை எப்போதும் இறைவனை விட்டுத் தனியாக பிரித்து வைத்து நினைக்காமல் பிண்ணிய சடை முடியில் கங்கையையும் பிறை நிலாவையும் சூடியிருக்கும் இறைவனுடனே இறைவியை ஒன்றாக சேர்த்து வைத்து எப்போது அதை நினைப்பதையே குறிக்கோளாகக் கொண்டு தமது எண்ணங்கள் அனைத்தையும் ஒன்றாகச் சேர்ந்திருக்கும் அவர்களின் மேல் வைத்து தியானிக்கும் சாதகர்கள் அம்மை அப்பராகிய அவர்கள் இருவரோடு தாமும் ஒன்றாகச் சேர்ந்து அவர்களுக்குள்ளேயே அடங்கி பேரின்பத்தில் இருப்பார்கள்.`,
   },
   {
@@ -7427,6 +7649,7 @@ If Aum pervaded, you reach to Centers nine within
 You shall honey-sweet divine become,
 You shall in rapture sing,
 You shall reach State of Greatness Surpassing.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/08/Song-1241-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationEnglish: `Mantras 1241 & 1242
 
 Illusory are the states of Brahma, Vishnu, Hara and Maheswara. She is beyond all those. She pervades in Aum, in sahasrara beyond the six adharas and the three mandalas. There She confers the state of greatness, surpassing that of all the gods. Then the celestials, Vanavas, Dhanavas, Indra and other gods from all directions will come to the yogi and worship at his feet.`,
@@ -7449,6 +7672,7 @@ And Indra and other Gods too in direction eight;
 Seek therefore the way of worship to reach
 The Lady of tresses, in flower clusters festooned,
 And Her Lord, too.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/08/Song-1242-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1241 இல் உள்ளபடி ஓங்காரத்தின் நாதமாகவே ஆகிவிட்ட சாதகரைத் தேடி வந்து அவரது திருவடியைப் போற்றி வணங்கி நின்று தேவர்களும் அசுரர்களும் இந்திரன் முதலாக எட்டு திசைக்கும் தலைவர்களாக இருக்கின்றவர்களும் சாதகர் தமக்குள்ளேயே நறுமணம் மிக்க மலர்களைச் சூடிக்கொண்டு இருக்கும் அழகிய கூந்தலைக் உடைய இறைவியையும் அவளோடு ஒன்றாகச் சேர்ந்து அனைத்திற்கும் அரசனாக இருக்கின்ற இறைவனையும் தமது வழிபாட்டின் மூலமே சாதகர் அடைந்ததைப் போலவே தாங்களும் சென்று அடைவதற்கான வழியை சொல்லி அருளுமாறு வேண்டிக் கொள்வார்கள். எட்டு திசைக்கும் தலைவர்கள் இருப்பவர்கள்: பாடல் #69 மற்றும் #70 இல் உள்ளபடி முதல் நான்கு திசைகளுக்கும் தலைவர்களாக இருப்பவர்கள்: இந்திரன் சோமன் பிரம்மன் உருத்திரன் மற்ற நான்கு திசைகளுக்கு தலைவர்களாக இருப்பவர்கள்: எமதருமன் குபேரன் வருணதேவன் வாயுதேவன்`,
   },
   {
@@ -7469,6 +7693,7 @@ Light the multi-flamed lamp,
 Thus perform worship of Parvati;
 The oblations that you in archana offer
 Are for the Lord of Divine Light as well.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/08/Song-1243-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationEnglish: `Children of Danu, their mother - asuras.`,
     elaborationTamil: `பாடல் #1242 இல் உள்ளபடி இறைவனையும் இறைவியையும் சாதகர் அடைந்ததைப் போலவே தாங்களும் சென்று அடைவதற்கான வழியைச் சொல்லி அருளுமாறு வேண்டிக் கொண்டவர்களுக்கு அவர் கூறிய வழியாவது இறைவனை நினைத்து அவரின் நன்மையான மந்திரங்களை ஓதி நறுமணம் மிக்க மலர்களைத் தூவி தூய்மையான வாசனை மிக்க தூபத்தைக் காட்டி மனதையும் ஐந்து புலன்களையும் அடக்கி வைத்து எண்ணங்கள் முழுவதையும் தூய்மைப் படுத்தி கவர்ந்து கொள்கின்ற தூய்மையான நெய்யில் எரிகின்ற தீபத்தை ஏற்றி வைத்து வேத ஆகமங்கள் அருளிய முறைப்படி இந்த உலக வாழ்க்கையிலேயே அனைத்து உலகங்களுக்கும் தலைவனாகிய இறைவனுக்கு பூசை செய்து அனைத்து உயிர்களுக்குள்ளும் சோதியாக வீற்றிருக்கின்ற அந்த இறைவனுக்கு அர்ச்சனை செய்யுங்கள். இறைவனையும் இறைவியையும் சென்று அடையும் வழி இதுவே என்று அருளுகின்றார்.`,
   },
@@ -7491,6 +7716,7 @@ She who holds the lovely parrot in Her hand,
 And sports wavy tresses
 She, Parasakti
 Do adore Her!`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/08/Song-1244-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationEnglish: `Mantras 1244 - 1246
 
 Adore Parasakti sporting the wavy tresses — Uma of dark slender form — and be illumined. The resplendent Parasakti dispels anava darkness. The Golden Goddess of wealth shall then be at your feet.`,
@@ -7515,6 +7741,7 @@ Do adore Her
 And be illumined,
 The very Golden Goddess (of Wealth) shall
 At your feet be.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/08/Song-1245-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1238 இல் உள்ளபடி இறைவியாகவே ஆகிவிட்ட சாதகரின் பேரழகுடைய திருவடிகளை தூய்மையின் உருவமாக தங்க நிறத்தில் கொடி போல மென்மையாக இருக்கும் உப சக்திகள் அனைவரும் நாடி வந்து போற்றி வணங்குவார்கள். அந்த உப சக்திகளின் நிலையை அடைய வேண்டும் என்ற ஆர்வத்தோடு இருக்கின்ற அனைத்து உயிர்களும் இறைவியாகவே ஆகிவிட்ட சாதகர் மாயையின் உருவத்தில் கருமை நிறத்தில் கொடி போன்ற மென்மையுடன் இருக்கும் போது அவரை நாடி வருகின்ற உயிர்களுக்கு தலைவியாகவும் இருக்கின்றார். அவரே உயிர்களுக்கு நன்மை தரும் உருவமாக கொடி போன்ற மென்மையுடன் மூன்று கண்களைக் கொண்டு மாயையை நீக்கி உண்மையை உணர்த்தும் போது இறைவியின் பேரொளியின் உருவத்தில் இருக்கும் அவரை விரும்பி போற்றி வணங்கி நீங்களும் உண்மையை விளங்கிக் கொள்ளுங்கள்.`,
   },
   {
@@ -7535,6 +7762,7 @@ She sports in love's union intimate
 With Lord that is blue-throated;
 Let Her be your heart's goal,
 And follow Her close.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/08/Song-1246-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1245 இல் உள்ளபடி சாதகர்கள் தமக்குள் விளங்கிக் கொண்ட பேரொளியாக இருக்கின்ற இறைவியானவள் தனது கழுத்தில் எப்போதும் பிரகாசமாக ஒளி வீசுகின்ற மணி மாலையை அணிந்திருக்கின்றாள். உயிர்களுக்குள் மிகுதியாக இருக்கின்ற ஆணவ மலம் நீங்கி அவர்கள் தாம் யார் என்பதை உண்மையாக உணர வேண்டும் என்பதற்காக நீல நிறக் கழுத்துடன் இருக்கின்ற இறைவனோடு மிகுந்த அன்பு கொண்டு அவருடன் சேர்ந்து இருந்து ஆணவ மலங்களை நீக்கி அருளுகின்றாள். கிடைப்பதற்கு அரிய அந்த பெரும் பேறை நீங்களும் அடைய வேண்டும் என்றால் இறைவியோடு தியானத்தில் எப்போதும் ஒன்றி இருந்து அவளைத் தொடர்ந்து கொண்டே இருங்கள்.`,
   },
   {
@@ -7579,6 +7807,7 @@ That He thus sports in joy
 With Her of bangled hands,
 And Form bejewelled,
 Is indeed a mystery, baffle!`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/08/Song-1248-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationEnglish: `Is it then a mystery why Siva sports in joy with the bejewelled Sakti?`,
     elaborationTamil: `பல்வேறு விதமான உயிர்களில் அந்தந்த உருவமாகவே இருக்கும் வல்லமையை உடையவனும் பாடல் #1247 இல் உள்ளபடி இறைவியைத் தொடர்ந்து கொண்டே இருக்கின்ற சாதகருக்குள் பாம்பும் கங்கையையும் அணிந்து இருக்கின்றவனும் ஆகிய இறைவனை தமக்குள் ஆராய்ந்து தேடிப் பார்த்து உணர்ந்து கொண்டால் அவனே குருநாதகராக வீற்றிருந்து பலவிதமான செயல்களைப் புரிந்து அருளும் அழகிய வளையல்களை அணிந்த திருக்கைகளையும் தங்க அணிகலன்களை முழுவதும் அணிந்திருக்கும் திருமேனியையும் உடைய இறைவியாகவே தான் மாறி இருக்கும் திருக்கோலத்தைக் காட்டி அருளுவதை பேரின்பத்தோடு பார்த்தால் ஒரு மாபெரும் அதிசயமாகவே இருக்கின்றது.`,
   },
@@ -7602,6 +7831,7 @@ He shares Sakti in Love;
 Him, the Great Sakti in bodily union embraced
 That all creation in union to arise
 She, the Supreme source of Sex-Energy.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/08/Song-1249-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `அசையா சக்தியாகிய இறைவனுக்குள் அண்ட சராசரங்களையும் அதிலிருக்கும் அனைத்து உலகங்களையும் அதற்குள் அனைத்து உயிர்களையும் படைக்க வேண்டும் என்கிற எண்ணம் வரும் போது அவரிடமிருந்து அசையும் சக்தியாகப் பிரிந்து வருகின்ற இறைவியின் மாயா அம்சத்தோடு உலகங்களும் உயிர்களும் உருவாக வேண்டும் என்ற காரணத்திற்காக சேருகின்ற நீண்ட சடையை உடைய மாசற்ற இறைவன் தம்மை அறிந்து அடைய வேண்டும் என்று ஆசைப்படுகின்ற உயிர்களுக்கு அருள வேண்டும் என்கிற பெருங்கருணையில் உயிர்களின் உடலை பஞ்ச பூதங்களிலுள்ள நீரையும் நெருப்பையும் கலந்து உருவாக்கும் போது தமது திருவடியையும் சேர்த்தே வைத்து உருவாக்கி அருளுகின்றான். உயிர்கள் பிறவி எடுப்பதற்கு தேவையான உடலை உருவாக்க வேண்டி இறைவனுடன் சேர்ந்து கலக்கின்ற பராசக்தியாகிய இறைவியும் தங்களின் கலப்புக்குள்ளிருந்து பலவித உருவங்களோடு உயிர்கள் அனைத்தையும் ஒரு மாபெரும் கூட்டமாக உலகங்கள் அனைத்திலும் சேர்ந்து பிறப்பதற்கு மாபெரும் காரணமாக இருக்கின்றாள். உட்கருத்து: கர்மங்களைத் தீர்த்துக் கொள்ள மாயையுடன் உயிர்களைப் படைத்தாலும் அந்த மாயை நீங்கி உண்மையை உணர்ந்து தம்மிடம் வந்து அடைவதற்கான ஆதாரமாக தமது திருவடியை உயிர்களுக்குள் வைத்தே படைத்து அருளுகின்றான் இறைவன். தமக்குள் ஆதாரமாக இருக்கின்ற இறைவனின் திருவடிகளை உணர்ந்து பற்றிக் கொண்ட உயிர்களுக்கு கிடைக்கும் மாபெரும் ஆதேயமாக இறைவனின் திருவருள் இருக்கின்றது.`,
   },
   {
@@ -7623,6 +7853,7 @@ As I embraced the Lord of worlds all,
 I remained in divine fulfillment,
 As I entwined at the Primal One's Feet
 I received His Sakti's Grace.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/08/Song-1250-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationEnglish: `Once He is realised as Isa, you unite in Him; you become one with Him. By embracing the Lord of all Worlds, the self is effaced.`,
     elaborationTamil: `பாடல் #1249 இல் உள்ளபடி எமக்குள் ஆதாரமாக இருக்கின்ற இறைவனின் திருவடிகளை உணர்ந்து மாயையை ஒழித்து பலவிதமான பெயர்களால் அழைக்கப்படுகின்ற பரம்பொருள் ஒருவனே என்பதை உணர்ந்து கொண்டேன். அவனோடு ஒன்றாகக் கலந்து நின்று நான் எனும் அகங்காரத்தை ஒழித்தேன். அனைத்து உலகங்களுக்கும் அதிபதியாக இருக்கின்ற அவனோடு ஒன்றாகச் சேர்ந்து நின்று அவனது திருவடிகளைத் தவிர வேறு பற்றுக்கள் அனைத்தையும் ஒழித்தேன். அவனோடு பின்னிப் பிணைந்து என்னையே நான் ஒழித்துவிட்டேன். ஆதலால் யானும் இறைவனும் ஒன்றே எனும் திருவருளை யாம் பெற்ற வழி இதுவே.`,
   },
@@ -7643,6 +7874,7 @@ This the learned know;
 For those who this truth know,
 His Golden Feet exalted are
 Life's refuge unfailing.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/08/Song-1251-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationEnglish: `Manonmani is all greatness. The truly learned know that Her Holy Feet are their true goal. They are the world's haven of refuge also.`,
     elaborationTamil: `பாடல் #1250 இல் உள்ளபடி சாதகர் பெற்ற திருவடிகளின் பெருமையை உடையவள் அனைத்திற்கும் மேலான இறைவனோடு எப்போதும் சரிசமமாக சேர்ந்தே இருக்கும் மனோன்மணி எனும் இறைவியாவாள். நன்மையைத் தருகின்ற திருவடிகளைக் கொண்ட பரம்பொருளான இறைவனை சென்று அடைவதே இந்த உலகத்தில் கிடப்பதற்கு மிகவும் அரிய பயனாகும் என்பதை அவனது திருவடிகளை அடைந்தவர்கள் கூறுவார்கள். அப்படி அடைந்த திருவடிகளால் பெற்ற ஞானத்தின் மூலம் இறைவனை அறிந்து கொண்டு தமது எண்ணத்திலும் அவனை வைத்து முழுவதும் அறிந்து கொள்ள முடிந்தவர்களுக்கு பொன் போன்ற இறைவனின் திருவடிகளை இந்த உலகத்திலேயே அடைய முடியும் என்பதால் அதற்காக இந்த உலகத்தில் பிறவி எடுத்து வந்து அவனோடு ஏகாந்தத்தில் தனித்திருப்பதும் கிடைப்பதற்கு அரிய மிகப்பெரும் பேறாகும்.`,
   },
@@ -7663,6 +7895,7 @@ That the reason why
 I adore Mother
 With flowers fragrant
 And heart in melting love.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/08/Song-1252-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationEnglish: `The yogi adores Mother Sakti with fragrant flowers and with the heart melting in love. She is much more easily accessible than the Lord, who, it is said, is beyond the seven worlds.`,
     elaborationTamil: `பாடல் #1251 இல் உள்ளபடி இறைவனோடு ஏகாந்தத்தில் தனித்து வீற்றிருக்கும் கிடைப்பதற்கு அரிய பேறைப் பெற்று எமது தலைவனாகிய அவனோடு எப்போதும் ஏகாந்தத்தில் இருப்பதையே எமது நெஞ்சம் விரும்புகின்றது. இந்தப் பேறைப் பெற்று பேரின்பத்தை அனுபவித்தவர்களும் இறைவனோடு தாங்கள் ஏகாந்தத்தில் சேர்ந்து இருக்கின்ற இடம் ஏழு உலகங்களும் என்று கூறுவார்கள். இந்தப் பேற்றை யாம் பெறுவதற்கு காரணம் பனிபடர்ந்து புத்தம் புதிதாகப் பூத்து மலர்ந்திருக்கும் வாசனை மிக்க மலர்களை கையில் ஏந்திச் சென்று எமது அம்மையாகிய இறைவியின் மீதுள்ள பேரன்பினால் கசிந்து உருகிய உள்ளத்தோடு அவளை நினைத்து எப்போதும் வணங்கியதை அவள் ஏற்றுக் கொண்டு அருளியதால் ஆகும்.`,
   },
@@ -7684,6 +7917,7 @@ She fashions Holy Home
 And stands as Lady Divine;
 She, Maya, fashioned this body,
 And in this Body Home too She abides.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/08/Song-1253-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1252 இல் உள்ளபடி எமது வேண்டுதலை ஏற்றுக் கொண்டு இறைவனோடு சேர்ந்து இருக்கும் ஏகாந்தத்தை அருளியவளும் இறைவனுக்கு துணைவியாக இருக்கின்றவளும் எமக்கும் அனைத்து உயிர்களுக்கும் தாயாக இருக்கின்றவளும் என்றும் இளமையுடன் இருக்கின்றவளும் இறைவனுடன் சரிசமமாக சேர்ந்து இருக்கின்ற மனோன்மணியானவளும் ஆகிய இறைவியை எமது உடலுக்குள் வந்து வீற்றிருப்பதற்கு ஏற்றபடி செழுமையான இடமாக எமது நிலைக்கு ஏற்ப எமது உடலை மாற்றி அருளியவளும் அது போலவே மேலுலகம் கீழுலகம் ஆகிய இரண்டு விதமான உலகங்களையெல்லாம் அவளுக்கு ஏற்ற படி மாற்றி அவற்றுக்குத் தலைவியாகவும் இருக்கின்றவளும் ஆகிய இறைவியே தான் வீற்றிருக்கும் எமது உடலாகவே மாறி அதற்குள் அமர்ந்து நிற்கின்றாள்.`,
   },
   {
@@ -7703,6 +7937,7 @@ Will my Mother and Father know me ever?
 With my Mother and Father I sit,
 And my Mother and Father,
 I constant adore.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/08/Song-1254-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationEnglish: `The yogi constantly adores the Mother (Sakti) and Father (Siva), who in love ever stand united.`,
     elaborationTamil: `பாடல் #1253 இல் உள்ளபடி எமது உடலாகவே மாறி எமக்குள் அமர்ந்திருக்கும் இறைவியும் பாடல் #1252 இல் உள்ளபடி எம்மோடு ஏகாந்தத்தில் தனித்து இருக்கும் இறைவனும் எம்மீது பேரன்பு கொண்டதைத் தவிர வேறு எவருமே எம்மை முழுவதுமாக அறிந்து கொண்டது இல்லை. எமக்குள் இருக்கும் இறைவியோடு இறைவனும் சேர்ந்து இருக்க அவர்களோடு யானும் சேர்ந்து இருந்து இறைவியோடு இறைவனையும் முழுவதுமாக யான் புரிந்து கொண்டேன்.`,
   },
@@ -7723,6 +7958,7 @@ With radiant Bindu arise;
 When Nada's radiant Kala everywhere suffuses,
 Then does arise Radiant (Eroli) Chakra
 In Central Kundalini Fire.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/08/Song-1255-Fourth-Tantra-9.-Chakra-of-Ascension.mp3',
     elaborationEnglish: `Va (m), Sa (m), Sha (m), Sa (m) are the four nadas. From radiant bindu in the muladhara four-petalled Lotus arises nada. From nada in the central kundalini there arises the Eroli Chakra.`,
     elaborationTamil: `உயிர்களுக்குள் இருக்கும் மூலாதாரமானது நான்கு இதழ்கள் கொண்ட தாமரை மலர் வடிவத்தில் சக்திமயமான சக்கரமாக இருக்கின்றது. அதை தியானம் தவம் ஆகிய சாதகங்களின் மூலம் மாற்றி அமைக்கும் போது அதிலிருக்கும் குண்டலினி சக்தியானது எழுச்சி பெற்று சுழுமுனை நாடி வழியே மேலெழுந்து வரும் போது பிரகாசமான வெளிச்சமாக வருகின்றது. அந்த வெளிச்சத்திலிருந்து சத்தம் வெளிவருகின்றது. இந்த வெளிச்சமும் சத்தமும் சுழுமுனை நாடியின் அடியிலிருந்து உச்சித் துளை வரை முழுவதும் நிறைந்து நிற்கும் போது அதன் நடுவில் அக்னியாக இருக்கும் சுடரே ஏரொளிச் சக்கரமாகும்.`,
   },
@@ -7742,6 +7978,7 @@ Letters in Kundalini Fire arose to heavens,
 Letters in Kundalini Fire form a great Chakra
 The Way Letters are placed,
 I shall now relate.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/08/Song-1256-Fourth-Tantra-9.-Chakra-of-Ascension.mp3',
     elaborationEnglish: `The mighty four letters in kundalini, Va, Sa, Sa, Sa form the basis of this great Chakra.`,
     elaborationTamil: `பாடல் #1255 இல் உள்ளபடி சுழுமுனை நாடியின் நடுவில் ஏரொளிச் சக்கரமாக இருக்கும் அக்னியின் எழுத்தானது ஒளி ஒலி வடிவத்தில் மிகப்பெரும் சக்திகளாக இருக்கின்றன. இந்த மாபெரும் சக்திகளே ஆகாயம் வரை நீண்டு வளர்ந்து கொண்டே இருக்கின்றன. இந்த சக்திகளே மிகவும் பெரிய சக்தி மயமாக இருக்கின்றன. இந்த சக்திகளின் எழுத்துக்களை சரியாக வடிவமைக்கும் வழிமுறைகளை ஏரொளிச் சக்கரமே உள்ளிருந்து அறிய வைக்கின்றது. கருத்து: ஏரொளிச் சக்கரம் ஒளி ஒலி வடிவத்தில் இருக்கின்ற எழுத்துக்களை சரியாக அமைக்கும் வழி முறையை உள்ளுக்குள் இருந்து அறிவுறுத்தும். அந்த வழி முறைகளை சரியாக கடைபிடிக்கும் சாதகர்கள் இறைவனின் பேரொளியோடு இணைந்து விடுவார்கள்.`,
   },
@@ -7836,6 +8073,7 @@ As Element Water, Chakra lengthened,
 Then further as Element Fire,
 Then still further as Element Wind
 And further beyond as Element Sky.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/09/Song-1261-Fourth-Tantra-9.-Chakra-of-Ascension.mp3',
     elaborationTamil: `பாடல் #1260 இல் உள்ளபடி வெளிப்பட்ட நீரின் தன்மையாகவே உலகங்களுக்கு ஏரொளிச் சக்கரமாக விரிகின்றது. அதன்பிறகு அந்த நீரின் தன்மையிலிருந்து நெருப்பின் தன்மையாகவும் பிறகு காற்றின் தன்மையாகவும் பிறகு அதுவே ஆகாசத்தின் தன்மையாகவும் மாறுகின்றது.`,
   },
   {
@@ -7873,6 +8111,7 @@ Of five times five Bindu dot is it made;
 With Nada the Chakra commences
 With letters in the Chambers placed
 Thus it is the Sun Chakra.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/09/Song-1263-Fourth-Tantra-9.-Chakra-of-Ascension.mp3',
     elaborationEnglish: `Repeat the four nada letters with bindu 25 times to form the Surya (Sun) Chakra.`,
     elaborationTamil: `பாடல் #1262 இல் உள்ளபடி சாதகர் அறிந்து உணர்ந்து கொண்ட ஏரொளிச் சக்கரத்தில் இருக்கின்ற ஐந்து பூதங்களின் தன்மைகளும் ஐந்து மடங்கு பெருகி வெளிச்சமாகின்றது. இந்த ஏரொளிச் சக்கரத்தில் இருக்கின்ற அனைத்து தன்மைகளுக்கும் முதலாக சத்தமே இருக்கின்றது. ஏரொளிச் சக்கரத்திலிருக்கும் ஐந்து தன்மைகளும் வெளிச்சமும் நாதமும் ஒன்றாகச் சேர்ந்து மாறிய ஓர் எழுத்தே இறை நிலையில் தலைவர்களாக இருக்கின்ற தெய்வங்களாகவும் இருக்கின்றது. இதை முழுவதும் அறிந்து உணர்ந்து கொண்ட சாதகர் பேரொளியாகிய சிவசூரியனின் நிலையை அடைந்து விடுவார்கள்.`,
   },
@@ -7893,6 +8132,7 @@ The six letters thus formed,
 Are Sakti's Letters
 The middle Letter of the first Four (Va) aforesaid
 Is the Letter of Kundalini Fire, First and Last.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/09/Song-1264-Fourth-Tantra-9.-Chakra-of-Ascension.mp3',
     elaborationEnglish: `The six letters commencing with 'A' are the letters of Siva/Sakti
 1) A, Aa, I, I, G, U
 2) E, E, Ai, O, O, Au
@@ -7936,6 +8176,7 @@ The finite position is for the Sixteen (Vishddhi) and Two (Ajna) to reach
 And so when Kundalini that was at base
 Ascends and crosses beyond the third center from it (Anahatha)
 Then is visioned the Mystic Sphere of the Moon.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/09/Song-1266-Fourth-Tantra-9.-Chakra-of-Ascension.mp3',
     elaborationEnglish: `1) 18 letters — 16 letters of the moon’s 16 kalas and the two -letters (A and U) of Aum.
 
 2) 13th letter — after the 12 letters in the 12 kalas of the sun are ascended, cover the moon sphere which absorbs the sun’s kalas.
@@ -7959,6 +8200,7 @@ The days three hundred and sixty;
 There they are in fortnights of days fifteen reckoned;
 There they come as in the Centers Sixteen are Two Kundalini ascends
 There they come as the 'Sphere of the Mystic Sun' within is reached.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/09/Song-1267-Fourth-Tantra-9.-Chakra-of-Ascension.mp3',
     elaborationEnglish: `“That ultimate centre contains the span of all life. Time is measurable by the ‘sun.’`,
     elaborationTamil: `பாடல் #1266 இல் உள்ளபடி முக்காலத்தையும் தமக்குள்ளேயே அறிகின்ற நிலையை அடைந்த சாதகர்கள் அனைவரின் இனமாகவே (குழுக்கள்) இருப்பவை சூரியனை முதலாகக் கொண்டு வருகின்ற முந்நூற்று அறுபது நாட்கள் கொண்ட தமிழ் வருடங்களாகவும் அதற்குள் சந்திரனை முதலாகக் கொண்டு வருகின்ற வளர் பிறை மற்றும் தேய் பிறை ஆகிய பதினைந்து நாட்களாகவும் அதற்குள் இருக்கின்ற பன்னிரண்டு மாதங்களாகவும் ஆறு விதமான பருவங்களாகவும் சாதகருக்குள்ளிருந்து வெளிப்படுகின்ற ஏரொளிச் சக்கரமே ஒன்றோடு ஒன்று இணைந்து வெளிப்படுகின்றது. கருத்து: சாதகருக்குள்ளிருந்து வெளிப்படுகின்ற ஏரொளிச் சக்கரமே உலகத்தில் இருக்கின்ற காலங்களோடு பின்னிப் பிணைந்து இருக்கின்றது. தமிழ் பருவங்கள்: கார்காலம் – இது தமிழ் மாதமான ஆவணி புரட்டாசியை உள்ளடக்கியது. குளிர்காலம் – இது தமிழ் மாதமான ஐப்பசி கார்த்திகையை உள்ளடக்கியது. முன்பனிக்காலம் – தமிழ் மாதமான மார்கழி தையை உள்ளடக்கியது. பின்பனிக்காலம் – இது தமிழ் மாதமான மாசி பங்குனியை உள்ளடக்கியது. இளவேனில்காலம் – இது தமிழ் மாதமான சித்திரை வைகாசியை உள்ளடக்கியது. முதுவேனில்காலம் – இது தமிழ் மாதமான ஆனி ஆடியை உள்ளடக்கியது.`,
   },
@@ -7979,6 +8221,7 @@ In time span reckoned
 As thirty naligai's in the day,
 And in days reckoned as three hundred and sixty
 In the full year round.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/09/Song-1268-Fourth-Tantra-9.-Chakra-of-Ascension.mp3',
     elaborationTamil: `பாடல் #1267 இல் உள்ளபடி சாதகருக்குள்ளிருந்து வெளிப்பட்டு வந்திடும் ஏரொளிச் சக்கரமே ஆகாயத்தில் இருக்கும் சூரிய சந்திர நட்சத்திர அமைப்புகளின் வழியாக வருகின்ற பகலில் இருக்கின்ற முப்பது நாழிகைகளும் இரவில் இருக்கின்ற முப்பது நாழிகைகளும் சேர்ந்து மொத்தம் அறுபது நாழிகைகளாக இருக்கின்றது. இந்த அறுபது நாழிகைகள் சேர்ந்து ஒரு நாளாக இருக்கின்றது. முப்பது நாள்கள் சேர்ந்து இராசி என்று சொல்லப்படுகின்ற பன்னிரண்டு மாதங்களாக இருக்கின்றது. மொத்தம் முந்நூற்று அறுபது நாள்கள் சேர்ந்து ஒரு தமிழ் வருடமாக இருக்கின்றது. இப்படி உலகத்தவர்களால் சொல்லப்படுகின்ற காலத்தின் விதங்களாக ஏரொளிச் சக்கரமே இருக்கின்றது. குறிப்பு: 1 நாழிகை = 24 நிமிடம் 60 நாழிகை = 1 நாள் 30 நாள் = 1 மாதம் 12 மாதம் (இராசி) = 1 வருடம் 360 நாள் = 1 வருடம்`,
   },
   {
@@ -8022,6 +8265,7 @@ When the Chakra fills the Zodiac,
 The Chakra is by Bindu filled,
 And when Nada too therein fills
 The Rasi Chakra stands fixed in Zodiac.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/09/Song-1270-Fourth-Tantra-9.-Chakra-of-Ascension.mp3',
     elaborationEnglish: `The Rasi Chakra is formed in the zodiac by being filled-with binder and nada letters.`,
     elaborationTamil: `பாடல் #1269 இல் உள்ளபடி சாதகருக்குள்ளிருந்து மேலெழுந்து வெளிப்படும் சக்கரமே காலங்கள் அனைத்துமாகவும் இருக்கின்றது. இப்படி காலமாகவே இருக்கின்ற ஏரொளிச் சக்கரம் அண்ட சராசரங்களில் இருக்கின்ற அனைத்து உலகங்களிலும் நிறைந்த பிறகு சக்கரம் என்று அறியப்படுவது வெளிச்சமாகும். இந்த வெளிச்சத்தோடு சத்தமும் ஒன்றாகச் சேர்ந்த பிறகு ஏரொளிச் சக்கரமாகவே காலங்கள் இருக்கின்ற வழியாக வெளிச்சமும் சத்தமும் இருக்கின்றது. குறிப்பு: காலப் பயணத்தை செய்யக்கூடிய சாதகர்கள் வெளிச்சமாகவும் சத்தமாகவுமே செல்கிறார்கள் என்பதை இந்தப் பாடலில் அறிந்து கொள்ளலாம்.`,
   },
@@ -8040,6 +8284,7 @@ The Bindu letters with Nada letters arise,
 When in each Adhara the appropriate letters
 Bindu and Nada carry out are placed,
 Then the Taraka (Stellar) Chakra appears!`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/09/Song-1271-Fourth-Tantra-9.-Chakra-of-Ascension.mp3',
     elaborationEnglish: `The Taraka (Stellar) Chakra appears when the letters of bindu and nada are placed appropriately in each adhara.`,
     elaborationTamil: `பாடல் #1270 இல் உள்ளபடி காலமாகவே நிற்கின்ற ஏரொளிச் சக்கரத்தில் உள்ள பிரகாசமான வெளிச்சம் என்று அழைக்கப்படும் ஒளி வடிவம் பெற்ற எழுத்துக்கள் எல்லாமும் சத்தம் என்று அழைக்கப்படும் ஒலி வடிவத்தோடு ஒன்றாகச் சேர்ந்து பரவெளியில் சென்று அடையும் போது அங்கு வீற்றிருக்கும் இறை சக்தியால் சக்தியூட்டம் பெற்ற பிறகு காலமாக நிற்கின்ற ஏரொளிச் சக்கரமே அண்டத்திலுள்ள அனைத்து நட்சத்திரங்களாகவும் மாறி விடுகின்றது.`,
   },
@@ -8078,6 +8323,7 @@ In Chakra, Bindu ascends,
 In Bindu, Nada ascends,
 In Nada, Flame of Fire ascends,
 Beyond, appears a Light that is Dark (smoky).`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/09/Song-1273-Fourth-Tantra-9.-Chakra-of-Ascension.mp3',
     elaborationEnglish: `On that Chakra bindu ascends; on bindu ascends nada; and on nada ascends the kundalini flame of fire. Then arises a dark smoky flame.`,
     elaborationTamil: `பாடல் #1272 இல் உள்ளபடி காணும் படி நட்சத்திரங்களாக மாறி இருக்கின்ற ஏரொளிச் சக்கரத்திலிருந்து வெளிப்படுகின்ற வெளிச்சமானது தொடர்ந்து வளர்ந்து கொண்டே இருக்கும் போது அதன் மேலிருந்து வெளிப்படுகின்ற சத்தமும் அதனோடு தொடர்ந்து வளர்ந்து கொண்டே இருக்கும். அதனுடன் சாதகருக்குள்ளிருக்கும் அக்னியின் சுடரானது மிகவும் வளர்ந்து கொழுந்து விட்டுப் பெரும் நெருப்பாக நீண்டு ஒன்றாகச் சேர்ந்த பிறகு அதுவே அண்ட சராசரங்களில் இருக்கின்ற அடர்ந்த இருளுக்கும் வெளிச்சத்தைக் கொடுக்கும் பேரொளியாக ஆகிவிடும்.`,
   },
@@ -8096,6 +8342,7 @@ That Smoky Light enveloped universe all,
 It became light of earth, water, fire, wind and sky,
 Thus as it flamed and rose together,
 As One Divine Light it pervaded everywhere.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/09/Song-1274-Fourth-Tantra-9.-Chakra-of-Ascension.mp3',
     elaborationEnglish: `The blue light pervaded the five elements - earth, water, fire, wind and sky - and rose as one divine light.`,
     elaborationTamil: `பாடல் #1273 இல் உள்ளபடி அண்ட சராசரங்களில் இருக்கின்ற அடர்ந்த இருளுக்கும் வெளிச்சத்தைக் கொடுக்கும் பேரொளியாக இருக்கின்ற ஏரொளிச் சக்கரமானது அண்டத்தில் பொதிந்து இருந்து உலகங்கள் அனைத்திலும் இருக்கின்ற நிலம், நீர், நெருப்பு, காற்று, ஆகாயம் ஆகிய ஐந்து பூதங்களின் செயல்களுக்கு பயனளிக்கும் ஒளியாக வளர்ந்து கிடக்கிறது. அந்த ஏரொளிச் சக்கரத்தின் ஒளியானது உலகத்தில் இருக்கின்ற ஐந்து பூதங்களோடும் சரிசமாக ஒன்றாகச் சேர்ந்து முழுமைப் பெற்று ஐந்து பூதங்களால் ஆகிய உலகத்தோடே நிற்கின்றது. கருத்து: ஏரொளிச் சக்கரத்திற்கு தொடர்ந்து சக்தியளிக்கும் சாதகர் ஐந்து பூதங்களின் செயல்களுக்கு பயனளிக்கும் ஒளியாக வளர்வது மட்டுமின்றி ஐந்து பூதங்களாகவே மாறி விடுகிறார் என்றும் அவற்றை உலக நன்மைக்கு ஏற்றார் போல் இயக்கவும் செய்கிறார் என்பதை இந்தப் பாடலில் அறிந்து கொள்ளலாம்.`,
   },
@@ -8114,6 +8361,7 @@ The universe as diverse worlds expanded,
 The universe as firm stood,
 The universe is unto Primal Mala
 The universe rests on Bindu's strength.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/09/Song-1275-Fourth-Tantra-9.-Chakra-of-Ascension.mp3',
     elaborationEnglish: `1) Nada and bindu are stages of Sakti in the movement towards the manifestation of the Self as Object, that is as the universe - "The Garlands of Letters." p.116.
 
 The universe arose out of primordial stain or maya. It expanded as diverse worlds. that arose the universe based on bindu’s strength.`,
@@ -8135,6 +8383,7 @@ Bindu and Nada together produced Bija (Seed) Balanced,
 If Bindu rises more and Nada less,
 The Bija becomes potent far,
 Eight times more than Bindu.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/09/Song-1276-Fourth-Tantra-9.-Chakra-of-Ascension.mp3',
     elaborationEnglish: `Bindu and nada produce bija. If bindu rises more and nada less, bija becomes eight times more powerful than bindu.`,
     elaborationTamil: `பாடல் #1275 இல் உள்ளபடி சாதகருக்குள்ளிருந்து வெளிப்பட்டு வந்து அண்ட சராசரங்கள் முழுவதும் பரவி அங்கிருந்து வெளிச்சமும் சத்தமும் ஒரே அளவில் கீழுள்ள உலகங்களுக்கு விழுந்து நன்மையைக் கொடுக்கும் மூல விதையாக இருக்கின்றது. உலகத்திலுள்ள உயிர்களில் இறைவனை அடைய முயற்சி செய்யும் ஆன்மாக்களுக்கு பயன் படும்படி வெளிச்சம் குறைந்து அதை விட எட்டு மடங்கு அதிகமாக சத்தமாக வெளிப்படும் போது அது மந்திர ஒலியாக இருக்கின்றது. கருத்து: சாதகருக்குள்ளிருந்து வெளிப்பட்டு வரும் ஏரொளிச் சக்கரமானது அண்டங்கள் முழுவதும் விரிந்து பரவி அங்கிருந்து அனைத்து உலகங்களுக்கும் நன்மையைக் கொடுக்கும் மூல விதையாக இருக்கின்றது. உலகங்களில் இறைவனை அடைய விரும்பி சாதகம் செய்யும் உயிர்கள் மேலும் மேன்மையடைய இந்த ஏரொளிச் சக்கரம் வெளிச்சத்தைக் குறைந்து சத்தத்தை அதிகமாக்கி மந்திர ஒலியாகக் கொடுக்கின்றது.`,
   },
@@ -8173,6 +8422,7 @@ The Bija (Seed) in vain went;
 When Bindu rises equal with Nada,
 And is drawn within to pervade the petals sixteen of the (Visuddha adhara)
 The Bindu that expands becomes the Seed of Liberation.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/09/Song-1278-Fourth-Tantra-9.-Chakra-of-Ascension.mp3',
     elaborationEnglish: `When bindu arises equal with nada, it is drawn in visuddhi adhara, and there it becomes the seed of liberation.`,
     elaborationTamil: `பாடல் #1277 இல் உள்ளபடி அண்ட சராசரங்கள் அனைத்திற்கும் விரிந்து பரவுகின்ற வெளிச்சம் அதிகமாகும் போது மந்திர ஒலிகள் அளவில் குறைந்து மறைந்து விடும். அதன் பிறகு வெளிச்சமும் சத்தமும் அளவில் சரிசமாக விரிந்து பரவும் போது அதன் உள் அமைப்பில் ஒன்றோடு ஒன்று அறுபத்து நான்கு மடங்கு அளவில் இருக்கும்படி ஆகி விட்டால் அதுவே பாடல் #1276 இல் உள்ளபடி உலகத்திலுள்ள இறைவனை அடைய விரும்பி சாதகம் செய்யும் உயிர்கள் அனைத்திற்கும் முக்திக்கு வழிகாட்டும் வித்தாக ஆகிவிடும்.`,
   },
@@ -8210,6 +8460,7 @@ From Bindu and Nada devoluted the letters
 From the letters was Chakra formed,
 The letters and Chakras within the Body stand
 The letters verily are the mantras true.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/10/Song-1280-Fourth-Tantra-9.-Chakra-of-Ascension.mp3',
     elaborationEnglish: `From the letters evolved from bindu, Nada Chakra was formed. Truly, the letters are the mantras.`,
     elaborationTamil: `பாடல் #1279 இல் உள்ளபடி அனைத்தையும் உருவாக்கி இருக்கின்ற மூல விதையாகிய எழுத்துக்களே மந்திர வெளிச்சமாகவும் (எழுத்து வடிவம்) மந்திர சத்தமாகவும் (ஒலி வடிவம்) சக்கரமாகவும் (எழுத்தும் சத்தமும் சேர்ந்த சக்கர வடிவம்) இருக்கின்றது. இதுவே தர்மத்தின் வழி செயல்படும் உலகத்தின் அனைத்து செயல்களுக்கும் மூல காரணமாக நின்று செயலாற்றுகின்றது. இந்த மூல விதையாகிய எழுத்துக்களே அனைத்து மந்திரங்களாகவும் இருக்கின்றது.`,
   },
@@ -8231,6 +8482,7 @@ The Tantras glorify;
 Meditate on Pranava that is in the Eye-Brow Center
 Through the Tantras reached;
 No more thine bondage is.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/10/Song-1281-Fourth-Tantra-9.-Chakra-of-Ascension.mp3',
     elaborationEnglish: `Mantras and Chakras resemble the circle of fire that the Tantras glorify. Pranava is the-supreme mantra with its seat in the eyebrow centre (ajna chakra). Reach that through tantra. Your bondage ends there.`,
     elaborationTamil: `பாடல் #1280 இல் உள்ளபடி மூல விதையாக இருக்கின்ற எழுத்துக்களே மந்திரங்களாகவும் சக்கரங்களாகவும் ஆகின்ற விதத்தை சொல்லப் போனால் ஏரொளிச் சக்கரத்தின் மூலம் வெளிச்சமும் சத்தமும் வெளிப்பட்டு அதுவே மூல விதையாக இருக்கின்ற வழி வகைக்கு உள்ளே இருக்கின்ற எழுத்துக்களின் பலவிதமான வெளிச்ச வடிவங்களில் ஒன்றில் இருந்து எரிகின்ற நெருப்பு மயமாக ஒரு வட்டம் இருக்கின்றது. இந்த வட்டத்திற்கு உள்ளே இருக்கின்ற வடிவத்திற்கு ஏற்ற கோடுகளில் வெளிச்சத்தையும் சத்தத்தையும் ஒன்றாக பிணைக்கின்ற சக்திகள் ஒன்றும் இல்லை. ஓமெனும் பிரணவத்தின் சக்தியே வெளிச்சத்திற்கும் சத்தத்திற்கும் உள்ளிருக்கும் தியானப் பொருளாக இருந்து இரண்டையும் பிணைத்து வைத்திருக்கின்றது.`,
   },
@@ -8271,6 +8523,7 @@ All directions, you shall perceive
 Well shall you reach Truth
 That is subtler than the subtle,
 If you but know, how to look for it.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/10/Song-1283-Fourth-Tantra-9.-Chakra-of-Ascension.mp3',
     elaborationEnglish: `Vision Pranava in the chakra that snaps your pasas. Protecting your thoughts, it leads you to Truth, that is subtler than the_ subtle.`,
     elaborationTamil: `பாடல் #1282 இல் உள்ளபடி சாதகர்கள் தரிசிக்கின்ற மந்திரத்தின் ஒளி வடிவமாகிய ஏரொளிச் சக்கரமே உலகத்திற்கும் உடலுக்குமான பந்தங்களாகிய பசி தூக்கம் சோர்வு இயற்கை உபாதைகள் ஆகியவற்றை அறுக்கின்றது. ஆனாலும் சாதகர்கள் இந்த உலகத்திலேயே தங்களின் உடலை அழியாமல் நீண்ட காலம் பாதுகாக்க முடியும். சாதகர்கள் தங்களின் எண்ணங்கள் செல்கின்ற அனைத்து இடங்களையும் தாங்கள் அமர்ந்து இருக்கின்ற இடத்திலிருந்தே பார்க்க முடியும். இது மட்டுமின்றி ஆராய்ந்து அறிந்து கொள்ள முடியாத அளவிற்கு நுண்ணியது பெரியது என்கிற அளவுகள் இல்லாத மிகவும் அதிநுட்பமான பொருளாக இருக்கின்ற இறைவனையும் சாதகர்கள் தங்களுக்குள் அறிந்து கொள்ள முடியும். ஏரொளிச் சக்கரத்தை தமக்குள்ளிருந்து மேல் நோக்கி எழும்பச் செய்து அதன் ஒளி வடிவத்தை தரிசித்த சாதகர்களால் தான் இவை அனைத்தையும் செய்ய முடியும்.`,
   },
@@ -8311,6 +8564,7 @@ Expands as Letters six;
 It is Vedic mantra that conjoint with Letters Five
 --Aum Nama Sivaya--arises
 For those who that way inclined are.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/06/Song-1285-Fourth-Tantra-9.-Chakra-of-Ascension.mp3',
     elaborationEnglish: `Pranava mantra expands into the six-lettered mantra — Aum Namasivaya — for those who seck the divine path.`,
     elaborationTamil: `பாடல் #1284 இல் உள்ளபடி சக்தி மயங்களை நன்கு உணர்ந்து தெளிந்த சாதகர்கள் எடுத்துக் கூறிய ஏரொளிச் சக்கரத்தின் உள்ளிருந்து மேலெழுந்து வருகின்ற மந்திரமானது ஆறு விதமான இயல்புகளைக் கொண்டு ஒரு தன்மையில் சக்கரமாக அமைந்து அண்ட சராசரங்கள் அனைத்திற்கும் விரிந்து பரவுகின்றது. அதனுடைய இயல்பிற்கு சரிசமமான நிலையை அடைகின்ற நிலம், நீர், காற்று, நெருப்பு, ஆகாயம் ஆகிய ஐந்து பூதங்களும் ஒன்றாகச் சேர்ந்து எழுகின்ற போது இயல்பிலேயே அழியக்கூடிய தன்மையைக் கொண்ட சாதகரின் உடலானது அவர் இந்த சாதகத்தை இடைவிடாமல் செய்து கொண்டே இருக்கின்ற போது தனது தன்மையில் இருந்து மாறி என்றும் அழியாத இயல்பைப் பெறுகின்றது. கருத்து: சாதகர்கள் ஏரொளிச் சக்கரத்தின் சாதகத்தை இடைவிடாமல் செய்வதன் மூலம் எவ்வாறு என்றும் அழியாத உடலைப் பெறுகின்றார் என்பதை இந்தப் பாடலில் அறிந்து கொள்ளலாம்.`,
   },
@@ -8329,6 +8583,7 @@ The Holy Sakti is the presiding deity of that Mantra
 The Holy Sakti in there is unto fire (Kundalini) are;
 If attainment of Her be Sadhaka's goal,
 The broiling Pasa nears not.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/10/Song-1286-Fourth-Tantra-9.-Chakra-of-Ascension.mp3',
     elaborationEnglish: `The holy Sakti is the presiding deity of that six-lettered mantra. If the holy Sakti, who is like kundalini fire, is reached, the ensnaring pasas will no longer harass you.`,
     elaborationTamil: `பாடல் #1285 இல் உள்ளபடி ஏரொளிச் சக்கரத்திற்கான சாதகத்தை இடைவிடாமல் தொடர்ந்து செய்து கொண்டே இருக்கின்ற சாதகர்களின் உள்ளுக்குள் இருந்து இயக்குகின்ற சக்தியே அண்ட சராசரங்களில் இருக்கின்ற பராசக்தியாகவும் இருக்கின்றது. இந்த சக்தியே சாதகர்களுக்குள் இருக்கின்ற மூலாக்கினிக்கு சரிசமமாக இருக்கின்றது. அதனால் சாதகருக்குள்ளிருந்து மேலெழுந்து வந்த ஏரொளிச் சக்கரம், பாடல் #1285 இல் உள்ளபடி ஐந்து பூதங்கள், பாடல் #1277 இல் உள்ளபடி அண்ட சராசரங்களுக்கும் விரிவடைகின்ற மந்திர ஒலிகள் போன்ற அனைத்திற்கும் இந்த சக்தியே மூல காரணமாகவும் இருக்கின்றது. அதனால் தொடர்ந்து செயல்பட்டுக் கொண்டே இருக்கின்ற மூலாக்கினியும் வீறு கொண்டு எழுந்து மூலாதாரத்திலிருந்து மேலேறி வருகின்ற அனைத்தினாலும் சாதகரின் உடலுக்கும் உலகத்திற்குமான தொடர்புகளை அறுப்பதாகவும் அதுவே இருக்கின்றது.`,
   },
@@ -8367,6 +8622,7 @@ Vision the Chakra in Muladhara,
 Center the sound "A' therein
 Meditate on benevolent Siva within
 And upward course the Prana breath.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/10/Song-1288-Fourth-Tantra-9.-Chakra-of-Ascension.mp3',
     elaborationEnglish: `Vision the chakra in muladhara and centre the sound 'A' to contemplate on the benevolent Siva, and then divert the prana breath upward - thus meditate on the six-lettered Chakra.`,
     elaborationTamil: `பாடல் #1287 இல் உள்ளபடி சாதகர்கள் தமக்குள்ளேயே தேடி தெளிந்து கொண்ட ஏரொளிச் சக்கரத்தின் ஆதாரமான மூலாதாரத்திற்கு உள்ளே தமது ஏரொளிச் சக்கர சாதகத்தினால் அருளாகக் கிடைத்த ஓங்கார மந்திரத்தின் அகாரத்தை நடுவில் வைத்து அமைக்க வேண்டும். சாதகருக்குள்ளிருந்து வெளிவந்து அண்ட சராசரங்கள் முழுவதும் பரவி அங்குள்ள அனைத்து உலகத்தில் இருக்கின்ற உயிர்களுக்கும் அருளுவதற்கான சக்தியைப் பெறுவதற்கு மீண்டும் சாதகரின் உள்ளுக்குள் வருகின்ற எப்போதும் மாறாத சுழற்சியை செய்து கொண்டிருக்கும் குண்டலினி சக்தியோடு அந்த அகாரத்தை ஒன்றாகச் சேர்த்து அதற்கு உள்ளே வைத்தால் கிடைக்கும் அமைப்பிலிருந்து எழுகின்ற மந்திரத்தில் ஒரு ஒரு நாழிகையின் சிறிய அளவாகிய கால் பங்கு அளவு கிடைக்கும்.`,
   },
@@ -8387,6 +8643,7 @@ And as it thus ascende,
 The obstacles internal perish.
 Thus it is for those who chant the mantra enchanting
 For attainments worldly.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/10/Song-1289-Fourth-Tantra-9.-Chakra-of-Ascension.mp3',
     elaborationEnglish: `As the mantra ascends in appropriate measures, the impediments vanish. Thus is the mantra chanted for worldly purposes.
 
 1) Pranava mantra is composed of bindu (1/4 matra), *M’, (1/2 matra). nada (3/4 matra), *“A’ and ‘U* (full matra)`,
@@ -8409,6 +8666,7 @@ Inside uluva obstacles vanishing
 You shall become the jewelled lamp in the Hall of Dance;
 Even now, do arise,
 And chant Nama with love in your heart's core.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/10/Song-1290-Fourth-Tantra-9.-Chakra-of-Ascension.mp3',
     elaborationEnglish: `Chant Nama in love inside uluva ("ul" (within, inwardly) or "uḷ-nākku" (the inner tongue) free of obstacles - then shall you become the jewelled lamp in the hall of dance.`,
     elaborationTamil: `பாடல் #1289 இல் உள்ளபடி சாதகர் முழுவதுமாக உள் வாங்கிக் கொண்ட மந்திரமானது இறைவனின் அம்சமாக உலக இயக்கத்தை செய்து கொண்டே இருக்கும் ஆதி எழுத்தான ஓங்காரமாகவே மாறிவிடுகின்றது. இந்த மந்திரத்தை அன்னாக்கில் வைத்து சிறிதளவு கூட மாறுபாடு இல்லாமல் அசபையாக உச்சரித்துக் கொண்டே இருந்தால் தலை உச்சியில் இருக்கின்ற சிற்றம்பலமாகிய சகஸ்ரதளத்திலிருந்து அண்ட சராசரங்கள் முழுவதும் நிறைந்து பிரகாசிக்கும் பேரொளியாக மாறி உலக இயக்கத்திற்கான நன்மையை செய்து கொண்டிருக்கும். அதனால் மந்திரத்திலேயே இலயித்துக் கொண்டு இருக்கும் இதயத்திலிருந்து பிரிந்து நின்று இறைவனை எப்போதும் ‘நம’ என்று போற்றி வணங்கிக் கொண்டே சாதகர் இருப்பார்.`,
   },
@@ -8491,6 +8749,7 @@ Ruddy Bright is Bhairava's Form
 He appears in the hearts of the Pure
 As shining Truth;
 Do in devotion sincere adore Him.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/10/Song-1294-Fourth-Tantra-10.-Chakra-of-Bhairava.mp3',
     elaborationEnglish: `Bhairava, the shining Truth, appears in the hearts of the pure and sincere devotees. So adore and seek Him in endearing love and sincere faith.`,
     elaborationTamil: `பாடல் #1293 இல் உள்ளபடி சாதகரிடம் சூட்சுமமாக இருக்கின்ற ஆறு கைகளிலும் ஏந்தி இருக்கின்ற பைரவர் கொடுத்து அருளிய ஆறு ஆயுதங்களையும் எண்ணத்தில் வைத்து ஆராய்ந்து பார்த்தால் சாதகரின் உடலுக்குள்ளேயே வந்து செம்மையான அருள் வடிவமாக வீற்றிருக்கும் பைரவரை அறிந்து கொள்ளலாம். அதன்படி சாதகருக்குள் வந்து வீற்றிருக்கின்ற பைரவர் தமது தூய்மையான அருளை சாதகருக்குக் கொடுத்து அவருக்குள் இருக்கின்ற ஆணவம் கன்மம் மாயை ஆகிய மும்மலங்களையும் நீக்கி பேருண்மையாக விளங்குகின்ற பரம்பொருளை உணரும்படி அருள்வார். அதன் பிறகு பொய்யான மாயை அகங்காரம் ஆகியவற்றை விட்டுவிட்டு சாதகர்கள் பைரவரை பூஜித்து வழிபாடு செய்வார்கள்.`,
   },
@@ -8512,6 +8771,7 @@ With sandal paste, and fragrant incense
 With musk, civet scent and unguents several
 Worship thus and pray
 He your enemy fights.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/10/Song-1295-Fourth-Tantra-10.-Chakra-of-Bhairava.mp3',
     elaborationEnglish: `Perform the Bhairava worship 1,000 times with drink ‘and ecstatic dance, with sandalwood paste, fragrant incense, musk, civet and diverse unguents. Worship Him thus, and He will destroy your enemies. Describes the special rites for Bhairava, which call for dance and drink.`,
     elaborationTamil: `பாடல் #1294 இல் உள்ளபடி பைரவரை பூஜித்து வழிபடுவதற்கு அவருக்கு ஏற்ற மந்திரத்தை ஒரு ஆயிரம் முறை மானசீகமாக உச்சரிக்க வேண்டும். தூய்மையான தேனாலும் நீராலும் அபிஷேகம் செய்ய வேண்டும். சந்தனம் ஜவ்வாது புனுகு ஆகிய நறுமணம் வீசும் பொருட்களை பூச வேண்டும். நெய் தீபம் ஏற்ற வேண்டும். இவ்வாறெல்லாம் செய்து வழிபட்ட பிறகு திருநீறு எடுத்து பூசிக் கொள்ள வேண்டும்.`,
   },
@@ -8531,6 +8791,7 @@ As you the six adharas within ascends
 Pray for the ways things should be
 And all your wishes fulfilled shall be.
 d chant Nama with love in thy heart's core.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/10/Song-1296-Fourth-Tantra-10.-Chakra-of-Bhairava.mp3',
     elaborationTamil: `பாடல் #1295 இல் உள்ள முறைகளின் படி பைரவரை பூஜித்து வழிபாட்டின் மூலமாகவும் பாடல் #1293 இல் உள்ளபடி ஏற்கனவே பெற்ற ஆறு விதமான அருள்களின் மூலமாகவும் சாதகர்கள் தம்மை நாடி வருகின்ற தீமைகளையும் நன்மைகளாக மாற்றி விட முடியும். அந்த ஆறு விதமான அருள்களுக்கு உள்ளிருக்கும் பேருண்மையான பரம்பொருளையும் தமக்குள் பெற்று உணர்ந்த பிறகு சாதகர்களுக்குள்ளிருந்து பரம்பொருள் கொடுக்கின்ற வழியைப் பின்பற்றி அவர்கள் சாதகம் செய்ய வேண்டும். அவ்வாறு செய்து வந்தால் அவர்கள் என்ன நினைத்தாலும் அது அப்படியே நடக்கும்.`,
   },
   {
@@ -8552,6 +8813,7 @@ That verily is the Eye of Tattvas Four
 (Sivam, Sakti, Nadam and Bindu)
 When we see this Holy State revealed,
 We know Worlds all.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/10/Song-1297-Fourth-Tantra-11.-Chakra-of-SivaSakthi-Region.mp3',
     elaborationEnglish: `Within the eight chambers is the central chamber. That verily is the eye of the four tattvas — Siva, Sakti, Nada and Bindu.`,
     elaborationTamil: `சாம்பவி என்கிற சிவமும் சக்தியும் ஒன்றாக வீற்றிருக்கின்ற சிவலிங்க அமைப்பில் அமைகின்ற சக்கரத்தைப் பற்றி சொல்லப் போனால் சக்கர அமைப்பாக இருக்கின்ற அறைகள் ஒரு வரிசைக்கு எட்டாக எட்டு வரிசையில் மொத்தம் அறுபத்து நான்கு அறைகள் கொண்ட சக்கரம் அமைக்க வேண்டும். அதன் பிறகு அதற்கு நடுவில் இருக்கின்ற மேன்மையான நான்கு அறைகளுக்குள் சிவம், சக்தி, விந்து, நாதம் ஆகிய நான்கு தத்துவங்களையும் அமைக்க வேண்டும். இப்படி அறுபத்து நான்கு அறைகள் கொண்ட இந்த சக்கர அமைப்பை மானசீகமாக தமக்குள்ளேயே வரைந்து அதை உணர்ந்து தரிசித்த சாதகர்கள் சிவலிங்க அமைப்பில் இருக்கின்ற சாம்பவி மண்டலச் சக்கரத்தை அறிந்து கொள்ளலாம். கருத்து: சாதகர்கள் மானசீகமாக பாடலில் குறிப்பிட்டு உள்ளபடி அறுபத்து நான்கு அறைகள் கொண்ட சக்கரத்தை அமைத்து அதன் நான்கு மூலைகளிலும் நான்கு சிவலிங்கங்களாக அமைத்து அதற்கு நடுவில் சிவம் சக்தி தத்துவங்களை ஒரே ஒரு சிவலிங்கமாகவும் விந்து தத்துவமாக ஓம் மந்திரத்தை அமைத்து நாத தத்துவமாக அந்த ஓம் மந்திரத்தை அசபையாக சொல்லி தியானித்தால் சாம்பவி மண்டலச் சக்கரத்தை அறிந்து கொள்ளலாம்.`,
   },
@@ -8589,6 +8851,7 @@ Lines twenty by twenty,
 In Bhupuras four describe Lingas
 And Lingas four in corner each too
 And place flowers four there.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/10/Song-1299-Fourth-Tantra-11.-Chakra-of-SivaSakthi-Region.mp3',
     elaborationEnglish: `In bhupuras, place four lingas in each corner and place four flowers there. Thus form the Sambhavi Chakra.`,
     elaborationTamil: `பாடல் #1298 இல் உள்ளபடி இருபது அறைகளாக இருக்கின்ற இடது பக்கமும் வலது பக்கமும் ஆகிய பகுதிகளை சேர்த்து இருக்கும் சாம்பவி மண்டலச் சக்கரத்தில் நன்மையைத் தருகின்ற சக்தி பாயும் வீதிகளாக அறைகளை அமைக்க வேண்டும். அதில் நான்கு திசைகளாக இருக்கின்ற மூலைகளிலும் நான்கு நான்கு இலிங்கங்களாக மொத்தம் பதினாறு இலிங்கங்களை அமைக்க வேண்டும். இப்படி ஒவ்வொரு மூலையிலும் அமைந்திருக்கும் நான்கு இலிங்கங்களுக்கு நடுவிலும் சாதகர்கள் தங்களின் மனதை வைத்து இறைவனைத் தவிர வேறு எந்த சிந்தனைகளும் இல்லாமல் தியானித்தால் இறைவனும் அவர்களின் எண்ணங்களுக்கேற்ப வந்து சக்கரத்தின் நடுவில் வீற்றிருப்பான்.`,
   },
@@ -8607,6 +8870,7 @@ The Letters Fifty and One
 There remained in form different
 Chant Si Va Ya Na Ma pure there
 Nothing will you lack then.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/10/Song-1300-Fourth-Tantra-11.-Chakra-of-SivaSakthi-Region.mp3',
     elaborationEnglish: `Chant the Five Letters (Sivayanama) as the embodiment of the Fifty-One letters. You will lack nothing then.`,
     elaborationTamil: `ஆதிகாலத் தமிழில் இருக்கும் 51 எழுத்துக்களும் உண்மை ஞானத்தைக் கொடுப்பவை ஆகும். இவை வெவ்வேறு உருவங்களில் (எழுத்து வடிவங்களில்) சூட்சுமமாக சாம்பவி மண்டலச் சக்கரத்தில் வளர்ச்சி பெற்று பரவிக் கிடக்கின்றது. இவற்றின் உண்மைப் பொருளை ஆராய்ந்து உணர்ந்து சாதகர்கள் தமக்குள் ‘சிவாய நம’ எனும் மந்திரத்தை அசபையாகச் செபித்துக் கொண்டே இருந்தால் அவர்களுக்கு எந்தவிதமான குறைகளும் இருக்காது.`,
   },
@@ -8626,6 +8890,7 @@ The Holy Feet will be yours;
 Chant the Vedic mantra Aum;
 If steadfast you realize it
 Death none, thus have they said.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/10/Song-1301-Fourth-Tantra-11.-Chakra-of-SivaSakthi-Region.mp3',
     elaborationEnglish: `Chant the Vedic mantra Aum in steadfastness. This brings the conquest over death.`,
     elaborationTamil: `பாடல் #1300 இல் உள்ளபடி எந்த விதமான குறைகளும் இல்லாத நிலையை அடைந்த சாதகர்கள் மேன்மையான சாம்பவி மண்டலச் சக்கரத்திற்கு ஏற்ப ஞானமும் அருளும் எப்போதும் குறைவில்லாமல் இருப்பார்கள். ஒலிக்கின்ற சிலம்புகளை அணிந்திருக்கும் இறைவனின் திருவடிகளும் சாதகர்களை விட்டு எப்போதும் பிரியாமல் அவர்களுடனே சேர்ந்து இருக்கும். வேதங்கள் சிறப்பித்து சொல்லுகின்ற உண்மை ஞானமாகவே இருக்கின்ற 51 எழுத்துக்களையும் அதனதன் இயல்புக்கு ஏற்ப முழுவதுமாக அறிந்து உணர்ந்து கொள்ள முடிந்தவர்களுக்கு இறப்பு என்பதே இல்லை என்று இந்த நிலையை அடைந்தவர்கள் உறுதியாக சொல்வார்கள். இதை சாதகர்களும் முழுவதுமாக உணர்ந்து கண்டு கொள்ள வேண்டும்.`,
   },
@@ -8692,6 +8957,7 @@ And its untoward manifestations too;
 Obstacles too will be none
 All things good daily flow
 Cool as water you will be.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/11/Song-1304-Fourth-Tantra-11.-Chakra-of-SivaSakthi-Region.mp3',
     elaborationEnglish: `Mantras 1303 & 1304
 Proceed the way of the five holy letters. They who bend low before her, will stoop before no enemies. No more are they harassed by karma and its untoward manifestations. All good things will flow daily, cool as water, and without any impediment.`,
     elaborationTamil: `பாடல் #1303 இல் உள்ளபடி உலகத்தில் உள்ள எந்தவொரு பற்றுக்களும் சாதகர்களுக்கு இல்லாமல் போய்விடும். இறைவனை வணங்கித் தொழுகின்ற சாதகருக்கு அவரைச் சுற்றி இருக்கின்ற உலகத்தால் நன்மை தீமைகள் எதுவும் இல்லை. அனைத்து நாட்களும் அவருக்கு நன்மையான நாட்களாகவே இருக்கும். நல்வினை தீவினை ஆகிய எதுவுமே அவருக்கு இல்லாமல் போய்விடும். இனி எப்போதும் புதியதாக வினைகள் எதுவும் வந்து சேராது. தமது சாதகத்திற்கு தடைகள் எதுவும் இல்லாமல் தாமும் தடை இல்லாமல் உலக நன்மைக்காகச் சுழற்சியாகத் தொடர்ந்து செயலாற்றிக் கொண்டே இருக்கின்ற நிலையை அடைந்து விடுவார்.`,
@@ -8712,6 +8978,7 @@ All may worship the Chakra of Sambhavi,
 She is Bliss-Form that none has seen,
 She is the earth, the sky, the sun and moon
 She is the sentience that pervades body and life.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/11/Song-1305-Fourth-Tantra-11.-Chakra-of-SivaSakthi-Region.mp3',
     elaborationEnglish: `All may chant the Five Letters and worship the Chakra Sambhavi. She is Bliss-Form that no one has visioned. S$ is the earth, the sky, the moon, and the consciousness th is all-pervasive.`,
     elaborationTamil: `சாம்பவி மண்டலச் சக்கரத்தில் உள்ள மந்திரமாகிய ‘சிவாய நம’ எனும் ஐந்து எழுத்துக்களை யாரும் அசபையாக உச்சரிக்கலாம். அதை முறைப்படி உச்சரித்து சாதகம் செய்பவர்களுக்கு யாராலும் எளிதில் அறிந்து கொள்ள முடியாத பேரின்ப உருவமாக இருக்கின்ற சாம்பவி மண்டலச் சக்கரத்தை அறிந்து கொள்ளலாம். அதை அறிந்து கொண்ட சாதகர்களுக்கு உலகமாகவும் ஆகாயமாகவும் சூரியனாகவும் சந்திரனாகவும் பாடல் #1302 இல் உள்ளபடி பொன் போன்ற உடலாகவும் உயிராகவும் உணர்வாகவும் அந்த சாம்பவி மண்டலச் சக்கரத்தின் பேரின்ப உருவமே இருக்கின்றது.`,
   },
@@ -8753,6 +9020,7 @@ The six letters beginning with "A" are red-hued
 The four letters beginning with "Sa" are pure white
 The mantras thus grouped leads to bliss below
 And to liberation above.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/11/Song-1307-Fourth-Tantra-12.-Chakra-of-the-Universal-Energy.mp3',
     elaborationEnglish: `Bhuvanapathi Chakra is formed of 15 letters. The five letters (beginning with 'Ka'), the six letters (commencing with 'A') and the four letters (beginning with 'Sa') are golden-hued, red-hued and white-hued respectively.
 
 1) Ka, Aa, E, La, Hrm (vakphava group)
@@ -8780,6 +9048,7 @@ This triangle is great unto the ocean
 Center your thoughts on it
 Bliss and Mukti shall yours be;
 You will Siva-form be.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/11/Song-1308-Fourth-Tantra-12.-Chakra-of-the-Universal-Energy.mp3',
     elaborationTamil: `பாடல் #1307 இல் உள்ளபடி சாதகர்கள் தங்களுக்குள் ஆராய்ந்து அறிந்து கொண்ட மூன்று வித்தைகளால் தெரிந்து கொண்ட புவனாபதி சக்கரத்தில் வீற்றிருக்கும் இந்த தெய்வத்தைப் பற்றியே யாம் எடுத்துச் சொல்கிறோம். இந்த தெய்வத்தை முழுவதுமாக உணர்ந்து கொண்டால் வேறு ஒரு தெய்வம் எதுவும் தேவை இல்லை. யாம் சொல்கின்ற ஒரு விஷயத்தை கவனமாகக் கேளுங்கள். சாதகர்கள் தங்களுக்குள் மானசீகமாக வருவித்த மூன்று கோணங்களைக் கொண்ட இந்த புவனாபதி சக்கரத்தில் தங்களின் மனதை அசையாமல் வைத்து தியானித்தால் பேரின்பமும் முக்தியும் என்ன என்பதை முழுவதுமாக அவர்களால் அறிந்து கொள்ள முடியும். அப்படி அறிந்து கொண்ட பிறகு சிவ உருவம் எது என்பதையும் அவர்களால் அறிந்து கொள்ள முடியும்.`,
   },
   {
@@ -8800,6 +9069,7 @@ She grants Mukti and Siddhi;
 Though one the Parasakti is,
 When Siva assumes the form of Yoga Guru,
 Parasakti has forms eight indeed.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/11/Song-1309-Fourth-Tantra-12.-Chakra-of-the-Universal-Energy.mp3',
     elaborationEnglish: `When Siva assumes the form of Yoga Guru, Parasakti assumes eight forms.
 
 The eight Saktis are counted differently. Several delineations are as follows:
@@ -8848,6 +9118,7 @@ Perform anga nyasas and meditate
 And on copper plate describe
 The six-pointed (double) triangle
 For your birth to end.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/11/Song-1311-Fourth-Tantra-12.-Chakra-of-the-Universal-Energy.mp3',
     elaborationEnglish: `Worship at the Yantra Raja's feet and chant the mantra the Guru has taught you. Perform anga Nyasas (bodily gestures) and contemplate. Inscribe the six pointed (double) triangle on a copper plate. It will end your births.`,
     elaborationTamil: `பாடல் #1310 இல் உள்ளபடி அட்டாங்க யோகத்தின் மூலம் பெறுகின்ற அட்டமா சித்திகளைப் போன்ற எந்த விதமான சக்திகளையும் பெறுவதற்கு உதவும் புவனாபதிச் சக்கரத்திற்கு சரிசமமான அதிபதிகளாக இருக்கின்ற இறைவன் இறைவியின் திருவடிகளைப் பற்றிக் கொண்டு போற்றி வணங்க வேண்டும். அதன் பலனாக இறைவன் சாதகருக்கு சரியான குருவைக் காண்பித்து அருளுவார். அந்த குருவிடம் முறைப்படி உபதேசம் பெற்ற மந்திரங்களையும் நியமங்களையும் முழுவதுமாக உள் வாங்கி உணர்ந்து கொள்ள வேண்டும். அதன் பிறகு குரு உபதேசித்த மந்திரங்களையும் நியமங்களையும் அவர் உபதேசித்த முறைப்படியே ஓதி தமது உடல் அங்கங்களால் சரியாகச் செய்து தமக்கு இனிப் பிறவியே வேண்டாம் என்று வேண்டி செப்புத் தகட்டில் ஆறு கோணங்கள் வரும்படி இரண்டு பெரிய முக்கோணங்களை வரைந்து வைக்க வேண்டும்.`,
   },
@@ -8867,6 +9138,7 @@ Place Srim, Hrim letters
 Above place Rim
 Describe a circle the entire diagram to encompass
 And place the letters eight times two, inclusive Aum.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/11/Song-1312-Fourth-Tantra-12.-Chakra-of-the-Universal-Energy.mp3',
     elaborationEnglish: `Place Srim, Hrim and above these Rim on the six-pointed diagram. Inscribe a circle to encompass the whole diagram and place the sixteen letters (the 15 plus Aum) above all.
 
 The sixteen letters are made up of the fifteen letters referred to in Mantra 1307 plus ‘Aum.’`,
@@ -8889,6 +9161,7 @@ Above Ha place letter U (Hum)
 Close to petals,
 Place letters Krom and Srom
 And to the left of Chakra, place Am and Krom.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/11/Song-1313-Fourth-Tantra-12.-Chakra-of-the-Universal-Energy.mp3',
     elaborationEnglish: `In the space above, place the letter 'Ha' between the eight petals. Above 'Ha' place 'U,' and 'Krom' and 'Srom' close to the petals. Place 'Aum' and 'Krom' to the left of the Chakra.`,
     elaborationTamil: `பாடல் #1312 இல் உள்ளபடி வரைந்த பதினாறு அட்சர எழுத்துக்களைக் கொண்ட வட்டத்தைச் சுற்றி எட்டு இதழ்களை வரைந்து அந்த இதழ்களின் நடுவில் இருக்கும் வெற்று இடத்தில் எட்டு முறை ‘ஹா’ எனும் எழுத்தை வரைந்து அதற்கு உச்சியில் ‘உ’ எழுத்தை சேர்த்து எழுத வேண்டும். இப்படி நெருக்கமாக வரையப்பட்ட எட்டு இதழ்களுக்குள் அவை அமர்ந்திருக்கும் வட்டத்திற்கு மேல் இதழ்களை ஒட்டியவாறு ‘க்ரோம்’ ‘ஸ்ரோம்’ என்ற பீஜங்களை எழுதி விட்டு அந்த இதழ்களுக்கு மேலே ‘ஹாம் ஹாத்’ மற்றும் ‘ஹாம் க்ரோம்’ ஆகிய பீஜங்களை எழுத வேண்டும்.`,
   },
@@ -8908,6 +9181,7 @@ Place Krom and Srom together
 Surround the Chakra by Hrim,
 Then do you worship the Sakti
 That Bhuvanapathi is.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/11/Song-1314-Fourth-Tantra-12.-Chakra-of-the-Universal-Energy.mp3',
     elaborationEnglish: `Then surround the Chakra by 'Hrim'. Thus complete the double-triangle yantra and then worship Sakti, that is Bhuvanapathi.`,
     elaborationTamil: `பாடல் #1313 இல் உள்ளபடி வரையப்பட்ட இறைவனது கோயிலாக இருக்கும் புவனாபதி சக்கரத்தைச் சுற்றி அடைத்து இருக்கும் படி நான்கு வாசல்கள் வைத்து இரண்டு வரிகள் கொண்ட ஒரு கட்டத்தை வரைந்து அதில் வலது புறத்திலும் இடது புறத்திலும் ‘க்ரோம்’ ‘ஸ்ரோம்’ எனும் பீஜங்களை எழுதி விட்டுத் தாமரைப் பூ போன்று இருக்கின்ற வடிவத்தில் ‘ஹ்ரீம்’ எனும் பீஜ எழுத்தை மறுபடியும் மறுபடியும் சக்கரத்தை முழுவதுமாக சுற்றி இருக்கும் படி எழுத வேண்டும். பாடல் #1311 இலிருந்து பாடல் #1314 வரை கொடுக்கப்பட முறைகளின்படி வரையப்பட்ட பிறகு தாமரைப் பூ போல இருக்கின்ற உலகங்களுக்கு அதிபதியாக சேர்ந்து இருக்கின்ற இறைவன் இறைவியின் புவனாபதி சக்கரத்தை பூஜை செய்ய வேண்டும்.`,
   },
@@ -8926,6 +9200,7 @@ When you perform the Puja to Bhuvanapathi,
 Evoke Her in your heart in purity
 Surrender your life (symbolic) at Her Feet, (Prana Prathishtai)
 And in glowing meditation sit.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/11/Song-1315-Fourth-Tantra-12.-Chakra-of-the-Universal-Energy.mp3',
     elaborationEnglish: `Thus perform puja to Her and surrender all your life at Her Feet, and remain in glowing meditation.`,
     elaborationTamil: `பாடல் #1314 இல் உள்ளபடி புவனாபதி சக்கரத்தை முறைப்படி வரைந்து அதற்கு பூஜைகள் செய்யும் போது உலகங்களுக்கு அதிபதியாக இருக்கின்ற இறைவனையும் இறைவியையும் சாதகர் தமது மனதினில் எந்த விதமான அழுக்குகளும் இல்லாமல் தூய்மையான மனதிற்குள் மானசீகமாக வெளியில் இருக்கின்ற புவனாபதி சக்கரத்தின் ஆற்றலை உள்ளுக்குள் வரும்படி செய்ய வேண்டும். அதன் பிறகு சக்கரத்திலுள்ள மந்திர பீஜங்களை சத்தமாக உச்சரிக்காமல் அசபையாக மனதிற்குள் செபித்து மூச்சுக் காற்றின் மூலம் அதற்கு உயிர் கொடுத்து தமக்குள் வைக்க வேண்டும். அதன் பிறகு இறையின் பேரொளி பொருந்திய ஆற்றலை மனதிற்குள் வைத்த சக்கரத்தோடு ஒன்றாகப் பொருந்தும் படி செய்து முறைப்படி தியானம் செய்ய வேண்டும்.`,
   },
@@ -8947,6 +9222,7 @@ On the body are dazzling jewels,
 Her body shining as gem purest
 And radiant Her crown
 Thus adorned, She appears.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/11/Song-1316-Fourth-Tantra-12.-Chakra-of-the-Universal-Energy.mp3',
     elaborationEnglish: `Bhuvenesvari’s Form is pure red; Her robe is silky; she holds the weapons, goad and noose in Her hands; She gestures in a protective pose; She is adomed with dazzling jewels, radiant is Her crown. Thus She appears.`,
     elaborationTamil: `பாடல் #1315 இல் உள்ளபடி பூஜை செய்தால் இறைவனுடன் சேர்ந்து இருக்கும் இறைவியானவள் தனது திருமேனியில் செம்மையான பட்டு போல் பிரகாசிக்கும் உடையை அணிந்து கொண்டு தனது திருக்கரங்களில் ஆசையை அடக்கி அருளும் அங்குசமும் உலகப் பற்றை அறுத்து அருளும் பாசக் கயிறும் தரித்துக் கொண்டு நவரத்தினங்கள் போல பிரகாசிக்கின்ற தனது திருமேனியில் நகைகளை அணிந்து கொண்டு தனது தலையில் தூய்மையான திருமுடியையும் (கிரீடம்) அணிந்து கொண்டு சாதகரின் முன்பு உலகத்தின் தோற்றமாகவே வந்து நிற்பாள்.`,
   },
@@ -8966,6 +9242,7 @@ Land Her in endearment
 Offer the milk-rice oblation with mantra chanting
 Turning in directions four, pronounce "Naradaya Suvaha"
 Remove the food thus offered and serve it.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/11/Song-1317-Fourth-Tantra-12.-Chakra-of-the-Universal-Energy.mp3',
     elaborationEnglish: `Bare the garment that covers your skin. Seek Her in endearing love and devotion. Offer the milk rice oblation and chant the mantra. Turn in four directions and pronounce ‘naradayai suvaha.’ Finally serve the food offered. This is the way to conduct the puja rituals.`,
     elaborationTamil: `பாடல் #1316 இல் உள்ளபடி இறைவனோடு சேர்ந்து இருக்கும் இறைவியானவள் சாதகரின் முன்பு தோன்றிய பின் போர்வை தோலால் ஆகிய போர்வை போல் முடியிருக்கும் உடம்பின் உணர்ச்சி (உடல் உணர்ச்சி அற்ற நிலை) போகும் வரை போற்றி வணங்க வேண்டும். அதன் பிறகு தமது உள்ளத்திற்குள் இறைவியின் உருவத்தைப் பதிய வைத்து உள்ளே வீற்றிருக்கும் இறைவிக்கு மானசீகமாக பூஜைகள் செய்ய வேண்டும். பூஜையின் பலனாக நான் எனும் பாலுணர்வு போன பின்பு உள்ளுக்குள் இருந்து எழுந்து வரும் மந்திரத்தை செபித்து போற்றி வணங்க வேண்டும். பின்பு மனதிற்குள் நான்கு திசைகளையும் காத்தருள்பவளே அனைத்து உயிர்களாலும் ஆராதிக்கப் படுபவளே உனக்கு இந்த மந்திரத்தை அர்ப்பணிக்கின்றேன் என்று நினைத்து உருவமாக இருக்கின்றவளை மாற்றி சிறப்பான அருவமாக இறைவியை பாவித்துக் கொண்டு அவளையே போற்றி வணங்குங்கள்.`,
   },
@@ -9006,6 +9283,7 @@ I shall speak of Navakkari (Nine-Lettered) Chakra,
 The One-lettered, becomes the Nine-lettered
 The Nine-lettered expands into Eighty-one lettered;
 Navakkari are the nine letters from Klim to Saum.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/11/Song-1319-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Navkkari Chakra is of nine letters. This nine-lettered Navakkari expands into 81 letters.
 
 As the nine mantras (Mantras 1320, 1324, 1329, 1334, 1339, 1344, 1349, 1354, 1359) repeat in nine relations, with each mantra for the beginning, the nine letters become 81 letters in all.
@@ -9031,6 +9309,7 @@ Krim, Haum, Aum, and Saum
 Thus in order is the mantra
 In the end chant Sivayanama,
 At every rotation.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/11/Song-1320-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Srim, Hrim, Aim, Guam, Krim, Haum, Aum, Saum, Klim are the nine mantras. Chant these nine mantras in order, and at the end chant Sivayanama at every rotation.`,
     elaborationTamil: `’ஸௌம்’ எனும் அட்சரம் முதலாக ‘ஔம்’ எனும் அட்சரத்தோடு சேர்த்து ‘ஹௌம்’ எனும் அட்சரத்தின் உள்ளும் இறுதியில் ‘கௌம்’ எனும் அட்சரத்தின் உள்ளும் ‘ஐம்’ எனும் அட்சரத்தின் உள்ளும் ஒன்றாகக் கலந்து ‘ஹ்ரீம்’ எனும் அட்சரமாகவும் ஸ்ரீம்’ எனும் அட்சரமாகவும் வெளிப்பட்டு ‘ஓம்’ எனும் அட்சரத்திலிருந்து எழுகின்ற ‘க்லீம்’ எனும் அட்சரம் வரை உள்ளது. இந்த ஒன்பது அட்சரங்கள் கொண்ட மந்திரத்தை முதலாகக் கொண்டு மந்திரத்தை செபிப்பதற்கு ஏற்ற சமயத்தில் மனதை ஒருநிலைப் படுத்தி இந்த மந்திரத்தை சொல்லி பின்பு சிவாய நம என்று தொடர்ச்சியாகச் சொல்லுங்கள்.`,
   },
@@ -9050,6 +9329,7 @@ In Navakkari arises all that is goodly,
 When you chant the Navakkari Mantra
 Deep within you,
 The Navakkari Sakti, all blessings, confers.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/11/Song-1321-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Chant Navakkari mantra deep within you. It confers all blessings and all jnana. It dispels your karmas.
 
 The nine Saktis enumerated are:
@@ -9080,6 +9360,7 @@ The Karmas hard will flee from you;
 No more will you evil deeds perform;
 All boons will be granted to you;
 The vision of Divine Light, yours shall be.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/12/Song-1322-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `No more will you indulge in evil actions. You will be granted all boons. Navakkari Mantra leads to the vision of divine light.`,
     elaborationTamil: `நவாக்கிரி சக்கரத்தை சாதகம் செய்கின்ற சாதகர்களுக்கு பாடல் #1321 இல் உள்ளபடி மூன்று விதமான நன்மைகள் அனைத்தையும் கொடுத்து, இறைவனை அடைய வேண்டிய ஞானத்தையும் கொடுத்து, உலக அறிவை அறிகின்ற கல்விகள் அனைத்தையும் கொடுத்து, மன பலத்தையும் கொடுத்து அதன் பயனாகப் பல பிறவிகளாகத் தொடர்ந்து வருகின்ற வலிமையான வினைகள் அனைத்தும் சாதகரை விட்டு விட்டு ஓடி விடும்படியும் செய்து, மேன்மையான நிலையைக் கொடுத்து அதன் பயனாக இனி மேலும் தீமையான வினைகளை எதுவும் செய்து விடுகின்ற நிலையையும் இல்லாமல் செய்து, நினைத்ததை அடையும் வரங்களையும் கொடுத்து, இறைவனின் சோதி வடிவத்தை அடைகின்ற நிலையும் கிடைக்கப் பெறுவதைக் காணலாம்.`,
   },
@@ -9100,6 +9381,7 @@ Your actions, all, will succeed;
 You shall triumph in the world
 The gifts of Chakra shall be as rich
 As your meditation on it is deep.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/12/Song-1323-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Meditate on the engraven Chakra of silver, gold or copper. You will succeed in all your endeavours.`,
     elaborationTamil: `பாடல் #1322 இல் உள்ளபடி சாதகர் கண்டு அறிந்த நவாக்கிரி சக்கரத்தை சாதகத்தின் மூலம் வெள்ளி போன்ற தூய்மையுடனும், பொன் போன்ற பிரகாசத்தோடும், செம்பு போன்ற உறுதியுடனும் மனதிற்கு உள்ளே உள் வாங்கி வைக்கும் போது சாதகரின் இந்த பிறவிக்கு முன் பிறவியிலிருந்தே தொடர்ந்து வரும் அனைத்து வினைகளையும் இந்த சக்கரத்தின் சக்தி மண்டலமானது வென்று அழித்துவிடும். ஐந்து புலன்களையும் வெற்றி பெறுவதற்கும் வழி கொடுக்கும். இந்த நவாக்கிரி சக்கரமானது எந்த அளவிற்கு சாதகர் தியானிக்கின்றாரோ அந்த அளவுக்கு நிலை பெற்று நிற்கும்.`,
   },
@@ -9121,6 +9403,7 @@ Meditate on the Chakra within
 Offering rice grain and Kusa grass,
 Thus perform archanas,
 She shall appear before you.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/12/Song-1324-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Mantras 1324 & 1325
 
 Chant from Srim to Klim continuously. Meditate on the Chakra within, offering rice, grain and kusa grass. Perform archanas. Srim Sakti will appear before you, like a golden flower of smoky hue. Adore Her - She will fulfil all your desires.
@@ -9144,6 +9427,7 @@ Of Her hue, you shall learn;
 She is unto a golden flower of smoky hue;
 All your wishes She will fullfil
 Do adore, Her Grace to receive.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/12/Song-1325-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `“She will fulfil all your wishes’’. This is one of the main objects of Tantra Sadhana.`,
     elaborationTamil: `பாடல் #1324 இல் உள்ளபடி தியானிக்கின்ற மந்திரத்தை சாற்றுகின்ற போது அதற்கு இணையான பலன்களை தந்து அருளுகின்ற திருவருள் தலைவியான இறைவியானவள் எந்த விதமான வண்ணத்தில் இருக்கின்றாள் என்பதை தமக்குள் தரிசித்து அறிந்து கொண்டால் அவள் தங்கம் போல ஜொலிக்கும் பிரகாசத்துடனும் மென்மையான பூவைப் போலவும் இருப்பதை உணர்ந்து கொள்ளலாம். மழையைக் கொடுக்கின்ற மேகத்தைப் போலவே இறைவியானவள் தன்னை நினைத்து வணங்கும் எவருக்கும் அவர்கள் எண்ணியது கிடைக்கும் படி செய்து அருளுவாள் என்பதை உணர்ந்து கொண்டு தினந்தோறும் அவள் அருளுகின்ற விதத்திலேயே உலக நன்மைக்குத் தேவையானதை சாதகர்கள் நடத்துவார்கள்.`,
   },
@@ -9163,6 +9447,7 @@ Kala, God of Death, will bypass your days reckoned,
 your name and fame will spread like shafts of light,
 Close nearer and nearer to Her
 You shall reach Her.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/12/Song-1326-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `You will find everything fair and pleasant. Srim Sakti confers name, fame and immortality.`,
     elaborationTamil: `பாடல் #1325 இல் உள்ளபடி உலக நன்மைக்குத் தேவையானதை சாதகர்கள் எண்ணியபடியே நவாக்கிரி சக்கரம் சக்தியால் அனைத்து விதமான நன்மையான காரியங்களும் உலகினில் நடக்கும். எமன் சாதகர்களுக்கு குறித்த ஆயுள் முடியும் நாளும் அவர்களைக் கடந்து போய்விடும். சாதகரின் பெயரும் புகழும் சூரியனிலிருந்து பாய்ந்து வருகின்ற ஒளிக் கதிர்களைப் போலவே உலகம் முழுவதும் பரந்து செல்லும். இப்படி தாம் செய்கின்ற சாதகத்தின் மூலம் உலகத்திற்கு நன்மைகள் செய்து இறையை நோக்கிச் சென்று அடைவார்கள் சாதகர்கள்.`,
   },
@@ -9181,6 +9466,7 @@ Gold, silver and precious stones shall yours be,
 Divine Grace and prosperity shall yours be,
 The heavenly Devas' celestial life shall yours be,
 That you may attain these, do meditate on Her.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/12/Song-1327-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `You will own gold, silver and precious stones. On you will be bestowéd divine grace and prosperity. You will be granted the celestial life of devas. Contemplate on Her constantly.`,
     elaborationTamil: `பாடல் #1326 இல் உள்ளபடி நவாக்கிரி சக்கரத்தை சாதகம் செய்கின்ற சாதகர்கள் பொன் போல பிரகாசிக்கின்ற உடல், வெள்ளி போல தூய்மையாக மலங்கள் நீங்கிய ஆன்மா, வைரக் கல்லைப் போல எதனாலும் அசையாத உறுதியான மனம் ஆகிய அனைத்தும் அடைவார்கள். அது மட்டுமின்றி ஆதிப் பரம்பொருளான இறைவனின் திருவருளும் இறைவனது திருமேனியையும் அடைவார்கள். மேலும் அண்ட சராசரங்களில் வீற்றிருக்கும் இறவா நிலை பெற்ற அமரர்களின் தெய்வீக வாழ்க்கையும் அடைவார்கள். இப்படி நவாக்கிரி சக்கரத்தை சாதகம் செய்வதன் மூலம் அனைத்தையும் அதனதன் முறைப்படியே அடையும் முறைகளை சாதகர்கள் அறிந்து கொள்வார்கள்.`,
   },
@@ -9220,6 +9506,7 @@ With Hrim commencing and Srim ending;
 Meditate on Her, the goodly famed one bedecked in garlands,
 You shall see Her
 As the cloud-laden flower-garden.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/12/Song-1329-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1328 இல் உள்ளபடி சாதகர்கள் சாதகம் செய்து பெற்ற நவாக்கிரி சக்கரமானது அவரது சாதகத்திற்கு சமமாகத் தருகின்ற பல விதமான பலன்களில் முதலில் உலகத்தில் உள்ள மொத்த அறிவும் ‘ஹ்ரீம்’ மற்றும் ‘ஸ்ரீம்’ ஆகிய இரண்டு விதமான பீஜ மந்திரங்களின் மூலமே பெறுகின்றார். அதன் பிறகு அழகிய பூக்களை மாலையாக அணிந்திருக்கும் அனைத்து விதமான புகழ்களுக்கும் உரியவளான இறைவியோடு சேர்ந்து உலக நன்மைக்காக திருக்கூத்து ஆடிக்கொண்டு இருக்கும் இறைவனையும் மேகங்கள் மூடியிருக்கும் அழகிய பூக்கள் பூத்து விளங்கும் சோலையில் சாதகர்கள் தமது கண்களால் தரிசனம் செய்து கொள்வார்கள்.`,
   },
   {
@@ -9238,6 +9525,7 @@ Your face shall glow in consuming attraction
 Seek Her constant,
 The One who in the Param of Divine Light reposes
 Seek Her, the Eternal One.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/12/Song-1330-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Mantras 1330 & 1331
 
 Seek and adore the peerless and priceless Hrim Sakti - your face will glow in consuming attraction. The earthy rulers will be with you and your enemies will not flourish. Praise Her who shares the Lord's Form.`,
@@ -9258,6 +9546,7 @@ Meditate on Her, who all blessings are;
 The earthly rulers will with you be
 Those against you will flourish not;
 Praise Her who the Lord's Form shares.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/12/Song-1331-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1330 இல் உள்ளபடி அருளுகின்ற அனைத்து வரங்களையும் தன் வசத்தில் வைத்திருக்கும் இறைவியின் அருமை பெருமைகளை ஆராய்ந்து எண்ணிப் பார்த்தால் கிடைப்பது என்னவென்றால் இந்த உலகம் செயல்படுவதற்கான நன்மைகளை தன் வசத்தில் வைத்திருக்கும் ஞானிகளும் சாதகர்களின் மேல் அன்பு கொண்டு அவரை நாடி வருவார்கள். இறையருளை அடைவதற்கான வழிகளைத் தன் வசத்தில் வைத்திருக்கும் அந்த ஞானிகள் வாழுகின்ற நிலையை சாதகர்கள் தாமும் கண்டு கொண்டு அதன் படியே வாழ்வார்கள். இந்த வழியில் வாழுகின்ற அனைவரிலும் ஒரு பகுதியாகவும் இருந்து அவர்களைத் தன் வசத்தில் வைத்திருக்கும் இறைவியானவளின் பெருமைகளை சாதகர்களான நீங்களும் போற்றி எடுத்துக் கூறுங்கள்.`,
   },
   {
@@ -9295,6 +9584,7 @@ They flourish at Her Holy Feet
 Who chant Her name in silentness;
 Who adore Her Feet with flowers
 They know the way to reach Her Feet.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/12/Song-1333-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1332 இல் உள்ளபடி இறைவியின் வணங்கத் தக்க திருவடிகளை சேர்ந்தே இருந்து அதை இடைவிடாமல் நினைத்து பக்குவம் பெற்று இருக்கின்ற சாதகர்கள் தமது அடி நாக்கின் உள்ளுக்குள் வைத்து உதடு அசையாமல் நாக்கை லேசாக அசைத்து மந்திரங்களை ஓதி தியானத்தில் இருந்து போற்றி வணங்குபவர்களாகவும், இறைவியின் பூப்போன்ற திருவடிகளை தமது மனதில் பதிய வைத்து பிரகாசம் பெற்று இருக்கின்றவர்களாகவும், இறைவியின் மாபெரும் திருவடிகளை கண்டு தரிசிக்கும் முறைகளை முழுவதும் அறிந்தவர்களாகவும் இருப்பார்கள்.`,
   },
   {
@@ -9312,6 +9602,7 @@ The Chakra expands with Aim to begin
 From Aim beginning in Hrim it ends;
 She who is dear unto Primal Lord
 Her, you meditate as Aim to begin.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/12/Song-1334-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Commence chanting Aim and end in Hrim. Meditate on Her, who is dear to the Primal Lord.
 
 1) The order is: Aim, Gaum, Krim, Ham, Haum, Saum, Srim, Hrim.`,
@@ -9332,6 +9623,7 @@ The Sakti you adore is Vageswari (Goddess of Logos)
 Whom all Vedas and Agamas praise
 She who is within the grasp of our tongue's chant
 Shall reveal Herself to you, face to face.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/12/Song-1335-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1334 இல் உள்ளபடி இறைவியானவளின் திருவருளை தகுதியானவர்களுக்கு அளிக்கும் சாதகர்களின் நாக்குக்கு அரசியாக இருக்கும் இறைவியானவளை முழுவதும் அறிந்து கொண்டு முக்தி பெறுவதற்கு வழி கொடுக்கும் வேதங்கள், பேருண்மையான ஆகமங்கள் ஆகிய அனைத்தையும் ஒன்றாகத் தொகுத்து தனது ஓரே நாக்கின் நடுவில் வைத்து எடுத்துச் சொல்லும் வல்லமை பொருந்திய இறைவியானவளை எந்த வடிவத்தில் சாதகர்கள் நினைத்து வழிபடுகிறார்களோ அந்த வடிவத்திலேயே அவர்களின் முன்னால் எழுந்தருளுவதை தங்களின் கண்களால் அவர்கள் பார்த்து தரிசிப்பார்கள்.`,
   },
   {
@@ -9353,6 +9645,7 @@ If this Vidya that is in the Golden Hall
 Shall come within a human's reach,
 Then this man shall conquer all,
 The slender Sakti, Her grace conferring.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/12/Song-1336-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1335 இல் உள்ளபடி சாதகர்கள் தரிசித்த இறைவியானவள் வீற்றிருக்கும் இந்த நவாக்கிரி சக்கரம் சாதகர்களின் நாக்குக்குள்ளும் எழுந்து விட்டால் சாதகர்கள் எடுத்துக் கொண்ட இந்த நவாக்கிரி சக்கரத்திலுள்ள மந்திரங்களே திருநடனம் புரிகின்ற இறைவனின் திருவுருவத்தைக் குறிக்கின்ற குறியாகவே இருக்கும். அதன் பிறகு உலகத்திலுள்ள மனிதர்களெல்லாம் தங்களின் குருகுலங்களில் இருந்து கற்றுக் கொண்டு கைகளில் வைத்திருக்கும் அனைத்து விதமான வித்தைகளையும் மென்மையான இயல்பைக் கொண்ட இறைவியோடு ஒன்றாகச் சேர்ந்திருந்தே சாதகர்கள் வெற்றி கொள்ள முடியும். கருத்து: நவாக்கிரி சக்கரத்திலுள்ள மந்திங்களை சாதகர் கைவரப்பெற்றால் உலகத்திலுள்ள எந்த வித்தைகளையும் இறைவியின் துணைகொண்டு வெற்றி பெறலாம்.`,
   },
   {
@@ -9370,6 +9663,7 @@ She of the slender Form is the Truth Divine;
 Chant Her mantra and constant meditate;
 Your days, in diverse ways rolled on,
 Will in steady prosperity ascend thereafter.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/12/Song-1337-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Hail and worship Aim Sakti. Your future will be one of unalloyed joy and steady prosperity.`,
     elaborationTamil: `பாடல் #1336 இல் உள்ளபடி மென்மையான தன்மையைக் கொண்டு உண்மைப் பொருளின் உருவமாகவே விளங்குகின்ற இறைவியானவள் சாதகர் குருவிடமிருந்து பெற்ற மந்திரங்களை செபிக்கும் தன்மைக்கு ஏற்ற படியே சாதகரைத் தொடர்ந்து அவர் இருக்கும் இடத்திலேயே அவருடன் சேர்ந்து வீற்றிருப்பாள். அதன் பிறகு சாதகருக்குள்ளிருந்து எழுந்து உலகம் முழுவதும் பரந்து செல்லும் சக்தியானது நல் வினை தீய வினை ஆகியவற்றால் பல விதமாகக் கடந்து செல்கின்ற பல நாள்களையும் நல் வினை கொண்ட நாட்களாகவே மாற்றி அனைத்தும் நன்மையாகவே நடக்கும்படி அருளும்.`,
   },
@@ -9391,6 +9685,7 @@ That is beyond words and meaning of words;
 With the blessing of Her, who is Queen of learning,
 You shall a master of all Learning be;
 No more enemies for you, here below.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/12/Song-1338-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Chant this mantra ceaselessly. Manifold blessings will be conferred on you. With the Grace and blessings of Her, who is the Queen of Leaming, you will master all learning. No more will you have enemies. No more malicious occurences will be directed against you.`,
     elaborationTamil: `பாடல் #1337 இல் உள்ளபடி அனைத்தும் நன்மையாகவே நடந்து கொண்டு இருக்கின்ற சாதகரின் நாக்கில் உண்மை என்று அறியப்படும் சத்தியங்கள் அனைத்தும் கிடைக்கப் பெறும். அதன் பிறகு சாதகர் சொல்கின்ற அனைத்து வார்த்தைகளும் அவரது சொல்லைத் தொடர்ந்து உடனே உண்மையாகவே ஆகி செயல்படும். அதனால் அவரது நாக்கிலிருந்து வருகின்ற அனைத்து விதமான சொற்களாகிய ஞானத்திற்கும் அரசனாகவே சாதகரும் ஆகிவிடுவார். அதன் பிறகு படர்ந்து விரிந்து இருக்கும் இந்த உலகத்தில் பகை என்று அறியப்படுகின்ற மும்மலங்கள், பசி, தாகம், தூக்கம் ஆகிய எதுவும் சாதகருக்கு இல்லாமல் போய் விடும்.`,
   },
@@ -9412,6 +9707,7 @@ For those who meditate the Vine (Gaum) on the Chakra,
 All creation shall bow to them
 With exception none,
 No exaggeration this is.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/12/Song-1339-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Mantras 1339 & 1340
 
 Chant Gaum to Aim. All creation will bow before you. Adore Gaumm Sakti and be blessed. You will be liberated from all mean desires and passions - lust, anger, ignorance, etc.`,
@@ -9432,6 +9728,7 @@ Adore Sakti who over all Tattvas rule,
 All goodly lives will bend before you;
 Lust, anger and ignorance with all in terror flee
 Your actions all will shining be.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2022/01/Song-1340-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1339 இல் உள்ளபடி உயிர்களால் வணங்கப்படும் நிலைக்கு வந்து நவாக்கிரி சக்கரத்தி்ல் இருக்கும் சக்தியின் இயக்கத் தத்துவங்களுக்கு தலைவியாகவே தாமும் ஆகிவிட்ட சாதகர்களின் மேல் கொண்ட பக்தியினாலும் அன்பினாலும் வாசனை முதலிய திரவியங்களை பூசி பூஜிக்கும் நல்ல உயிர்களாக பக்குவப்பட்ட அனைத்து உயிர்களோடும் கலந்து இருக்கும் ஆசை, கோபம், மாயையினால் இருக்கும் மயக்கம் ஆகிய குற்றங்கள் அனைத்தும் நீங்கி விடும். அதன் பிறகு உயிர்களின் பிறவிக்கு காரணம் என்று வேதங்கள் சொல்லுகின்ற உயிர்களைச் சூழ்ந்து இருக்கின்ற வினைகளும் உயிர்களை விட்டு நீங்கி விடும்.`,
   },
   {
@@ -9452,6 +9749,7 @@ What he thinks is the right;
 He who meditates on Her,
 Who witnesses the Dance of Siva,
 Is verily the Master of all around.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2022/01/Song-1341-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `What you speak will be the final word and the right word. Verily, you will become the master of all around. Meditate on Her and witness the Dance of Siva.`,
     elaborationTamil: `நவாக்கிரி சக்கரத்தை சாதகம் செய்கின்ற சாதகர் அதன் மூலம் தமக்குள் இருக்கின்ற அனைத்து தீமைகளையும் நீக்கி விட்டு தாம் உண்மையில் யார் என்பதை அறிந்து கொள்ள முடிந்தவராக இருக்கின்றார். அதன் பயனால் சாதகர் தமக்குள் எண்ணிப் பார்த்து அறிந்து கொண்ட இறை தன்மைகள் அனைத்தையும் குருவாக வீற்றிருந்து பிறருக்கு எடுத்துக் கூற முடிந்தவராகவும் இருக்கின்றார். அதன் பயனால் இறைவன் தமக்காக தனியாக ஆடிய திருநடனத்தை கண்டு ரசித்த இறைவியையும் சாதகர் தமக்குள் தரிசித்து வணங்கவும் மற்றவர்களால் வணங்கப்படும் தலைவனாகவும் இருக்கின்றார்.`,
   },
@@ -9470,6 +9768,7 @@ She is the Mother that all life is
 She is the Lady that all life created
 Worship at Her Feet, and all things will yours be;
 Your Karmas will vanish, you shall holy become.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2022/01/Song-1342-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Mantras 1342 & 1343
 
 Gauk Sakti is the Mother of all. Worship at Her Feet - all things will become yours. Rid of Karmas, you will become holy. Remain close to Her.`,
@@ -9491,6 +9790,7 @@ Far and wide in this world;
 Honoured you shall there walk,
 Benevolent you shall be to one and all,
 Close to Her, you shall there tarry.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2022/01/Song-1343-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1342 இல் உள்ளபடி தமது திருவடிகளை இறைவனின் திருவடிகளாகவே பாவித்து வணங்குகின்ற அடியவர்களையும் புண்ணியர்களாக ஆக்குகின்ற பேறு பெற்ற குருநாதராக இருக்கின்ற சாதகர் அனைத்து உலகங்களோடும் சேர்ந்தே இருந்து அதில் இருக்கின்ற அனைத்து உயிர்களும் செய்கின்ற புண்ணியத்தின் பயனாக அனைத்தையும் அதற்கு ஏற்றவாறு செயல் படுத்துகின்றவராக இருக்கின்றார். அது மட்டுமின்றி அண்ட சராசரங்களில் இருக்கின்ற அனைத்திலும் கலந்தே இருந்து அவற்றைக் காணுகின்ற கண்களின் பார்வையாக அனைத்தையும் பார்க்க வைக்கின்றவராகவும் இருக்கின்றார். உலகம் முழுவதும் இருக்கின்ற அனைத்து உயிர்களோடும் நெருங்கி இருந்து அவற்றின் பக்குவத்திற்கு ஏற்றபடி மழை போல் அருளுகின்றவராகவும் அவரே இருக்கின்றார். இப்படி தமது சாதகத்தை இடைவிடாமல் தொடர்ந்து செய்து கொண்டே இருப்பதன் மூலம் அனைத்தையும் செயல் படுத்துகின்றவராக சாதகர் இருக்கின்றார்.`,
   },
   {
@@ -9534,6 +9834,7 @@ Clear vision fills your thoughts;
 Rains copious fall,
 Wealth and prosperity smile
 Thus shall it be for those who meditate on Her.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2022/01/Song-1345-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1343 இல் உள்ளபடி அனைத்து உலகங்களுக்கும் பரந்து விரிந்து இருக்கின்ற பேரொளியாக விளங்குகின்ற அசையும் சக்தியான இறைவி சாதகருக்குள் வந்து வீற்றிருந்தால் சாதகரின் மனம் பேரின்பத்தில் திளைத்திருக்கும். அப்போது அந்த பேரின்பத்திற்கு காரணம் தாமே என்பதை இறைவி சாதகருக்கு காண்பித்து தெளிவு படுத்துகின்றாள். அது மட்டுமின்றி நவாக்கிரி சக்கரத்தில் இருக்கும் உண்மைப் பொருளை உணர்த்துகின்ற அருளையும் உருவாக்கி சாதகருக்கு அளிக்கின்றாள். இவை அனைத்தும் பேரொளியாக இருக்கின்ற இறைவியை தமக்குள் முழுவதுமாக அறிந்து கொண்ட சாதகர்களுக்கே இறைவி அருளுகின்றாள்.`,
   },
   {
@@ -9551,6 +9852,7 @@ Meditate on the Chakra, worship performing
 Your obstacles, all, overcome will be;
 Kings shall go to you and pay their respect
 Your thoughts will glow, no sorrows emanating.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2022/01/Song-1346-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Meditate on the Chakra and perform worship: You will overcome all your obstacles. Royalty will respect the sadhaka of Krim Sakti.`,
     elaborationTamil: `பாடல் #1345 இல் உள்ளபடி இறைவியை தமக்குள் முழுவதுமாக அறிந்து கொண்ட சாதகர்கள் அவள் வீற்றிருக்கும் நவாக்கிரி சக்கரத்தை தமக்குள்ளேயே பூஜித்து வந்தால் அவர்களால் உலகத்திலுள்ள அனைத்து விதமான துன்பங்களையும் கண்டு அறிந்து கொண்டு அவற்றில் இருந்து விலகி இருக்க முடியும். இந்த நிலையை அடைந்த சாதகர்களை பகைவர்களைத் தடுத்து நாட்டு மக்களை காக்கின்ற பெரும் அரசர்களும் அவர் இருக்கும் இடம் தேடி வந்து அவரை வணங்குவார்கள். அரசர்களும் வந்து வணங்கினாலும் உலகப் பற்று இல்லாமல் இறை நினைப்பிலேயே திளைத்து இருக்கின்ற சாதகர்களின் சிந்தனைக்குள் எந்தவிதமான துன்பகரமான எண்ணங்களும் வராமல் அவர்கள் எப்போதும் பேரின்பத்திலேயே இருப்பார்கள்.`,
   },
@@ -9572,6 +9874,7 @@ Nothing else the refuge for all life on earth,
 Nothing else is their crown of glory
 For those who meditate on Krim
 In Chakra Navakkari.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2022/01/Song-1347-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `They who meditate on Krim Sakti in the Chakra Navakkan will find Her their sole refuge and crown of glory. They will tise above sorrows and death. Everything the sadhaka touches will shine bright.`,
     elaborationTamil: `பாடல் #1346 இல் உள்ளபடி இறை நினைப்பிலேயே திளைத்து இருக்கின்ற சாதகர்களின் சிந்தனைக்குள் எந்தவிதமான துன்பகரமான எண்ணங்களும் இல்லை. பாடல் #1344 இல் சொல்லி உள்ளபடி தங்க நிறத்தில் பிரகாசிக்கும் ஒளி பொருந்திய உடலும் அவருக்கு உண்டு. ஒளி பொருந்திய சாதகர் இருக்கும் இடத்தில் மாபெரும் பாதகங்கள் எதுவும் இல்லை ஏனென்றால் அவரைச் சுற்றி எந்த உயிரும் இன்னொரு உயிரை கொல்லுகின்ற எண்ணமே இல்லாமல் இருக்கும் காரணத்தினால். இந்த உலகத்தில் வாழ்கின்ற அசையும் உயிர்கள் அனைத்தையும் பல வகைகளாக பிரித்துப் பார்க்காமல் இறை அம்சமாகவே பார்க்கின்றார். இப்படி நவாக்கிரி சக்கரத்தை சேர்ந்தே இருக்கின்ற சாதகர்களுக்கு முடிவு என்பதும் இல்லை.`,
   },
@@ -9593,6 +9896,7 @@ Their inner light spreads far and wide;
 Their egotiy perished,
 The light of differentiated knowledge
 Forever snuffed out.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2022/01/Song-1348-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Worship Krim Sakti — you will achieve fame in all directions for dispelling ignorance and egoity.`,
     elaborationTamil: `பாடல் #1347 இல் உள்ளபடி நவாக்கிரி சக்கரத்தை சேர்ந்தே இருக்கின்ற சாதகர்கள் எப்பொழுதும் அனைத்து திசைகளுக்கும் பரவிச் செல்லுகின்ற ஒளியாகவே இருப்பார்கள். இது வரை பல பிறவிகளாக அவர்களைத் தொடர்ந்து வருகின்ற உச்ச வினைகள் இனிமேல் அவரைத் தொடர்ந்து வராமல் அழிந்து எந்த வினையும் இல்லாமல் இருப்பார்கள். அவர்களுக்கு உள்ளிருந்து வேகமாக மேலெழுந்து வருகின்ற ஞானமாகிய ஒளியானது உலகம் முழுவதும் பரந்து விரியும். அதன் பிறகு தம்மை நாடி வரும் தகுதியானவர்களுக்கு அவர்களுடைய மாயையாகிய இருளை அழித்து ஞானமாகிய ஒளியை கொடுக்கின்றவராக சாதகர்கள் இருப்பார்கள்.`,
   },
@@ -9611,6 +9915,7 @@ The Chakra with mantras from Hau(m) to Krim is all light,
 Happiness it is to those who meditate on it,
 Pure Jnana and clear vision fills their thoughts
 Meditating on it is meditating on Panchakshara.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2022/01/Song-1349-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1348 இல் உள்ளபடி தகுதியானவர்களுக்கு மாயை அழித்து ஞானத்தைக் கொடுக்கின்ற சாதகர்களுக்கு உள்ளே இருக்கின்ற ஒளியான நவாக்கிரி சக்கரத்தில் ‘ஹௌம்’ எனும் பீஜம் முதலில் வைத்து ‘ஹ்ரீம்’ எனும் பீஜத்தை கடைசியாக வைத்து முறைப்படி அமைத்து தியானித்தால் உள்ளுக்குள் பேரின்பத்தைக் கொடுக்கின்றதாக அதுவே இருக்கும். இந்த நவாக்கிரி சக்கரத்தை தமக்குள் கண்டு அறிந்து கொள்ளுகின்ற சாதகர்களுக்கு உண்மை பொருளை தெளிவு படுத்துவதாகவும் அதுவே இருந்து உண்மை ஞானத்தைக் கொடுப்பதாகவும், எண்ணங்கள் தெளிவு பெறும் அறிவைக் கற்றுக் கொடுக்கின்ற இடமாகவும் அதுவே இருக்கும். அது மட்டுமின்றி இறைவனின் எழுத்து வடிவான ஐந்து அட்சரங்களைக் கொண்ட ‘நமசிவாய’ மந்திரமாகவும் அதுவே இருக்கின்றது.`,
   },
   {
@@ -9629,6 +9934,7 @@ She is the light behind the Adho-mukha
 (Downward looking face of Lord-Maya;)
 She is the One emanating, taste, sight, feel, sound and smell;
 She that is immanent in lives all.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2022/01/Song-1350-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Siva Sakti (Haum) is the light behind the Adho-mukha (Downward-looking face of the Lord). She is maya, immanent in all earth, water, fire, wind and sky.
 
 Regarding Adho-Mukha, see Introduction. behind Adho-Mukha’’ that would be corresponding, on this line of thought, to of Mahayana Buddhism.`,
@@ -9652,6 +9958,7 @@ Filling it entire
 Within earth, water, fire, wind and sky She is;
 Within the eye, within the body too
 May you behold Her.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2022/02/Song-1351-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1350 இல் உள்ளபடி அனைத்து உயிர்களையும் தனக்குள் தாங்கி அனைத்துமாகவே இருக்கின்ற இறைவியானவள் அண்ட சராசரங்களில் இருக்கின்ற உலகங்கள் அனைத்தையும் தனக்குள் கொண்டும் இருக்கின்றாள். அவளே எமக்கு உள்ளேயும் அனைத்தும் ஆகி எமக்குள் முழுவதும் நிறைந்து நிற்கின்றாள். அவளே பஞ்ச பூதங்களில் நிலத்தின் உள்ளேயும் நீரின் உள்ளேயும் நெருப்பின் உள்ளேயும் காற்றின் உள்ளேயும் ஆகாயத்தின் உள்ளேயும் இருக்கின்றாள். அவளே எமது கண்ணின் உள்ளேயும் எமது உடலுக்கு உள்ளேயும் வீற்றிருக்கிறாள் என்பதை நவாக்கிரி சக்கரத்தை சாதகம் செய்யும் சாதகர்களால் தரிசிக்கவும் முடியும்.`,
   },
   {
@@ -9673,6 +9980,7 @@ Well may you see Her
 If in the depths of your heart you make way for Her;
 Stand firm,
 Seeking Her in your thoughts constant.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2022/02/Song-1352-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Hold Her in your thoughts and you will behold Her with your physical eyes. ‘Make way for Her in the depths of your heart; stand firm, and constantly seek Her.`,
     elaborationTamil: `பாடல் #1351 இல் உள்ளபடி நவாக்கிரி சக்கரத்தை சாதகம் செய்யும் சாதகர்களால் இறைவியானவள் உயிர்களோடு ஒன்றாகக் கலந்து நின்று செய்கின்ற அனைத்து செயல்களையும் தரிசிக்க முடியும். அது மட்டுமின்றி உயிர்களின் எண்ணங்களுக்கு உள்ளே இறைவி இருக்கின்ற தன்மையையும் தரிசிக்க முடியும். அது போலவே உயிர்களோடு ஒன்றாகக் கலந்து நின்று அவற்றுக்கு ஏற்ற நல் வழியில் இறைவி செல்ல வைப்பதையும் தரிசிக்க முடியும். ஆகவே உங்களது எண்ணங்களில் எப்போதும் இறைவியை வைத்து தியானித்து இருங்கள்.`,
   },
@@ -9692,6 +10000,7 @@ She stands immanent in all hearts everywhere;
 She stands bearing all goodly things of the world
 She stands as the Divine Truth
 That dispells Karmas hard.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2022/02/Song-1353-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1352 இல் உள்ளபடி தமது எண்ணங்களில் எப்போதும் இறைவியை வைத்து தியானித்து இருக்கின்ற சாதகர்கள் தாம் சாதகம் செய்கின்ற இடத்திலிருந்தே ஏழு விதமான உலகங்களையும் ஒரு உலகம் போலவே ஒன்றாகப் பார்க்கின்ற உள்ளத்தைப் பெறுகிறார்கள். அப்படி அனைத்து உலகங்களையும் ஒன்றாகவே பார்க்கின்ற சாதகர்கள் அனைத்தோடும் கலந்து அனைத்தும் தாமாகவே ஆகி விடுவது மட்டுமின்றி உலகத்தில் பலவாறாக இருக்கின்ற தன்மைகள் அனைத்தையும் ஒன்றாகவே எடுத்துக் கொள்வார்கள். அதனால் உயிர்களிடமிருந்து கொடுமையான வினைகளைப் பிரித்து நவாக்கிரி சக்கரத்தில் இருக்கின்ற உண்மையை உணர்த்துகின்ற உண்மைப் பொருளாகவே சாதகரும் ஆகிவிடுவார்கள்.`,
   },
   {
@@ -9712,6 +10021,7 @@ Of that Chakra;
 She is Amudeswari, the Self-created
 As goodly riches,
 She in Chakra's midst stood.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2022/02/Song-1354-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Aum Sakti is the Divine Truth that runs through the Chakra commencing with Aum and ending with Haum. She is the central meaning of that Chakra. She is Amudesvari that stands in the centre of the Chakra as good riches.`,
     elaborationTamil: `பாடல் #1353 இல் உள்ளபடி நவாக்கிரி சக்கரத்தில் இருக்கின்ற உண்மையை உணர்த்துகின்ற உண்மைப் பொருளாகவே ஆகிவிட்ட சாதகருக்குள் இருக்கும் நவாக்கிரி சக்கரமானது ‘ஔம்’ எனும் பீஜம் முதலில் ஆரம்பித்து ‘ஹௌம்’ எனும் பீஜம் கடைசியாக வைத்து முறைப்படி அமைந்து இருக்கும். சாதகருடன் எப்போதும் சேர்ந்தே இருக்கின்ற இந்த சக்கரத்தின் பொருளானது அவருடன் கலந்து இருந்து அவருக்குள்ளிருந்து எழுந்து வரும். அப்படி சாதகருக்குள்ளிருந்து எழுந்து வருகின்ற இந்த சக்கரமானது உலகத்தில் தானாகவே நிற்கின்ற பொருளாக ஆகி அதுவே நன்மைகள் கொடுப்பதற்காக மாறுகின்ற அமிழ்தத்தின் தன்மைக்குத் தலைவியாக இருக்கின்ற இறைவியே நன்மைகள் அனைத்தும் தருகின்ற இந்த சக்கரத்தின் நடுவிலும் வீற்றிருக்கின்றாள்.`,
   },
@@ -9730,6 +10040,7 @@ That Amudheswari do hold in your heart
 Rouse Kundalini with your breath coursing upward;
 Daily will you vision things newer and newer;
 Listen to this, your body perishes never.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2022/02/Song-1355-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1354 இல் உள்ளபடி நவாக்கிரி சக்கரத்தின் நடுவிலும் வீற்றிருக்கின்ற இறைவியின் திருவடிகளே சக்கரத்திற்குள் சக்தியூட்டமாக மாறி இருக்கின்ற பீஜ மந்திர எழுத்துக்களான அமிழ்தத்திற்கும் தலைவியாக அந்த இறைவியே இருக்கிறாள். அவளது அருளால் சக்தியூட்டம் பெற்ற பீஜ மந்திர எழுத்துக்களை மூச்சுக் காற்றின் மூலம் அனைத்தும் நன்மை பெற வேண்டும் என்கிற எண்ணத்தையும் சேர்ந்து அனைவருக்கும் பயன்படும் படி அதிர்வலைகளாக சாதகரைச் சுற்றி அனுப்பும் போது அந்த அதிர்வலைகளால் தினந்தோறும் பல விதமான புதுமையான நன்மைகள் தம்மைச் சுற்றி நடப்பதை சாதகர்கள் காணுவார்கள். அதனால் பயனடைந்தவர்கள் சொல்லுகின்ற புகழ்ச்சிகளையும் கேட்டு அந்த அதிர்வலைகளைப் பெற்றவர்களின் உடலுக்கும் எந்தவிதமான கெடுதல்களும் இல்லாமல் நன்றாக இருப்பதை சாதகர்களால் காண முடியும்.`,
   },
   {
@@ -9751,6 +10062,7 @@ Having seen the Way of Her Grace,
 No more the differences in power and pelf will be;
 Having reached the Land of Goal
 No more the forest of sorrow will be.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2022/02/Song-1356-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1355 இல் உள்ளபடி சாதகர்கள் அனுப்பிய மந்திர அதிர்வலைகளைப் பெற்றவர்களின் உடலுக்கு எந்தவிதமான கெடுதல்களும் இல்லாமல் நன்றாக இருப்பதை சாதகர்களால் காண முடியும். சாதகர்கள் தமக்குள்ளிருக்கும் நவாக்கிரி சக்கரத்திலிருந்து உத்வேகமாக எழுந்து வருகின்ற பேரொளியை தரிசித்த பிறகு தமது உடலுக்குத் தேவையான இடம் என்ற ஒன்றும் இந்த உலகத்தில் இல்லாமல் போவதைக் காண்பார்கள். அதன் பிறகு வருடம் மாதம் நாள் மணி நிமிஷம் வினாடி நொடி ஆகிய காலத்தைக் குறிக்கின்ற அனைத்தும் இல்லாமல் போகும். சாதகர்களும் தமது உடலைச் சார்ந்து இருக்க வேண்டிய எந்த தேவையும் இல்லாமல் இருப்பதைக் காண்பார்கள். அதன் பிறகு இறைவனை அடைய வேண்டும் என்று சாதகரை நாடி வருகின்ற உயிர்களுக்கு இறைவனை அடையும் வழிகள் எது எது என்று தமக்குள் கண்டு அறிந்து கொண்டு அவற்றை தகுதியானவர்களுக்கு கொடுப்பார்கள். சாதகரின் எண்ணங்களின் மூலம் தம்மைச் சுற்றி மந்திர அதிர்வலைகளை அனுப்பிய எல்லா இடத்திலும் இறைவனை அடைய வேண்டும் என்று அவரை நாடி வருகின்ற உயிர்களைச் சுற்றி காடு போல சூழ்ந்து இருக்கின்ற கொடிய வினைகள் இல்லாமல் போவதையும் காண்பார்கள்.`,
   },
   {
@@ -9772,6 +10084,7 @@ None other place there is;
 Not a wee-bit space there is;
 Stand unfaltering, where you are,
 Firm in Aum Sakti.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2022/02/Song-1357-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `The Sadhaka engaged in Aum Sakti worship attains the transcendental State. All space turns into the interminable Space.`,
     elaborationTamil: `பாடல் #1356 இல் உள்ளபடி சாதகரின் எண்ணங்களின் மூலம் தம்மைச் சுற்றி மந்திர அதிர்வலைகளை அனுப்பிய எல்லா இடத்திலும் நவாக்கிரி சக்கரத்திலிருந்து வருகின்ற அழிவில்லாத இறை சக்தியினால் கொடுமையான வினைகள் அனைத்தும் கெட்டு அழிந்து போய் விடும். சாதகர் இதுவரை தாம் கற்றுக் கொண்ட அனைத்து விஷயங்களையும் ஞாபகமாக வைத்திருந்த எண்ணங்களின் சேமிப்பு அனைத்தும் அழிந்து போய் அந்த இடம் வெற்று இடமாக ஆகி விடும். அனைத்து இடத்திலும் இருக்கின்ற சாதகர்களுக்கு ஒன்றோடு ஒன்று வேறு படுத்திப் பார்க்கின்ற இடம் என்று எதுவும் இல்லாமல் போய் விடும். அதனால் சாதகர் இடத்தின் மூலம் செல்ல வேண்டிய வழிகள் என்று எதுவும் இல்லாமலும் தான் என்கிற உடலோ மனமோ எண்ணமோ ஆகிய எதுவும் இல்லாமல் இருப்பார். அதன் பிறகு அவரைச் சுற்றி இருக்கின்ற உலகம் என்ற இடங்கள் எதுவும் இல்லாமல் போய் விடும். ஆகவே சாதகர்கள் இதனால் எந்தவிதமான மனச் சோர்வோ அல்லது சலிப்போ அடைந்து விடாமல் தாம் செய்கின்ற சாதகத்தை தொடர்ந்து சமாதி நிலையில் செய்து கொண்டே இருக்க வேண்டும். குறிப்பு: சமாதி நிலையில் இருக்கின்ற சாதகர்கள் நிலையை இந்தப் பாடலில் தெரிந்து கொள்ளலாம்.`,
   },
@@ -9791,6 +10104,7 @@ All your wishes granted will be,
 If your heart in constancy stands,
 When you see Sakti in you firm stands
 She appears as the Light Radiant High.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2022/02/Song-1358-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Stand unfaltering and constant in Aum Sakti. If you incessantly seek and worship Aum Sakti, She appears as the Resplendent Light and fulfills all your wishes and desires.`,
     elaborationTamil: `பாடல் #1357 இல் உள்ளபடி சாதகர் சமாதியில் இருந்து இடைவிடாது செய்கின்ற சாதகத்தினால் ஏழு விதமான பெருங் கடல்களிலும் ஏழு விதமான உலகங்களிலும் அவரால் இருக்க முடியும். அது மட்டுமின்றி அவரது உள்ளத்தில் நினைத்த அனைத்து விஷயங்களும் அந்தக் கணத்திலேயே அவரது எண்ணத்திற்கு ஏற்றவாறே நடக்கும். அப்போது சாதகர் பெற்ற அருள் நிலையானது எப்போதும் மாறாமல் நிலையாக இருப்பதை அவர் கண்டு உணர்வார். அதன் பிறகு உச்சத்தில் இருந்து அனைத்தையும் விளங்க வைக்கின்ற பேரொளியாகவும் சாதகரே இருக்கின்றார்.`,
   },
@@ -9810,6 +10124,7 @@ From Sau(m) to Au(m) is light that illumines,
 That Chakra luminous is the Truth Eternal;
 The Sakti that is unto a shaft of lightning,
 Do you meditate and luminous be.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2022/02/Song-1359-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `The Saum to Aum Chakra is illuminating light. That luminosity in the Chakra-is the eternal truth. Meditate on the Sakti who is like a shaft of light and become luminous.`,
     elaborationTamil: `பாடல் #1358 இல் உள்ளபடி இடைவிடாது சாதகம் செய்து அனைத்தையும் விளங்க வைக்கின்ற பேரொளியானது ‘சௌம்’ எனும் பீஜத்தை முதலில் வைத்தும் ‘ஔம்’ எனும் பீஜத்தை முறைப்படி அமைத்து கடைசியிலும் இருக்கின்றது. அந்தப் பேரொளியே நவாக்கிரி சக்கரமாகவும் அதற்குள் இருக்கின்ற உண்மை பொருளாகவும் இருக்கின்றது. இப்படி பேரொளியாக இருக்கின்ற நவாக்கிரி சக்கரத்தில் மின்னல் போன்ற மாபெரும் சக்தியாக இருக்கின்ற இறைவியே அந்தப் பேரொளியாகவும் இருக்கின்றாள் என்பதை சாதகர்கள் தெரிந்து கொள்வார்கள்.`,
   },
@@ -9849,6 +10164,7 @@ She is spaces all, She filled spaces all;
 She is the space beyond spaces
 She created all, She preserved all,
 She is universe all, and lives all.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2022/02/Song-1361-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Saum Sakti is space and beyond space. She created all, preserved all. She is the entire universe and all life.`,
     elaborationTamil: `பாடல் #1360 இல் உள்ளபடி சாதகர்கள் தமக்குள் உணர்ந்து தெரிந்து கொள்ளுகின்ற இறைவி தாமே ஆகாயமாகவும் அதிலுள்ள அனைத்திலும் நிறைந்தும் இருக்கின்றவள். அவளே ஆகாயத்திற்கும் மேலான பரவெளியாகவும் இருக்கின்றவள். அவளே அனைத்தையும் உருவாக்கி அவற்றின் வினை முடிந்த பின் அழிக்கின்றவள். அவளே அனைத்திலும் கலந்து உள்ளவளாகவும் அண்ட சராசரத்திலுள்ள அனைத்துமாகவும் இருக்கின்றாள்.`,
   },
@@ -9868,6 +10184,7 @@ In the body corporeal She vast spaces filled;
 Well may you see many goodly things in Muladhara,
 Yet may you not know that She stands
 In the very center of your throat (Visuddha).`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2022/02/Song-1362-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `You may well see many good things in the sacrificial pit. Yet, you may not know that She is in the very centre of your visuddhi chakra.`,
     elaborationTamil: `பாடல் #1360 இல் உள்ளபடி அண்ட சராசரத்திலுள்ள அனைத்துமாகவும் இருக்கின்ற இறைவியே அண்ட சராசரத்தின் உள்ளே அளவிட்டு சொல்ல முடியாத பட மிகவும் அரியதாக அளவில்லாமல் இருக்கின்றாள். உடலுக்கு உள்ளே இருக்கின்ற மிகப் பெரும் ஆகாயமாகிய மனதையும் இறைவி கண்டு கொண்டு இருக்கின்றாள். நவ குண்டமாகிய உடலுக்கு உள்ளே இருந்து உடலை இயக்குகின்ற பல விதமான இயக்கங்களை பார்த்து உணர்ந்து கொண்டாலும் அந்த உடலுக்குள் வீற்றிருக்கின்ற இறைவி உடலோடு கலந்து இருக்கின்ற தன்மையை யாரும் அறிந்து கொள்வதில்லை. குறிப்பு: நவாக்கிரி சக்கரத்தில் உள்ள பேரொளியாக இருக்கின்ற இறைவியானவள் உடலுக்குள் இருக்கும் மனதையும் உடலின் இயக்கத்தையும் உடலோடு கலந்து நின்று கண்டு கொண்டு இருக்கிறாள் என்பதை யாரும் அறிந்து கொள்வதில்லை.`,
   },
@@ -9886,6 +10203,7 @@ They know not Her pervasiveness in the sea-girt world,
 They know not Her immanence in body and life,
 They know not Her Anklet, seeking other gods;
 Thus are they fated to be.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2022/02/Song-1363-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `They do not know Her pervasiveness and immanence in the sea girt world, in body and life. They are ignorant of Saum Sakti's greatness.`,
     elaborationTamil: `பாடல் #1362 இல் உள்ளபடி இறைவி உடலோடு கலந்து இருக்கின்ற தன்மையை அறியாதவர்கள் பெரும் கடல்களால் சூழ்ந்து இருக்கின்ற உலகங்களில் எல்லாம் சென்று இறைவியைத் தேடி அலைகிறார்கள். தமது உடலுக்கு இறப்பு என்ற ஒன்று இருப்பதை அறியாதவர்கள் தமது உடலோடு உயிரும் ஒன்றாகக் கலந்து இருப்பதைப் போலவே இறைவியும் கலந்து இருக்கின்றாள் என்கிற சிறப்பான உண்மையை அறியாதவர்களாக பல விதமான தெய்வங்களை தேடிச் சென்று வாழ்க்கையை வீணடிக்கிறார்கள். இவர்கள் தேடி அலையும் அனைத்து தெய்வங்களுக்கும் தலைவியாக இறைவியே இருக்கின்றாள் என்பதை அறியாதவர்களாக பல வித குழப்பங்களுக்கு ஆளாகிறார்கள்.`,
   },
@@ -9904,6 +10222,7 @@ To speak of that Chakra, of its volition arose,
 Mark lines ten (horizontal and vertical)
 And thus form nine squares on each line,
 In all form squares eighty and one.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/02/Song-1364-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Mantras 1364 & 1365
 
 Mark ten horizontal and vertical lines and thus form nine squares on each line. In all they form 81 squares. Forming the Chakra thus, color the outer circle in a golden shade, the squares in red and the mantra letters in green.`,
@@ -9924,6 +10243,7 @@ As thou form the Chakra thus,
 Colour the outer circle in hues of gold,
 Mark the squares red
 And the mantra letters green.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/02/Song-1365-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1364 இல் உள்ளபடி சாதகர் மனம் ஒன்றி இருக்கின்ற நவாக்கிரி சக்கரத்தை ஜெபம் செய்கின்ற போது வெள்ளி போல வெண்மை நிற ஒளியைக் கொண்டு இருக்கும் சாதகரின் உடலானது அவரது மனமும் அறிவும் முழுமை பெற்ற பிறகு தங்க நிற ஒளியாக மாறி பிரகாசிக்கும். அப்போது சக்கரத்தில் சக்தியூட்டம் பெற்று முழுமை அடைந்து இருக்கும் கோடுகளானது சாதகரின் உடலோடு ஒன்றாக கலந்து செழுமை பெறும். அதன் பிறகு அம்பலத்தில் இறைவனோடு சேர்ந்து ஆடுகின்ற இயல்பை உடைய இறைவியின் மந்திர எழுத்துக்களாக சக்கரத்தில் இருக்கும் பீஜங்கள் அனைத்தும் தமது சக்தியூட்டம் குறையாமல் எப்போதும் பசுமையாக நிலைத்து நிற்கும்.`,
   },
   {
@@ -9942,6 +10262,7 @@ Fill Sakti in chambers eighty and one;
 Offer hot ghee and rice
 Perform homa,
 And Prana Oblations.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/02/Song-1366-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Inscribe the Sakti's letters on the bark of a tree. Fill Sakti in the 81 chambers. Offer hot ghee and rice and thus perform homa and prana oblations.`,
     elaborationTamil: `நவாக்கிரி சக்கரத்தை வரைந்து பூஜை செய்வதற்கு ஏதுவான மரத்தின் பட்டையை எடுத்து அதில் சக்கரத்தை எழுத வேண்டும். அதன் பிறகு அதற்கு ஏற்றபடி வார்க்கப்பட்டு புடம் செய்த தங்கத் தகடில் மரப் பட்டையை வைத்து நவாக்கிரி சக்கரத்தில் இருக்கும் எண்பத்தோரு அறைகளையும் வரைந்து அதற்குள் எண்பத்தோரு பீஜங்களையும் எழுதி அடைக்க வேண்டும். அதன் பிறகு நன்றாக காய்ச்சிய அவிர் பாகத்திற்கு ஏற்ற நெய்யுடன் கலந்து அதனோடு மரக்கட்டைகளை வைத்து ஹோமம் செய்து தங்கத் தகடில் எழுதிய பீஜங்களை நன்றாக ஆராய்ந்து அவற்றையே அவிர் பாகமாக ஆயிரம் முறை ஜெபித்து ஹோமத்தில் சமர்ப்பணம் செய்யுங்கள். குறிப்பு: இதுவரை நவாக்கிரி சக்கரத்தை மானசீகமாக சாதகம் செய்யும் முறைகளை அருளிய திருமூலர் இந்தப் பாடலில் இருந்து வெளிப்புற பூஜையில் நவாக்கிரி சக்கரத்தை அமைத்து சாதகம் செய்யும் முறைகளை அருளுகிறார்.`,
   },
@@ -9961,6 +10282,7 @@ As you meditate on it day after day
 You shall in felicity be;
 And as your name and fame unto Brahma's soar,
 One with Siva you in loved union be.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/02/Song-1367-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Contemplate on the Sakti Chakra in calmness incessantly day by day. You will then abide in felicity and serene tranquillity. As your name and fame will soar upward like Brahma’s, you will stand in union with Siva.`,
     elaborationTamil: `பாடல் #1366 இல் உள்ள முறைப்படி சாதகர் சாதகத்தால் சக்தியேற்றிய தங்கத் தகடை எந்தவித குற்றங்களோ தீய எண்ணங்களோ இல்லாமல் சாதகர் கைவரப் பெற்றால் அவர் தியானித்து இருக்கும் அனைத்து நாட்களிலுமே பேரின்பமே கிடைத்துக் கொண்டிருக்கும். சாதகர் சாதகத்தில் ஜெபித்துக் கொண்டிருக்கும் நவாக்கிரி சக்கரத்திலுள்ள பீஜ மந்திரங்களும் நான்கு முகங்களைக் கொண்ட பிரம்மனின் படைத்தல் தொழிலுக்கு சமமான சக்தி மந்திரத்திற்கும் வரப் பெறும். அதன் பிறகு அந்த மந்திர பீஜங்களின் சக்தியின் இயல்பை சாதகர் முழுவதுமாகப் பெற்று விட்டால் சாதகரும் சிவனைப் போலவே அன்பாளனாகவும் அருளாளனாகவும் ஆகிவிடுவார்.`,
   },
@@ -9979,6 +10301,7 @@ Sandal, saffron flower, musk of deer
 Fragrant paste, civet scent and ghee
 Camphor, bezoar, and rose water
 These nine you blend on the Chakra smear.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/02/Song-1368-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Smear the Chakra with nine perfumes - sandal, saffron, flower, deer musk, fragrant paste, civet scent, ghee, camphor, orpiment and scented water.`,
     elaborationTamil: `அபிஷேகம் செய்வதற்கு ஏற்ற தூய்மையான சந்தனமும் குங்குமமும் கஸ்தூரியும் வாசனை மிகவும் பரவும் கருமையான அகில் கட்டையை அரைத்த சாந்தும் ஜவ்வாதும் புனுகும் நெய்யும் சேர்க்க வேண்டும். அதனுடன் அபிஷேகம் செய்வதற்கு ஏற்ற தூய்மையான பச்சைக் கற்பூரமும் பசுவின் மேன்மை பொருந்திய கோமியமும் சேர்க்க வேண்டும். இப்படி சேர்ப்பதற்கு ஏதுவான ஒன்பது பொருட்களையும் ஒன்றாகச் சேர்த்து பாடல் #1367 இல் உள்ளபடி சாதகர் சாதகம் செய்து சக்தியேற்றிய தங்கத் தகடில் வைத்து அபிஷேகம் செய்ய வேண்டும்.`,
   },
@@ -9998,6 +10321,7 @@ That you should perform at Sri Chakra;
 That holds the Virgin Sakti as its nodal pull
 Worship the mantra with incantations a thousand thousand
 Thus do you on it continuous meditate.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/02/Song-1369-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Sri Chakra holds the Virgin Sakti as its nodal pull. Chant the mantra 1 million times and thus meditate constantly.`,
     elaborationTamil: `பாடல் #1368 இல் உள்ளபடி சாதகர் சாதகம் செய்து சக்தியேற்றி வைத்திருக்கும் தங்க தகடுடன் மாபெரும் தவமாக மனதை ஒரு நிலைப் படுத்தி வேறு எதையும் சிந்திக்காமல் அதையே மானசீகமாக உள்ளுக்குள் பார்த்துக் கொண்டு இருக்க வேண்டும். அப்போது மார்புக் கச்சையால் கட்டிய பேரழகு பொருந்தி அமிர்தத்தை கொடுக்கும் இரண்டு மார்பகங்களைக் கொண்டு தங்கத் தகடுடன் சக்தியாகக் கலந்து அதிலிருந்து பேரொளியாக எழுகின்ற என்றுமே மாறாத இளமை பொருந்திய இறைவியை காணலாம். அதன் பிறகு சாதகர் செய்யும் சாதகத்தின் அளவிற்கு ஏற்றபடி தங்கத் தகடோடு கலந்து இருக்கும் இறைவியின் அருளால் நவாக்கிரி சக்கரத்திற்கான மந்திரம் சாதகருக்குள் உருவாகும். அதன் பிறகு அந்த மந்திரம் இருக்கும் தன்மையில் இருந்து சிறிதும் மாறாமல் மானசீகமாக ஜெபித்து ஆயிரம் முறை அந்த மந்திரத்தையே சிந்தித்து இருக்க வேண்டும்.`,
   },
@@ -10018,6 +10342,7 @@ She holds in them weapons six--
 The torch, the trident, the goad, the noose, bow, and arrow
 Chant the Mantra with Klim to begin,
 She before you appears.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/02/Song-1370-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1369 இல் உள்ளபடி தமக்குள்ளிருந்து கிடைத்த நவாக்கிரி மந்திரத்தை சிந்தித்துக் கொண்டு இருக்கும் சாதகரின் எண்ணங்களுக்கு உள்ளே பிரகாசமான ஒளியைத் தருகின்ற ஜோதி வடிவமாகவும் எமது தந்தையாகிய இறைவனின் அம்சத்தில் ஆறு கைகளைக் கொண்டு இருக்கும் வடிவமாகவும் அந்த ஆறு கைகளிலும் தீச்சட்டி திரிசூலம் அங்குசம் பாசக் கயிறு வில் அம்பு ஆகிய ஆறு ஆயுதங்களோடும் சாதகரின் முந்தைப் பிறவிகளில் இருந்து தொடர்ந்து வருகின்ற மும்மல இருளும் பயந்து விலகும் படி பேரொளியாகவும் எழுந்து சாதகரின் சிந்தனைக்கு முன்பு நிற்கின்றாள் இறைவி.`,
   },
   {
@@ -10035,6 +10360,7 @@ The Saktis sixty-four surrounding,
 The Virgins eight were there too,
 With bow and arrow in their hands two
 They seated were in the Chakra opposite.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/02/Song-1371-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Sakti appears in the Chakra surrounded by 64 minor saktis. including the eight virgins with bows and arrows in each of their two- hands.`,
     elaborationTamil: `பாடல் #1370 இல் உள்ளபடி நவாக்கிரி சக்கரத்தில் இருக்கின்ற இறைவியின் அம்சமாக அறுபத்து நான்கு சக்திகள் இருக்கின்றார்கள். இந்த அறுபத்து நான்கு சக்திகளும் என்றும் இளமையுடன் எட்டு வகையாகவும் வகைக்கு எட்டு பேராகவும் மொத்தம் அறுபத்து நான்கு பேர் இருக்கின்றார்கள். இந்த அறுபத்து நான்கு சக்திகளும் நவாக்கிரி சக்கிரத்தின் நடுவில் வீற்றிருக்கும் இறைவிக்கு எதிர் புறமாகவும் சக்கரத்தை சூழ்ந்தும் பாதுகாப்பு வளையம் போல இருக்கின்றார்கள். இப்படி நவாக்கிரி சக்கரத்தை சூழ்ந்து பாதுகாப்பு வளையமாக இருக்கின்ற அறுபத்து நான்கு சக்திகளும் தமது இரண்டு கைகளிலும் வில்லும் அம்பும் ஏந்திக் கொண்டு இருக்கின்றார்கள்.`,
   },
@@ -10055,6 +10381,7 @@ Like the choicest pearl, and of crimson-hued form,
 And on lotus petals seated,
 There She is,
 For those who on the Chakra meditate.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/02/Song-1372-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Sakti is seated on lotus petals. bedecked in jewels of gold. wearing earrings and crown. and is dressed in fine apparel worked with the choicest pearls.`,
     elaborationTamil: `பாடல் #1371 இல் உள்ளபடி தங்களின் கரங்களில் ஆயுதங்களுடன் நவாக்கிரி சக்கரத்தை சூழ்ந்து கொண்டு இருக்கின்ற அறுபத்து நான்கு சக்திகளும் தங்க ஆபரணங்களோடும் வளைந்து சுருண்டு நீண்டு இருக்கும் தலை முடியே அவர்கள் உடுத்தி இருக்கும் ஆடையாகவும் அக்னிக் கனலே தங்களின் திரு மேனியாகவும் இருக்கின்றார்கள். இதை தமக்குள் கண்டு கொண்ட சாதகர்கள் அந்த அக்னிக் கனலாகிய உருவமானது ஆதியிலிருந்தே இருக்கின்ற இறைவனின் ஜோதி உருவத்தோடு சரிசமமாக கலந்து இருக்கும் இறைவியாகவே தமக்குள் இருக்கும் நவாக்கிரி சக்கரத்தின் நடுவில் ஜோதி வடிவில் வீற்றிருக்கின்றாள் என்பதை உணர்ந்து கொள்ள முடியும். இப்படி தமக்குள் வீற்றிருக்கின்ற இறைவியை உணர்ந்து கொள்ள முடிந்த சாதகர்களால் அவள் ஒருவளே தமக்குள் முழுவதும் சக்திமயங்களாக படர்ந்து இருக்கின்றாள் என்பதையும் அறிந்து கொள்ள முடியும்.`,
   },
@@ -10074,6 +10401,7 @@ She pervading all, showers Her Grace;
 You shall perceive enveloping sound (Nada) and light (Bindu);
 From within the Chakras She rises
 And blesses you.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/02/Song-1373-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1372 இல் உள்ளபடி சாதகர் தமக்குள் வீற்றிருக்கின்ற இறைவியை உணர்ந்து கொண்ட பிறகு அவளையே மனதிற்குள் கண்டு கொண்டே தியானத்தில் வீற்று இருந்தால் இறைவியும் சாதகரோடு ஒன்றாக கலந்திருந்து அங்கிருந்தே சாதகருக்கு பேரருள் கருணையை வழங்குவாள். அதன் பிறகு சாதகருக்குள்ளிருந்து பூவைப் போல மென்மையாக மலர்ந்து எழுகின்ற இறைவனது அம்சமாகிய சத்தத்தையும் இறைவியது அம்சமாகிய வெளிச்சத்தையும் உருவாக்கி அவர் காணும் படி அருளுவாள். அதன் பிறகு அந்த வெளிச்சமும் சத்தமும் சாதகத்திற்கு ஏற்றவாறு இணங்கி சாதகருக்குள்ளிருந்து எழுகின்ற நவாக்கிரி சக்கரத்தோடு சேர்ந்து செயல்படும்படி இறைவி அருளுவாள்.`,
   },
   {
@@ -10092,6 +10420,7 @@ That leads you to the Way Great;
 She grants you Tattva Jnana
 Through the Guru Way,
 Having sundered your birth's reckoning.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/02/Song-1374-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1373 இல் உள்ளபடி இறைவி அருளால் சாதகருக்குள்ளிருந்து மலர்ந்து எழுகின்ற சத்தமும் வெளிச்சமும் சாதகருக்கான வழியாக இருந்து இறைவனை அடைவதற்கு வேண்டிய தத்துவ ஞானத்தை கொடுக்கின்றாள். அவளே குருவாக வீற்றிருந்து சாதகருக்குள் இருக்கும் தன்மைகளுக்கு ஏற்றபடியே நின்று காட்டி அருளுகின்றாள். அதன் பிறகு சாதகரின் முதல் பிறவியில் இருந்தே தொடர்ந்து வரும் கரு வழியாகிய பிறவிகளுக்கும் இனிமேல் எடுக்க வேண்டிய பிறவிகளுக்கும் காரணமாகிய கர்ம கணக்குகளை நீக்கி முக்தி அடைவதற்கான பெரிய வழியாக இருக்கின்ற இறைவனின் பேரொளி உருவத்தை காணும் படி செய்து அருள்வாள்.`,
   },
   {
@@ -10109,6 +10438,7 @@ The Luminous One, the dazzling Light,
 In soft radiance, Sakti emits Her brilliance divine;
 She is of the dark-golden hue of clouds,
 She stood as light through world entire.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/03/Song-1375-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1374 இல் உள்ளபடி முக்தி அடைவதற்கான பெரிய வழியாக இருக்கின்ற இறைவனின் பேரொளி உருவமானது சாதகருக்குள் இருக்கும் சகஸ்ரதள தாமரை மலரின் நடுவில் சீரும் சிறப்பும் பொருந்திய பேரொளியாக திகழ்கின்ற நிலையைத் தருகின்ற தலைவியாகிய இறைவியே சகஸ்ரதளத்தில் இருக்கும் தாமரை மலரின் ஒளியாக இருக்கின்றாள். அவளுடைய திருமேனியானது தங்கம் போல பிரகாசமாக ஜொலிக்கின்றது. அவளே உலகத்திற்கு ஒளி தருபவளாக எங்கும் பரவி விரிந்து நிற்கின்றாள்.`,
   },
   {
@@ -10126,6 +10456,7 @@ The spreading hands two held lotus blooms,
 The blessing hands two in tender grace gestured,
 The lovely breasts two were in pearl and coral decked
 The comely garments in pure gems interlaced.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/03/Song-1376-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1375 இல் உள்ளபடி உலகம் எங்கும் பரந்து விரிந்து இருக்கும் இறைவியின் திருக் கரங்கள் இரண்டிலும் தாமரை மலர்களை ஏந்திக் கொண்டு இருக்கின்றாள். மலரின் மொக்கு பொல குவிந்து இருக்கின்ற அவளுடைய திருக் கரங்கள் இரண்டும் அப்போது பறித்த மலர்களைப் போல மிகப் பெரும் அழகு பொருந்தி இருக்கின்றாள். மலர்ந்த மலர்களால் ஆன மாலையை அணிந்து இருக்கும் அவளுடைய திரு மார்புகளில் முத்துக்களால் ஆன மாலையில் பவளத்தை பதிந்து அணிந்து இருக்கின்றாள். அவளது திரு இடைக்கு கீழே இருக்கின்ற ஆடையில் நவரத்தின மணிகளைப் பதித்து வைத்த பேரழகுடன் நினைத்த அந்த கணமே தோன்றுகிறாள்.`,
   },
   {
@@ -10147,6 +10478,7 @@ In the hearts of those in meekness pray
 She appears as Divine Grace,
 She grants Liberation
 To those in devotion seek Her.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/03/Song-1377-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1376 இல் உள்ளபடி தனது ஆடையில் நவரத்தின மணிகளைப் பதித்து வைத்த பேரழகுடன் நினைத்த அந்த கணமே தோன்றுகின்ற இறைவியானவள் தனது தலையில் நவரத்தினக் கற்களால் ஆன கிரீடத்தை அணிந்து கொண்டும் தனது திருவடிகளில் சிலம்புகளை அணிந்து கொண்டும் சாதகர்களின் நிலைகளுக்கு ஏற்ப அருளுகின்ற என்றும் இளமையுடன் இறைவி இருக்கின்றாள். அவளை தமது மனதிற்குள் பதிய வைக்கின்ற சாதகரைத் தவிர வேறு யாருக்கும் அவளது திருவருள் அவ்வளவு எளிதில் கிடைப்பது இல்லை. இறைவியின் தூய்மையான அன்பில் நிறைந்து இருக்கின்ற சாதகரின் நெஞ்சத்திற்கு உள்ளே நினைக்கின்ற அனைத்தும் இறைவியின் திருவருளாகவே ஆகிவிடும். அப்படி தனது மனதிற்குள் பதிய வைத்த இறைவியின் திருவடிகளை பணிந்து தொழுகின்ற சாதகர்களுக்கு அவர்கள் பணிந்த அன்றே முக்தியை அடையும் வழியாக இறைவி இருப்பாள்.`,
   },
   {
@@ -10165,6 +10497,7 @@ The Virgins eight in concealment around Her,
 She bears lotus blossoms in hands both;
 The Holy Ones in devotion meditate on Her;
 --She the treasure of Mantra Srim.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/03/Song-1378-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `அனைத்திலும் பரந்து விரிந்து இருக்கின்ற இறைவியானவள் சாதகருக்கு உள்ளிருந்து அவரது மும்மலங்களையும் அறுக்கின்ற சக்தியாக இருக்கின்றாள். பாடல் #1371 இல் உள்ளபடி அவளது அருளை வாங்கிக் கொடுக்கின்ற அறுபத்து நான்கு சக்திகளும் சாதகர் இருக்கின்ற நிலையில் அவரைச் சுற்றி இருந்து பாடல் #1376 இல் உள்ளபடி மலர்ந்து இருக்கின்ற தங்களின் இரண்டு கைகளிலும் தாமரை மலர்களை பல விதங்களில் ஏந்திக் கொண்டு இருக்கின்றார்கள். இவர்களின் அருளால் தாம் செய்யும் சாதகத்தை சிறப்பாக செய்கின்ற சாதகர்கள் போற்றி வணங்குகின்ற நவாக்கிரி சக்கரத்தில் உள்ள ‘ஶ்ரீம்’ எனும் பீஜ மந்திரத்தின் பலனாகவே இறைவி இருக்கின்றாள்.`,
   },
   {
@@ -10184,6 +10517,7 @@ The burden of your worldly cares drops,
 Your thoughts soar high,
 Your heart, Sun's brilliance attains,
 --This the message of Chakra True.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/03/Song-1379-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `If you contemplate on Srim Sakti,.the burden of worldly cares drops. Then your thoughts soar high and the heart attains the brilliance of the sun. This is the message of this Chakra. Here, the number of letters becomes 52`,
     elaborationTamil: `பாடல் #1378 இல் உள்ளபடி நவாக்கிரி சக்கரத்தோடு ஒன்றாக இணைந்து இருந்து அதிலுள்ள பீஜ மந்திரங்களின் பலனை அளிக்கின்ற சக்தியாகிய இறைவியை மட்டுமே நினைத்து கொண்டு மனதில் இருக்கின்ற மற்ற எண்ணங்களை எல்லாம் வெளியில் சென்று விடும்படி செய்து எண்ணங்கள் அற்ற நிலையில் ஒரு வருடம் தியானத்தில் இருந்தால் பிறவிக்கு பாரமான அனைத்தும் சாதகரை விட்டு நீங்கிவிடும். அதன் பிறகு இறைவியையே எண்ணி தியானித்து இருந்த சாதகருடைய நெஞ்சத்தில் இருக்கின்ற மாயையாகிய இருளை நீக்கி விடும் சூரியனைப் போல பேரொளியுடன் இறைவன் வந்து தமது திருவடியை வைத்து அருளுவார். நவாக்கிரி சக்கரத்தின் தன்மை இதுவே ஆகும்.`,
   },
@@ -10202,6 +10536,7 @@ The full flower that in Muladhara arose
 Blossoms into Light Effulgent
 Pervading adharas all
 The Red Flame reached the Sphere of Fire.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/03/Song-1380-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Srim is the flower that arises in muladhara and blossoms into effulgent light and pervades all the adharas.`,
     elaborationTamil: `நவாக்கிரி சக்கரத்தின் சாதகத்தில் முழுமை பெற்ற சாதகரின் மூலாதாரத்திலிருந்து மேலே எழுந்து வருகின்ற முழுமை பெற்ற ஜோதி வடிவான சக்தியானது சாதகரிடமிருந்து வெளிப்பட்டு வரும் போது மிகப் பெரும் ஒளியாக விரிந்து நவாக்கிரி சக்கரத்தின் சக்தியே பேரொளியான மலராக மாறுகின்றது. அப்போது அது சென்று பரவுகின்ற அனைத்து இடத்திலும் பரிபூரணமாக முழுவதுமாக நிறைகின்றது. அதன் பிறகு பேரொளியான மலரில் பரிபூரணமான இந்த சக்தியானது அனைத்து உயிர்களும் சென்று சேருகின்ற நன்மை செய்கின்ற நெருப்பு மண்டலமாகவே ஆகி விடுகின்றது. கருத்து: நவாக்கிரி சக்கர சாதகத்தில் முழுமை பெற்ற சாதகரிடமிருந்து வெளிவரும் ஜோதி வடிவமான சக்தியானது அண்ட சராசரங்களுக்கும் பரவுகின்ற பேரொளியான மலராக விரிகின்றது. அப்படி விரிந்த மலருக்குள் இருக்கும் சக்தியானது மகரந்தத்தால் வண்டுகளை ஈர்ப்பது போல தனக்குள் இருக்கும் சக்தியால் உயிர்களை ஈர்த்து நன்மை செய்கின்ற நெருப்பு மண்டலமாக இருக்கின்றது.`,
   },
@@ -10220,6 +10555,7 @@ There in the Sphere of Fire She sat;
 There She appears in forms fifty and six;
 There She is visioned by Saktis fifty and six;
 There She is by Saktis fifty and six surrounded.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/03/Song-1381-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Hrim Sakti surrounded by 56 minor Saktis appears in the sphere of the fire (svadhistana).`,
     elaborationTamil: `பாடல் #1380 இல் உள்ளபடி தனக்குள் இருக்கும் சக்தியால் உயிர்களை ஈர்த்து நன்மை செய்கின்ற நெருப்பு மண்டலத்திற்கு உள்ளே நடுவில் வீற்றிருக்கின்ற இறைவியானவள் அவளே தனி ஒருவளாகவும் தலைவியாகவும் அந்த நெருப்பு மண்டலமாகவும் இருக்கின்றாள். பாடல் #1371 இல் உள்ளபடி இறைவியின் அம்சமாக எட்டு வகையாகவும் வகைக்கு எட்டு பேராகவும் மொத்தம் அறுபத்து நான்கு சக்திகள் இருக்கின்றார்கள். எட்டு வகையாக இருக்கின்ற சக்திகளில் வகைக்கு ஒருவராக மொத்தம் எட்டு சக்திகளும் இறைவியோடு சேர்ந்திருக்க மீதமுள்ள ஐம்பத்து ஆறு சக்திகளும் இறைவிக்கு இணையான அருளைத் தருபவர்களாக அவளைச் சூழ்ந்து கொண்டு இருக்கின்றார்கள்.`,
   },
@@ -10239,6 +10575,7 @@ From Jewelled Crown to Feet
 Lustrous unto pearls She wears Her Form,
 The two pendant hands hold parrot and Jnana Mudra,
 The two upraised hands bear noose and goad.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/03/Song-1382-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1381 இல் உள்ளபடி ஐம்பத்தாறு சக்திகளும் சூழ்ந்து நிற்க நடுவில் அமர்ந்து இருக்கின்ற இறைவியானவள் மேலெழுந்து பரவுகின்ற மாபெரும் ஜோதி வடிவில் ஜோதியின் சுடரே தனது தலையாகவும் ஜோதியின் அடிப்பாகமே தனது திருவடிகளாகவும் கொண்டு இருக்கின்றாள். ஜோதியின் நடுப்புறப் பகுதியே அணிகலனாகிய முத்துக்கள் போலவும் பேரழகு கொண்ட திருமேனியாகவும் கொண்டு இருக்கின்றாள். அவள் தனது இரண்டு திருக்கரங்களிலும் மலர்கொத்தின் மீது அமர்ந்திருக்கும் கிளியையும் உண்மையான ஞானத்தைக் கொடுக்கும் சின் முத்திரையையும் தாங்கி இருக்கின்றாள். மேல் புறமாக ஏந்தி இருக்கின்ற தனது இரண்டு திருக்கரங்களில் ஆணவத்தை அழிக்கின்ற அங்குசத்தையும் பாசத்தை அறுக்கின்ற கயிறையும் வைத்து இருக்கின்றாள்.`,
   },
   {
@@ -10256,6 +10593,7 @@ Sever your Pasa's roots,
 Adore Her in your heart's recesses,
 All evil will leave you;
 In five years you shall Siva be.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/03/Song-1383-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1382 இல் உள்ளபடி இறைவியானவள் தனது திருக்கரங்களில் ஏந்தி இருக்கும் பாசம் என்கிற கயிறாக இருக்கின்ற உலகப் பற்றுக்கள் எனும் ஆசையை வேரோடு அறுத்து எறிந்து விட்டு உண்மையான அன்பையே சிவமாக நினைத்துக் கொண்டு சாதகர் தமக்கு உள்ளே சிவமான அன்பையே வைத்து தியானித்து இருக்க வேண்டும். அப்படி தியானித்து இருந்தால் ஐந்து ஆண்டுகளில் தீமையானது என்று உலகத்தில் இருக்கின்ற அனைத்தும் சாதகரை விட்டு விலகி விடும். அதன் பிறகு பூமிக்கு மேலாக அமர்ந்திருக்கின்ற சாதகர் ஞானக் கண்ணை நெற்றியில் வைத்திருக்கும் சிவபெருமானாகவே ஆகிவிடுவார்.`,
   },
   {
@@ -10274,6 +10612,7 @@ And if your chant in order done,
 The Heavenly light will appear,
 In that Chakra of the lordly Sakti
 Where Mantra Hrim invoked is.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/03/Song-1384-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1383 இல் உள்ளபடி தனது நெற்றியில் ஞானக் கண்ணை உடைய இறைவியானவளின் திருவருளால் அருளிய வழியின் படியே நடந்து இசைகளிலே உயர்வான நாதமாகிய இறைவனை அடைவதற்கு தடையாக இருக்கின்ற அகங்கார எண்ணங்கள் இல்லாமல் தமக்குள் வைத்து இருந்தால் விண்ணுலகத்தில் வீற்றிருக்கும் பேரொளியான இறைவன் தமக்குள் வீற்றிருக்கும் படி சாதகர் வைத்து ‘ஹ்ரீம்’ எனும் பீஜத்திலேயே தியானித்து இருந்தால் பூமியை உடையவளாகிய இறைவியின் சக்தி மண்டலமாகவே சாதகரைச் சுற்றி இருக்கும்.`,
   },
   {
@@ -10292,6 +10631,7 @@ Vision it and on it meditate;
 The Sakti as the light within will appear;
 Verily is She the support of Sushumna,
 Adharas and the rest within.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/03/Song-1385-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1384 இல் உள்ளபடி சாதகரைச் சுற்றி இருக்கின்ற சக்தி மண்டலத்தின் உள்ளிருந்து மலர் போல விரிந்து எழுகின்ற ஜோதியை தரிசித்து அதைத் தமக்கு உள்ளே வைத்து அந்த ஜோதியும் தானும் வேறு வேறு இல்லை எனும் எண்ணத்திலேயே தியானத்தில் வீற்றிருந்தால் பரந்து விரிந்து இருக்கின்ற ஆகாயத்தில் இருக்கின்ற அனைத்து தத்துவங்களையும் தமக்கு உள்ளேயே தெளிவாகப் புரிந்து கொள்ளும் படி கிடைக்கப் பெறும். அதன் பிறகு சாதகரின் உடலுக்கு நடுவில் இருக்கின்ற சுழுமுனை நாடியின் அடியிலிருந்து உச்சி வரை இருக்கின்ற இடத்திற்கு உள்ளேயே பரந்து விரிந்து இருக்கின்ற ஆகாயத்தில் இருக்கின்ற அனைத்தையும் தாங்கிக் கொண்டு வீற்றிருக்கின்ற இயல்பை சாதகர் அடைந்து விடுவார்.`,
   },
   {
@@ -10311,6 +10651,7 @@ Immanent She is, the Aim Sakti;
 Meditate,
 And there in Nada you firm shall be
 Your birth-cycle its end shall see.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/03/Song-1386-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `In the sphere of the navel centre (manipuraka) Aim Sakti abides immanent and all-pervasive.`,
     elaborationTamil: `பாடல் #1385 இல் உள்ளபடி பரந்து விரிந்து இருக்கின்ற ஆகாயத்தில் இருக்கின்ற அனைத்தையும் தமக்குள்ளே தாங்கி இருக்கின்ற சாதகரின் தொப்புள் கொடியிலிருக்கும் மணிப்பூரகச் சக்கரத்தின் தாமரை மலர் போன்ற மண்டலத்தில் இருந்து வேகமாக மேலே எழுந்து வரும் நவாக்கிரி சக்கரத்தின் கலைக்கு உள்ளே இருக்கின்ற உணர்வு வடிவமாக இருக்கின்ற இறைவியானவளை இனி வருகின்ற பிறவிகள் நீங்கி எப்போது சென்று அடைவோமோ என்று ஏங்கி இருந்து இனிமேல் வருகின்ற பிறப்புகளை எல்லாம் இறைவியையே எண்ணி இருந்து அறுத்து விட வேண்டும். அதன் பிறகு பாடல் #1383 இல் உள்ளபடி சாதகர் தமக்குள் பேரன்பின் உருவமாக வைத்திருந்த நாத வடிவான இறைவன் மிகவும் வலிமையுடன் வீற்றிருப்பார்.`,
   },
@@ -10331,6 +10672,7 @@ She is Queen of Songs,
 She is milk-hued,
 She is Queen of Jiva,
 There was She seated in Navel Center.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/03/Song-1387-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `நாக்கிற்கு தலைவியான இறைவி நல்ல நவரத்தினங்களை பதித்து இருக்கும் மாலையை அணிந்து இருக்கின்றாள். மலர் வடிவான சக்கரத்திற்கு தலைவியான இறைவி தலை முடியிலிருந்து கீழ் வரை தங்கம் போல் தகதகக்கும் ஆடையை அணிந்து இருக்கின்றாள். பாடல்களுக்கு தலைவியான இறைவி பாலைப் போன்ற வெண்மையான நிறம் கொண்டு இருக்கின்றாள். ஆன்மாவிற்கு தலைவியான அவளே சாதகரின் ஆன்மாவோடு அங்கேயே வீற்றிருக்கின்றாள். உட் கருத்து: நவாக்கிரி சக்கரத்தில் இருக்கின்ற பீஜ மந்திரங்களை சொல்லும் சாதகரின் வாக்கிற்கு தலைவியான இறைவி நன்மையைக் கொடுக்கும் பிரகாசத்தினால் ஈர்க்கின்ற தேஜஸை கொண்டு விளங்குகின்றாள். மலர் போல மென்மையான சக்கரத்திற்கு தலைவியான இறைவி சாதகருக்கு உள்ளிருந்து பிரகாசமாக தலை முடியிலிருந்து கீழ் வரை சூரியக் கதிர்களைப் போல பிரகாசமாக வெளிப்பட்டு வருவாள். நவாக்கிரி சக்கரத்தில் இருக்கின்ற மந்திரத்தின் தலைவியான இறைவி சாதகரின் சாதகத் தன்மைக்கு ஏற்ற விதத்தில் அருளுபவளாக இருக்கின்றாள். ஆன்மாவிற்கு தலைவியான அவளே சாதகரின் ஆன்மாவோடு அங்கேயே வீற்றிருக்கின்றாள்.`,
   },
   {
@@ -10352,6 +10694,7 @@ They who reach Her
 By the Way to Hall of Dance,
 Verily behold
 The Primal Cause of all.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/03/Song-1388-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `ஆதியில் உயிர்களைப் படைக்கும் போதே தனது இரண்டு திருக்கரங்களாலும் அவரவர்களின் வினைகளுக்கு ஏற்ற முறைப்படி இன்பமும் துன்பமுமாகிய போகங்களை அளந்து கொடுத்து உயிர்கள் அதை அனுபவிக்க அருளினாள். இப்போது நவாக்கிரி சக்கர சாதகத்தை செய்யும் சாதகர்களுக்கு தனது இரண்டு திருக்கரங்களாலும் சாதகரிடமிருந்து மாயை முதலிய மல அழுக்குகளை நீக்கி தூய்மையாக்கி பேரறிவு ஞானத்தைக் கொடுத்து கமண்டலத்திலிருக்கும் நீரினால் பாவங்களை நீக்கி இனிமேல் வரும் பிறவிகளையும் அழித்து அருளுகின்றாள். இறைவன் ஆடுகின்ற அம்பலத்தை தனக்குள்ளே தரிசிக்கும் வழியாகவே இவைகளை இறைவி அருளுகின்றாள் என்பதை சாதகர் கண்டு கொண்டு அதையே எண்ணிக்கொண்டு தியானத்தில் இருந்து தாம் இறைவனை அடைவதற்கு நவாக்கிரி சக்கரத்தில் இருக்கின்ற இறைவியே காரணமாக இருக்கின்றாள் என்பதை தமக்குள் கண்டு அறிந்து கொள்வார்.`,
   },
   {
@@ -10370,6 +10713,7 @@ The Causal Virgins arr they
 She the Primal Causal Sakti of all,
 In the Chakra immanent stood;
 She the Primal Cause as Grace stood.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/03/Song-1389-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1388 இல் உள்ளபடி சாதகர் தமது மலங்களும் கர்மங்களும் நீங்கி இறைவனை அடைவதற்கு காரணமாக இருக்கின்ற சக்திகளானது மொத்தம் ஐம்பத்து இரண்டு பேர்களாக பிரிந்து இருக்கின்றனர். இந்த சக்திகள் என்றும் இளமையுடன் சிறிதும் அருளில் குறைவின்றி ஐம்பத்து இரண்டு பேர்களாக இருக்கின்றனர். இவர்கள் அனைவரும் நவாக்கிரி சக்கரத்திற்கு உள்ளேயே நின்று சாதகரின் மும்மலங்களாகிய அழுக்குகளையும் இனி வரும் பிறவிகளுக்கு காரணமாக இருக்கின்ற கர்மங்களையும் முழுவதுமாக நீக்கி இறைவியிடமே சேர்த்து விடுகின்றனர். சாதகர் இறைவனை அடைவதற்கு காரணமாக இருக்கின்ற இறைவியே தனது பேரருளால் இந்த ஐம்பத்து இரண்டு சக்திகளும் ஒன்றாக ஆகி நிற்கின்றாள்.`,
   },
   {
@@ -10390,6 +10734,7 @@ This Flame shall in you merge;
 If steadfast in devotion you stand,
 You shall vision the Ruby
 That dances in the Hall of Spaces Vast.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/04/Song-1390-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Worship Aim Sakti with intense devotion steadfastness. Then you will vision the Ruby I that dances in the divine hail of vast spaces.`,
     elaborationTamil: `பாடல் #1389 இல் உள்ளபடி ஐம்பத்து இருவரும் ஒன்றாக ஆகி நிற்கின்ற இந்த இறைவியானவள் சாதகருக்குள் நிலையாக உறுதியுடன் ஒரு வருடம் நின்று விட்டால் சாதகர் தமக்குள் தரிசித்த இந்த அக்னி வடிவான இறைவியோடு சாதகருக்குள் இருக்கும் நவாக்கிரி சக்கரமும் கலந்து விடும். அதன் பிறகும் தாம் எடுத்துக் கொண்ட நவாக்கிரி சக்கர சாதகத்தை சாதகர் ஒரு குறையும் இல்லாமல் தொடர்ந்து செய்து வந்தால் அவருக்குள் இருக்கும் அம்பலத்தில் ஒன்றாக ஆடுகின்ற பாடல் #383 இல் உள்ளபடி வைரக் கல்லாகிய இறைவனையும் அதன் ஒளியாகிய சக்தியையும் தரிசிக்கலாம்.`,
   },
@@ -10409,6 +10754,7 @@ That Sakti you visioned in Heart's lotus
 This (Gaum) the Queen of Tattvas all,
 This day, She, in my thoughts, is sweet seated
 That my life's enemy--Death--destroyed be.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/04/Song-1391-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Gaum (Tattva. Nayaki) Sakti is seated in the hear. centre—anahatha. She resides in the thought of Her devotees, dispelling death, that is life’s enemy.`,
     elaborationTamil: `பாடல் #1390 இல் உள்ளபடி சாதகர் தமக்குள் தரிசித்த இந்த இறைவியானவள் சாதகரின் இதயத் தாமரையை தனது இருப்பிடமாக கொண்டு வீற்றிருப்பாள். அப்படி அவள் வீற்றிருக்கும் முறைக்கு வேண்டிய அனைத்து தத்துவங்களுக்கும் அவளே தலைவியாக ஆகின்றாள். அவளை எண்ணிக் கொண்டே இருந்து ஆதியிலிருந்தே உயிர்களைத் தொடர்ந்து வருகின்ற மனமாகிய எண்ணங்களை சாதகர் தம்மிடமிருந்து முழுவதுமாக நீக்கி விட்டால் அது முழுவதுமாக நீங்கிய அன்றே சாதகரின் எண்ணங்கள் இல்லாத மனதிற்குள் இறைவியானவள் இன்பமுடன் வீற்றிருப்பாள்.`,
   },
@@ -10428,6 +10774,7 @@ Appeared with hands eight;
 Holding flower, parrot, noose, battle-axe and sword;
 The shield, bow and the arrow too--
 She danced in rapture divine.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/04/Song-1392-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1391 இல் உள்ளபடி சாதகரின் எண்ணங்கள் இல்லாத மனதிற்குள் இன்பமுடன் இருந்த இந்த இறைவியானவள் தனது எட்டு திருக்கரங்களிலும் 1. பரந்து விரிந்து இருக்கும் இந்த பூமித் தாமரையையும், 2. ஆன்மாவாகிய கிளியையும், 3. பாசமாகிய கயிறையும், 4. அந்த பாசத்தை அறுக்கின்ற மழுவையும், 5. உலகத்தை சார்ந்து இருக்கின்ற உணவு, நீர், காற்று ஆகிய பகைகளை அழிக்கின்ற வாளையும், 6. காக்கின்ற கேடயத்தையும், 7. அதனுடன் சேர்ந்து இனி வரும் பிறவிகளை அழிக்கின்ற வில்லையும், 8. அம்பையும் ஏந்திக் கொண்டு சாதகருக்குள் முழுவதும் பரவி அவருக்குள்ளேயே வீற்றிருந்து சாதகரின் அனைத்து கர்மங்களையும் அழிக்கின்ற தாண்டவத்தை விருப்பமுடன் ஆடுகின்றாள்.`,
   },
   {
@@ -10448,6 +10795,7 @@ Dressed in richly silks,
 The rising breasts in gem-laid corset contained,
 There She was in glory,
 Her Form green-hued.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/04/Song-1393-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1392 இல் உள்ளபடி சாதகருக்குள் விருப்பமுடன் வீற்றிருக்கும் இறைவியானவள் தங்க நிறத்தில் சூரியக் கதிர்களைப் போல ஒளி வீசுகின்ற தலை முடியிலிருந்து அடிவரை நிறைந்தும் முத்துக்களும் பவளங்களும் பதித்து பரந்து விரிந்து இருக்கின்ற மாலையையும் மிக உன்னதமான பட்டால் ஆகிய ஆடையையும் சாத்திக் கொண்டு இருக்கின்றாள். அவளுடைய மலர் போல மலர்ந்து எழுந்து இருக்கும் திருமார்பகங்களின் மீது நவரத்தினக் கற்கள் பதிக்கப்பட்ட மார்புக் கச்சையை அணிந்து கொண்டு இருக்கின்றாள். இவ்வாறெல்லாம் அலங்கரித்துக் கொண்டு பேரழகோடு சாதகருக்குள் வீற்றிருக்கின்ற இறைவியே பசுமையாக இருக்கின்றாள்.`,
   },
   {
@@ -10468,6 +10816,7 @@ Her breasts are in corset contained,
 Her hands pendant in blessing gesture,
 Thus the Sweet One appears,
 She of waist slender.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/04/Song-1394-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Gaum Sakti is surrounded by 48 minor Saktis and eight vestal virgins.
 
 Here, the letters are given as 48 (or 56) in number.`,
@@ -10489,6 +10838,7 @@ Course your breath to unite in Her in Anahatha
 And in devotion true the adhara above ascend,
 You shall into the heaven within rise,
 That is milky white pure (Solar Sphere).`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/04/Song-1395-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Course the kundalini fire that rises in the muladhara to unite in Her in anahata with true devotion. Then you shall rise into the heaven within that is pure milky white.`,
     elaborationTamil: `பாடல் #1394 இல் உள்ளபடி சாதகருக்குள் வீற்றிருக்கின்ற இறைவியின் திருவடிகளுக்கு உள்ளேயே பிரகாசமாக இல்லாமல் மங்கி இருக்கும் ஜோதியை மூச்சுக் காற்றோடு கலந்து ‘கௌம்’ மற்றும் ‘ஐம்’ எனும் பீஜ மந்திரங்களை அதோடு சேர்த்து ஜெபித்துக் கொண்டு காக்கின்ற தெய்வமாக அந்த ஜோதியை எண்ணி தியானம் செய்தால் பசுவின் உடல் முழுவதும் உள்ள இரத்தமே பாலாக மாறுவது போல சாதகர்களின் உடல் முழுவதும் பரந்து இருக்கும் ஜோதியானது சாதகரின் உடலுக்குள்ளிருந்து மேலெழுந்து வந்து ஆகாயத்திலும் பரந்து விரிந்து கொண்டே இருக்கும்.`,
   },
@@ -10508,6 +10858,7 @@ Between Centers, navel and heart,
 Is the Koopa (Krim) Sakti seated;
 There in the fiery Sphere of Sun;
 Unto the cool waters of a well was She.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/04/Song-1396-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `In the spheré between the navel and heart centres is seated Koopa (Krim) Sakti in the ‘sun’ sphere.`,
     elaborationTamil: `பாடல் #1395 இல் உள்ளபடி ஆகாயத்தில் பரந்து விரிந்து இருக்கும் ஜோதியானது சாதகரின் உடலுக்குள் இருக்கின்ற தொப்புள் குழிக்கும் இதயத்திற்கும் இடைப்பட்ட இடத்தில் இருக்கின்ற சூட்சுமத் துளையில் அமர்ந்து இருக்கின்ற கிணறோடு கலந்து ஒன்றாகி வரும்போது பாடல் #1395 இல் உள்ளபடி சாதகர் ஜெபித்துக் கொண்டு இருக்கும் பீஜ மந்திரங்களில் வீற்றிருந்து அந்த இடமே சூரிய மண்டலமாக ஆகிவிடும். அதன் பிறகு ஜோதியின் அருள் நிரம்புகின்ற அந்த சூட்சுமத் துளையான கிணற்றில் அருள் முழுவதும் செழுமை பெற்று இருப்பதை காணலாம்.`,
   },
@@ -10527,6 +10878,7 @@ Has benignant faces ten;
 There in Sun's Sphere She gently appears;
 She assumes protecting hands four times five,
 And to sunder Pasa holds the Trident.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/04/Song-1397-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `The Sakti thus seated has twin benignant faces. She has 20 protective hands, and with the trident She sunders pasas.`,
     elaborationTamil: `பாடல் #1396 இல் உள்ளபடி சாதகரின் தொப்புள் குழிக்கும் இதயத்திற்கும் இடைப்பட்ட இடத்தில் இருக்கின்ற சூட்சுமத் துளையான கிணற்றில் வீற்றிருக்கும் இறைவிக்கு குளிர்ச்சியான அருளை வழங்கும் திருமுகங்கள் பத்து விதமாக இருக்கின்றது. சாதகருக்குள்ளிருந்து எழுந்து வருகின்ற உணர்வுகளால் மனம் சஞ்சலம் அடையாதபடி அந்த பத்து திருமுகங்களின் அருளால் இறைவியானவள் வேகத்தை தடுத்துக் குறைத்து தயங்கி வரும்படி அருளுகின்றாள். அந்த உணர்வுகளால் வருகின்ற ஆபத்துகளில் இருந்து சாதகரை காப்பாற்றி அருளுவதற்கு பல விதமான ஆயுதங்களை ஏந்திக் கொண்டு இருக்கும் தனது இருபது திருக்கரங்களை சாதகருக்குள் கொடுத்து சாதகருக்கும் அந்த உணர்வுகளுக்குமான பந்தத்தை அறுக்கும் படி பரந்து விரிந்து சாதகரை சுற்றி அருளுகிறாள். இறைவி தனது பத்து திருமுகங்களாலும் தடுத்து அருளுகின்ற பத்து விதமான மன சஞ்சலங்கள்: காமம் – சிற்றின்பம் குரோதம் – கோபம் உலோபம் – பேராசை, கருமித்தனம் மோகம் – மாயையால் நிகழும் மயக்க உணர்ச்சி மதம் – கொள்கை, செருக்கு, வெறி, மதுபானக் களிப்பு, பெருமை மாச்சரியம் – பொறாமை, பகைமை டம்பம் – ஆடம்பரம் தர்ப்பம் – ஆசைகள் அசூயை – பொறாமை ஈரிசை – பிறர் துன்பம் கண்டு மகிழ்வது`,
   },
@@ -10547,6 +10899,7 @@ The arrow, kettle-drum, parrot, the bow, these one side are;
 The bugle, flower, noose, battle-axe, knife, conch,
 The pendant hands in protecting gesture the other side are!
 --These meditate on.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/04/Song-1398-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1397 இல் உள்ளபடி தனது திருக்கரங்களை சாதகருக்குள் கொடுத்து சாதகருக்கும் உணர்வுகளுக்குமான பந்தத்தை அறுக்கும் படி பரந்து விரிந்து சாதகரை சுற்றி அருளுகின்ற இறைவியானவள் தனது இருபது திருக்கரங்களிலும் 1. திரிசூலமும் 2. தண்டாயுதமும் 3. கூர்மையான வாளும் 4. சுடர்வீசும் நெருப்பும் 5. பேரறிவு ஞானமும் 6. வேலாயுதமும் 7. கோரைப் புல்லும் 8. மானும் 9. கிளியும் 10. வில்லும் 11. கோலும் 12. அம்பும் 13. பாசக் கயிறும் 14. மழுவும் 15. கத்தியும் 16. தனது அழகிய வடிவத்தோடு சேர்ந்தே இருக்கின்ற சங்கும் 17 & 18. அபயம் கொடுக்கின்ற குவிந்த திருக்கரங்கள் இரண்டும் 19. மேல் நோக்கி முக்தியை குறிக்கின்ற விரலை நீட்டியும் 20. கீழ் நோக்கி சரணாகதியையும் குறிக்கின்ற விரலை நீட்டியும் இருக்கின்ற திருக்கரங்களை கொண்டு இருக்கின்றாள். இப்படி தம்மைச் சுற்றி பாதுகாப்பாக இருபது கரங்களில் இருபது விதமான ஆயுதங்களை ஏந்தி நிற்கும் இறைவியை சாதகர் எண்ணி தியானித்துக் கொண்டே இருக்க வேண்டும்.`,
   },
   {
@@ -10563,6 +10916,7 @@ eṇṇiya eṇṇam kaṭantuniṉ ṟāḷē`,
 Four and Forty are Saktis surrounding Her
 Four and Forty Saktis that meditate on Her
 She is seated within the lotus`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/04/Song-1399-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1398 இல் உள்ளபடி தன்னைச் சுற்றி பாதுகாப்பாக இருக்கின்ற இறைவியையே எண்ணி தியானத்தில் இருக்கின்ற சாதகரின் எண்ணத்தில் அமர்ந்து இருக்கின்ற சக்திகள் மொத்தம் நாற்பத்து நான்கு பேர்களாக இருக்கின்றார்கள். இவர்கள் நாற்பத்து நான்கு பேரும் சாதகரின் கழுத்திலிருந்து அடிவயிறு வரை உள்ள விசுக்தி [பதினாறு இதழ்கள்], அநாகதம் [பன்னிரண்டு இதழ்கள்], மணிப்பூரகம் [பத்து இதழ்கள்], சுவாதிட்டானம் [ஆறு இதழ்கள்] ஆகிய நான்கு சக்கரங்களில் இருக்கின்ற மொத்தம் நாற்பத்து நான்கு இதழ்களுக்கு உள்ளே இருக்கின்றார்கள். இந்த நாற்பத்து நான்கு பேர்களின் சக்திகளாகவும் இறைவியே இருக்கின்றாள். சாதகரும் இந்த நாற்பத்து நான்கு சக்திகளும் எண்ணிக் கொண்டு இருக்கின்ற தியானத்தின் எண்ணங்கள் அனைத்தையும் தாண்டி இருக்கின்ற மாபெரும் சக்தியாக இறைவி நிற்கின்றாள்.`,
   },
   {
@@ -10583,6 +10937,7 @@ Her silken dress spreads below Her slender waist
 Her Feet hold the anklets
 Thus, adorned, as a girlish nymph,
 She stood before me.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/04/Song-1400-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Mantras 1400 & 1401
 
 Krim Sakti appears as a girl. With Her appearance arises anima and the rest of the occult powers. The Pasas are severed and the unique light of jnana in those who realize Her.`,
@@ -10604,6 +10959,7 @@ Anima, Mahima, and the rest of Occult powers arise;
 The Pasas that bind the ancient Jiva are sundered;
 And the unitive Light of Jnana dawns
 In those who realize Her.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/04/Song-1401-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1400 இல் உள்ளபடி சாதகருக்குள் இருக்கும் நவாக்கிரி சக்கரத்தில் வந்து நிற்கின்ற இறைவியானவள் பராசக்தியாக சாதகருக்குள் முழுவதும் நிறைந்து மிகவும் உயர்ந்த நிலையில் தமக்குள் செயல் படுவதை சாதகர் தரிசித்து தமக்குள் அவளை வைத்து வணங்கும் போது சாதகரின் உடலையே மொத்த சக்தி மயத்தின் உருவமான மேரு மலையாகக் கொண்டு அவள் செயல்படுகின்றாள். இப்படி சாதகருக்குள் செயல்படுகின்ற பராசக்தியான இறைவியே அவருக்குள் இருக்கும் ஒவ்வொரு அணுவிற்கும் ஆதியாகவும் அவருக்கு வெளியில் அண்ட சராசரத்தில் இருக்கின்ற அனைத்திற்கும் ஆதியாகவும் இருக்கின்றாள். அப்போது பேரொளி வடிவமாகிய இறைவியோடு ஜோதி வடிவமாகிய தனது ஆன்மாவும் ஒன்றாகச் சேர்ந்து இருப்பதை தமக்குள் உணர்ந்து கொண்ட சாதகர்களுக்கு அசையா சக்தியாகிய பரம்பொருளில் இருந்து முதன் முதலில் ஆசையினால் பிரிந்து வந்த சாதகரின் ஆன்மாவுக்கு உள்ளே இறைவனை விட்டு பிரிவதற்கு முழுமுதல் காரணமாகவும் ஆணி வேராகவும் இருக்கின்ற ஆசையை முழுவதுமாக அறுத்து மீண்டும் இறைவனோடு சேருவதற்கான வழியை உருவாக்கி அருளுகின்றாள் இறைவி.`,
   },
   {
@@ -10621,6 +10977,7 @@ The Sakti of the Sadasiva,
 Has faces five and hands ten,
 Of these, the downward looking face (Athomukha)
 Is divine far indeed.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/04/Song-1402-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Haum Sakti (Sadasiva Sakti) is in the visuddhi (throat) centre with five faces and ten hands.`,
     elaborationTamil: `பாடல் #1401 இல் உள்ளபடி இறைவியின் பேரொளியோடு ஒன்றாக சேர்ந்து இருக்கின்ற சாதகரின் ஆன்மாவிற்குள் இறைவியின் அருளால் உருவாகும் சக்தியின் அம்சமே இறைவனின் ஆறாவது முகமான அதோ முகமாக எப்போதும் நிலையாக இருக்கின்ற உன்னதமான இறை நிலை ஆகின்றது. சாதகர் தமக்குள் தரிசித்த இந்த இறைவியே அசையா சக்தியாகிய சதாசிவமூர்த்தியோடு அசையும் சக்தியாக எப்போதும் சேர்ந்தே இருக்கின்ற பராசக்தி ஆவாள். அவளுடைய அருளால் சாதகரும் இறை நிலைக்கு சரிசமமாகுவதற்கு எடுத்துக் கொண்ட முகங்கள் ஐந்து முகங்களாகவும் அதனோடு சேர்ந்து இயங்குகின்ற பத்து கரங்களாகவும் ஆகின்றார். கருத்து: அண்ட சராசரங்களை தனது ஆறாவது முகமான அதோமுகத்தால் தாங்கி இருக்கின்ற இறைவன் அதிலுள்ள அனைத்து உலகங்களிலும் ஐந்து விதமான தொழில்களைப் புரிவதற்கு ஐந்து விதமான முகங்களை கொண்டு இருக்கின்றார். இறைவனோடு ஒன்றாக கலப்பதற்கு சாதகரும் இதே நிலையை அடைய வேண்டும் என்று இறைவி சாதகருக்கு அதோமுகத்தில் உன்னதமான நிலையையும் ஐந்து முகங்களையும் பத்து கரங்களையும் கொடுத்து அருளுகின்றாள். ஐந்து முகங்களும் அதன் தொழில்களும்: சத்யோ சோதம் – படைத்தல் வாமதேவம் – காத்தல் அகோரம் – அழித்தல் தற்புருடம் – மறைத்தல் ஈசானம் – அருளல்`,
   },
@@ -10641,6 +10998,7 @@ The lotus that is lovely unto Her eyes,
 The kettle-drum that is held in Her hands
 The gem-set garland that adorns Her body,
 With these She worship receives.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/04/Song-1403-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1402 இல் உள்ளபடி நன்மையை அருளும் இறைவியின் பத்து திருக்கரங்களில் தூய்மையான ரத்தின மணிகளை பதித்த 1. திரிசூலமும் 2. மண்டையோடும் 3. கிளியும் 4. பலவிதமான ரத்தின மணிகளை பதித்த நாகமும் 5. கோடரியும் 6. கத்தியும் 7. பந்தும் ஆயுதமாகவும் 8. கல்லில் ரத்தின மணிகளை பதித்த தாமரை மலரும் 9. தமருகமும் 10. தங்கத்தில் ரத்தின மணிகளால் சேர்த்துப் பூட்டிய மாலையும் வைத்து இருக்கின்றாள். இப்படி இறைவியின் திருக்கரங்களில் இருக்கும் பத்து பொருட்களுமே இறைவிக்கு சரிசமமாக பூஜிக்கத் தகுந்தது ஆகும். குறிப்பு: முருகனின் வேலை வணங்குவது முருகப் பெருமானை வணங்குவதற்கு சமமாகக் கொள்ளப் படுவது போலவே இங்கே இறைவியின் திருக்கரங்களில் இருக்கின்ற பத்து பொருளையும் வணங்குதல் இறைவியை வணங்குவதற்கு சமமாகக் கொள்ளப் படுகிறது.`,
   },
   {
@@ -10659,6 +11017,7 @@ With forty Saktis the worship offering,
 With forty Virgins making the retinue
 The Beloved One is seated in the Chakra;
 And there in uninterrupted rapture, they are.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/04/Song-1404-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1403 இல் உள்ளபடி இறைவிக்கு சரிசமமாக பூஜிக்க தகுந்த பத்து பொருள்களையும் சூழ்ந்து இருக்கின்ற சக்திகள் நாற்பது பேரும் நேசிக்கின்ற இறைவி அவர்களுக்கு நடுவில் வீற்றிருக்கின்றாள். என்றும் இளமையுடன் இருக்கின்ற இந்த நாற்பது சக்திகளும் இறைவிக்கு சரிசமமாக அருளுபவர்களாக இருக்கின்றார்கள். பாடல் #1401 இல் உள்ளபடி இறைவியோடு ஒன்றாக சேர்ந்தே இருப்பதால் உலகமாகவே ஆகிவிட்ட சாதகரின் உடலுக்குள் இருக்கின்ற நவாக்கிரி சக்கரத்திற்கு உள்ளே வீற்றிருக்கும் இறைவியோடு இந்த நாற்பது பேரும் ஒன்றாகக் கலந்து அவளது அருளால் இறைவியையோ அல்லது அவளுக்கு சரிசமமாக இருக்கின்ற பத்து பொருள்களையோ வணங்குகின்ற உயிர்களின் கர்மங்களை தீர்க்கும் போது அதனால் எந்தவிதமான மாசும் வந்து சேர்ந்து விடாமலும் கர்ம வினைகளை தீர்த்து அதனால் உயிர்கள் இன்பம் பெறுவதைக் கண்டு மகிழ்ச்சியாகவும் இருக்கின்றார்கள்.`,
   },
   {
@@ -10677,6 +11036,7 @@ To rouse it and send it upward over adharas,
 Do center your mind on the root mantra (Aum)
 Your mind-force then lifts it up, heavenward,
 Like the clouds over terrestrial sphere.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/04/Song-1405-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `சாதகருக்குள் இருக்கும் சகஸ்ரதளத்தில் உள்ள ஆயிரம் இதழ் கொண்ட தாமரை மலரின் உள்ளே இருந்து சாதகம் செய்ய செய்ய மெதுவாக மேலெழுந்து வருகின்ற ஜோதியை சாதகர் இருக்கின்ற உலகத்தில் இருக்கின்ற உயிர்களுக்கு எல்லாம் பரந்து சென்று அவைகளுக்கு உள்ளே இருக்கின்ற ஜோதியோடு எழுந்திடும். இதற்கு ஆதாரமாக சாதகரின் உள்ளே சகஸ்ரதளத்தில் இருக்கின்ற ஜோதியும் அதனோடு ஒன்றாக சேர்ந்து நிற்கும் படி எண்ணிக் கொண்டே இருக்கின்ற சாதகரின் மன வலிமைக்கும் தியானத்திற்கும் ஏற்றபடி மேகங்களில் இருக்கின்ற நீர் மண்ணில் மழையாகப் பொழிந்து வெப்பத்தால் ஆவியாகி மீண்டும் மேகத்தோடு சேர்ந்து மழையாக பொழிவது போலவே சாதகருக்குள்ளிருக்கும் ஆதார ஜோதியானது உலகம் முழுவதும் பரந்து விரிந்து இருக்கின்ற உயிர்களோடும் கலந்து எழுந்து அனைவருக்கும் பயன் கொடுக்கும் ஜோதியாக விளங்குகின்றது.`,
   },
   {
@@ -10696,6 +11056,7 @@ Ascended upward
 And as Sivayanama to eye appeared;
 Invisible it is not to the naked eye;
 Visible it rose, for us to see.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/04/Song-1406-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1405 இல் உள்ளபடி சாதகருக்குள்ளிருந்து வெளிவந்து உலகம் முழுவதும் பரந்து எழுந்து இருக்கும் ஜோதியே ஓங்கார தத்துவத்தில் படைக்கும் தொழில் புரியும் அகாரமாகவும் காக்கும் தொழில் புரியும் உகாரமாகவும் செயல் படுகின்றது. அதுவே ஆகாயத்தில் எழுந்து வீற்றிருக்கும் போது இறைவனாகவே ‘சிவாயநம’ என்று வணங்குபவர்களுக்கு கிடைப்பதற்கு அரியதான அமைதியை அருளுகின்றதாகவும் இருக்கின்றது. இந்த ஜோதியை உருவமாக பார்ப்பது இயலாது என்ற காரணத்தால் உயிர்கள் தனக்குள் இறைவனாகவே வைத்து வணங்கும் போது சாதகரின் ஜோதியானது அவர்களின் ஆன்மாவிற்குள்ளேயே எழுந்து வந்து அருள் காட்சியை அருளவும் காரணமாக இருக்கின்றது. உட்கருத்து: இறை நிலையில் வீற்றிருக்கும் சாகதருக்குள் இருக்கும் ஜோதியானது உலகம் முழுவதும் இருக்கின்ற உயிர்களுக்குள் சென்று மாயை நீங்கி இறைவனை அடைய வேண்டும் என்ற எண்ணத்தை உருவாக்குவதே படைத்தல் தொழிலாகும். அவ்வாறு எண்ணிக் கொண்டு வணங்கும் உயிர்கள் மீண்டும் மாயையில் சிக்கிக் கொள்ளாமல் காத்து அருளுவதே காத்தல் தொழிலாகும். இந்த இரண்டு தொழில்களையும் இறை நிலையில் இருந்து சாதகர் செய்வதால் அவரது ஜோதியை இறைவனாகவே வணங்கும் உயிர்களுக்கும் ஜோதி தரிசனத்தையும் கிடைப்பதற்கு அரியதான அமைதியையும் வழங்கும் நிலையில் இருக்கின்றார்.`,
   },
   {
@@ -10716,6 +11077,7 @@ There She was, the ambrosial milk breasted;
 Her throat and hands shine unto silver and gold
 In Her Hand She held the hermit's pitcher of earth made,
 White-hued She is unto the ambrosia.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/04/Song-1407-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1406 இல் உள்ளபடி தம்மை இறைவனாகவே வணங்குகின்ற உயிர்களின் ஆன்மாவிற்கு ஜோதி தரிசனம் காட்ட என்று அவர்களுக்குள் இருந்த சாதகரின் ஜோதியானது அமிழ்தம் செயல் பட்டுக் கொண்டு இருக்கும் மூலாதாரத்திற்கும் தலை உச்சிக்கும் இடைப் பட்ட பகுதிக்கு உள்ளே சென்று அங்கே வீற்றிருக்கின்ற அமிழ்தத்தினால் உயிர்களின் மாயையை நீக்கி அருளுகின்ற இறைவியை தரிசித்து அங்கு கரங்களாக செயல்பட்டுக் கொண்டு இருக்கின்ற இரண்டு நாடிகளின் [இடகலை, பிங்கலை] மூலமாக மூச்சுக்காற்றை எடுத்துச் சென்று வெள்ளி போன்ற நிறத்தில் மூலாதாரத்துக்கு அருகில் இருக்கும் சுக்கிலத்தோடு உராய்ந்து அதை தங்கம் போன்ற நிறத்தில் இருக்கும் ஜோதியாக மாற்றிகின்றது. அதன் பிறகு அந்த ஜோதியை தலை உச்சியில் இருக்கும் சகஸ்ரதளத்திற்கு எடுத்துச் சென்று ஜோதி வடிவம் கொண்டு அங்கே வீற்றிருக்கின்ற இறைவியோடு கலக்கும் பொழுது அவள் தனது திருமேனி அமிழ்தமாக மாறி அருளுகின்றாள்.`,
   },
   {
@@ -10734,6 +11096,7 @@ As crystal pure She rises in me,
 Unto a lily She is,
 Unto the pearl of deep cool waters She is,
 Unto ambrosia rich, immortal She is.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/04/Song-1408-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1407 இல் உள்ளபடி அமிழ்தமாகவே மாறி இருக்கும் இறைவியின் பேரழகுடைய திருமேனியானது பளிங்குக் கல்லை போலவே உறுதியாக சாதகருக்குள் பரந்து விரிந்து எழுந்து அல்லி மலரைப் போலவே குளிர்ச்சியுடன் மூலாதாரத்திலிருந்து எழுந்து வருகின்ற சுக்கிலத்தை முத்துப் போன்ற வடிவமாகவும் உறுதியான கல்லாகவும் ஆக்கி அதற்கு எந்த விதமான தீங்கும் இல்லாத சக்தியாகிறது.`,
   },
   {
@@ -10754,6 +11117,7 @@ They seek Her that has her home in the lotus bloom,
 They seek Her, the Eternal One,
 From within the lotus of their bosom.
 *Yoginis (female yogis)`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/04/Song-1409-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1408 இல் உள்ளபடி எந்தவிதமான தீங்கும் இல்லாமல் சாதகருக்குள் இருக்கின்ற சக்திகள் மொத்தம் முப்பத்தாறு பேர் இருக்கின்றார்கள். சாதகர் தேடி அடைய வேண்டியது இல்லாமல் தாமாகவே இறைவியோடு சேர்ந்து வருகின்ற என்றும் இளமையுடன் இருக்கும் இந்த முப்பத்தாறு சக்திகளும் தமக்கென்று எந்த இடமும் இல்லாதவர்களாக சாதகருக்குள் இருக்கும் சக்கரங்களின் இதழ்களையே தமக்கு இடமாகக் கொண்டு அதன் உள்ளே வீற்றிருக்கின்றார்கள். இவர்கள் முப்பத்தாறு பேரும் காலம் என்கிற ஒன்று இல்லாதவளாகிய இறைவியை நெருங்கியே நிற்கின்றார்கள்.`,
   },
   {
@@ -10773,6 +11137,7 @@ I beheld the Light above in Sahasrara,
 And as I held it in my heart,
 In a year Sakti appeared;
 The Sakti that is of luminous Aum.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/04/Song-1410-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Mantras 1410 & 1411
 
 Concentrate your thoughts in meditation. The kundalini fire fills the adharas and you vision the light in the cranium. In a year, Aum Sakti of luminous form will appear. Indeed you too will become luminous and all the heavenly beings shall bow before you. On you will be conferred all things that are good and true.`,
@@ -10797,6 +11162,7 @@ Unto Narayana was I blessed
 With all things goodly;
 How can I recount
 All that comes of Aum Sakti.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/04/Song-1411-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1410 இல் உள்ளபடி நவாக்கிரி சக்கரத்தில் உள்ள ‘ஔம்’ எனும் பீஜ மந்திரத்தின் உட் பொருளை விளங்கிக் கொண்ட சாதகருக்கு ஆகாயத்தின் நடுவில் நிற்கின்ற அனைத்து தத்துவங்களும் விளங்கிவிடும். அவரை வணங்கிடும் இடத்திலெல்லாம் வாழுகின்ற உயிர்கள் ஆகவே அவரும் இருந்து நலம் தரும் பல விஷயங்களை வெளிக் கொண்டு வந்து அதன் மூலம் அந்த உயிர்களுக்கு பலவிதமான நன்மைகளை செய்து நரனாக (மனிதனாக) இருந்தும் அனைத்துமாகவே தானும் இருந்து காக்கும் தொழில் புரியும் திருமாலைப் போலவே உலகத்திலுள்ள அனைத்தும் தமக்குள்ளேயே இருக்க அதற்கு நடுவில் நின்று கொண்டு அவற்றைப் பற்றி எடுத்துச் சொல்லவும் முடியும்.`,
   },
   {
@@ -10817,6 +11183,7 @@ Is the Celestial Garden
 There unto the Wishing tree of Kalpaka is Saum Sakti;
 She of golden vine-like Form
 Is on lotus seated.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/04/Song-1412-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Saum Sakti is seated in the moon sphere.`,
     elaborationTamil: `பாடல் #1411 இல் உள்ளபடி உலகத்திலுள்ள அனைத்தையும் தமக்குள்ளேயே நின்று இருக்க அவற்றை எடுத்துச் சொல்ல முடிந்த சாதகர் இறைவனின் கீழ் நோக்கி இருக்கும் ஆறாவது முகமான அதோ முகம் போல் உலகத்தை தாங்கிக் கொண்டு இருப்பவராகவும், அதற்கு மேலே இருக்கின்ற அமிழ்தமாகவும், அனைத்தையும் காக்கின்ற ஓங்காரத்தின் உகாரத் தத்துவமாகவும், சிறப்பாக எழுந்து வந்து உயிர்களுக்கு குளிர்ச்சியாக இருக்கும் அமைதியைக் கொடுக்கும் சந்திரனாகவும், தமது உடலுக்கு மேலே வந்து கேட்டது அனைத்தும் கொடுத்து அருளும் கற்பகத் தருவாகவும், பூமியின் மேல் வருகின்ற அனைத்து உலகங்களையும் இணைக்கின்ற தங்கம் போல் பிரகாசிக்கின்ற கொடியாகவும் இருக்கின்றார்.`,
   },
@@ -10836,6 +11203,7 @@ The exulting l-ness leaves you;
 In the Chakra Sahasarara that represents the spaces vast
 You shall see Her, close entwined,
 She, the Maiden Innocence.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/05/Song-1413-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Mantras 1413 & 1414
 
 When you worship Saum Sakti, the exulting ego leaves you. Saum Sakti is the maiden innocence. She is of exotic beauty. She is surrounded by several maidens, and the vast world serves as Her tilak.`,
@@ -10859,6 +11227,7 @@ The world vast is Her tilak;
 Surrounded by maidens several
 She takes Her place,
 In the narrow crevice of Sahasrara.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/05/Song-1414-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1413 இல் உள்ளபடி குழந்தை போல இருக்கின்ற இறைவிக்கு சக்தியின் பரிபூரணமே பேரழகாக இருக்கின்றது. அனைத்து உயிர்களுக்கும் தந்தையாக இருக்கின்ற இறைவனும் இறைவிக்கு உறுதுணையாக நிற்கின்றார். இறைவனோடு சரிபாதியான பெண் பாகமாய் இருக்கும் இறைவிக்கு அழகாக பூசிய குங்குமத் திலகம் போலவே நடுவில் அரசி போல் வீற்றிருக்க மலர்களைச் சூடியுள்ள அழகிய கூந்தலை உடைய சக்திகள் அனைவரும் அவளைச் சுற்றி ஒன்றாக கூடி இருப்பதை சாதகரால் தரிசிக்க முடியும்.`,
   },
   {
@@ -10878,6 +11247,7 @@ Vestal Virgins thirty and two accompanying,
 In the spreading petalled lotus within
 She sat,
 She that has places several.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/05/Song-1415-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Here, the number (of letters) become 64.`,
     elaborationTamil: `பாடல் #1414 இல் உள்ளபடி இறைவியைச் சுற்றி ஒன்றாக கூடி இருக்கின்ற சக்திகள் மொத்தம் முப்பத்து இரண்டு பேர் இருக்கின்றார்கள். இவர்கள் அனைவரும் இறைவியோடு சேர்ந்தே இயங்குகின்ற என்றும் இளமையுடன் இருக்கின்ற கன்னிகளாக நான்கு திசைகளுக்கும் எட்டு எட்டு பேராக மொத்தம் முப்பத்து இரண்டு பேர்களாக இறைவியைச் சுற்றி இருக்கிறார்கள். தாமரை மலரான இறைவியின் செயல்களான இதழ்களில் இந்த முப்பத்து இரண்டு சக்திகளும் ஒன்றாக சேர்ந்து அண்ட சராசரங்கள் முழுவதும் பரந்து விரிந்து புரிகின்ற அனைத்து செயல்களையும் சாதகர் தாம் அமர்ந்த இடத்திலிருந்தே தமக்குள் தரிசிக்க முடியும்.`,
   },
@@ -10898,6 +11268,7 @@ There they were, the Vedas, ancient, seeking Her everywhere,
 But this day,
 She in me as Her Home
 Reigns supreme.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/05/Song-1416-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `Saum Sakti is immanent in Her devotees.`,
     elaborationTamil: `பாடல் #1415 இல் உள்ளபடி உலக செயல்களை புரிந்து கொண்டு பலவிதமான இடங்களில் இறைவியோடு சேர்ந்தே இருக்கின்ற முப்பத்து இரண்டு சக்திகளும் ஆனந்தக் கூத்து ஆடுகின்ற இறைவனின் பேரொளி வடிவத்தையே தரிசித்துக் கொண்டு அந்தந்த இடங்களில் இருந்து உலக நன்மைக்கான காரணத்திற்காக இறைவிக்கு உள்ளே இருந்து அவற்றை செயல் பட வைக்கின்றனர். ஆதிகாலத்திலேயே அனைத்து உயிர்களும் இறைவனை அறிந்து கொண்டு அவனைத் தேடி அடைய வேண்டும் என்ற காரணத்தினால் அருளப்பட்ட வேதங்களை அண்ட சராசரங்கள் முழுவதும் பரவும் படி எடுத்துச் சென்று அங்கெல்லாம் இருக்கின்ற உயிர்களில் இறைவனைத் தேடுகின்ற உயிர்களுக்கு இவர்கள் உதவி புரிகின்றனர். இவர்களுக்கு எல்லாம் தலைவியாக இருக்கின்ற இறைவியே இப்போது இறை நிலையை அடைந்துவிட்ட சாதகரின் மனதிற்கு உள்ளே இருந்து அவரது உள்ளத்தையே தனக்கு மிகவும் விருப்பமான கோயிலாகக் கொண்டு அவருக்குள் வீற்றிருந்து சாதகரை ஆளுவதின் மூலம் அனைத்தையும் இயக்குகின்றாள்.`,
   },
@@ -10920,6 +11291,7 @@ He who has Her in the home of his heart
 He has peers none among Celestials even;
 He who has Her in the home of his heart,
 For Him is the Lord that nothing lacks.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/05/Song-1417-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationEnglish: `This 64-chamber chakra is filled by the letters 'A' and 'U'.`,
     elaborationTamil: `பாடல் #1416 இல் உள்ளபடி சாதகரின் உள்ளத்தையே கோயிலாக கொண்டு வீற்றிருக்கும் இறைவிக்கு இல்லாதது என்ற எந்த ஒன்றுமே இல்லை. இறைவி வீற்றிருக்கும் கோயிலாகிய உள்ளத்தை அடைந்த சாதகருக்கு இனி இறப்பது என்கிற நிகழ்வு இல்லை. இறைவி வீற்றிருக்கும் கோயிலாகிய உள்ளத்தை அடைந்த சாதகருக்கு கண்ணின் இமை போல் உலகத்தை காத்துக் கொண்டு இருக்கின்ற விண்ணவர்கள் அனைவருக்கும் சரிசமம் ஆவார்கள். இறைவனே வீற்றிருப்பதால் இறைவனாகவே ஆகிவிட்ட சாதகரின் ஆன்மாவும் இறைவனைப் போலவே இல்லாத இடம் என்று எதுவும் இல்லை.`,
   },
@@ -10939,6 +11311,7 @@ That tempt Jiva,
 Sixty and four are Kalas within Jiva,
 Sixty and four are the Chambers of Jiva's Chakra
 Sixty and four, where Siva Sakti are.`,
+    audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/05/Song-1418-Fourth-Tantra-13.-Chakra-of-Nine-Letters-of-Goddess.mp3',
     elaborationTamil: `பாடல் #1417 இல் உள்ளபடி இறைவனாகவே ஆகிவிட்ட சாதகரின் ஆன்மாவின் இறை தன்மையில் கவர்ந்து இழுக்கப்பட்டு வணங்குகின்ற ஆன்மாக்களுக்கு அருளுகின்ற பாடல் #1371 இல் உள்ளபடி அறுபத்து நான்கு சக்திகள் இருக்கின்றார்கள். இவர்கள் அந்த ஆன்மாக்களுக்கு வழிகாட்டும் அறுபத்து நான்கு ஒளிகளாக இருக்கின்றார்கள். இறைவனாகவே ஆகிவிட்ட சாதகரின் ஆன்மாவிற்குள் இருக்கின்ற நவாக்கிரி சக்கரத்தை சுற்றி காவலாக வீற்றிருக்கின்ற இந்த அறுபத்து நான்கு சக்திகளும் சாதகரை நாடி வருகின்ற ஆன்மாக்களை காத்து அருளுகின்றனர்.`,
   },
 ];
