@@ -476,6 +476,7 @@ Yet drank dry the three seas of mine impurities;
 And annihilating my primal ego to its traces
 He granted me His Feet of Grace;
 And there does he abide, forever, in me.`,
+    elaborationEnglish: `Cleansed from blemishes, I was immersed in infinite bliss that is beyond words, and was transformed into Supreme Sivam.`,
     elaborationTamil: `குருநாதராக வந்த இறைவன் பேச்சே இல்லாத இன்பத்தில் பேரானந்த நிலையில் என்னை மூழ்க வைத்து மாசு மலங்கள் எதுவும் இல்லாத என்னை சிவமாகவே ஆகும் படி செய்து என்னை முழுவதுமாக ஆட்கொண்டு அருளி வெப்பம் இல்லாத தூய ஜோதி உருவத்தில் எம்மிடம் இருந்த மாயை அசுத்த மாயை சுத்த மாயை ஆகிய மூன்றையும் தம் வசமாகக் கை கொண்டு இந்த நிலை பெற்ற எனக்கு இந்த உலகத்தில் கிடைக்கின்ற புகழ்ச்சிகளில் நான் மயங்கி விடாமல் அந்த புகழ்ச்சிகள் அழிந்து போகும் படி தனது திருவடிகளை தந்து அருளி என்னை எப்போதும் நிலைபெற்று வாழும் படி செய்து விட்டார்.`,
   },
   {
@@ -878,7 +879,7 @@ Reached by renunciate tapas
 Is He, my Lord of resplendent glory!
 Sing His praise! Incessant pray!
 The Heaven's Lord shall show you the Dhar`,
-    elaborationEnglish: `The renunciate is not interested in spotting his failings or demanding praise for his virtues. He stands in tapas firmly, seeking the hallowed Feet of the Lord.`,
+    elaborationEnglish: `Through renunciation, Siva can be reached. Praise Him; He will show the land of dharma.`,
     elaborationTamil: `இறைவனின் திருவருளால் பெற்ற ஞானத்தின் மூலம் இறைவனை உணர்ந்து மும்மலங்களையும் அறுத்து இறப்பு பிறப்பு ஆகிய இரண்டு விதமான தன்மைகளும் நீங்கி விட அனைத்தையும் விட்டு விலகி நிற்கின்ற துறவாகிய தவ நிலையில் சாதகர் கண்ட ஜோதி மயமாகிய இறைவனை எப்போதும் மறந்து விடாமல் தமது வாயால் சொல்லுவதெல்லாம் இறைவனின் சொல்லாகவே சொல்லுபவர்களுக்கு தர்மம் இருக்கின்ற இடமாகிய சிவலோகத்தை காட்டி அருளுவான் அமரர்களின் தலைவனாகிய இறைவன்.`,
   },
   {
@@ -959,6 +960,7 @@ That indeed is not of my seeking;
 Firm in tapas, I stand;
 Seeking the hallowed Feet of the dancing Lord,
 That on the sacred bull rides.`,
+    elaborationEnglish: `The renunciate is not interested in spotting his failings or demanding praise for his virtues. He stands in tapas firmly, seeking the hallowed Feet of the Lord.`,
     elaborationTamil: `பிறவிக்கு காரணமாக இருக்கின்ற வினைகளையும் அந்த வினைகளை தீர்ப்பதற்கு செய்ய வேண்டிய கடமைகளையும் இறைவனிடம் பிறவி எடுப்பதற்கு முன்பே கேட்டுக் கொண்டு பிறவியோடு கூட வந்த ஐந்து புலன்களும் அதனதன் கடமையை செய்வதற்கு ஏற்றபடி ஆசைகளின் வழியே வளைந்து என்னை நடக்க வைக்கின்றதை யான் கடைபிடிப்பது இல்லை. தில்லையில் ஆடுகின்ற விடை வாகனமாகிய நந்தியை உடையவனாகிய இறைவனின் மதிப்பிற்குரிய திருவடிகளை சென்று அடைகின்ற தவமுறையான இந்த செயலை செய்கின்ற கொள்கையை இறைவன் எமக்குத் தந்து அருளினான்.`,
   },
   {
@@ -1261,7 +1263,7 @@ You need not pray, if the Soul of Souls enters in you;
 You need not adore, if Siva abides true in you;
 You need not die, if Samadhi you attain,
 You need not renounce, if you go not the way of senses.`,
-    elaborationEnglish: `There is no need for prayer and adoration if the Soul of Squls enters and abides in you. When the state of samadhis is attained, death ceases. Renunciation is not demanded when you do not concern yourself with the ways of the senses. tm sion`,
+    elaborationEnglish: `There is no need for prayer and adoration if the Soul of Squls enters and abides in you. When the state of samadhis is attained, death ceases. Renunciation is not demanded when you do not concern yourself with the ways of the senses.`,
     elaborationTamil: `தங்களின் உயிருக்கு உயிராக உள்ளுக்குள் இருக்கின்ற இறைவனை உணர்ந்து அடைந்து விட்டால் மந்திரங்களை ஓத வேண்டியது இல்லை. அரியதான பேருண்மையாகிய சிவப் பரம்பொருள் தங்களின் உடலையே கோயிலாக ஏற்றுக் கொண்டு வீற்றிருந்தால் எந்த விதமான தேவைகளும் இல்லை. சமாதி நிலையை கைவரப் பெற்று விட்டால் உடலுக்கு அழிவு என்பதே இருக்காது. ஐந்து புலன்களும் காட்டுகின்ற வழிகளில் போகாமல் அவற்றை தன் இஷ்டத்திற்கு மாற்றி இருப்பவர்களுக்கு இறைவனை தேடி எங்கும் போக வேண்டியது இல்லை.`,
   },
   {
@@ -1632,9 +1634,7 @@ And receive Grace of the Pure One,
 They shall sure be drawn
 In the triumphant Chariot of Unity
 And be one in God, obliterating I and He.`,
-    elaborationEnglish: `Realisation of the truth that the body chariot is only illusion's chariot that produces fantasies will make men to mount the chariot of love instead; to receive the Grace of the Pure One, which unites the soul in God.
-
-The tapasvins will certainly receive His Grace through tapas, even if they are born in body and flesh in the other world.`,
+    elaborationEnglish: `Realisation of the truth that the body chariot is only illusion's chariot that produces fantasies will make men to mount the chariot of love instead; to receive the Grace of the Pure One, which unites the soul in God.`,
     elaborationTamil: `உயிர்கள் நிலையில்லாத தமது உடலை இறப்பு இல்லாத நிலை பெற்றதாகிய உயர்ந்த தேராக மாற்றி அதில் ஏறி செல்வதற்கு மனமாகிய பாகனின் கையில் ஐம் புலன்களும் அவன் வசப்படும் படி செய்தால் மாயையின் மயக்கத்திலிருந்து நீங்கி உண்மை அறிவாகிய தேரில் ஏறி மாயையினால் மயங்குகின்ற மனதை மாற்றி உண்மையை உணர வைக்கலாம். அதன் பிறகு அன்பு என்கின்ற நிலையிலிருந்து பேரன்பாகவே மாறுகின்ற தேரில் ஏறினால் ஒரு குற்றமும் இல்லாத இறைவனின் திருவருளை பெற்று விடலாம். அப்போது பொன்னாகவே மாறிவிட்ட தங்களின் உடலாகிய பிரகாசமான தேரில் ஏறினால் இறைவனே தாம் எனும் நிலையை அடையலாம்.`,
   },
   {
@@ -1652,6 +1652,7 @@ If born in body in the Other World
 Tapasvins will pursue tapas there;
 And will there reach Lord's Feet
 And receive His Grace for sure.`,
+    elaborationEnglish: `The tapasvins will certainly receive His Grace through tapas, even if they are born in body and flesh in the other world.`,
     elaborationTamil: `இறைவனை அடைய வேண்டும் என்கின்ற எண்ணத்தோடு எந்த உலகத்தில் பிறவி எடுத்தாலும் அந்த உலகத்துக்கு ஏற்ற உடம்போடு பிறந்து, அவர்கள் இருக்கின்ற உலகத்திலேயே செய்வதற்கு மிகவும் அரியதான தவங்களை தேடி அடைந்து செய்கின்ற தவசிகள், அவர்கள் இருக்கின்ற உலகத்திலேயே இறைவனின் திருவடியை சேர்ந்து இருப்பார்கள். அவர்கள் இருக்கின்ற உலகத்திலேயே இறைவனது திருவருளையும் பெற்று விடுவார்கள்.`,
   },
   {
@@ -1902,9 +1903,7 @@ Brahmins true who live in accord thus,
 Shall see Jiva in Siva uniting;
 Chant sacred mantra "Aum"
 And lo! the Two merge forever in One.`,
-    elaborationEnglish: `Fools are ignorant of the fact that thread and tuft are but of Vedanta and jnana. True brahmins, knowing this, unite in Siva by continuous chanting of the mantra, ‘Aum.’
-
-The power of the holy ashes of Siva is so great that they who smear it in exultation will be freed from karmas; finally reaching His Handsome Feet.`,
+    elaborationEnglish: `Fools are ignorant of the fact that thread and tuft are but of Vedanta and jnana. True brahmins, knowing this, unite in Siva by continuous chanting of the mantra, ‘Aum.’`,
     elaborationTamil: `பூணூலுக்கும் குடுமிக்கும் உள்ள உட் பொருளை உணராதவர்கள் முழு மூடர்களாக இருக்கின்றார்கள். பூணூல் என்பது வேதத்தை முழுதும் அறிந்து உணர்ந்ததை குறிப்பதாகும். தலை உச்சியில் இருக்கும் குடுமி என்பது உண்மை ஞானத்தை உணர்ந்ததை குறிப்பதாகும். வேதப் பொருளாகிய இறைவனை உணர்ந்து அவனோடு ஒன்றி இருக்கின்ற அந்தணர்களே பரம்பொருளாகிய இறைவனே தமது உயிராகவும் இருப்பதை தமக்குள் பார்க்கின்றார்கள். ஒன்று பட்டு இருக்கின்ற இறைவன் ஆன்மா ஆகிய இரண்டும் ஒரே பொருளே என்பதை ஓங்காரத்தை ஓதியே அவர்கள் உணர்ந்தார்கள். குறிப்பு: சுவடிகளில் இந்தப் பாடல் “தவ வேடம்” தலைப்பிலேயே உள்ளது. ஆனால் சில புத்தகங்களில் அடுத்து வருகின்ற “திரு நீறு” தலைப்பில் சேர்க்கப்பட்டுள்ளது. இந்தப் பாடலின் பொருள் தவ வேடத்திற்கே பொருத்தமாக இருக்கின்றது.`,
   },
   {
@@ -1925,6 +1924,7 @@ For them who in joy smear it
 Karmas take flight,
 And Siva-state comes seeking;
 And they shall reach His handsome Feet.`,
+    elaborationEnglish: `The power of the holy ashes of Siva is so great that they who smear it in exultation will be freed from karmas; finally reaching His Handsome Feet.`,
     elaborationTamil: `உயிர்களின் எலும்பை மாலையாக அணிந்து இருக்கின்ற இறைவன் தனது உடலில் பூசுகின்ற சாம்பல் கவசமாகிய திரு நீற்றை கொஞ்சமும் மங்காமல் பிரகாசமாகத் தெரியும் படி பூசிக் கொண்டு மகிழ்ச்சியை அடைபவர்களாக தாங்கள் இருந்தால் அனைத்து வினைகளும் அவர்களிடம் தங்காமல் விலகி ஓடி விடும். சிவப் பரம்பொருளை அடைகின்ற வழி முறை அவர்களுடன் சேர்ந்தே இருக்கும். அதன் வழியே சென்று பேரழகாக இருக்கின்ற இறைவனின் திருவடியை அவர்கள் அடைவார்கள்.`,
   },
   {
@@ -2585,6 +2585,9 @@ He is the seeker incessant of Jnana divine;
 And as he placed his feet on my head,
 Higher and higher, my ardour in Jnana soared,
 Higher and higher, my love for Gurupara welled up.`,
+    elaborationEnglish: `Mantras 1698 & 1699
+
+When the holy Guru, the master of the four difficult paths, and possessor of divine grace placed his feet on my head, all births vanished. Blessed thus, the Grace of Arul Sakti descended on me and I became a ripe jnani. My ardour in jnana soared higher and my love for Gurupara welled up freed of blemishes.`,
     elaborationTamil: `பாடல் #1698 இல் உள்ளபடி குருவின் திருவடியினால் பெற்ற ஞானத்தினால் உண்மை ஞானியாகிய சாதகரிடம் இதுவரை உலக பற்றுக்களின் மேல் இருந்த ஆசைகள் விலகிப் போக விலகிப் போக அவற்றின் மேல் இனி பற்று வராது. அந்த பற்றானது இறைநிலையில் இருக்கின்ற தமது குருநாதரின் மேலேயே அதிகமாக கூடி வரும். அதன் பிறகு இதுவரை அவரது கைக்கு சரிவர கிடைக்காத சாந்தி, தாந்தி, உபாதனை, தீட்சை ஆகிய நான்கு விதமான சாதகங்களும் அவரது கைவசப் படும்படி பேறு பெறுவார். அதன் பிறகு அக (உள்ளுக்குள்ளும்) புற (வெளியிலும்) ஆராய்ச்சியின் மூலம் ஞானத்தின் உச்ச நிலைக்கு சென்று கொண்டே இருப்பார். நான்கு விதமான சாதகங்கள்: சாந்தி – அசைவற்ற நிலையில் சாதகம் செய்தல் / பேரமைதி தாந்தி – எண்ணங்களற்ற நிலையில் சாதகம் செய்தல் / மன அடக்கம் உபாதனை – வினைகளை சாதகம் செய்து எரித்து தீர்த்தல் தீட்சை – சந்தேகம் வரும் போது சாதகத்தின் மூலம் ஒரு கண நேரத்தில் குரு வார்த்தை கேட்டல் மேலுள்ள நான்கு விதமான சாதகங்களைப் பற்றிய குறிப்புகள் சுவடியில் உள்ளது.`,
   },
   {
