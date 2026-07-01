@@ -2119,7 +2119,9 @@ His are the sinewy arms
 That skinned the dark massive elephant
 And donned it for a vesture;
 Do therefore, seek Him and adore Him.`,
-    elaborationEnglish: `The Lord plays the multi-role of Destroyer, Preserver, Creator and Redeemer. Realisation of this truth and adoration of Him will make the jiva feel the might of His sinewy arms.`,
+    elaborationEnglish: `The Lord plays the multi-role of Destroyer, Preserver, Creator and Redeemer. Realisation of this truth and adoration of Him will make the jiva feel the might of His sinewy arms.
+
+The significance of attributing different colors to Siva's form is explained here`,
     elaborationTamil: `சிவந்த மேனியில் அருளை வழங்குபவன் கரிய மேனியில் மாயையால் மறைக்கின்றவன் வெள்ளை மேனியில் அண்ட சராசரங்களிலும் ஜோதியாய் பரவி இருக்கின்றவன் நன்மையைத் தந்து பச்சை மேனியில் ஆன்மாக்களை காத்து அருளுகின்றவன் இப்படி பலவிதமான தன்மைகளை கண்டு உணர்ந்து கொண்டவர்களுக்கு அவர்கள் கண்ட தன்மையிலேயே அருளை வழங்குகின்ற இறைவனை கருமை நிறம் கொண்டு அகங்காரத்தை இல்லாமல் செய்து யானையின் தோல் போன்ற ஆணவத்தை உரித்து எடுத்து தம்மேல் போர்த்திக் கொண்டு நெருப்புக் கணலை கையில் கொண்டு பிறவிகளை அறுத்து முக்தியை அருளபவன் அவனே என்று உணர்ந்து அவன் மேல் பேரன்பு கொள்ளுங்கள்.`,
   },
   {

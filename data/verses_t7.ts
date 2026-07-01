@@ -327,7 +327,15 @@ The Vimana pure is the Sthula Linga
 The Sadasiva enshrined is Sukshma Linga
 The Bali-peeta is Bhadra Linga
 Thus it is for those who Siva's Form seek.`,
-    elaborationEnglish: `Those who seek Siva's form will realise that the upper part forming an arc (known as vimana) is the manifest Linga; the enshrined Sadasiva is the subtle Linga, and that the altar (bali-pita) is Siva's throne.`,
+    elaborationEnglish: `Those who seek Siva's form will realise that the upper part forming an arc (known as vimana) is the manifest Linga; the enshrined Sadasiva is the subtle Linga, and that the altar (bali-pita) is Siva's throne.
+
+1) Vimana—shrine's upper part forming a semi-circle.
+2) Sthula—manifest (lit, gross)
+3) Sukshma—subtle
+4) Bali-peeta—altar
+5) Bhadra—Siva (also Virabhadra, an aspect of Siva).
+
+Prescribe 3 forms of Linga, Sthula, Sukshma and Bhadra for those who wish to see the Divine Form.`,
     elaborationTamil: `விமானம் என்று அழைக்கப் படுகின்ற இலிங்கத்தின் மேல் பகுதியானது {பாணம்} தீயவற்றை அழித்து உலகிற்கு நன்மையை தருகின்ற தூல வடிவமே பிரபஞ்சமாகி பிரபஞ்சத்தோடு தொடர்பு கொண்டு இருக்கின்றது. ஆதலால் இலிங்கத்தின் அடிப் பகுதியாக இருக்கின்ற {ஆவுடையார்} பரம் பொருளாகிய சிவபெருமானின் பிரபஞ்ச சக்தியாக உலகத்திற்கு நன்மையை கொடுக்கின்ற நுண்ணிய வடிவமாக இருக்கின்றது. இலிங்கத்தின் நடுப் பகுதியாக இருக்கின்ற பலி பீடமானது தம்மிடம் வேண்டி வருபவர்களை பாதுகாக்கின்ற இலிங்க வடிவமாக இருக்கின்றது. இவ்வாறு இருக்கின்ற இறைவனின் நிலையை ஆராய்ந்து அறிந்து கொள்ளுகின்ற உயிர்களால் மட்டுமே இலிங்கத்தின் உண்மையை உணர முடியும்.`,
   },
   {
@@ -346,17 +354,7 @@ Wood of sandal, granite hard, and ashes holy
 Siva's Agama, and rice in grain and cooked
 When you pour in these and fix the Linga
 Haunting indeed is His flavoury fragrance.`,
-    elaborationEnglish: `Installation of the linga requires certain prescribed Agamic rites. When thus installed, a haunting fragrance will pervade all around.
-
-gaps guiw That the eight universe pervades; searpu Qaeby sacs sepeod Of my heart, too, a temple made. amnw OeHad aaear ‘ Oararmn Asehiflar 1720 rt aoe ae
-
-Of whatever material the linga is made, the temple of the How Linga is shaped Omnipresent is actually in the seeker’s heart. His form is cosmic, encompassing the earth, heaven, seas and stars; but
-
-Curd, ghee, milk and wax pure He is the heart’s refuge.
-
-Copper, mercury, fire and conch Bricks hard, Bilva shapely And Konrai bloom of golden hue
-
-From these do you shape USL Lita aienrecit`,
+    elaborationEnglish: `Installation of the linga requires certain prescribed Agamic rites. When thus installed, a haunting fragrance will pervade all around.`,
     elaborationTamil: `முத்துக் கல்லும், மாணிக்கம் கல்லும், அவற்றுக்கு ஈடான பவளக் கல்லும், கொத்துகின்ற உளியும் அதை தட்ட உதவுகின்ற சுத்தியும் போன்ற ஆயுதங்களால் செதுக்கப் பட்ட சிலையில், திரு நீறும், கோமேதகக் கல்லும் அணிவித்து, அனைத்திற்கும் தந்தையான இறைவன் தனது உயிர்களுக்கு அருளிய சிவ ஆகமத்தில் உள்ளபடி சமைக்கப் பட்ட உணவும், சமைக்கப் படாத அரிசியும் படையலாக வைத்து, மனதை ஒருமுகப் படுத்துகின்ற கருவியாக அணிவித்த பூமாலையில் இருந்து வருகின்ற நறுமணமும் சேர்ந்து அமைக்கப் பட்டதே பரிபூரணமான சிவ இலிங்கம் ஆகும்.`,
   },
   {
@@ -508,7 +506,7 @@ Of earth, water and other matter made;
 They seek not to adore Lord
 Whom the Elements Five
 Together in prayer beseech.`,
-    elaborationEnglish: `Like a mother, He affectionately took charge of the senses and became their master. The several nadis that are within the body prostrate at Nandi's feet who subdued the senses, even as all the Vedas do.`,
+    elaborationEnglish: `When jiva entered this fleshy body, a veritable tabernacle of God, the five senses within opened the gates for Him. Like a mother, He affectionately took charge of the senses and became their master. The several nadis that are within the body prostrate at Nandi's feet who subdued the senses, even as all the Vedas do.`,
     elaborationTamil: `இந்த பிறவிக்கான வினைகள் தீர்ந்து இறந்து போன பிறகும் இனியும் பிறவி வேண்டும் என்று இன்னமும் தீர்க்க வேண்டிய வினைகளை அனுபவிக்க நிற்பார்கள். அவர்களுக்கு தேவையான உடலை நிலத்தை தருகின்ற நீரினால் தெளிந்து உருவாகிய உணவினால் வளர்கின்ற தசையும் அவர்களுக்கு ஏற்ற வடிவத்தை செய்து கொடுக்கும். அவர்களின் உயிர் இருக்கின்ற இடமாகிய உடம்பை தருகின்ற பஞ்ச பூதங்களாகிய நிலம், நீர், நெருப்பு, காற்று, ஆகாயம் ஆகிய ஐந்தும் ஒன்று சேர்ந்து கொடுக்கும். அந்த உடம்பிற்குள் நிகழ்கின்ற அனைத்து இயக்கங்களையும் தருகின்ற தேவர்களை வணங்கி வழிபடுவதை செய்யுங்கள். கருத்து: உயிர்களின் உடம்பாக இருப்பதே இறைவனின் சிவ இலிங்கமாகும். அதற்குள் இறைவனாகவே இருக்கின்ற அனைத்து தேவர்களும் இருக்கின்றார்கள். ஆகவே உயிர்களின் உடம்பையே கோயிலாக வணங்கி வந்தால் இனி பிறவி இல்லாத நிலையை அடையலாம். பாடல் #1823 இல் வருகின்ற “உள்ளம் பெருங்கோயில் ஊனுடம்பு ஆலயம்” என்கிற வாசகம் இந்த பொருளையே குறிக்கின்றது.`,
   },
   {
@@ -777,9 +775,7 @@ The dark throat, the up-lifted axe,
 The matted red locks, the radiant crescent moon,
 The Primal Lord that is Grace abounding,
 Him I mused, all dark doubts dispelled.`,
-    elaborationEnglish: `Bereft of doubts, I meditated on the abundantly graceful
-Primal Lord of dark throat, wearing the radiant crescent moon
-on His matted russet locks, and holding the axe in His hand.`,
+    elaborationEnglish: `Bereft of doubts, I meditated on the abundantly graceful Primal Lord of dark throat, wearing the radiant crescent moon on His matted russet locks, and holding the axe in His hand.`,
     elaborationTamil: `ஆலகால விஷத்தை அருந்தியதால் கருமை நிறைந்த திருக்கழுத்தும், திருக்கரத்தில் ஏந்தி இருக்கின்ற பாசங்களை அறுக்கின்ற மழுவும், சுருள் நிறைந்த செம்மையான சடையும், அந்த சடையின் மேல் ஜோதியாகப் பிரகாசிக்கும் பிறை நிலாவும் அருள் நிறைந்த சிந்தையும் கொண்டு விளங்குகின்ற எமது ஆதிப் பரம்பொருளாகிய இறைவனை தெளிவான அறிவினால் ஆராய்ந்து எனக்கு உள்ளே தெளிவாக உணர்ந்து இருக்கின்றேன்.`,
   },
   {
@@ -838,9 +834,7 @@ These the Sakti's are
 Of growing green hue
 As lightning is She, the dazzling crowning Sakti
 Fiery bright, Her ten Weapons.`,
-    elaborationEnglish: `Sakti’s head, tresses, eyes, forehead-mark, breast and armour
-are of glowing green. Her form is dazzling as lightning, and
-Her ten weapons are ‘fiery bright.`,
+    elaborationEnglish: `Sakti’s head, tresses, eyes, forehead-mark, breast and armour are of glowing green. Her form is dazzling as lightning, and Her ten weapons are ‘fiery bright.`,
     elaborationTamil: `இறைவனின் ஐந்து உறுப்புகளாகிய மார்பு, தலை, தலைமுடி, நீண்ட கவசம், கண்கள் ஆகியவை ஒரு தீமையும் இல்லாத ஒளி உருவமாக எப்போதும் வளர்ந்து கொண்டே இருக்கின்றது. அவற்றின் பச்சை நிறம் பசுமையாக நன்மையை அருளுவதை குறிப்பது ஆகும். இறைவனின் செழுமை உற்று இருக்கும் சிகப்பான திருமேனியாகிய சுடர் ஒளிக்கு சரிசமமாக இருப்பது இறைவியின் ஒளி உருவம் ஆகும். சிகப்பான சுடர் போல பிரகாசமான ஒளி பொருந்தி இருக்கின்ற உறுப்புகள் தீமையை அழிக்கும் ஆயுதங்களாக இருக்கின்றது.`,
   },
   {
@@ -983,9 +977,7 @@ His Form as Uncreated Siva Linga
 His Form as Sadasiva Divine
 His Form as Sivananda, bliss unalloyed
 His Form as Tat-Para Eternal Supreme.`,
-    elaborationEnglish: `The Lord is uncreated. He stands with His body as uncreated
-Siva Linga, as divine Sadasiva as uncreated Siva, as unalloyed
-Sivananda and as Supreme Tat-Para.`,
+    elaborationEnglish: `The Lord is uncreated. He stands with His body as uncreated Siva Linga, as divine Sadasiva as uncreated Siva, as unalloyed Sivananda and as Supreme Tat-Para.`,
     elaborationTamil: `பாடல் #1749 இல் உள்ளபடி அண்ட சராசரங்களாகவும் அனைத்துமாகவும் இருக்கின்ற நடராஜ தத்துவத்தை தமக்குள்ளே உணர்ந்து கொண்ட அடியவரின் உடலானது தானே சிவ இலிங்கமாக நிற்கும். அடியவர் தமக்குள் இருக்கின்ற இறைவனோடு சேர்ந்து தாமும் சதாசிவப் பரம் பொருளாகவே நிற்பார். அடியவர் தனது உடலே சிவனாகவும், தன்னுடைய உடலுக்குள்ளேயே சிவ பேரின்பமாகவும் ஆகி விடுவார். இவ்வாறு அடியவரின் உடல் தானே ஆகி நிற்பது தானாகவே எப்போதும் இருக்கின்ற பரம்பொருள் ஆகும்.`,
   },
   {
@@ -1003,12 +995,7 @@ None knows He is Ahara, the letter "A"
 And the pervasive Sakti is Uhara, the letter "U"
 The two sounds swelling alternate
 Fill the world as Aum in unrelieved entirety.`,
-    elaborationEnglish: `The two sounds swelling alternate
-
-Fill the world as Aum in unrelieved entirety.
-Siva is akara, the letter *A’; Sakti is ukara, the letter “U’,
-these two sounds together swell and fill the world as ‘Aum.’
-The Lord is thus the cosmic sound, ‘Aum.’`,
+    elaborationEnglish: `Fill the world as Aum in unrelieved entirety. Siva is akara, the letter *A’; Sakti is ukara, the letter “U’, these two sounds together swell and fill the world as ‘Aum.’ The Lord is thus the cosmic sound, ‘Aum.’`,
     elaborationTamil: `சாதகத்தின் மூலம் தமக்குள்ளிருக்கும் இறைவனை உணராத எவரும் ஓங்காரத்தில் இருக்கின்ற ‘அ’காரம் எனும் அருளாக இருப்பது எது என்று அறிந்து கொள்ள மாட்டார்கள். உலகத்திலும் ஓங்காரத்தில் இருக்கின்ற ‘உ’காரம் எனும் அருளை பிரித்து வகுத்துக் கொடுத்த இறை சக்தியை தமக்குள் தேடி உணர்ந்தால் அது பிரணவமாக உள்ளுக்குள் இறை சக்தியாகவும், வெளியிலும் இறை சக்தியாகவும், என்று இரண்டுமாக உலகம் முழுவதற்கும் நிறைந்து நிற்பதாய் தமக்குள்ளிருந்தே மாறி எழுந்திடும் நாதம் ஆகும். கருத்து: ஓங்காரத்தில் ‘அ’காரமாக உள்ளுக்குள் இருந்து இயக்குகின்ற சக்தியும் ‘உ’காரமாக வெளி உலகத்தை இயக்குகின்ற சக்தியும் நாத வடிவமாக இருக்கின்ற நடராஜ தத்துவத்தை குறிப்பதாகும். நடராஜ தத்துவத்தை தமக்குள் உணர்ந்து கொண்ட சாதகர்களே இந்த ஓங்கார தத்துவத்தை அறிந்து சதாசிவ இலிங்கத்தின் நாத வடித்தை உணர்ந்து கொள்வார்கள். ஓங்காரத்தில் இருக்கின்ற இந்த இரண்டு சக்திகளே இறைவனுக்கு இரண்டு சக்திகளாக அனைத்து தெய்வ வடிவங்களிலும் காட்டப் படுகின்றது.`,
   },
   {
@@ -1182,10 +1169,7 @@ He rules the universe;
 Into the heart's temple of His devotees too he reigns
 He the Hara to whom the Immortals in worship bow
 He in my heart resides firm.`,
-    elaborationEnglish: `He who sports the crescent moon and rules the universe is
-the Supreme Parapara, my Divine Father. He reigns in the
-temple of His devotee’s heart. He, whom the celestials worship
-as Hara, resides firm in my heart.`,
+    elaborationEnglish: `He who sports the crescent moon and rules the universe is the Supreme Parapara, my Divine Father. He reigns in the temple of His devotee’s heart. He, whom the celestials worship as Hara, resides firm in my heart.`,
     elaborationTamil: `அனைத்திற்கும் மேலான பரம்பொருளானவனும், எமது தந்தையானவனும், தன் தலையில் குளிர்ச்சியான நிலவை சூடிக் கொண்டு இருப்பவனும், உலகங்களுக்கு எல்லாம் தலைவனாவனும், தமது அடியார்களின் மனதையே தமக்கு விருப்பமான கோயிலாக ஏற்றுக் கொண்டு வீற்றிருப்பவனும், தேவர்களுக்கும் மேலான தேவனும், விண்ணுலக தேவர்களின் தலையில் நிலை பெற்று வீற்றிருப்பவனும், உருவமில்லாமல் இருக்கின்ற பரம்பொருளுமாகிய இறைவன் எமக்குள் நிலை பெற்று எமது மனதிற்குள் எப்போதும் வீற்றிருந்தான்.`,
   },
   {
@@ -1285,11 +1269,7 @@ He is Nandi that central stands;
 They who adore Him as their Lord
 Themselves His ways attain;
 Do you, so, seek the Lord's Holy Feet.`,
-    elaborationEnglish: `Do you, so, seek the Lord’s Holy Feet.
-
-Sadasiva standing at the centre, with faces in five directions,
-is the Lord of the immortals. They who adore Him will attain
-immortality. May you too seek His Holy Feet.`,
+    elaborationEnglish: `Do you, so, seek the Lord’s Holy Feet. Sadasiva standing at the centre, with faces in five directions, is the Lord of the immortals. They who adore Him will attain immortality. May you too seek His Holy Feet.`,
     elaborationTamil: `தேவர்களுக்கெல்லாம் தலைவன், பத்து திசைகளையும் தனது திருமுகங்களாக கொண்ட தலைவன், பிரம்மா, திருமால், உருத்திரன், மகேஸ்வரன் ஆகிய நான்கு தெய்வங்களுக்கும் தலைவன், அருவமாகிய மேலுக்கும் உருவமாகிய கீழுக்கும் நடுவில் வீற்றிருக்கின்ற குருநாதனாகிய இறைவன், எவருக்கும் தலைவன் என்றெல்லாம் போற்றி வழிபடுகின்ற அடியவர்களின் நெறி முறையை பின்பற்றி தாமும் அப்படியே வழிபடுகின்ற அடியவர்களது தலைவனாகவும், தமது திருவடியை அருளி அடியவர்க்கும் அடியவனாகவும், அவர்களை காத்து அருளுபவனாக ஞான இலிங்க வடிவான இறைவன் இருக்கின்றான்.`,
   },
   {
@@ -1426,14 +1406,7 @@ All the Universe is the play of Sakti-Siva
 Sakti is Siva, and Siva is Sakti
 Without Sakti and Siva is no manifest creation
 It is Sakti and Siva that forever Form assume.`,
-    elaborationEnglish: `Without Sakti and Siva is no manifest creation
-It is Sakti and Siva that forever Form assume.
-
-Sakti is Siva. Siva is Sakti. All the universe is the play of
-Sakti/Siva. There will be no visible creation without Siva and
-Sakti. Sakti assumes form continuously.
-
-7. Flas SN nisd`,
+    elaborationEnglish: `Sakti is Siva. Siva is Sakti. All the universe is the play of Sakti/Siva. There will be no visible creation without Siva and Sakti. Sakti assumes form continuously.`,
     elaborationTamil: `இறைவியும் இறைவனும் தங்கள் திருவிளையாட்டால் அண்ட சராசரங்கள் அனைத்தும் உருவாக்குகின்றார்கள். இறைவியானவள் இறைவனுமாகவும் இருக்கின்றாள், இறைவனாவன் இறைவியாகவும் இருக்கின்றான். இறைவியும் இறைவனும் இல்லாமல் இந்த உலகத்தில் ஆதாரமாக பற்றிக் கொள்ள வேண்டி பொருள் வேறு எதுவும் இல்லை. இறைவி தானே இறைவனோடு சேர்ந்து கலந்து அனைத்து விதமான வடிவங்களாகவும் ஆகுகின்றாள். இதை பரிபூரணமாக உணர்ந்து கொள்வதே ஞான இலிங்கத்தின் தத்துவமாகும்.`,
   },
   {
@@ -1507,9 +1480,7 @@ The five-faced Sadasiva, Bindu and Nada
 Sakti and Siva--
 All these as Linga His blessings grants,
 He is but Nandi that is Para Supreme.`,
-    elaborationEnglish: `Brahma, Vishnu, Rudra, Mahesvara, Sadasiva of the five
-faces, bindu, nada, Sakti and Siva — all the nine aspects
-of Siva shower their blessings as Nandi himself.`,
+    elaborationEnglish: `Brahma, Vishnu, Rudra, Mahesvara, Sadasiva of the five faces, bindu, nada, Sakti and Siva — all the nine aspects of Siva shower their blessings as Nandi himself.`,
     elaborationTamil: `அனைத்திற்கும் மேலான அசையா சக்தியாகிய சதாசிவமூர்த்தி எனும் பரம்பொருளே சிவ இலிங்க வடிவமாக இருந்து தனது பேரருளால் வெளிச்சத்தின் வடிவமாகிய இறைவி, சத்தத்தின் வடிவமாகிய இறைவன், அவர்களுக்கு கீழே ஐந்து விதமான தொழில்களை புரிகின்ற பிரம்மன், திருமால், உருத்திரன், மகேஸ்வரன், சதாசிவன் ஆகிய ஐந்து தெய்வங்களாகவும் இருந்து அனைவருக்கும் சக்தி கொடுத்து வழி நடத்துகின்ற குருநாதனாகவும் இருக்கின்றான்.`,
   },
   {
@@ -1744,10 +1715,7 @@ There is approach none as I and You;
 Like body and life inseparate are We;
 Together are We like the heavens and the heavenly beings;
 Like the honey and its sweetness that I do savour.`,
-    elaborationEnglish: `The best approach to Him is not in dualistic terms of ‘T’
-and ‘You.’ Jiva and Siva are as inseparable as the body and
-the life, the heaven and the heavenly beings, the honey and
-its Sweetness.`,
+    elaborationEnglish: `The best approach to Him is not in dualistic terms of ‘T’ and ‘You.’ Jiva and Siva are as inseparable as the body and the life, the heaven and the heavenly beings, the honey and its Sweetness.`,
     elaborationTamil: `நான் என்றும் நீ என்றும் வேறு வேறாக இல்லாமல் உலகத்தில் கிடைக்கின்ற அனைத்துமாகவும், தசைகளாகவும், உள்ளே இருக்கின்ற உயிராகவும், இந்த இரண்டும் சேர்ந்த உடலாகவும் நின்று, ஆகாயமாகவும், அதில் இருக்கின்ற தேவர்களாகவும் நின்று, மண்ணுலகில் இருக்கின்ற மனிதர்களாகவும் இறைவனே இருக்கின்றான் என்பதை அறியாமல், மாயையில் மயங்கி அந்த மயக்கமே உண்மை என்று நினைத்து சிற்றின்ப ஆசைகளை அனுபவிக்கின்ற இன்பத்திலேயே திளைத்து இருக்கின்ற வழியிலேயே வாழ்க்கையை கழிக்கின்றார்கள்.`,
   },
   {
@@ -1766,14 +1734,7 @@ If he knows Him, then Knower is he not;
 If he knows Him
 Then he the Knower and He the Known
 Become but one.`,
-    elaborationEnglish: `Become but one.
-
-So long as Siva and jiva are considered as two separate
-indentities, the jiva does not know Him. When jiva knows
-Him, the knower (jiva) and the known (Siva) become one
-and unitive.
-
-piohg) si@“ercr Howes oamGtommytb`,
+    elaborationEnglish: `So long as Siva and jiva are considered as two separate indentities, the jiva does not know Him. When jiva knows Him, the knower (jiva) and the known (Siva) become one and unitive.`,
     elaborationTamil: `இறைவனும் அந்த இறைவனை தமக்குள் வைத்திருக்கின்ற உயிரும் உண்மையான பரம்பொருளை அறிந்து கொள்வதில்லை. இறைவனை மனித அறிவினால் அறிந்து கொண்டவர்களும் அவனை முழுவதுமாக அறிந்து கொள்வது இல்லை. இறைவன் உள்ளுக்குள் இருந்து உணர்த்தி அருளிய தர்மத்தை முறையாக கடைபிடிப்பதன் மூலம் உயிராக இருப்பவன் இறைவனாக தனக்குள் இருப்பவனை முழுவதுமாக அறிந்து உணர்ந்து கொண்ட பிறகு இறைவனும் உயிராக இருப்பவனும் இறைவனே தான் என்பதை உணர்ந்து தானே இறைவனாக வீற்றிருப்பான்.`,
   },
   {
@@ -2108,9 +2069,7 @@ All manifestations of Nature are His Grace
 All animate and inanimate are His Pure Grace
 As darkness, as light, the Lord's Grace pervades,
 All, all are but the Grace of His Form manifest.`,
-    elaborationEnglish: `All are but His benignant Grace, be they the manifestations
-of nature; be they -animate or inanimate, be they darkness
-or light. .`,
+    elaborationEnglish: `All are but His benignant Grace, be they the manifestations of nature; be they -animate or inanimate, be they darkness or light. .`,
     elaborationTamil: `பாடல் #1805 இல் உள்ளபடி ஐந்து விதமான தொழில்களை செய்கின்ற இறையருளே உலகமாகவும், அதிலுள்ள உள்ள இயற்கையாகவும், அதிலுள்ள அசையும் அசையாத பொருள்களாகவும், அதிலுள்ள உயிர்களை கட்டி இருக்கின்ற மூன்று விதமான (ஆணவம், கன்மம், மாயை) மலங்களாகவும், அந்த மலத்தினால் உயிர்களுக்கு இருக்கின்ற அறியாமையாகிய இருளாகவும், இறையருள் பெற்ற உயிர்களுக்கு உள்ளிருந்து இறைவன் உணர்த்துகின்ற ஞானமாகிய வெளிச்சமாகவும், அண்டங்களும் அதிலுள்ள அனைத்து பொருட்களின் வடிவமாகவும் இருக்கின்றது. இப்படி இறையருளாக இருக்கின்ற இறைவன் இல்லாமல் இவை எதுவுமே இல்லையாம்.`,
   },
   {
@@ -2422,9 +2381,7 @@ If other gods be born, live and die
 Are they the True Ones? Speak;
 Let us this body leave, to vultures a prey
 And save our Soul--this you should proclaim.`,
-    elaborationEnglish: `If gods are born, live and dic, can they be true gods? Proclaim
-that — to save jivas, lest they should leave this body a prey
-to the vultures.`,
+    elaborationEnglish: `If gods are born, live and dic, can they be true gods? Proclaim that — to save jivas, lest they should leave this body a prey to the vultures.`,
     elaborationTamil: `உலகத்தில் கற்றதே உண்மை என்று நீங்கள் நம்புவது உண்மை என்றால் இதற்கு முன் ஜென்மத்தில் நீங்கள் எங்கு பிறந்து அங்கு எப்படி இறந்தீர்கள் என்பதை உங்களால் சொல்ல முடியுமா? அது போலவே உள்ளிருக்கும் சிவத்தை தவிர வெளியில் வேறு ஒரு தெய்வம் இருக்கின்றது என்று உலகோர் சொல்லுவது உண்மை போல் தெரியும். அப்படி உண்மை போல் தெரிகின்ற பொருளானது உங்களின் உடல் அழியும் போது உங்களை விட்டு நீங்கிப் போய் விடும். ஆகவே உலகத்தில் பிறக்கும் போது நீங்கள் அணிந்து வந்த உடல் எனும் சட்டையை இந்த உலகத்திலேயே விழுந்து கிடக்கும் படி விட்டு விட்டு அந்த உடலுக்குள் இருந்த அருமையான உயிர் எனும் தேராக செயல்புரிகின்ற சிவத்தை அணிந்து கொள்ளுங்கள். வாழ்க்கைக்கு முக்கியமான இந்த உண்மையை மற்றவர்களுக்கும் எடுத்து சொல்ல முடிந்தவர்கள் சொல்லுங்கள்.`,
   },
   {
@@ -2502,9 +2459,7 @@ You can think of Him, you can speak of His Truth
 But rare indeed to see the Lord of the Holy Feet;
 They can but see the Lord of the Holy Feet
 Who adore Him with flower and water.`,
-    elaborationEnglish: `Well may you think of Him, and speak of His Truth. But
-rarely can you behold the Holy Feet of the Lord. They who
-adore Him with flowers and water can see them.`,
+    elaborationEnglish: `Well may you think of Him, and speak of His Truth. But rarely can you behold the Holy Feet of the Lord. They who adore Him with flowers and water can see them.`,
     elaborationTamil: `நல்லதை மட்டுமே நினைப்பது, உண்மையை மட்டுமே பேசுவது ஆகிய ஒழுக்கங்களை சரியாக கடை பிடிக்காமல் வேறு என்ன சாதகம் செய்தாலும் இசைக்கின்ற அழகிய சிலம்புகளை அணிந்த திருவடிகளை உடைய இறைவனை தரிசிக்க முடியாது. ஆகவே நன்மையை மட்டுமே நினைப்பதையும் உண்மையை மட்டுமே பேசுவதையும் ஒழுக்கமாகக் கொண்டு அதனோடு அனைத்து உயிர்களுக்குள்ளும் இசைகின்ற அழகிய சிலம்புகளை அணிந்த திருவடிகளை உடைய இறைவனை தரிசிக்கும் வல்லமை பெற்றவர்கள் தாம் தரிசித்த இறைவனை நேரிலேயே நறுமணம் கொண்ட அழகிய மலர்களாலும் தூய்மையான நீராலும் போற்றி வணங்கி வழிபடும் வல்லமை பெறுவார்கள்.`,
   },
   {
@@ -2524,10 +2479,7 @@ That consecrated water and garland of flowers bear?
 With offerings five of dishes sweet
 And with upachara rituals two times eight
 They humbly prostrating, in archana, worship. evocative`,
-    elaborationEnglish: `Why has the Lord taken His seat in the heart of the celestial
-beings who bear the consecrated water and garland of flowers?
-They humbly prostrate in worship, offering the Lord five sweet
-dishes and sixteen upachara rituals.`,
+    elaborationEnglish: `Why has the Lord taken His seat in the heart of the celestial beings who bear the consecrated water and garland of flowers? They humbly prostrate in worship, offering the Lord five sweet dishes and sixteen upachara rituals.`,
     elaborationTamil: `அடியவர்களால் அபிஷேகமும் மலர்கள் சூட்டி அலங்காரமும் செய்து இறைவனின் பிரதிநிதிகளாக வழிபடப் படுகின்ற வானுலகத்து தேவர்களின் நெஞ்சத்திற்குள் இறைவன் வீற்றிருந்து அடியவர்களின் வழிபாட்டிற்கு ஏற்ப அருளை வழங்குவதற்கு காரணம் என்னவென்றால் அடியவர்கள் உண்மையான அன்போடு பஞ்சாமிர்தம் முதலாகிய 16 விதமான உபசாரங்களை செய்து அருச்சனை செய்தார்கள் என்பதனால் ஆகும். 16 வகையான உபசாரங்கள்: ஆவாகனம் – மந்திரத்தால் இறை சக்தியை ஒரு மூர்த்திக்கு மாற்றுதல் தாபனம் – மூர்த்தியை பிரதிஷ்டை செய்தல் சந்நிதானம் – மூர்த்தி இருக்கின்ற மூலஸ்தானத்தை சுத்தப் படுத்துதல் சந்நிரோதனம் – இறைவனது சாந்நியத்தை (சக்தி வெளிப்பாடு) மூர்த்தியில் நிறுத்துதல் அவகுண்டவம் – மூர்த்தியை சுற்றி மூன்று கவசங்களை மந்திரத்தால் உருவாக்குதல் தேனுமுத்திரை – மனதை ஒருநிலைப் படுத்தி முத்திரை காட்டுதல் பாத்தியம் – மூல மந்திரத்தை உச்சரித்து மூர்த்தியின் திருவடியில் தீர்த்தம் சமர்ப்பித்தல் ஆசமனீயம் – புனிதப் படுத்தும் நீரை மந்திரத்தால் உட்கொள்ளுதல் அருக்கியம் – தூய்மையான நீரினால் மூர்த்திக்கு அபிஷேகம் செய்தல் புஷ்பதானம் – மலர்கள் சாற்றுதல் தூபம் – சாம்பிராணி காட்டுதல் தீபம் – தீப ஆராதனை செய்தல் நைவேத்தியம் – இறைவனை நினைத்து சமைத்த சாத்வீகமான உணவு படைத்தல் பாணீயம் – தூய்மையான நீர் படைத்தல் செபசமர்ப்பணம் – மந்திரங்களை ஜெபித்து சமர்ப்பித்தல் ஆராத்திரிகை – போற்றி பாடி மணியடித்து ஆராதித்தல்`,
   },
   {
@@ -2565,17 +2517,7 @@ Mukti indeed for those
 That anoint the feet of holy men
 Who in Jnana are upraised;
 Thus does Mula proclaim.`,
-    elaborationEnglish: `That anoint the feet of holy men
-Who in Jnana are upraised;
-
-Thus does Mula proclaim.
-
-They who worship with water and flowers reap the reward
-of bathing in the nine Holy Waters of the Lord. Mula
-(Tirumular) proclaimed that those who anoint the feet of holy
-men who are upraised in jnana obtain mukti.
-
-bpuypp Nay wered per mrgues`,
+    elaborationEnglish: `Thus does Mula proclaim. They who worship with water and flowers reap the reward of bathing in the nine Holy Waters of the Lord. Mula (Tirumular) proclaimed that those who anoint the feet of holy men who are upraised in jnana obtain mukti.`,
     elaborationTamil: `அனைத்து உயிர்களுக்கும் தந்தையாகிய இறைவன் நமது உடலுக்குள் இருக்கின்ற ஒன்பது விதமான தீர்த்தங்களாகிய சக்கரங்களில் திருநடனம் புரிவதனால் கிடைக்கின்ற பலனை பற்றி கூறுகின்றேன் கேளுங்கள். இறைவனுக்கு இணையாகிய உண்மையான ஞானத்தில் உயர்ந்து விளங்கும் ஞானிகளின் அருள் நிறைந்த திருவடிகளை சுத்தமான நீரினால் கழுவித் துடைத்து அந்த நீரை நமது தலையில் தீர்த்தமாக தெளித்துக் கொண்டால் அந்த அருளின் பயனால் நமக்குள் இருக்கின்ற ஒன்பது விதமான தீர்த்தங்களாகிய சக்கரங்களில் இறைவன் வந்து திருநடனம் புரிவான். அப்போது அதன் பயனால் மும்மலங்களும் நீங்கப்பெற்று கிடைக்கின்ற முக்தி நிலையாக இறைவனே இருப்பான் என்று நமக்கெல்லாம் ஆதிமூலமாகிய இறைவனே சொல்லி அருளினான். உட் கருத்து: புண்ணிய நதிகளில் நீராடுவதை விட இறைவனை உணர்ந்த ஞானிகளின் பாதங்களை கழுவிய நீரை தெளித்துக் கொள்வது எளிதில் இறையருளைப் பெறுவதற்கு வழிவகுக்கும். அது எப்படி என்றால் இறைவனை உணர்ந்த ஞானிகளின் அருள் நிறைந்த பாதங்களை தூய்மையான நீரினால் சுத்தமாக கழுவித் துடைத்தால் அந்த பாதத்தில் இருக்கின்ற அருளின் மூலம் நமக்குள் இருக்கின்ற மாயையாகிய அழுக்குகள் நீங்கி உண்மை அறிவைப் பெற்று அதன் மூலம் முக்தியை அடையலாம். உடலுக்குள் இருக்கின்ற ஒன்பது சக்கரங்கள்: மூலாதாரம் (அக்னி மண்டலம்) சுவாதிஷ்டானம் மணிப்பூரகம் அநாகதம் விசுக்தி ஆக்ஞை சகஸ்ரதளம் சூரிய மண்டலம் (துவாத சாந்த வெளி) சந்திர மண்டலம்`,
   },
   {
@@ -2652,9 +2594,7 @@ And with Pasa subdued,
 stand and pray
 And unfailing, My
 Lord's Grace receive.`,
-    elaborationEnglish: `The heavenly beings traverse over clouds, bearing the choicest
-flowers and water; stand with subdued pasa and pray to Him.
-They all receive the Lord’s Grace without fail.`,
+    elaborationEnglish: `The heavenly beings traverse over clouds, bearing the choicest flowers and water; stand with subdued pasa and pray to Him. They all receive the Lord’s Grace without fail.`,
     elaborationTamil: `உண்மையான அன்போடு அருச்சனை செய்வதற்கு நறுமணம் மிக்க மலர்களையும் அபிஷேகம் செய்வதற்கு தூய்மையான நீரையும் ஒன்றாக கைகளில் ஏந்தி வந்து, மழை நீரைக் கொண்ட மாபெரும் மேகக் கூட்டங்களுக்கு மேலே வசிக்கின்ற விண்ணுலகத் தேவர்களுக்கு பூஜை செய்து, இந்த உலகில் பிறவி எடுக்கும் போது அதனுடன் சேர்ந்து வந்த பந்த பாசங்களினால் அனுபவிக்கின்ற பலவித துன்பங்களில் இருந்து தம்மை விடுவித்து அருளும் படி இறைவனை போற்றி வணங்கும் அடியவர்களுக்கு இறைவனின் திருவருளானது எந்தவித குற்றமும் இல்லாமல் பரிபூரணமாக கிடைக்கும்.`,
   },
   {
@@ -2714,9 +2654,7 @@ To them that do this,
 The Lord by Himself stands revealed;
 This the way to the Holy Feet of the three-eyed God;
 Adoring Him thus, He fails never to stand before you.`,
-    elaborationEnglish: `To adore Him with many flowers is the sure way to reach
-the Holy Feet of the Three-Eyed God. Ta him, who does
-it, the Lord stands revealed, unfailing.`,
+    elaborationEnglish: `To adore Him with many flowers is the sure way to reach the Holy Feet of the Three-Eyed God. Ta him, who does it, the Lord stands revealed, unfailing.`,
     elaborationTamil: `பூஜை செய்து பெறுகின்ற பலன்களைப் பற்றிய அறிவு ஒன்று உண்டு. பல விதமான நறுமணம் மிக்க மலர்களை தூவி இறைவனுக்கு அருச்சனை செய்வதன் மூலம் பெறுகின்ற நற்பலன்களை அறிந்து கொள்கின்ற அடியவர்களுக்கு இறைவன் தாமாகவே படிப்படியாக பல அனுபவங்களை கொடுத்து அருள்வான். மூன்று கண்களைக் கொண்ட இறைவனின் திருவடியே கதியென்று முழுவதுமாக சரணடைந்த அடியவர்களுக்கு அவர்கள் எந்த வகையில் வழிபடுகின்றார்களோ அந்த வகையிலேயே இறைவன் வந்து நிற்பான்.`,
   },
   {
@@ -2756,9 +2694,7 @@ And sing the praise of the Pure One;
 Who who thinks of His bounteous Grace
 Him He blesses,
 He, the Primal One of the Plural Three.`,
-    elaborationEnglish: `The celestials, seek the earth, laden with flowers and water,
-and sing the praise of the pure Lord, the Primal One of the
-plural three who blesses.`,
+    elaborationEnglish: `The celestials, seek the earth, laden with flowers and water, and sing the praise of the pure Lord, the Primal One of the plural three who blesses.`,
     elaborationTamil: `விண்ணுலகத்தில் வாழும் தேவர்களின் அம்சமாகிய அடியவர்களோடு சேர்ந்து நின்று, அவர்கள் இசைக்கின்ற பலவித மந்திரங்களாகிய பாடல்களை மனம் ஒன்றிப் பாடி, இந்த உலகத்தில் தினம் தோறும் நறுமணம் மிக்க மலர்களோடு தூய்மையான நீரையும் கைகளில் எடுத்து வந்து, தூய்மையானவனாகிய இறைவனை போற்றி துதித்து, பிரம்மன், திருமால், உருத்திரன் ஆகிய மூன்று மூர்த்திகளாக தனித்தனி தன்மைகளோடு பிரிந்து இருந்தாலும் அனைத்திற்கும் முதல்வனாகவே நின்று திருவருள் புரிகின்ற இறைவனின் பெருங் கருணை குணத்தை நினைத்து பார்க்கும் வல்லமை பெற்றவர்கள் யார்?`,
   },
   {
@@ -2779,11 +2715,7 @@ And at His shining Feet lay the flowers;
 And stand and pray
 And unto the rain-laden clouds
 Forever prosperous you shall be.`,
-    elaborationEnglish: `Gather flowers and carry pure water; bathe Him and lay the
-flowers at His radiant Feet; stand and pray; and adore Him
-ih unfailing piety. You will forever prosper.
-
-Oacrg Mearsg Oengtiucail Guicsmesnit`,
+    elaborationEnglish: `Gather flowers and carry pure water; bathe Him and lay the flowers at His radiant Feet; stand and pray; and adore Him ih unfailing piety. You will forever prosper.`,
     elaborationTamil: `காலையில் எழுந்த பிறகு தங்களின் தொழில் செய்வதற்கு முன்பு அவசரமின்றி நிதானமாக தூய்மையான நீரையும் நறுமணமிக்க மலர்களையும் இரு கைகளில் ஏந்திக் கொண்டு, எந்தவிதமான குற்றமும் இல்லாமல் இறைவனை சிரத்தையோடு பூசை செய்கின்ற மிகப்பெரும் தவத்தை ஒரு நாளும் தவறாமல் கடைபிடித்து, அழகிய சிலம்புகளை அணிந்து கொண்டு இருக்கின்ற இறைவனின் திருவடிகளுக்கு ஒரே வகையான நறுமலர்களை தூவி அருச்சனை செய்து, மழை பொழிகின்ற கருத்த மேகத்தை போலவே தூய்மையான நீரால் அபிஷேகம் செய்து நிலையாக நில்லுங்கள். உட் கருத்து: இறைவனுடைய திருவடிகளில் எப்போதும் இழைந்து (உராய்ந்து) கொண்டே இருக்கின்ற அழகிய சிலம்புகளைப் போலவே அடியவர்கள் தங்களின் மனதிற்குள் இறைவனின் திருவடிகளை எப்போதும் நினைத்துக் கொண்டே இருப்பது ஒரு மிகப் பெரிய தவம் ஆகும். அந்த தவத்தை சிரத்தையோடு இடைவிடாது கடை பிடித்தால் கருமையான மேகங்களுக்குள் மழை நீர் மறைந்து இருப்பது போலவே அடியவரது எண்ணத்திற்குள் இறைவனின் திருவருளானது எப்போதும் நிறைந்து நிற்கும்.`,
   },
   {
@@ -2823,7 +2755,9 @@ And yet have known Him not
 Let them adore Him with Athi flower, so dear to Him
 And pray, their base nature be cleansed of impurities;
 --That the way to Goal Supreme.`,
-    elaborationEnglish: `Adore the Lord with the athi flower so dear to Him and pray that you will be cleansed of all impurities.`,
+    elaborationEnglish: `1) Athi - flower of the tree, bauhima racemosa. It is dear to Siva.
+
+Adore the Lord with the athi flower so dear to Him and pray that you will be cleansed of all impurities.`,
     elaborationTamil: `நறுமணமிக்க மலர்களை அணிவித்தும், அறுசுவை உணவு படைத்தும், தானாகவே தோன்றிய மூர்த்தி என்றுபோற்றி வணங்கியும், தினம் தோறும் பூஜை செய்தும் அடைவதற்கு மிகப் பெரும் செல்வமாகிய இறைவனை யாரும் அறிந்து கொள்வது இல்லை. அதற்கு காரணம் உலகப் பற்றுக்களில் சிக்கி இறைவன் மேல் முழு பக்தி இல்லாமல் போவதே ஆகும். ஆகவே, உலக பற்றுக்களில் உள்ள ஆசைகளோடு மன உறுதியுடன் போர் புரிந்து அந்த ஆசைகளை பக்தியாக மாற்றி இறைவன் மேல் போகும் படி எண்ணங்களை வைத்து வந்தால் ஓரு காலத்தில் அந்த எண்ணங்களில் எந்தவிதமான மாசும் இல்லாமல் போகும். அப்போது சென்று அடைவதற்கு மிகப்பெரிய திசையாகிய முக்திக்கு செல்லுகின்ற வழியாக அதுவே ஆகி விடும்.`,
   },
   {
@@ -2896,11 +2830,7 @@ By Vishesha Diksha, the Mantra purification insures;
 By Nirvana Diksha, the Kalas purification is effected;
 The Abhisheka Diksha is for those
 Who the Jnani State has attained.`,
-    elaborationEnglish: `The primal malas lose their potency by Samaya diksha. The
-purification of mantra chanting is ensued by Visesha diksha,
-the purification of the kalas is effected by Nirvana diksha.
-‘Abhisheka diksa is for those who have attained the state
-of jnana.`,
+    elaborationEnglish: `The primal malas lose their potency by Samaya diksha. The purification of mantra chanting is ensued by Visesha diksha, the purification of the kalas is effected by Nirvana diksha. ‘Abhisheka diksa is for those who have attained the state of jnana.`,
   },
   {
     id: 1847, tantraId: 7, verseNumber: 1846,
@@ -2962,10 +2892,7 @@ But unless you know Him,
 Your fleshly desires rid
 You cannot reach His Feet
 That are with honeyed flowers bedecked.`,
-    elaborationEnglish: `No use in adoring him with sweet-scented sandals and rare
-flowers which blossom heavenward. Unless one seeks him,
-rid of bodily desires, his feet that are bedecked with honeyed
-flowers, cannot be reached.`,
+    elaborationEnglish: `No use in adoring him with sweet-scented sandals and rare flowers which blossom heavenward. Unless one seeks him, rid of bodily desires, his feet that are bedecked with honeyed flowers, cannot be reached.`,
     elaborationTamil: `காட்டில் பொருந்தியுள்ள கோடிக் கணக்கான சந்தன மரங்களின் கட்டைகளைத் தேய்த்தெடுக்கப்பட்ட நறுமணம் கமழ்கின்ற சந்தனத்தையும், அதுபோலவே ஆகாயம் அளாவக் குவிக்கபப்ட்ட பெருமை மிக்க மலர்கலையும் பயன்படுத்திச் சிவனை வழிபட்டாலும் உடம்பைத் தம்மின் வேறாக உணர்ந்து அதன்கண் உள்ள பற்றை விடுத்துச் சிவனையே பற்றாக உணர்பவர்க்கல்லது ஏனையோர்க்கு அவனது, தேன் நிறைந்த செந்தாமரை மலர்போலும் திருவடியைச் சேர இயலாது.`,
   },
   {
@@ -2984,10 +2911,7 @@ That leads unto the Para Supreme,
 The Path of Jnana is all Archana;
 Great indeed is constant worship within;
 To reach the Lord's Feet is to still actions all.`,
-    elaborationEnglish: `Excelling in the path of jnana which leads to Para Supreme
-is the greatest ‘archanai’, worship. Constant worshipping
-within is indeed great. Reaching the Lord's Feet is to still
-all. actions.`,
+    elaborationEnglish: `Excelling in the path of jnana which leads to Para Supreme is the greatest ‘archanai’, worship. Constant worshipping within is indeed great. Reaching the Lord's Feet is to still all. actions.`,
     elaborationTamil: `குருவருளால் கேள்வியாகப் பெற்ற ஞானத்தைப் பின் சிந்திதத்ல, தெளிதல் என்பவற்றின்பின் நிட்டையாக முதிரப் பெறின் அவ்விடத்தில் அந்த நிட்டையில் நிற்றலே பரசிவ பூசை யாகும். (ஆகவே அந்நிலையை அடைந்தவர்க்கு ஏனையோர்க்குக் கூறப்பட்ட சிவபூசைகள் வேண்டாவாம்) அந்நிலையை அடையாது கேள்வி முதலிய மூன்றில் நிற்போர்க்கு, ''உள்ளம் பெருங்கோயில்'' என்னும் மந்திரத்துட் கூறியவாறு செய்யும் ஞான பூசையே சாதனமும், அப்பூசையின் பயனாகத் தற்போதம் கழன்றிருத்தலே பயனும் ஆகும்.`,
   },
   {
@@ -3114,7 +3038,7 @@ The worship that you perform
 Where neither day nor night is
 Is to Him of the flowing matted locks
 Acceptance full and replete indeed.`,
-    elaborationEnglish: `In worship, two flowers are offered to the Lord — once at day and another at night. He of the matted locks accepts the worship in the sphere where there is neither night nor day.`,
+    elaborationEnglish: ``,
     elaborationTamil: `பகலும், இரவும் ஆகிய கால வேறுபாடுகள் தோன்றுகின்ற பூசைகள் காலத்தைக் கடந்தவனாகிய சிவனுக்கு முற்றிலும் நேர்படும் பூசைகள் ஆகா. மற்று, அவ்வேறுபாடு தோன்றாத பூசைகளையே சிவன் முழுமையாக ஏற்பான்.`,
   },
   {
@@ -3135,11 +3059,7 @@ At the holy Feet of Lord
 Where neither day nor night is,
 I dispelled the Maya twain,
 That with day and night compare.`,
-    elaborationEnglish: `Sitting in the sphere where there is neither day nor night,
-the yogi imbibes the supreme honeyed bliss. At the Holy Feet
-of the Lord that yogi is lost in thought to outside events,
-dispelled of the maya that creates the distinction of night
-and day`,
+    elaborationEnglish: `Sitting in the sphere where there is neither day nor night, the yogi imbibes the supreme honeyed bliss. At the Holy Feet of the Lord that yogi is lost in thought to outside events, dispelled of the maya that creates the distinction of night and day`,
     elaborationTamil: `இரவும், பகலும் ஆகிய கால வேறுபாடுகள் தோன்றாத ஆழ்ந்த தியான நிலையேயிருந்து, அதனால் விளைகின்ற சிவானந்தமாகி தேனை வேறுநினைவின்றிப் பருகினமையால், இரவும், பகலும் ஆகிய கால வேறுபாடுகள் இல்லாத இறைவனது திருவடியின்பத்தில் திளைத்து, மேற்கூறிய வேறுபாடுகளையுடைய காலமாகிய மாயா காரியம் இரண்டினையும் யான் போக்கிவிட்டேன்.`,
   },
   {
@@ -3180,9 +3100,7 @@ Is food, all three worlds took;
 The offerings they cheerfully received
 Are offerings the three worlds received;
 --Thus He proclaimed, Nandi the Great.`,
-    elaborationEnglish: `The great Nandi has proclaimed that the offerings received
-by the tapasvins of blemishless thought are offerings received
-by the Three Worlds.`,
+    elaborationEnglish: `The great Nandi has proclaimed that the offerings received by the tapasvins of blemishless thought are offerings received by the Three Worlds.`,
     elaborationTamil: `'சிவனிடத்தினின்று பிறிதொன்றால் நீக்கப்படாத உள்ளத்தினையுடைய மாகேசுரர்கள் மனமகிழ்ந்து உண்ட பொருள் மூன்றுலகங்களும் உண்ட பொருளாகும்; (அவற்றிற்கு அது பயனாகும்' என்பதாம்) அதுபோலவே அவர்கள் பெற்றுக்கொண்ட பொருளும் மூன்றுலகங்களும் பெற்றுக்கொண்ட பொருளாம், என்று நந்தி பெருமான் எங்கட்குச் சிறந்தெடுத்துக் கூறினார்.`,
   },
   {
@@ -3202,10 +3120,7 @@ Are verily oblations meet for the Gods Three;
 And for ancestors too,
 Through generations three times seven;
 This for certain shall you know.`,
-    elaborationEnglish: `Know that the offerings given.to the dear devotees of the
-Lord, who are seated in Him, are oblations offered to the
-three Gods and to the giver’s ancestors for twenty-one
-generations.`,
+    elaborationEnglish: `Know that the offerings given.to the dear devotees of the Lord, who are seated in Him, are oblations offered to the three Gods and to the giver’s ancestors for twenty-one generations.`,
     elaborationTamil: `இப்பாடலின் பொருள் பின்வரும் குறிப்புரையால் இனிது விளங்கும்.`,
   },
   {
@@ -3303,10 +3218,7 @@ The hanging darkness of ignorance forever disappears.
 Unfailing seek the devotee pure
 And your obeisance make;
 Of a certain will the world rejoice.`,
-    elaborationEnglish: `Let the yogi worship Siva’s devotees who knows no death.
-The vestigial ignorance in him will then disappear once and
-for all. So seek the pure devotees without fail and make
-obeisance to them. It will result in the rejoicing of the world.`,
+    elaborationEnglish: `Let the yogi worship Siva’s devotees who knows no death. The vestigial ignorance in him will then disappear once and for all. So seek the pure devotees without fail and make obeisance to them. It will result in the rejoicing of the world.`,
     elaborationTamil: `இறைமைக் குணங்களையுடைய சிவபெரு மானை விரும்பி அவனை நாள்தோறும் தொழுது துயிலெழுதலை மட்டும் செய்தால், இவ்வுலகத்தில் உலகின்பத்தோடு சிறிது இறையின்பமும் உண்டாகும். ஆனால், தம் நிலையில் கெடுதல் இல்லாத மாகேசுரரை வழிபடுதலால், இவ்வுலகத்தில் நீங்குதற்கரிய அஞ்ஞானம் நீங்கி இறையின்பமே மிகக் கிடைக்கும்.`,
   },
   {
@@ -3451,10 +3363,7 @@ The Vedas ancient,
 The Gods that create and preserve
 And their Primal Lord that is Siva
 --All they are but in me.`,
-    elaborationEnglish: `The seven universes, the cosmic space beyond them, the
-animate and inanimate lives, the three gunas, the ancient
-Vedas, the Gods of creation and preservation and their Primal
-Lord Siva — are all in the yogi himself.`,
+    elaborationEnglish: `The seven universes, the cosmic space beyond them, the animate and inanimate lives, the three gunas, the ancient Vedas, the Gods of creation and preservation and their Primal Lord Siva — are all in the yogi himself.`,
     elaborationTamil: `இதன் பொருள் வெளிப்படை.`,
   },
   {
@@ -3497,11 +3406,7 @@ Whose arms stretch embracing directions eight;
 In the nether world are His Feet;
 In the peaks of the cosmic universe,
 The Crown of His Head rises.`,
-    elaborationEnglish: `The devotees of the Lord pursue the sure path in this world.
-In the heavens above they will rule. They become Siva whose
-eight arms embrace the eight directions, whose Feet are in
-the depths of the nether world and whose crown is in the
-peaks of the cosmic unjverse.`,
+    elaborationEnglish: `The devotees of the Lord pursue the sure path in this world. In the heavens above they will rule. They become Siva whose eight arms embrace the eight directions, whose Feet are in the depths of the nether world and whose crown is in the peaks of the cosmic unjverse.`,
     elaborationTamil: `சிவனடியார்கள் பிறரைப் போலவே தாமும் மயக்க உலகத்தில் வாழ்வராயினும் அவ்வுலகம் மயக்குகின்ற மயக்கத்துட் படாது தெளிந்த உணர்வோடே வாழ்வர். உடம்பு நீங்கிய பின்னும் பிறரைப் போல மயக்க உலகங்களில் உழலாமல் சிவன் உலகத்தை அடைந்து அதன்கண் சில புவனங்கட்குத் தலைவராயும் விளங்குவர். அவையேயன்றித் தாமும் சிவனைப் போலவே எல்லா உலகங்களும் தம்முள் வியாப்பியமாய் அடங்கத் தாம் அவற்றைத் தம்முள் அடக்கி வியாபகமாயும் நிற்பர்.`,
   },
   {
@@ -3523,9 +3428,7 @@ The heart that knows Him enter in,
 Loses its ego,
 Well may that be destroyed too;
 Do strive that state to reach.`,
-    elaborationEnglish: `The Lord resides in our heart. Those who see Him residing
-within know not sorrows. The heart that knows His entrance,
-loses its ego. Strive to reach that state and muse on Him.`,
+    elaborationEnglish: `The Lord resides in our heart. Those who see Him residing within know not sorrows. The heart that knows His entrance, loses its ego. Strive to reach that state and muse on Him.`,
     elaborationTamil: `புறநிலையிற் செல்லாது அகநிலையிற் சென்று அங்குள்ள இறைவனை அறிகின்ற அறிவு 'நான்' என்னும் முனைப்பு அடங்கி நிற்றலை அனுபவத்தில் யாம் கண்டோம். அதனால் அந்த அறிவு மாயா காரியங்கைள ஒழித்து அவற்றினின்றும் நீங்கித் தூய்மை யுறுகின்றது. ஆகவே, அகநிலையிலே நிற்கின்ற நம் பெருமானை அவ்விடத்திற் காண்கின்ற அகநிலையறிவைப் பெற்றவர்கள் துன்பத்தை அடைய மாட்டார்கள்.`,
   },
   {
@@ -3606,10 +3509,7 @@ His holy work to perform;
 Higher still will He lift me,
 Unto the Golden Kingdom of Purity to rule,
 --He of the spreading matted locks.`,
-    elaborationEnglish: `The celestial beings bore on their heads the Nandi of the
-flowing matted locks. Nandi raised the yogi high on earth
-to perform his holy work. The Lord will lift him higher still,
-to the very golden kingdom of purity to me.`,
+    elaborationEnglish: `The celestial beings bore on their heads the Nandi of the flowing matted locks. Nandi raised the yogi high on earth to perform his holy work. The Lord will lift him higher still, to the very golden kingdom of purity to me.`,
     elaborationTamil: `தேவர்கள் தம் தலையால் தனது திருவடிமேல் வணங்குகின்ற, தாழ்ந்த சடையை உடைய சிவபெருமான் தனக்கு உண்மையான தொண்டினைச் சிலர் செய்ய அதற்குப் பயனாக அவரைத் தேவர்கள் தம் தலைமேல் வைத்துப் போற்றும்படி வைத்தான். அதற்குமேல் அவன் அவரை முக்குணங்களும், கன்மமும், ஆணவமும் இல்லாத ஒளிமயமான மேல் உலகத்தை ஆள்கின்ற பயனையும் கூட்டுவிப்பான்.`,
   },
   {
@@ -3651,16 +3551,7 @@ They who seek the devotees holy in love endearing
 Can in depth Siva seek and be near;
 The devotees who the Holy One seek
 Will in Siva's greatness merged be.`,
-    elaborationEnglish: `They return not to here below;
-
-Immersed are they in the waters of Contemplation
-
-Divine
-—This their tapas intense.
-
-They who seek the holy devotees in endearing love, seek in
-depth and are near to Siva. Such devotees will be merged
-in Siva’s greatness.`,
+    elaborationEnglish: `They who seek the holy devotees in endearing love, seek in depth and are near to Siva. Such devotees will be merged in Siva’s greatness.`,
     elaborationTamil: `முன்னை மந்திரத்திற் கூறியவாறு இளமையிலே அடியார் பத்தியிற் சிறந்த ஒருவனை அடைந்து அன்பு செய்பவர்கள் சிவனையே அடையவும் வல்லாராவர். இன்னும் அவரிடத்தில் சிவனையே வழிபடும் ஒருவனது பெருமை அடங்கி விடுவதாகும்.`,
   },
   {
@@ -3727,7 +3618,7 @@ Can transcend worlds several;
 They who the Divine Light perceived
 Are verily immortals here below;
 They indeed are Siva's devotees true.`,
-    elaborationEnglish: `He who has attained the higher knowledge can even create this world and can transcend several worlds. He who has perceived the divine light is immortal here below. He indeed is the true devotee of Siva. 15. Gunser af) RULES FOR FEEDING HOLY MEN`,
+    elaborationEnglish: `He who has attained the higher knowledge can even create this world and can transcend several worlds. He who has perceived the divine light is immortal here below. He indeed is the true devotee of Siva.`,
     elaborationTamil: `பிரமன், விட்டுணு, பிறதேவர் ஆகியோ ரெல்லாம் தாம் தாம் செய்யும் அதிகாரத்தைத் தமது ஆற்றலால் அமைந் தனவாகவே கருதி மயங்குவாரல்லது, 'இவை பரம்பொருளாகிய சிவனது ஆணையின்வழி நமக்கு அமைந்தன, என்று உணர மாட்டார்கள் (அதனால் அவர்கள் மெய்யடியாராதல் இல்லை) அந் நிலையில், 'நமக்குக் கிடைத்த நலங்கள் யாவும் பரம்பொருளாகிய சிவனது அருளால் கிடைத்தன' எனச் சிவனுக்கு மெய்யடியா ராயினாரே உணர்வார்கள்.`,
   },
   {
@@ -3767,10 +3658,7 @@ To sustain the body temple where the Lord resides;
 Of differences they think not;
 All desires extinguished,
 They in solitude are seated.`,
-    elaborationEnglish: `In order to sustain their body-temple where the Lord resides,
-the holy ones who have savoured the Lord’s inner Grace will
-accept alms at noon-tide. They do not think of differences.
-They are seated in solitude having extinguished all desires.`,
+    elaborationEnglish: `In order to sustain their body-temple where the Lord resides, the holy ones who have savoured the Lord’s inner Grace will accept alms at noon-tide. They do not think of differences. They are seated in solitude having extinguished all desires.`,
     elaborationTamil: `தம்முள் நிற்கின்ற சிவனுக்குள்ளே தாம் நின்று அவனது திருவருள் இயல்பை அநுபவமாக உணர்ந்த அடியார்கள் பசிமிகுந்த போது தம்முள்ளே அமர்ந்திருக்கின்ற தலைவனது இல்லமாகிய உடலில் உயிர் நின்றாங்கு நிற்றற் பொருட்டு, பிச்சையேற்று உண்டு சிவனைத் தம்மின் வேறாக நினையாது தாமேயாக நினைந்து உலகப் பற்று அற்று ஒன்றாகிய சிவ நிலையிலே உயர்ந்திருப்பார்கள்.`,
   },
   {
@@ -3894,9 +3782,7 @@ Though they received the clear light of Jnana,
 Yet they perforce seek portals of the bounteous for alms;
 To these Tapasvins that beg not for a living,
 All the world in reverence repairs.`,
-    elaborationEnglish: `Tapasvins, though they have received jnana, go from door
-to door for alms. All the world will hold these Tapasvins in
-reverence, for they do not beg for a living.`,
+    elaborationEnglish: `Tapasvins, though they have received jnana, go from door to door for alms. All the world will hold these Tapasvins in reverence, for they do not beg for a living.`,
     elaborationTamil: `இருந்த இடத்திலேயிருக்கும் யோகிகள் வறியவர் இரக்கும் இரவிற்குத் தாம் செல்லாமல், உலகத்தில் உள்ளவர்கள் எல்லாம் தம்பால் வந்து தம்மை வழிபடும்படி இருப்பார்கள். அங்ஙனமாயின், 'ஞானத்தில் மிகுந்தவர் இரத்தலைச் செய்யார்' என்பது சொல்ல வேண்டுமோ!`,
   },
   {
@@ -3934,14 +3820,7 @@ In the palatal place where the three Turiya states of awareness subsume,
 Insert your tongue inward, and there contain it;
 Thus practise the Mudras, Sambhavi and Kecari
 Divine Jnana's light to flood.`,
-    elaborationEnglish: `Divine Jnana’s light to flood.
-
-Insert the tongue inward where the three’ turiya states of
-.consciousness subsume and contain it there. Thus practise the
-mudras, sambhavi and kechari. This will result in the flood
-of -divine jnana’s light.
-
-sribua) 55H) sonea Ge wimTtencuwmLb`,
+    elaborationEnglish: `Insert the tongue inward where the three’ turiya states of .consciousness subsume and contain it there. Thus practise the mudras, sambhavi and kechari. This will result in the flood of -divine jnana’s light.`,
     elaborationTamil: `அரிய சொற்களையே உரைப்பதாயினும் அதனையும் துரிய நிலையில் நிற்குங்கால் எழாமல் அடங்கியிருக்கச் செய்து நின்ற 'சாம்பவி, கேசரி' என்னும் இரண்டு முத்தரைகளே முத்துரியங்களும் செறிந்திருக்கும் இடமாய்' உலகியலினின்றும் நீங்குதற்கும், உண்மை ஞானம் பெருகுதற்கும் ஏதுவாய முத்திரைகளாம்.`,
   },
   {
@@ -4086,10 +3965,7 @@ Mudra that draws nectar of Grace is the Mudra
 That is Siddhanta (Sambhave)
 Mudras all firm up breath,
 That Siva Truth, of yore revealed.`,
-    elaborationEnglish: `Mauna is the mudra for those who seek mukti, jnana (kechari)
-mudra draws nectar. All mudras firm up the breath.
-
-SION sort FUG GHGoucapid`,
+    elaborationEnglish: `Mauna is the mudra for those who seek mukti, jnana (kechari) mudra draws nectar. All mudras firm up the breath.`,
     elaborationTamil: `'மோன முத்திரை' எனப்படுவதாகிய ஞான கேசரி முத்திரையே உணர்வைச் சிவத்தில் நிறுத்தும் முத்திரையும், சிவா னந்தத்தைப் பெருகச் செய்யும் முத்திரையும் சித்தாந்த முத்திரையும், சிவன் சீவனைச் சதா நோக்கிக் கொண்டிருக்கும் முத்திரையும் ஆகும். அதனால் அதுவே சீவன் முத்தர்க்கும், சீவன் முத்தராய் ஆசிரியத் தன்மையை உடையவர்க்கும் ஏற்புடைய முத்திரையாம். அதுபற்றிப் பல சைவங்களும் அதனையே சிறந்த முத்திரையாகக் கண்டன.`,
   },
   {
@@ -4110,7 +3986,7 @@ Within a Golden Sphere is;
 Beyond, the upward course (of Kundalini) lifts you
 To the Moon's Sphere that is white;
 And there you vision the Pure One.`,
-    elaborationEnglish: `“The Lord’s Holy -Feet will appear in the central sushumna nadi. Beyond is the sahasrara in the golden mount sphere; the coursing of kundalini further upward lifts. the yogi to the white moon’s sphere. There he receives the vision of the Pure One. 18. Yes GOS BMS F079)`,
+    elaborationEnglish: `“The Lord’s Holy -Feet will appear in the central sushumna nadi. Beyond is the sahasrara in the golden mount sphere; the coursing of kundalini further upward lifts. the yogi to the white moon’s sphere. There he receives the vision of the Pure One.`,
     elaborationTamil: `தூய நெறியாகிய யோக முறை கைவந்து உண்மையைக் கண்ட அடையாளம், புருவ நடுவில் தோன்றுகின்ற முடி நிலை ஆதாரமாய்க் காணப்பட்டு, மேருமலையின் உச்சியை அடைந்தது போலத் தோன்றும். எனினும் அதுவே முடிநிலையாகாது, அதற்கு மேலேயுள்ள ஏழாந்தானத்திற் சென்றவர் கண்டது சந்திர மண்டலமாம். ஒருவன் அதற்குமேலும் செல்வானாயின், சத்தி சிவ நெறிகளைக் கண்டு மலம் நீங்கிய தூய உணர்வினனாவன்.`,
   },
   {
@@ -4135,7 +4011,7 @@ Sphere
 Where the Souls of
 Ancestors dwell;
 And from there, finally in the Sphere of Moon, he abides.`,
-    elaborationEnglish: `The Lord's Holy Feet will appear in the central sushumna nadi. Beyond is the sahasrara in the golden mount sphere; the coursing of kundalini further upward lifts. the yogi to the white moon’s sphere. There he receives the vision of the Pure One.
+    elaborationEnglish: `When the yogi shuffles his mortal coil, his soul reaches the world of the devas. There abiding for some time, it subsides into the spheres of the sun and reaches the sphere where the souls of ancestors dwell.
 
 This is a very important chapter, (all 8 verses, 1902-1909) describing as it does what happens when success is achieved in Yoga-Samadhi, and also what failure, total or partial involves. :
 
@@ -4200,9 +4076,7 @@ Only to this world return
 And to Yoga repair;
 Blessed indeed are they,
 Whom the Beings Celestial praise high.`,
-    elaborationEnglish: `If Siva yogis die while in the pursuit of yoga, they reaclf
-the world of tapas, only to return to this world. Blessed are
-they whom the celestial beings esteem high.`,
+    elaborationEnglish: `If Siva yogis die while in the pursuit of yoga, they reaclf the world of tapas, only to return to this world. Blessed are they whom the celestial beings esteem high.`,
     elaborationTamil: `பிராசாத யோகமாகிய சிவயோகத்தில் நின்றவன் ஞானம் பெற்றவனோடு ஒத்தவனேயாவன். அவன் ஞானம் பெறுதற்கு முன் உடலை விட்டு நீங்கினானாயினி நேரே சிவலோகத்தையே அடைந்து அங்கு இன்பம் துய்த்தபின் மீளப் பிறந்து அந்தச் சிவ யோகத்தின் வழியே பெற்ற ஞானத்தால் மேன்மை எய்தி அத்தன்மை யாரோடே இருப்பன். அவ்வாறன்றிச் சிவலோகம் முதலியவற்றிற் செல்வோர் பசு புண்ணியம் செய்தவரே யாகையால் சிவயோகி ஆங்கெல்லாம் புகான்.`,
   },
   {
@@ -4266,10 +4140,7 @@ Unto it, the Jnani draws unto him
 His disciples, in love abounding,
 In his own way subtle,
 Toward Godhood, He shapes them.`,
-    elaborationEnglish: `God holds dear the devotees who seek the Grace of the Lord
-intensely, and sunders the fetters of their births. In a similar
-manner the jnani draws his disciples in abounding love and’
-in his own subtle way shapes the disciples towards Godhood.`,
+    elaborationEnglish: `God holds dear the devotees who seek the Grace of the Lord intensely, and sunders the fetters of their births. In a similar manner the jnani draws his disciples in abounding love and’ in his own subtle way shapes the disciples towards Godhood.`,
     elaborationTamil: `ஞானத்தைப் பெற விரும்பும் உறுதியுடையவன், 'சிவனையன்றி வேறொன்றையும் நினைத்தல் கூடாது' என்னும் எண்ணமாகிய விதையை முதலிலே தனது உள்ளமாகிய நிலத்தில் ஊன்றி, (அந்த எண்ணம் சத்திநிபாதத்தால் உண்டாகும்) அங்ஙனமே சிவனையே பலகாலும் நினைத்தும், போற்றியும் வருவானாயின், அந்தச் சிவனே அவனுக்கு ஞானியர் குழாத்தை அவனுக்கு அருள் புரியும் வண்ணம் கூட்டுவிப்பான். (சேரமான் பெருமாளுக்கு வன் றொண்டரைக் கூட்டுவித்ததுபோல.) அங்ஙனம் கூட்டுவிக்கப்பட்ட பின் அவன் தானும் அக்குழாத்து ஞானியர் போல உலகத்தார் அனைவரையும் தன் மக்கள் போலக் கருதி, 'அவர்களும் தான் பெற்ற பேற்றைப் பெற வேண்டும்' என விரும்புவான். அத்தகையோனுக்குச் சிவன் அவன் விரும்பியவாறெல்லாம் காட்சி தருவான்.`,
   },
   {
@@ -4525,9 +4396,7 @@ Then pour the ashes white and powdered incense,
 Shower flowers diverse, Kusha grass and Bilva leaves,
 Sprinkle water holy,
 And raise a platform three feet by three.`,
-    elaborationEnglish: `Finally pour some holy ashes and holy water upon the diverse
-flowers, kusa grass and bilva leaves that are overspread, and
-raise a platform three feet by three.`,
+    elaborationEnglish: `Finally pour some holy ashes and holy water upon the diverse flowers, kusa grass and bilva leaves that are overspread, and raise a platform three feet by three.`,
     elaborationTamil: `திருமேனியைப் பரிவட்டத்தால் மூடிய பின்பு திருவெண்ணீறு, மணப்பொடி, பலவகை மலர்கள், தருப்பைப்புல், வில்வ இலை முதலியவைகளை நிரம்பச் சொரியுங்கள்; பின் அருக்கியம் முதலியவைகளைக் கொடுத்துக் கோயில் எடுத்தற்குரிய தொடக்கத்தைச் செய்து விடுங்கள்.`,
   },
   {
@@ -4546,11 +4415,7 @@ The sapling of peepal tree, or a Lingam holy,
 Arrange the Sannidhi (face) toward north or east
 And perform pujas with rituals sixteen,
 In devotion endearing.`,
-    elaborationEnglish: `In devotion endearing.
-
-Plant the sapling of a peepal tree or a holy lingam on the
-platform, with the sannidhi (face) toward north or east. Then
-perform pujas with sixteen items in endearing devotion.`,
+    elaborationEnglish: `Plant the sapling of a peepal tree or a holy lingam on the platform, with the sannidhi (face) toward north or east. Then perform pujas with sixteen items in endearing devotion.`,
     elaborationTamil: `இதன் பொருள் வெளிப்படை.`,
   },
   {
@@ -4591,7 +4456,13 @@ and ahamkara.
 
 5) Kalas—five kala tattvas.
 
-6) Vaikari—the unmanifested sound.`,
+6) Vaikari—the unmanifested sound.
+
+1923-1936
+
+This chapter of 14 verses (1923 to 1936) is also full of metaphysical concepts, dealing specially with cosmogony viewed from the special angle of evolutes as Bindu and Nada of the Primal Cause.
+
+The contents of this chapter follow naturally from the preceding one. Man is called upon to simulate (imitative magic) the creative process of cosmic Bindu and Nada.`,
     elaborationTamil: `முழுப்படைப்புக் காலத்தில் முதற்கண் சுத்த மாயா காரியங்களே தோன்றும். அக்காரியம் வாக்குகளும், இறைவனது நவந்தரு பேதங்கட்கும் இடமாய் நிற்கும் சுத்த தத்துவங்களும் ஆகும். நவந்தரு பேதங்களை ஒடுக்க முறையில் வைத்து எண்ணினால் பிரமன் முதலியனவாக அமையும். புண்ணியம் காரணமாக இறைவனது அதிகார சத்தி பதிதலால் அப்பெயர் பெற்று நிற்கும் அணுபக்கத் தினரும் உளர். அது நிற்க. வேறு பிரமனாதியர்க்கும், மற்றும் நால்வகை வாக்கிற்கும், அனைத்துப் பொருள்கட்கும் இடமாய் நிற்பன பஞ்சகலைகள்.`,
   },
   {
@@ -4766,11 +4637,7 @@ That it is in their Bija within, they know not;
 That Seed as scented flower in the (body) into microcosm blossoms
 As a Divine Swan So-ham in the macrocosm it is;
 He the Blessed One that is the Causal Seed of all.`,
-    elaborationEnglish: `Nandi stands in the bindu to bestow His manifold blessings
-and Grace. They do not know that bindu is the seed that
-blossoms as a scented flower in the body and a divine swan
-in the cosmos. Bija is the blessed one, that is.the causal
-seed of all.`,
+    elaborationEnglish: `Nandi stands in the bindu to bestow His manifold blessings and Grace. They do not know that bindu is the seed that blossoms as a scented flower in the body and a divine swan in the cosmos. Bija is the blessed one, that is.the causal seed of all.`,
     elaborationTamil: `'அது' எனச் சேய்மையாதாகச் சுட்டிச் சொல்லப் படுகின்ற மகாமாயையாகிய அந்த விந்துவிலே நின்று, அதனை அடைந்தவர்க்கு இனிப்பவனாகிய சிவன், 'இது' என அண்மையாகச் சுட்டிச் சொல்லப்படுகின்ற சுக்கிலமாகிய இந்த விந்துவிலும் நின்று உயிர்களைப் பிறப்பித்துப் பின் வீடடையச் செய்தலை உணரும் உணர்வுடையார் உலகத்து அரியர், ஆயினும், மகாமாயையையே தனக்கு உடமாகக் கொண்டு விளங்குகின்ற அந்தப்பெருமான், நீரால் உண்டாக்கின்ற உணவுப்பொருளில் தங்கிப் பின் கருவுற்பத்திக்கு யாவரிடத்தும் பொதுவாய் உள்ள காரணமாகின்ற விந்துவிலும் இருக்கும் புண்ணியன் ஆகின்றான்.`,
   },
   {
@@ -4807,8 +4674,7 @@ The food you partake in divisions three go
 To the body, to the mind and to the excreta;
 The parts that to the body and the mind go
 Verily become the blood, first.`,
-    elaborationEnglish: `The food you take goes in three directions — to the body,
-to the mind, and to the excreta. ;`,
+    elaborationEnglish: `The food you take goes in three directions — to the body, to the mind, and to the excreta. ;`,
     elaborationTamil: `பலவகையாக உண்ணப்பட்ட உணவுகள் மூன்று கூறுபடும். ஒரு கூறு உடம்பாய்ப் பரிணமிக்கும். மற்றொரு கூறு மனத்தின் தன்மையாய் அமையும். இன்னொரு கூறு மலமாகிக் கழிந்தொழியும். உணவால் திருத்தம் உறுகின்ற உடம்பும், மனமும் சேர்ந்து முன்னாட்களில் காரண நிலையில் 'சாரம்' என்பதாய் இருக்கும்.`,
   },
   {
@@ -4978,7 +4844,9 @@ following the injunction of the Kama Sastras. When the
 moon's kalas (left nadi) shine bright, emit bindu ‘holding your
 breath.
 
-‘Bindu’ here is Semen.`,
+‘Bindu’ here is Semen.
+
+Moon's Kala is here the Pingala NAdi, and Sun's Kala is the Ida Nadi.`,
     elaborationTamil: `கலவி செய்தற்குப் பொருந்திய காலம் இரவில் முதல் யாமமும், கடையாமமும் ஒழிந்த இடையிரு யாமமேயாம். அதனுள்ளும் காலத்தை, 'சூரியகலைக் காலம், சந்திரகலைக் காலம்' என வரையறுத்தற்கு ஏதுவாகிய பிராண வாயுவின் இயக்கம் சந்திர கலையாகின்ற இடநாடியின் நீங்கிச் சூரிய கலையாகின்ற வலநாடிவழியே இயங்கும்பொழுது காமநூல் முறைப்படி கலவி செய்த பின்பு சூரிய கலையும், சந்திர கலையும் அல்லாத அமுத கலையாகிய நடுநாடியில் பிராணவாயு செல்லுங்கால் விந்துவை விடுக்க.`,
   },
   {
@@ -5039,10 +4907,7 @@ The time of union, of pregnancy and delivery
 The baby's length of life, and death;
 Its character, good and bad,
 These you in detail determine.`,
-    elaborationEnglish: `Having emitted, examine the laws of conception and determine
-the results of the act — the time .of union of pregnancy,
-delivery and the baby’s destined length of life and time of
-death.`,
+    elaborationEnglish: `Having emitted, examine the laws of conception and determine the results of the act — the time .of union of pregnancy, delivery and the baby’s destined length of life and time of death.`,
     elaborationTamil: `ஆடவன் பெண்டினிடத்து விந்துவை விட்டபின் கலவிக் காலத்துச் சரவோட்டம் முதலியவை பற்றி அவ்விந்து கருவாகித் தோன்றும் முறையில் அதன் தொடக்கம் முதலியவை களையும், பின்பு அதன் வாழ்நாள் சாநாள்களையும், பின்பு அதன் இழி குணம், உயர்குணம் என்பவற்றையும் 'தனித்தனி இவ்வியல்பினது' என்று ஆராய்ந்தறிதலையும் செய்வானாக.`,
   },
   {
@@ -5247,14 +5112,7 @@ He that has wasted Bindu has perished before his time;
 They know not that Bindu that has been preserved
 In time becomes one with Kundalini,
 Their breath controlled in the Yogic way.`,
-    elaborationEnglish: `In time becomes one with Kundalini,
-
-Their breath controlled in the Yogic way.
-
-Conquer bindu; for that helps to conquer time. The bindu
-that has been preserved merges with kundalini in time, and
-the breath that will be controlled in the yogic way will
-checkmate death.`,
+    elaborationEnglish: `Their breath controlled in the Yogic way. Conquer bindu; for that helps to conquer time. The bindu that has been preserved merges with kundalini in time, and the breath that will be controlled in the yogic way will checkmate death.`,
     elaborationTamil: `விந்து சயம்பெற்றவன் பல்லாண்டுகள் வாழ்தலால் காலத்தைக் கடந்து நிற்பவனாவன். விந்துவை அழித்துவிட்டவன் குறிப்பிட்ட சிலகாலம் வரையில் எவ்வகையிலோ வாழ்ந்து மறைந்தவனாவான். இவ்விருவரும் முறையே கலவிக் காலம் உட்பட எந்தக் காலத்திலும் விந்துவைத் தன் உடலில் வற்றியிருக்கச் செய்தவனும், மாதி னொடு பிராணாயாம முறையில் அமைந்த கலவியை அறியா தவனும் ஆவர்.`,
   },
   {
@@ -5430,10 +5288,7 @@ Through central Nadi, Sushumna;
 Reach Nada,
 And swill ambrosia there flows;
 Your Bindu the Divine Bindu becomes.`,
-    elaborationEnglish: `Vanquishing bindu by kundalini sakti, kindle the fire in the
-muladhara and reach nada by coursing it upward through the
-central nadi, sushumna. Swill the ambrosia flowing there.
-Through the body, bindu becomes cosmic bindu that is divine.`,
+    elaborationEnglish: `Vanquishing bindu by kundalini sakti, kindle the fire in the muladhara and reach nada by coursing it upward through the central nadi, sushumna. Swill the ambrosia flowing there. Through the body, bindu becomes cosmic bindu that is divine.`,
     elaborationTamil: `[இம்மந்திரத்திலும் மேல் ''வற்ற அனலை'' என்னும் மந்திரத்தில் சொல்லப்பட்ட முறையே ''சுழி அனல் சொருகிச் சுடருற்று'' என்பதொழியச் சொல்லப்பட்டது.]`,
   },
   {
@@ -5453,9 +5308,7 @@ All thought devoid,
 Siva Himself you Become;
 And the Bindu then dies in the Primal Bindu
 Of the Body Divine.`,
-    elaborationEnglish: `With the union of bindu and nada you become Siva Himself,
-devoid of all thoughts. The semenal bindu then dies in the
-primal bindu of the divine body.`,
+    elaborationEnglish: `With the union of bindu and nada you become Siva Himself, devoid of all thoughts. The semenal bindu then dies in the primal bindu of the divine body.`,
     elaborationTamil: `மேற்கூறியவாறு செய்யும் யோகத்தால் மூலாக் கினியால் விந்துவும், நாதமும் கலந்த ஒன்றாதலும், அவ்வக் கினியின் வெம்மை உடம்பின் மயிக்கால்தோறும் பரவி நிற்றலும் நிகழ, அவ் வாற்றால் உள்ளம் உலகை வெறுத்துச் சிவத்தினிடத்தே செல்ல, பின்பு, 'சிவம் நான்' என்பதாகிய சிவோகம் பாவனை உண்டாக, அதனால் விந்து அழியா உடம்பில் அதற்கு வித்தாய், அதனுள்ளே சுவறி நிற்கும்.`,
   },
   {
@@ -5476,9 +5329,7 @@ Who fries it (in
 Kundalini Fire) and in body absorbs;
 The latter, of the seed a meal does not make,
 But the Seed of Birth he ends.`,
-    elaborationEnglish: `He who pounds and consumes the seed will not get
-a good harvest. Different"is he who fries bindu in the
-kundalini fire, and end the seed of birth.`,
+    elaborationEnglish: `He who pounds and consumes the seed will not get a good harvest. Different"is he who fries bindu in the kundalini fire, and end the seed of birth.`,
     elaborationTamil: `விதைக்கு வைத்திருக்கும் நெல்லைக்குற்றி உண வாக்கிக் கொள்பவன் வித்தினால் விளையக் கூடிய பெரும்பயனை இழந்தவனாவன். இனி, விதை நெல்லைக்குற்றி உண்ணாமல், பொரி யாக வறுத்து உண்பவனும் முன் சொல்லப்பட்டவனைவிட அறிவுடை யவன் ஆகமாட்டான். (ஏனெனில், அவனும் விளைவை இழக்கின்றா னன்றோ!) ஆகையால் சிவயோகி விதையைக் குற்றி, அல்லது வறுத்து உண்ணாமலும், பலரும் செய்கிறபடி நிலத்தில் விதைத்தலைச் செய்யா மலும் பொன்னுக்கு விற்பவனைப் போன்றவன் ஆவான்.`,
   },
   {
@@ -5519,10 +5370,7 @@ And absorb one in Other
 Will eight siddhis attain;
 Their body as gold glitters;
 They immortal become.`,
-    elaborationEnglish: `They who know the truth of the two forms of bindu — the
-swan (macrocosmic) and prana (microcosmic) and absorb the
-latter in the former will attain the eight siddhis. Immortal
-they become, their bodies glittering as gold.`,
+    elaborationEnglish: `They who know the truth of the two forms of bindu — the swan (macrocosmic) and prana (microcosmic) and absorb the latter in the former will attain the eight siddhis. Immortal they become, their bodies glittering as gold.`,
     elaborationTamil: `ஆடவர் எல்லோர்க்கும் அன்ன விந்து, பிராண விந்து' என இரு விந்துக்கள் உள்ளன. அந்த உண்மையை உணர்ந்து, அன்னத்தையும், பிராணனையும் நெறிபடுத்தி நிற்க வல்லவர்க்கு மேனி பொன்போல விளங்கும். அட்டமா சித்திகள் கூடும். மேலும் அத்தன்மை யுள்ள யோகிகள் யாவரும் நீண்ட காலம் வாழ்ந்தமை வெளிப்படை.`,
   },
   {
@@ -5587,9 +5435,7 @@ It is beginning and end of all life,
 Of great mantras too,
 When Bindu subsides,
 Then is Sivoham.`,
-    elaborationEnglish: `This vast creation, the beginning and end of all life, and the
-great mantras were all bom in the union of bindu and nada.
-Sivoham is when bindu subsides.`,
+    elaborationEnglish: `This vast creation, the beginning and end of all life, and the great mantras were all bom in the union of bindu and nada. Sivoham is when bindu subsides.`,
     elaborationTamil: `சுத்த மாயையினின்றும் தூலமாகவும், சூக்கும மாகவும் தோன்றுகின்ற வாக்குக்களால்தான் இங்குக் காணப்படுகின்ற பலவாகிய உயிர்களும் உளவாயின. அதனால், மந்திரங்களின் தோற்ற முடிவுகளே உயிர்களின் தோற்ற முடிவுகளாய் அமைகின்றன. ஆகவே அவ்வாக்குக்கள் பிராசாத யோகத்தால் தம் சத்திகள் அடங்கப் பெறுமாயின், சிவோகம் பாவனை உண்மையாய்ப் பயன் தரும்.`,
   },
   {
@@ -5670,8 +5516,7 @@ Mind undistracted discerns Truth,
 That place the Jnanis truly know
 That verily is Lord's
 Seat.`,
-    elaborationEnglish: `True jnanis know the Lord’s seat, where the sound (nada)
-and the mind that perceives the sound, remain in union.`,
+    elaborationEnglish: `True jnanis know the Lord’s seat, where the sound (nada) and the mind that perceives the sound, remain in union.`,
     elaborationTamil: `சூக்குமை முதலிய வாக்குக்களும், அவ்வாக்குக் களால் இயக்கப்படுகின்ற மனம் முதலிய அந்தக் கரணங்களும், அந்த அந்தக்கரணங்களால் உண்டாகின்ற உணர்வுகளும் ஆகிய இவை ஒருங்கு தொக்க நிலையாகிய அறிவின் நிலையை உலகர் அறிய மாட்டார். அதனை உள்ளவாறு அறிய வல்லவர் ஆசான்ம மூர்த்தியின் அருள் பெற்றவரே ஆவர். அவர்க்கு அந்த நிலையே சிவனது இருப்பிடமாதல் விளங்கும்.`,
   },
   {
@@ -5690,20 +5535,7 @@ In the navel (Svatisthana) is the Region of Water;
 Below the breast (Manipura) is the Fire;
 Above the breast (Anahatha) and below the shoulder (Visuddhi) is Air;
 And around the neck and beyond (Ajna) is the Region of Space.`,
-    elaborationEnglish: `The regions of the five elements are within the body. The
-region of earth is mladhara. The navel (svadhistana) is the
-region of water. Below the breast (manipuraka) is the fire;
-above the breast (manipuraka) and below the shoulder
-(visuddhi) is air. The region of space is around the neck and
-beyond (ajna)
-
-The location and significance of the 6 chakras in. the body
-are to be noted. Only 5 elements are involved. The association
-of Space (Akasa) with Ajna cakra is particularly significant,
-for it is here, in the two-petalled lotus, that duality is supposed
-to disappear into non-duality during Kundalini Yoga.
-
-22. APSShlaeo sea_nOs5cr`,
+    elaborationEnglish: `The regions of the five elements are within the body. The region of earth is mladhara. The navel (svadhistana) is the region of water. Below the breast (manipuraka) is the fire; above the breast (manipuraka) and below the shoulder (visuddhi) is air. The region of space is around the neck and beyond (ajna) The location and significance of the 6 chakras in. the body are to be noted. Only 5 elements are involved. The association of Space (Akasa) with Ajna cakra is particularly significant, for it is here, in the two-petalled lotus, that duality is supposed to disappear into non-duality during Kundalini Yoga.`,
     elaborationTamil: `மனித உடம்பில் எல்லாவற்றையும் தாங்கும் வலிமையுடைய கலில் (இடைக்குக் கீழ் உள்ள பகுதியில்) 'நிலம்' என்னும் பூதமும், அதற்கு மேல் கொப்பூழ்வரை உள்ள பகுதியில் 'நீர்' என்னும் பூதமும், கொப்பூழ் முதல் முலையிருக்கும் பரந்த இடமாகிய மார்பு பகுதியில் 'தீ' என்னும் பூதமும் (இதனுள் முலையும் அடங்குதல் அறிக.) மார்பிற்குமேல் கைகளுக்கு ஆதாரமாய்க் கழுத்து வரையில் உள்ள பகுதியில் 'வளி' என்னும் பூதமும், (இதனுள் கைகளும் அடங்குதல் அறிக.) கழுத்திற்கு மேல் உள்ள பகுதியில் 'வெளி' என்னும் பூதமும் நிற்கும்.`,
   },
   {
@@ -5740,12 +5572,7 @@ He is Siva Holy too,
 Who as refuge of all creation stands;
 He brings prosperity to the seven worlds in accord;
 He, the Beginning of lives all.`,
-    elaborationEnglish: `The ‘sun’ is protective Vishnu and blessed Siva too. He is
-the primal energy and refuge of all creation. He brings
-prosperity to all the seven worlds.
-
-Sun is the Primal Energy (Sakti), and is Vishnu, but belongs
-to Siva too. This .is an important concept.`,
+    elaborationEnglish: `The ‘sun’ is protective Vishnu and blessed Siva too. He is the primal energy and refuge of all creation. He brings prosperity to all the seven worlds. Sun is the Primal Energy (Sakti), and is Vishnu, but belongs to Siva too. This .is an important concept.`,
     elaborationTamil: `ஆதித்தனாலே உலகுயிர்கள் இறைவாது வாழ்தலால், அவன் காத்தற் கடவுளாகிய மாயோனாக ''சூரிய நாராயணன்'' என்று சொல்லப்படுகின்றான். அதனால் அவனே எல்லா உயிர்கட்கும் புகலிடமாகின்ற முதற்கடவுளும் ஆகின்றான். இன்னும் உயிர்கள் நால்வகை யோனிகளுள் கருவாகித் தோன்றுதலும் ஆதித்த னாலே யாகலின் அவனே அனைத்துயிர்கட்கும் முதலுமாவான்.`,
   },
   {
@@ -5787,9 +5614,7 @@ Uncreated (Sambhu),
 He for the world is the
 Moon too,
 Of soft light divine.`,
-    elaborationEnglish: `The Primal Lord alone is the Uncreated Being (Svayambhu),
-who stands as the:tattvas and sakti for the world. He is also
-the moon of soft yellow light.`,
+    elaborationEnglish: `The Primal Lord alone is the Uncreated Being (Svayambhu), who stands as the:tattvas and sakti for the world. He is also the moon of soft yellow light.`,
     elaborationTamil: `ஆதித்தனே உலகிற்கு அப்பனாய் இருப்பன்; அம்மையாய் இருப்பன். சுகத்தைத் தருபவனாய் இருப்பன். இனிச் சந்திரனாய்க் குளிர்ந்த ஒளியைத் தருகின்றவனும் இவனே.`,
   },
   {
@@ -5867,9 +5692,7 @@ The Sun its route takes;
 Invisible indeed is he,
 Between the Fiery Center (Manipura)
 And the Watery Center (Svatishtana) within.`,
-    elaborationEnglish: `Within the body, the ‘sun’ takes its route below the earth
-centre (muladhara). Indeed he is invisible between the fiery
-centre (manipuraka) and the watery centre (svadhistana).`,
+    elaborationEnglish: `Within the body, the ‘sun’ takes its route below the earth centre (muladhara). Indeed he is invisible between the fiery centre (manipuraka) and the watery centre (svadhistana).`,
     elaborationTamil: `ஆதித்தன்மேல் எழுந்துவருகின்ற வழி நிலத்திற்குக் கீழே யாருக்கும் அறிய ஒண்ணாத அரும்பொருளாய் உள்ளது. (ஆதலின் அதனை அறிய முயல வேண்டுவதின்று.) இனிக் கண்ணிற்கு நன்கு புலனாயினும் யாராலும் அணுகிப் பற்ற இயலாத ஆதித்தன் புறப்பட்டுத் தோன்றுதல் நீருக்கும், தீக்கும் நடுவேயாகும்.`,
   },
   {
@@ -5888,10 +5711,7 @@ Are Sky (Visuddhi) and
 Space (Ajna) within;
 He is the very source of joy that dazzles the eye;
 He indeed responds to contemplation sweet.`,
-    elaborationEnglish: `The ‘sun’ breaking through the earth (muladhara) penetrates
-beyond into the higher adharas — sky (visuddhi) and space
-(ajna). He is the source of joy that dazzles the vision and
-truly responds to sweet contemplation.`,
+    elaborationEnglish: `The ‘sun’ breaking through the earth (muladhara) penetrates beyond into the higher adharas — sky (visuddhi) and space (ajna). He is the source of joy that dazzles the vision and truly responds to sweet contemplation.`,
     elaborationTamil: `ஆதித்தன் நிலத்தைப் பிளந்து கொண்டு அதன் கீழேயும் ஓடுகின்றான். பின்பு மேலே வந்து ஆகாயத்தைப் பிளந்துகொண்டு எங்கும் ஒளிமயமாகவும் செய்கின்றான். மற்றும் உயிர்களின் கண்களைத் துளைத்து அவற்றுள்ளேயும் புகுந்து இருளை ஓட்டி மகிழ்ச்சியைத் தருகின்றான். அந்த இன்பத்தை நினைத்தல் கடமையாகலின் அக்கடமையில் வழுவாது நின்று அவனைத் தியானித்தற்கும் அவன் உடன்பட்டு நிற்கின்றான்.`,
   },
   {
@@ -5913,12 +5733,7 @@ Of the Lord Unconquerable;
 --Thus they say;
 Only those who have realized Truth
 Know His abode real.`,
-    elaborationEnglish: `No one knows this route of the ‘sun.’ Folks believe only the
-worldly lore. Only they who have realised know the truth
-that the ‘sun’ circumambulates Mount Meru (sahasrara) of
-the Invincible Lord.
-
-23. Dear_n8ss5er`,
+    elaborationEnglish: `No one knows this route of the ‘sun.’ Folks believe only the worldly lore. Only they who have realised know the truth that the ‘sun’ circumambulates Mount Meru (sahasrara) of the Invincible Lord.`,
     elaborationTamil: `ஆதித்தன் நிலத்திற்குக் கீழிருந்து அதனைப் பிளந்து கொண்டு மேலே எழுவது போலத் தோற்றுகின்ற அந்த வழியின் உண்மையை, தாழ்ந்த நிலையில் உள்ளார்க்கு உரிய நூலை மட்டுமே உணர்ந்தவர்களில் ஒருவரும் அறியமாட்டார். (அதனை அவ்வாறே கொள்வர். உண்மையில் அது புறநிலையில் நில உருண்டையின் சுழற்சியும், அகநிலையில் மேற்கூறியவாறு மூலா தாரத்திற்குக் கீழ் நின்றுமேல் எழுதலும் ஆகும்.) இனி அவ்வாதித்தின் விண்ணில் காணப்படும் பொழுது அவன் சிவபிரான் எழுந்தருளி யிருக்கின்ற மகாமேரு மலையை வலம் வருகின்றான் என்றே கொள்வர். (உண்மையில் அதுவும் புற நிலையில் நில உருண்டையின் சுழற்சியும், அகநிலையில் மேற்கூறியவாறு வீணாத் தண்டைச் சூழ்ந்து ஒளிர்வதுமேயாகும்.) கோள்களின் இயக்கம் பற்றியும், பிராணா யாமம் பற்றியும் இனிது விளங்கக் கூறும் நூல்களின் வழி அவற்றை உணர்ந்த ஒரு சிலரே மேற்கூறிய உண்மைகளை உணர்ந்திருந்தனர்.`,
   },
   {
@@ -5960,8 +5775,7 @@ They who differ from this
 And say aught they like,
 Are in darkness enveloped,
 As when the Sun here, below horizon dips.`,
-    elaborationEnglish: `Verily, they who reach the sun by ascending the adharas
-realise their Selves.`,
+    elaborationEnglish: `Verily, they who reach the sun by ascending the adharas realise their Selves.`,
     elaborationTamil: `'பிண்டாதித்தன்' என மேற்கூறிய பிராணன் ஓடுமளவும் ஓடி ஒடுங்கி நிற்கும் இடத்தை 'இது' என உணர்ந்து அவ்விடத்திலே நின்று பயன்பெற வல்லவரே தம்மை அண்டாதித்தன் இயக்கத்திற்கு வேறாய்ப் பிண்டாதித்தன் இயக்கத்தின் வழிபட்டவராக உணர்ந்து அவ்வியக்கத்தால் நீண்டகாலம் இவ்வுலகில் வாழ்வர். உலகம் இவ்வியல்பின் வேறுபட்டுத் தான் அறிந்ததையே அறிவாக நாட்டித் தான் வல்ல வற்றை ஓயாது கூறும். அக்கூற்றினைத் தெளிந்தோர் எல்லாம் அந்த அண்ட ஆதித்தனது இயக்கத்திற்கு உட்பட்டு விரைவில் மாய்பவரேயாவர்.`,
   },
   {
@@ -5982,8 +5796,7 @@ And know not where in its midst Sun is;
 Those who know where he furtive lies
 To them my heart
 In love melts.`,
-    elaborationEnglish: `The yogi’s heart melts in love for those who contemplate
-the sun within as worthy of .adoration.`,
+    elaborationEnglish: `The yogi’s heart melts in love for those who contemplate the sun within as worthy of .adoration.`,
     elaborationTamil: `[இம் மந்திரம் அண்டாதித்தன், பிண்டாதித்தன் இருவர்க்கும் பொருந்தக் கூறியது.]. அண்டாதித்தன் கீழ் நின்றும் ஊடுருவி மேலே புறப்பட்டு உலகைச் சுற்றிச் சென்று, முடிவில் ஒடுங்கி நிற்பது உலக முதல்வ னாகிய சிவனிடத்திலாகும். அவ்வாறே பிண்டாதித்தனும் மூலா தாரத்திற்குக் கீழ் நின்றும் உருவி மூலாதாரத்திலே வெளிப்பட்டு மேலே ஏனை ஆதாரங்களையும் கடந்து, முடிவில் ஒடுங்கி நிற்பது ஆஞ்ஞை யில் உள்ள சதாசிவ மூர்த்தியினடத்தி லாகும். ஆகவே எவ்வகை யிலும் உயிர்கட்குப் புகலிடமாகின்றவன் சிவனேயாவன். ஆயினும் இவ்வுண்மையை அறிபவர் உலகில் இல்லை. அறிபவர் எவரேனும் இருப்பின், எனது உள்ளத்தில் உள்ள அன்பு அவரிடமே சென்று உருகி நிற்கும்.`,
   },
   {
@@ -6025,9 +5838,7 @@ In that mystic land
 Where the two shafts mingle
 They who the Light see,
 Have Siva Himself become.`,
-    elaborationEnglish: `To vision the union of the beams of the sun and moon in
-the mystic land within is divine. They who have visioned it
-have indeed become Siva Himself.`,
+    elaborationEnglish: `To vision the union of the beams of the sun and moon in the mystic land within is divine. They who have visioned it have indeed become Siva Himself.`,
     elaborationTamil: `'சந்திர கலை' எனப்படும் இட நாடியில், 'சூரிய கலை' எனப்படும் வல நாடிக் காற்று ஒடுங்கி இட நாடிக் காற்றே இயங்கினும் பின்னர் மாறி இயங்கும் காலமே சிவனைப் பூசித்தற்கு உரிய காலமும். ('ஆகவே, பூசை செய்வோர் அவ்வாறு செய்து கொள்க' என்பதாம்.) இனி அந்த இருவழியிலும் யோகம் ஆதலின், அவ்வாறு யோகம் செய்பவரே அந்தக்கரணம் தூய்மையாகப் பெற்றவர் ஆவர். அவரே பின்பு சிவயோகத்தால் சிவமாகி நிற்பர்.`,
   },
   {
@@ -6101,7 +5912,7 @@ The Bindu expand into two Apara and Para
 The Apara becomes the Para Nada
 From Para Nada arises the Para Kalas
 With those Kalas the Jnana Sun within dawns.`,
-    elaborationEnglish: `The nine planets, though they go round the earth, whirl in darkness; for they do not know the Lord. To them are not given His Divine Grace and Bliss.`,
+    elaborationEnglish: `Cosmic bindu expands into para and apara, of which apara becomes paranada, from which in turn arises the para kalas. The jnana sun dawns with those kalas. The sound that arises with this is an emanation from paranada. The five sounds (vaikhari and the rest) arise in the five kalas, one in each.`,
     elaborationTamil: `சுத்த மாயையின் ஒருகூறு சிவனது சத்தியால் உலகத் தோற்றம் நிகழத்ற்குக் காரணமாகப் பக்குவப்படுத்தப்படும். அங்ஙனம் பக்குவப்படுத்தப்பட்ட பகுதி, 'மேற்பகுதியும் கீழ்ப் பகுதியும்' என இரண்டு பகுதியாய் விரியும். அவை முறையே 'பரவிந்து' என்றும், 'அபரவிந்து' என்றும் பெயர் பெறும். அவற்றினின்றும் முறையே சொல்லுலகத்தின் அதிசூக்கும நிலையாகிய பரநாதமும், சூக்கும நிலையாகிய அபர நாதமும் தோன்றும். (இவையே அதிசூக்குமை வாக்கும், சூக்குமை வாக்கும் ஆகும்.) பின்பு அவற்றினின்றும் வைகரி முதலிய வாக்கு வடிவமான சொல்லுலகத்தையும், 'கலை, தத்துவம், புவனம்' என்னும் அத்துவாக்களையும் சிவன் தோற்றுவித்து, அவை வழியாக ஆன்ம அறிவினிடத்தே அருணோதயம் போன்ற ஒளியை விளங்கச் செய்வான்.`,
   },
   {
@@ -6329,11 +6140,7 @@ Himself as the Three Lights (Sun, Moon and Fire) in one stands;
 Himself as Brahma and Vishnu stands established;
 Himself as life and body indistinguishably stands
 Himself Space, Light, and Darkness too.`,
-    elaborationEnglish: `Himself Space, Light, and Darkness too.
-
-Sivaditya stands as the three lights (sun, moon and fire). He
-is space, light and darkness. He is Brahma and Vishnu. He
-is life and body.`,
+    elaborationEnglish: `Sivaditya stands as the three lights (sun, moon and fire). He is space, light and darkness. He is Brahma and Vishnu. He is life and body.`,
     elaborationTamil: `இங்குக் கூறிவரும் சிவாதித்தன் தான் ஒருவனே யாயினும் சுடர்களை எங்கும் வீசுகின்ற ஞாயிறு, திங்கள், தீ என்னும் முச்சுடர்களும் ஒன்று கூடினாற் போன்ற பேரொளியாய் இருப்பான்; தன்னை அழிப்பவனாகப் பலர் கருதினானுலும் அயனாய் நின்று படைப் பவனும், அரியாய் நின்று காப்பவனும் தானேயாகும். மேலும் அவன் உயிர்களில் மட்டுமன்றி, உடல்களிலும் வேற்றுமையின்றிக் கலந்து நிற்கின்றான். இன்னும் தான் ஒருவனே ஆகாயமாயும், அதன் கண் விளங்குகின்ற ஒளிகளாயும் நிற்றலேயன்றி இருளாகவும் ஆகின்றான்.`,
   },
   {
@@ -6716,10 +6523,7 @@ They perform penance diverse,
 And are in distraction lost,
 They seek not the Tattva (Truth),
 That is ever New.`,
-    elaborationEnglish: `Men do not know that Siva is Grace. He is pure, rid of the
-five malas (impurities). Though they perform diverse penances
-and atonements, they are lost in distraction. The Lord is the
-tattva (Truth) that is ever new.`,
+    elaborationEnglish: `Men do not know that Siva is Grace. He is pure, rid of the five malas (impurities). Though they perform diverse penances and atonements, they are lost in distraction. The Lord is the tattva (Truth) that is ever new.`,
     elaborationTamil: `பிற ஆகமங்களிலன்றிச் சைவாகமங்களில் சொல்லப்படுகின்ற தத்துவங்களின் உயர்வை உணர்ந்து அவற்றைத் தெளியமாட்டாதவர் சிவமுதற் பொருளையும், அதனது ஆற்றலின் சிறப்பையும் உணர்ந்து அதிலே பழகியறியார். அதனால் அவர் உயிர் பஞ்ச மலங்களால் போதம் இழந்து நிற்றலையும் உணர மாட்டார். பிற பிற சமய நூல்களில் எல்லாம் சொல்லப்படுகின்ற தவங்களைச் செய்து, தாம் அடையவேண்டிய பயனை அடையாது இளைக்கின்றவ ராகின்றனர்.`,
   },
   {

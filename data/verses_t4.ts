@@ -903,7 +903,7 @@ Fifty and one in all, the letters fill,
 In Chakra's chambers five and twenty.`,
     elaborationEnglish: `The reference to letter ‘Ksha’ in the third line makes it clear that Mular has the Sanskrit letters in mind. *‘A’’ to ‘‘Ksha"’ make 51 letters in all, says Mular,. which would correspond te the Sanskrit in one manner of counting, for in that language, there is a great flexibility in enumerating the letters.
 
-The S1 letters referred to in this verse are the Sanskrti letters. Due to various reasons, the number of Sanskrit letters vary from 61.`,
+The 51 letters referred to in this verse are the Sanskrti letters. Due to various reasons, the number of Sanskrit letters vary from 61.`,
     elaborationTamil: `இடமிருந்து வலமாக ஆறு கோடுகளும் மேலிருந்து கீழாக ஆறு கோடுகளும் வரைந்தால் இருபத்தைந்து கட்டங்கள் வரும். அதில் ஒரு கட்டத்திற்குள் இரண்டு எழுத்துக்களாக மொத்தம் ஐம்பது எழுத்துக்கள் வரும்படி எழுதி அமைத்து அதைச் சுற்றி ஓம் எனும் எழுத்தை பெரியதாக எழுதி அதன் இறுதியில் க்ஷ ஹ எழுத்துக்களை எழுதி முடித்தால் வரும் சக்கரத்தில் மொத்தம் ஐம்பத்தொரு எழுத்துக்கள் இருக்கும்.`,
   },
   {
@@ -3487,12 +3487,7 @@ Her eyes perceive Jnana true,
 Karidani who attracts in directions four,
 She is the Pure, seated on circle of lotus pure.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/01/Song-1051-Fourth-Tantra-5.-Chakra-of-Three-Goddesses.mp3',
-    elaborationEnglish: `Compare: For the 12 bija mantras, refer to Vedanta Tantra, Chapter 6, quoted in 'Garland of Letters', by Sir John Woodroffe, pp262-65
-
-The 12 bija mantras are:
-    1    Haum - 'Ha' means Siva, 'au' means Sadasiva. 'm'means
-
-Puratani - Ancient One
+    elaborationEnglish: `Puratani - Ancient One
 Mohini - the Enticing One
 Karidani - the One who Attracts`,
     elaborationTamil: `பாடல் #1050 இல் உள்ளபடி நான்கு திசைகளையும் தாங்கி நிற்கின்ற திரிபுரை சக்தி ஆதியிலிருந்தே தொடர்ந்து இருக்கின்ற பராசக்தியாகும். இவள் குறையில்லாத அழகுடன் அண்டசராசரங்கள் அனைத்தையும் வசப்படுத்தி வைத்திருப்பவள். மிகவும் அழகாக அசைந்தாடும் தலை முடியைக் கொண்டவள். நன்மையை வழங்கும் உருத்திராட்சத்தை அணிந்தவள். நான்கு கால்களுடன் கரிய உருவத்தைக் கொண்ட யானையை வாகனமாகக் கொண்ட கஜலட்சுமியானவள். இவள் சுத்தமாக மலராமல் நெருங்கி இருக்கும் தாமரை இதழ்களைப் போலத் தூய்மையானவள். கருத்து: திரிபுரை சக்தியானது கஜலெட்சுமி எனும் பெயருடன் அனைத்தையும் தன் வசப்படுத்தி இருப்பதை இந்தப் பாடலில் உருவகிக்கலாம். புராதனி என்பது ஆதிகாலத்திலிருந்தே அண்டசராசரங்கள் இருக்கும் வரை எப்போதும் இருப்பதைக் குறிக்கின்றது. குறைவில்லாத மோகினி என்பது அண்டசராசரங்கள் அனைத்தையும் தன் செயலுக்கு ஏற்ப வசப்படுத்தி வைத்திருப்பதைக் குறிக்கின்றது. அழகாக அசைந்தாடும் தலை முடி என்பது அண்டசராசரங்கள் அனைத்தையும் தனது அசைவுக்கு ஏற்ப ஆட்டி வைப்பதைக் குறிக்கின்றது. உருத்திராட்ச மாலை என்பது பாடல் #1050 இல் குறிப்பிட்ட நவகிரகங்கள் உலகங்களுக்கு நன்மை தருவதை குறிக்கின்றது. நான்கு கால்களுடன் கரிய உருவத்தைக் கொண்ட யானை என்பது அனைத்தையும் அருளும் அஷ்ட லட்சுமிகளில் நடுநாயகமாக இருக்கும் கஜலட்சுமியைக் குறிக்கின்றது. சுத்தமான தாமரை என்பது தண்ணீரில் இருந்தாலும் தாமரையின் இதழ்களானது தண்ணீருடன் ஒட்டாமல் இருப்பதைப் போல திரிபுரையான கஜலட்சுமி அனைத்து செயல்களையும் செய்பவளாக இருந்தாலும் அதனுடன் ஒட்டாமல் விலகி இருப்பதைக் குறிக்கின்றது.`,
@@ -8737,7 +8732,9 @@ Thus does Siva (Contriver) and Sakti (consort of the Contriver)
 Together in amity arise;
 She, the Beloved of Siva, (Sivakami) blesses you.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/11/Song-1306-Fourth-Tantra-11.-Chakra-of-SivaSakthi-Region.mp3',
-    elaborationEnglish: `unite in God. Siva (Director) and His Sakti together arise amity; and Sakti {Sivakami) blesses you.`,
+    elaborationEnglish: `The mantra, Aum, that imparts jnana within, is the key
+
+unite in God. Siva (Director) and His Sakti together arise amity; and Sakti {Sivakami) blesses you.`,
     elaborationTamil: `பாடல் #1305 இல் உள்ளபடி சாதகர் தமக்குள் சாம்பவி மண்டலச் சக்கரத்தை பேரின்ப உருவமாக உணரும் பொழுது அவருக்குள்ளிருந்து எழுகின்ற மந்திரமானது ஓம் என்று நீட்டி உச்சரிக்கும் ஓங்காரத்தின் ஓரெழுத்திலேயே அடங்கி விடும். அப்போது சாதகரோடு சேர்ந்து எழுகின்ற ஓங்காரமே சாதகர் சென்று அடையும் கதி மோட்சமாகவும் அவர் ஆரம்பித்த ஆதி மூலமாகவும் இருக்கின்றது. இதை சாதகர் முழுவதுமாக உணரும் போது இதுவரை அவருக்குள் மாயையால் மறைந்து விளையாடிக் கொண்டு இருந்த இறைவனும் இறைவியும் மாயை நீங்கி வெளிப்பட்டு சாதகரோடு ஒன்றாகக் கலந்து சாம்பவி மண்டலச் சக்கரத்தின் பேரின்ப வடிவமாகவே இருப்பார்கள். அதன் பிறகு சாதகரும் அந்த பேரின்பத்திலேயே இறைவனோடும் இறைவியோடும் என்றும் இலயித்து இருப்பார். கருத்து: சாம்பவி மண்டலச் சக்கரத்தில் உள்ள மந்திரத்தின் ஐந்து எழுத்துக்களும் அவருக்குள் ஓங்காரத்தின் ஓரெழுத்தாகவே சேர்ந்து எழும் போது சாதகர் சாம்பவி மண்டலச் சக்கரமாகவே ஆகி அதில் இருக்கும் இறைவனோடும் இறைவியோடும் கலந்து அதிலேயே இலயித்து இருப்பார்.`,
   },
   {
@@ -9103,6 +9100,7 @@ Your actions, all, will succeed;
 You shall triumph in the world
 The gifts of Chakra shall be as rich
 As your meditation on it is deep.`,
+    elaborationEnglish: `Meditate on the engraven Chakra of silver, gold or copper. You will succeed in all your endeavours.`,
     elaborationTamil: `பாடல் #1322 இல் உள்ளபடி சாதகர் கண்டு அறிந்த நவாக்கிரி சக்கரத்தை சாதகத்தின் மூலம் வெள்ளி போன்ற தூய்மையுடனும், பொன் போன்ற பிரகாசத்தோடும், செம்பு போன்ற உறுதியுடனும் மனதிற்கு உள்ளே உள் வாங்கி வைக்கும் போது சாதகரின் இந்த பிறவிக்கு முன் பிறவியிலிருந்தே தொடர்ந்து வரும் அனைத்து வினைகளையும் இந்த சக்கரத்தின் சக்தி மண்டலமானது வென்று அழித்துவிடும். ஐந்து புலன்களையும் வெற்றி பெறுவதற்கும் வழி கொடுக்கும். இந்த நவாக்கிரி சக்கரமானது எந்த அளவிற்கு சாதகர் தியானிக்கின்றாரோ அந்த அளவுக்கு நிலை பெற்று நிற்கும்.`,
   },
   {

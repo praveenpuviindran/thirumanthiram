@@ -1233,7 +1233,7 @@ Feelings none;
 Seekings none;
 None that is "I";
 You and Siva one become.`,
-    elaborationEnglish: `Therefore let the eyes be fixed on the tip of the nose. Let the roaming breath be retained within; so let the nadis be stilled. Then no more seeking; no fear of`,
+    elaborationEnglish: `Therefore let the eyes be fixed on the tip of the nose. Let the roaming breath be retained within; so let the nadis be stilled. Then no more seeking; no fear of rebirth.`,
     elaborationTamil: `இரண்டு கண்களையும் புருவ மத்தியிலுள்ள மூக்கின் நுனியில் வைத்து தியானம் செய்தால் உடலில் இருக்கும் சோர்வு நீங்கிவிடும். உடலுக்கு அழிவும் வராது. மனது ஒரு நிலையாக இருக்கும். உலக உணர்வு இருக்காது. தன்னை மறந்த நிலையில் உடல் இருக்கும். எதன் மீதும் நாட்டம் வராது. இந்த நிலையிலிருப்பவர்கள் சிவ நிலையில் இருப்பவர்களாவர்.`,
   },
   {
@@ -4092,7 +4092,7 @@ Any one of these is day appropriate for commencing yoga;
 Find the day suitable most,
 And easy shall be your entry
 Into the Mystic House within.`,
-    elaborationEnglish: ``,
+    elaborationEnglish: `There are appropriate days for commencing yoga. The birthday of the practitioner, and the 1st, 2nd, 3rd and 8th day following it are considered suitable. If he chooses a suitable day, his entry into the mystic house within will be easy.`,
     elaborationTamil: `உயிர்கள் பிறந்த தினத்தின் நட்சத்திரத்தை அறிந்து கொண்டு அதிலிருந்து ஒரு நாள், இரண்டு நாள், மூன்று நாள், எட்டு நாள் ஆகிய நாட்களைக் கூட்டி வருகின்ற நாட்களில் அமையும் நட்சத்திரங்களை அறிந்து அந்த நட்சத்திரங்கள் அமையும் நாட்களில் இறைவனை அறிந்துகொள்ளும் அகயோகப் பயிற்சிகளை எதைப்பற்றியும் கவலைப் படாமல் ஆரம்பிக்கலாம். கருத்து: அகயோகப் பயிற்சியை ஆரம்பிப்பதற்கு ஏதுவான நாட்களை பிறந்த நாள் நட்சத்திரத்திலிருந்து எடுத்துக்கொண்டு எந்தத் தயக்கமும் இன்றி ஆரம்பிக்கலாம்.`,
   },
   {
@@ -4114,9 +4114,7 @@ Exhale eight matra consciously
 The four matras retained
 Are in the six adharas to suffuse
 And thus breathing examine the Tattvas twenty and five.`,
-    elaborationEnglish: `Yoga consists in the following: inhalation of 12 matras; exhalation of eight matras; retention of four matras. Breathirig
-
-in this measure continuously, yoga suffuses the six adharas with prana which ascends beyond the 25 tattvas.`,
+    elaborationEnglish: `Yoga consists in the following: inhalation of 12 matras; exhalation of eight matras; retention of four matras. Breathing in this measure continuously, yoga suffuses the six adharas with prana which ascends beyond the 25 tattvas.`,
     elaborationTamil: `அகயோகம் செய்ய வேண்டும் என்கிற எண்ணத்தில் பாடல் #748 இல் உள்ளபடி நட்சத்திரம் பார்த்து சாதனைகளை ஆரம்பிக்கும் சாதகர்கள் பாடல் #451 இல் உள்ளபடி தமக்குள் இருபத்தைந்து தத்துவங்களாக இருக்கும் இறைவனை அறிய வேண்டி மூச்சுக்காற்றை பாடல் #728 இல் உள்ளபடி சுழுமுனை நாடியின் 12 அங்குல அளவிற்கும் இறைவனின் மேல் சிந்தனையை வைத்து ஏற்றி இறக்கி தமது மூலாதாரத்திலுள்ள குண்டலினி சக்தியை எழுப்பி ஒவ்வொரு சக்கரமாக ஏறி ஏழாவது சக்கரமாகிய சகஸ்ரதளம் சென்றடைந்தவுடன் பாடல் #709 இல் உள்ளபடி அதையும் தாண்டிய துவாதசாந்த வெளியில் இறைவனோடு கலந்து அவன் நான்கு உயர் தத்துவங்களாக இருப்பதை உணர்ந்து கொள்வார்கள். கருத்து: முறைப்படி அகயோகம் செய்யும் சாதகர்கள் இறைவனோடு கலந்து உண்மை ஞானத்தை அடைவார்கள். இருபத்தைந்து தத்துவங்கள்: 5 பூதங்கள்: நிலம், நீர், காற்று, நெருப்பு, ஆகாயம். 5 புலன்கள்: கண்களால் பார்த்தல், காதுகளால் கேட்டல், வாயால் சுவைத்தல், மூக்கால் நுகருதல், தோலால் தொடுதல். 5 ஞானேந்திரியங்கள்: ஓசை – கேட்பது, ஊறு – உணர்தல், ஒளி – பார்ப்பது, சுவை – உண்பது, நாற்றம் – முகர்வது. 5 கன்மேந்திரியங்கள்: வாய் – பேச்சு, கைகள் – செயல், கால்கள் – போக்குவரவு, எருவாய் – கழிவு நீக்கம் பகுதி, கருவாய் – இன்பமும் பிறப்பும். 4 அந்தக்கரணங்கள்: மனம் – எண்ணங்கள், புத்தி – அறிவு, சித்தம் – சிந்தனை, அகங்காரம் – நான் எனும் நினைப்பு. 1 புருடன்: ஆன்மா. நான்கு உயர் தத்துவங்கள்: சிவம் (அசையாசக்தி) 2. சக்தி (அசையும் சக்தி) 3. நாதம் (ஒலி), 4. விந்து (ஒளி)`,
   },
   {
@@ -4607,7 +4605,7 @@ Transfixing your thoughts within you in the yogic way
 The seven circles inside will open
 And you shall see the abode of Lord
 Sweet as sugar-lump.`,
-    elaborationEnglish: `Six adharas plus the sahasrara. In the adharas. He is seated as Brahtma; as Vishnu; as Rudra; as Mahesvara; as Sadasiva and as Sakti. He that is immanent thus can be seen by you.`,
+    elaborationEnglish: `His abode is not beyond reach. Fix your thoughts within. The seventh adhara is the abode of the Lord. Inside it He sits, sweet as a lump of sugar.`,
     elaborationTamil: `உயிர்களின் உடலுக்குள்ளேயே தாமரை மலர்கள் போல மலர்ந்து இருக்கின்ற ஏழு சக்கரங்களிலும் தலை உச்சியைத் தாண்டிய துவாதசாந்த வெளியிலும் இருக்கின்ற சக்திமயங்களே இறைவன் என்பதை அறிந்துகொண்டு அந்த இடங்களோடு தம் உயிர்சக்தியை ஒன்றாகச் சேர்த்து வைத்து இருக்கும் வழிமுறையை உயிர்கள் அறிந்து கொள்வதில்லை. அப்படி இருக்கும் வழிமுறையை பாடல் #765 ல் உள்ளபடி குருவானவர் மூலம் அறிந்து தமக்குள் இருக்கும் இறைசக்தியோடு ஒன்றாகக் கூடியிருந்து உணர்ந்துவிட்டால் கருப்பங்கட்டி போல இனிக்கின்ற அமிர்தமான இறைவனை கண்டுகொள்ளலாம். கருத்து: பேரின்பத்தைக் கொடுக்கும் இறைவன் இருக்குமிடத்தை அடையும் வழிமுறையை உயிர்கள் குருவானவர் மூலம் அறிந்து தமக்குள் உணர்ந்துவிட்டால் இறைவனை கண்டுவிடலாம்.`,
   },
   {
@@ -5670,7 +5668,9 @@ In due time,
 From the Moon's Region starts ambrosial flow;
 When it ceases,
 Undo the Uddiyana Bandha.`,
-    elaborationEnglish: `By drawing in the mulasthana (anus), uddiyana bandha should be performed. The flow of the air should be directed to the sushumna by closing the ida and the pingala. The prana then becomes calm and latent by this means. — Vide Hatha Yoga Pradipika, pp.69-77.`,
+    elaborationEnglish: `Uddiyana means rising upwards; bandha is arresting it. It is damming the course of downward apana at the muladhara. Uddiyana bandha is an exercise in the lower regions parallel to the kechari mudra at the higher regions. The uddiyana bandha closes the lower sluice.
+
+By drawing in the mulasthana (anus), uddiyana bandha should be performed. The flow of the air should be directed to the sushumna by closing the ida and the pingala. The prana then becomes calm and latent by this means. — Vide Hatha Yoga Pradipika, pp.69-77.`,
     elaborationTamil: `: வெளியில் செல்லும் மூச்சுக்காற்றை கேசரி யோகத்தின் மூலம் உள்ளே வைத்தால் வெளியே வராமல் உடம்பில் இருக்கின்ற அந்த மூச்சுக்காற்று உடம்பில் இருந்து உயிர் வெளியே செல்லாமல் காக்கும். வரும் காலத்தில் குண்டலி சக்தியின் தலையில் உள்ள பிரமரந்திரத்தை அடைய கற்றுக் கொள்வீர்கள்.`,
   },
   {
@@ -6353,7 +6353,7 @@ And Ten of the Fire
 The Yogi experiences them all
 In the upward journey of Prana through Sushumna
 And all that becomes his mystic knowledge.`,
-    elaborationEnglish: `In that journey in kundalini yoga, the ten kalas of fire are first absorbed by the 12 kalas of the sun. Together the kalas of the sun and fire are absorbed in the 16 kalas of the moo.. Thus the kalas of three different origins merge into one. Tuto them finally merge the four kalas of kundalini in the cranium top. There in the sahasrara, the yogi pays homage at the Feet of the Lord. Those who have learned to merge the kalas of fire and sun in the kalas of the moon, verily become. masters of themselves.`,
+    elaborationEnglish: `Kalas are rays of energy bodies. The mystic moon within has 16 kalas; the sun, 12; and fire 10. The yogi experiences them all in the upward journey of prana through sushumna and all kalas become known to him.`,
     elaborationTamil: `உயிர்களின் உடலில் இருக்கும் சந்திர மண்டலத்திற்கு (இடதுபக்க மூச்சுக்காற்று) பதினாறு கலைகள் உண்டு. சூரிய மண்டலத்திற்கு (வலது பக்க மூச்சுக்காற்று) பன்னிரண்டு கலைகள் உண்டு. அக்கினி மண்டலத்திற்கு (குண்டலினி) பத்துக் கலைகள் உள்ளன. இடது பக்க முச்சுக்காற்றையும் வலது பக்க முச்சுக்காற்றையும் உபயோகித்து அகயோகப் பயிற்சியால் நடுநாடியாகிய சுழுமுனையின் வழியே குண்டலினியை மேல்நோக்கிச் செலுத்துவது எப்படி என்பதை யோகியர்கள் நன்றாக அறிந்து கொண்டிருக்கிறார்கள். குறிப்பு: கலைகள் என்பது என்னவெனில் மூச்சுக்காற்று எப்படி தானாக உள்ளேயும் வெளியேயும் எப்படி சென்று வருகின்றது என்பதை குறிப்பதாகும்.`,
   },
   {
