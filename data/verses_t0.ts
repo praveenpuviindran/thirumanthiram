@@ -16,6 +16,7 @@ He who has the five hands and the elephant's face,
 Whose tusk is even as the crescent moon,
 The son of Nandi, the Flower of Wisdom,
 Him I cherish in thought, His feet adore.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-0-Proem-0.-Prayer-to-God.mp3',
     elaborationTamil: `ஐந்து கரங்களையே ஐந்து பூதங்களாக (நிலம், நீர், காற்று, நெருப்பு, ஆகாயம்) கொண்டவனும், உலகத்தையே தனது திருமுகமாக கொண்டவனும், இளப் பிறை நிலாவைப் போன்ற கூர்மையான கொம்புகளை உடையவனும், குருவாக இருக்கின்ற இறைவனின் மகனாக இறை தன்மையாகவே இருப்பவனும், உண்மை ஞானத்தின் உச்சமாகவும் இருப்பவனை எமது அறிவுக்கு உள்ளே வைத்து அவனது திருவடிகளை யான் எப்போதும் போற்றி வணங்குகின்றேன்.`,
   },
   {
@@ -34,6 +35,7 @@ In Three He stood, in all the Four witnessed,
 The Five He conquered, the Six He filled,
 The Seven Worlds pervades, manifests the Eight
 And so remains.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-1-Proem-1.-Praise-of-God.mp3',
     elaborationEnglish: `1. The One—The Uncreated Eternal Being—Sivam. 2. The Two—Siva/Sakti. Sakti is the dynamic aspect of static Sivam. She confers grace on the Jivas. 3. The Three—Triads are many: a) Primal Sakti evolves into three subsidiary Saktis: Ichcha (desire), Jnana (knowledge), and Kriya (action). b) The three primal gunas: Rajas, Tamas, and Sattva. c) The entire creation represented by the three genders: he, she and it. d) The three theological categories Pati, pasu and pasam. 4. The Four: a) The four Vedas: Rk, Yajus, Sama, Atharvana. b) The four steps to God-realization: Charya and Kriya, Yoga and Jnana. 5. The Five: a) The five senses. b) The five acts: creation, preservation, dissolution, obfuscation, and liberation. 6. The Six: a) The six schools of philosophy. b) The six Adhvas or steps to final realization: padam (sound), ezhuthu (letter), mantram (syllable), kalai (light), tattvam (principles of matter), and bhuvanam (world). c) The six adharas or plexuses (chakras): muladhara, svadhishthana, manipuraka, anahata, visuddhi, ajna. 7. The Seven: a) Seven Worlds: Bhuloka, Bhuvarloka, Svarloka, Maharloka, Tapoloka, Satyaloka, and Sivaloka. b) The seventh chakra — sahasrara — located in the cranium. 8. The Eight — pervasiveness through earth, water, fire, air, sky, sun, moon and Jiva.`,
     elaborationTamil: `இறைவன் ஒருவனே அவனைத்தவிர வேறு தெய்வங்கள் இல்லை. அதாவது உலகத்தில் உள்ள அனைத்து தெய்வங்களும் அண்டசராசரங்களும், அதிலுள்ள அனைத்தும் இறைவன் ஒருவனாகவே இருக்கின்றான். ஒன்றாக இருக்கும் இறைவனின் அருளானது இரண்டாக இருக்கின்றது. அசையா சக்தியான இறைவனின் அருள் அவனிடமிருந்து அசையும் சக்தியாக வெளிப்படுகிறது. அதாவது எப்படி கசப்பான மருந்தும் இனிப்பான மருந்தும் நோயைக் குணப்படுத்துகிறதோ அதுபோலவே இன்பம் துன்பம் ஆகிய இரண்டும் இறைவனின் அருளாகும். இரண்டாக இருக்கும் இறைவனே பிரம்மன், விஷ்ணு, சிவன் ஆகிய மூன்று தெய்வங்களாகவும் நின்று படைத்தல், காத்தல், அழித்தல் ஆகிய மூன்றுவிதமான தொழில்களையும் புரிகின்றான். மூன்றாய் நின்ற இறைவனே உயிர்கள் தன்னை அறிந்துகொள்ள வேண்டும் என்கிற மாபெரும் கருணையில் ரிக், யஜூர், சாம, அதர்வண ஆகிய நான்கு விதமான வேதங்களாகவும் நிற்கின்றான். நான்கு வேதங்களாக இருக்கும் இறைவனே நிலம், நீர், காற்று, நெருப்பு, ஆகாயம் ஆகிய ஐந்து பூதங்களகவும் இருக்கின்றான். அதாவது தெய்வம் அருளும் ஐந்து வகை தொழில்களாகிய படைத்தல், காத்தல், மாயையால் மறைத்தல், அருளல், மாயையை அழித்தல் ஆகிய ஐந்தின் தலைவன் அவன் ஒருவனே. ஐம்பூதங்களாக இருக்கும் இறைவனே உயிர்களின் உடலில் மூலாதாரம், சுவாதிட்டானம், மணிப்பூரகம், அநாகதம், விசுத்தம், ஆஞ்ஞை ஆகிய ஆறு சக்கரங்களாக விரிந்து இருக்கின்றான். ஆறு சக்கரங்களாக விரிந்திருக்கும் இறைவனே மூலாதாரத்தில் குண்டலினி சக்தியாக இருந்து யோகங்கள் புரிவதன் மூலம் ஆறு சக்கரங்களுக்கும் மேலேறி ஏழாவது சகஸ்ரரதளத்திற்கு சென்று அதையும் தாண்டி பரவெளியில் உறைந்திருக்கின்றான்.`,
   },
@@ -52,6 +54,7 @@ The Holy One who all life sustains,
 Lord of Her, beloved of all the world,
 He who spurned Yama, the Southern Qrarter's King
 Of Him I sing, His glory and praise.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-2-Proem-1.-Praise-of-God.mp3',
     elaborationEnglish: `Yama is the god of death. When that god came to seize Siva's devotee Markandeya on the appointed day, Siva spurned the Death-God. The implication is that neither Siva nor his devotees are subject to the process of death. They are immortal and eternal.`,
     elaborationTamil: `: இறைவனைப் போற்றிப் புகழ்ந்து, இசைத்துப் பாடும் அடியவர்களின் உள்ளத்தில் வீற்றிருக்கும் புனிதமானவனும் நான்கு திசைகளுக்கும் (உலகமனைத்திற்கும்) நன்மை புரியும் மாதுவாகிய சக்திக்குத் தலைவனானவனும். மேற்கூறிய நான்கு திசைகளுக்குள் தென் திசைக்கு தலைவனானவனும் காலத்தின் அதிபதியான எமனை எட்டி உதைத்ததால் காலத்தை வென்றவனும் ஆகிய இறைவனை யான் கூறிகின்றேன்.`,
   },
@@ -70,6 +73,7 @@ He who stands the same to all,
 The Pure One, whom immortal Gods adore,
 Whom, even they, that daily stand beside, know not,
 Him I seek, praise, and meditate.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-3-Proem-1.-Praise-of-God.mp3',
     elaborationEnglish: `The word 'nagna' literally means the 'naked,' unclothed one (from Sanskrit nagna). Both the Jain Arhat and Siva are usually described thus.`,
     elaborationTamil: `அனைத்து உயிர்களுடனும் கலந்திருக்கும் இறைவனை எண்ணிலடங்காத தேவர்கள் தினந்தோறும் போற்றித் தொழுகின்ற இறைவனை தத்துவங்களைக் கடந்து அனைத்திற்கும் தலைவனாக இருக்கும் இறைவனை பக்கத்தில் இருந்தாலும் அறிந்துகொள்ள முடியாத இறைவனை யாம் அவனுள் அடங்கி நின்று அவனைத் தியானித்து அவன் புகழைப் போற்றி உரைப்போம்.`,
   },
@@ -89,6 +93,7 @@ Our Haven of Refuge, He bade me seek and find,
 Him I praised by night and day,
 And praising thus, gloom{-}dispelled,
 I held firm in this world of strifes.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-4-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `அழிந்து போகக்கூடிய அண்டசராசரங்களுக்கும் அதிலுள்ள அனைத்து உயிர்களுக்கும் உண்மைப் பொருளாகவும் அனைத்திற்கும் ஆரம்பமாகவும் இருக்கும் இறைவனை மண்ணுலகில் எம்மை வந்து இருக்குமாறு செய்து மண்ணுலக மாயையிலிருந்து விடுபடும் வழியாக தனது திருவடியையும் எமக்கு அருளிய இறைவனை இடைவெளியின்றி பகலிலும் இரவிலும் அவன் பாதங்களைப் பணிந்து அவனைத் துதித்து எம்முள் இருக்கும் மாயையாகிய இருளை நீக்கி அவனுடைய உண்மைப் பொருளை உணர்ந்து இருந்தோம்.`,
   },
   {
@@ -106,6 +111,7 @@ Search where ye will, there's no God like Siva,
 None here below to equal Him in glory;
 Lotus like, He, of gleaming matted locks,
 Golden in splendour, beyond the worlds, apart.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-5-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `சிவத்தோடு ஒப்பிட்டுப் பார்க்குமளவிற்கு எங்கு தேடினாலும் வேறு எந்த தெய்வமும் கிடையாது. அவன் ஈடுஇணை இல்லாதவன். அனைத்து தெய்வங்களுக்கும் மேலானவன். அவனோடு ஒப்பிட்டுப் பார்க்குமளவிற்கு வேறு யாருமே இந்த உலகத்தில் இல்லை. இந்த உலகத்தையும் தாண்டிய பரவெளியில் சூரியனைப் போன்ற ஒளியுடன் பிரகாசித்துக்கொண்டும் சூரியனின் ஒளிக்கற்றைகள் போல மின்னும் சடையைக் கொண்டும் அவன் ஆயிரம் தாமரை மலரின் மேல் வீற்றிருக்கின்றான்.`,
   },
   {
@@ -123,6 +129,7 @@ Without Him, there be Celestials none,
 Without Him, penance is not,
 Without Him, naught the Three accomplish,
 Without Him, I know not the City's Gate.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-6-Proem-1.-Praise-of-God.mp3',
     elaborationEnglish: `City's Gate — liberation.`,
     elaborationTamil: `சிவத்தைத் தவிர பிறப்பு இறப்பு இல்லாத அமரர்கள் யாரும் இல்லை. சிவத்தை நோக்கி செய்யப்படும் தவத்தை விட சிறந்த தவம் வேறு இல்லை. சிவமுடைய அருள் இல்லாமல் படைத்தல் காத்தல் அழித்தல் ஆகிய தொழில்களைச் செய்யும் தெய்வங்களால் எதுவும் செய்ய இயலாது. சிவமில்லாமல் முக்தி அடையும் வேறு எந்த வழியையும் நான் அறியவில்லை.`,
   },
@@ -141,6 +148,7 @@ Primal First is He, older than the Co-eval Three
 But the Lord is He peerless, unequalled;
 Call Him "Father," and Father He to thee,
 Inside you He flames in the Lotus of golden hue.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-7-Proem-1.-Praise-of-God.mp3',
     elaborationEnglish: `The Lotus is a very important and frequently adopted symbol in Hindu and Buddhist literature. Amongst other things it stands for the primeval evolution of the Universe from the One, as well as for the Energy (Sakti) thus released. It is not only the One, all-pervasive Power, but also the individual separate items that constitute the essence of Life, whose location in the human body is deemed to be the heart chakra. The Brahmarandhra of the cranium is also often referred to as a thousand-petalled Lotus. Co-eval three: Brahma the creator, Vishnu the protector, and Rudra the destroyer.`,
     elaborationTamil: `ஆதியிலிருந்து இருக்கும் மூன்று தெய்வங்களான சிவன், விஷ்ணு, பிரம்மா ஆகிய மூவருக்கும் மூத்தவன் சதாசிவமூர்த்தி. தனக்கு ஈடுஇணை இல்லாத தலைவன் அவன். அவனை அப்பா என்று அழைத்தால் உயிர்களுக்கு அப்பாவாகவே தோன்றுவான் (அவனை என்ன சொல்லி அழைத்தாலும் அதுவாகவே உயிர்களுக்குத் தோன்றி அருள்பாலிப்பான்). பொன் போன்ற அறிவு ஒளியைத் தரும் பல உபதேசங்களை குருவாக நின்று வழங்குபவனும் அவனே. பொன்னைப் போன்ற பேரொளியாக இருப்பவன் வேதங்களை தனக்குள்ளே கொண்டவன் அவன்.`,
   },
@@ -159,6 +167,7 @@ Hotter is He than fire, cooler than water;
 And yet none knows of His Grace abounding;
 Purer than the child, kinder by far than the mother,
 Nearest to Love is He, of the flowing matted locks.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-8-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `உயிர்கள் இறைவனை அடைவதற்காக அவர்களின் கர்மாக்களை அழிக்கும் போது இறைவன் தீயைவிடவும் அதிக வெப்பமானவானாக இருக்கின்றான். உயிர்கள் இறைவனை நாடும் போது தண்ணீரைவிடவும் குளிர்ந்தவனாக இருக்கின்றான். விருப்பு வெறுப்பின்றி தன்னலம் இல்லாத குழந்தையைவிட இறைவன் நல்லவன். காதுகளில் குண்டலங்களை அணிந்துகொண்டும் நீண்ட சடையைக் கொண்டவனுமான இறைவன் தன்னை நாடும் அன்பர்களுக்குத் பெற்ற தாயைவிடவும் மிகவும் அன்பு செலுத்துபவனாகத் திகழ்கின்றான். இருந்தும், அவனுடைய திருவருளை அறிந்தவர்கள் யாரும் இல்லை.`,
   },
   {
@@ -176,6 +185,7 @@ Gold-bewrought, His matted locks fall back and gleam;
 Nandi, His name,
 My Lord is He, ever by me worshipt;
 But none there be whom He worships.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-9-Proem-1.-Praise-of-God.mp3',
     elaborationEnglish: `Siva is also frequently referred to as Nandi by Tirumular. Nandi is a synonym for Sadasiva — the form/formless aspect of Siva. Nandi literally means the Bull of Siva.`,
     elaborationTamil: `பொன்னாலே பின்னப்பட்ட சடையை பின்னால் உடைய எம்மால் வணங்கப்படுகின்ற இறைவன் பெயர் நந்தி என்கின்ற சிவபெருமான் அவனால் வணங்கப்படுகின்றவர் இந்த உலகில் இல்லை.`,
   },
@@ -194,6 +204,7 @@ Holding the worlds apart, as the Heavens high He spreads;
 Himself the scorching Fire, Sun and Moon,
 Himself the Mother that sends down the rains
 Himself the mountains strong and oceans cold.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-10-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `சதாசிவமூர்த்தியாகிய இறைவனே மேலுலகம் கீழுலகம் ஆகிய இரண்டு வகையான உலகங்களையும் அண்ட சராசரங்களில் விரிந்திருக்கும் ஆகாயமாகவும் உயிர்களுக்கு வெப்பத்தை தருகின்ற நெருப்பாகவும் உலகத்திற்கு ஒளியையும் சக்தியையும் தருகின்ற சூரியனாகவும் இரவில் குளிர்ச்சியான ஒளியைத் தருகின்ற நிலவாகவும் மழையைப் பொழிய வைக்கின்ற மேகங்களாகவும் உலகம் முழுவதும் விரிந்து பரந்திருக்கும் மலைகளாகவும், குளிர்ந்த நீரைக் கொண்டிருக்கும் கடல்களாகவும் இருக்கின்றான்.`,
   },
   {
@@ -212,6 +223,7 @@ No other God, I see, mightier than He;
 Himself the effort, and Himself, too, effort's end;
 Himself the rains, Himself the clouds rain-laden,
 The Nandi named.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-11-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `அனைத்திற்கும் ஆதியாகிய சதாசிவமூர்த்தியை எண்ணினால் அவருக்கு நிகரான பெருந்தெய்வத்தை தூரத்திலும் அருகிலும் பார்க்க முடியவில்லை. நம்முடைய முயற்சியும் அவனே. நம் முயற்சியின் பயனும் அவனே .மழை பொழிகின்ற மேகமும் அவனே. அவன் பெயர் நந்தி ஆகும்.`,
   },
   {
@@ -230,6 +242,7 @@ Dead were the countless Devas,
 Born were the myriads on earth;
 Upward they climbed to lives beyond count,
 Yet none did know the Lord was He.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-12-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `சிவபெருமான் நெற்றிக் கண்ணால் அருள் கொடுத்து நின்ற போது எண்ணில் அடங்காத தேவர்கள் அழிவில்லாத அமர வாழ்வைப் பெற்றார்கள். மண்ணில் வாழ்பவர்களும் விண்ணில் வாழ்பவர்களும் சிவபெருமானின் அருளைப்பற்றி தெரிந்து கொள்ளாமல் அவருடைய நெற்றிக் கண்ணால் நிறைய பேர் இறந்து விட்டதாக அறியாமையால் எண்ணிக்கொண்டு இருக்கின்றார்கள்.`,
   },
   {
@@ -247,6 +260,7 @@ Mal who spanned the earth and Brahma the Lotus seated one,
 And others of the Gods fathomed Him not;
 There be none to measure Him that measured the Heav'ns
 And thus He stood, all visions transcending.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-13-Proem-1.-Praise-of-God.mp3',
     elaborationEnglish: `Mal — Vishnu.`,
     elaborationTamil: `மூவுலகையும் மூன்று அடிகளால் அளந்த திருமால் தாமரை மலரில் அமர்ந்த பிரம்மன் முதலிய அனைத்துத் தேவர்களும் இன்னமும் தங்களின் எண்ணத்தால் கூட அளக்க முடியாத சதாசிவமூர்த்தியின் பெருமையைப் பற்றி எண்ணாமல் இருக்கின்றார்கள். அடிமுடி காண முடியாத சதாசிவமூர்த்தியை அளந்து பார்த்தவர்கள் ஒருவரும் இல்லை. கண் பார்க்கக்கூடிய எதையும் கடந்து அளவிட முடியாமல் அனைத்தையும் தனக்குள் உள்ளடக்கி நிற்கின்றான்.`,
   },
@@ -300,6 +314,7 @@ He, of the matted locks, the odorous Konrai clustering,
 He, of the Divine Consort with forehead divinely gleaming,
 He, whom the Immortals and Devas sought,
 Wisdom to learn, Ignorance to dispel.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-16-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `நரம்போடு இருக்கும் கொன்றைப் பூவைச் சூடிக்கொண்டு சுருள் சுருளான சடையை உடையவரும், அழகு நிறைந்து பிரகாசிக்கும் நெற்றியைக் கொண்டிருக்கும் உமாதேவியை தமது இடபாகத்தில் உடையவரும், ஒரு மாசில்லாத தூய்மையானவருமான இறைவனை, மும்மல பற்றுக்கள் இன்னும் நீங்காமல் இருக்கும் அமரர்களும் தேவர்களும் எப்படிக் கூடிக் குலாவுவார்கள்? ஆதலால், இறைவனின் இயல்பை அவர்கள் அறியாமலேயே இருக்கின்றனர்.`,
   },
   {
@@ -317,6 +332,7 @@ Howe'er well the two garlics and musk boil and mix,
 Yet will musk's fragrance stand o'ertopping all,
 So may all space mix and hold the God as One,
 Yet, upwelling, pours forth Isan's love profound.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-17-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `வெங்காயம் பெருங்காயம் ஆகிய இரண்டையும் ஒன்றாக கொதிக்க வைத்தாலும் அதிலிருந்து வரும் வாசனையை விட கருமையான கத்தூரியிலிருந்து வரும் வாசம் அதிகமாகும். அதுபோலவே உலகெங்கும் எத்தனை தெய்வங்களைத் தேடி அடைந்து அவர்களே இறைவன் என்று எண்ணிக்கொண்டு அவர்களோடு கலந்து முயன்றாலும் அனைத்திற்கும் இறைவனான ஈசுவரனை (சதாசிவமூர்த்தியை) கலந்து பெறும் உறவுக்கு (பேரின்பத்திற்கு) அது கொஞ்சம் கூட ஈடாகாது. உள் விளக்கம்: வெங்காயம் என்பது பருமையான தேகத்தையும் (அன்னமயகோஷம்) பெருங்காயம் என்பது நுண்மையான தேகம் (மனோமய கோஷத்தையும்) குறிக்கும். இவ்விரண்டு தேகங்களும் உயிர்களின் உடலுக்குள்ளே கலந்து இருந்தாலும் அது இறைவனோடு கலந்து பெறும் சூக்கும தேகத்திற்கு ஈடாகாது. ஆகவே உலகப் பற்றுக்கள் எவ்வளவுதான் இன்பத்தைத் தருவதாக இருந்தாலும் அவை அனைத்தும் இறைவனோடு இரண்டறக் கலந்து பெறும் பேரின்பத்திற்கு ஈடாகாது.`,
   },
   {
@@ -334,6 +350,7 @@ The Supreme Lord saw Alagai King's penance devout,
 Much pleased, He made the King Lord of all Riches;
 Even so, approach the Lord, noble deeds performing;
 For thus says the Lord, "Hold this lordship!"`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-18-Proem-1.-Praise-of-God.mp3',
     elaborationEnglish: `Alagai King: Kubera, the god of wealth and sovereign of the land of Alagapuri.`,
     elaborationTamil: `குபேரன் இறைவன் மேல் கொண்ட தீராத பக்தியினால் அவரை நோக்கிச் செய்த நிறைவான தவத்தை கண்டு மெச்சிய இறைவன் அவனை உலகத்திலுள்ள செல்வங்களுக்கெல்லாம் தலைவனாக ஆக்கிவிட்டு இனி வடக்குத் திசையிலிருக்கும் அழகாபுரியே உன்னுடைய ஊர் நீ அதற்கு அரசன் என்றும் தம்மை நாடி வருபவர்களை ஆதரித்து அவர்களைத் தம் உறவினர்போல ஆதரவு கொடுத்து அவர்களுக்கும் வேண்டிய செல்வம் வழங்குவாயாக என்றும் அருளிய மாபெரும் கருணையாளன் எம்பெருமானே. உள் விளக்கம்: உலகப் பற்றுக்களில் விருப்பம் வைக்காமல் இறைவனின் மேல் தீராத அன்பு கொண்டு அவனை எண்ணி வடதிசை நோக்கி (இங்கே வடதிசை என்பது ஏழாவது சக்கரமான சுழுமுனை நாடியின் உச்சமான சகஸ்ரரதளத்தைக் குறிக்கும்) தியானம் செய்தால் அளவிடமுடியாத அளவு செல்வங்களைக் (உலக செல்வங்களுக்கும் மேலான செல்வங்களான சித்திகளையும் முக்தியையும்) கொடுத்து அந்தச் செல்வங்களுக்கெல்லாம் நம்மைத் தலைவனும் ஆக்குபவன் எம்பெருமான் இறைவனே.`,
   },
@@ -388,6 +405,7 @@ He, the Lord, who in one fell sweep the wild elephant slashed,
 The Lord who ends this muddy vesture's mortal coil,
 Of the Heavenly Hosts, of Brahma Divine,
 Of Mal, hued like the clouds rain-borne.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-21-Proem-1.-Praise-of-God.mp3',
     elaborationEnglish: `Reference is to the destruction of Gaja Mukhasura — the elephant-faced monster who challenged Siva's supremacy. This is one of the eight heroic deeds of Siva referred to later in Tantra Two.`,
     elaborationTamil: `வானத்திலிருக்கும் பெருத்த மழை மேகம் போல மாயையால் குறைபட்டுக் கிடக்கும் உயிர்கள் அனைத்திற்கும் அவற்றின் பிறவியை அழித்து முக்தியை அருளுபவனும் மந்திரத்தால் ஏவப்பட்ட காட்டு யானையின் உடலைப் பிளந்து தனது ஆடையாக உடுத்திக்கொண்ட இறைவனின் புகழ்களைப் புகழ்ந்து பாடினால் அவன் அருள் பெற்று அவனோடு இரண்டறக் கலந்து விடலாம். உள் விளக்கம்: வானத்திலிருக்கும் பெரிய மழை மேகம் எப்படி வித்தியாசம் பார்க்காமல் அனைத்தின் மேலும் சரிசமமாக மழை பொழிய வைக்கின்றதோ அதுபோலவே இறைவன் மாபெரும் கருணையால் திருமால், பிரம்மன், தேவர்கள், மனிதர்கள் என்று மாயையால் குறைபட்டுக் கிடக்கும் அனைவரின் மாயையை அழித்து அவர்கள் உய்யுமாறு அருளுகின்றான். அப்படிப்பட்ட இறைவனை வெறும் மந்திரத்தினால் கட்டுப்படுத்திவிடலாம் என்ற எண்ணி தாருகாவனத்திலிருந்த முனிவர்கள் தங்களின் ஒன்றுபட்ட சக்தியைக்கொண்டு யாகக் குண்டத்திலிருந்து மந்திரசக்தியால் தோன்றுவித்த காட்டு யானையை இறைவனை நோக்கி ஏவினார்கள். இறைவனோ அந்த காட்டு யானையைக் காடே அதிரும்படி கதற இரண்டாகப் பிளந்து அதன் தோலை தனது மேலாடையாக போர்த்தியபடி அதன் தலைமேல் கால் வைத்து கஜசம்ஹாரமூர்த்தியாக காட்சி தந்து அவர்களின் அறியாமையை அகற்றி அருளினான். இப்படி தன்னை எதிர்ப்பவர்களுக்கும் சரிசமமாக அருள் வழங்கி ஒரு தலைசிறந்த அரசனப் போல உயிர்களைப் பாதுகாக்கும் இறைவனின் புகழ்களைப் புகழ்ந்து பாடினால் அவன் அருள் பெற்று முக்தியடையலாம்.`,
   },
@@ -406,6 +424,7 @@ This Lord of Maya-land that has its rise in the mind,
 He, the Being without thought, knows yet all our thoughts;
 Some be who groan,"God is not to me a friend;"
 But, sure, God seeks those who seek their souls to save.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-22-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `இறைவன் தன்னை உண்மையான பக்தியோடு வணங்குபவர்களின் உள்ளத்தில் எழுந்தருளுபவன். அவர்களின் உள்ளத்தைக் கொள்ளை கொள்ளும் மாயக்காரன் அவர்களின் அன்பு கொண்ட உள்ளத்தையே தனக்கு ஒரு நல்ல இடமாக எண்ணி அதிலேயே வசிப்பவன். அவர்களின் மனதில் நினைத்ததையெல்லாம் அறிந்தவன். அப்படிப்பட்ட இறைவனை உண்மையான பக்தியோடு நினைக்காமல் என் மேல் இறைவனுக்கு அன்பில்லை என்று அறியாமையால் பலர் புலம்புகின்றார்கள். இந்தப் பிறவியைவிட்டு முக்தியடைய வேண்டும் என்ற ஆசையில் இறைவன் மீது உண்மையான பக்தியோடு நிற்கின்றவர்களின் பக்கத்திலேயே அவர்களைப் பாதுகாத்துக் கொண்டு நிற்கின்றான் இறைவன்.`,
   },
   {
@@ -423,6 +442,7 @@ The Mighty Lord, the God of Fire, set amidst the seas,
 Whom the comprehending souls never deny;
 He, the Lord of the Heavenly Beings all,
 Who, day and night, pours forth His Divine Grace.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-23-Proem-1.-Praise-of-God-1.mp3',
     elaborationTamil: `: சர்வ வல்லமை படைத்தவனும் அக்கினிக்குத் தலைவனானவனும் காட்டு யானைத் தோலை ஆடையாகப் போர்த்தியவனும் மும்மலங்கள் தனது அடியவர்களைப் பாதிக்காது நில் என்று கட்டளையிட்டவனும் அனைத்து உயிர்களுக்கும் சரிசமமாக நீதியை வழங்குபவனுமாகிய எம்பெருமான் இறைவனை அறியாமையால் இல்லை என்று கூறாதீர்கள். வானத்து தேவர்கள் முதல் அனைத்து உயிர்களுக்கும் இரவும் பகலும் இடையறாது அருளை வழங்கி நிற்கின்றான் இறைவன். உள் விளக்கம்: இறைவன் சர்வ வல்லமை படைத்தவன். குண்டலினி அக்கினி, உணவை செரிக்கச் செய்யும் ஜடராக்கினி, கடல் நீரை கரை தாண்டாமல் வைத்திருக்கும் படபாக்கினி, உலகின் தட்பவெப்பத்தைக் கட்டுப்படுத்தும் பூமியின் மைய அக்கினி, எரிமலைக் குழம்பாக வெடித்துவரும் அக்கினி முதலாகிய அனைத்து அக்கினிக்களுக்கும் இறைவன் தலைவன். உயிர்களின் உடலில் குண்டலினி அக்கினி இருக்கும் மூலாதாரத்தில்தான் அவர்களின் நல்கர்மாக்கள் இருக்கின்றன. அவற்றை மேலெழும்பவிடாமல் மும்மலங்களாகிய ஆணவம் கன்மம் மாயை ஆகியவை யானை போன்ற கனத்துடன் தடுத்துக்கொண்டு எளிதில் அசைக்க முடியாமல் (எளிதில் தீர்க்க முடியாமல்) இருக்கின்றன. பிறவியை விட்டு நீங்கி இறைவனை அடையவேண்டும் என்ற உண்மையான பக்தியோடு இறைவனை வணங்கும் அடியவர்களின் முக்திக்கு உதவும் நல்கர்மாக்களை மேலெழுப்ப யானை போன்ற மும்மலங்களை இறைவன் தனது இடையில் ஆடையாக அணிந்துகொண்டு அவை தம் அடியவர்களின் முத்தியடையும் வழியைத் தடுக்காது நில்லுங்கள் என்று கட்டளையிட்டு தம் அடியவர்களை பிறவிப் பிணியிலிருந்து காப்பாற்றுகின்றவன் இறைவன். இப்படி அனைத்திற்கும் நீதியாகவும் மாபெரும் கருணையாளனாகவும் இருக்கும் இறைவனை அறியாமையால் உணராதிருந்து அவனை இல்லை என்று கூறவேண்டாம். அவன் இரவும் பகலும் எப்போதும் தம்மை நாடிவரும் உயிர்களுக்கு அருளை இடைவிடாமல் அருளிக்கொண்டேதான் இருக்கின்றான்.`,
   },
   {
@@ -440,6 +460,7 @@ Sing His praise, Sing of His Holy Feet!
 Pour all your treasures at Siva'a Sacred Feet!
 And they who shake off the clouded eye and disturbed mind,
 With them He ever stood, benignantly firm.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-24-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `: இறைவனின் பெருமைகளை எப்போதும் போற்றிப் பாடியும் அவன் புகழ்களை வாழ்த்தியும் அவனது திருவடியை எண்ணி வணங்குபவர்கள் மிகப்பெரும் அருட் செல்வம் சேர்ப்பவர்கள். உலகத்திலுள்ள செல்வங்களே பெரிது என்ற மாயையின் மயக்கத்தில் இருக்காமல் இறைவனின் திருவடியை எண்ணிப்பெறும் அருட் செல்வமே உண்மையானது என்று உணர்ந்தவர்கள் செல்லும் வழிகளிலெல்லாம் அவர்களைக் காத்து அவர்களோடு இருக்கின்றான் இறைவன்.`,
   },
   {
@@ -457,6 +478,7 @@ The Birthless is He, the Divine Mad, of Compassion vast,
 The Deathless is He, the Boundless One, Granter of Joys all,
 To Him kneel, and, kneeling, shall find
 Naught becomes Maya, the bond immemorial.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-25-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `பிறப்பில்லாதவனும் பிறை நிலாவைத் தலைமுடியில் சூடியவனும் மிகப்பெரும் அருளாளனும் இறப்பில்லாதவனும் எல்லோருக்கும் இன்பங்களை வழங்கி அருளுபவனும் எவரையும் விட்டு எப்போதும் நீங்காதவனுமாகிய எம்பெருமான் சதாசிவமூர்த்தியைத் தினமும் வணங்குங்கள். அவனை வணங்கி வந்தால் மாயையால் மறைக்கப்பட்டிருக்கும் சிற்றறிவு நீங்கி இறைவனின் திருவடியை என்றும் மறக்காத பேரறிவைப் பெறலாம்.`,
   },
   {
@@ -474,6 +496,7 @@ Adore the Lord, who in unbroken continuity stood,
 The Lord who protecting over all earth expanded,
 Transcending all He stood; over the lotus bloom aloft,
 In smiling glory He sat; Holy be His feet!`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-26-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `: அனைத்து உயிர்களையும் விட்டு நீங்காமல் அவர்களுடனேயே என்றும் நிற்கின்றவனாகிய இறைவனைத் தினமும் வணங்குங்கள். அவ்வாறு வணங்கி வந்தால் உலகம் மற்றும் அண்டசராசரங்கள் முழுவதும் படர்ந்து விரிந்து இருப்பவனும் அவற்றையும் தாண்டி நிற்பவனும் உயிர்களின் தலையுச்சியிலிருக்கும் ஏழாவது சக்கரமான சகஸ்ரரதளத்தின் ஆயிரம் தாமரை இதழ்களில் வசிப்பவனுமாகிய எம்பெருமான் சதாசிவமூர்த்தியுடன் கலந்து அவன் திருவடியை எப்போதும் காணும் புண்ணியத்தை அடையலாம்.`,
   },
   {
@@ -491,6 +514,7 @@ The Infinite of Lotus-Face, rivalling twilight ineffable,
 May ours be His Grace Divine!
 And they who thus Nandi daily beseech,
 Into their Heart, creeping, He comes! He comes!`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-27-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `சூரியன் மறையும் மாலை நேரத்தில் தெரியும் வானத்தின் நிறம் போன்ற செந்தாமரை மலர் விரிந்து தெரியும் அழகைப் போன்ற முகத்தை உடையவரும் முடிவென்பதே இல்லாதவருமான எம்பெருமான் சதாசிவமூர்த்தியின் அருள் தமக்கே வேண்டும் என்று பக்தியோடு தம்முடைய குருவை நாளும் வணங்கி வருபவர்களின் எண்ணத்தில் இறைவன் உறைந்து இருக்கின்றான்.`,
   },
   {
@@ -509,6 +533,7 @@ But they who, doubt-tossed, in self-contention lost,
 They stood withered at the root;
 To those who freely give themselves to the Lord on High,
 To them is He the certain, immutable Guide.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-28-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `அனைத்து உயிர்களுடனும் எங்கும் எதிலும் கலந்து இருப்பவனும் உலக வழக்கங்களுக்கு மாறுபட்டு நிற்கின்றவனும் அனைத்திற்கும் ஆரம்பமாகவும் அவற்றின் முடிவாகவும் இருப்பவனும் தேவர்களுக்கெல்லாம் தலைவனாகிய இந்திரனுக்கும் தலைவனாக இருப்பவனுமாகிய எம்பெருமான் சதாசிவமூர்த்தி தன்னை உண்மையான பக்தியோடு வணங்கி நிற்பவர்கள் செல்லும் வழிகளிலெல்லாம் அவர்களைப் பாதுகாத்துக்கொண்டு துணையாக வருகின்றான்.`,
   },
   {
@@ -526,6 +551,7 @@ Oh! You, the Unseen, only kin to this forlorn slave,
 Let me not falter to embrace Your feet!
 For to the heart of Your servant, pure and true
 You ever stood even as the axle-pin.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-29-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `இறைவனை எப்போதும் நினைத்துக்கொண்டிருப்பதிலிருந்து மாறாத குணமுடைய அடியவர்களின் மனதில் ஆணி அடித்தது போல அமர்ந்து இருக்கும் எம்பெருமான் சதாசிவமூர்த்தியே உங்களைக் காண வேண்டும் என்ற ஆசையால் துடிக்கும் எமது முன் நீங்கள் எழுந்தருள வேண்டும். நீங்கள் எம் முன் எழுந்தருளிவிட்டால் உங்களை உடனே எம்மோடு ஆரத்தழுவிக்கொள்வதில் யாம் வெட்கப் படமாட்டோம்.`,
   },
   {
@@ -544,6 +570,7 @@ Even so will my Lord draw me to Him?
 Thus, doubting, many ask.
 But like to the mother-cow, for my Nandi I yearn
 And all the world, all the world know it too!`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/10/Song-30-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `வானத்திலிருந்து பெய்யும் மழை வேண்டிவர் வேண்டாதவர் என்றில்லாமல் அனைவரின் மீதும் பொதுவாக பெய்கிறது. அதுபோல இறைவனின் அருள் வேண்டிவர் வேண்டாதவர் என்றில்லாமல் அனைவரின் மீதும் இறையருள் கிடைக்கும் என்று எண்ணிக்கொண்டு இறைவனை நாடிச் செல்ல சிலர் தயங்குவார்கள் எவ்வாறு கன்று தன் பசியை தாய்ப்பசுவை நோக்கிக் கதறித் தெரிவிக்கின்றதோ அதுபோலவே குருவான எம்பெருமான் சதாசிவமூர்த்தியை நான் வேண்டி அழைப்பது எமது ஞானப் பசியை அவர் தீர்க்கவேண்டும் என்கிற வேண்டுதலால்தான்.`,
   },
   {
@@ -561,6 +588,7 @@ Of the Earth is He, of the sky is He! Well He be!
 Of the Heaven is He, of truest Gold is He! Well He be!
 Of sweetest song's inmost rapture is He!
 Him my love besought, from heart's central core.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-31-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `மண்ணுலகில் வாழும் மனிதர்களுக்கு மனிதவடிவிலும் விண்ணகத்தில் உள்ள தேவர்களுக்கு தேவவடிவிலும் முத்திஅடைபவர்களுக்கு வீடுபேறுதருபவனாகவும் சித்திகளை விரும்பியவர்களுக்கு சித்தனாகவும் இனிய பாடல்களின் இன்னிசையாகவும் விளங்கும் எம்பெருமான் சதாசிவமூர்த்தியை ஞானக் கண்ணால் கண்டுணர்ந்து அவர் மேல் அளவில்லாத அன்புகொண்டு நின்றிருந்தோம்.`,
   },
   {
@@ -579,6 +607,7 @@ The Lord who all space pervades,
 And the seven Worlds, ocean-bound, transcends;
 None do know His nature true,
 How then may we sing His Grace Divine?`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-32-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `தேவர்களுக்கெல்லாம் தலைவனாக தேவர்களோடு கலந்து இருப்பவனும் நமக்கும் தலைவனாக நம்மோடு கலந்து இருப்பவனும் பத்து திசைகளிலும் (எட்டுத்திசைகள் மற்றும் ஆகாயம் பூமி ஆகியவை) பரவி இருப்பவனும் பெரும் கடலால் சூழப்பட்டுள்ள ஏழு உலகங்களையும் தாண்டி இருப்பவனுமாகிய எம்பெருமான் சதாசிவமூர்த்தியின் தன்மை என்னவென்பதை யாரும் அறிந்துகொள்ளவில்லை. எங்கும் எதிலும் பரந்து நிறைந்து இருக்கும் அந்தப் பரம்பொருளின் அருளைப் பற்றியே யாம் பாடுகின்றோம்.`,
   },
   {
@@ -596,6 +625,7 @@ Many the Gods this hoary world adores,
 Many the rituals; many the songs they sing;
 But knowing not the One Truth, of Wisdom bereft
 Unillumined, they can but droop at heart.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/10/Song-33-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `பண்டைய காலத்தில் இருந்து பலவிதமான தெய்வங்களை இந்த உலகத்தில் உள்ளவர்கள் வணங்கினார்கள். அவர்கள் ஒவ்வொரு தெய்வத்திற்கும் வரைமுறைகள் விதிமுறைகளை வகுத்தனர். பல விதிமுறைகளை வகுத்தும் பலவிதமான துதிகளையும் தோத்திரங்களையும் இசையோடு பாட வல்லவர்கள் கூட உண்மை என்னவென்று உணராமல் உண்மையான ஞானத்தை அடைய முடியாமல் நெஞ்சத்தில் அமைதி இல்லாமல் துன்பப்பட்டுக் கொண்டே இருக்கின்றார்கள்.`,
   },
   {
@@ -613,6 +643,7 @@ Like the fragrance of the musk the musk-deer constant emits,
 Is the True Path which the Lord to Celestials imparts.
 Sitting or moving, I chant the rich essence of His Name,
 His thousand Names that are with spark divine.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-34-Proem-1.-Praise-of-God.mp3',
     elaborationEnglish: `'Thousand' implies numerous. The 69th chapter of the Siva Purana, and the 7th chapter of Anusasana-Parvan of the Mahabharata gives 1008 names. Also see the Agni, Padma, Bhavisyothara, Varaha, Kurma, and Vamana Puranas, the Linga Purana and the Skanda Purana. V. 'Introduction to Tantra Sastra' by Sir John Woodroffe (Ganesh & Co., Madras).`,
     elaborationTamil: `வாசனையில்லாத வெறும் கூந்தலில் எப்படி வாசனைப் பொருட்களை வைத்து அரைத்த சாந்தைப் பூசியவுடன் இனிமையான வாசனை வருகின்றதோ அதுபோலவே உண்மையில்லாத வெறும் உலகப் பற்றுக்களை விட்டுவிட்டு உண்மையான இறைவனை அடைந்து சிவமனம் கமழும் முக்தியைப் பெறுவதற்கு இறைவன் அமர்களுக்கு அருளிய மெய்ஞான வழி என்னவென்றால் ஆயிரம் சூரியனைப் போன்று பிரகாசிக்கும் பேரறிவு ஒளியைக் கொடுக்கும் ஓம் நமசிவாய எனும் திருநாமம். அதன் அருமையை உணர்ந்ததால்தான் செயலற்று ஓய்ந்து இருக்கும்போதும் செயல்களைச் செய்துகொண்டு இருக்கும்போதும் அந்தத் திருநாமத்தை இடைவிடாது போற்றிப் புகழ்ந்துகொண்டே இருக்கின்றேன்.`,
   },
@@ -631,6 +662,7 @@ Even the Path impassable is foot-easy made,
 If you the Lord praise and Him adore;
 The East and West and directions all
 He does transmute--and thus dances He the Lord.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-35-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `முக்தியை கொடுப்பவரும் அதற்க்கான வழியாகவும் இருப்பவருமான இறைவனை போற்றக் கூடிய வழிகள் அனைத்திலும் போற்றியும் புகழ்ந்தும் இருந்தோமேயானால் எட்டுத்திசைகளோடு மேல்திசை (வானம்) கீழ்திசை (பூமி) இரண்டு திசைகளையும் சேர்த்து பத்து திசைகளையும் வழி நடத்திச் செல்லும் இறைவன் நம்மையும் நல்வழிநடத்திச் சென்று முக்தியையும் அருளுவான்.`,
   },
   {
@@ -648,6 +680,7 @@ Oh, Heavenly Father, Nandi, the unsurfeiting nectar sweet,
 Oh, Bounteous One, Unequalled, First of Time!
 Praise Him ever; and even as you praise,
 So thine reward will also be.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-36-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `: உயிரின் தந்தையாகவும் குருவாகவும் உள்ள இறைவனை தெவிட்டாத அமுதம் போன்றவனை வேண்டுவோர்க்கு வேண்டியதை அருளும் தனக்கு ஒப்பில்லாத வள்ளலை ஊழியைச் செய்கின்ற முதல்வனை வரைமுறையின்றி எத்தன்மையிலும் எவ்வழியில் வழிபட்டாலும் அவ்வழியிலே ஈசனின் அருளைப் பெறலாம்.`,
   },
   {
@@ -665,6 +698,7 @@ Daily I kneel and chant Nandi's holy Name;
 Envisioned, He stands, the Fire-Hued One,
 Flaming like the moon in sky; into me He comes,
 And throbs and breathes through my mortal flesh.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-37-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `: இறைவன் திருவருளால் நாள்தோறும் குருவாய் இருக்கும் சிவனை வழிபட்டு நிற்கின்றேன். அந்த சிவன் சிவப்பாய் ஏரியும் நெருப்புத்தழல் போன்ற வெளிச்சமுடன் எம்முடன் நிற்கின்றான். அவன் வானத்தில் இருளை நீக்கிப் பிரகாசமாய் ஒளிரும் நிலவைப் போல குருவை வணங்கி நிற்பவர்களின் உடலுக்குள் மகிழ்ந்து வந்து அங்கே உயிருக்கு உயிராக நின்று அஞ்ஞான இருளை அகற்றும் பேரொளியாய் இருக்கின்றான்.`,
   },
   {
@@ -682,6 +716,7 @@ I will not cease to speak of Him, the Great, the Rare,
 I will not cease to prate of Him, the Form Unborn,
 I will not cease to talk of Nandi, the Mighty,
 I will never cease, for pure and great am I then!`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-38-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `அனைத்தையும் விட பெரியவனும் கிடைப்பதற்கு மிகவும் அரிதானவனும் பிறவியே இல்லாமல் உருவானவனும் நந்தி என்ற பெயரில் எமக்குள் குருவாக வந்து இருப்பவனும் பெருமை மிக்க தவத்தின் பலனாக கிடைப்பவனுமாகிய சதாசிவமூர்த்தியின் மேல் யான் கொண்ட தீராத அன்பினால் அவனின் பெருமைகளையும் புகழ்களையும் எப்போதும் ஓயாமல் சொல்லிக்கொண்டே இருப்பேன் யான்.`,
   },
   {
@@ -699,6 +734,7 @@ He, the Divine Light, shining bright in devotee's heart,
 He, of the Holy Waters, wherein He sports,
 Him shall we praise, Him call, "Our Lord,"
 And, thus adoring, His Grace attain.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-39-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `இறைவனின் எல்லையற்ற குணங்களை உணர்ந்து புகழ்ந்து போற்றக்கூடியவர்களின் மனதின் உள்ளே ஜோதியாய் பரவி இருப்பவனும் அடியவர் உள்ளத்தையே கோயிலாக கொண்டு அங்கே பெருமகிழ்வோடு வீற்றிருக்கும் எம்பெருமான் சதாசிவமூர்த்தியை போற்றியும் புகழ்ந்தும் எம்பெருமான் என்று உரக்க அவன் நாமத்தை கூறியும் அன்போடு இருந்தால் அவனின் அருளைப் பெறலாம்.`,
   },
   {
@@ -717,6 +753,7 @@ Feet that equal the rays of purest gold serene;
 Praise Him with songs of the humble heart
 And unpenurious tongue;
 To such He comes, the all-fashioning Lord.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-40-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `தூய்மையான ஒளி நிறைந்த பொன்னை புடம் போட்டால் கிடைக்கும் பிரகாசத்தைப் போன்ற பேரொளியை உடைய இறைவனை உயிர்கள் தங்களின் குறைகளை உணர்ந்து தாழ்மையோடு பெருமைக்குரிய இறைவனின் திருவடிகளைத் தேடிச் சரணடைந்து நெஞ்சில் வஞ்சமின்றி ஆணவமின்றி போற்றிப் புகழக்கூடியவர்களின் உள்ளத்துள் இறைவன் மகிழ்வோடு வந்து நின்று அவர்களை எப்போதும் பாதுகாத்து அருளுவான்.`,
   },
   {
@@ -735,6 +772,7 @@ Treasure His Name,
 The Lord who consumed the deathly poison of hatred born,
 Consorting with Her of the gleaming brow,
 Conjoint, like the pairing deer in amity sweet.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-41-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `தேவர்களும் அசுரர்களும் பாற்கடலைக் கடைந்தபோது அதிலிருந்து சீறிக்கொண்டு எழுந்த ஆலகால விஷம் யாரையும் தீண்டாதவாறு தாமே அருந்தி அனைவரையும் காத்தருளிய தேவர்களின் தலைவனும் அந்த விஷம் உள்ளே இறங்கிவிடாமல் கழுத்திலேயே தடுத்து வைத்த பேரொளி வீசும் நெற்றியைக் கொண்ட உமையம்மையாரைத் தன் உடலின் சரி பாதியாகக் கொண்ட சதாசிவமூர்த்தி தமது குறைகளையும் தாண்டிய உறுதியோடு நெறி வழியில் செல்ல இறைவனைத் தம் நெஞ்சத்தினுள்ளே வைத்துப் பூஜிக்கக்கூடியவர்களுடன் பெண் மானைச் சேர்ந்த ஆண் மான் போல எப்போதும் பிரியாது இணைந்து நிற்கின்றான். உள் விளக்கம்: உண்மையான பொருளான இறைவனை அடையும் ஆசையில் அவனை நெஞ்சத்தில் வைத்துப் போற்றிப் புகழ்ந்து வரும் அடியவர்களின் நெஞ்சத்திலிருந்து ஆணவம், அகங்காரம், கோபம் அவர்களைப் பாதிக்காதவாறு தாமே எடுத்துக்கொண்டு, அவர்களைச் சூழ்ந்துகொண்டு இறைவனை அடையவிடாமல் தடுக்கும் கர்மங்களை அவர்களின் வழியில் குறுக்கிடாதவாறு தடுத்து நிறுத்திவிட்டு அவர்கள் செல்லும் நேர்வழிப் பாதையில் அவர்களோடு இணைந்து ஒன்றாக நடந்து வந்து அவர்களைக் காத்தருள்வான் சதாசிவமூர்த்தி.`,
   },
   {
@@ -752,6 +790,7 @@ They alone attain His Feet, who seek and praise;
 To them He shall grant the world the Four-Headed one made;
 Full well the elect come, the world of Maya girdling,
 One is He with Her of the shoulders reed-shaped.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-42-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `சிவபெருமானை அடைக்கலம் புகுந்து துதிப்பவர்கள் பெறத்தக்க பயன் என்னவென்றால் நான்கு திருமுடியுடைய பிரம்மன் படைப்பான மாய உலகில் மறுபடியும் மறுபடியும் பிறக்க வேண்டியவர்கள் ஆனாலும் மூங்கில் போன்ற திரட்சியான தோள்களையுடைய உமாதேவியின் தலைவனான சிவபெருமான் அவர்களுடன் பொருந்தி இருப்பான்.`,
   },
   {
@@ -769,6 +808,7 @@ To them that speak of Hara's Holy Feet and weep,
 To them that daily muse at the Great One's mighty feet,
 To them that, in deep devotion fixed, wait to serve,
 To them comes the Eternal's all-filling Grace.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-43-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `: இறைவன் திருவடியை நினைத்து அவன் நாமத்தை கூறி அன்பால் கசிந்துருகி அழுது ஆராய்ந்து தெளிந்து இறைவன் திருவடியை நாள்தோறும் உறுதியான உள்ளத்தோடு தியானித்து அந்த உணர்விலே இலயித்து இருப்பவர்களுக்கு திருவடிபேற்றை அருளி இறைவன் அவர்களுடன் நிறைந்து இருப்பான்.`,
   },
   {
@@ -786,6 +826,7 @@ pōṟṟieṉ aṉpuḷ poliyavait tēṉē`,
 "Glory to the Holy Feet," the Asuras hymn,
 "Glory to the Holy Feet," the humans, too, echo,
 Thus I gloried Him, and in my love He shone.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-44-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `: போற்றுவார்கள் அமரர்கள் தூய நிர்மல இறைவனின் திருவடியை போற்றுவார்கள் அசுரர்கள் தூய நிர்மல இறைவனின் திருவடியை போற்றுவார்கள் மனிதர்கள் தூய நிர்மல இறைவனின் திருவடியை யாமும் எமது அன்பினுள் அவனை போற்றி நிலைபெறச்செய்தேன்.`,
   },
   {
@@ -803,6 +844,7 @@ Except by Fate He decrees this sea-girt world revolves not,
 Except by Fate He decrees do joys and age arrive not,
 Daily pray to the Light Effulgent;
 The Divine Path He'll prove, the Sure Sun He'll be.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-45-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `கர்ம விதிப்படியே இந்த உலகம் இயங்குகின்றதே அன்றி வேறில்லை. உயிர்கள் பெறும் இன்பமும் துன்பமும் அவரவர்களின் கர்ம விதிப்படியே இருக்குமேயன்றி மாறி இருப்பதில்லை. இருப்பினும் முக்தியடைய வேண்டும் என்கிற எண்ணத்தில் இறைவனை தினமும் வணங்கித் துதித்து வரும் உயிர்களுக்கு அவர்களின் கர்ம விதிகளை அகற்ற சூரியன் போல் ஒளியாய் வந்து இறைவன் முக்திபெறும் வழியைக் காட்டி அருள்வான்.`,
   },
   {
@@ -820,6 +862,7 @@ punti vaṇṇaṉem maṉampukun tāṉē`,
 Thus, His Holy Feet devotees praise and sing;
 He of the Primary Hue, the First, the Infinite
 Entered my being, my heart's center held.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-46-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `மாலைநேர அந்தி சூரியனைப் போன்ற சிவந்த நிறத்தையுடைய பிறவியை அழிக்கும் அரனே சிவனே என்று மனதில் எண்ணிக்கொண்டே இருந்து இறைவனைத் தொழுகின்ற மனம் திருந்திய அடியவர்களுக்கும் அனைத்திற்கும் ஆரம்பமானவனே அனைத்திற்கும் முதல்வனே ஆதியானவனே என்று துதிக்கும் எமக்கும் ஞானத்தி ரூபமான இறைவன் எமது மனத்துள் புகுந்து நிற்கின்றான்.`,
   },
   {
@@ -837,6 +880,7 @@ In Home is He, like Holy Men is He,
 In Thought is He;
 Like the kite concealed in the palm's leafy depths,
 Your Bliss is for them alone who muse upon You steadfast.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-47-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `கர்மவினைப் பயனால் இல்லற வாழ்க்கையில் ஈடுபட்டுக்கொண்டே எப்போதும் இறைவன் சிந்தனையில் இருக்கக் கூடியவர்கள் மாபெரும் தவம் செய்பவர்களுக்கு ஈடானவர்கள். இறைவனை எப்போதும் நினைத்துக் கொண்டே இருப்பவர்கள் அவனின் பேரன்பிலேயே எப்போதும் நிற்கின்றார்கள். பனைமரத்தில் கூடு கட்டி வாழும் பருந்து பனைமரத்தின் பலன்களை அனுபவிக்காமல் (சுவையான பனம்பழங்களையோ இலைகளையோ பட்டைகளையோ உண்ணாமல்) வெளியில் உணவு தேடி அலைகின்றதோ அதுபோலவே இறைவன் அருகில் இருந்தும் இறைவனை நினைக்காமல் இருக்கின்றவர்களுக்கு பேரின்பம் எப்போதும் கிடைப்பதில்லை.`,
   },
   {
@@ -854,6 +898,7 @@ The Lord of Gods, whom the pious adore,
 To Him I bend my knees and His Grace invoke,
 The Lord, Our Father, blessing us of earth,
 The Lamp that flickers not, Him I seek.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-48-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `அடியவர்கள் போற்றிப் புகழும் தேவர்களின் தலைவனை தலை தாழ்த்தி வணங்கி அனைத்திற்கும் முதல்வனானவனை எனது எண்ணத்தில் வைத்து உலகமனைத்திலும் உள்ள உயிர்களுக்கு அருளும் ஆதிப் பொருளானவனை எனது தந்தை என்று நினைத்து ஆன்ம இருளைப் போக்கும் எப்போதும் அனையாத மணிவிளக்கு அவன் என்று உணர்ந்து அவனோடு கலந்து நின்றேன்.`,
   },
   {
@@ -871,6 +916,7 @@ Who, on the Lord, Shakti-Consort, meditate,
 And take the way of Pasu-Pasa,
 They swim across the foaming sea of Sin,
 And, swimming, reach the shore of Pasu-Pasa.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-49-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `மாயையால் உயிர்களைக் கட்டிப்போடும் பரை (பராசக்தி) மும்மலங்களால் கட்டுண்ட ஆன்மாவாகிய பசு ஆன்மாக்களை உலகோடு கட்டிப்போடும் பாசம் (உலகப் பற்றுக்கள்) இவை அனைத்திற்கும் தலைவனான இறைவனை உள்ளத்தில் வைத்துப் போற்றிப் புகழ்ந்து அன்பினால் அவனோடு கலந்து இருக்கக்கூடியவர்களுக்கு ஆன்மாவின் கர்மாக்கள் பெருங்கடல் போன்று சூழ்ந்து மெய்ஞானத்தை மறைக்கும் திரைபோல இருந்தாலும் இறைவனின் அருளால் அந்தக் கடலையும் நீந்திக் கரையேறி மும்மலக்கட்டுக்களை அறுத்து உலகப் பற்றுக்களை ஒதுக்கி மாயையைக் கடந்து முக்தியை எய்தலாம்.`,
   },
   {
@@ -888,6 +934,7 @@ I'll wreathe Him in garland, I'll hug Him to heart;
 I'll sing Him His Name and dance with gift of flowers;
 Singing and dancing seek the Lord;
 This alone I know, only too well I know.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-50-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `இறைவனின் திருவடிகளை என் தலைமேல் சூடிக்கொள்வேன். அவனின் திருவடிகளை என் நெஞ்சத்தில் வைத்துக்கொள்வேன். எம்பெருமான் என்று அவன் புகழ்களைப் பாடுவேன். பலவித மலர்களை அவன் திருவுருவத்தின் மேல் தூவி அவனைப் பணிந்து நின்று அவன் முன்னால் அவன் பெருமைகளைப் பாடிக்கொண்டே ஆடுவேன். ஆடியபின் அமரர்களின் தலைவனான இவனே எனக்கு முக்தியளிக்கக்கூடியவன் என்று அவனை நாடி அடைந்தபின் அனைத்தும் அவனே எனும் உண்மை ஞானத்தை அறிந்து அவனோடே கலந்து நிற்பேன். உள்விளக்கம்: இறைவனை அடைந்து முக்திபெற மாபெரும் தவங்கள் யோகங்கள் யாகங்கள் இருந்தாலும் அவனது திருவடியை எண்ணத்தில் எப்போதும் வைத்து அவனைப் புகழ்ந்து பாடி ஆடி பலவித மலர்களைத் தூவி பூஜித்தாலே அவனை நாடி முக்தியை அடையலாம். இதுவே யாம் அறிந்த சிறந்த உபாயம் என்று திருமூலர் அருளுகின்றார்.`,
   },
   {
@@ -905,6 +952,7 @@ No Dharma is, barring what the Vedas say;
 Its central core the Vedas proclaim;
 And the Wise ones ceased contentious brawls,
 Intoned the lofty strains and Freedom's battle won.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-51-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `வேதங்களை விட இறைவன் வழங்கிய அறம் வேறொன்றும் இல்லை. ஓதுவதற்கும் அதன்படி நடப்பதற்கும் ஏற்ற அறங்கள் எல்லாம் வேதத்தில் உள்ளது. நமது முன்னோரான அறிவிற் சிறந்த ஞானிகள் அனைவரும் இறைவன் வழங்கிய வேதத்தை ஏன் எதற்கு என்கிற வீண் விவாதங்கள் செய்யாமல் அனைவரும் இறைவன் வழங்கிய வேதத்தை ஓதியே முக்தியைப் பெற்றார்கள்.`,
   },
   {
@@ -922,6 +970,7 @@ Brahma spoke the Vedas, but Himself not the goal supreme;
 He spoke the Vedas only the great Maker to reveal;
 He spoke them for the Holy sacrifices to perform,
 He spoke them, the True One to manifest.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-52-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `வேதங்கள் ஓதுபவர்கள் அனைவரும் வேதியர்கள் ஆக மாட்டார்கள். வேதங்களின் அர்த்தங்களை உணர்ந்து அதன்படி நடப்பவர்களே உண்மையான வேதியர்கள் ஆவார்கள். இறைவன் வேதங்களை வழங்கியது உயிர்கள் அறங்களை தெரிந்து கொண்டு அதன்படி நடந்து உண்மைப் பொருளான இறைவனை உணர்ந்து மெய்ப்பொருளான இறைவனை அடைவதற்க்காகவே.`,
   },
   {
@@ -939,6 +988,7 @@ In the beauteous Veda, aptly named the Rig,
 As the moving mood behind, He stood;
 In the trembling chant of the Vedic priests He stood,
 Himself the Eye of vision Central.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-53-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `சொல்லழகு மிகுந்த வேதத்தின் உள்ளே மந்திர வடிவாக இருப்பவனும் உணர்ந்து வேதத்தை சொல்லும் வேதியர் உள்ளத்தில் உணர்வாக இருப்பவனும் வேதம் சொல்லும் வழி நடக்கும் சிறந்த வேதியர்கள் ஓதும் வேதத்தின் சொற்களில் மறைப் பொருளாகவும் அனைத்தையும் உருவாக்கிய சக்தியாக நின்று அருளுபவனும் எம்பெருமான் முக்கண் முதல்வன் சிவபெருமானே ஆவான்.`,
   },
   {
@@ -956,6 +1006,7 @@ The Holy Path is naught but the Path Supreme,
 Who muse on the Lord, Himself the Path Supreme,
 As Material-Immaterial, as Guru Divine,
 They reach Siva's Pure Path-so Vedantas all declare.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-54-Proem-1.-Praise-of-God.mp3',
     elaborationEnglish: `Vedanta — end of the Vedas — usually refers to the conclusions of philosophy in the Upanishads.`,
     elaborationTamil: `இறைவனை அடைந்து முக்தி பெறும் வழிகளாகிய சித்தாந்தம் (அறிந்த கருத்துக்கள்) அசித்தாந்தம் (அறியாத கருத்துக்கள்) மற்றும் இறைவனை மனதில் எப்போதும் நினைத்து அவனை பூஜிக்கும் பெருமைக்குரிய பக்தி வழியும் குருவானவர் அருளும் மாபெரும் சிவ வழியில் ஒன்று கூடும் சன்மார்க்க வழியும் ஆகிய இவை அனைத்தும் இறைவனை அடையும் ஒரு வழியே ஆகும் என்பதையே வேதங்கள் ஓதுகின்றன.`,
   },
@@ -974,6 +1025,7 @@ Of the One, the Vedas chant in divisions six,
 The One who yet in parts divisible does not be,
 As divided parts they swam into their ken,
 Then upgathered and swelled into the patterned whole.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-55-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `ஆறு அங்கங்களாக விளங்கும் மாபெரும் வேதங்களை (சிட்சை, கற்பம், வியாபகரணம், சந்தோபிசிதம், சோதிடம், நிருத்தம்) ஓதி அருளிய இறைவனை தனது உடம்பினுள்ளே ஒரு அங்கமாக வைத்து அவனின் தன்மைகளை உணர்பவர்கள் யாரும் இல்லை. அவனைத் தமது உடலிலிருந்து வெளியே இருக்கும் ஒரு அங்கமாக எண்ணிக்கொண்டு பலவித செயல்களைச் செய்கின்றனர். அப்படிச் செய்து கிடைத்த பயன்களையே உயர்வாகக் கருதி அதையே பெருக்கிக் கொண்டு இறைவனை உணராமலேயே வாழ்கின்றார்கள். வேதத்தின் ஆறு அங்கங்கள்: சிட்சை – வேதத்தின் எழுத்து மற்றும் ஒலி முதலியவற்றைப் பற்றிச் சொல்வது. வியாகரணம் – சொற்களின் இலக்கணத்தை ஆராய்வது. சந்தம் – செய்யுள் இலக்கணம் பற்றிச் சொல்வது. சோதிடம் – கோள் நிலைகளை வைத்து காலத்தை ஆராய்வது. நிருக்தம் – வேதச் சொற்களுக்கு பொருள் கூறுவது. கல்பம் – வேதத்தின் செயல் முறைகளை உரைப்பது.`,
   },
   {
@@ -991,6 +1043,7 @@ Uncaught in the world's web of woman, song and dance,
 Such alone seek the holy sacrifice to perform;
 But the unpracticed in austerities do but reach
 Desire's Abode, misery to find.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-56-Proem-Proem-2.-Excellence-of-Vedas.mp3',
     elaborationTamil: `இறைவனைப் பற்றிய பாடல்களை இசையோடு ஒலித்துப் பாடி அதற்கேற்ப பாவமும் காட்டி நடனமாடும் இளம்பெண்கள் அந்தப் பாடல்களின் மூலம் இறைவனை உணர்ந்து முக்திபெறுவதற்கு முயற்சிக்காமல் தங்களின் நடனங்களின் மூலம் பொருள் பெறவே முயற்சிக்கின்றனர். அப்பெண்களின் நடனத்தைக் கண்டு களிப்பவர்களும் அதன் உண்மைப் பொருளை உணராமல் அவர்களின் நடனத்தைக் கண்டு சிற்றின்பத்திலேயே இருக்கின்றார்கள். உயர்வான வேதங்களை உயிர்கள் உய்யும் பொருட்டு உண்மைப் பொருளுணர்ந்து ஓதவேண்டிய அந்தணர்கள் மோட்சம் அடையவேண்டும் என்ற விருப்பம் இருந்தாலும் அதற்கான ஒழுக்கங்களைக் (விரதங்கள்) கடைப்பிடிக்காமல் பிறர் கொடுக்கும் பொருளுக்காக வேதங்களை ஓதி யாகங்களை வளர்ப்பதால் இந்தப் பெண்களைப் போன்றவர்கள் ஆகின்றார்கள். இவர்களால் செய்யப்படும் யாகங்களைப் பெறுபவர்களும் உண்மைப் பொருள் உணராமல் உலகப் பொருள்களிலேயே மனம் செலுத்துவதால் அப்பெண்களின் நடனத்தைக் காண்பவர்கள் ஆகின்றார்கள். இவ்வர்கள் கொடுக்கும் பொருளுக்கு ஆசைப்படும் அந்தணர்களோ அப்படி பொருள் கிடைக்கும் இடங்களுக்கெல்லாம் சென்று தங்களின் உயர்வான பிறப்பை இழிபிறப்பாக மாற்றித் துன்பத்தில் வாழ்கின்றார்கள். உள் விளக்கம்: வேதங்களில் இறைவனை அடையும் வழிகளும் அதைக் கடைபிடிக்கும் போது இருக்க வேண்டிய ஒழுக்கங்களும் (விரதங்கள்) கொடுக்கப்பட்டிருந்தாலும் அதைச் சிரத்தையோடு மேற்கொள்ளாமல் வெறும் சிற்றின்பத்தில் சிக்கி உலகப் பொருள்களை நாடி அலையும் உயிர்கள் தங்களின் பிறவிப் பயனை எய்யாமல் இழிந்து போகின்றார்கள். அவ்வாறு இல்லாமல் பேரின்பப் பொருளான இறைவனை வேதங்கள் மூலம் உணர்ந்து முக்தியை அடைவீர்களாக என்று திருமூலர் இங்கு அருளுகின்றார்.`,
   },
   {
@@ -1008,6 +1061,7 @@ The Lord that consorts the blue-hued One
 Has the Agamas twenty-five and three;
 Bowing low, the six and sixty sought
 The Fifth-Faced One the Agamas' deep import to expound.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/12/Song-57-Proem-Proem-3.-Excellence-of-Scriptures.mp3',
     elaborationTamil: `நீல நிற தேகத்தை உடைய உமா மகேஸ்வரியை இடது பாகத்தில் கொண்ட இறைவன் தனது மேல் நோக்கிய ஐந்தாவது முகமான ஈசான முகத்திலிருந்து அரிதான இருபத்து எட்டு ஆகமங்களை தன்னைக் கைகூப்பி வேண்டிக்கொண்ட அறுபத்து ஆறு யோகபுருஷர்களுக்கு மொழிந்து அருளினான். இருபத்து எட்டு ஆகமங்களும் அதைக் கேட்ட அறுபத்து ஆறு யோகபுருஷர்களும்: 1. காமிகம்: பிரணவர், திரிகலர், ஹரர் 2. யோகஜம்: சுதா, பஸ்மர், விபு, 3. சிந்தியம்: சுதீப்தர், கோபதி, அம்பிகை 4. காரணம்: காரணர், சர்வருத்ரர், பிரஜாபதி 5. அஜிதம்: சுசிவர், சிவர், அச்சுதர் 6. தீப்தம்: ஈசர், ஈசானர், ஹூதாசனர் 7. சூட்சுமம்: சூட்சுமர், வைஸ்சிரவணர், பிரபஞ்சனர் 8. சகஸ்ரம்: காலர், பீமர், தருமர் 9. அம்சுமான்: அம்புசம்யமர், அர்க்கர், ரவி 10. சுப்ரபேதம்: தசேசர், விக்னேசர், சசி 11. விஜயம்: அனாதிருத்தர், பரமேசுவரர் 12. நிஸ்வாசம்: தசாரணர், சைலசர் 13. சுவாயம்புவம்: நிதனேசர், பிரமர் 14. அனலம்: வியோமர், அக்கினி 15. வீரம்: தேஜஸ், பிரஜாபதி 16. ரெளரவம்: பிரம்மேசர், நந்திகேசர் 17. மகுடம்: சிவர், மகாதேவர் 18. விமலம்: சர்வாத்மகர், வீரபத்திரர் 19. சந்திரஞானம்: அனந்தர், கிரஹஸ்பதி 20. பிம்பம்: பிரசாந்தர், ததீசி 21. புரோத்கீதம்: சூலி, கவசர் 22. லளிதம்: லயர், ஆலயர் 23. சித்தம்: பிந்து, சண்டேசுவரர் 24. சந்தானம்: சிவநிஷ்டர், வாயு 25. சர்வோக்தம்: சோமதேவர், நிருசிம்மர் 26. பாரமேசுரம்: ஸ்ரீதேவி, உசனஸ் 27. கிரணம்: தேவவிபவர், சம்வர்த்தகர் 28. வாதுளம்: சிவர், மகாகாளர்`,
   },
   {
@@ -1025,6 +1079,7 @@ The Sivagamas the Lord by Grace revealed;
 In number a billion-million-twenty-eight
 In them the Celestials the Lord's greatness gloried;
 Him, I too shall muse and praise.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-58-Proem-Proem-3.-Excellence-of-Scriptures.mp3',
     elaborationTamil: `சதாசிவமூர்த்தி உயிர்கள் உய்யும் பொருட்டு அருளிய சிவாகமங்களை எண்ணினால் அது இருபத்து எட்டு கோடி நூறாயிரம் இவற்றையே விண்ணில் இருக்கும் தேவர்களும் சிவபெருமானின் சிறப்புக்களாகக் கூறினார்கள். அவற்றையே நானும் சிந்தனை செய்து நின்று அவற்றின் பொருளைப் புகழ்ந்து பாடிப் பரப்புகின்றேன்.`,
   },
   {
@@ -1042,6 +1097,7 @@ In eighteen various tongues they speak
 The thoughts which Pandits alone know;
 The Pandits' tongues numbering ten and eight
 Are but what the Primal Lord declared.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-59-Proem-Proem-3.-Excellence-of-Scriptures.mp3',
     elaborationTamil: `இறைவனை அடைய ஆகமங்கள் கூறும் பதினெட்டு நிலைகளையும் அதன் உண்மையையும் உணர்ந்தவர்கள் பண்டிதர்கள் ஆவார்கள். இந்தப் பதினெட்டு நிலைகளையும் அரன் எனும் பெயரால் அறியப்படுபவனும் உலகங்கள் அனைத்திற்கும் முதல்வனுமான இறைவன் கூறியவையாகும். இறைவன் கூறியவற்றை அவன் கூறியபடியே விளக்குபவர்களே உண்மையான பண்டிதர்கள் ஆவார்கள்.`,
   },
   {
@@ -1059,6 +1115,7 @@ The Agamas, the Lord by Grace revealed,
 Deep and baffling even to the Gods in Heaven;
 Seventy billion-millions though they be;
 Like writing on the waters, eluding grasp.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-60-Proem-Proem-3.-Excellence-of-Scriptures.mp3',
     elaborationTamil: `உயிர்கள் தன்னை அடைய இறைவன் அருளிய திவ்யமான ஆகமங்களை விண்ணகத்தில் இருக்கும் அமரர்க்கும் பொருள் விளங்க அரிதானவையாகும். மொத்தம் உள்ள ஆகமங்களை எண்ணினால் அது எழுபது கோடி நூறாயிரம் ஆகும். இத்தனை கோடி ஆகமங்களை எண்ணிக்கொண்டு இருந்தால் நீர் மேல் எழுதிய எழுத்தை எப்படிப் படிக்க முடியாதோ அதுபோல இத்தனை கோடி ஆகமங்களின் பொருளை உணரமுடியாமல் போய்விடும்.`,
   },
   {
@@ -1076,6 +1133,7 @@ The Infinite revealing the Infinite Vast
 Came down to earth, Siva's Dharma to proclaim,
 The immortals, then, Him as Nandi adored,
 And He stood forth the Agamas artic'lating.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-61-Proem-Proem-3.-Excellence-of-Scriptures.mp3',
     elaborationTamil: `: பரமாகிய சிவமும் பராவாகிய சக்தியும் சேர்ந்து பராபரமாகிய அனைத்திற்கும் மேலான சதாசிவமூர்த்தி உலகின் தலைவனாய் நின்று எல்லா உயிர்களும் இறைவனை அடைய ஆகமங்களை அருளிய நேரத்தில் அமரர்களுக்கு குருவாய் நிற்கும் இறைவனை அரன் என்று அவர்களால் அர்ச்சிக்கப்பட்டு ஆகமங்கள் கூறும் ஞானத்தின் மொத்த அறிவு உருவமாக உயர்ந்து நின்றான்.`,
   },
   {
@@ -1093,6 +1151,7 @@ From Siva the Infinite to Shakti and Sadasiva,
 To Maheswara the Joyous, to Rudra Dev and Brahmisa,
 So in succession unto Himself from Himself,
 The nine Agamas our Nandi begot.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-62-Proem-Proem-3.-Excellence-of-Scriptures.mp3',
     elaborationTamil: `பரமாகிய சிவமும் பராவாகிய சக்தியும் சேர்ந்து சதாசிவம் எனும் மாபெரும் பரம்பொருளாக விளங்கி அந்தப் பரம்பொருள் மகேசுவரன், ருத்திரன், திருமால், பிரமன், ஈசுவரன் ஆகிய ஐவர்களும் சதாசிவமூர்த்தியிடமிருந்து பெற்றது மொத்தம் ஒன்பது ஆகமங்கள் ஆகும். அந்த ஒன்பது ஆகமங்களை எங்கள் குருவான நந்தி பெற்று எமக்கு அருளினான்.`,
   },
   {
@@ -1110,6 +1169,7 @@ The Agamas so received are Karanam, Kamigam,
 The Veeram good, the Sindam high and Vadulam,
 Vyamalam the other, and Kalottaram,
 The Subram pure and Makutam to crown.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-63-Proem-Proem-3.-Excellence-of-Scriptures.mp3',
     elaborationTamil: `எங்கள் குருவான நந்தியிடமிருந்து பெற்ற நல்வழியைக் காட்டும் ஒன்பது ஆகமங்கள் 1. காரணம், 2. காமிகம், 3. அமையப்பெற்ற வீரம், 4. உயர்வான சித்தம், 5. வாதுளம், 6. மற்றவைகளான யாமளம், 7. அனைத்துமாகும் காலோத்தரம், 8. நிறைவுடைய சுப்பிரம், 9. சொல்லிய மகுடம் ஆகியவையாகும்.`,
   },
   {
@@ -1127,6 +1187,7 @@ Numberless the Sivagamas composed,
 The Lord by His Grace revealed;
 Yet they know not the wisdom He taught;
 Like writing on water, the unnumbered fade.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-64-Proem-Proem-3.-Excellence-of-Scriptures.mp3',
     elaborationTamil: `உயிர்கள் தன்னை அடைய இறைவன் அருளிய சிவாகமங்களை தொகுத்தால் பல கோடிகளாக இருக்கும் என்றாலும் இறைவனை எண்ணி அவனருள் வேண்டி அவன் கொடுக்கும் ஞானத்தை வைத்து அறிந்து கொள்ளலாம். அவ்வாறு இறைவன் கொடுத்த ஞானத்தை கொண்டு ஆகமத்தை உணராமல் வெறும் வார்த்தைகளைக் கொண்டு பொருள் புரியாமல் ஓதினால் அந்த எண்ண முடியாத கோடிகள் அனைத்தும் நீர் மேல் எழுதிய எழுத்துக்கள் போல யாருக்கும் உபயோகம் இல்லாமலேயே இருக்கும்.`,
   },
   {
@@ -1144,6 +1205,7 @@ Devoid alike of rain and summer's gift of dew
 Even the flashing lake had lost it's vernal bloom
 Then did He in Sanskrit and Tamil at once,
 Reveal the rich treasure of His Compassion to our Lady Great.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-65-Proem-Proem-3.-Excellence-of-Scriptures.mp3',
     elaborationTamil: `மழைக்காலம் கோடைக்காலம் பனி பெய்யும் குளிர்காலம் என எல்லாக் காலமும் ஏரிகளெல்லாம் நீர்வற்றி அனைத்தும் யுகங்களின் முடிவான ஊழிக்காலத்தில் அழியும். ஆரிய மொழியாகிய சமஸ்கிருதத்திலும் தமிழிலும் வேதங்களையும் ஆகமங்களையும் புதுயுகத்தில் பிறக்கும் உயிர்களின் தாயான உமாதேவிக்கு அந்த உயிர்கள் இறைவனை அடையும் பொருட்டு உடனே வழங்கி இறைவன் மாபெரும் கருணை செய்தான்.`,
   },
   {
@@ -1162,6 +1224,7 @@ And then its departure takes; caught
 In that momentary wave of flux, Him we glimpse,
 The Lord who in Tamil sweet and northern tongue
 Life's mystery revealed.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-66-Proem-Proem-3.-Excellence-of-Scriptures.mp3',
     elaborationTamil: `மும்மலங்கள் உயிர்களைவிட்டு விலகுகின்ற முறையையும் மும்மலங்கள் உயிர்களைக் கட்டிப்போடும் முறையையும் பந்தபாசத்தால் பிறந்த இந்த உடலைவிட்டு உயிர் பிரிந்து போகும் முறையையும் இன்னும் பலவற்றை ஆகமங்கள் கூறுகின்றன. தமிழ் மொழி சமஸ்கிருத மொழி ஆகிய இரண்டு மொழியிலும் ஆகமங்கள் கூறி உணர்த்தும் ஒரே உண்மை இறைவன் வழங்கிய ஆகமங்களை அவன் அருளாலேயே ஞானம் பெற்று உணர வேண்டும்.`,
   },
   {
@@ -1179,6 +1242,7 @@ Seekest thou the Masters who Nandi's grace received
 First the Nandis Four, Sivayoga the Holy next;
 Patanjali, then, who in Sabha's holy precincts worshipt,
 Vyaghra and I complete the number Eight.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-67-Proem-Proem-Proem-4.-Guru-Tradition.mp3',
     elaborationTamil: `இறைவனே குருவாய் நந்தி தேவராக வந்து உண்மைப் பொருளை உபதேசித்து அருள் பெற்று நாதர் என்று பெயர் பெற்றவர்கள் யாரெனில் சனகர், சனந்தனர், சனாதனர் மற்றும் சனற்குமாரர் ஆகிய நான்கு பேரும் சிவயோகத்தில் சிறந்து இருந்ததால் சிவயோக மாமுனிவர் என்று பெயர் பெற்றவரும் தில்லையில் வந்து இறைவனின் திருநடனத்தைக் கண்டுகளித்த ஆதிசேஷனின் அவதாரமான பாதி மனித உருவமும் பாதி பாம்பு உருவமும் கொண்ட பதஞ்சலி முனிவரும் தன் இடைவிடாத தவத்திற்காக இறைவனிடமிருந்து புலியின் கால்களைப் பெற்றதால் வியாக்கிரமபாதர் என்று பெயர் பெற்றவரும் திருமூலனாகிய யானும் சேர்ந்து மொத்தம் எட்டு பேர்கள் ஆவார்கள்.`,
   },
   {
@@ -1196,6 +1260,7 @@ By Nandi's Grace I, His Masters elect,
 By Nandi's Grace I Primal First sought;
 By Nandi's Grace, what can I perform not?
 Nandi guiding, I here below remained.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-68-Proem-Proem-Proem-4.-Guru-Tradition.mp3',
     elaborationEnglish: `Tirumular explains how he got his name and became one of the eight Nathas.`,
     elaborationTamil: `குருநாதராகிய நந்தியாகிய இறைவனின் அருளினால்தான் யாம் நாதர் என்ற பெயர் பெற்றோம். நந்தியின் அருளினால்தான் இறந்து கிடந்த இடையனாகிய மூலனைக் கண்டு அழுதுகொண்டிருந்த பசுக்களின்மேல் இரக்கம் கொண்டு அவனின் உடலில் புகுந்தோம். நந்தியின் அருள் இல்லாவிட்டால் இந்த நாட்டின் என்ன செய்துவிட முடியும்? நந்தியின் அருளினால்தான் அவர் காட்டிய வழியின் படியே நானும் இருந்தேன்.`,
   },
@@ -1214,6 +1279,7 @@ By merit of instruction imparting,
 Malangan, Indiran, Soman and Brahman,
 Rudran, Kalangi and Kancha-malayan,
 These seven in my line successive come.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-69-Proem-Proem-Proem-4.-Guru-Tradition.mp3',
     elaborationTamil: `இறைவனே குருநாதராக இருந்து அருளிய மந்திரங்களைப் பெற்ற எம்மிடம் சீடர்களாக இருந்து அந்த மந்திரங்களைப் பெற்ற குருவழிமுறையில் வந்தவர்கள் மாலாங்கன், இந்திரன், சோமன், பிரமன், உருத்திரன், காலாங்கி நாதன், கஞ்ச மலையன் ஆகிய ஏழு பேர்கள். இவர்கள் ஏழு பேரும் என்வழியில் வந்தவர்கள் ஆவார்கள்.`,
   },
   {
@@ -1248,6 +1314,7 @@ The Lord it was who spoke to the Three and to the Four,
 He spoke of Death futile and of Birth according;
 At once of God and the three Radiant Lights;
 Yet His surpassing greatness ne'er fully revealed.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-71-Proem-Proem-Proem-4.-Guru-Tradition.mp3',
     elaborationTamil: `எம்மிடம் சீடர்களாக இருந்த ஏழு பேர்களுக்கும் எம்முள் இருந்து எம்மூலமாக மந்திரங்களை வழங்கியது இறைவனே. அவன் பிறப்பும் இறப்பும் இல்லாத பெருமையை உடையவன். சூரியனின் ஒளி தோன்றுவதற்கு முன்பிருந்து எப்போதும் மாபெரும் ஒளியாக இருப்பவன் அவன். அவனுடைய பெருமைகளை அவன் அருளின்றி யாரிடமிருந்தும் தெரிந்து கொள்ள முடியாது. ஆகவே நாம் இறைவன் அருள் பெற்ற குருநாதர்களின் மூலம் இறைவனின் தன்மைகளையும் அவனை அடையும் வழிகளையும் தெரிந்து கொண்டு அவன் அருள் பெற்று அவனை அடையலாம்.`,
   },
   {
@@ -1265,6 +1332,7 @@ aḻuntiya nālvarkku aruḷpurin tāṉē`,
 Yet shall you the Holy rites and pure perform;"
 So spoke He of the matted locks and coral hue,
 And His Grace conferred on the steadfast Four.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-72-Proem-Proem-Proem-4.-Guru-Tradition.mp3',
     elaborationTamil: `ஏழு கடல்களும் பொங்கியெழுந்து ஏழு மேகங்களும் மும்மாரி மழையைப் பொழிந்து எட்டுத் திசைகளும் நீரால் நிரம்பினாலும் (நீரினால் வரும் ஊழிக்காலப் பேரழிவு வந்தாலும்) பிறப்புக்கு உயர்வைத் தருகின்ற தன்மையுடைய நியமங்களைச் (நல் அறங்கள்) செய்துகொண்டே இருங்கள் என்று அனைத்தையும் பாதுகாத்து அருளுபவனும் சிவப்பான தன்மையுடைய பவளம் போன்ற மேனியை உடையவனும் குளிர்கொண்ட மேகம் போன்ற தன்மையுடைய விரிந்த சடையை உடையவனுமான இறைவன் தன் திருவடியைப் பணிந்து தொழுத நான்கு சனகாதி முனிவர்களுக்கும் (சனகர், சனந்தனர், சனாதனர், சனற்குமாரர்) அருளினான்.`,
   },
   {
@@ -1282,6 +1350,7 @@ High on my bowed head Nandi's sacred Feet I bore,
 Intoning loud His Name in my heart's deepest core,
 Daily musing on Hara wearing high the crescent moon,
 Thus I ventured the Agamas to compose.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-73-Proem-5.-Story-of-Thirumoolar.mp3',
     elaborationTamil: `குருநாதராக வந்த இறைவனின் இணையில்லாத திருவடிகளை என் தலை மேல் வைத்துக்கொண்டு அவர் அருளிய அனைத்தையும் எனது புத்திக்குள் புகுந்து நிற்கும்படி நினைவில் நிறுத்திக்கொண்டு சூரியன் மறைவில் தோன்றும் இளம்பிறைச் சந்திரனை தனது திருமுடியில் அணிந்துகொண்டிருக்கும் அரன் என்று அழைக்கப்படும் அந்த இறைவனின் பெருமைகளைப் போற்றி அவன் திருவடிகளை தியானித்துக் கொண்டு நாள்தோறும் அவன் அருளிய ஆகமங்களை சொல்கின்றேன்.`,
   },
   {
@@ -1300,6 +1369,7 @@ Straight I rose to Arul Nandi's Holy Feet;
 These eyes witnessed, enthralled,
 The surpassing Dance in Holy Sabh;
 Thus I lived and joyed for seven crore Yuga.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-74-Proem-5.-Story-of-Thirumoolar.mp3',
     elaborationEnglish: `The Dance of Siva represents the manifestations of the Universe as an activity of Siva. It is the most fascinating concept of the Hindu religious philosophy, combining in itself the very purpose of existence. The dance is named Ananda Tandava — the dance of bliss. The hand gestures and postures each carry deep symbolic meaning representing the five cosmic acts: creation (sristi), sustenance (sthiti), dissolution (samhara), concealment (tirobhava), and liberation (anugraha).`,
     elaborationTamil: `சிவபெருமானாலேயே சொல்லப்பட்டதால் சிவாகமம் என்ற பேர் பெற்று பெருமை வாய்ந்த ஆகமங்களை அப்பெருமானே குருநாதராக இருந்து சொல்ல அவரின் திருவடிகளை வணங்கி பெற்றுக்கொண்ட பின் ஒரு குறையும் இல்லாத தில்லை அம்பலத்தில் ஆடிய இறைவனின் திரு நடனத்தைக் கண்டு களித்து அந்த ஒப்பில்லாத இறைவனின் நினைப்பிலேயே ஒரு கோடி யுகங்கள் இருந்தேன்.`,
   },
@@ -1318,6 +1388,7 @@ Hear O! Indra, what urged me thus?
 She the Holy One, Lady of the Universe, rich and vast
 In devotion deep and true, Her I adored
 And with ardour unceasing, here I pursued.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-75-Proem-5.-Story-of-Thirumoolar.mp3',
     elaborationTamil: `யாம் தவத்தில் இருக்க முடிந்ததின் காரணத்தைக் கேட்டுக்கொள் இந்திரனே அனைத்து விதமான செல்வங்களையும் கொண்டிருக்கும் உலகங்கள் அனைத்திற்கும் தலைவனானவனும் எளிதில் செய்ய முடியாத அரிய தவம் செய்பவர்களுக்குக் கிடைக்கும் இறைவனின் திருவடிகளை தொழுதபோது எம் பக்தியைக் கண்டு கருணை கொண்டு என்னுடனே இறைவனும் வந்து இருந்ததால் தான் என்னால் ஒரு கோடி யுகம் இருக்க முடிந்தது.`,
   },
   {
@@ -1335,6 +1406,7 @@ Sadasiva, Tattva, the Muthamil and Veda
 Them I sought not while here I stood;
 I held them not in the heart; but soon my mind turned,
 And indifference abandoning, realised them all.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-76-Proem-5.-Story-of-Thirumoolar.mp3',
     elaborationTamil: `பிரம்மன், திருமால், உருத்திரன், மகேசுவரன், ஈசன் ஆகிய ஐந்து தெய்வங்களின் மூலம் படைத்தல், காத்தல், அழித்தல், அருளல், மறைத்தல் ஆகிய ஐந்து தொழில்களைச் செய்யும் இறைவனாகிய சதாசிவமூர்த்தி அருளிய ஆகமத் தத்துவங்களையும் இயல், இசை, நாடகம் ஆகிய மூன்று தமிழ் மொழிகளையும் நான்மறையாகிய வேதங்களையும் அளவின்றி யாம் பெற்றுக் கொண்டு அவற்றிலேயே மனம் திளைத்து கொண்டிருக்கும் காலங்களின் மேல் மனதைச் செலுத்தாமல் இருந்தபோது இனியும் சென்று கொண்டிருக்கும் காலங்களை உதாசீனப்படுத்தாமல் உடனே காலத்தின் தேவையை உணர்ந்து இவற்றை மற்றவர்களுக்கு வழங்கவேண்டும் என்பதை என்னுடன் இருந்த இறைவன் உணர்த்தினான்.`,
   },
   {
@@ -1352,6 +1424,7 @@ This it was, O Malanga, urged me here to come,
 The Veda to expound and the Dance Divine's deep import;
 These mysteries occult the Lord first unveiled
 To Her of the azure hue and jewels bright.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-77-Proem-5.-Story-of-Thirumoolar.mp3',
     elaborationTamil: `எமது சீடனாகிய மாலாங்கனே இறைவனோடு இருந்த யான் இந்த உலகத்திற்கு வந்ததின் காரணத்தைக் கேட்டுக்கொள். நீல நிற மேனியைக்கொண்டு இறைவனின் திருமேனியில் சரிபாகமாக இருக்கும் சக்தி தேவியும் ஆதிமூலமாகிய இறைவனும் சேர்ந்து உயிர்கள் உய்யும் பொருட்டு புரிந்த திருநடனத்தின் தத்துவங்களையும் இறைவனை அடைய வழிவகுக்கும் அரும்பெரும் ஒழுக்கங்களையும் உள்ளடக்கிய வேதத்தை மற்றவர்களுக்கு எடுத்து உரைக்கவே யான் வந்தேன்.`,
   },
   {
@@ -1369,6 +1442,7 @@ Bright jewelled, the Eternal Bliss named,
 She my Saviour, sundering all bonds of birth;
 Siva's treasure, Mistress of Avaduthurai cool,
 Her Feet I reached and in devotion fast remained.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-78-Proem-5.-Story-of-Thirumoolar.mp3',
     elaborationTamil: `இறைவனின் திருமேனியில் சரிபாகம் கொண்டவளும் என்றும் நீங்காத ஆனந்தத்தின் பெயரை உடையவளும் பிறப்பை நீக்கி என்னை முழுமையாக ஆட்கொண்டவளும் சீரும் சிறப்பும் உடையவளுமாகிய உமா தேவி தம் தலைவன் சிவபெருமானின் அருள் வேண்டி பசு மாடாக இருந்து தவம்புரிந்த திரு ஆவடுதுறைத் திருத்தலத்தில் அவளை அனைத்து எழுந்த நாதராக இருவரும் சேர்ந்து வீற்றிருக்கும் சிவசக்தியின் திருவடிகளைத் தொழுதுகொண்டே நான் அத்திருத்தலத்தில் இருந்தேன்.`,
   },
   {
@@ -1387,6 +1461,7 @@ Rooted firm to Siva who in Avaduthurai smiled;
 In devotion fast sought repose under Siva Bodhi's shade,
 In devotion fast I chanted
 The lyric spell of His countless names.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-79-Proem-5.-Story-of-Thirumoolar.mp3',
     elaborationEnglish: `This refers to the legend that Tirumular, as he traversed through space from Kailas and came near Tiruvavaduthurai (now in Tanjavur District of Tamil Nadu, India, where the holy monastery Tiruvavaduthurai Aadheenam now is), he saw a herd of cows moaning for their master, Mula, who was dead. Unable to bear their grief, he entered the body of Mula by his yogic powers and, living as a cowherd, tended the cows. When he later sought to re-enter his own body, he found it had disappeared. He then assumed the name Tirumular (the sacred Mula) and remained in Tiruvavaduthurai, composing his great work, Tirumantiram.`,
     elaborationTamil: `திருமேனியில் சரிசமமான பங்கு சக்தி தேவியுடன் சிவபெருமான் வீற்றிருக்கும் திருஆவடுதுறை திருத்தலத்தில் இறைவன் ஞானம் போதித்த படர் அரசமரத்தின் நிழலில் இறைவனோடு சேர்ந்து அவன் திரு நாமங்களை ஓதிக்கொண்டே இருந்தோம்.`,
   },
@@ -1405,6 +1480,7 @@ Remained thus prisoned in mortal coil for ages beyond count;
 Remained in space where day nor darkness is;
 Remained in places where Devas offered praise,
 Remained immutably fix't at Nandi's holy Feet and true.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-80-Proem-5.-Story-of-Thirumoolar.mp3',
     elaborationTamil: `இந்த உடலில் எண்ணிலடங்காத கோடிக்கணக்கான வருடங்கள் இரவு பகல் இல்லாத இடத்தில் (சூட்சும வெளி) பல்லாயிரக்கணக்கான தேவர்களாலும் முனிவர்களாலும் சித்தர்களாலும் போற்றிப் புகழப்பெறுபவனும் எம் குருநாதனுமாகிய இறைவனின் ஈடு இணையில்லாத திருவடிகளின் கீழ் அமர்ந்து இருந்தேன்.`,
   },
   {
@@ -1422,6 +1498,7 @@ What availeth thee now to be born,
 If to the Lord, the meed of penance you deny?
 The Lord made me, my task assigned,
 In sweetest Tamil His Glory to expound.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-81-Proem-5.-Story-of-Thirumoolar.mp3',
     elaborationTamil: `இறைவனை அடைய வேண்டும் என்ற ஆசையில் தாமாக முயன்று தவங்கள் செய்யாமல் வாழ்க்கையை வீணே கடத்துபவர்கள் மீண்டும் மீண்டும் பிறவி எடுத்துக் கொண்டே இருக்கின்றார்கள். இப்படிப் பிறவியை வீணாக்காமல் இறைவனை உயிர்கள் அடையும் வழிகள் அனைத்தையும் குருநாதராக இருந்து எனக்குப் போதித்த இறைவன் அவற்றை நன்றாகத் தமிழில் வழங்குமாறே என்னை இங்கே அனுப்பி வைத்தான்.`,
   },
   {
@@ -1439,6 +1516,7 @@ While Time's unbroken chain trailed its nine Yuga's length,
 Wisdom's Mistress into Nandi's City passed,
 And bathed His Feet in Wisdom's loving stream;
 And I sat and watched, under the sacred Bodhi tree.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-82-Proem-5.-Story-of-Thirumoolar.mp3',
     elaborationTamil: `பேரறிவு ஞானத்தின் தலைவனாகிய எம் குருவாகிய இறைவன் இருக்கும் இடத்தில் ஒரு குறையும் இல்லாமல் ஒன்பது கோடி யுகங்களாக, ஞானத்தால் உருவாகும் அமிர்தப் பால் ஊற்றி இறைவனை அர்ச்சனை செய்து இறைவனின் நல்திருவடியின் கீழ் இருந்தேன்.`,
   },
   {
@@ -1474,6 +1552,7 @@ The Vedas stand in truth unsurpassed,
 The Lord who, the center holding,
 Bodied forth the Vedic chants;
 Likewise in His Grace to me gave this body-temple to hold.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-84-Proem-5.-Story-of-Thirumoolar.mp3',
     elaborationTamil: `இறைவன் கூறிய உத்தமமான வேதங்களின் பொருளை அவனது அருளால் உள்ளுணர்ந்து ஓதுவதால் சிறப்பு பெறுகின்ற மந்திரங்களை உடலும் மனமும் ஒன்று போல் லயித்திருக்கும் பொழுது உள்ளிருந்து உற்பத்தியாகும் பேரின்ப உணர்வுகளை என்மேல் கொண்ட கருணையால் எம் குருநாதனாகிய இறைவன் எமக்கு அளித்து அருளினான்.`,
   },
   {
@@ -1492,6 +1571,7 @@ Who hold firm to the Heavenly secret the Books impart,
 Who chant the hymns that thrill the flesh
 And swell the heart,
 They, sure, take their place in foremost rank.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-85-Proem-5.-Story-of-Thirumoolar.mp3',
     elaborationTamil: `இறைவனை உணர்ந்து இறைவனை அடைந்து யான் பெற்ற பேரின்பம் இந்த உலகத்திலுள்ள அனைவரும் பெற்று இன்புற்றிருக்க வேண்டும் என்றும் அண்டங்கள் அனைத்திலும் உறைந்து நிற்கும் வேதத்தின் உண்மைப் பொருளைப் பற்றிச் சொல்ல வேண்டும் என்றும் உயிர்களின் உடலோடு கலந்து உயிராக நிற்கும் இறைவனே வேதத்தின் முழுப்பொருள் ஆவார். அந்த இறைவனை உள்ளுணர்வு கொண்டு அனைவரும் அறிந்து கொள்ளவே திருமந்திரத்தை வழங்கினோம். இந்தத் திருமந்திரத்தை மனம் விரும்பி நினைத்து நினைத்துத் துதித்துக்கொண்டு இருப்பவர்களுக்கு இறைவனின் திருவருள் தானாகவே வந்தடைந்து யான் பெற்ற பேரின்பம் கிடைக்கும்.`,
   },
   {
@@ -1509,6 +1589,7 @@ The Heavenly Beings with folded hands approach
 Nandi the Lord above and free of the bonds of Birth;
 Deep in their hearts the Holy Hymns revolve
 And, devoutly fixed, chant the immortal strains.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-86-Proem-5.-Story-of-Thirumoolar.mp3',
     elaborationTamil: `பிறப்பு இறப்பு இல்லாதவனும் நந்தி எனப் பேர் பெற்ற குருநாதனுமாகிய இறைவனை சீரும் சிறப்போடும் வானத்திலிருக்கும் தேவர்களெல்லாம் சென்று கைகூப்பித் தொழும் இறைவனை ஒரு பொழுதும் மறக்காத நெஞ்சத்தினுள் திருமந்திர பாடல்களைப் பதிவேற்றி தடுமாற்றமில்லாத உறுதியான மனதோடு அனைவரும் ஒன்றாகக் கூடி நின்று ஓதி வாருங்கள்.`,
   },
   {
@@ -1526,6 +1607,7 @@ In Himself He contained the glowing Fire,
 In Himself the Seven Worlds, and yet all space not filling
 He contained too the Tamil Sastra, in lone splendour set,
 Pregnant of import, deep yet recondite.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-87-Proem-5.-Story-of-Thirumoolar.mp3',
     elaborationTamil: `சூரியனின் நெருப்பு அதிகமாகி உலகங்களை அழிக்காதவாறு அளவோடு வைத்தவன். ஒவ்வொரு அண்டங்களிலும் ஏழு உலகங்களை அளவோடு வைத்தவன். இந்த உலகங்களில் உயிர்கள் பிறக்க வேண்டி உடலை அளவோடு வைத்தவன். அந்த உயிர்கள் மேல் நிலையை அடையும் பொருட்டு என்னுள் இருந்து இந்தத் திருமந்திரம் எனும் தமிழ்ச் சாத்திரத்தையும் அளவோடு சொல்ல வைத்தவன். சொல்லப்பட்ட இந்தத் திருமந்திரத்தின் பொருளை வெறும் வாயால் கூறி பயனில்லாமல் போகாதபடி அனுபவத்தின் மூலமே அறியும் பொருளாக அளவோடு வைத்தவன் இறைவனே.`,
   },
   {
@@ -1543,6 +1625,7 @@ Ayan and Mal, His Head and Foot toiling sought,
 Baffled in their quest, again on earth they met;
 "I saw not the Foot," Achuth plained,
 "The Head I saw," Ayan falsely claimed.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-88-Proem-5.-Story-of-Thirumoolar.mp3',
     elaborationTamil: `தமக்குள் யார் பெரியவர் என்று பிரம்மனும் திருமாலும் வாதிட்டுக் கொண்டிருந்தபோது சிவபெருமான் ஒரு மாபெரும் நெருப்புத் தூணாக நின்று இத்தூணின் அடியையோ அல்லது உச்சியையோ காண்பவரே பெரியவர் என்று அறிவித்தார். பிரம்மன் பறந்து உச்சியைக் கண்டுவிடலாம் என்று நினைத்து அன்னப் பறவையாக பறந்து சென்றார். திருமால் பூமியைக் குடைந்து அடியை கண்டுவிடலாம் என்று நினைத்து பன்றியாக குடைந்து சென்றார். இருவரும் தங்கள் எண்ணப்படி அடியையும் உச்சியையும் காணாமல் பூமியின் மேல் வந்து நின்ற அடியைக் காண முடியவில்லை என்று திருமால் ஒப்புக்கொண்டார். பிரம்மன் உச்சியைக் கண்டுவிட்டேன் என்று பொய் கூறினான். உள் விளக்கம்: இந்தப் பாடலில் திருமூலர் ஒரு புராணக் கதையை சித்தரிப்பது போல இருந்தாலும் இறைவனின் திருவடிகளை கண்டு அவன் திருவடிகளின்கீழ் இருப்பதே பேரின்பம் என்பதை அனுபவத்தில் கண்டு அறிந்த திருமூலர் (பாடல் #82 இல் கூறியபடி) அந்தப் பேரின்பத்தை அனைவரும் அடையும் வழியாகவே திருமந்திரத்தை வழங்கினோம் என்பதையே இங்கு உணர்த்துகிறார்.`,
   },
   {
@@ -1560,6 +1643,7 @@ Nandi, by bull, deer and axe ever attended,
 Nandi, my Lord, the Cause without Cause,
 Creation's limit in His Thought conceived to me revealed,
 And on my lowly head He planted His Holy Feet.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-89-Proem-5.-Story-of-Thirumoolar.mp3',
     elaborationTamil: `காளையும் (இடபம்) மானும் மழுவும் (ஆயுதம்) தரித்துத் தானே தோன்றிய இறைவனின் கற்பனையிலிருந்து (எண்ணத்திலிருந்து) தோன்றியதே இந்த அண்ட சராசரங்கள் அனைத்தும். அப்படிப்பட்ட இறைவன் என்மேல் கொண்ட கருணையினால் உண்மைப் பொருளையும் வழங்கி அடியவன் என் தலைமேல் தன்னுடைய நன்மை தரும் பொற்பாதங்களையும் வைத்து ஆகமங்கள் அனைத்தையும் எங்களின் குருநாதராக இருந்து வழங்கினான்.`,
   },
   {
@@ -1577,6 +1661,7 @@ So impelled, streamed out of me in measures full
 The Jneya, the Jnana, and the Jnathuru,
 The Maya, and the Parayaya that in Mamaya arise,
 The Siva and the Agochara Veeya.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-90-Proem-5.-Story-of-Thirumoolar.mp3',
     elaborationTamil: `உணர்வினால் அறியப்பட வேண்டிய இறைவனையும் அந்த இறைவனை அறிந்து கொள்ளும் அறிவைக் கொடுக்கும் ஞானத்தையும் உயிருக்குள் ஆன்மாக இருக்கும் இறைவனையும் அந்த ஆன்மாவை அறியவிடாமல் தடுக்கும் மாயையும் அந்த மாயையை ஆளும் சிவத்தையும் இந்த சிவத்திலிருந்து வரும் சக்தியையும் சிவமும் சக்தியும் சேர்ந்த சதாசிவமூர்த்தியையும் தனக்குள்ளே உணர்ந்து இறைவனை அடையும் வழிகளான ஓலி ஓளி தத்துவங்கள் அனைத்தையும் விளக்கி யாம் வழங்கியதே இந்தத் திருமந்திர மாலை.`,
   },
   {
@@ -1595,6 +1680,7 @@ Down Kailas's unchanging path,
 The Word of Him, the Eternal, the Truth Effulgence,
 The Limitless Great, Nandi, the Joyous One,
 He of the Blissful Dance that all impurity dispels.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-91-Proem-5.-Story-of-Thirumoolar.mp3',
     elaborationTamil: `ஆகம வேதப் பொருளை விளக்கி அருளிய குருநாதன் பரம்பொருள் எனப்படும் உண்மையான ஞானத்தின் ஜோதி வடிவானவன். அளவிடமுடியாத பெருமைகளைக் கொண்டவன். ஆனந்த வடிவானவன். மும்மலங்களையும் அறுக்கும் ஆனந்த நடனத்தை ஆடும் கூத்தன். அப்பேர்பட்ட இறைவன் சொன்ன சொல்லைக் கட்டளையாக ஏற்று அதன்படியே நானும் அரும்பெரும் வளங்கள் நிறைந்த திருக்கயிலாய வழியில் இந்த உலகம் தேடி வந்தேன்.`,
   },
   {
@@ -1612,6 +1698,7 @@ With Nandi's Grace I sought the Primal Cause,
 With Nandi's Grace I Sadashiv became,
 With Nandi's Grace Truth Divine attained,
 With Nandi's Grace I so remained.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-92-Proem-5.-Story-of-Thirumoolar.mp3',
     elaborationTamil: `குருநாதராகிய இறைவனின் அருளினால்தான் நான் இடையன் மூலனின் உடலில் புகுந்தேன். அதன்பிறகும் அவரின் அருளினால்தான் அந்த உடலிலேயே தவ நிலையில் இருந்து சதாசிவமாகவே மாறினேன். அவரின் அருளினால்தான் உண்மையான ஞானத்தை அடைந்து அதனுள்ளேயே உறைந்திருந்தேன். அவரின் அருளினால்தான் அவரோடே எப்போதும் இருந்தேன்.`,
   },
   {
@@ -1629,6 +1716,7 @@ In the countless measures that are in Veda Rig,
 He indwells with His radiant locks;
 The Sun and Moon with their splendid argent rays,
 In vain they melt the waxing lustre of His glowing locks.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-93-Proem-5.-Story-of-Thirumoolar.mp3',
     elaborationTamil: `இறைவன் வழங்கிய ஆகமங்கள் எவ்வளவு என்று எண்ணமுடியாத அளவு பல கோடிகளாக இருக்க அந்த ஆகமங்களின் அடிப்படை மூலப் பொருளாக வீற்றிருக்கும் இறைவனே உயிர்களின் உடலுக்குள் சூரியனும் சந்திரனும் அழகான ஒளி வீசுவதுபோல உருக்கிய பொன் போன்ற ஒளிக்கதிராக வீசிக்கொண்டு இருக்கின்றான்.`,
   },
   {
@@ -1646,6 +1734,7 @@ Unceasing, I prattle daily Nandi's name,
 By day praise Him in thought and ;by night as well,
 Daily I yearn for my Master, the Light-Hued,
 The Lord of the uncreated Radiant Flame.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-94-Proem-5.-Story-of-Thirumoolar.mp3',
     elaborationTamil: `நந்தி எனும் பெயர் கொண்ட இறைவனை எனது நெஞ்சத்துள் வைத்து இரவு பகல் பாராமல் எப்போதும் அவனின் திருநாமத்தைச் சொல்லிக்கொண்டே இருப்பேன். விண்ணுக்கும் மண்ணுக்கும் ஓங்கி நிற்கும் ஜோதி வடிவான எம்பெருமானை அடைய வேண்டும் என்ற எண்ணத்தில் எப்போதும் இருப்பேன். எவரும் ஏற்றி வைக்காமல் இயல்பாகவே ஒளிரும் மாபெரும் ஜோதியே நான் வணங்கும் இறைவன் ஆவான்.`,
   },
   {
@@ -1663,6 +1752,7 @@ Who can know the greatness of our Lord!
 Who can measure His length and breadth!
 He is the mighty nameless Flame;
 Whose unknown beginnings I venture to speak.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-95-Proem-6.-Humility.mp3',
     elaborationTamil: `எவராலும் அறிய முடியாத அளவிற்கு பெருமைகளை உடையவனும் எவராலும் அவனின் உயரத்தையும் அகலத்தையும் அறிய முடியாத அளவிற்கு அளவிடமுடியாதவனும் எவராலும் அறிந்து கொண்டு அழைத்துவிட முடியாத அளவிற்கு பெயரிடமுடியாத மாபெரும் சுடர் போன்று இருப்பவனும் தனக்கென்று ஆரம்பமும் முடிவும் இல்லாதவனுமான எம்பெருமான் சதாசிவமூர்த்தியின் அருமை பெருமைகளை அவன் அருள் மூலமே அறிந்துகொண்டு அதை யான் உங்களுக்குச் சொல்லுகின்றேன்.`,
   },
   {
@@ -1680,6 +1770,7 @@ I know not the way singers sing,
 I know not the way dancers dance,
 I know not the way seekers seek,
 I know not the way searchers search.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-96-Proem-6.-Humility.mp3',
     elaborationTamil: `இறைவனைத் துதித்து பாடல்களை இசைத்துப் பாடி அவனருளைப் பெறக்கூடியவர்களின் வழியை அறியாதவன் யான். இறைவனை ஆனந்தக் கூத்தாடி அவனருளைப் பெறக்கூடியவர்களின் வழியை அறியாதவன் யான். இறைவனை உண்மையான அன்போடு நாடிச் சென்று அவனருளைப் பெறக்கூடியவர்களின் வழியை அறியாதவன் யான். இறைவன் எங்கே இருக்கின்றான் என்று தேடி அலைந்து அவனைத் தமக்குள்ளே கண்டு அவனருளைப் பெறக்கூடியவர்களின் வழியை அறியாதவன் யான். அப்படிப்பட்ட எம்மை ஆட்கொண்டு அவனை முழுவதும் அறியவைத்தது எம்பெருமான் சதாசிவமூர்த்தியின் பேரருளே.`,
   },
   {
@@ -1697,6 +1788,7 @@ By words spoken in Truth's luminous accents,
 Rising on sweetest music's pious heights
 Even Brahma who after Him created this our world,
 All, all, seek His imperishable Light.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-97-Proem-6.-Humility.mp3',
     elaborationTamil: `என்றும் நிலைத்திருக்கும் வேதங்களைச் சொல்லுவதால் மட்டும் உணர முடியாதவனும் "இனிமையான இசையோடு பாடுகின்ற அடியவர்களின் இசையினுள்ளே" எழுந்தருளுகின்றவனும் படைப்புத் தொழிலைச் செய்யவேண்டி இறைவன் படைத்த பிரம்மனும் தியானிக்கும் சதாசிவமூர்த்தியை அவனது அருள்கொண்டே அவனை உணர முடியும்.`,
   },
   {
@@ -1714,6 +1806,7 @@ At the foot of the Sacred Hills, the Rishis and Devas sat,
 Seeking Liberation's endless Bliss,
 Devoutly praising, yet knowing not,
 So this deep Mystery I here expound.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-98-Proem-6.-Humility.mp3',
     elaborationTamil: `இறைவனை உணர்ந்து முக்தி பெறவேண்டும் என்று மலை உச்சிகளிலும் குகைகளிலும் தவமிருக்கும் முனிவர்களுக்கும் தேவர்களுக்கும் சதாசிவமூர்த்தியை உணரக்கூடிய பேரறிவு ஞானத்தை இறைவனே கூறியருளினாலும் இறைவனும் தாமும் ஒன்றானவர்களே என்கிற உணர்வு இல்லாமல் இறைவனையும் தம்மையும் வேறு வேறாகக் எண்ணிக்கொண்டு அவ்விறைவனின் மேல் பக்திகொண்டு போற்றிப்பாடுபவர்கள் இறைவன் வழங்கிய பேரறிவு ஞானத்தின் பயனை அவர்கள் பெறாமலே இருக்கின்றார்கள்.`,
   },
   {
@@ -1732,6 +1825,7 @@ Did He, Nandi, reveal for all the world to know,
 Wake early at dawn and pour forth the strains
 Surely you'll win the splendid soft repose
 Of the Bosom of the Lord.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-99-Proem-7.-Excellence-of-Thirumandhiram.mp3',
     elaborationTamil: `திருமூலர் அருளிய மூவாயிரம் தமிழ் மந்திரங்கள் "குருநாதன் இறைவனின் அருளால் வழங்கப் பெற்றது" என்று கூறப்படுகிறது. இந்த மந்திரங்களை "காலையில் எழுந்து அவற்றின் பொருளை ஓதி உணர்ந்து" அவற்றின் கருத்துக்களைப் பின்பற்றினால், "உலகங்கள் அனைத்திற்கும் தலைவனாகிய சதாசிவமூர்த்தியைச் சென்று அடைந்து" பேரின்பம் பெறலாம் என்பதே இந்த பாடலின் மூல சாரம்.`,
   },
   {
@@ -1749,6 +1843,7 @@ In the Holy Three Thousand is the Salvation Finale
 Of the diverse works, true and good;
 In the Divine Three Thousand, original and wise,
 All knowledge is, special and general.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-100-Proem-7.-Excellence-of-Thirumandhiram.mp3',
     elaborationTamil: `உயிர்கள் அனைத்தும் இறைவனை உணர்ந்து வீடு பேறு அடைய வேண்டும் என்கின்ற அன்பினால் யாம் உயிர்களுக்கு வைத்த பேரின்ப பரிசு திருமந்திரம் என்னும் "பேரின்ப நன்மை தரும் நூலாகும்". இந்த நூலிலுள்ள மூவாயிரம் பாடல்களில் யாம் வழங்கியிருப்பது இறைவனை அடைந்து முக்தி பெறும் வழிகளும் அதன் முடிவில் "இறைவனோடு என்றும் கலந்து இருக்கும் பேரின்பத்தின் விளக்கங்களும்" ஆகும். இறைவனின் அருளால் அறிவுப்பூர்வமாக இயற்றப்பெற்ற இந்த மூவாயிரம் பாடல்களும் "அனைவருக்கும் பொதுவானவையாகும்". இந்த மூவாயிரம் பாடல்களையும் தமது சிந்தையில் வைத்து, அவற்றின் பொருளுணர்ந்து போற்றி வருபவர்களுக்கு "அனைத்துவிதமான சிறப்புகளையும் கொடுக்கும்" இந்த திருமந்திரப் பாடல்கள்.`,
   },
   {
@@ -1766,6 +1861,7 @@ Seven are the Holy Order, spiritual and true;
 Mula, of the first, from the Himalayas sprung,
 In the Tantras Nine and Hymns Three thousand
 Propounds the Word of Agama in beauty dight.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-101-Proem-8.-History-of-the-Guru-Abodes-1.mp3',
     elaborationEnglish: `For the seven monasteries, see Mantra 102. Tirumular's Agamic school of Saiva Siddhanta was replicated by his disciples.`,
     elaborationTamil: `இறைவனை அடையும் உண்மையான வழிகளை உயிர்களுக்கு எடுத்துக்கூற இவ்வுலகத்திற்கு வந்த இறைவனை உணர்ந்து இறை நிலையை அடைந்த ஏழு நாதர்களில் முதலில் தோன்றியவனாகிய திருமூலன் எனும் யான் அந்த வழிகள் அனைத்தையும் ஒன்பது தந்திரங்களாகவும் அந்தத் தந்திரங்களைச் சார்ந்த மூவாயிரம் பாடல்களாகவும் இறைவன் வழங்கிய அழகிய ஆகமங்களின் பொருளை அழகான தமிழ்ச் சொற்களில் வழங்கியருளியதே இந்தத் திருமந்திர மாலை எனும் நூலாகும்.`,
   },
@@ -1784,6 +1880,7 @@ Kalanga immanent-living, Agora his very next,
 Maligai Deva the goodly and the holy Nadhanta,
 Paramananta, who the senses conquered and Bhogadeva,
 And Mula here breathing--of the Eternal are they all.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-102-Proem-8.-History-of-the-Guru-Abodes.mp3',
     elaborationTamil: `திருவருளும் குருவருளும் கலந்து அருளும் காலாங்கர் (காலாங்கி நாதர்) அனைவரையும் தம்பால் ஈர்க்கவல்ல அகோரர் நன்மைகளைத் தரும் திருமாளிகைத் தேவர் அனைத்திற்கும் தலைவனான நாதனைப் போற்றும் நாதாந்தர் புலன்களை வென்ற பரமானந்தர் மற்றும் போக தேவர் (போகர்) இறைவனை அடையும் வழிகளை வழங்கி மண்ணுலக உயிர்களைத் திகழச்செய்த திருமூலர் ஆகிய நாங்கள் ஏழு பேரும் இறைவனின் அருளால் என்றும் இறவா சூட்சுமநிலை பெற்றவர்கள்.`,
   },
   {
@@ -1801,6 +1898,7 @@ Limitless youth, the beginning, and end
 And measuring out the Time, these four considered
 Sankara stands supreme and of His devotees
 To Hari and Aya infinite Grace goes.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-103-Proem-9.-Order-of-the-Divine-Trinity.mp3',
     elaborationTamil: `உயிர்கள் ஆரம்பத்தில் எப்போதுமே இளமையாகவே இருப்போம் அது அளவில்லாதது என்று கருதிக்கொள்வது இளமையின் தன்மை. அந்த இளமையின் முடிவாகத் தோன்றுவது முதுமையின் தன்மை. அந்த முதுமைக்குப் பின் வாழ்க்கையின் முடிவாக வருவது இறப்பின் தன்மை. பிறக்கும் முன்பே வரையறுக்கப்பட்டு பிறப்புக்கும் இறப்புக்கும் இடையில் இயங்குவது காலத்தின் தன்மை ஆகிய நான்கு தன்மைகளும் இயல்பிலேயே மாயையால் உருவாக்கப்பட்டன என்பதை உணர்ந்துகொண்டால் அந்த மாயையை என்றும் தளராமல் அறுக்கும் சங்கரனின் (அழிப்பவன்) தன்மையை உணரலாம். அப்படி உணர்ந்த சிவனடியார்கள் தாம் உணர்ந்த சங்கரனின் தன்மைகளை எடுத்துச் சொன்னால், அது ஹரிக்கும் (திருமால்) அயனுக்கும் (பிரம்மன்) எட்டாத அளவு பெருமை உடையதாக இருக்கின்றது.`,
   },
   {
@@ -1818,6 +1916,7 @@ He, the Being First, and He, the Emerald-hued,
 And He of the glowing, original Lotus-seat--
 Are these three separate or one continuous whole?
 Thus the world in divisions many wrangle!`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-104-Proem-9.-Order-of-the-Divine-Trinity.mp3',
     elaborationTamil: `ஆதியிலிருந்து அனைத்திற்கும் ஆரம்பமாக இருக்கின்ற உருத்திரனும் அணிகின்ற மணிகளைப் போன்ற நீல நிறம் படைத்த திருமாலும் படைப்புத் தந்தையாக தாமரை மலரில் வீற்றிருக்கும் பிரம்மனும் ஆகிய இவர்கள் மூவரும் யார் என்று ஆராய்ந்து பார்த்தால் அவர்கள் தமக்குக் கொடுக்கப்பட்ட தொழில்களில் தனிப்பட்டு நின்றாலும் அவர்களுக்குள் இருந்து இயக்கும் சிவத்தின் தொடர்ச்சியில் ஒன்றுபட்டு இருக்கின்றார்கள் என்பதை உணரலாம். இதை அறியாமல் அவர்களின் தொழில்களை வைத்து வேறு வேறாகப் பிரித்து, இதில் யார் பெரியவர் யார் சிறியவர் என்று தேவையில்லாத குழப்பத்தில் தமக்குள் சண்டையிட்டுக்கொண்டு உலகத்தவர்கள் துன்பப்படுகின்றார்கள்.`,
   },
   {
@@ -1835,6 +1934,7 @@ Beyond the Two Karmas is Isa seated,
 The seed of this world, the mighty God become;
 "This" and "That" is Isa--so the thoughtless contend,
 The dross but know the basest sediment low.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-105-Proem-9.-Order-of-the-Divine-Trinity.mp3',
     elaborationTamil: `இறைவன் நல்வினை தீவினை ஆகிய இரண்டுமாகவே இருக்கிறான். அதையும் தாண்டி அவனை உணர வழிசெய்யும் ஓம் எனும் பிரணவ மந்திரமே இந்த உலகின் மிகப்பெரும் தெய்வமாக இருக்கின்றது. இது எதுவும் தெரியாமல் இறைவன் அதுதான் இதுதான் என்று பல்வேறாக நினைத்துக்கொண்டு அலைபவர்கள் மும்மலங்களின் மாசு படிந்து இருப்பதால் அதை அகற்றி உண்மைப் பொருளான இறைவனை உணராமலேயே இருக்கின்றார்கள்.`,
   },
   {
@@ -1852,6 +1952,7 @@ Siva the First, then the Three, and the Five following,
 With whom flourished Bindu and Nada,
 Nine are they all, yet one and the same--
 All these but names of Sankara First.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-106-Proem-9.-Order-of-the-Divine-Trinity.mp3',
     elaborationTamil: `சிவபெருமானே அனைத்தின் முதல்வனாய் படைத்தலில் பிரம்மன் காத்தலில் திருமால் அழித்தலில் உருத்திரன் என்கிற மூவராகவும் அவர்களோடு சேர்ந்து அருளலில் மகேசுவரன் மறைத்தலில் சதாசிவன் என்று ஐந்து பேராகவும் சிறப்பாக நின்று உயிர்களின் உடலிலுள்ள சக்திமயங்கள் (ஏழு சக்கரங்களும் அதைத் தாண்டிய பரவெளியும்) அனைத்திலும் ஒன்றோடு ஒன்றாக கலந்து இருக்கின்றார். இவர்கள் அனைவருக்கும் மூலமாகிய பரம்பொருள் சதாசிவமூர்த்தியே ஒளியும் ஒலியுமாய் ஓங்கிப் பரவெளியில் அனைத்திற்கும் முதலாகிய சங்கரன் எனும் பெயரில் ஒருவராக இருக்கின்றார்.`,
   },
   {
@@ -1869,6 +1970,7 @@ But if we thus the soul of truth probe and bare,
 Aya nor Mal to us no alien Beings are
 But Indissolubly Kin to Nandi, the Three Eyed
 Blessed be ye all by the Heavenly Three.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-107-Proem-9.-Order-of-the-Divine-Trinity.mp3',
     elaborationTamil: `இறைவனை அடையவேண்டும் என்பதையே பிறவிப்பயனாக அறிந்துகொண்டு அதற்கான வழிகள் என்னவென்று யோசிக்கும் அளவில் எந்தத் தெய்வத்தை வணங்கினாலும் ஒன்றே. இவர்களுக்கு திருமாலும் பிரம்மனும் அன்னியர்கள் இல்லை. முக்கண் முதல்வனாகிய குருநாதன் சிவபெருமானுக்கு சொந்தமே. ஆகையால் உண்மையான பயனை அடையவேண்டும் என்று எண்ணி எந்த வானவர்களை (தெய்வங்கள்) வணங்கினாலும் அதற்கான பயனை சதாசிவமூர்த்தியே அந்த வானவர்களாக (தெய்வங்களாக) இருந்து அருளுவார்.`,
   },
   {
@@ -1888,6 +1990,7 @@ Then spoke the Lord to me:
 "To Vishnu and Brahma are I equal;
 Be it Yours to give the world
 The Grace of My Feet."`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-108-Proem-9.-Order-of-the-Divine-Trinity.mp3',
     elaborationTamil: `இறைவனின் திருக்கோலத்தை அடியவர்களும் இறப்பில்லாத தேவர்களும் சூழ்ந்து நிற்க பால் போன்ற வெண்ணீறு அணிந்த அவனின் திருவுடலைப் பணிந்து அடியவனாகிய யான் தொழுது நிற்கும்போது காக்கும் தொழிலைச் செய்யும் திருமாலுக்கும் படைக்கும் தொழிலைச் செய்யும் பிரம்மனுக்கும் நீ சரிசமமானவன். ஆகையால் உலகத்திற்கு சென்று எமது திருவடியின் திருவருளை அனைவருக்கும் வழங்கிடுக என்று இறைவன் எமக்கு கூறி அருளினான். உள் விளக்கம்: பிரம்மனும் திருமாலும் ஒரு சமயத்தில் ஆன்மாக்களாக இருந்து செய்த மாதவங்களாலேயே இறைவனிடமிருந்து படைக்கும் தொழிலையும் காக்கும் தொழிலையும் பெரும் பேறாகப் பெற்றார்கள் என்பதால் அவர்கள் மாதவம் செய்த இறைவனின் அடியவர்களுக்கு சரிசமமானவர்களே. எனவே உலகில் இறைவனின் திருவடியைப் போற்றி அதன் பயனை மற்றவர்களுக்கும் அருளும் மாதவம் செய்த சிவனடியார்கள் அனைவருமே பிரம்மனுக்கும் திருமாலுக்கும் சரிசமமானவர்கள்.`,
   },
   {
@@ -1905,6 +2008,7 @@ Devas here be none, nor humans that breathe,
 Save for Siva's grace, Siva in honeyed-Konrai decked;
 No other God could dwell in the silence of your soul,
 Other Gods you worship, know they but mortals be.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-109-Proem-9.-Order-of-the-Divine-Trinity.mp3',
     elaborationTamil: `தேவர்கள் என்றும் மனிதர்கள் என்றும் ஆன்மாக்கள் இருப்பது தேன் நிறைந்த கொன்றை மலர் மாலையைச் சூடியிருக்கும் சிவபெருமானின் திருவருளினாலன்றி வேறில்லை. அச்சிவபெருமானின் அருள் இல்லாமல் தானாகவே இருந்தவர்கள் என்றும் தனியொரு தெய்வம் என்றும் வேறு எதுவும் இல்லை. அப்படிப்பட்ட இறைவனே உயிர்களின் உடலுக்குள்ளும் இருக்கின்றான் என்பதை உணர்வதுதான் பிறவியின் உண்மையான பயனாகும்.`,
   },
   {
@@ -1922,6 +2026,7 @@ The ignorant know not, from the First did leap
 The Light that flamed into Three and Five;
 So blindly groping, lost in maze of words,
 Isa, Mal and Aya, to graded ranks assign.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-110-Proem-9.-Order-of-the-Divine-Trinity.mp3',
     elaborationTamil: `ஒளி விடுகின்ற பேரொளிப் பிழம்பான சிவமே படைத்தலில் பிரம்மன் காத்தலில் திருமால் அழித்தலில் உருத்திரன் என்கின்ற மூவராகவும் அவர்களோடு அருளலில் மகேசுவரன் மறைத்தலில் சதாசிவன் என்று ஐந்து பேராகவும் நின்று அந்தத் தொழில்களை செய்துவருவதும் அந்தச் சிவமே ஆதியிலிருந்து இருக்கின்ற பரம்பொருள் என்பதை அறியாத மூடர்கள் அவர்கள் செய்யும் தொழிலை வைத்து அவர்களை வேறு வேறு தெய்வங்களாகக் கருதிக்கொண்டு அவர்களில் யார் பெரியவர் யார் சிறியவர் என்று வீணாகச் சண்டையிட்டுக்கொண்டு புலம்புகின்றார்கள்.`,
   },
   {
@@ -1939,6 +2044,7 @@ The Supreme is one, Absolute, without lapse,
 In descent thereof, Mal and Aya becoming;
 Thus He, the One into many ranked;
 By conscious choice a Self-deduction made.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-111-Proem-9.-Order-of-the-Divine-Trinity.mp3',
     elaborationTamil: `பரம்பொருள் என்பதில் ஒன்றானவனாகவும் உயிர்களுக்குள்ளும் வெளியிலும் இருப்பவனும் ஆன்மா மாதவம் செய்து பெற்ற வரத்தினால் திருமாலாகவும் பிரம்மனாகவும் தவம் செய்த தகுதிக்கேற்ப வெவ்வேறு விதமான தரங்களில் பலவித தன்மைகள் கொண்ட தெய்வங்களாகவும் செய்கின்ற தொழில்களில் பலவிதமாக நின்று அருளுகின்றவன் சதாசிவமூர்த்தியாகிய ஒருவனே.`,
   },
   {
@@ -1966,6 +2072,7 @@ In one Part, He, Sadasiva my Lord;
 One heavenly Part in Heaven resides;
 One Kingly Part, the spirit that the body heaves;
 One His Part to all motion transformed.`,
+    audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-112-Proem-9.-Order-of-the-Divine-Trinity.mp3',
     elaborationTamil: `எமது இறைவனாகிய சிவமே ஞானசக்தியை ஒரு பகுதியாகச் சேர்த்து சதாசிவமாக இருக்கின்றான். (சதாசிவம் அசையும் சக்தியாகவும் அசையா சக்தியாகவும் இரு பகுதியாக உள்ளான்) அவனே வானத்தில் இருக்கும் அனைத்து தெய்வங்களின் உருவங்களாகவும் மருவி அங்கு இருக்கின்றான். உலகங்கள் அனைத்திற்கும் தலைவனான அவனே அவ்வுலகங்களில் இருக்கும் அனைத்து உயிர்களின் உடலுக்குள்ளும் ஒரு பாகமாக இருந்து கொண்டு உள்ளிருந்து அந்த உடலை இயக்கும் உயிர்சக்தியாகவும் இருக்கின்றான். இப்படி அனைத்திலும் ஒரு பாகமாக இருக்கும் சிவமே அனைத்தின் தன்மைகளிலும் கலந்து நின்று அனைத்துமாகவும் இருக்கின்றான்.`,
   },
 ];
