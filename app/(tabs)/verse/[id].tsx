@@ -1,8 +1,9 @@
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, useEffect, useCallback } from 'react';
 import {
   ScrollView, View, Text, TouchableOpacity, StyleSheet, StatusBar,
   TextInput, Linking,
 } from 'react-native';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { LinearGradient } from 'expo-linear-gradient';
 import { useLocalSearchParams, useRouter } from 'expo-router';
@@ -32,11 +33,21 @@ export default function VerseScreen() {
   const { isFavorite, toggleFavorite } = useFavorites();
   const { settings } = useSettings();
 
+  const verseId = Number(id);
+
   const [activeTab, setActiveTab] = useState<Tab>('tamil');
   const [feedbackName, setFeedbackName] = useState('');
   const [feedbackMsg, setFeedbackMsg] = useState('');
+  const [personalNote, setPersonalNote] = useState('');
 
-  const verseId = Number(id);
+  useEffect(() => {
+    AsyncStorage.getItem(`verse_note_${verseId}`).then(v => setPersonalNote(v ?? ''));
+  }, [verseId]);
+
+  const saveNote = useCallback((text: string) => {
+    setPersonalNote(text);
+    AsyncStorage.setItem(`verse_note_${verseId}`, text);
+  }, [verseId]);
   const verse = useMemo(() => getVerseById(verseId), [verseId]);
   const tantra = useMemo(() => verse ? getTantraById(verse.tantraId) : undefined, [verse]);
 
@@ -56,16 +67,18 @@ export default function VerseScreen() {
   const favorite = isFavorite(verse.id);
   const fontSize = settings.fontSize === 'small' ? 15 : settings.fontSize === 'large' ? 19 : 17;
 
-  // Word-by-word: zip Tamil words with transliteration words
-  const wordPairs = useMemo(() => {
+  // Word-by-word dictionary: zip Tamil, transliteration, and English words
+  const wordEntries = useMemo(() => {
     const tamilWords = (verse.tamil ?? '').replace(/\n/g, ' ').split(/\s+/).filter(Boolean);
     const romaWords = (verse.transliteration ?? '').replace(/\n/g, ' ').split(/\s+/).filter(Boolean);
+    const engWords = (verse.english ?? '').replace(/\n/g, ' ').split(/\s+/).filter(Boolean);
     const len = Math.max(tamilWords.length, romaWords.length);
     return Array.from({ length: len }, (_, i) => ({
       tamil: tamilWords[i] ?? '',
       roman: romaWords[i] ?? '',
+      english: engWords[i] ?? '',
     }));
-  }, [verse.tamil, verse.transliteration]);
+  }, [verse.tamil, verse.transliteration, verse.english]);
 
   const sendFeedback = () => {
     const subject = encodeURIComponent(`Feedback – Verse #${verse.verseNumber}`);
@@ -182,17 +195,7 @@ export default function VerseScreen() {
               </View>
             </LinearGradient>
 
-            {verse.transliteration ? (
-              <View style={[styles.card, { backgroundColor: theme.bgCard, borderColor: theme.border }]}>
-                <View style={styles.sectionRow}>
-                  <Text style={[styles.sectionLabel, { color }]}>Transliteration</Text>
-                  <Text style={[styles.sectionSub, { color: theme.textMuted }]}>Roman script</Text>
-                </View>
-                <Text style={[styles.translitText, { color: theme.textSub, fontSize: fontSize - 1 }]}>
-                  {verse.transliteration}
-                </Text>
-              </View>
-            ) : null}
+            <VerseAudioPlayer tamilText={verse.tamil} audioUrl={verse.audioUrl} />
 
             {verse.elaborationTamil ? (
               <LinearGradient
@@ -213,6 +216,20 @@ export default function VerseScreen() {
         {/* ─── ENGLISH TAB ─── */}
         {activeTab === 'english' && (
           <>
+            {verse.transliteration ? (
+              <View style={[styles.card, { backgroundColor: theme.bgCard, borderColor: theme.border }]}>
+                <View style={styles.sectionRow}>
+                  <Text style={[styles.sectionLabel, { color }]}>Transliteration</Text>
+                  <Text style={[styles.sectionSub, { color: theme.textMuted }]}>Roman script</Text>
+                </View>
+                <Text style={[styles.translitText, { color: theme.textSub, fontSize: fontSize - 1 }]}>
+                  {verse.transliteration}
+                </Text>
+              </View>
+            ) : null}
+
+            <VerseAudioPlayer tamilText={verse.tamil} audioUrl={verse.audioUrl} />
+
             <View style={[styles.card, { backgroundColor: theme.bgCard, borderColor: theme.border }]}>
               <View style={styles.sectionRow}>
                 <Text style={[styles.sectionLabel, { color }]}>English</Text>
@@ -244,99 +261,49 @@ export default function VerseScreen() {
           <View style={[styles.card, { backgroundColor: theme.bgCard, borderColor: theme.border }]}>
             <View style={styles.sectionRow}>
               <Text style={[styles.sectionLabel, { color }]}>Words</Text>
-              <Text style={[styles.sectionSub, { color: theme.textMuted }]}>Tamil · Roman</Text>
+              <Text style={[styles.sectionSub, { color: theme.textMuted }]}>Dictionary</Text>
             </View>
-            <View style={styles.wordsGrid}>
-              {wordPairs.map((pair, i) => (
-                <View
-                  key={i}
-                  style={[styles.wordChip, { backgroundColor: color + '12', borderColor: color + '33' }]}
-                >
-                  <Text style={[styles.wordTamil, { color: theme.text, fontSize }]}>
-                    {pair.tamil}
-                  </Text>
-                  {pair.roman ? (
-                    <Text style={[styles.wordRoman, { color: theme.textMuted }]}>
-                      {pair.roman}
-                    </Text>
-                  ) : null}
-                </View>
-              ))}
-            </View>
-            {wordPairs.length === 0 && (
+            {wordEntries.length === 0 ? (
               <Text style={[styles.emptyText, { color: theme.textMuted }]}>
                 No word data available for this verse.
               </Text>
+            ) : (
+              wordEntries.map((entry, i) => (
+                <View key={i} style={[styles.dictRow, i > 0 && { borderTopWidth: 1, borderTopColor: theme.border }]}>
+                  <Text style={[styles.dictIndex, { color: theme.textMuted }]}>{i + 1}</Text>
+                  <View style={styles.dictBody}>
+                    <Text style={[styles.dictTamil, { color: theme.text, fontSize }]}>{entry.tamil}</Text>
+                    {entry.roman ? (
+                      <Text style={[styles.dictRoman, { color }]}>{entry.roman}</Text>
+                    ) : null}
+                    {entry.english ? (
+                      <Text style={[styles.dictEnglish, { color: theme.textSub }]}>{entry.english}</Text>
+                    ) : null}
+                  </View>
+                </View>
+              ))
             )}
           </View>
         )}
 
         {/* ─── NOTES TAB ─── */}
         {activeTab === 'notes' && (
-          <>
-            {verse.elaborationEnglish ? (
-              <LinearGradient
-                colors={[color + '14', color + '04']}
-                style={[styles.elaborationCard, { borderColor: color + '2A' }]}
-              >
-                <View style={[styles.elaborationPill, { backgroundColor: color + '20', borderColor: color + '44' }]}>
-                  <Text style={[styles.elaborationPillText, { color }]}>✦ English Notes</Text>
-                </View>
-                <Text style={[styles.elaborationText, { color: theme.textSub, fontSize: fontSize - 1 }]}>
-                  {verse.elaborationEnglish}
-                </Text>
-              </LinearGradient>
-            ) : null}
-
-            {verse.elaborationTamil ? (
-              <LinearGradient
-                colors={[color + '18', color + '06']}
-                style={[styles.elaborationCard, { borderColor: color + '33' }]}
-              >
-                <View style={[styles.elaborationPill, { backgroundColor: color + '22', borderColor: color + '55' }]}>
-                  <Text style={[styles.elaborationPillText, { color }]}>✦ Tamil Notes · குறிப்புகள்</Text>
-                </View>
-                <Text style={[styles.elaborationText, styles.tamilBody, { color: theme.textSub, fontSize: fontSize - 1 }]}>
-                  {verse.elaborationTamil}
-                </Text>
-              </LinearGradient>
-            ) : null}
-
-            {!verse.elaborationEnglish && !verse.elaborationTamil && (
-              <View style={[styles.card, { backgroundColor: theme.bgCard, borderColor: theme.border }]}>
-                <Text style={[styles.emptyText, { color: theme.textMuted }]}>
-                  No notes available for this verse yet.
-                </Text>
-              </View>
-            )}
-
-            {tantra && (
-              <TouchableOpacity
-                onPress={() => router.navigate(`/(tabs)/tantra/${tantra.id}` as any)}
-                activeOpacity={0.75}
-              >
-                <LinearGradient
-                  colors={[color + '28', color + '0A']}
-                  style={[styles.tantraCard, { borderColor: color + '55' }]}
-                >
-                  <View style={{ flex: 1 }}>
-                    <Text style={[styles.tantraCardTitle, { color }]}>
-                      {tantra.number === 0 ? 'Paayiram' : `Tantra ${tantra.number}`}  ·  {tantra.tamilName}
-                    </Text>
-                    <Text style={[styles.tantraCardSub, { color: theme.textSub }]}>
-                      {tantra.englishName}
-                    </Text>
-                    <Text style={[styles.tantraCardDesc, { color: theme.textMuted }]} numberOfLines={3}>
-                      {tantra.description}
-                    </Text>
-                  </View>
-                  <View style={[styles.chevronBox, { backgroundColor: color + '22', borderColor: color + '55' }]}>
-                    <Text style={[styles.chevron, { color }]}>›</Text>
-                  </View>
-                </LinearGradient>
-              </TouchableOpacity>
-            )}
-          </>
+          <View style={[styles.card, { backgroundColor: theme.bgCard, borderColor: theme.border }]}>
+            <View style={styles.sectionRow}>
+              <Text style={[styles.sectionLabel, { color }]}>My Notes</Text>
+              <Text style={[styles.sectionSub, { color: theme.textMuted }]}>Verse #{verse.verseNumber}</Text>
+            </View>
+            <TextInput
+              style={[styles.notesInput, { color: theme.text, borderColor: theme.border, backgroundColor: theme.bg, fontSize }]}
+              placeholder="Write your personal notes here..."
+              placeholderTextColor={theme.textMuted}
+              value={personalNote}
+              onChangeText={saveNote}
+              multiline
+              textAlignVertical="top"
+              autoCapitalize="sentences"
+            />
+          </View>
         )}
 
         {/* ─── FEEDBACK TAB ─── */}
@@ -386,9 +353,6 @@ export default function VerseScreen() {
             </Text>
           </View>
         )}
-
-        {/* Audio player — always accessible */}
-        <VerseAudioPlayer tamilText={verse.tamil} audioUrl={verse.audioUrl} />
 
         {/* Prev / Next */}
         <View style={styles.navRow}>
@@ -520,22 +484,18 @@ const styles = StyleSheet.create({
   translitText: { lineHeight: 26, fontStyle: 'italic' },
   englishText: { lineHeight: 26 },
 
-  /* Words */
-  wordsGrid: {
+  /* Words — dictionary */
+  dictRow: {
     flexDirection: 'row',
-    flexWrap: 'wrap',
-    gap: 8,
-    marginTop: 4,
+    alignItems: 'flex-start',
+    paddingVertical: 10,
+    gap: 12,
   },
-  wordChip: {
-    borderRadius: Radius.sm,
-    borderWidth: 1,
-    paddingHorizontal: 10,
-    paddingVertical: 6,
-    alignItems: 'center',
-  },
-  wordTamil: { fontWeight: '600', lineHeight: 22 },
-  wordRoman: { fontSize: FontSize.xs, lineHeight: 16, marginTop: 1 },
+  dictIndex: { fontSize: FontSize.xs, width: 20, paddingTop: 3, textAlign: 'right' },
+  dictBody: { flex: 1, gap: 2 },
+  dictTamil: { fontWeight: '600', lineHeight: 24 },
+  dictRoman: { fontSize: FontSize.sm, fontStyle: 'italic', lineHeight: 20 },
+  dictEnglish: { fontSize: FontSize.xs, lineHeight: 18 },
 
   emptyText: { fontSize: FontSize.sm, textAlign: 'center', paddingVertical: Spacing.md },
 
@@ -601,6 +561,16 @@ const styles = StyleSheet.create({
   },
   sendBtnText: { color: '#fff', fontSize: FontSize.sm, fontWeight: '700', letterSpacing: 0.5 },
   feedbackEmail: { fontSize: FontSize.xs, textAlign: 'center', marginTop: 4 },
+
+  /* Notes */
+  notesInput: {
+    borderWidth: 1,
+    borderRadius: Radius.sm,
+    paddingHorizontal: 12,
+    paddingVertical: 12,
+    minHeight: 240,
+    lineHeight: 24,
+  },
 
   /* Navigation */
   navRow: { flexDirection: 'row', gap: Spacing.sm, marginTop: Spacing.sm },
