@@ -1043,7 +1043,7 @@ And the pervasive Sakti is Uhara, the letter "U"
 The two sounds swelling alternate
 Fill the world as Aum in unrelieved entirety.`,
     audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2024/01/1751-1.mp3',
-    elaborationEnglish: `Fill the world as Aum in unrelieved entirety. Siva is akara, the letter *A’; Sakti is ukara, the letter “U’, these two sounds together swell and fill the world as ‘Aum.’ The Lord is thus the cosmic sound, ‘Aum.’`,
+    elaborationEnglish: ``,
     elaborationTamil: `சாதகத்தின் மூலம் தமக்குள்ளிருக்கும் இறைவனை உணராத எவரும் ஓங்காரத்தில் இருக்கின்ற ‘அ’காரம் எனும் அருளாக இருப்பது எது என்று அறிந்து கொள்ள மாட்டார்கள். உலகத்திலும் ஓங்காரத்தில் இருக்கின்ற ‘உ’காரம் எனும் அருளை பிரித்து வகுத்துக் கொடுத்த இறை சக்தியை தமக்குள் தேடி உணர்ந்தால் அது பிரணவமாக உள்ளுக்குள் இறை சக்தியாகவும், வெளியிலும் இறை சக்தியாகவும், என்று இரண்டுமாக உலகம் முழுவதற்கும் நிறைந்து நிற்பதாய் தமக்குள்ளிருந்தே மாறி எழுந்திடும் நாதம் ஆகும். கருத்து: ஓங்காரத்தில் ‘அ’காரமாக உள்ளுக்குள் இருந்து இயக்குகின்ற சக்தியும் ‘உ’காரமாக வெளி உலகத்தை இயக்குகின்ற சக்தியும் நாத வடிவமாக இருக்கின்ற நடராஜ தத்துவத்தை குறிப்பதாகும். நடராஜ தத்துவத்தை தமக்குள் உணர்ந்து கொண்ட சாதகர்களே இந்த ஓங்கார தத்துவத்தை அறிந்து சதாசிவ இலிங்கத்தின் நாத வடித்தை உணர்ந்து கொள்வார்கள். ஓங்காரத்தில் இருக்கின்ற இந்த இரண்டு சக்திகளே இறைவனுக்கு இரண்டு சக்திகளாக அனைத்து தெய்வ வடிவங்களிலும் காட்டப் படுகின்றது.`,
   },
   {
@@ -2643,7 +2643,7 @@ That anoint the feet of holy men
 Who in Jnana are upraised;
 Thus does Mula proclaim.`,
     audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2025/02/1829.mp3',
-    elaborationEnglish: `Thus does Mula proclaim. They who worship with water and flowers reap the reward of bathing in the nine Holy Waters of the Lord. Mula (Tirumular) proclaimed that those who anoint the feet of holy men who are upraised in jnana obtain mukti.`,
+    elaborationEnglish: `They who worship with water and flowers reap the reward of bathing in the nine Holy Waters of the Lord. Mula (Tirumular) proclaimed that those who anoint the feet of holy men who are upraised in jnana obtain mukti.`,
     elaborationTamil: `அனைத்து உயிர்களுக்கும் தந்தையாகிய இறைவன் நமது உடலுக்குள் இருக்கின்ற ஒன்பது விதமான தீர்த்தங்களாகிய சக்கரங்களில் திருநடனம் புரிவதனால் கிடைக்கின்ற பலனை பற்றி கூறுகின்றேன் கேளுங்கள். இறைவனுக்கு இணையாகிய உண்மையான ஞானத்தில் உயர்ந்து விளங்கும் ஞானிகளின் அருள் நிறைந்த திருவடிகளை சுத்தமான நீரினால் கழுவித் துடைத்து அந்த நீரை நமது தலையில் தீர்த்தமாக தெளித்துக் கொண்டால் அந்த அருளின் பயனால் நமக்குள் இருக்கின்ற ஒன்பது விதமான தீர்த்தங்களாகிய சக்கரங்களில் இறைவன் வந்து திருநடனம் புரிவான். அப்போது அதன் பயனால் மும்மலங்களும் நீங்கப்பெற்று கிடைக்கின்ற முக்தி நிலையாக இறைவனே இருப்பான் என்று நமக்கெல்லாம் ஆதிமூலமாகிய இறைவனே சொல்லி அருளினான். உட் கருத்து: புண்ணிய நதிகளில் நீராடுவதை விட இறைவனை உணர்ந்த ஞானிகளின் பாதங்களை கழுவிய நீரை தெளித்துக் கொள்வது எளிதில் இறையருளைப் பெறுவதற்கு வழிவகுக்கும். அது எப்படி என்றால் இறைவனை உணர்ந்த ஞானிகளின் அருள் நிறைந்த பாதங்களை தூய்மையான நீரினால் சுத்தமாக கழுவித் துடைத்தால் அந்த பாதத்தில் இருக்கின்ற அருளின் மூலம் நமக்குள் இருக்கின்ற மாயையாகிய அழுக்குகள் நீங்கி உண்மை அறிவைப் பெற்று அதன் மூலம் முக்தியை அடையலாம். உடலுக்குள் இருக்கின்ற ஒன்பது சக்கரங்கள்: மூலாதாரம் (அக்னி மண்டலம்) சுவாதிஷ்டானம் மணிப்பூரகம் அநாகதம் விசுக்தி ஆக்ஞை சகஸ்ரதளம் சூரிய மண்டலம் (துவாத சாந்த வெளி) சந்திர மண்டலம்`,
   },
   {

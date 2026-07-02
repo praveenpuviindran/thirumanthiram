@@ -77,20 +77,8 @@ And where that is located;
 I shall reveal where His Adharas (triple) are;
 And the forest where He is
 All these eight I shall reveal
-To denizens of world here below.
-Once He loves, separation Knows not;
-Think of His Form
-And within you He melts;
-Enter into His Essence
-And see Him in your heart;
-For those who can do this,
-The seminal Karmas slumbering die;
-The Ego-Consciousness forever perishes.`,
-    elaborationEnglish: `Annamaya - Flesh body
-Pranayama - breath body
-Manomaya - mind body
-Vijnanamaya - knowledge body
-Anandamaya - bliss body`,
+To denizens of world here below.`,
+    elaborationEnglish: ``,
   },
   {
     id: 2654, tantraId: 9, verseNumber: 2653,
@@ -310,7 +298,13 @@ Unto a forest is that body
 Where the Jiva-bird its abode has;
 If the Jiva seeks the Way of Sixteen worships
 Then is Jiva's Ten attainments are.`,
-    elaborationEnglish: `?The yogic way of reaching the light with sixteen beams within the visuddhi adhara, where Sakti stands.
+    elaborationEnglish: `Annamaya - Flesh body
+Pranayama - breath body
+Manomaya - mind body
+Vijnanamaya - knowledge body
+Anandamaya - bliss body
+
+The yogic way of reaching the light with sixteen beams within the visuddhi adhara, where Sakti stands.
 
 Ten states of transcendental consciousness, beyond which is the final goal of supreme awareness.`,
   },
@@ -325,7 +319,15 @@ uruvam niṉaikka niṉṟu uḷḷē urukkum
 karuvil karantuuḷḷam kāṇaval lārkkuiṅku
 aruviṉai kaṇcōrum aḻivār akattē`,
     english: `2665: Love Lord and Sever Pasas
-Our Holy Nandi`,
+Our Holy Nandi
+Once He loves, separation Knows not;
+Think of His Form
+And within you He melts;
+Enter into His Essence
+And see Him in your heart;
+For those who can do this,
+The seminal Karmas slumbering die;
+The Ego-Consciousness forever perishes.`,
     elaborationEnglish: ``,
   },
   {
@@ -1278,9 +1280,7 @@ They chant not "Siva Siva,"
 Verily are they of evil Karma;
 Chant "Siva Siva"
 Your evil karmas per a Deva become;
-Yours shall be the Siva-State too.
-Are in Siva Jnana Pure;
-Theirs shall be the Grace Divine.`,
+Yours shall be the Siva-State too.`,
   },
   {
     id: 2718, tantraId: 9, verseNumber: 2717,
@@ -1436,7 +1436,7 @@ And having witnessed it,
 Dance transcending knowledge all;
 You, then, become the arena
 For Lord's Ananda Dance to perform.`,
-    elaborationEnglish: `3) Sivanandakuthu is the dance of Siva united with Sakti. He dances in boundless space, beyond the frontiers of jnana. When this dance occurs, the Vedas and Agamas, all, all dance with Him. Out of this dance emerges His five-fold Acts of Creation, Preservation, Dissolution, Obfuscation — and Revealing.`,
+    elaborationEnglish: `1) Sivanandakuthu is the dance of Siva united with Sakti. He dances in boundless space, beyond the frontiers of jnana. When this dance occurs, the Vedas and Agamas, all, all dance with Him. Out of this dance emerges His five-fold Acts of Creation, Preservation, Dissolution, Obfuscation — and Revealing.`,
   },
   {
     id: 2726, tantraId: 9, verseNumber: 2725,
@@ -1786,7 +1786,12 @@ The Lord's dance in golden Hall (of the astral sphere).`,
 iṭamkāṇ parāṉanattat tēeṉṉai iṭṭu
 naṭantāṉ ceyumnanti naṉñāṉak kūttaṉ
 paṭamtāṉceytu uḷḷuḷ paṭintirun tāṉē`,
-    english: `Thus He dances, Our Nandi,
+    english: `2741: Effect of Witnessing Siva Dance in Golden Hall
+Uncontrolled was I;
+He controlled me;
+He blessed me with His Holy Feet;
+He immersed me in Transcendental Bliss immense
+Thus He dances, Our Nandi,
 The goodly dancer of Jnana Dance;
 Unto a picture He made me sit still
 And in me abided.`,
@@ -2012,7 +2017,11 @@ There verily is the limit of Mauna Jnana Bliss.`,
 cātaka mākum camayaṅkaḷ nūṟṟeṭṭu
 nātamoṭu antam naṭāṉantam nāṟpatam
 pātiyōṭu āṭiṭum paraṉiru pātamē`,
-    english: `-That the path to God show;
+    english: `2753: Dance Ensemble
+The universes seven;
+The worlds thrice seven;
+The religions a hundred and eight
+That the path to God show;
 The heavenly states of Bliss four,
 -Nada, Nadanta, Natana, Natananta-
 The Sakti that is His Half;
@@ -4316,7 +4325,9 @@ Another alien field with them lay mingled;
 Those that plough the field of heart
 For them the field fed with water,
 Lay ripe in harvest rich.`,
-    elaborationEnglish: `1) Sushupti state`,
+    elaborationEnglish: `1) Sushupti state
+
+2) Walking and dream states; 3) Turiya; 4) Ambrosia`,
   },
   {
     id: 2873, tantraId: 9, verseNumber: 2872,
@@ -5502,7 +5513,7 @@ Lute and Flute, their melody intermingling,
 Siva marched ahead in Cranium within;
 Even before the Bargain was struck,
 The Land was up there for Him to possess.`,
-    elaborationEnglish: `Jiva marched ahead within the cranium with the music of vina and flute that comes of yoga in the nada sphere. Even before the bargain talks began (between jiva and Siva), the land (liberation) was up there for jiva to possess. anewhug Orwisgy`,
+    elaborationEnglish: `Jiva marched ahead within the cranium with the music of vina and flute that comes of yoga in the nada sphere. Even before the bargain talks began (between jiva and Siva), the land (liberation) was up there for jiva to possess.`,
   },
   {
     id: 2931, tantraId: 9, verseNumber: 2930,

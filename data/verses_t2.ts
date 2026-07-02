@@ -46,7 +46,7 @@ And the radiant light, pervasive-all.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-338-Second-Tantra-1.-Sage-Agasthya.mp3',
     elaborationEnglish: `Of yore Siva and Parvati were getting married at Mount Kailas located in the Himalayan mountains. All the world’s inhabitants gathered there to witness the holy wedding. The south of India was depleted in weight by the exodus. The earth-orb swerved from its epicentre. Siva sent Rishi Agastya to the south to redress the imbalance. Such is the might of the tapas of rishis, that the spiritual weight of one soul devoted to Siva.equalled the physical weight of a whole population of ordinary millions. The earth regained its balance. Siva will not let imbalance or injustice occur anywhere.
 
-Implied in this legend is the view that’ Saivism, tapas, and other cults were brought from the north (the Himalayas) by members of the Agastya cult who provided for themselves a base in the hills of the Pandya Nadu in the south. This was, apparently, for.a long time the centre of gathering for Siddhas, Yogis, tantrics, etc. The sanskrit term ‘‘Bodhi’’ meaning knowledge would in Tamil become ‘‘poti’’, due to absence of aspiration and of softening of consonants in the latter alphabetical system.`,
+Implied in this legend is the view that’ Saivism, tapas, and other cults were brought from the north (the Himalayas) by members of the Agastya cult who provided for themselves a base in the hills of the Pandya Nadu in the south. This was, apparently, for.a long time the centre of gathering for Siddhas, Yogis, tantrics, etc. The sanskrit term ‘‘Bodhi’’ meaning knowledge would in Tamil become ‘‘poti’’, due to absence of aspiration and of softening of consonants in the latter alphabetical system. system.`,
     elaborationTamil: `உடலில் இருக்கும் ஒலியானது உடம்பில் தோன்றும் அக்னியை வளர்த்து அந்த அக்னியை குண்டலினி மூலம் மேல்நோக்கி தலைக்கு கொண்டு சென்று வலது புறமாக நகன்று இடப்பக்கம் தலை முழுவதும் பரவச்செய்தால் உடலோடு இருக்கும் உயிரிடம் அருள் தன்மை வளம் நிறைந்து ஒளியுடன் இருக்கும்.`,
   },
   {
@@ -1154,7 +1154,7 @@ All-pervasive in love;
 He is Vishnu; He is Brahma,
 He is Veda, the Cosmos, the Abiding One.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-391-Second-Tantra-9.-Creation-of-Everything.mp3',
-    elaborationEnglish: `He is the First Cause: He is Vishnu; He is Brahma; He is Veda; He is the cosmos. All, all, are diverse manifestations of the Ever-abiding Compassionate One.`,
+    elaborationEnglish: ``,
     elaborationTamil: `அண்ட சராசரங்கள் அனைத்தும் உருவாகக் காரணமானவனாகிய சதாசிவமூர்த்தி அனைத்திலும் அன்பாகக் கலந்து இருக்கின்றான். அண்ட சராசரங்கள் அனைத்திலும் உடலாக இருக்கும் பொருட்கள் அனைத்தையும் தாங்கிக் காப்பாற்றி நிற்கும் திருமாலாகவும் அவனே இருக்கின்றான். அந்த அண்ட சராசரங்கள் அனைத்திலும் உயிர்களை அன்போடு வேதங்கள் ஓதி உருவாக்கும் நான்கு முகங்களைக் கொண்ட பிரம்மனாகவும் அவனே இருக்கின்றேன். அண்ட சராசரங்கள் அனைத்துமாகவும், அதிலிருக்கும் பொருட்களாகவும் அதில் வாழும் உயிர்களாகவும் இருந்து அன்பினால் கட்டி வைத்திருப்பவன் சதாசிவமூர்த்தியாகிய இறைவனே.`,
   },
   {
@@ -1729,6 +1729,8 @@ The great One Shall Grant you the body immortal.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-420-Second-Tantra-10.-Remembering-the-Dead.mp3',
     elaborationEnglish: `Mantras 411 - 420
 
+Mantras 411 - 420
+
 The creation that ensued thus has to be continuously sustained. Although Vishnu is entrusted with this task, He is onJy an aspect of Siva/Sakti; and so ultimately it is Siva who performs the task of preservation. And so He pervades all: as body and life, as light and darkness, as fame and ignominy, as oceans and continents, as space and the celesuajs, as sea, hill and dale—through the entirety of creation in unbroken continuity. He pervades our thoughts too. There He stands as love, wisdom and meekness as pleasure and pleasurable union, as the beginning and end of time. He sustains the yogic path that leads to the state of existence.
 
 To sustain the lives in countless universes is indeed a miracle that staggers the imaginatidn. But even after the destruction of the cosmos at the end of an aeon, He draws the jivas to Himself, and sustains them in quiescent slumber’ until the next of creation commences.
@@ -1938,6 +1940,8 @@ He gave us Wisdom ample to discriminate.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-429-Second-Tantra-11.-Destruction.mp3',
     elaborationEnglish: `Mantras 429 & 430
 
+Mantras 429 & 430
+
 The jiva sprang as a plant out of the void, and into the void, it shall finally retum. Even the gods are not exempt from this law. Death follows birth, as the night follows day: The only escape from death is not to be born again. By uprooting karma alone, can the birth-death be ended. God dissolves the karma; pray to Him.
 
 Rudra is the god to whom the work of destruction is entrusted, but the real power behind Rudra is that of Siva.`,
@@ -1980,7 +1984,7 @@ With flesh and skin He clothed it;
 Lighting then the spark of life
 To annihilation He hastened me.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-432-Second-Tantra-12.-Illusion-of-the-Soul.mp3',
-    elaborationEnglish: `Siva gave us life so sweet; yet, He imprisoned us in the miseries of Pasam. He builds for us a body with meticulous care; yet He hastens it to death. Why is this so?`,
+    elaborationEnglish: `Siva gave us life so sweet; yet, He imprisoned us in the Siva gave us life so sweet; yet, He imprisoned us in the miseries of Pasam. He builds for us a body with meticulous care; yet He hastens it to death. Why is this so?`,
     elaborationTamil: `இறைவனோடு இருந்த ஆன்மாக்கள் ஆசைப்பட்டுவிடும் போது அந்த ஆசைகளைத் தீர்த்துக்கொள்ள வேண்டி உலகத்தில் பிறவி எடுக்கும்படி உயிர்களாகப் படைக்கின்றான் இறைவன். அந்த உயிர்கள் ஆசைகளைத் தீர்த்துக் கொள்ளும் போது சில வினைகளும் சேர்த்து விடுகிறது. இந்த வினைகளை அனுபவிக்க வேண்டி உலகப்பற்று குடும்பம் பாசம் என்னும் துயரத்துக்குள் உயிர்களை மாயையால் பூட்டி அடைத்துவிடுகின்றான். எலும்பை முழுவதும் தோல் தசைகளால் மூடி அந்த எலும்போடு ஒன்றாகச் சேர்ந்து செயல்படும் இந்த உலக உடம்பானது உயிர்களின் பிறவிக்கு காரணமாகிய வினைகள் முடியும் வரை ஒன்றாகச் சேர்ந்து இருக்கும். இந்தப் பிறவியின் வினைகள் முடிந்ததும் உயிரை முடிப்பதாக இருக்கின்றது. உட்கருத்து: ஆன்மாக்கள் ஆசையினால் இன்பம் பெறுவதற்காகப் பிறவி எடுப்பதால் அந்த இன்பத்தை அனுபவித்து தீர்க்கும்வரை பேரின்பத்தை மறைத்து அருளும் இறைவன் அந்த ஆன்மாக்கள் எடுத்த பிறவியில் இன்பத்தை அனுபவிப்பதினால் கிடைக்கும் வினைகளையும் அதன் விளைவுகளால் ஏற்படும் துன்பத்தையும் அந்தத் துன்பத்திற்குக் காரணமாக இருக்கும் உலகப் பற்றுக்களையும் சேர்த்து பிறவிக்குள் அடைத்துவிடுகின்றான். இதில் எலும்பும் தோலும் போர்த்திய உடலே சிறையாகவும் உலகப் பற்று எனும் மாயை பூட்டாகவும் வினைகள் சாவியாகவும் இருக்கின்றது. எப்போது உயிர்கள் தமது வினைகளை அனுபவித்துக் கழித்து முடிக்கின்றதோ அப்போது இந்தப் பூட்டு திறந்து உலகத்தில் அதுவரை ஆன்மா அனைத்தையும் அனுபவிக்க உதவிய உடலையும் உயிரையும் அழித்து ஆன்மா விடுதலை பெறுகின்றது.`,
   },
   {
@@ -2167,9 +2171,7 @@ The body that holds life precious.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-441-Second-Tantra-13.-Kindness.mp3',
     elaborationEnglish: `Having experienced pleasure and pain in life, the jivas who seek the Lord are bestowed grace. This bestowal of Grace that leads to the jiva’s redemption or liberation from the of birth and death is the Supreme Act of God. That is the act that gives the ‘coup de grace to all the previous four acts of His.
 
-The attainment of Grace can come through total surrender in loving prayer, through the yoga way or through the ‘realization that the All-Pervasive God is the object of all knowledge. And when it comes, the jiva is cleansed of its primordial triple impurities.
-
-This function is performed by Sadasiva.`,
+The attainment of Grace can come through total surrender in loving prayer, through the yoga way or through the ‘realization that the All-Pervasive God is the object of all knowledge. And when it comes, the jiva is cleansed of its primordial triple impurities. This function is performed by Sadasiva.`,
     elaborationTamil: `எட்டுத் திசைகளிலும் வீசுகின்ற காற்றும் வட்ட வடிவ உலகைச் சூழ்ந்து இருக்கும் அலை கடல் நீரும் உலகம் தனக்குள்ளிருந்தும் தன்னைச் சுற்றியிருக்கும் வளி மண்டலங்களிலிருந்தும் பெறும் நெருப்பும் உள்ளிருக்கும் நெருப்பை மூடி விரிந்து பரவி இருக்கும் இந்த மாபெரும் நிலமும் உலகத்தைச் சுற்றியிருக்கும் வளிமண்டலத்தைத் தாண்டி இருக்கும் ஆகாயமும் ஆகிய பஞ்ச பூதங்களையும் உள்ளடக்கி ஆன்மாவோடு உயிரைச் சேர்த்து அதை நிலைபெற வைக்கும் மூச்சுக்காற்றை அடைத்து வைத்த தோலால் ஆன பையைப் போன்ற உடலை அவரவர் வினைகளுக்கு ஏற்ப இறக்கும் காலம் வரும் வரை பாதுகாப்பாக கட்டி வைத்தும் காலம் வரும்போது அவிழ்த்துப் போட்டும் விளையாடுவது நெற்றிக் கண்ணை உடைய சிவபெருமானின் அருளே. உட்கருத்து: வினைகள் முடியும் வரை உயிர்களை உலகத்தில் பஞ்ச பூதங்களை அடக்கிய உடலில் பிறக்க வைத்து அவற்றை காலம் வரும் வரை காப்பாற்றி வந்து முடியும் காலம் வந்தபின் அழித்து அடுத்த நிலைக்குச் செல்லும்படி செய்வது அனைத்தும் இறைவனின் திருவருளே ஆகும்.`,
   },
   {
@@ -2711,6 +2713,7 @@ Subtle senses five;
 And other Tattvas thirty;
 And thus fashioned a body;
 A steaming cauldron with openings nine.`,
+    elaborationEnglish: `And there; With balance-like precision planted, Subtle senses five; And other Tattvas thirty; And thus fashioned a body;,: A steaming cauldron with openings nine.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-467-Second-Tantra-14.-Act-of-Conception.mp3',
     elaborationTamil: `பெண்ணின் உடல் என்ற இயந்திரத்தினுள் ஆணின் உடல் என்ற இயந்திரத்தை இயக்கி பெண்ணின் கர்ப்பப்பை என்னும் இயந்திரத்தினுள் கருவை உருவாக வைத்த இறைவன் அந்த கருவை ஐந்து பூதங்களால் ஆட்டி வைத்து ஆன்மாவையும் முப்பது தத்துவங்களையும் சேர்த்து உடல் என்ற இயந்திரத்தைக் கொடுத்து குழந்தையாக்கி அதைப் பித்த நீரினுள் பத்து மாதங்கள் மூழ்கி இருக்கச் செய்து மூச்சுக்காற்றினால் உணவைச் சுட்டு எரிக்கும் வயிறாகிய இயந்திரத்துடன் ஒன்பது துவாரங்களைக் கொண்ட உடம்பில் ஆன்மாவையும் உயிரையும் ஒன்றாகச் சேர்த்து வைத்து அருளுகின்றான் இறைவன். ஒன்பது துவாரங்கள்: கண்கள் 2, காதுகள் 2, மூக்குத்துவாரம் 2, வாய், பிறவிக்குறி, ஆசனவாய். முப்பத்தாறு தத்துவங்கள்: 5 சிவ தத்துவங்கள்: நாதம் – தூய அறிவாலான பரம்பொருளின் முழுமையான நிலை, விந்து – இயங்கிக் கொண்டிருக்கும் கிரியா சக்தி, சாதாக்கியம் – சதாசிவன், ஈசுரம் – மறைத்தல் சக்தியான மகேசுரன், சுத்த வித்தை – படைத்தல், காத்தல், அழித்தல் எனும் முத்தொழிலுக்கு அடிப்படையான இறைதத்துவம். 7 வித்தியா தத்துவங்கள்: காலம், நியதி, கலை, வித்தை, இராகம், மாயம், புருடன் (ஆன்மா) 24 ஆன்ம தத்துவங்கள்: 5 பூதங்கள் – நிலம் (உடல்), நீர் (இரத்தம் மற்று பித்த நீர்கள்), நெருப்பு (உணவைச் செரிக்கும் நெருப்பு மற்றும் உடல் சூடு), காற்று (மூச்சுக் காற்று மற்றும் பத்துவிதமான வாயுக்கள்), ஆகாயம் (உயிர் மற்றும் ஆன்மா). 5 புலன்கள் – கண்களால் பார்த்தல், காதுகளால் கேட்டல், வாயால் சுவைத்தல், மூக்கால் நுகருதல், தோலால் தொடுதல். 5 ஞானேந்திரியங்கள் – ஓசை (கேட்பது), ஊறு (தொடுவது), ஒளி (பார்ப்பது), சுவை (உண்பது), நாற்றம் (முகர்வது). 5 கன்மேந்திரியங்கள்: வாய் (பேச்சு), கைகள் (செயல்), கால்கள் (போக்குவரவு), எருவாய் (கழிவு நீக்கம்), கருவாய் (இன்பமும் பிறப்பும்). 4 அந்தக்கரணங்கள் – மனம் (எண்ணங்கள்), புத்தி (அறிவு), சித்தம் (சிந்தனை), அகங்காரம் (நான் என்ற எண்ணம்).`,
   },
@@ -3741,7 +3744,7 @@ And disease fell chased culprit to sure death;
 Thus did He declare,
 Nandi, the Divine Protector.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-515-Second-Tantra-19.-Demeaning-the-Temple.mp3',
-    elaborationEnglish: `Temples are monuments that require to be preserved intact. Let not a linga that has been established be removed from its original site. Dire harm will fall on the culprit.`,
+    elaborationEnglish: `Temples are monuments that require to be preserved intact. Let not a linga that has been established be removed from its original site. Dire harm will fall on the culprit. Dire harm will fall on the culprit.`,
     elaborationTamil: `ஒரு திருக்கோயிலில் உள்ள சுயம்பு சிவலிங்கத்தைப் பெயர்த்தெடுத்துக் கொண்டு போய் வேறொரு திருக்கோயிலில் நிறுவினால் அச்செயல் அந்த வேறொரு திருக்கோயில் கட்டி முடிப்பதற்கு முன்பே அரசனது ஆட்சி நிலைகுலையும். அந்தச் செயலை செய்தவன் இறப்பதற்கு முன்பு தொழுநோய் வந்து துன்புற்று இறப்பான். இவ்வாறு எம் உயிர்க் காவலனாகிய நந்திபெருமான் உறுதிபட கூறினார்.`,
   },
   {
@@ -3818,6 +3821,7 @@ Deathly wars rage in fury
 Fell diseases spread;
 Famine stalks land--
 Thus did goodly Nandi in truth declare.`,
+    elaborationEnglish: ``,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-519-Second-Tantra-19.-Demeaning-the-Temple.mp3',
     elaborationTamil: `தான் ஒரு அந்தணன் என்று பெயரை மட்டும் கூறிக்கொண்டு சிவபெருமானிடம் அன்பும் சிவனைப் பற்றிய அறிவும் ஒழுக்கமும் இல்லாத அந்தணன் திருக்கோயிலில் சிவபெருமானுக்குப் பூஜைகள் செய்தால் அக்கோயில் உள்ள நாட்டில் உள்நாட்டுக் கலகங்களும் வெளிநாட்டுப் போர்களும் நடப்பதோடு அந்நாட்டில் கொடிய நோய்களும் விவசாய நிலங்களில் ஒன்றும் விளையாமல் பஞ்சமும் உண்டாகும் என்று எமது குருவாய் இருக்கும் இறைவன் எடுத்துரைத்தான்.`,
   },
@@ -4233,6 +4237,7 @@ It lay besieging nose and tongue--(in Kesari Mudra)
 In the troubled thought that knows but torture,
 The only thing that stands still
 Is devotional Patience Exceeding.`,
+    elaborationEnglish: ``,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-539-Second-Tantra-24.-Virtue-of-Patience.mp3',
     elaborationTamil: `உண்மை வழியைப் பற்றி அதிலிருந்து விலகாமல் நிற்கும் யோகியர்களின் நெஞ்சில் இறைவனோடு இரண்டறக் கலக்கவேண்டும் என்கின்ற எண்ணம் இருக்கின்றது. பல்லி எப்படி தான் பற்றியதை விடாதோ அதுபோல எண்ணமும் தான் எண்ணியதை விடாது. இந்திரியங்களை (மூக்கின் வழியாக பிராணாயாமமும், நாக்கின் வழியாக மந்திரமும்) அடக்கி சிந்தனையை பல எண்ணங்களில் வீணாக சிதறவிடாமல் பொறுமையாக இருப்பவர்களுக்கு வற்றாத அமுதம் சுரக்கும்.`,
   },
@@ -4257,6 +4262,7 @@ And low they bowed at His Feet,
 And prayed for His Grace,
 And the Lord blessed,
 "They shall on earth prosper high."`,
+    elaborationEnglish: ``,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-540-Second-Tantra-24.-Virtue-of-Patience.mp3',
     elaborationTamil: `சிவபெருமானின் திருச்சபையைச் சுற்றி இருக்கும் அழிவில்லாத தேவர்கள் அவரின் பால் போன்ற வெண்ணிற உடலின் பாதத்தைப் பணிந்து தாங்கள் முக்தி பெற வேண்டி பொறுமையுடன் காத்திருப்பார்கள். அவ்வாறு பொறுமையுடன் இருக்கும் தேவர்களை திருமாலுக்கும் ஆதிபிரம்மனுக்கும் மன்னராக இருக்கின்ற சதாசிவமூர்த்தி உலகத்தில் மிகவும் நல்லவர்கள் என்று அருளினார்.`,
   },
@@ -4316,6 +4322,7 @@ I live with those who sing His praise,
 The Lord blesses those who seek Him,
 With them I consort,
 Their feet I seek.`,
+    elaborationEnglish: ``,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-543-Second-Tantra-25.-Seeking-the-Sages.mp3',
     elaborationTamil: `திருத்தலங்களில் யாத்திரை செய்பவர்களுடன் யானும் நடப்போம். இறைவனை பக்தியுடன் பாடக்கூடியவர்களின் பாடலைக் கேட்டு யானும் இன்புற்று இருப்போம். இறைவனைத் தனக்குள்ளே தேடி அடையக்கூடியவர்களுக்கு அருளுகின்ற மகாதேவனுடன் இணையக் கூடிய ஆற்றலுள்ள பெரியோர்களின் திருவடியோடு யானும் இணைந்து இருப்போம். உட்கருத்து: இறைவனை அடையக்கூடிய வழிகளில் செல்பவர்களுக்கு இறைவனே பெரியவராக உடன் இருந்து இறைவனை அடைய வழிகாட்டுவார்.`,
   },
@@ -4380,6 +4387,7 @@ He blesses those,
 Who seek Him in silentness of their hearts;
 Reach the King Almighty,
 You shall attain the Regal Goal.`,
+    elaborationEnglish: `Reach the King Almighty, You shall attain the Regal Goal.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-546-Second-Tantra-25.-Seeking-the-Sages.mp3',
     elaborationTamil: `இறைவனின் அடியவர்கள் உலகத்தில் இருக்கும் மன்னர்களை பொய்யாக புகழாமல் கயிறு போல திரித்து விரிந்த சடையைக் கொண்டு வீற்றிருக்கும் எம் தந்தையான இறைவனை உண்மையான பக்தியோடு புகழ்ந்து அவரின் பொன்னான திருவடிகளை சேருவார்கள். இறைவனை வெறும் வார்த்தைகளால் போற்றி வணங்காமல் உண்மையான பக்தியோடு உள்ளம் உருக வேண்டினால் அந்த இறைவனின் அடியவர்களின் துணையைப்பெற்று அவர்களின் வழிசென்று இறைவனை அடையலாம்.`,
   },
@@ -4425,7 +4433,7 @@ Devout Dear realizing self will immortal, remain;
 With them who are Rich in Grace
 I joined to consort.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-548-Second-Tantra-25.-Seeking-the-Sages.mp3',
-    elaborationEnglish: `Only the true devotees will master the karmic eddies; only they will realise the Self and achieve the deathless state. Only they will enter and be in God. gancy. are rich in grace. Consort with them.`,
+    elaborationEnglish: `Only the true devotees will master the karmic eddies; only they will realise the Self and achieve the deathless state. Only they will enter and be in God. gancy. are rich in grace. Consort with them. Consort with them.`,
     elaborationTamil: `கலை ஞானத்தில் சிறந்து இறைவனை அடையக்கூடிய அருமையை உணர்ந்தவர்கள் ஒரு நொடிப் பொழுதும் இறைவனை மறக்காமல் இருப்பதின் பயனால் பிறவியாகிய பெருங்கடலை நீந்திக் கரைசேரும் பெருமையை உடையவர்கள், இறைவனைத் தனக்குள்ளே உணர்ந்து அதிலேயே ஆழ்ந்து அவனது திருவருளைப் பெற்றவர்கள் ஆகியவர்களோடு யாமும் சேர்ந்து இருக்கின்றோம். உள்கருத்து: 64 கலைகள் உள்ளது. அதில் ஏதேனும் ஒன்றோ பலவோ கற்று அதில் ஞானம் அடைந்தவர்கள். பக்தி மார்கத்தின் மூலமாக இறைவனை ஒரு நொடிப்பொழுதும் மறக்காமல் இருப்பவர்கள். யோக மார்கத்தின் மூலமாக இறைவனை தனக்குள் உணர்ந்தவர்களுடன் யாம் துணையாக இருக்கன்றோம் என்று அருளுகின்றார்.`,
   },
 ];

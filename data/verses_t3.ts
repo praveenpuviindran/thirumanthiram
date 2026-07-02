@@ -41,6 +41,7 @@ The secret of Kavacha, Nyasa and Mudra
 The paths to reach the Samadhi State;
 To course Kundalini Sakti upward,
 And to reach Parasakti at Cranium high.`,
+    elaborationEnglish: `Kk teaches about kavacha, nyasa, mudra aiid the coursing of ne kundalini energy ‘roi the muladhara to sahasrara in the _ cranium peak through the six adharas within the body. “It is mot enough that there be devotion and an attitude of < nder to the Deity within oneself, in the heart and the d. It is a significant part of worship to express it bodily for the body too is a participant in the sadhana. For thi there are a number of gestures by movements a F the limbs of the body, *mudras’ as they are termed. These`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-550-Third-Tantra-1.-Eight-Parts-of-Yoga.mp3',
     elaborationTamil: `உயிர்கள் தீயவற்றை போக்கி நன்மை தரக்கூடியவற்றே செய்து இறை நினைப்பில் தன்னையே மறந்து சமாதி நிலையை அடைந்து ஆதியிலிருந்தே பரம்பொருளாக இருக்கும் இறைவனை அடைவதற்கு துணையாக கவசம், நியாசம், முத்திரை ஆகிய மூன்று யோகங்கள் முன்னும் பின்னும் பாதுகாப்பாக உடன் வரும். இந்த உயர்ந்த நிலையை உயிர்கள் அடைய வேண்டும் என்பதற்காக இந்த யோக வழிகளைப் பற்றி யாம் கூறுவோம். கவசம் – சமாதி நிலையில் உயிர்களுக்குப் பாதுகாப்பாக உடலை மூடியிருக்கும் கோசங்களை மந்திர ஜபம் செய்து அடக்கியாள்வது. நியாசம் – தமது உடல் உறுப்புகளையே இறைவனது உறுப்புகளாக பாவனை செய்வது. முத்திரை – கை விரல்கள் மூலம் முத்திரைகளை (யோக நிலை எண்ணங்களை கை விரல்கள் மூலம் அபிநயம் செய்து காட்டுதல்) செய்யும் யோக நிலை.`,
   },
@@ -62,9 +63,7 @@ They who tread that blessed path
 Shall reach Jnana's peak;
 No more are they in this vile flesh born.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-551-Third-Tantra-1.-Eight-Parts-of-Yoga.mp3',
-    elaborationEnglish: `Yoga is the sure path to jnana or enlightenment. The enlightened are born no more. Att karmas are forever ended.
-
-Mular identifies samadhi with jnana’ This is similar to Buddhism, where the ultimate which is to be realised in Samadhi is prajna, at which duality disappears and jnana, the essence of the individual merges in the essences of the Universal.`,
+    elaborationEnglish: `Yoga is the sure path to jnana or enlightenment. The enlightened are born no more. Att karmas are forever ended. Mular identifies samadhi with jnana’ This is similar to Buddhism, where the ultimate which is to be realised in Samadhi is prajna, at which duality disappears and jnana, the essence of the individual merges in the essences of the Universal.`,
     elaborationTamil: `இறைவனை அடைய நாம் செல்லும் வழி நன்றானதா இல்லை வேறு வழி நன்றானதா என்று சந்தேகப் படாமல் எந்த வழிக்கும் தேவைப்படுகின்ற அட்டாங்க யோகங்களின் வழியிலே சென்று சமாதி நிலையில் (இறைவனை நினைத்து தன்னை மறந்திருக்கும் நிலை) இருங்கள். இத்தகைய நல்ல வழியில் செல்பவர்களுக்கு ஞான யோகம் கைகூடிச் சிவப்பேறு அடைவது மட்டுமில்லாமல் அந்த ஞானத்தின் பயனாக இனிப் பிறவி என்பது இல்லை.`,
   },
   {
@@ -123,9 +122,7 @@ He shares his joys, he knows no blemish
 Neither drinks nor lusts
 --This the man who in Niyama's ways stands.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-554-Third-Tantra-2.-Yoga-of-Self-Control.mp3',
-    elaborationEnglish: `The way of iyama consists in number of ‘do’s and dont’s’—non-killing, not not drinking, not lusting, possessing marked virtues, being good, being just, sharing the good things of life with others, and knowing no blemish. Iyama is the background, the ethical preparation for the onward march on the yoga path.
-
-1) Nachinarkiniyar, the - celebrated commentator of Tholkappiyam, the great classic Tamil grammar, describes the elements of iyamam as five in the foliowing sutra:`,
+    elaborationEnglish: `The way of iyama consists in number of ‘do’s and dont’s’—non-killing, not not drinking, not lusting, possessing marked virtues, being good, being just, sharing the good things of life with others, and knowing no blemish. Iyama is the background, the ethical preparation for the onward march on the yoga path. 1) Nachinarkiniyar, the - celebrated commentator of Tholkappiyam, the great classic Tamil grammar, describes the elements of iyamam as five in the foliowing sutra:`,
     elaborationTamil: `எவருக்கும் மனதளவிலும் தீங்கு நினைக்காதவன், பொய் கூறாதவன், களவு (திருடு) செய்யாதவன், எட்டு குணங்களை கொண்டவன் (1. அன்பு, 2. அமைதி, 3. பொறாமையின்மை, 4. சுத்தமாக இருத்தல், 5. மனதினால் சிரமப்படாமல் எதையும் சுலபமாக எடுத்துக் கொள்ளுதல், 6. ஆனந்தத்தைக் கொடுப்பது, 7. தர்ம சிந்தனை, 8. ஆசையின்மை), நன்மை மட்டுமே நினைப்பவன், பணிவுடையவன், நீதி தவறாமல் இருக்கக் கூடியவன், பகிர்ந்து கொடுத்து உண்பவன், குற்றம் இல்லாதவன், கள், காமம் இல்லாத தன்மையுடையவன், ஆகிய இவர்கள் இயம ஒழுக்கத்தின்படி இருப்பவர்கள் ஆவார்கள்.`,
   },
   {
@@ -168,6 +165,7 @@ Forthrightness, truth and steadfastness
 Killing, stealing and lusting, He abhors
 --Thus stands with virtues ten
 The one who Niyama's ways observes.`,
+    elaborationEnglish: `Niyama is the next step. It consists of the initial practice of`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-556-Third-Tantra-3.-Yoga-of-Penance.mp3',
     elaborationTamil: `தூய்மையாக இருத்தல் 2. இறையருளோடு இருத்தல் 3. அளவான உணவு 4. பொறுமையோடு இருத்தல் 5. நேர்மையுடன் இருத்தல் 6. பொய் பேசாது சத்தியத்தைக் கடைபிடித்தல் 7. சத்தியத்திற்காக வைராக்கியத்தை வளர்த்தல், 8. காமத்தை எண்ணாதிருத்தல் 9. களவு (திருடு) எண்ணாமலிருத்தல் 10. கொலை எண்ணாமலிருத்தல் ஆகிய பத்து குணங்களையும் கொண்டவரே நியமத்தின் வழியின்படி இருப்பவர்.`,
   },
@@ -186,6 +184,7 @@ Tapas, meditation, serenity, and holiness
 Charity, vows in Saiva Way and Siddhanta learning
 Sacrifice, Siva puja and thoughts pure
 --With these ten, the one in Niyama perfects his Ways.`,
+    elaborationEnglish: `Further on, niyama consists of ten more practices: 1)tapas;`,
     elaborationTamil: `தவம் செய்தல், 2. ஜெபித்தல், 3. பேரின்பம் அடைதல், 4. தெய்வ நம்பிக்கையோடிருத்தல், 5. தானம் செய்தல், 6. சிவ விரதம் கடைபிடித்தல், 7. ஞானத்தைப் பற்றிய உண்மையைக் கேட்டறிதல், 8. யாகம் செய்தல், 9. சிவ பூஜை செய்தல், 10. எண்ணத்தையும் இறைவனையும் இரண்டறக் கலத்தல் ஆகிய பத்தையும் உணர்ந்து பிறருக்குக் அறியக் கூறவும் செய்பவனே நியமத்தின் வழி நடப்பவனாவான்.`,
   },
   {
@@ -232,6 +231,7 @@ Sit cross-legged with soles of feet upturned
 Close draw the feet on thighs opposite,
 Stretch then the hands afore on feet
 That Padmasana is, famed far on earth.`,
+    elaborationEnglish: `Padmasana is the ‘lotus’ posture. The practitioner sits cross-legged, the soles’ of the feet tumed upward; the feet are drawn up onto the opposite thighs. The hands are stretched`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-559-Third-Tantra-4.-Yoga-of-Poses.mp3',
     elaborationTamil: `ஒரு பக்க காலை எடுத்து மறு பக்க காலின் மேல் அணைத்து வைத்து அது போலவே இன்னொரு பக்க காலையும் செய்து அமர்ந்து அழகாக கைகள் இரண்டையும் மேல் நோக்கி மலர்த்தி இரு தொடைகளின் மேல் வைத்து அமர்ந்திருப்பதே உலகம் புகழும் பத்மாசனம் ஆகும். பாடலில் உள்ளவாறு பத்மாசனம் செய்யும் முறை: முதுகை நேராக வைத்துத் தரையில் இரண்டு கால்களையும் நீட்டி அமர்ந்து கொள்ளவும். இடது காலை மடக்கி இடது பாதத்தை வலது தொடையின் மேல் வைக்கவும். வலது காலை மடக்கி வலது பாதத்தை இடது தொடையின் மேல் வைக்கவும். இரண்டு கைகளையும் நேராக நீட்டி இரண்டு கால்களின் மடங்கிய முட்டியின் மேல் வைக்கவும். உள்ளங்கைகள் இரண்டையும் மேல் நோக்கித் திருப்பி ஆட்காட்டி விரலை மடக்கி கட்டை விரலால் பிடித்துக்கொள்ளவும்.`,
   },
@@ -380,6 +380,7 @@ Faster than bird that steed flies,
 Far headier than wine the pleasure it gives;
 It infuses vigour, dispells laziness
 True we say this, let the wise listen.`,
+    elaborationEnglish: `The steed of prana breath moves faster than a bird. The pleasure it gives is headier than wine. It dispels laziness and`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-566-Third-Tantra-5.-Yoga-of-Breath-Control.mp3',
     elaborationTamil: `பறவையை விட வேகமாகச் செல்லக்கூடிய சுவாசத்தை பிராணாயாம் செய்து தலையிலுள்ள சகஸ்ரதளத்தை நோக்கி எடுத்துச் சென்றால் கள் (போதைப்பொருள்) அருந்தாமலேயை மனம் மகிழ்ச்சி (தன்னை மறந்த நிலை) அடையும். உடல் சுறுசுறுப்புடன் இருக்கும். உடல் சோர்வு நீங்கும். இறைவனை உணர வேண்டும் என்ற எண்ணம் உள்ளவர்களுக்கே இந்த உண்மையை கூறுகிறோம்.`,
   },
@@ -620,7 +621,7 @@ When mahout learns to control elephant
 The elephant knows not night and day;
 (In eternity it exists.)`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-577-Third-Tantra-5.-Yoga-of-Breath-Control.mp3',
-    elaborationEnglish: ``,
+    elaborationEnglish: `The 12 matra breath is an elephant that is awake night and day. Jiva is the mahout. The mahout should learn how to control the elephant.`,
     elaborationTamil: `நமது உடலின் மூக்குத்துவாரத்திலிருந்து அடிவயிறு வரை பன்னிரண்டு அங்குல அளவிற்குச் சென்று வரும் மூச்சுக்காற்று உள்ளே வருவதும் வெளியே செல்லுவதுமாகிய இரண்டு செயல்களை மட்டுமே செய்து வருகின்றது. இச்செயல்களை ஆன்மா அறியவில்லை. மூக்கிலிருந்து வயிற்றை நோக்கிக் கீழ்ச் செல்லும் மூச்சுக்காற்றை மூக்கிலிருந்து தலை உச்சி நோக்கி மேலே செல்ல பிராணாயாமத்தின் மூலம் முயற்சித்தால் நமது உடலுக்கு இறப்பும் பிறப்பும் இல்லை.`,
   },
   {
@@ -1694,6 +1695,7 @@ Aloft that Center,
 Opposite the forehead
 Hangs the Crescent Moon,
 Of myriad shape and peerless beauty.`,
+    elaborationEnglish: `The yogi visions the mystic moon in the sahasrara cenire,`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-627-Third-Tantra-9.-Yoga-of-Liberation.mp3',
     elaborationTamil: `மூலாதாரத்திற்கு மேலுள்ள சுவாதிஷ்டானத்தில் கும்பக முறைப்படி அடக்கி வைத்த மூச்சுக்காற்றை அதற்கு மேலுள்ள மணிப்பூரகத்தில் கலந்து பின்பு சுழுமுனை வழியே மேலே ஏற்றிச் சென்று புருவ மத்தியிலிருக்கும் ஆக்ஞா சக்கரத்துடன் சேர்த்தால் அங்கே நெற்றிக்கு நேரில் அண்டவெளி அழகிய வடிவங்களாக காட்சியளிக்கும். அந்தக் காட்சியுடன் மனதை ஒன்றி இருப்பது சமாதி நிலை ஆகும்.`,
   },
@@ -1737,6 +1739,7 @@ In equanimity perfect,
 Like unto a balance
 Will be the mind
 All this, for those who in Samadhi sleep.`,
+    elaborationEnglish: ``,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-629-Third-Tantra-9.-Yoga-of-Liberation.mp3',
     elaborationTamil: `மனதை ஒருமுகப்படுத்தி இறை நினைப்பிலேயே ஒன்றி சமாதி நிலையில் இருக்கக் கூடியவர்களுக்கு தான் யார் என்பதை உணர்ந்து தனக்குள் இருக்கும் சிவமும் உலகங்களை இயக்கிக்கொண்டிருக்கும் சக்தியும் ஒன்றாக சேர்ந்து இருக்கும். மாயை நீங்கி அருள்சக்திக்கு எதிரான காமம், கோபம், அகங்காரம் அகன்றுவிடும்.`,
   },
@@ -1799,6 +1802,7 @@ That I grant"
 Thus blesses the Lord
 That mounts the Bull
 And dances to His Lady's delight.`,
+    elaborationEnglish: `The fruit of yama is teaching the abode of the Gods — Devaioka.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-632-Third-Tantra-10.-Benefits-of-Eight-Part-Yoga.mp3',
     elaborationTamil: `காளையை வாகனமாகக் கொண்டவனும் உமையவள் காண ஆனந்த நடனம் புரிபவனும் அழகிய மலரின் நறுமனம் கமழும் படர்ந்த சடையுடையவனுமாகிய சிவபெருமானின் திருவடிகள் எப்படி இருக்கும் என்று காண விருப்பம் கொண்டு தேடுபவர்கள் அமரர்களின் தலைவனாகிய இறைவன் இருக்கும் இடத்திற்கே செல்வார்கள். அவ்வாறு வருபவர்களுக்கு என்ன வேண்டும் என்று அறிந்து அதை அருள்புரிவான் சிவபெருமான்.`,
   },
@@ -1947,6 +1951,7 @@ Himself the Causal Tattvas Becoming,
 Extinguishing the Causal sources themselves,
 Thus do tapasvins unite in the Being Uncaused
 That, in truth is Samadhi supreme.`,
+    elaborationEnglish: `In sarwadhi, the yogi, transcending the liraitaticns of the caused experiences, himself becomes the Causal Tativas, and`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-639-Third-Tantra-10.-Benefits-of-Eight-Part-Yoga.mp3',
     elaborationTamil: `இந்த உலகத்தில் துன்பம் தரக்கூடிய காரணங்களாகிய தனு, கரணம், புவனம், போகம் ஆகிய பந்தங்களைக் கடந்து சென்று ஏழுவகையான சிவ தத்துவங்களையும் தன் அறிவாலேயே உணர்ந்து பெற்று ஜென்ம ஜென்மமாய்த் தொடர்ந்து வரும் மாயையைத் தவத்தால் வெற்றி பெற்று இறைவனின் திருவடியைச் சேருதல் சமாதியால் பெறும் பயனாகும். நான்கு வகை பந்தங்கள்: தனு – தன் உடலின் மேல் இருக்கும் பற்று கரணம் – ஆசைப்படும் மனது புவனம் – உலகப் பற்று போகம் – உலகப் பொருள்களை அனுபவித்தல் ஏழுவகை சிவ தத்துவங்கள்: இறைமை – இறைவனாக தன்னை உணர்தல் முற்றறிவு உடைமை – அனைத்தையும் அறிந்தவனாக இருத்தல் எங்கும் தானாதல் – எங்கும் வியாபித்து இருத்தல் இயல்பாகவே மாயையின்மை – மாயையே இல்லாது இருத்தல் வரம்பில்லாத ஆற்றல் – எல்லையில்லா சக்தியைக் கொண்டிருத்தல் தன்வயத்தன் ஆதல் – எதனாலும் கட்டுப்படாமல் தன் கட்டுப்பாட்டிலேயே இருத்தல் ஒன்றியுணர்தல் – அனைத்திலும் ஒன்றி இருப்பதாக உணர்தல் கருத்து: சமாதி நிலையை அடைந்தால் அனைத்துவித துன்பங்கள் மற்றும் மாயையிலிருந்து விடுதலை பெற்று சிவ தத்துவங்களை உணரலாம்.`,
   },
@@ -2008,6 +2013,7 @@ Seated fragrant and lovely;
 Practise Sambhavi and Kechari mudras
 You shall attain Siddhis Eight,
 That to mighty Siva's goal leads.`,
+    elaborationEnglish: `Khechari Mudra is the name of a Yogic posture in Tantra, which bestows spiritual attainment and enables one to overcome disease and death (N.N. Bhattacharya, "History of the Tantric Religion", p.400). The Sarabha Mudra is related to Sambheva diksha which is a form of higher initiation conducted by the mere touch, glance or will of the guru. It is connected with the secret cult of Kamesvari (N.N. Bhattacharya, ibid. p.467).`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-642-Third-Tantra-11.-Eight-Great-Attainments.mp3',
     elaborationTamil: `குருவின் அருளினால் அவர் காட்டிய வழியிலேயே மூலாதார அக்கினியை ஏழாவது சக்கரமான சகஸ்ரதளத்திற்கு கொண்டு சேர்ப்பதற்கு தனக்குள்ளேயே அலையும் எண்ணங்களையும் (கேசரி யோகம்) வெளியே அலையும் எண்ணங்களையும் (சாம்பவி யோகம்) கடினத்துடன் ஒன்றாகச் சேர்த்து ஒருமுகப்படுத்தி வைத்தால் சிவகதிப் பேறான எட்டுவித சித்திகளில் எட்டாவது சித்தியான வசித்துவம் (அனைத்தையும் வசியப்படுத்துதல்) கைவரப் பெறும். கருத்து: குரு அருளிய வழியில் மனதை ஒருமுகப்படுத்தி தியானித்தால் எட்டாவது சித்தியான அனைத்தையும் வசியப்படுத்தும் நிலையை அடையலாம்.`,
   },
@@ -2444,6 +2450,7 @@ Joined the Lady (Kundalini)
 One by one they climbed the floors
 They reached the victorious top
 And there into Perfection transformed.`,
+    elaborationEnglish: `i ‘The aga adharas where they arg seated are as : Vamai is seated in the muladhara; ntai_ in svadhishtana; ri and Kali in manipuraka; i i, Palavikarni, Palapramadani and rva bhuta damani—these four are seated in anahatha; anonmani is seated in visuddhi; cata chakra, Adi Sakti is seated. She is the perfection, timate bestower of Siva yoga. The other saktis confer`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-662-Third-Tantra-11.-Eight-Great-Attainments.mp3',
     elaborationTamil: `உடலிலுள்ள ஒன்பதுவித சக்திகளும் சகஸ்ரதளத் தாமரையின் தண்டாகிய சுழுமுனை வழியே குண்டலினி சக்தியோடு இணைந்து சென்று சகஸ்ரதளத்தை அடைந்து அங்கு இருக்கும் பராசக்தியோடு சேர்ந்து பூரண சக்தியாகி (முழுமையான சக்தியாகி) நிரந்தரமாக இருக்கும். ஒன்பது சக்திகள்: வாமை = ஊன்றல் ஜேஷ்டை = சுழித்தல் ரெளத்திரி = விசிரிம்பித்தல் காளி = மடித்து மேலேறல் கலவிகரணி = அங்கிருந்து கீழ்வரல் பலவிகரணை = மேல் புடை பெயர்த்தல் பலப்பிரமதனி = கீழ்த் தாழல் சர்வபூததமனி = கீழ் ஊன்றி நிற்றல் மனோன்மணி = வரி வடிவாதல் கருத்து: குண்டலினியை சகஸ்ரதளத்தோடு சேர்ப்பவர்களுக்கு உடலிலுள்ள ஒன்பது சக்திகளும் பராசக்தியோடு இணைந்து நிரந்தரமாக இருக்கும்.`,
   },
@@ -2465,9 +2472,7 @@ And as the Cause of Vishnu, Brahma
 And the rest of the Gods Five
 She expanded pervasive.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-663-Third-Tantra-11.-Eight-Great-Attainments.mp3',
-    elaborationEnglish: `Line 1—poorna sakti is Adi or Primal Sakti.
-
-Line 2—She evolves as ichcha, jnana and kriya and fills the seven adharas, including sahasrara.`,
+    elaborationEnglish: ``,
     elaborationTamil: `ஒன்பது சக்திளும் இணைந்த பராசக்தியானது (பாடல் #663 இல் உள்ளபடி) உடலில் படைத்தல், காத்தல், அழித்தல், மறைத்தல், அருளல் ஆகிய தொழில்களைச் செய்யும் ஐந்து மூர்த்திகளையும் உணர்கின்ற ஐந்து இடங்களுக்கும் இருபத்து ஒருவராக பிரிந்து மொத்தம் நூற்று ஐவராக கலந்து இருக்கின்றார்கள். கருத்து: உடலில் ஐந்தொழில்களையும் செய்கின்ற ஐந்து இடங்களிலும் சக்தியாக பூரணசக்தி கலந்து இருக்கின்றது.`,
   },
   {
@@ -3096,6 +3101,7 @@ Is through Sakti of the Tender Vine
 Prana pervades the five hundred then the ten.
 And then the three nadis
 And Sakti pervades Prana entire.`,
+    elaborationEnglish: `Prana pervades in five hundred-and-odd nadis; then the ten; then the three. When fhese eight siddhis are attained, Sakti pervades the prana and that prana mingles in jiva.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-694-Third-Tantra-11.-Eight-Great-Attainments.mp3',
     elaborationTamil: `மூச்சுக்காற்றோடு உயிர் கலக்கும் முறை என்னவென்றால் உடம்பில் மொத்தம் உள்ளதாக யோக நூல்கள் கூறும் எழுபதாயிரம் நாடிகளில் ஐநூறு நாடிகள் சிறப்பானவை. இவற்றில் பத்து நாடிகள் மிகவும் சிறப்பானவை (பாடல் #595 இல் உள்ளபடி). அதிலும் சிறப்பானவை இடைகலை, பிங்கலை, சுழுமுனை ஆகிய மூன்று நாடிகளாகும். இந்த ஐநூற்று பதிமூன்று நாடிகளும் சுழுமுனை நாடியிலிருக்கும் சிவசக்தியோடு கலந்து இருந்தால் மூச்சுக்காற்றோடு உயிர் கலந்து இருக்கும். கருத்து: சிறப்பான ஐநூற்றி பதிமூன்று நாடிகளும் சிவசக்தியோடு கலந்திருந்தால் மூச்சுக்காற்றோடு உயிர் கலந்து இருக்கும்.`,
   },
@@ -3136,6 +3142,7 @@ As breath in double ascends further
 There is the Sahasrara of thousand petalled lotus;
 And on it are the Letters Fifty and One
 That in time became the Letters Five.`,
+    elaborationEnglish: `The ajna chakra between the eyebrows is the twin-petalled centre. There Sadasiva Sakti is seated. When the twin breaths, idakala and pingala, ascend beyond the ajna chakra, the`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-696-Third-Tantra-11.-Eight-Great-Attainments.mp3',
     elaborationTamil: `: இடைகலை பிங்கலை நாடிகளின் மேல் சுழுமுனைத் தலையில் இருக்கும் சிவசத்தி இடைகலை பிங்கலை இரண்டு நாடிகள் வழியாக மூச்சுக்காற்று செயல் புரிகின்ற முறையைக் கூறினால் உடலில் உள்ள மண்டலங்களையும் நரம்புத் தொகுதிகளையும் தாண்டி ஆறு சக்கரங்களில் உள்ள ஐம்பத்தொன்று கைகள் வழியாக கலந்து ஆயிரம் தாமரை இதழ்களைக் கொண்ட சகஸ்ரதளத்தை அடைகின்றன. காலத்தைக் கடப்பதற்குத் துணை செய்வது ஐம்முகச் சக்தி ஆகும். இந்நிலையில் உயிரின் காலத்தைக் கடக்கச் செய்வதும் ஐம்முகங்களோடு கூடிய சதாசிவனின் நாயகியாகும்.`,
   },
@@ -3274,6 +3281,7 @@ Then will nectar be;
 Then Prana reaches the Seventh Center of the Sun
 And further onward proceeds to the Eighth Center of the Moon
 In the Ninth Center Prana attains Samadhi.`,
+    elaborationEnglish: `Beyond the sahasrara when the prana breath reaches the peaks of the sun and moon, the yogi attains samadhi.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-703-Third-Tantra-11.-Eight-Great-Attainments.mp3',
     elaborationTamil: `உயிரின் உடலாகிய தேருக்கு ஆறு ஆதாரச் சக்கரங்கள் இருக்கின்றன. இந்த ஆறு ஆதாரச் சக்கரங்களின் வழியே சக்தியூட்டப்பட்ட வாயு ஏழாவது ஆதாரமான சகஸ்ரதளத்திற்கு சென்று அங்கிருக்கும் இறைசக்தியோடு கலந்தபின் உருவாகின்ற அமிர்தம் அங்கிருந்து கீழிறங்கி எட்டாவது இடமாகிய உள் நாக்கிற்கு மேலே வந்து விழுகின்றது. இவ்வாறு விழுகின்ற அமிர்தத்தைப் பருகிக்கொண்டே பேரின்பத்தில் திளைத்திருக்கும் போது மாபெரும் நிலம் போன்ற உடலின் ஒன்பது துவாரங்களும் மூச்சுக்காற்றோடு இணைந்து இருக்கின்றது. கருத்து: அமிர்தத்தைப் பருகி வாழ்பவர்களுக்கு உணவோ தண்ணீரோ தேவைப்படுவதில்லை. அவர்கள் அமிர்தத்தை மட்டுமே பருகிக்கொண்டு ஒன்பது துவாரங்களின் வழியாக வெளிக்காற்றோடு இணைந்திருக்கின்றார்கள்.`,
   },
@@ -3335,6 +3343,7 @@ He confers paradise to the dead
 He assumes form divine of Gods
 He becomes learned in the twenty-one branches of Sivagamic lore
 He who has mastered the Science of Breath.`,
+    elaborationEnglish: `* He who has mastered the Science of Prana.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-706-Third-Tantra-11.-Eight-Great-Attainments.mp3',
     elaborationTamil: `பாடல் #705 ல் கூறியுள்ள ஆறு தகுதிகளுடன் முதுமை அடையாமல் மரணம் இல்லாத தன்மையைப் பெறுதலும் எங்கிருந்தாலும் எப்போதும் அருள் வெளியோடு கலந்திருத்தலும் இந்த உலகத்தில் இருப்பவர்களுக்கு பலவித நற்செயல்கள் செய்து பெற்ற பலன்களை பித்ருக்களுக்கு சமர்ப்பணமாக அளித்தலும் சிவபெருமானை உணர்ந்து அவனது திருவுருவமாகவே மாறுவதும் ஆகிய மொத்தம் பத்து வித தகுதிகளை பலவித யோகங்கள் மூலமாக கற்று தமது கையில் இருக்கும் பொருள் போலத் தெள்ளத் தெளிவாக உணர்ந்தவர்களே சித்தர்கள் ஆவார்கள். கருத்து: யோகமுறைகளை முறையாகக் கற்று உணர்ந்து பத்துவிதமான தகுதிகளை அடைந்தவர்களே சித்தர்கள் ஆவார்கள்.`,
   },
@@ -3439,6 +3448,7 @@ Through Nadis breath in one flowing Moon and Sun
 Become Beings Celestial;
 To them who perform it unceasing true
 The Lord Himself reveals.`,
+    elaborationEnglish: `To the yogis, the Lord reveals Himself. They become pervasive, immanent and deathless.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-710-Third-Tantra-11.-Eight-Great-Attainments.mp3',
     elaborationTamil: `குளிர்ச்சியான சந்திரனின் குணம் கொண்ட இடகலை மற்றும் வெப்பமான சூரியனின் குணம் கொண்ட பிங்கலை ஆகிய நாடிகளின் வழியே உள்ளிழுத்த மூச்சுக்காற்றுகளை சுழுமுனை நாடிவழியே ஒன்றாகச் சேர்த்து மேலெழுப்பிச் சென்று சகஸ்ரதளத்தில் வீற்றிருக்கும் இறைவனிடம் ஒன்றாகக் கலக்கும் படி செய்யும் அகயோகத்தை செய்த யோகியர்களே வானத்தில் வீற்றிருக்கும் பழம்பெரும் தேவர்களாகிறார்கள். இந்த அகயோகத்தை உண்மையாக கடைபிடித்து இருக்கும் சித்தர்களுக்கு அதையும் தாண்டிய ஆனந்த யோகத்தில் தன்னை அடையும் வழியைக் காட்டி அங்கே அவர்களுடன் கலந்து இறைவனும் நிற்கின்றான். கருத்து: சுழுமுனை நாடி வழியே மூச்சுக்காற்றை மேலே சேர்க்கும் அகயோகத்தை செய்த யோகிகள் தேவர்களாகிறார்கள். அதையும் தாண்டி துவாதசாந்த வெளியில் இருக்கும் இறைவனோடு இணைகின்ற ஆனந்த யோகத்தை செய்த யோகிகள் இறைவனோடு இரண்டறக் கலந்துவிடுகிறார்கள்.`,
   },
@@ -3497,6 +3507,7 @@ Impregnable then you shall be;
 Impregnable shall be your cognition organs four;
 Impregnable shall be Kalas six and ten of the Moon within;
 Impregnable shall be the Prana that is of life breath.`,
+    elaborationEnglish: `"Ultimate Thule" is "the farthest limit or point possible geographically".`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-713-Third-Tantra-12.-State-of-Breath-Tubes-2.mp3',
     elaborationTamil: `உலக விஷயங்களை எண்ணாமல் ஒளி உருவமான இறைவனின் மேல் எப்போதும் எண்ணத்தை வைத்திருந்தால் இறைவனின் திருவருள் நமது நான்கு அந்தக்கரணங்களையும், பதினாறு கலைகளையும், மூச்சுக்காற்றோடு என்றும் கலந்து நின்று காத்தருளும். கருத்து: இறைவனின் மேல் எண்ணம் வைத்து தியானிப்பவர்களை இறையருள் அனைத்திலிருந்தும் காத்து அருளும். நான்கு அந்தக்கரணங்கள்: மனம் புத்தி சித்தம் அகங்காரம் பதினாறு கலைகள் (நாடிகள்): மேதைக்கலை அருக்கீசக்கலை விடக்கலை விந்துக்கலை அர்த்தசந்திரன் கலை நிரோதினிக்கலை நாதக்கலை நாதாந்தக்கலை சக்திக்கலை வியாபினிக்கலை சமனைக்கலை உன்மனைக்கலை வியோமரூபினிக்கலை அனந்தைக்கலை அனாதைக்கலை அனாசிருதைக்கலை 1. மேதைக்கலை தொப்புள் முதல் மார்பு நடு இதயம் வரை இருக்கும் 2. அருக்கீசக்கலை இதயம் முதல் தொண்டைக்குழிவரை இருக்கும். 3. விடக்கலை தொண்டை முதல் நாக்கின் அடிவரை இருக்கும். 4. விந்துக்கலை நாக்கினடி முதல் புருவ நடுவரை இருக்கும். 5. அர்த்தசந்திரக்கலை புருவநடு முதல் உச்சித்துளைவரை இருக்கும். 6. நிரோதினிக்கலை, 7. நாதக்கலை, 8. நாதாந்தகலை ஆகிய மூன்றும் சம அளவில் பரவியிருக்கும். 9. சக்திக்கலை, 10. வியாபினிக்கலை, 11. சமனைக்கலை, 12. உன்மனைக்கலை, ஆகிய நான்கும் 12 விரல் அளவில் பரவியிருக்கும். 13. வியோமரூபிணிக் கலை 14. அனந்தைக் கலை 15. அனாதைக் கலை, 16. அனாசிருதைக் கலை சமனைக்கும் வியாபினிக்கும் நடுவே இருக்கும்.`,
   },
@@ -3727,6 +3738,7 @@ If the body pershes, so does Prana
 Nor will the Light of Truth be reached;
 I learned the way of preserving my body
 And so doing, my Prana too.`,
+    elaborationEnglish: `Nor will the Light of Truth be reached; I learned the way of preserving my body And so doing, my Prana too.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-724-Third-Tantra-13.-Way-for-Bodily-Attainment.mp3',
     elaborationTamil: `உயிர்களின் உடல் அழிந்துவிட்டால் அதனுள்ளிருக்கும் உயிர் நீங்கிவிடும். உறுதியான உடல் வலிமை சீர்குலைந்தால் ஞானத்தை அடைய உடலை ஒரு கருவியாகப் பயன்படுத்த முடியாது. உடலை உறுதியாக வைத்து வளர்க்கும் வழியை இறையருளால் அறிந்து கொண்டு அதன் மூலம் உடலை வளர்த்து அதனுள்ளிருக்கும் உயிரையும் வளர்த்தேன். கருத்து: இறைவனை அடைவதற்கு கருவியாக பயன்படும் உடலையும் உயிரையும் உறுதியாக நீண்ட காலம் அழியாமல் வளர்த்து இறைவனை அடையலாம்.`,
   },
@@ -3768,7 +3780,7 @@ They who can do this
 Will gain a body
 That no fire can burn.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-726-Third-Tantra-13.-Way-for-Bodily-Attainment.mp3',
-    elaborationEnglish: `The body must be kept pure. This is achieved by churning the intestines through the practice known as ‘suddhi.” Then the bowels become clean. Control the breath in the heart's region and make it pervade the entire nadi system`,
+    elaborationEnglish: `The body must be kept pure. This is achieved by churning the intestines through the practice known as ‘suddhi.” Then the bowels become clean. Control the breath in the heart's region and make it pervade the entire nadi system system`,
     elaborationTamil: `சுவாசிக்கும் மூச்சுக்காற்றை மூலாதாரத்திற்கு அனுப்பி மூலாதாரத்திலுள்ள அக்கினியால் மூச்சுக்காற்றை சுத்தம் செய்து சுழுமுனை நாடியின் கீழ்புறத்திலிருந்து மேலாகச் செலுத்தினால் சுழுமுனையை நாடி சுத்தம் அடையும். பின்பு அந்த காற்றை சகஸ்ரதளத்தில் இருக்கும் ஆயிரம் இதழ்கள் கொண்ட தாமரை மலரோடு சேர்த்து அந்த மலரை விரியச் செய்த பிறகு அந்த வாயுவை உடம்பிலுள்ள அனைத்து நாடிகளுக்குள்ளும் செலுத்தும் அகயோகப் பயிற்சியை அறிந்து கொண்டு அதைச் செய்பவர்களின் உடல் நெருப்பில் கருகி வெந்துபோகாமல் என்றும் அழியாமல் நிலைத்து நிற்கும். கருத்து: சுவாசிக்கும் மூச்சுக்காற்றை மூலாதாரத்திற்கு அனுப்பி சுழுமுனை நாடியை சுத்தப்படுத்தி சகஸ்ரதளத்தில் சேர்த்து பின்பு உடலில் உள்ள அனைத்து நாடிகளுக்கும் அனுப்பும் பயிற்சியை செய்பவர்களின் உடல் நெருப்பினால் சுட்டாலும் அழியாமல் இருக்கும்.`,
   },
   {
@@ -3811,6 +3823,7 @@ When the two bags of spiration
 Are tight controlled,
 And you sit in meditation unwavering
 The body perishes not ever.`,
+    elaborationEnglish: `The yogi who controls inhalation and exhalation in prescribed measure shall live beyond a hundred years.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-728-Third-Tantra-13.-Way-for-Bodily-Attainment-1.mp3',
     elaborationTamil: `மூன்று வளைவுகளை உடைய இடகலை பிங்கலை எனும் நாடிகளாக இரண்டு பாம்புகள் எட்டு அங்குல நீளத்திற்கு இருக்கின்றன. இயல்பான சுவாசமானது நாசியிலிருந்து இந்த இரண்டு நாடிகளின் வழியே கீழ் நோக்கி எட்டு அங்குல அளவு செல்லும். இந்த இரண்டு நாடிகளின் அடியிலிருந்து தலை உச்சி வரை செல்லும் பன்னிரண்டு அங்குல அளவிற்கு சுழுமுனை நாடி இருக்கிறது. முதுகெலும்பு ஆரம்பிக்கும் கழுத்து அது முடியும் இடுப்பு ஆகிய இரண்டு மூட்டுக்களையும் நேராக வைத்து இரண்டு கால்களையும் மடக்கி உடம்பை நேராக வைத்து அசையாமல் அமர்ந்து மூச்சுக்காற்றாகிய இயந்திரத்தை இடகலை பிங்கலை வழியாக எட்டு அங்குலம் கீழ் நோக்கி பயணிக்க வைத்து அதன் முடிவில் தொடங்கும் சுழுமுனை நாடி வழியே திசை மாற்றி பன்னிரண்டு அங்குலம் மேல் நோக்கி பயணிக்க வைத்து அதன் முடிவில் இருக்கும் சகஸ்ரதள ஆயிரம் தாமரை இதழ்களோடு கலக்க வைக்கும் சுழற்சியான அகயோகத்தை எப்போதும் செய்து கொண்டு இருந்தால் உடல் எவ்வளவு காலம் ஆனாலும் அழியாமல் இருக்கும். கருத்து: கழுத்தையும் இடுப்பையும் வளைக்காமல் நேராக வைத்துக் கொண்டு அமர்ந்திருந்து மூச்சுக்காற்றை சுழுமுனை நாடி வழியே மேலேற்றி சகஸ்ரதளத்தோடு கலந்து மறுபடியும் உடல் முழுவதும் பரவும் சுழற்சியை செய்து கொண்டிருந்தால் உடல் எவ்வளவு காலம் ஆனாலும் அழியாமல் இருக்கும்.`,
   },
@@ -3852,6 +3865,7 @@ And Lord Siva will Himself reveal
 Dancing to rhythmic music;
 This we declare true
 In the name of Sadasiva.`,
+    elaborationEnglish: `In the body-temple, the sakti is seated. If breathing is practiced from right to left and vice versa in alternation, the yogi will hear mystic sounds. In the forehead centre (ajna), Siva will reveal Himself dancing to rhythmic music.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-730-Third-Tantra-13.-Way-for-Bodily-Attainment.mp3',
     elaborationTamil: `இறைவன் குடியிருக்கும் உடலாகிய கோயிலில் இடதும் வலதுமாக இருக்கும் இடகலை பிங்கலை நாடிகளின் வழியே உள்ளிழுத்த மூச்சுக்காற்றை அடக்கியாண்டு சுழுமுனை நாடி வழியே மேலேற்றிச் செல்லும் பயிற்சியை சாதித்த சாதகனுக்கு மூச்சுக்காற்றின் சுழுமுனை பயணம் புல்லாங்குழலில் புகுந்த காற்றின் இசை போல கேட்கவும் சுழுமுனையின் உச்சியிலிருந்து வெளிப்படும் அமிர்தத்தின் தித்திப்பில் இறைவனின் பேரின்பக் பெருங்கூத்தும் சகஸ்ரதள ஜோதியில் சிவமாகிய ஒளியும் வெளிப்படும் என்பதை குருவிற்கெல்லாம் மஹாகுருவான சதாசிவமூர்த்தியின் மேல் ஆணை. கருத்து: அகயோகப் பயிற்சியை சாதித்த சாதகர்களுக்கு இசையோடு நடனமும் ஆடும் இறைவனின் பேரின்பப் பெருங்கூத்துத் தரிசனம் கிடைத்து அவர்களுக்குள்ளிருந்தே ஒளியுருவமாக இறைவனும் வெளிப்படுவார்.`,
   },
@@ -3893,6 +3907,7 @@ By meditating and chanting Siva mantra;
 Retain that breath in the Ajna frontal
 Then rouse the apana breath by meditation;
 That way you Siva become.`,
+    elaborationEnglish: `‘Rouse the prana that resides in the navel centre by chanting Siva mantra in silence. Course it upwards to sahasrara. Similarly do with apana. Centre the thought on muladhara. There resides the Lord Supreme of all the six adharas. The inhalation and exhalation of breath is referred to as Hamsa (Otherwise meaning the Swan) made up of the two syllables ‘Ham’ and ‘Sa’, which are also sometimes reversed to read Sa Ham, or “*‘Soham’’. This is also part of the Nada _ philosophy. wTpr WesGSH SoICD SGaAITH Knr QMNnissDot FGrp GMsSOaresr Hox AOT QL iwdGert. ILersrcsrgyib HWAGoresr apr 2uGseH Oararig sre Gun. 733`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-732-Third-Tantra-13.-Way-for-Bodily-Attainment.mp3',
     elaborationTamil: `நாசியின் மூலம் தொப்புள் இருக்கும் வயிறு வரை உள்ளிழுத்த மூச்சுக்காற்றை பாடல் #731 இல் கூறிய மந்திரத்தை இறைவனை நினைத்து தியானித்துக் கொண்டே மேலே எடுத்துச் சென்று இரண்டு புருவங்களுக்கு மத்தியில் நிறுத்தி வைத்துவிட்டு மூலாதாரத்திலுள்ள மூலாக்கினியை இறைவனை சிந்தித்துக் கொண்டே சுழுமுனை நாடியின் வழியாக மேலே எடுத்துச் சென்று இரண்டு புருவங்களுக்கு மத்தியில் நிறுத்தி வைத்த காற்றோடு சேர்த்து சகஸ்ரதளத்திலுள்ள ஆயிரம் இதழ்கொண்ட தாமரை மலரோடு கலக்கும் சாதகன் சிவனாவான். கருத்து: மூச்சுக்காற்றையும் மூலாக்கினியையும் சகஸ்ரதளத்தில் இருக்கும் இறைவனோடு கலந்து அகயோகம் செய்யும் சாதகன் சிவனாவான்.`,
   },
@@ -3976,6 +3991,7 @@ Is sent upward often to reach the space in cranium,
 Comely your body becomes;
 A desire-object for damsels bedecked with flowers
 Around which bees swarm humming.`,
+    elaborationEnglish: `Mantras 736,738 & 739`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-736-Third-Tantra-13.-Way-for-Bodily-Attainment.mp3',
     elaborationTamil: `உயிர்களின் உடலுக்குள் மலத்துவாரத்திற்கும் பிறவிக்குறிக்கும் நடுவிலுள்ள மூலாதாரத்திலிருக்கும் குண்டலினி சக்தியை எழுப்பி பாடல் #734 இல் உள்ளபடி நெற்றியின் நடுவில் இருக்கும் நீல நிற ஜோதியின் மேல் சிந்தனையை வைத்துக்கொண்டே சுழுமுனை நாடியின் வழியாக ஒவ்வொரு ஆதாரச் சக்கரங்களாக மேல் நோக்கி எடுத்து வந்து தலை உச்சியிலிருக்கும் சகஸ்ரதளத்தில் சேர்த்துவிட்டால் வண்டுகள் தேனை விரும்பி சுற்றும் அழகிய மலர்களை தலையில் அணிந்திருக்கும் பெண்கள் கூட இப்படிப்பட்ட உடல் நமக்கு கிடைக்காதா என்று ஏங்கித் தவிக்கும் அளவிற்கு சாதகரின் உடல் அழகாகிவிடும். கருத்து: மூலாதாரத்திலுள்ள குண்டலினியை எழுப்பி ஆறு சக்கரங்களுக்கும் சக்தியூட்டி ஏழாவதான சகஸ்ரதளத்தில் சேர்ப்பவர்களின் உடல் அழகாகிவிடும்.`,
   },
@@ -4166,6 +4182,7 @@ Beyond the barriers of Tattvas twenty and four is He;
 Beyond the twenty and five Tattvas is His Guna
 Beyond the six adharas that rise like the spreading banyan tree is He,
 Who ever does know Him!`,
+    elaborationEnglish: `Ged is beyond the six adharas and the 25 tattvas. After the kundalini has been roused, it takes 20 days for a good practitioner to pierce the six adharas; on the 2Sth day, his prana reaches the fire mandala; on the 26th day, the solar mandala; ci the 27th day, the lunar mandala.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-745-Third-Tantra-14.-Cycle-of-Time.mp3',
     elaborationTamil: `பாடல் #744 இல் உள்ளபடி துவாதசாந்த வெளியில் இறைவன் நான்கு உயர் தத்துவங்களாக இருப்பதை உணர்ந்த யோகியர்கள் அதையும் தாண்டிய நிலையில் பாடல் #467 இல் உள்ளபடி ஒன்பது துவாரங்கள் இருபத்தைந்து தத்துவங்களால் ஆன உருவத்தைத் தாண்டி அதைச் சுற்றியிருக்கும் குணங்களைக் கொண்ட ஐந்துவித கோசங்களையும் தாண்டி அண்டசராசரங்கள் அனைத்தையும் தாண்டிய ஒரே பொருளாக இருப்பதை அறிந்துகொள்வதில்லை. கருத்து: இறைவனை நான்கு உயர் தத்துவங்களாக உணர்ந்த யோகியர்களாலும் இறைவன் அனைத்தையும் கடந்த ஒரே பொருளாக இருப்பதை உணர்ந்துகொள்வதில்லை. ஐந்து கோசங்கள்: அன்னமயம் – உணவினால் உருவாகும் உடல். பிராணமயம் – மூச்சுக்காற்றால் உருவாகும் உயிர். மனோமயம் – மனதினால் உருவாகும் எண்ணங்கள். விஞ்ஞானமயம் – அறிவினால் உருவாகும் ஞானம். ஆனந்தமயம் – உண்மை ஞானமாகிய பேரறிவால் உருவாகும் பேரின்பம்.`,
   },
@@ -4208,6 +4225,7 @@ You gain their collective vision;
 Do Center your thoughts further
 And vision the tattvas twenty and four
 That to Earth and the rest of elements in order belong.`,
+    elaborationEnglish: `On the 28th day the yogi obtains the vision of the three mandalas, each apart; and on the 33rd day, he gains their collective vision.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-747-Third-Tantra-14.-Cycle-of-Time.mp3',
     elaborationTamil: `பாடல் #746 இல் உள்ளபடி அகயோகத்தில் இறைவன் விதித்த இருபத்தி எட்டு நாட்கள் முடிந்த பின் அனைத்தையும் தாண்டி இருக்கும் இறைவனை அறிய முயலும் சாதகர்கள் பாடல் # 467 ல் உள்ளபடி தமக்குள் இருக்கும் முப்பத்தாறு தத்துவங்களையும் ஒன்றாகத் தொகுத்து தமது மூச்சுக்காற்றை சுழுமுனை நாடியிலிருந்து 18 அங்குலம் தாண்டியிருக்கும் (புருவ மத்தியிலிருந்து தலை உச்சி 6 அங்குலம், தலை உச்சியிலிருந்து துவாதசாந்த வெளி 12 அங்குலம்) துவாதசாந்த வெளியில் பதித்து பாடல் #744 இல் உள்ளபடி உணர்ந்த நான்கு உயர் தத்துவங்களிலேயே மனதைச் செலுத்தி அகயோகம் பயின்றால் ஐந்து சிவதத்துவங்களாக இருக்கும் இறைவன் ஒருவனே என்பதை அறிந்து கொள்ளலாம். கருத்து: ஐந்து சிவதத்துவங்களாக இருக்கும் இறைவன் ஒருவனே சதாசிவமூர்த்தி என்பதை இருபத்தி எட்டு நாட்களுக்குப் பின் முயலும் அகயோகப் பயிற்சியால் அறிந்து கொள்ளலாம்.`,
   },
@@ -4276,6 +4294,7 @@ When you journey further onward
 To the three Centers that end with Forehead
 You shall firm be
 As unto a picture painted.`,
+    elaborationEnglish: `The six adharas may be reached in two successive stages of three each. Traversing the first three, reach the heart centre; then from the heart centre, journey to the forehead centre. Be firm as a painted picture. Keep erect the spinal column. The body is evil karma’s product. Yet it possesses the precious stalk that holds the mystic lotuses. Through its central nadi, the sushumna, perfect consciousness is reached. eau wret cyostens 9 i ierser ures ®SDer wwer) curio Bloor wiper wom wv apamaGw YId QGqiSOd youerus so7Gr. 751`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-750-Third-Tantra-14.-Cycle-of-Time.mp3',
     elaborationTamil: `கட்டை விரலால் சுண்டு விரலைப் பிடித்துக் கொண்டு மற்ற மூன்று விரல்களையும் நேராக நீட்டினால் வரும் முத்திரை வில்லில் ஏற்றிய அம்புகள் போல இருக்கும் மூன்று விரல்களைப் போலவே இடகலை, பிங்கலை மற்றும் சுழுமுனை ஆகிய மூன்று நாடிகளும் மார்பில் உள்ள இதயத்தில் பின்னிப் பிணைந்து பிரியாமல் ஒன்றாகச் சேர்ந்து இருக்கின்றன. அதைப் போலவே மூன்று நாடிகளையும் தலையிலுள்ள மூன்று ஆதாரச் சக்கரங்களோடு (விசுக்தி, ஆக்ஞா, சகஸ்ரதளம்) ஒன்றாகப் பொருந்தும் படி செய்து மூச்சுக்காற்றை சகஸ்ரதளத்திற்கு மேலே இருக்கும் மூன்று மண்டலங்களோடும் (அக்கினி, சந்திர, சூரிய மண்டலங்கள் பாடல் #746 இல் உள்ளபடி) கலக்கும் படி செய்து எண்ணங்களை மொத்தமும் அதிலேயே வைத்து காகிதத்தில் வரைந்த ஓவியம் போல எந்த அசைவும் இன்றி இருந்தால் உண்மை ஞானத்தை உணர்ந்து உடல் என்றும் அழியாத அழகான ஓவியம் போல இளமையுடன் நீண்ட காலம் இருக்கும். கருத்து: அகயோகப் பயிற்சியின்படி ஒன்றாக இருக்கும் மூன்று நாடிகளைகளோடு மூச்சுக்காற்றையும் மூன்று மண்டலங்களோடும் கலந்து தியானித்தால் உண்மை ஞானத்தை உணர்ந்து உடல் என்றும் அழியாத ஓவியம் போல இருக்கும்.`,
   },
@@ -4368,7 +4387,7 @@ And seek His Victorious Feet
 See the Heavenly Dancer
 Through their spinal hollow.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-754-Third-Tantra-14.-Cycle-of-Time.mp3',
-    elaborationEnglish: ``,
+    elaborationEnglish: `He who courses the kundalini fire through the spinal column will not perish by the cremation fire. He will see the Heayenly Dancer within.`,
     elaborationTamil: `பிறவிச் சுழற்சியில் சிக்கிக்கொண்டு பிறந்து கொண்டே இருக்கின்ற உயிர்கள் தம்மோடு எப்போதும் துணையாக இருக்கும் இறைவனின் திருவடியைத் தாங்கிக் கொண்டு இருக்கின்ற மலரைக் காண்பதில்லை. இறந்த பிறகு நெருப்பில் இடப்படும் இந்த உடலை நிரந்தரம் என்று எண்ணாமல் தமக்குள்ளேயே துணையாக இருக்கும் இறைவனே என்றும் நிரந்தரம் என்பதை உணர்ந்து அவனது திருவடிகளைச் சென்று அடையும் வழியான சுழுமுனை நாடியைக் கண்டுகொண்டவர்கள் அதன் வழியே சென்று அடையும் தலை உச்சியைத் தாண்டிய துவாதசாந்த வெளியில் திருநடனம் புரிந்து கொண்டிருக்கும் இறைவனை கண்டு உணர்ந்து அவனோடு கலந்து பேரின்பத்தில் இருக்கலாம். கருத்து: இறந்த பிறகு நெருப்புக்கு இரையாகும் உடலை பற்றிக்கொண்டு பிறவிச் சுழற்சியில் சிக்கிக் கொள்ளாமல் உடலுக்குள் ஏழாவது சக்கரத்தில் இருக்கும் ஆயிரம் இதழ் கொண்ட தாமரை மலரில் இறைவன் ஒளி உருவமாக வீற்றிருப்பதை பார்த்து இறைவனின் திருவடிகளைப் பற்றிக்கொண்டு அவனோடு கலந்து பேரின்பத்தில் எப்போதும் நிலைத்து வாழலாம்.`,
   },
   {
@@ -4411,7 +4430,7 @@ The Dancer on top of the Mountain of Gold
 Will appear,
 And You one with Him become.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-756-Third-Tantra-14.-Cycle-of-Time.mp3',
-    elaborationEnglish: ``,
+    elaborationEnglish: `You well and deep meditate The Dancer on top of the Mountain of Gold Will appear, And You one with Him become.`,
     elaborationTamil: `பாடல் #755 ல் உள்ளபடி இறைவனோடு ஒன்றாய் இரண்டறக் கலந்து தாமே சிவமாகி இருப்பவர்கள் அளவில்லாத காலங்கள் ஆயுள் வளர்ந்து அழியாமல் இருக்கின்ற முறையை கேட்டுக் கொள்ளுங்கள். தமக்குள் இருக்கும் இறைவனை அடைய உதவுவதால் மிகவும் நல்லது என்று சாதகர்கள் உணர்ந்து கொண்ட இடகலை, பிங்கலை, சுழுமுனை ஆகிய மூன்று நாடிகள் வழியாகவும் மூச்சுக்காற்றை உள்ளிழுத்து மேலேற்றி கீழிறக்கி என்று சுழற்சி செய்து கொண்டே இருந்தால் பல காலங்கள் உடல் அழியாமல் சென்று கொண்டே இருக்கும். முப்பது நாட்களுக்கு முறையாகச் செய்த பின்பு குன்றின் மேல் ஏற்றிவைத்த தீபம் போல தலை உச்சியிலிருக்கும் சகஸ்ரதளத்தில் பொன் நிற ஜோதி உருவமாக இருக்கும் இறைவனே தாமாகி ஒளிப் பிரகாசமாக எங்கும் பரவிக்கொண்டே இருப்பார்கள். கருத்து: அகயோகம் செய்யும் சாதகர்கள் இறைவனோடு கலந்து அவனைப் போலவே பொன் நிற ஜோதியாகி எங்கும் பரவிக்கொண்டே இருப்பார்கள்.`,
   },
   {
@@ -4490,6 +4509,7 @@ Some strive after action
 With no thought of goal whatsoever;
 But none of them will see
 The Sakti of lovely eyes.`,
+    elaborationEnglish: `With no thought of goal whatsoever; But none of them will see The Sakti of lovely eyes.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-760-Third-Tantra-14.-Cycle-of-Time.mp3',
     elaborationTamil: `பாடல் #759 இல் உள்ளபடி அனைத்திற்கும் மேலானதொரு நிலையை அடைந்த யோகியர்கள் உலகத்தவர்களின் மேல் கொண்ட கருணையினால் அவர்கள் அறியாமலேயே அவர்களோடு கலந்து நின்று பல நல்வினைகளைப் புரிந்து பயன்பெற வைக்கின்றார்கள். உலகத்தவர்களையும் பயன்பெற வைக்கின்ற உயர்வான நிலையைப் பற்றி தெரியாத அல்லது அதில் விருப்பமில்லாதவர்கள் தங்களின் கர்மவினைகளைச் செய்துகொண்டு வீணாக வாழ்க்கையைக் கழித்து மீன்களைப் போல் எப்போதும் கண்மூடாமல் அன்பர்களுக்கு அருள்கொடுக்கும் இறை சக்தியை காணாமலேயே காலத்தை கழித்து அழிந்து போகின்றார்கள். கருத்து: அகயோகம் செய்து அனைத்திற்கும் மேலான உயர் நிலையை அடைந்த யோகியர்கள் உலகத்தவர் மேல் கருணை கொண்டு அவர்களுக்காக பல நல்வினைகளைப் புரிகின்றார்கள். இதை அறியாத மற்றவர்கள் தங்களின் வினைகளையே புரிந்து வீணாக காலத்தைக் கழிக்கின்றார்கள்.`,
   },
@@ -4573,6 +4593,7 @@ They who seek
 But know this true;
 And well may it be told
 To those that aspire.`,
+    elaborationEnglish: `They who seek Know death none; evil none; They who seek Will become lords of earth; They who seek But know this true; And well may it be told To those that aspire.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-764-Third-Tantra-14.-Cycle-of-Time.mp3',
     elaborationTamil: `பாடல் #763 இல் உள்ளபடி தமக்குள் உறுதியுடன் இறைவனைத் தேடி அடையக்கூடியவர்களுக்கு இறப்பு இல்லை. இவ்வுலகத்தில் எந்தக் குறையும் இன்றி உயிர்களுக்குத் தலைவனாக இருப்பார்கள். இறைவனைத் தமக்குள்ளே தேடி அடைந்தவர்களுக்குத் தெரிந்த பொருள் இதுவாகும். அவர்கள் அறிந்த இறைவனை அடையும் வழியைக் காட்டும்படி கேட்பவர்களில் தகுதியுள்ளவர்களுக்கு தான் அறிந்ததை எடுத்துக் கூறுவார்கள். கருத்து: இறைவனைத் தமக்குள்ளே தேடி அடைந்தவர்கள் என்றும் இறப்பு இல்லாமல் தம்மை நாடி வருபவர்களில் தகுதியுள்ளவர்களுக்கு தாம் அறிந்தவற்றை எடுத்துக் கூறுவார்கள்.`,
   },
@@ -4615,6 +4636,7 @@ To them who seek Him
 He resides eternal within;
 When you see the Lord
 He and you one become.`,
+    elaborationEnglish: `The Lord is within you. He resides eternally within you. Seek Him. And when you see Him, He and you will become one.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-766-Third-Tantra-14.-Cycle-of-Time.mp3',
     elaborationTamil: `இறைவன் இருக்கின்ற இடத்தை யாரும் அறிவதில்லை. பாடல் #765 இல் உள்ளபடி இறைவனை அறிந்தவர் மூலம் கேட்டு தமக்குள் ஆராய்ந்து உறுதியுடன் தேடினால் இறைவன் தமக்குள்ளேயே வீற்றிருப்பதை அறிந்து கொள்ளலாம். தமக்குள் இறைவன் வீற்றிருப்பதை அறிந்து கொண்டவர்களுக்கு இறைவன் பேரறிவாய் நின்று அவர்களுக்குள்ளேயே அழியாமல் அமர்ந்திருப்பான். பேரறிவாய் அமர்ந்திருக்கும் இறைவனையே எப்போதும் தரிசித்துக் கொண்டு இருப்பவர்கள் தாமும் அந்த இறைவனாகவே ஆகிவிடுவார்கள். கருத்து: தமக்குள்ளேயே வீற்றிருக்கின்ற இறைவனைக் கண்டு உணர்ந்தவர்கள் இறைவனாகவும் ஆகிவிடுவார்கள்.`,
   },
@@ -4716,6 +4738,7 @@ God appears in the heart
 Of them who Nada transcend
 This the truth I realized
 And so merged in Nada.`,
+    elaborationEnglish: `Knowing the breath rhythm is knowing the nada; and nada`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-771-Third-Tantra-14.-Cycle-of-Time.mp3',
     elaborationTamil: `: உள்ளத்தில் உண்டாகும் எண்ணத்தின் ஓசையில் இறைவனை உணர்ந்து எண்ணம் இல்லாத நிலையை கடந்தவர் ஈசனை நினைத்து அவருடனே கலந்திருப்பார் அவ்வாறு கலந்திருப்பவர் நெஞ்சினுள் ஈசன் உணர்வு வடிவாய் நிற்பன்.`,
   },
@@ -4735,6 +4758,7 @@ If turned upward to flow
 Will give the good that of fixity of mind comes;
 The Jnana that comes from cranial spaces will beam;
 And the yogi becomes Lord of earth.`,
+    elaborationEnglish: `The breath that is in vain spent If turned upward to flow Will give the good that of fixity of mind comes; The Jnana that comes from cranial spaces will beam; And the yogi becomes Lord of earth.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-772-Third-Tantra-14.-Cycle-of-Time.mp3',
     elaborationTamil: `: உடம்பின் வெளியே சென்று அழிகின்ற மூச்சுக்காற்றை அகயோகத்தின் மூலம் கவனித்து நோக்கினால் உண்ணாக்கில் அமிர்தம் சுரந்து நன்மை செய்யும். சகஸ்ரதளத்தில் இருக்கும் ஆயிரம் இதழ்த்தாமரைக்கு மேல் இருக்கும் ஞானம் கைகூடும். அந்த ஞானம் கைகூடினால் உலகின் தலைவனான சிவனாய் இருப்பதை உணரலாம்.`,
   },
@@ -4880,6 +4904,7 @@ The four petalled Muladhara will visioned be;
 If further continued,
 On the fifth day,
 The Second and Third adharas visioned art.`,
+    elaborationEnglish: `If thus the practice is for days four continued, The four petalled Muladhara will visioned be; If further continued, On the fifth day, The Second and Third adharas visioned are.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-779-Third-Tantra-14.-Cycle-of-Time.mp3',
     elaborationTamil: `: வாழ்நாளை அளந்தது தெரிந்து கொள்ளும் வகையில் நான்கு நாள்கள் பிராணவாயு இடைகலை வழியே இயங்கினால் நான்கு ஆண்டுகள் உயிர் உடலில் இருக்கும். ஐந்து நாள் அவ்வாறு இயங்கினால் தெளிவாக மூன்றாண்டு உயிர் உடலில் இருக்கும்.`,
   },
@@ -5000,6 +5025,7 @@ From within the fountain of nectar
 Nandi bellows aloud;
 If in the space within He reveals Himself,
 You shall truly be one in Lord.`,
+    elaborationEnglish: `On the thirty-third day prana reaches the mountain of Meru. Nandi bellows aloud. He reveals Himself in the Space within. The yogi shall truly be one in God.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-785-Third-Tantra-14.-Cycle-of-Time.mp3',
     elaborationTamil: `: உயிர் முதலில் உடலோடு சேர்ந்து தாயின் வயிற்றில் ஒன்பது மாதம் உருப்பெற்று வளர்ந்து பத்தாம் மாதம் நீரில் மிதந்து பத்தாம் மாத இறுதியில் அவ்விடத்தை விட்டு திருவருள் உணர்வோடு வெளியே வந்து வினைகளை எல்லாம் தீர்த்து தான் யார் என்பதை உணர்ந்து நின்றால் உலகிற்கு தலைவனாகவும் கூடும் என்று நந்தி பெருமான் கூறியுள்ளார்.`,
   },
@@ -5106,7 +5132,7 @@ Prana flows in the left
 In the waxing moon's fortnight;
 And in the right in the waning moon's fortnight.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-790-Third-Tantra-16.-State-of-Breath-in-a-Week.mp3',
-    elaborationEnglish: `On Mondays, Wednesdays, and Fridays, prana dominates on left (ida) nadi. On Tuesdays, Saturdays and Sundays it tuns high on the right nadi (Pingala). On Thursday, prana rises high in the left in the waxing moon’s fortnight; and in the right in the waning moon’s fortnight.`,
+    elaborationEnglish: `On Mondays, Wednesdays, and Fridays, prana dominates on On Mondays, Wednesdays, and Fridays, prana dominates on left (ida) nadi. On Tuesdays, Saturdays and Sundays it tuns high on the right nadi (Pingala). On Thursday, prana rises high in the left in the waxing moon’s fortnight; and in the right in the waning moon’s fortnight.`,
     elaborationTamil: `: வெள்ளி திங்கள் புதன் கிழமைகளில் இட நாடி வழியாக மூச்சு இயங்க வேண்டும். சனி ஞாயிறு செவ்வாய்க் கிழமைகளில் வல நாடி வழியே மூச்சு இயங்க வேண்டும். வளர்பிறை வியாழக் கிழமைகளில் இடநாடியிலும் தேய்பிறை வியாழக் கிழமைகளில் வலது நாடியிலும் மூச்சு இயங்க வேண்டும். இவ்வாறு இயங்குவது உடல் நலத்திற்கு ஏற்ற இயற்கையான பிராண இயக்கமாகும்.`,
   },
   {
@@ -5220,6 +5246,7 @@ If Yogi gathers it proper
 And regulates to reach Kundalini,
 He shall stand before the Finite Light;
 Thus He said, Nandi Holy.`,
+    elaborationEnglish: `Prana runs helter skeleter to the right, and to the left. If the yogi regulates it appropriately, he shall reach kundalini, -the finite light.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-795-Third-Tantra-16.-State-of-Breath-in-a-Week.mp3',
     elaborationTamil: `: மூச்சுக்காற்று நடுநாடியாகிய சுழுமுனையில் நிற்காமல் இடப்பக்கமாகவும் வலப்பக்கமாகவும் மாறி மாறி இயங்குகின்ற போது உலகியல் வாழ்க்கையில் கிடந்து வருத்தப்பட நேரிடும். யோகியானவன் மூச்சுக்காற்றை நாடிகள் கூடுகின்ற நடுநாடியின் சுழுமுனையில் குண்டலினியோடு சேர்க்க நடுநாடியின் உச்சியில் தீபத்தின் ஒளி தோன்றும் என்று நந்தி அருளினான்.`,
   },
@@ -5262,6 +5289,7 @@ The Soola lies in directions different
 On Mondays and Saturdays it is in east;
 On Tuesdays and Wednesdays in north
 On Sundays and Fridays in west.`,
+    elaborationEnglish: `On Mondays and Saturdays it is in east; On Tuesdays and Wednesdays in north On Sundays and Fridays in west.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-797-Third-Tantra-17.-State-of-Misfortune-in-a-Week.mp3',
     elaborationTamil: `திங்கள் சனிக்கிழமைகளில் கிழக்கே சூலம் ஆகும். செவ்வாய் புதன் கிழமைகளில் வடக்கே சூலம் ஆகும். ஞாயிறு வெள்ளிக் கிழமைகளில் மேற்கே சூலம் ஆகும். குறிப்பு: சூரியனின் தீட்சண்யம் குவியும் திசைக்கு சூலம் என்று பெயர் வைத்தார்கள். அந்த திசையில் சூடு அதிகமாக இருக்கும். பயணம் செய்தால் சூட்டினால் உடல் நிலை பாதிக்கும் என்ற காரணத்தால் சூலம் என்று குறிப்பிட்டு அந்த திசையில் பயணிக்க வேண்டாம் என்று சொன்னார்கள்.`,
   },
@@ -5560,6 +5588,7 @@ If they but know how to bolt the door within
 And check the flowing stream,
 Well then may they become
 Abiding cave temples within.`,
+    elaborationEnglish: `“Cave Temple’’ is esoteric language for the cranium.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-810-Third-Tantra-18.-Yoga-of-Cosmic-Energy.mp3',
     elaborationTamil: `: சிவனை மனதில் உணர்ந்து வழிபாடு செய்தவர்களின் அறியாமையை சக்தி ஒலி ஒளி வடிவாக வந்து சுட்டெரித்து வெளிப்படுவாள். கேசரி முத்திரையினால் அந்த ஒளி ஒலிகளில் மனத்தைப் பதித்து அதன் மீது தியானம் செய்தால் அந்த யோகியின் உடலே ஓர் கோயிலாகி விடும்.`,
   },
@@ -5624,6 +5653,7 @@ In His Mansion that is body,
 Art Kala worlds two hundred and twenty four;
 And within that Divine Mansion shedding rays,
 He sat Supreme in accord within.`,
+    elaborationEnglish: `1)Santhiatheetha Kala—15 Santhi Kala—18 Vidya Kala—27 Pratishta Kala—S6 Nivirthi Kala—108 Total 224 (Ref: Abhithana- Chintanami. The total for pratishtakala is 56 and not S9 as is given here.) Vide “Garland of Letters,” pp.269-272 for a tabulated list.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-813-Third-Tantra-18.-Yoga-of-Cosmic-Energy.mp3',
     elaborationTamil: `: சந்திரனில் இருந்து வரும் கதிர்கள் பதினாறு. அது போல் கழுத்துப் பகுதி விசுத்திச் சக்கரத்தில் இருந்து வரும் கதிர்கள் பதினாறாய் இருந்தும், உடம்பில் அந்தந்த இடங்களின் அதிபதியாய் 224 கதிர்களாய் இருந்தும், இயங்கும் இல்லமாகிய உடம்பினுள் வினைகளாய் உள்ள பகைவர்களை அவ்யோகியர் எதிர்சென்று போர் புரியாதவாறு தனது அருளாற்றலாகிய கணைகளைப் பொழிந்து கொண்டு இருக்கின்றான்.`,
   },
@@ -5877,6 +5907,7 @@ Do you enjoy the damsel in passion's union;
 If you but know how to shoot
 Prana breath through the Spinal Cavity
 Your enjoyment never ceases.`,
+    elaborationEnglish: `The yogi anoints the woman’s body with diverse perfumes. He bedecks her tresses with fragrant flowers and then proceeds to enjoy the damsel in heightened passion. But as he does so, he draws the breath inward through the spinal cavity. The breath stands still. As the full-breasted damsel and the skilled yogi thus seek enjoyment, the liquid silver (sukhla) draws in the liquid gold (sronita) and the yogi, with breath stilled, masters the retention of his semen. The couple commingle in ecstatic passion the whole time.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-825-Third-Tantra-19.-Yoga-with-Sexual-Partner.mp3',
     elaborationTamil: `உடம்பில் பூசுவதற்கு ஏதுவான வாசனை திரவியங்களையெல்லாம் பூசிக்கொண்டு நீராடி காயவைத்த நறுமணம் கமழும் கூந்தலில் வாசனையுள்ள மலர்களையும் மாலையாகச் சூடிக்கொண்டு மனதை மயக்குகின்ற மங்கையோடு கலவியில் ஒன்றாகக் கலந்து இருக்கின்ற போதும் ஊசியில் நூல் கோர்ப்பது போல நெற்றிக்கு நடுவில் உள்ள சுழுமுனை நாடியின் உச்சித்துளை வழியே மூச்சுக்காற்றை செலுத்திக் கொண்டே இருக்கின்ற யோகியர்களுக்கு போகம் எப்போதும் அழியாது. குறிப்பு: ஆணும் பெண்ணும் ஒருவருடன் ஒருவர் போகத்தில் இருக்கும் போது அதை யோகமாக எப்படி மாற்றுவது என்பதை விளக்குவதே பரியாங்க யோகமாகும்.`,
   },
@@ -6842,7 +6873,7 @@ If you can resolve the conflict of Serpent and Moon
 Merging the Kalas of Moon in Kundalini
 The Lord will leave you not, ever ever.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-871-Third-Tantra-21.-Yoga-of-Moon-Region.mp3',
-    elaborationEnglish: `She (kundalini) runs to sahasrara and bites the chandra…Then nectar begins to flow - vide commentary on verse 32 of Anandalahiri, as quoted in "The Serpent Power" by Sir John Woodroffe, p.235. ''The kundalini that moves up "devours the moon." Let not the yogi sleep until the serpent throws it out. When it throws it out, the mind becomes luminous as the full moon. Then the yogi may sleep.'`,
+    elaborationEnglish: `She (kundalini) runs to sahasrara and bites the chandra…Then nectar begins to flow - vide commentary on verse 32 of Anandalahiri, as quoted in "The Serpent Power" by Sir John Woodroffe, p.235. ''' ''The kundalini that moves up "devours the moon." Let not the yogi sleep until the serpent throws it out. When it throws it out, the mind becomes luminous as the full moon. Then the yogi may sleep.'`,
     elaborationTamil: `சந்திர யோகப் பயிற்சியின் மூலம் குண்டலினியாகிய பாம்பை உறக்கத்திலிருந்து எழுப்பிவிட்டால் அது நித்தமும் சந்திர கலையை உண்டு அதுவும் பத்தாதென்று சூடாகிய தீங்கைக் கொடுக்கும் சூரிய கலையையும் உண்டு வளரும். குண்டலினிக்கு இரையாக கலைகள் இருப்பதால் இரண்டும் பகையாளிகள் போல இருந்தாலும் சந்திர யோகப் பயிற்சியினால் குண்டலினியை ஒவ்வொரு மண்டலமாக மேலேற்றிச் சென்று கடைசியில் ஒன்பதாவதான பரவெளியில் இருக்கும் சந்திர மண்டலத்தோடு ஒன்று சேர்த்துவிட்டால் குண்டலினியும் கலைகளும் தமது பகையைத் தீர்த்து ஒன்றாகிவிடும். அதன் பிறகு மாபெரும் கருணையாளனான இறைவன் யோகியை விட்டு என்றும் நீங்காமல் இருப்பான். உட்கருத்து: சந்திர யோகப் பயிற்சியில் மூச்சுக்காற்றின் மூலமே குண்டலினியை வளர்த்து ஏழு சக்கரங்கள் எட்டாவது துவாதசாந்த வெளியைத் தாண்டிய ஒன்பதாவது பரவெளியில் இருக்கும் சந்திர மண்டலத்தோடு கலந்துவிட்டால் அதன் பிறகு யோகியர்களுக்கு மூச்சுக்காற்றோ உணவோ தேவையின்றி எவ்வளவு காலமும் இறைவனுடன் பேரின்பத்தில் இருக்கலாம்.`,
   },
   {
