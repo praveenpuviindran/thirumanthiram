@@ -10,6 +10,7 @@ import { useLocalSearchParams, useRouter } from 'expo-router';
 import { useTheme } from '../../../constants/Theme';
 import { VerseAudioPlayer } from '../../../components/ui/VerseAudioPlayer';
 import { getVerseById, getTantraById, VERSES } from '../../../data/thirumanthiram';
+import { lookupTamilWord } from '../../../data/word_lookup';
 import { useFavorites } from '../../../hooks/useFavorites';
 import { useSettings } from '../../../hooks/useSettings';
 import { Spacing, Radius, FontSize, Colors } from '../../../constants/Colors';
@@ -67,18 +68,20 @@ export default function VerseScreen() {
   const favorite = isFavorite(verse.id);
   const fontSize = settings.fontSize === 'small' ? 15 : settings.fontSize === 'large' ? 19 : 17;
 
-  // Word-by-word dictionary: zip Tamil, transliteration, and English words
+  // Word-by-word dictionary lookup
   const wordEntries = useMemo(() => {
     const tamilWords = (verse.tamil ?? '').replace(/\n/g, ' ').split(/\s+/).filter(Boolean);
     const romaWords = (verse.transliteration ?? '').replace(/\n/g, ' ').split(/\s+/).filter(Boolean);
-    const engWords = (verse.english ?? '').replace(/\n/g, ' ').split(/\s+/).filter(Boolean);
-    const len = Math.max(tamilWords.length, romaWords.length);
-    return Array.from({ length: len }, (_, i) => ({
-      tamil: tamilWords[i] ?? '',
-      roman: romaWords[i] ?? '',
-      english: engWords[i] ?? '',
-    }));
-  }, [verse.tamil, verse.transliteration, verse.english]);
+    return tamilWords.map((tamil, i) => {
+      const match = lookupTamilWord(tamil);
+      return {
+        tamil,
+        roman: match?.roman ?? romaWords[i] ?? '',
+        english: match?.english ?? '',
+        found: !!match,
+      };
+    });
+  }, [verse.tamil, verse.transliteration]);
 
   const sendFeedback = () => {
     const subject = encodeURIComponent(`Feedback – Verse #${verse.verseNumber}`);
@@ -261,7 +264,9 @@ export default function VerseScreen() {
           <View style={[styles.card, { backgroundColor: theme.bgCard, borderColor: theme.border }]}>
             <View style={styles.sectionRow}>
               <Text style={[styles.sectionLabel, { color }]}>Words</Text>
-              <Text style={[styles.sectionSub, { color: theme.textMuted }]}>Dictionary</Text>
+              <Text style={[styles.sectionSub, { color: theme.textMuted }]}>
+                {wordEntries.filter(e => e.found).length}/{wordEntries.length} defined
+              </Text>
             </View>
             {wordEntries.length === 0 ? (
               <Text style={[styles.emptyText, { color: theme.textMuted }]}>
@@ -269,7 +274,14 @@ export default function VerseScreen() {
               </Text>
             ) : (
               wordEntries.map((entry, i) => (
-                <View key={i} style={[styles.dictRow, i > 0 && { borderTopWidth: 1, borderTopColor: theme.border }]}>
+                <View
+                  key={i}
+                  style={[
+                    styles.dictRow,
+                    i > 0 && { borderTopWidth: 1, borderTopColor: theme.border },
+                    !entry.found && styles.dictRowDim,
+                  ]}
+                >
                   <Text style={[styles.dictIndex, { color: theme.textMuted }]}>{i + 1}</Text>
                   <View style={styles.dictBody}>
                     <Text style={[styles.dictTamil, { color: theme.text, fontSize }]}>{entry.tamil}</Text>
@@ -277,8 +289,14 @@ export default function VerseScreen() {
                       <Text style={[styles.dictRoman, { color }]}>{entry.roman}</Text>
                     ) : null}
                     {entry.english ? (
-                      <Text style={[styles.dictEnglish, { color: theme.textSub }]}>{entry.english}</Text>
-                    ) : null}
+                      <View style={[styles.dictMeaningPill, { backgroundColor: color + '18', borderColor: color + '44' }]}>
+                        <Text style={[styles.dictEnglish, { color: theme.textSub }]}>{entry.english}</Text>
+                      </View>
+                    ) : (
+                      <Text style={[styles.dictEnglish, { color: theme.textMuted, fontStyle: 'italic' }]}>
+                        — not in dictionary
+                      </Text>
+                    )}
                   </View>
                 </View>
               ))
@@ -492,9 +510,18 @@ const styles = StyleSheet.create({
     gap: 12,
   },
   dictIndex: { fontSize: FontSize.xs, width: 20, paddingTop: 3, textAlign: 'right' },
-  dictBody: { flex: 1, gap: 2 },
+  dictBody: { flex: 1, gap: 3 },
+  dictRowDim: { opacity: 0.55 },
   dictTamil: { fontWeight: '600', lineHeight: 24 },
   dictRoman: { fontSize: FontSize.sm, fontStyle: 'italic', lineHeight: 20 },
+  dictMeaningPill: {
+    alignSelf: 'flex-start',
+    borderRadius: Radius.full,
+    borderWidth: 1,
+    paddingHorizontal: 8,
+    paddingVertical: 2,
+    marginTop: 1,
+  },
   dictEnglish: { fontSize: FontSize.xs, lineHeight: 18 },
 
   emptyText: { fontSize: FontSize.sm, textAlign: 'center', paddingVertical: Spacing.md },
