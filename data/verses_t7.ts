@@ -429,7 +429,7 @@ And thus it is the Lord
 That the eight universes pervades;
 Of my heart, too, a temple made.`,
     audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2023/06/1722.mp3',
-    elaborationEnglish: `They who sought Him in one special way knew Him not in any way. Thus it is that the Lord cannot be approached by any single exclusive way.`,
+    elaborationEnglish: ``,
     elaborationTamil: `அனைத்திலும் இருக்கின்ற பரம்பொருளை ஒரு ஜோதியின் தன்மையில் உள்ள இலிங்க வடிவத்தில் தேடுவதன் மூலம் உணர்ந்து கொண்டேன். எந்த முறையினாலும் உணர்ந்து கொள்ள முடியாத வகையில் நிற்கின்ற இறைவனை ஒளி பொருந்திய இலிங்கத்தின் மூலம் உணரும் போது, இது வரை யாம் உணராத ஒரு புதுவிதமான உணர்வாக அனைத்து உலகங்களையும் சென்று அடைகின்ற தன்மையை எமக்குள் உணர்ந்த போது, அவன் எமது உடலையே தமக்கு விருப்பமான கோயிலாக ஆட்கொண்டு வீற்றிருந்தான்.`,
   },
   {
@@ -530,7 +530,7 @@ They seek not to adore Lord
 Whom the Elements Five
 Together in prayer beseech.`,
     audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2023/07/1727.mp3',
-    elaborationEnglish: `When jiva entered this fleshy body, a veritable tabernacle of God, the five senses within opened the gates for Him. Like a mother, He affectionately took charge of the senses and became their master. The several nadis that are within the body prostrate at Nandi's feet who subdued the senses, even as all the Vedas do.`,
+    elaborationEnglish: ``,
     elaborationTamil: `இந்த பிறவிக்கான வினைகள் தீர்ந்து இறந்து போன பிறகும் இனியும் பிறவி வேண்டும் என்று இன்னமும் தீர்க்க வேண்டிய வினைகளை அனுபவிக்க நிற்பார்கள். அவர்களுக்கு தேவையான உடலை நிலத்தை தருகின்ற நீரினால் தெளிந்து உருவாகிய உணவினால் வளர்கின்ற தசையும் அவர்களுக்கு ஏற்ற வடிவத்தை செய்து கொடுக்கும். அவர்களின் உயிர் இருக்கின்ற இடமாகிய உடம்பை தருகின்ற பஞ்ச பூதங்களாகிய நிலம், நீர், நெருப்பு, காற்று, ஆகாயம் ஆகிய ஐந்தும் ஒன்று சேர்ந்து கொடுக்கும். அந்த உடம்பிற்குள் நிகழ்கின்ற அனைத்து இயக்கங்களையும் தருகின்ற தேவர்களை வணங்கி வழிபடுவதை செய்யுங்கள். கருத்து: உயிர்களின் உடம்பாக இருப்பதே இறைவனின் சிவ இலிங்கமாகும். அதற்குள் இறைவனாகவே இருக்கின்ற அனைத்து தேவர்களும் இருக்கின்றார்கள். ஆகவே உயிர்களின் உடம்பையே கோயிலாக வணங்கி வந்தால் இனி பிறவி இல்லாத நிலையை அடையலாம். பாடல் #1823 இல் வருகின்ற “உள்ளம் பெருங்கோயில் ஊனுடம்பு ஆலயம்” என்கிற வாசகம் இந்த பொருளையே குறிக்கின்றது.`,
   },
   {
@@ -552,7 +552,7 @@ As unto the mother's home
 He in me entered;
 And taking charge of the gates, Master became.`,
     audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2023/07/1728.mp3',
-    elaborationEnglish: `In spite of cycles of birth, men seek not the Lord who opens the sense gates composed of the five elements. These elements within themselves seek Him, and yet men do not seek Him within.`,
+    elaborationEnglish: ``,
     elaborationTamil: `உயிர்கள் பிறப்பு எடுக்கும் போதே அவற்றை தாம் இருக்கும் கோயிலாகவே படைக்கின்றான் இறைவன். அப்படி உயிர்கள் கோயிலாக உடலெடுத்து பிறக்கும் போதே ஐந்து தெய்வங்களும் தத்தமது தொழில்களுடன் ஐந்து பூதங்களாகவும் புலன்களாகவும் நின்று அந்த புலன்கள் நுழைகின்ற இடமாக உயிர்களின் உடலை ஏற்றுக் கொண்டு அதன் வழியாகவே நின்று அருளுகின்றனர். உயிர்கள் எப்போது புலன்களின் வழியே வாழ்வதை விட்டு விட்டு குழந்தை தாயை தேடி அழுவது போல இறைவனை தேடுகின்றார்களோ அப்போது குழந்தை இருக்கும் இடம் தேடி தாய் தானாகவே வருவது போல இறைவனும் தலைவனாகவே அந்த அடியவரின் உடலுக்கு உள்ளே இருந்து அடியவரை ஆட்கொண்டு அடியவரின் உடலையே தாம் வாழுகின்ற இடமாக கொண்டு வீற்றிருந்து அருளுவான். ஐவர்கள்: ஐந்து தெய்வங்கள் – ஐந்து தொழில்கள் – பஞ்ச பூதங்கள் – ஐந்து பொறிகள் – ஐந்து புலன்கள் பிரம்மன் – படைத்தல் – நிலம் – மூக்கு – நுகர்தல் திருமால் – காத்தல் – நீர் – நாக்கு – சுவைத்தல் உருத்திரன் – அழித்தல் – நெருப்பு – கண் – பார்த்தல் மகேஸ்வரன் – மறைத்தல் – காற்று – தோல் – உணர்தல் சதாசிவன் – அருளல் – ஆகாயம் – காது – கேட்டல்`,
   },
   {
