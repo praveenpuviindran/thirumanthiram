@@ -77,7 +77,7 @@ With sweet compassion gentler than a mother's,
 He shattered the Impurities Three
 And like unto the sun on the ocean of mercy arose.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-116-First-Tantra-1.-Preaching.mp3',
-    elaborationEnglish: `Like the music that issues from the flute, from within the body ris¢s Nandi’s divinity. In infinite maternal compassion, He dispels the impurities within, as thesun dispels darkness.`,
+    elaborationEnglish: `Like the music that issues from the flute, from within the body rises Nandi's divinity. In infinite maternal compassion, He dispels the impurities within, as the sun dispels darkness.`,
     elaborationTamil: `மூங்கிலினுள்ளே இருக்கும் நெருப்பு போல (காய்ந்த மூங்கில்களை ஒன்றோடு ஒன்று உரசினால் வெளிப்படும் நெருப்பு) உயிர்களின் மெய் எனப்படும் உடலாகிய கோயிலினுள்ளே குடி கொண்டு வீற்றிருக்கும் உயிர்களின் தலைவனாகிய குருநாதன் இறைவன் உலகத் தாயை விடவும் உயிர்களின் மேல் அதிக கருணை கொண்டு அவ்வுயிர்களைப் பற்றியிருக்கும் மும்மலங்களாகிய அழுக்குகளை அகற்ற வேண்டி இருளை விலக்க கடலின் மேலே தோன்றும் சூரியனைப் போல மும்மல இருளை அகற்றும் பேரொளியாக தனது கருணை எனும் மாபெரும் கடலின் மேலே தோன்றும் சூரியன் இறைவன்.`,
   },
   {
@@ -115,15 +115,7 @@ And saying so, from Sadsiva of the Five Spheres came down,
 In the sovereign Sabha through His Five Acts Divine,
 He broke into my soul's silent depths, Knowing all.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-118-First-Tantra-1.-Preaching.mp3',
-    elaborationEnglish: `All our impurities He removes,
-
-Our worldly existence He transmutes into spiritual life,
-
-And dancing in the citsabha He controls our sensual passions :
-
-Knowing the purity of the soul He has come to reside there.
-
-Thus did Nandi descending from His Sadasiva state enter the dance hall of the soul, poured Hig Grace, destroyed the Passions that bind the senses, and removed all impurities.`,
+    elaborationEnglish: `Thus did Nandi descending from His Sadasiva state enter the dance hall of the soul, poured His Grace, destroyed the Passions that bind the senses, and removed all impurities.`,
     elaborationTamil: `உயிர்களைக் கட்டிவைத்திருக்கும் ஐந்துவித மலங்களான 1. ஆணவம் – செருக்கு, மமதை. 2. கன்மம் – வினைப்பயன். 3. மாயை -பொய்த்தோற்றம் 4. திரோதாயி – மறைத்தல் (ஆன்மாக்களின் கர்மாக்கள் தீர உலக அனுபவங்களைக் கொடுத்து உண்மையை மறைத்தல் செய்யும் சிவபெருமானின் ஐவகை ஆற்றலுள் ஒன்று) 5. மாயேயம் (அசுத்தமாயை) ஆகியவற்றை நீரினில் கழுவி அழுக்குகளை அகற்றுவதுபோல தனது அருளால் கழுவி அகற்றி உடம்பில் சிவ சதாக்கியம், அமூர்த்தி சதாக்கியம், மூர்த்தி சதாக்கியம், கருத்துரு சதாக்கியம், கன்மத்துரு சதாக்கியம் ஆகிய 5 லிங்கங்களாக சதாசிவமூர்த்தியாகவே வீற்றிருந்து உயிர்களின் ஐந்துவித புலன்களையும் (பார்த்தல், கேட்டல், நுகர்தல், சுவைத்தல், தொடுதல்) நீக்கிப் பேரறிவு அளிக்கும் குருநாதராக இருப்பதும் உயிர்களின் உலகியல் சார்ந்த பந்த பாசங்களை அறுத்து அவற்றினுள் தன் பேரொளியைப் பரவியருளி பேரறிவு ஞானத்தை கொடுப்பதும் எம்பெருமான் சதாசிவமூர்த்தியின் அருட்பெரும் கருணையே.`,
   },
   {
@@ -380,7 +372,7 @@ Inside the ruby like the emerald inset,
 He dances the Holy Dance in the Sabha of purest gold
 What oh the reward, to those who Him adored!`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-131-First-Tantra-1.-Preaching.mp3',
-    elaborationEnglish: `As luminous emerald green within the ruby red, as storied terrace within the ruby red, He dances in the purest Hall of Gold. What did they. get — those who witnessed that Dance? Infinite rapture. ~`,
+    elaborationEnglish: `As luminous emerald green within the ruby red, as storied terrace within the ruby red, He dances in the purest Hall of Gold. What did they get — those who witnessed that Dance? Infinite rapture.`,
     elaborationTamil: `பாடல் #130ல் உள்ளபடி பேரொளியாய் இருக்கும் மாணிக்கத்தின் (சிவன் – செந்நிறம்) உள்ளிருந்து மரகதஜோதியாய் (சக்தி – பச்சை) சக்தியே சிவனுக்கு திருமேனியாக இருவரும் இணைந்து தில்லையின் பொன்னம்பலத்தில் ஆடும் திருநடனத்தைத் தம்முள் தரிசித்த சிவயோகியர் என்ன பேறு பெற்றார்களோ என்று வார்த்தைகளில் சொல்ல முடியாத அளவு பெரிய பேறு பெற்றார்கள்.`,
   },
   {
@@ -531,7 +523,7 @@ It is but to hear the Guru's Holy Word,
 It is but to muse the Guru's Holy Being
 --Thus it is the soul its illume receives.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-139-First-Tantra-1.-Preaching.mp3',
-    elaborationEnglish: `The Lord’s Holy Feet are Sivam; the Lord’s Holy Feet are Siva’s world; the Holy Feet are life’s goal; the Holy Feet are the sure refuge.`,
+    elaborationEnglish: `Seek the Darsana of the holy Guru; chant the name of the holy Guru; listen to the teachings of the holy Guru; and meditate on the form of the holy Guru.`,
     elaborationTamil: `குருவின் திருமேனியைத் தரிசித்து அவரது உருவத்தைத் தமது உருவமாகவே எண்ணி தியானிப்பதும் குருவின் திருநாமத்தை மந்திரமாக சொல்லிக்கொண்டே தியானிப்பதும் குருவின் திருவார்த்தைகளைத் தமக்குள்ளே கேட்டு உணர்வதும் எப்போதும் குருவின் திரு உருவத்தைத் தம் மனதிற்குள் சிந்தித்து தியானிப்பதும் ஆகிய இந்த செய்கைகள் அனைத்தும் மும்மலங்களும் நீங்கித் தாம் யார் இறைவன் யார் என்பதைத் தமக்குள் உணர்ந்து தெளிகின்ற பேரறிவு ஞானத்தைக் கொடுக்கும்.`,
   },
   {
@@ -608,7 +600,7 @@ Firm-set, until Fate its grim summons gave;
 Then the rains poured and back to clay the vessel turned;
 Thus countless hordes perish and pass to the grave.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-143-First-Tantra-2.-Impermanence-of-Body.mp3',
-    elaborationEnglish: `aloud, no longer call him by his name, but as a corpse carry him to the. burning ground and having burnt the body, wash their own bodies and think no more of it.`,
+    elaborationEnglish: `This body of mortal clay is driven by twain Karmas, good and bad. When the rains pour incessantly the mud pot turns to mud again. So, too, death brings destruction; and when the body-roof in time caves in, neither wife nor children accompany it. Only the austerities and knowledge the man acquired go with him. They gather—the kith and kin—wail aloud, no longer call him by his name, but as a corpse carry him to the burning ground and having burnt the body, wash their own bodies and think no more of it.`,
     elaborationTamil: `உயிர்களின் உடல் குயவன் செய்யும் மண் பாத்திரம் போன்றது. குயவன் பல பாத்திரங்கள் செய்தாலும் அவன் பயன்படுத்தும் மண் எதுவென்று பார்த்தால் அது களிமண் ஒன்றுதான். அதுபோலவே உயிர்களின் உடல் பலவகைப் பட்டதானாலும் ஆன்மா ஒன்றுதான். குயவன் செய்யும் மண் பாத்திரங்கள் ஒரே மண்ணில் செய்யப்பட்டாலும் இரண்டு வகையாக இருக்கின்றன. ஒன்று தீயினால் சுட்டப்பட்டு திண்ணென்று இருக்கும் பாத்திரம். இரண்டாவது தீயினால் சுடப்படாமல் பச்சை மண்ணாக இருக்கும் பாத்திரம். உயிர்களும் இருவகை உடல்களைத் தாங்கியே உலகிற்கு வருகின்றன. உயிர்களின் உடலோடு அவை செய்த தீவினைகளும் சேர்ந்தே இருக்கின்றன. எப்படி வானிலிருந்து மழை பெய்தால் சுடப்படாத பச்சை மண்ணாலான பாத்திரங்கள் கரைந்து மறுபடியும் களிமண்ணாகவே மாறிவிடுமோ அதுபோலவே உயிர்கள் இறைவனின் மேல் நாட்டமில்லாமல் தங்களின் தீவினைகளிலேயே கட்டுண்டு பச்சை மண்ணாகவே இருந்து ஒரு நாள் அழிந்து போகின்றன. இப்படி உலக வாழ்க்கை வாழ்ந்து இறந்து போகும் மனிதர்கள் எண்ணிலடங்காதவர்கள். எனவே நிலையில்லாத உடலின் மேல் நாட்டம் வைக்காமல் என்றும் நிலையான இறைவனின் மேல் நாட்டம் வைக்க வேண்டும்.`,
   },
   {
@@ -1606,7 +1598,7 @@ And there, alone, it sucks the fragrant juice;
 Even so, they who seek the blessed grace divine,
 Aspire for the Light beyond visible reach of eyes.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-194-First-Tantra-5.-Impermanence-of-Life.mp3',
-    elaborationEnglish: `The bee flies high and drinks the nectar invisible. Ascend high in spirit and vision the light. It is invisible to the naked`,
+    elaborationEnglish: `The bee flies high and drinks the nectar invisible. Ascend high in spirit and vision the light. It is invisible to the naked eye.`,
     elaborationTamil: `இனிமையான தேனைச் சுவைக்க ஆசைகொண்ட வண்டுகள் அந்த இனிமையான தேனைத் தன் மகரந்தத்திற்குள் வைத்திருக்கும் தேன் இன மலர்களை அவற்றின் வாசனையின் மூலம் கண்டு பிடித்து அவற்றின் மேல் போய் உட்கார்ந்து அதன் மகரந்தத்திற்கு உள்ளிருக்கும் தேனை உறிஞ்சிக் குடித்து இன்பம் அடையும். அதுபோலவே உடலுக்குள் உயிராக நிற்கும் இறைவனை அறிய விரும்பாமல் உலகத்து ஆசைகளை அனுபவிக்க ஆசைப்படும் உயிர்கள் அந்த ஆசைகளை அனுபவிக்கும் வழிகளைத் தேடிச் சென்று வினைக் காரியங்களை செய்து அனுபவித்து சிற்றின்பம் அடையும். பகலில் காட்சிகளைக் காட்டும் சூரிய ஒளியாகவும் இரவில் காட்சிகளைக் காட்டும் சந்திர ஒளியாகவும் பகலிலும் இரவிலும் காட்சிகளைக் காணும் கண்ணின் ஒளியாகவும் இருக்கின்ற இறைவன், உலக இன்பத்தில் திளைத்திருக்க விரும்பும் உயிர்கள் காணும் காட்சியில் இருப்பானே தவிர அவர்களின் உணர்வுகளில் இருக்க மாட்டான்.`,
   },
   {
@@ -1644,7 +1636,7 @@ Covet not other's riches with lustful greedy glances;
 With heart to pity attuned, as you sit down to eat,
 Share with others before the feast commences.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-196-First-Tantra-5.-Impermanence-of-Life.mp3',
-    elaborationEnglish: `Speak not in envy; stray not from the dharmic path; covet Speak not in envy; stray not from the dharmic path; covet not other’s possessions; share your goodly things with others. Let compassion fill your heart.`,
+    elaborationEnglish: `Speak not in envy; stray not from the dharmic path; covet not other's possessions; share your goodly things with others. Let compassion fill your heart.`,
     elaborationTamil: `பொய்யும் புரட்டும் பேசி அறவழிகளை அழிக்காதீர்கள். பொறாமையும் கோபமும் கொண்டு பிறரின் பொருட்களைப் பிடுங்கிக் கொள்ளாமல் இருங்கள். எண்ணமும் செயலும் சிறப்புடையவராக மாறி வாழ்வு சிறந்திருக்கும் போது உணவு உண்ணும்போது யாராவது வந்து பசிக்கிறது என்றால் ஒரு கைப்பிடி அளவாவது உணவை அவருக்கு அளித்தபின் உண்ணுங்கள். இப்படியெல்லாம் வாழ்ந்தால் உடல் அழிந்து உயிர் பிரிந்தாலும் இறைவனை அடைந்து பேரின்பம் அடையலாம்.`,
   },
   {
@@ -2116,7 +2108,7 @@ The Lord whose eyes are the Three Fires,
 Who the Seven Worlds transcends,
 The Lord of Homa's Cool Flame, and my heart's King besides.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-221-First-Tantra-11.-Act-of-Yagna.mp3',
-    elaborationEnglish: `The: Lord is Pure Flame. He resides as the pure flame in our hearts. His eyes are of the three flames—the sun, moon, and fire. He is the transcendental Lord of the seven worlds. He is the Master of Holy Sacrifices.`,
+    elaborationEnglish: `The Lord is Pure Flame. He resides as the pure flame in our hearts. His eyes are of the three flames—the sun, moon, and fire. He is the transcendental Lord of the seven worlds. He is the Master of Holy Sacrifices.`,
     elaborationTamil: `ஈடு இணையில்லாத அழகு பொருந்திய ஜோதியாக இருப்பவனும் அழிவு என்ற ஒன்று இல்லாத தலைவனும் எமது ஆன்மாவோடு இணைந்து எமது உள்ளத்துள் இருக்கின்றவனும் நெற்றிக் கண்ணில் நெருப்பாக இருப்பவனும் ஏழு உலகங்களையும் கடந்து எங்கும் வியாபித்து இருப்பவனும் குளிர்ந்த ஒளியைத் தரும் நிலவைத் தன் தலைமுடியில் சூடியிருப்பவனும் முறையாகச் செய்யப்படும் ஹோமத்திற்கெல்லாம் தலைவன் எம்பெருமான் சதாசிவமூர்த்தியே ஆவான்.`,
   },
   {
@@ -2390,7 +2382,7 @@ Then, up the path to the Light of Nadanta they scale;
 When thus they reach the Lord of Bodanta Light,
 Salvation they attain--the Nadanta-Siddhanta Grand Finale.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-235-First-Tantra-12.-Discipline-of-Brahmin.mp3',
-    elaborationEnglish: `When thus they reach the Lord of Bodhanta Light, Salvation they attain—and Siddhis come to them.`,
+    elaborationEnglish: ``,
     elaborationTamil: `வேதங்களையும் அதன் பொருளாகிய வேதாந்தங்களையும் குருவின் மூலம் கற்று ஞானம் பெறும் வழியைத் தமது கர்மவிதியின் காரணமாக பெற இயலாதவர்கள் ஓம் என்னும் நாதத்தின் முடிவாகிய ஞானத்தை வழங்கும் குருவின் போதனைகளை அவரைச் சரணடைந்து கற்று உணர்ந்து அதன்படி நடந்தால் அதுவே அவர்களுக்கு இறைவனின் திருவடியில் சென்று சேரும் அருளை வழங்கி ஓம் என்னும் நாதத்தின் முடிவான முக்தியையும் ஞானத்தின் முடிவான சித்தியையும் அவர்களுக்கு வழங்கிவிடும். கருத்து: தமது கர்ம விதியால் வேதங்களையும் வேதாந்தங்களையும் கற்றுணர்ந்து அவற்றின் மூலம் இறைவனை அடையும் வழியைப் பெற வாய்ப்பு இல்லாதவர்கள் குருவின் திருவடிகளைச் சரணடைந்து அவர் காட்டிய வழியில் நடந்தாலே அது அவரை இறைவனிடம் கொண்டு சேர்த்து அவருக்கு வேண்டிய ஞானத்தையும் முக்தியையும் வழங்கிவிடும்.`,
   },
   {
@@ -2882,7 +2874,7 @@ The allotted span of life daily dwindles away;
 This irksome body, as if squeezed by some power unknown,
 Perishes: seeing this yet, they learn not charity's way.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-261-First-Tantra-17.-Manner-of-Immoral-People.mp3',
-    elaborationEnglish: ``,
+    elaborationEnglish: `Even when they are aware that they are daily nearing the grave's edge, men do not think of giving charity; nor of walking in the path of God.`,
     elaborationTamil: `காலங்கள் ஓடிக்கொண்டேதான் இருக்கின்றன. ஓடிய காலங்கள் பல யுகங்களாக மாறி ஊழிக்காலத்தில் அழிந்தும் போகின்றது. உயிர்கள் தம் கற்பனையில் கட்டிய மனக்கோட்டைகளும் அவை வாழும் நாட்களும் குறைந்துகொண்டே சென்று கடைசியில் பெரிய துயரத்தையே தரும் உடலானது சக்கையாகப் பிழிந்து எடுக்கப்பட்டது போல வயதாகிச் சுருங்கிப் போய் ஒரு நாள் முழுவதுமாக அழிந்தும் போகின்றது. இதையெல்லாம் கண்கூடாக தினமும் பார்தாலும் தங்கள் வாழ்க்கையும் அழிந்து போய்விடும் என்பதை அறியாமல் வாழும் நாட்களில் செய்ய வேண்டிய தான தருமங்களை அறியாமலேயே பல உயிர்கள் வீணாக வாழ்ந்து அழிந்து போகின்றன.`,
   },
   {
@@ -3846,7 +3838,11 @@ Absent is He and His Light from the hearts of the unlearned.`,
 kallēṉ araneṟi aṟiyāt takaimaiyiṉ
 vallēṉ vaḻaṅkum poruḷē maṉattiṉuḷ
 kallēṉ kaḻiyaniṉṟu āṭaval lēṉē`,
-    english: ``,
+    english: `313: Unlearned Descend to Hell
+Of all power bereft, I fell into Karma's griefs,
+Learning not Hara's ways, into dark abysmal depths I fell;
+I learnt not to stamp the Great Benefactor in my heart,
+I learnt only to dance down the primrose path to hell.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-313-First-Tantra-22.-Illiteracy.mp3',
     elaborationTamil: `சிவநெறியைக் கல்லாமல் இறைவுணர்வை அறிய ஆற்றல் இல்லாத உயிர்கள் மாயையில் மயங்கி வினைப் பயனால் கிடக்கும் துன்பங்களை மேலும் மேலும் உருவாக்கி அனுபவித்துக் கொண்டே இருக்கின்றார்கள். உலகத்தில் இருக்கும் அனைத்து பொருள்களையும் கொடுத்து அப்பொருளாகவே இருக்கும் இறைவன் தனக்குள்ளும் இருக்கின்றான் என்று தெரியாமல் நாட்களை வீணாகக் கழித்துக்கொண்டு உலக இன்பங்களிலேயே இருந்து ஆடிக்கொண்டிருக்கின்றார்கள்.`,
   },
@@ -4140,7 +4136,7 @@ Who yield to the heady joys of drink - they neither seek nor see
 Mamaya's home, for the maya's fetters are they bound;
 But recovered from maya's hold, they merge in the lord and are free.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-329-First-Tantra-24.-Aversion-of-Alcohol.mp3',
-    elaborationEnglish: `Maya in Maya in Saivism is of two kinds, namely (i) the pure Mamaya, impure Maya. The pure Mamaya is creative and corresponds to icchasakti of Sanskritic culture. ‘’The impure ,Maya includes within itself all the effects, such as time and the impure souls’’ (S.N. Das Gupta, ‘”’History of Indian Philosophy, pp.90 and 91).`,
+    elaborationEnglish: `Maya in Saivism is of two kinds, namely (i) the pure Mamaya, impure Maya. The pure Mamaya is creative and corresponds to icchasakti of Sanskritic culture. ‘’The impure ,Maya includes within itself all the effects, such as time and the impure souls’’ (S.N. Das Gupta, ‘”’History of Indian Philosophy, pp.90 and 91).`,
     elaborationTamil: `மனதை மயக்கும் மதுவை சமயத்தின் பெயரால் அருந்தி சமயத்தை அழுக்காக்கின்றனர் மூடர்கள். மயக்கம் தரும் மதுவை அருந்தும் மூடர்கள் சமயத்தை ஆராய்ந்து அறியும் திறன் இல்லாதவர்களாக மாபெரும் மூடர்களாகின்றனர். உலகப்பற்று என்னும் பெரும் மயக்கத்திலுருந்து விடுபட்டு இறைவனை அடைய வேண்டும் என்ற தெளிவு இருப்பவர்கள் கூட சமயவழியில் சென்று மது அருந்தி வழிபட்டால் உலக மயக்கம் தெளிந்து இறைவனை அடையலாம் என்று எண்ணி மது அருந்துபவர்களை மது அன்றே மயக்கமடையச்செய்யும். குறிப்பு : மது கஞ்சா போன்ற போதை தரும் பொருட்களை இறைவனை அடைய வேண்டும் என்று எண்ணி சமயத்தின் பெயரால் அருந்தினாலும் அந்த போதை மயக்கம் மேலும் அவர்களை மூடர்களாக்கி மயக்கத்திலேயே வைத்திருக்கும்.`,
   },
   {

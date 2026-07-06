@@ -186,7 +186,7 @@ The Heaven's beings performed a sacrifice unholy
 And all those who from that fire arose
 The Lord smote for the very fire to consume.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-344-Second-Tantra-2.-Eight-Prowesses-of-Lord-Shiva.mp3',
-    elaborationEnglish: `a Gajasura was an elephant~monster that arose out of the sacrificial fire which the celestials had performed to challenge Siva's supremacy. Siva peeled the elephant’s skin and donned it as a vestment; and the’ celestials of evil intent were immolated in the very sacrificial fire they lit. This happened at Tiruvazhulur.`,
+    elaborationEnglish: `Gajasura was an elephant~monster that arose out of the sacrificial fire which the celestials had performed to challenge Siva's supremacy. Siva peeled the elephant’s skin and donned it as a vestment; and the’ celestials of evil intent were immolated in the very sacrificial fire they lit. This happened at Tiruvazhulur.`,
     elaborationTamil: `தாருகா வனத்திலிருந்த முனிவர்கள் இறைவனை வணங்காமல் இறைவனின் அருளை விட தங்களின் மந்திர சக்தியே பெரிது தாம் கற்ற மந்திரங்களின் மூலமாக எதையும் அடையலாம் என்ற அகங்காரத்தில் இருந்தனர். இவர்களின் அறியாமையைப் போக்க இறைவன் அழகிய உருவம் கொண்ட பிக்‌ஷாடனராகத் தோன்றி அந்த முனிவர்களின் வீட்டுக்குச் சென்று அங்கு இருந்த முனி பத்தினிகளின் முன்னால் பிச்சை கேட்டு நின்றார். அவரின் அழகில் மயங்கிய முனி பத்தினிகள் அவர் பின்னாலேயே மயக்கத்தில் கூடி வர ஆரம்பித்தனர். தங்களது பத்தினிகள் இப்படி ஒரு ஆடவனின் பின்னால் மயங்கி வருவதைக் கண்டு கோபமுற்ற முனிவர்கள் தமது தவ வலிமையால் மூன்றுவிதமான தீயை வளர்த்து மந்திரங்கள் மூலமாக (ஆகவனீயம் – காட்டுத்தீ, காருகபத்தியம் – வீட்டுத்தீ, தட்சிணாக்கினியம் – ஏட்டுத்தீ) கரிய நிறமுடைய ஒரு பெரிய யானையைத் தோன்றுவித்தனர். யாகத் தீயில் தோன்றிய யானை அவரை அழித்துவிடும் என்று நினைத்தார்கள். ஆனால் அந்தத் தீயிலிருந்து வெளிவந்த யானையைக் காடே அதிரும்படி பிளந்து கொன்று அதன் தோலை தனக்குப் போர்வையாக போர்த்திக்கொண்டு மூன்று வகையாக நெருப்பும் அதில் சொல்லும் மந்திரங்களும் மந்திரத்தின் பலனாக அதிலிருந்து வரும் பலனும் அனைத்தும் யாமே என்று தாருகா வனத்திலிருந்த முனிவர்களுக்கு உணர்த்தினார். இந்த புராணநிகழ்வு நடந்த இடம் திருவழுவூர் தலமாகும். உள்விளக்கம்: உயிர்களுக்கு வரும் கோபத்தினால் நான் என்ற அகங்காரம் அதிகரித்து என்ன செய்கின்றோம் என்ன பேசுகின்றோம் என்று தெரியாமல் மதம் பிடித்த யானை போல் இருக்கும் போது உயிர்கள் இறைவனை சரணடைய இறைவன் கோபத்தையும் அகங்காரத்தையும் அழித்து அனைத்தும் யாமே என்று உணர்த்துகிறார்.`,
   },
   {
@@ -672,9 +672,7 @@ Atop the Silver Mountains
 Of the Lord of Celestial Beings
 That created the seven worlds of delight.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-367-Second-Tantra-6.-Benefits-of-Chakra.mp3',
-    elaborationEnglish: `Then the Lord of the Silver Mountain made the discus fly away And it orbited around the seven worlds.
-
-Vishnu worshipped Siva who granted him the powerful discus. But such was the potency of the weapon that it had to be. split by Siva — one half going Vishnu and the other half to Sakti, nonseparate on Siva's side.`,
+    elaborationEnglish: `Vishnu worshipped Siva who granted him the powerful discus. But such was the potency of the weapon that it had to be. split by Siva — one half going Vishnu and the other half to Sakti, nonseparate on Siva's side.`,
     elaborationTamil: `திருக்கயிலாய வெள்ளி மலையின் மீது அமர்ந்திருக்கும் பிறப்பு இறப்பு இல்லாத இறைவன். ஏழு உலகங்களை படைத்து அந்த உலக தொழில்கள் சீராக நடைபெற திருமாலுக்கு கை பெருவிரலினை ஒட்டி அந்தரத்தில் பறப்பது போல் சக்கரம் தந்து அருளினான். இவ்வுலக தொழில்கள் சீராக நடைபெற்றுக்கொண்டிருக்கும் போது அகங்காரத்தினால் ஏதேனும் தடை ஏற்பட்டால் திருமால் தனது சக்கராயுதத்தால் அகங்காரத்தை அழித்து இவ்வுலகைக் காப்பான்.`,
   },
   {
@@ -1154,7 +1152,7 @@ All-pervasive in love;
 He is Vishnu; He is Brahma,
 He is Veda, the Cosmos, the Abiding One.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-391-Second-Tantra-9.-Creation-of-Everything.mp3',
-    elaborationEnglish: ``,
+    elaborationEnglish: `He is the First Cause: He is Vishnu; He is Brahma; He is Veda; He is the cosmos. All, all, are diverse manifestations of the Ever-abiding Compassionate One.`,
     elaborationTamil: `அண்ட சராசரங்கள் அனைத்தும் உருவாகக் காரணமானவனாகிய சதாசிவமூர்த்தி அனைத்திலும் அன்பாகக் கலந்து இருக்கின்றான். அண்ட சராசரங்கள் அனைத்திலும் உடலாக இருக்கும் பொருட்கள் அனைத்தையும் தாங்கிக் காப்பாற்றி நிற்கும் திருமாலாகவும் அவனே இருக்கின்றான். அந்த அண்ட சராசரங்கள் அனைத்திலும் உயிர்களை அன்போடு வேதங்கள் ஓதி உருவாக்கும் நான்கு முகங்களைக் கொண்ட பிரம்மனாகவும் அவனே இருக்கின்றேன். அண்ட சராசரங்கள் அனைத்துமாகவும், அதிலிருக்கும் பொருட்களாகவும் அதில் வாழும் உயிர்களாகவும் இருந்து அன்பினால் கட்டி வைத்திருப்பவன் சதாசிவமூர்த்தியாகிய இறைவனே.`,
   },
   {
@@ -1938,11 +1936,7 @@ He fashioned the body, He pervades everywhere.
 He placed the Mind and cognate tattva group besides,
 He gave us Wisdom ample to discriminate.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-429-Second-Tantra-11.-Destruction.mp3',
-    elaborationEnglish: `Mantras 429 & 430
-
-Mantras 429 & 430
-
-The jiva sprang as a plant out of the void, and into the void, it shall finally retum. Even the gods are not exempt from this law. Death follows birth, as the night follows day: The only escape from death is not to be born again. By uprooting karma alone, can the birth-death be ended. God dissolves the karma; pray to Him.
+    elaborationEnglish: `The jiva sprang as a plant out of the void, and into the void, it shall finally retum. Even the gods are not exempt from this law. Death follows birth, as the night follows day: The only escape from death is not to be born again. By uprooting karma alone, can the birth-death be ended. God dissolves the karma; pray to Him.
 
 Rudra is the god to whom the work of destruction is entrusted, but the real power behind Rudra is that of Siva.`,
     elaborationTamil: `இறைவனிடமிருந்து தோன்றிய ஆன்மா தனது ஆசைகளை அனுபவித்துத் தீர்த்துக் கொள்ள செய்யும் செயலினால் சேரும் வினைகளைத் தீர்க்க மாயையை வைத்து அந்த வினைகள் தீர உடலையும் ஆன்மாவிற்கு கொடுத்துப் பிறவி எடுக்க வைக்கின்றான். பிறவி எடுத்த ஆன்மா வினைச் சுழலில் சிக்கி மீண்டும் மீண்டும் பிறவி எடுத்துக் கொண்டே இருக்கக் கூடாது என்கிற கருணையினால் உலகத்திலுள்ள அனைத்திலும் கலந்து இருக்கும் இறைவன் தன்னை அடையும் வழிகள் அறிந்த கலந்து குருவாய் இருக்கும் அடியார்களோடு சேர வைத்து தன்னை எப்போதும் நினைக்கக் கூடிய எண்ணத்தை வைக்கின்றான். இறைவனின் சிந்தனையிலேயே இருப்பதால் மாயை அழிந்து நான் என்கின்ற அகங்காரம் அழிந்து ஆன்மா மீண்டும் தம்மை வந்து அடையும் மெய்யுணர்வு வரச் செய்கிறான் இறைவன்.`,
@@ -2961,7 +2955,13 @@ The Yogi who knows the science of breath control
 If in sex act He indulges,
 He, the vital flow, accordingly regulates.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-479-Second-Tantra-14.-Act-of-Conception.mp3',
-    elaborationEnglish: `If afier ejaculation, man inhales spontaneously five times, the infant to be born will live upto 100 years; eighty, if he inhales four times and so on. Only yogis who have mastered the science of breath can control and regulate the discharge at will.`,
+    elaborationEnglish: `Breath Control Makes Body Light as Carpenter-Bee
+
+If you control the breath within,
+Young and crystal-hard it turns
+And with the goodly Guru's benign Grace, Well may you become lighter than air.
+
+If after ejaculation, man inhales spontaneously five times, the infant to be born will live upto 100 years; eighty, if he inhales four times and so on. Only yogis who have mastered the science of breath can control and regulate the discharge at will.`,
     elaborationTamil: `ஆண் பெண் இன்பத்தின் முடிவில் ஆணிடமிருந்து சுக்கிலம் வெளிவந்து பெண்ணின் யோனியில் பாய்ந்த பிறகு ஆண் விடும் மூச்சுக்காற்றின் அளவு ஐந்து வினாடிகள் அளவிற்கு வெளிவந்தால் பிறக்கும் குழந்தை நூறு ஆண்டுகள் ஆயுளோடு பிறக்கும். ஆண் விடும் மூச்சுக்காற்றின் அளவு நான்கு வினாடிகள் அளவிற்கு வெளிவந்தால் பிறக்கும் குழந்தை எண்பது ஆண்டுகள் ஆயுளோடு பிறக்கும். எந்த அளவு மூச்சுக்காற்று வெளிவருகின்றது என்பதை பிரித்துப் பார்த்து அறிந்து கொண்டு தமக்கு வேண்டிய அளவிற்கு வெளிவரும் படி செய்வது யோக சாதனைகளைப் புரிந்து சாதனைகள் கைவரப்பெற்ற யோகியர்களுக்கே முடியும் என்பதால் அவர்களுக்கு ஆயுள் அளவு கிடையாது. குறிப்பு :மூச்சுக்காற்றைத் தம் வசம் பழக்கி அளவு அறிந்து இழுத்து அளவு அறிந்து வெளிவிடும் ஆற்றலைப் பெற்றவர்கள் யோகியர்கள். அவர்களால் தாம் வெளிவிடும் மூச்சுக்காற்றின் நேர அளவைக் கூட்டி தங்களது ஆயுளை எவ்வளவு வேண்டுமானாலும் நீட்டிக்க முடியும்.`,
   },
   {

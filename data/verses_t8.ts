@@ -974,7 +974,7 @@ Is Kamya (of self delusion);
 In the Fourth Turiya State
 Within the Waking State
 Is Maya (Pure). 1`,
-    elaborationEnglish: `This Peioncs to the sakala or the living state. of the jiva on earth. In the-four states of consciousness that jiva experiences — jagrat, svapna, sushupti, and turiya — maya manifests herself as tirodhayi (obscuring sakti) mamaya (impure maya sakti that gives differentiated knowledge), kamya (sakti that gives self-delusion), and finally pure maya (sakti that lends grace) in this avasta. Lorew supa Doran auss gihusgs somrport ap gicroxfl`,
+    elaborationEnglish: `This pertains to the sakala or the living state of the jiva on earth. In the four states of consciousness that jiva experiences — jagrat, svapna, sushupti, and turiya — maya manifests herself as tirodhayi (obscuring sakti), mamaya (impure maya sakti that gives differentiated knowledge), kamya (sakti that gives self-delusion), and finally pure maya (sakti that lends grace) in this avasta.`,
     elaborationTamil: `மத்தியாலவத்தையாகிய சாக்கிர சாக்கிரத்தில் மட்டுமே திரோதானமலம் செயற்படும். (எனவே இந்நிலையில்தான் அனைத்துக் கருவிகளும் செயற்பட, ஆன்மா உலகினை நன்கு உணர்வதாகும்). சாக்கிர சொப்பனத் தளவிலேதான் - அஃதாவது, சாக்கிர சாக்கிரம், சொப்பனம் என்னும் இரண்டில் மட்டுமே ஆன்ம தத்துவம் செயற்படும். (அவற்றுள் சாக்கிரத்தில் மட்டுமே புறக் கருவிகள் செயற்படச் சொப்பனத்தில் அந்தக்கரண நிகழ்ச்சியாகிய சிந்தனை மட்டுமே உளதாகும்) சாக்கிர சுழுத்தியளவில்தான் - அஃதாவது சாக்கிர சாக்கிரம், சாக்கிர சொப்பனம், சாக்கிர சுழுத்தி என்னும் மூன்றளவிலேதான் கன்மங்கள் நிகழும். (எனவே, அந்த மூன்றளவிலேதான் ஆன்மாவிற்குச் சுக துக்கங்கள் விளங்கித் தோன்றும்). சாக்கிர துரியத்தளவில்தான் வித்தியா தத்துவங்கள் செயற்படும். (எனவே, அந்த நான்களவில்தான் ஆன்மாவிற்கு 'யான்' என்னும் தன்னுணர்வு உளதாகும்).`,
   },
   {
@@ -6181,7 +6181,7 @@ In the states of Primal Kevala
 (inertness)
 And living Sakala;
 Then enters the Atita Jagrat plane.`,
-    elaborationEnglish: `The once sundered will not touch jiva again, even as, the poison, once extracted, does not retum to the body. jiva, having sundered pasa through the states of keval and, sakala, enters the atita jagrat plane, which is beyond pasas.- Jiva and pasa are also eternal like the Lord, whom you seek. Nandi grants freedom from the’ eternal bondage of pasa to those who seek Him in the Siddhanta way with love and devotion.`,
+    elaborationEnglish: `The once sundered will not touch jiva again, even as the poison, once extracted, does not return to the body. Jiva, having sundered pasa through the states of kevala and sakala, enters the atita jagrat plane, which is beyond pasas. Jiva and pasa are also eternal like the Lord, whom you seek. Nandi grants freedom from the eternal bondage of pasa to those who seek Him in the Siddhanta way with love and devotion.`,
     elaborationTamil: `ஒருவனுடைய உடலில் பற்றிய விடம், மணி மந்திர ஔடதங்களால் நீங்கிப் போனபின்பு மீண்டும் அஃது அவன் உடலில் ஏற இயைபில்லாததுபோல, மெய்ஞ்ஞானத்தை உணர்ந்தவன், அவ்வுணர்வினால் அவனோடு ஒன்றியிருந்த பாசங்கள் வேறாகி நீங்கிவிட்ட பின்பு, அவன் அப்பாசங்களோடு பொருந்துதற்கு இயைபில்லை. அதனால், அவன் தன்னைத் தடை செய்திருந்த கேவல சகல நிலைகளைப் போக்கி சாக்கிரத்தில் அதீதமாகிய நின்மல துரியாதீதத்தில் அழுந்திச் சீவன் முத்தனாகியே நிற்பான்.`,
   },
   {
@@ -7038,9 +7038,7 @@ And there solitary be;
 Bereft of sentience,
 Ardent enter the (Turiya) atita State;
 Then shall you the very Tat-Para be.`,
-    elaborationEnglish: `1)Nivritti, prathista, vidya, santi, santiatita. They belong to
-
-the: sphere of Siva tattvas — vide Mantra 2377. 2)One in God-union. Shsert Neoreupib Upsregs Sms srepibd UTEP! SOHSDD`,
+    elaborationEnglish: `1) Nivritti, prathista, vidya, santi, santiatita. They belong to the sphere of Siva tattvas — vide Mantra 2377. 2) One in God-union.`,
     elaborationTamil: `சகலத்தில் புருவ நடுவிலே நிகழும் 'கேவல சாக்கிரம், சகல சாக்கிரம்' என்னும் இருவகைச் சாக்கிரத்துள், வித்தியா தத்துவங்களில் கலை முதலிய ஐந்து தத்துவங்களும் செயற்படாது ஒடுங்கிய நிலையில் ஆன்மா உயிர்ப்பும் இன்றித் தனித்துக் கிடக்கும் ஒருநிலையை அடையும் அந்நிலையும் ஒருவகைக் கேவலமே. அந் நிலையில் கருவிகள் இல்லாவிடினும், ஆணவம் உள்ளது. கருவிகள் ஒடுங்கிய நிலையில் இந்தக் கேவல நிலை உண்டாகாமல் நீங்கித் திருவருள் அறிவிக்க அறிதலாகிய அறிவினைப் பெற்று அறிகின்ற சாக்கிரம் முதலியவைகளை அடைந்து, முடிவாக அதீதத்தை எய்தி, அதன்கண் விளங்குகின்ற ஞேயத்தில் அழுந்தும் பொழுதே ஆன்மா, மேற்கூறிய பசு பரமாகிய தற்பரமாய் நிற்கும்.`,
   },
   {
@@ -7428,7 +7426,7 @@ And the four states of Para Turiya
 And the four states of Siva Turiya
 As the end of one Turiya is the beginning state of next
 They really are states Ten.`,
-    elaborationEnglish: `States 4 and 5 merge into one state. Similarly states 8 and 9 merge into one state. Thus they become ten avastas — the turiya of one state being the jagrat of the next.`,
+    elaborationEnglish: `JIVA OR JAGRAT TURIYA: 1. Jagrat 2. Svapna 3. Sushupti 4. Turiya. PARA TURIYA: 5. Jiva turiya jagrat 6. Jiva turiya svapna 7. Jiva turiya sushupti 8. Jiva turiya turiya. SIVA TURIYA: 9. Para Turiya jagrat 10. Para turiya svapna 11. Para turiya sushupti 12. Para turiya turiya. States 4 and 5 merge into one state. Similarly states 8 and 9 merge into one state. Thus they become ten avastas — the turiya of one state being the jagrat of the next.`,
     elaborationTamil: `பெத்த துரியம் அனைத்தையும் 'சீவ துரியம்' என ஒன்றாகவும் முத்தி துரியம் இரண்டையும் ஒன்றாகவும் ஆக்க. அவ்விரண்டிலும் துரியம் முதலாகக் கீழ் நோக்க உளவாம் அவத்தைகள் இருநான்கு; எட்டு. இனி இவ்விரண்டிலும் உள்ள துரியா தீதங்களைக் கூட்ட அவத்தைகள் பத்தாகும். இவைகளில் பெத்தா வத்தை ஐந்தில் ஆன்மாக்கீழ் நிலையதாயும், முத்தியவத்தை ஐந்தில் மேல்நிலையை எய்தியும் இருக்கும்.`,
   },
   {

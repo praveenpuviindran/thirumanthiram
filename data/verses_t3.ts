@@ -645,11 +645,7 @@ Everywhere.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-578-Third-Tantra-6.-Yoga-of-Detachment.mp3',
     elaborationEnglish: `The next step in yoga is pratyahara or withdrawing the mind and looking inward. This should be practised step by step. Many blessings will follow from this practice.
 
-1) Pratyahara is the restraint of, and subjection of the senses of the mind, which is thereby steadied. The mind is withdrawn
-
-from the objects of the senses. Vide Serpent Power’’
-
-by Sir John Woodroffe, p.193. See also, Gaeranda Samhita, fourth Upadesa; Sandilya Upadesa, Chpt.1, etc; the Sarada Tilaka defines pratyahara as “‘the forcible obstruction of the senses wandering over their objects’’; quoted in ‘‘The Serpent Power’ op.cit— Steadiness is the aim and result of pratyahara.`,
+1) Pratyahara is the restraint of, and subjection of the senses of the mind, which is thereby steadied. The mind is withdrawn from the objects of the senses. Vide Serpent Power'' by Sir John Woodroffe, p.193. See also, Gaeranda Samhita, fourth Upadesa; Sandilya Upadesa, Chpt.1, etc; the Sarada Tilaka defines pratyahara as "'the forcible obstruction of the senses wandering over their objects'"; quoted in "'The Serpent Power' op.cit — Steadiness is the aim and result of pratyahara."`,
     elaborationTamil: `வெளியே சென்று ஓடுகின்ற மனதை உள்ளே ஒரு நிலைப்படுத்தி விட்டால் இறைவனுடைய எட்டுவித குணங்களை நமக்குள்ளே உணரலாம். அவ்வாறு உள்ளே மனதை ஒரு நிலைப்படுத்தி வைத்து இருந்தால் ஆதிகாலம் முதல் பழமையான வேதங்களைக் கற்றறிந்தவர்களால் தமக்குள் தேடப்பட்ட இறைவனை அப்பொழுதே நமக்குள் கண்டு உணரலாம். இறைவனின் எட்டுவித குணங்கள்: 1. தன்வயத்தன் ஆதல், 2. தூய உடம்புடைமை, 3. அளவிலா ஆற்றல் உடைமை, 4. பாசங்களில் இருந்து நீங்கியிருப்பது, 5. பேரருள் உடைமை, 6. இயற்கை உணர்வு கொண்டிருத்தல், 7. முக்காலத்தையும் உணர்ந்திருத்தல், 8. அளவிலா ஆனந்தம் உடைமை)`,
   },
   {
@@ -1651,7 +1647,7 @@ For, they possess not
 The unwavering mind
 That soars in Samadhi high.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-625-Third-Tantra-9.-Yoga-of-Liberation.mp3',
-    elaborationEnglish: `ach of ambrosia. But they did not think of the ambrosia » within. Only the yogi in samadhi finds it. In thi, with breath halted, the yogi becomes one with God.`,
+    elaborationEnglish: `The celestials churned the ocean with the dark mountain in search of ambrosia. But they did not think of the ambrosia within. Only the yogi in samadhi finds it. In this, with breath halted, the yogi becomes one with God.`,
     elaborationTamil: `உயிர்களுக்கு தியானத்தின் மூலம் உண்மை நிலையை அறிந்து கொள்ளும் வாய்ப்பு திருவருளால் பரிசாக உள்ளது. இது தேவர்களுக்கும் கிடைக்காதது. குண்டலினியினை சிரசில் ஏற்றி தியானித்திருந்தால் உச்சியில் அமுதம் ஊறும். அவ்வமுதினை உண்போர்க்கு முடிவில்லாத ஆசை கொண்ட மனம் அடங்கப்பெற்று சமாதி நிலை வாய்க்கும். இந்த முறை அறியாத தேவர்கள் திருப்பாற்கடலைக் கடைந்து அமுது உண்டார்கள். தேவர்கள் பாற்கடல் கடைந்து எடுத்த அமுதை விட நாம் தியானம் செய்து உச்சியில் ஊறச்செய்யும் அமுதம் உயர்வானது.`,
   },
   {
@@ -4887,7 +4883,7 @@ If for three days this is maintained glowing
 Then may you be certain
 The ascension through Centers Six come soon.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-778-Third-Tantra-14.-Cycle-of-Time.mp3',
-    elaborationEnglish: `If he practises thus for two days continuously, the downward streaming apana vayu will not trouble him. On the third day it shall begin the ascension through the six adharas. AMES giycd`,
+    elaborationEnglish: `If he practises thus for two days continuously, the downward streaming apana vayu will not trouble him. On the third day it shall begin the ascension through the six adharas.`,
     elaborationTamil: `: மூச்சுக்காற்று ஒரு நாடியின் வழியாகவே இருநாட்கள் சென்றால் கன்மேந்திரியத்ததின் வழியாக கீழே செல்லும் அபானன் என்னும் பகைக்காற்று தடைபட்டு மூச்சுக் காற்றுடன் மூன்று நாட்கள் இணைந்தது நிலை பெற்று இருந்தால் ஆயுள் வளர்ச்சி அடையும்.`,
   },
   
