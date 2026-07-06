@@ -2148,7 +2148,7 @@ The eye sees things several
 Yet itself it sees not;
 Thus it is, we see not the God in us.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-440-Second-Tantra-12.-Illusion-of-the-Soul.mp3',
-    elaborationEnglish: `The eye sees several things; yet, does it sec itself? Similarly is the Lard’s concealment in us.`,
+    elaborationEnglish: `The eye sees several things; yet, does it see itself? Similarly is the Lord's concealment in us. This concealment which is so mysterious is one of the Five acts of God. It has a purpose, and that is to lead the jiva to seeking. It is by seeking God, that God can be seen. In the black chamber of the soul there is darkness. That darkness can be dispelled only by letting in light. Seek and you shall see the light. Knock and the door shall be opened. Adore, and He shall reveal Himself—Tirumular sings. Mahesvara is the god empowered with this function, but his is only a delegated power. Siva is the Final Source.`,
     elaborationTamil: `உயிர்களுக்கு நல்ல முறையில் பயன்படும் பல்வேறு விதமான பாத்திரங்களை குயவன் செய்தாலும் அனைத்தையும் ஒரே விதமான களிமண்ணில் இருந்து தான் செய்கின்றான். அதுபோலவே உலகத்தில் பல்வேறு உருவங்களில் பல பிறவிகள் எடுத்தாலும் அனைத்து பிறவிகளிலும் ஆத்மாவாக இறைவன் ஒருவனே இருக்கின்றான். உயிர்களின் கண்கள் இரண்டாக இருந்தாலும் அவை ஒரேவிதமான காட்சிகளைக் கண்டாலும் தமது உருவத்தை அவற்றால் காண முடியாது. அதுபோலத்தான் இறைவனும் ஒவ்வொரு உயிரின் உள்ளத்துக்குள் இருந்து உயிர்களுக்கு அனைத்தையும் உணர வைத்தாலும் தம்மையே உணர முடியாதவனாக இருக்கின்றான். உட்கருத்து: அனைத்தையும் தமது கண்களால் பார்க்கும் உயிர்கள் தமது கண்களின் பிம்பத்தை கண்ணாடியில் காண முடியுமே தவிர தமது கண்களால் தமது கண்களையே காண முடியாது. அதுபோலவே மாயையால் மறைந்திருக்கும் இறைவன் உள்ளத்துக்குள்ளேயே இருந்து அனைத்தையும் உணர்த்தினாலும் அவனை மட்டும் உணர முடியாமல் இருக்கும்படி உயிர்களை மாயையால் மறைத்து வைத்திருக்கின்றான்.`,
   },
   {
@@ -2477,6 +2477,7 @@ As unto when flower blossoms, the breeze spreads fragrance,
 In spaces all around
 So does Prana over Jiva extend,
 Gently unfolding at the time destined.`,
+    elaborationEnglish: `So does Prana over Jiva extend, gently unfolding at the time destined. As He blows in the prana breath, it extends over the jiva as the fragrance of a flower through the surrounding air, to be unfolded gently at the destined hour.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-456-Second-Tantra-14.-Act-of-Conception.mp3',
     elaborationTamil: `பூக்களின் மகரந்தத்தில் கலந்த காற்று உலகத்தில் பூவின் நறுமணத்தை பரப்பி காற்றிலேயே தங்க வைத்து அந்தக் காற்றை மற்ற உயிர்கள் சுவாசிக்கும் போது பூவின் நறுமணத்தை நுகரச் செய்வது போல தாயின் கருப்பைக்குள் இருக்கும் கருவிற்குள் புகுந்து இருக்கும் உயிரில் கலந்து இருக்கும் தனஞ்சயன் என்கிற காற்று அது குறிப்பிட்ட காலத்தில் குழந்தையாகப் பிறந்து முதன் முதலில் கூவி அழும் போது வெளிவந்து குழந்தையை முதன்முதலில் சுவாசிக்கச் செய்கிறது. அறிவியல் விளக்கம்: கருப்பைக்குள் இருக்கும் சிசு சுவாசிப்பது இல்லை. அதற்கு நுரையீரல்கள் உருவானாலும் அந்த நுரையீரல்களுக்குள் அமிலம் கலந்த நீரே நிரம்பியிருக்கும். கரு வளர்வதற்குத் தேவையான காற்றுக்களையும் சத்துக்களையும் தாயின் தொப்புள் கொடியின் மூலம்தான் எடுத்துக் கொள்கிறது. தொப்புள் கொடியில் இரண்டு நரம்புகள் இருக்கின்றது. அதில் முதலாவது நரம்பின் வழியே வரும் இரத்தத்தில் தாயின் மூச்சுக் காற்றும் தாய் சாப்பிட்ட உணவிலிருந்த சத்துக்களும் குழந்தைக்கு கிடைக்கின்றன. குழந்தை வெளிவிடும் நச்சுக் காற்றும் மற்ற கழிவுகளும் அமில நீரோடு சேர்ந்து இரண்டாவது நரம்பின் வழியே தாயிடம் வந்து தாயின் உடல் கழிவுகளோடும் மூச்சோடும் கலந்து வெளியேறுகின்றது. ஆகவே குழந்தையின் உடலில் காற்று இருந்தாலும் அது பிறந்த பிறகு வாய்விட்டு கூவி அழும்போதுதான் மூச்சுக்காற்றை முதன் முதலில் சுவாசிக்கின்றது. இதற்குக் காரணமாக இருப்பது தனஞ்சயன் எனும் காற்றாகும்.`,
   },
@@ -2713,7 +2714,7 @@ Subtle senses five;
 And other Tattvas thirty;
 And thus fashioned a body;
 A steaming cauldron with openings nine.`,
-    elaborationEnglish: `Here, Mular says the Tattvas are 35, whereas in Saivism (and Buddhism) they are 36, and. in Sankhya only 25 (or 26).`,
+    elaborationEnglish: `Here, Mular says the Tattvas are 35, whereas in Saivism (and Buddhism) they are 36, and in Sankhya only 25 (or 26).`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-467-Second-Tantra-14.-Act-of-Conception.mp3',
     elaborationTamil: `பெண்ணின் உடல் என்ற இயந்திரத்தினுள் ஆணின் உடல் என்ற இயந்திரத்தை இயக்கி பெண்ணின் கர்ப்பப்பை என்னும் இயந்திரத்தினுள் கருவை உருவாக வைத்த இறைவன் அந்த கருவை ஐந்து பூதங்களால் ஆட்டி வைத்து ஆன்மாவையும் முப்பது தத்துவங்களையும் சேர்த்து உடல் என்ற இயந்திரத்தைக் கொடுத்து குழந்தையாக்கி அதைப் பித்த நீரினுள் பத்து மாதங்கள் மூழ்கி இருக்கச் செய்து மூச்சுக்காற்றினால் உணவைச் சுட்டு எரிக்கும் வயிறாகிய இயந்திரத்துடன் ஒன்பது துவாரங்களைக் கொண்ட உடம்பில் ஆன்மாவையும் உயிரையும் ஒன்றாகச் சேர்த்து வைத்து அருளுகின்றான் இறைவன். ஒன்பது துவாரங்கள்: கண்கள் 2, காதுகள் 2, மூக்குத்துவாரம் 2, வாய், பிறவிக்குறி, ஆசனவாய். முப்பத்தாறு தத்துவங்கள்: 5 சிவ தத்துவங்கள்: நாதம் – தூய அறிவாலான பரம்பொருளின் முழுமையான நிலை, விந்து – இயங்கிக் கொண்டிருக்கும் கிரியா சக்தி, சாதாக்கியம் – சதாசிவன், ஈசுரம் – மறைத்தல் சக்தியான மகேசுரன், சுத்த வித்தை – படைத்தல், காத்தல், அழித்தல் எனும் முத்தொழிலுக்கு அடிப்படையான இறைதத்துவம். 7 வித்தியா தத்துவங்கள்: காலம், நியதி, கலை, வித்தை, இராகம், மாயம், புருடன் (ஆன்மா) 24 ஆன்ம தத்துவங்கள்: 5 பூதங்கள் – நிலம் (உடல்), நீர் (இரத்தம் மற்று பித்த நீர்கள்), நெருப்பு (உணவைச் செரிக்கும் நெருப்பு மற்றும் உடல் சூடு), காற்று (மூச்சுக் காற்று மற்றும் பத்துவிதமான வாயுக்கள்), ஆகாயம் (உயிர் மற்றும் ஆன்மா). 5 புலன்கள் – கண்களால் பார்த்தல், காதுகளால் கேட்டல், வாயால் சுவைத்தல், மூக்கால் நுகருதல், தோலால் தொடுதல். 5 ஞானேந்திரியங்கள் – ஓசை (கேட்பது), ஊறு (தொடுவது), ஒளி (பார்ப்பது), சுவை (உண்பது), நாற்றம் (முகர்வது). 5 கன்மேந்திரியங்கள்: வாய் (பேச்சு), கைகள் (செயல்), கால்கள் (போக்குவரவு), எருவாய் (கழிவு நீக்கம்), கருவாய் (இன்பமும் பிறப்பும்). 4 அந்தக்கரணங்கள் – மனம் (எண்ணங்கள்), புத்தி (அறிவு), சித்தம் (சிந்தனை), அகங்காரம் (நான் என்ற எண்ணம்).`,
   },
@@ -3782,6 +3783,7 @@ Rains fail; epidemics spread;
 All this sure happens,
 If worship in Lord's temples falters,
 —The Lord who spurned the very God of Death.`,
+    elaborationEnglish: `Mantras 517 & 518 Let the pujas in the temples be faithfully continued. If worship in Siva's temple falters, the ruler will be held responsible for the dire consequences that follow. He loses his power; rains fail in the land, epidemics ravage it, and thefts and crimes abound.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-517-Second-Tantra-19.-Demeaning-the-Temple.mp3',
     elaborationTamil: `சிவபெருமானது திருக்கோயில்களில் அன்றாட வழிபாடுகள் சிறப்பு நாள் வழிபாடுகள் (பிரதோஷம் சிவராத்திரி) ஆகியவற்றை முறையாகச் செய்யாமல் விட்டாலோ அல்லது ஆகமங்களில் சொல்லப்பட்ட முறை தவறி அக்கோவில்களில் ஏதேனும் தவறாக செய்தால் அந்த நாட்டில் தீர்க்க முடியாத நோய்கள் பரவும். மழை பெய்யாது. அந்த நாட்டை ஆளும் அரசன் பேரரசனாக இருந்தாலும் தனது எதிரிகளைப் போரில் வெல்லும் வலிமை குறைந்து போய்த் தன் நாட்டையே இழப்பான்.`,
   },
@@ -3821,7 +3823,7 @@ Deathly wars rage in fury
 Fell diseases spread;
 Famine stalks land--
 Thus did goodly Nandi in truth declare.`,
-    elaborationEnglish: `And,let the pujas be performed by true priests; and not those who are priests in name. TOG LwTeIQenm aurupenm Guwireretrmy bualip cnGernt Hager cud Gerace Abuser Goof sigiipser Gurweur S$bumMs GQaraGectm shure sirGer. 420`,
+    elaborationEnglish: `And let the pujas be performed by true priests; and not those who are priests in name.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-519-Second-Tantra-19.-Demeaning-the-Temple.mp3',
     elaborationTamil: `தான் ஒரு அந்தணன் என்று பெயரை மட்டும் கூறிக்கொண்டு சிவபெருமானிடம் அன்பும் சிவனைப் பற்றிய அறிவும் ஒழுக்கமும் இல்லாத அந்தணன் திருக்கோயிலில் சிவபெருமானுக்குப் பூஜைகள் செய்தால் அக்கோயில் உள்ள நாட்டில் உள்நாட்டுக் கலகங்களும் வெளிநாட்டுப் போர்களும் நடப்பதோடு அந்நாட்டில் கொடிய நோய்களும் விவசாய நிலங்களில் ஒன்றும் விளையாமல் பஞ்சமும் உண்டாகும் என்று எமது குருவாய் இருக்கும் இறைவன் எடுத்துரைத்தான்.`,
   },
@@ -3843,6 +3845,7 @@ Thus did Celestials to Primal Lord pray!;
 And the Primal Lord to the Six-faced God
 Of coral hue beckoned;
 And said, "Proceed and smite the enemy."`,
+    elaborationEnglish: `This Face protects the innocent, the good and the helpless. It manifested itself when, harassed by the giant Padmasura, the celestials appealed to the Lord to save them. Then out of the Fifth Face emanated His son, Subrahmanya with six faces; and the Lord commanded him, "My Son, proceed to battle and smite the enemy." "Six-faced" God is MURUGA (of the Tamils), who becomes Subrahmanya or Kumara in Sanskrit. The reference here is to the wars waged by Asuras and Devas to be found in the Puranas. When things appear to swing in favour of the Asuras, the devas approach Siva for aid and he sends his son, Kumara (Devasenapati) to their aid.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-520-Second-Tantra-20.-Sight-of-Downward-Face.mp3',
     elaborationTamil: `தேவர்களை விட அசுரர்கள் வலிமை பெற்றுத் தேவர்களை துன்புறுத்திட தேவர்கள் சிவபெருமானை நோக்கி எம்பெருமானே இறைவா நாங்கள் அசுரர்களால் துன்பப்படுகின்றோமே இது சரியா எங்களைக் காப்பாற்றுங்கள் என்று கூறி வேண்டிட சிவபெருமான் தற்பரன் நிலையில் நின்று (நெற்றிக் கண் நெருப்பால் அனைத்தையும் அழித்துத் தானே அனைத்திற்கும் மேலானவன் நிரந்தரமானவன் ஆனந்தமானவன் எதனாலும் அழிக்க முடியாதவன் என்கின்ற நிலை) தன் இதயத்திலிருக்கும் ஒளியாகிய அழகிய பவளம் போன்ற திருமேனியுடைய ஆறுமுகனை யாம் அளிக்கும் படையுடன் சென்று தேவர்களின் பகைவர்களான அசுரர்களை அழித்து வருவாயாக என்று கூறினார்.`,
   },
@@ -3993,6 +3996,7 @@ And finally died;
 They attained not Jnana true;
 They alone can attain Truth
 Who adore Primal Lord in devotion intense.`,
+    elaborationEnglish: `"Even the devas," says Mular, "cannot find Liberation unless they adore the Lord, Siva."`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/527a.mp3',
     elaborationTamil: `ஆசையால் அனுபவித்து வாடிப்போன தேகத்தை உடையவர்கள், தேவர்கள் அசுரர்கள் ஆகியவர்கள் உண்மை ஞானத்தை உணரவில்லையென்றால் இறந்தவர்களைப் போலானவர்களே. அன்பினால் கசிந்து அமுதம்போல் சுரக்கும் ஆதியாகிய சிவபெருமானைத் தன் உள்ளக் கோவிலில் வைத்து வழிபடுபவர்களால் மட்டுமே உண்மையான ஞானத்தைப் பெற இயலும்.`,
   },
@@ -4237,7 +4241,7 @@ It lay besieging nose and tongue--(in Kesari Mudra)
 In the troubled thought that knows but torture,
 The only thing that stands still
 Is devotional Patience Exceeding.`,
-    elaborationEnglish: ``,
+    elaborationEnglish: `The troubled thought is a torture — vairagya or firmness in divine thought alone is bliss. They who possess such firmness of mind are the yogis. Their firmness is revealed in kechari mudra, where the tongue stops the nasal orifice in yogic breath-exercise. Their firmness can be compared to that of the varamus lizard, which tenaciously holds to the object it seizes and does not swerve, however hard you pull the reptile.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-539-Second-Tantra-24.-Virtue-of-Patience.mp3',
     elaborationTamil: `உண்மை வழியைப் பற்றி அதிலிருந்து விலகாமல் நிற்கும் யோகியர்களின் நெஞ்சில் இறைவனோடு இரண்டறக் கலக்கவேண்டும் என்கின்ற எண்ணம் இருக்கின்றது. பல்லி எப்படி தான் பற்றியதை விடாதோ அதுபோல எண்ணமும் தான் எண்ணியதை விடாது. இந்திரியங்களை (மூக்கின் வழியாக பிராணாயாமமும், நாக்கின் வழியாக மந்திரமும்) அடக்கி சிந்தனையை பல எண்ணங்களில் வீணாக சிதறவிடாமல் பொறுமையாக இருப்பவர்களுக்கு வற்றாத அமுதம் சுரக்கும்.`,
   },
@@ -4262,7 +4266,7 @@ And low they bowed at His Feet,
 And prayed for His Grace,
 And the Lord blessed,
 "They shall on earth prosper high."`,
-    elaborationEnglish: ``,
+    elaborationEnglish: `Mantra 540-542 The Lord is the Supreme Yogi. In the constancy of yoga, He created all. He dances on the cremation ground as well. Such is His play. All celestials worship His throne; Hari and Brahma too.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-540-Second-Tantra-24.-Virtue-of-Patience.mp3',
     elaborationTamil: `சிவபெருமானின் திருச்சபையைச் சுற்றி இருக்கும் அழிவில்லாத தேவர்கள் அவரின் பால் போன்ற வெண்ணிற உடலின் பாதத்தைப் பணிந்து தாங்கள் முக்தி பெற வேண்டி பொறுமையுடன் காத்திருப்பார்கள். அவ்வாறு பொறுமையுடன் இருக்கும் தேவர்களை திருமாலுக்கும் ஆதிபிரம்மனுக்கும் மன்னராக இருக்கின்ற சதாசிவமூர்த்தி உலகத்தில் மிகவும் நல்லவர்கள் என்று அருளினார்.`,
   },
@@ -4322,7 +4326,7 @@ I live with those who sing His praise,
 The Lord blesses those who seek Him,
 With them I consort,
 Their feet I seek.`,
-    elaborationEnglish: `‘And the Lord blessed, “They shall on earth prosper high.’’`,
+    elaborationEnglish: `Mantras 543-545 The Lord blesses the holy. Seek their company. Without love for the Lord, man is in great distress. His thoughts quiver like an aspen leaf.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-543-Second-Tantra-25.-Seeking-the-Sages.mp3',
     elaborationTamil: `திருத்தலங்களில் யாத்திரை செய்பவர்களுடன் யானும் நடப்போம். இறைவனை பக்தியுடன் பாடக்கூடியவர்களின் பாடலைக் கேட்டு யானும் இன்புற்று இருப்போம். இறைவனைத் தனக்குள்ளே தேடி அடையக்கூடியவர்களுக்கு அருளுகின்ற மகாதேவனுடன் இணையக் கூடிய ஆற்றலுள்ள பெரியோர்களின் திருவடியோடு யானும் இணைந்து இருப்போம். உட்கருத்து: இறைவனை அடையக்கூடிய வழிகளில் செல்பவர்களுக்கு இறைவனே பெரியவராக உடன் இருந்து இறைவனை அடைய வழிகாட்டுவார்.`,
   },
@@ -4387,7 +4391,7 @@ He blesses those,
 Who seek Him in silentness of their hearts;
 Reach the King Almighty,
 You shall attain the Regal Goal.`,
-    elaborationEnglish: `Reach the King Almighty, You shall attain the Regal Goal.`,
+    elaborationEnglish: `The holy are the kin of the Lord; they reach the Golden Feet of the Father. Seek them.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-546-Second-Tantra-25.-Seeking-the-Sages.mp3',
     elaborationTamil: `இறைவனின் அடியவர்கள் உலகத்தில் இருக்கும் மன்னர்களை பொய்யாக புகழாமல் கயிறு போல திரித்து விரிந்த சடையைக் கொண்டு வீற்றிருக்கும் எம் தந்தையான இறைவனை உண்மையான பக்தியோடு புகழ்ந்து அவரின் பொன்னான திருவடிகளை சேருவார்கள். இறைவனை வெறும் வார்த்தைகளால் போற்றி வணங்காமல் உண்மையான பக்தியோடு உள்ளம் உருக வேண்டினால் அந்த இறைவனின் அடியவர்களின் துணையைப்பெற்று அவர்களின் வழிசென்று இறைவனை அடையலாம்.`,
   },
