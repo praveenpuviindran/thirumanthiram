@@ -2552,7 +2552,7 @@ Thumbai, vakulam, surapunnai, jasmine,
 Shenpagam, padiri, chrysanthum
 With these do worship.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/12/1003a.mp3',
-    elaborationEnglish: ``,
+    elaborationEnglish: `Archana is worship with flowers, perfumes and lights, along with chanting the Names of the Lord, and singing His praise. Tirumular describes the flowers that are appropriate for Siva's worship and the perfumes worthy of the occasion. He also gives directions regarding the lamps to be lighted and the oblations to be offered. He concludes that such worship, which belongs to the Kriya path, will confer great blessings. But more important, he says, is worship in the mansion of the mind. Tirumular warns the Siva yogis not to resort to kriyas, for kriyas only add to karma. Those who stand in the bhakti path also need not care for kriya. It is not by kriya that the Lord's Grace descends. To seek the Lord by way of the senses is vain. The jnana way also leads to nadanta the divine light. It alone leads to union in God. Those who seek the kriya way can, at best, become devas. That is but a step, as devas themselves have to follow the jnana path, if they seek to unite in Siva. Chanting Sivayanama helps in the jnana way. But both Na and Ma should not be chanted; for Na and Ma are the seeds of jiva. Chanting only the mantra, 'Siva', can bring about mauna that leads to liberation. Jnana leads to illumination. Siva bliss wells up. Jiva leaps into 'A' (Si) and from it, it realises 'U' (Va); then appears the Lord within.`,
     elaborationTamil: `தாமரை மலர் (அம்புயம்) 2. கருங்குவளை மலர் (நீலம்) 3. செழுங்கழுநீர் மலர் (கழுநீர்) 4. அழகாக கட்டிய நெய்தல் மலர் 5. மாலை மணம் விரிக்கும் பாக்கு மலர் (பூகம்) 6. மாதவி மலர் 7. மந்தாரை மலர் 8. தும்பை மலர் 9. மகிழம்பூ மலர் (வகுளம்) 10. சுரபுன்னை மலர் 11. மல்லிகை மலர் 12. செண்பகம் மலர் 13. பாதிரி மலர் 14. செவ்வந்தி மலர் ஆகிய பதினான்கு வகைப் பூக்களும் இறைவனுக்கு அருச்சினை செய்ய ஏற்ற மலர்கள் ஆகும்.`,
   },
   {
@@ -6506,6 +6506,7 @@ In Sphere of Sun of Kalas twelve
 With Kalas fourteen She is Mamaya;
 And in Moon's Sphere
 The Bright One finite appears.`,
+    elaborationEnglish: `Mantras 1187-1190 In the sphere of the 'sun' She appears with twelve kalas. In the sphere of the 'moon,' with sixteen kalas. Nada arises in the moon's sphere. But Sakti is the source of that moon's sphere with kalas sixteen. That sphere of the moon knows no waxing and waning. It is of infinite beauty, and of intoxicating fragrance. There She was born; there She abides in infinite bliss.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/06/Song-1187-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1186 இல் உள்ளபடி இறைவி கூறியபடி சாதகருக்குள் மூலாதாரத்தில் இருக்கின்ற அக்னி ஆக்ஞையில் இருக்கின்ற சந்திரன் சகஸ்ரதளத்தில் இருக்கின்ற சூரியன் ஆகிய மூன்று மண்டலங்களிலும் இறைவி மாயையின் தலைவியாக சேர்ந்து இருக்கின்றாள். அந்த மாயை நீங்கி இறைவியை அடைவதற்கு பாடல் #1186 இல் இறைவி அருளியபடி சாதகம் செய்து மூச்சுக் காற்றை சுழுமுனை நாடி வழியே அந்த மூன்று மண்டலங்களுக்கும் செலுத்திச் சென்றால் அவளை அடைவதற்கு ஏற்ற விதத்தில் தலை உச்சியிலிருந்து பன்னிரண்டு அங்குல தூரத்தில் சுத்த மாயையின் இருப்பிடமாக இருக்கின்ற பரவெளியில் இறைவி வீற்றிருக்கின்றாள். பாடல் #871 இல் உள்ளபடி சாதகரின் உடலுக்குள் இருக்கும் ஏழு சக்கரங்களைக் கடந்து எட்டாவதாக இருக்கும் துவாதசாந்த வெளியைத் தாண்டிய ஒன்பதாவது பரவெளியில் இருக்கும் சந்திர மண்டலத்தை தமது இறுதியான இடமாகக் கொண்டு இறைவி வீற்றிருக்கின்றாள். கருத்து: இறைவனை அடைய வேண்டும் என்று இறைவி கூறிய வழியில் சாதகம் செய்யும் சாதகர்கள் முதலில் தமது மாயையை நீங்கி தலை உச்சியில் இருக்கும் ஏழாவது சக்கரமான சகஸ்ரதளத்தைத் தாண்டி எட்டாவதான துவாதசாந்த வெளியில் மாமாயையில் இருக்கும் இறைவியை அறிந்து கொள்வார்கள். இந்த சாதகத்தைத் தொடர்ந்து செய்தால் மாமாயை நீங்கி அதன்பிறகு ஒன்பதாவதாக இருக்கும் சந்திர மண்டலத்தில் வீற்றிருக்கும் இறைவியை உணர்ந்து கொள்வார்கள்.`,
   },
@@ -6721,7 +6722,7 @@ That is Bliss Divine;
 She spreads it over Adharas six,
 In order according,
 She, the bejewelled One.`,
-    elaborationEnglish: ``,
+    elaborationEnglish: `Upto ajna, the Guru guides.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/06/Song-1197-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1196 இல் உள்ளபடி விசுத்திச் சக்கரத்திலிருந்து கொடி போல மேலேறிச் சென்று சகஸ்ரதளத்தில் உச்ச நிலையில் மின்னல் போன்ற ஒளியையும் சக்தியையும் கொண்டு இருக்கும் இறைவியானவள் அங்கிருக்கும் இறை சக்தியையே முதன்மையாகக் கொண்டு அதனுள் வீற்றிருக்கும் போது அங்கிருந்து கங்கையைப் போன்ற அமிழ்தம் கீழிறங்கும் படி இறை சக்தியானது ஊற்றாகப் பொழிகின்றது. இதுவே பசுமையான பொன் போன்ற திருவடிகளைக் கொண்ட இறைவனின் உருவமாக இருப்பது பேரின்பமாகும். இந்தப் பேரின்பத்தை அருளும் அமிழ்தத்தை சாதகரின் பக்குவத்திற்கு ஏற்றபடி அவருக்குள் இருக்கும் ஆறு ஆதார சக்கரங்களுக்கும் முறையாக அருளுகின்ற தலைவியாக அழகிய ஆபரணங்களை அணிந்திருக்கும் இறைவி இருக்கின்றாள். கருத்து: இறைவன் சகஸ்ரதளத்திலிருந்து அமிழ்தத்தின் மூலம் பேரின்பத்தை அருளும் உருவமாக இருக்கின்றார். இறைவி அதை ஆறு சக்கரங்களுக்கு கொடுக்கும் சக்தியாக இருக்கின்றாள்.`,
   },
@@ -6944,7 +6945,7 @@ That is the heart of Rudra mantra
 She dances in rapture, in Holy Hall of Heart
 Meet Her through Sushumna,
 Your breath that way coursing.`,
-    elaborationEnglish: `Course: your breath through sushumna, seeking the twin letters Si and Va — in the holy hall of the heart you can meet Her.`,
+    elaborationEnglish: `Course your breath through sushumna, seeking the twin letters Si and Va — in the holy hall of the heart you can meet Her.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/07/Song-1207-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1206 இல் உள்ளபடி சந்திர மண்டலத்தில் நறுமணம் வீசுகின்ற மலர்களை சூடிக்கொண்டு இருக்கின்ற இறைவியானவள் தனது கைகளில் ஆணவத்தை அடக்குகின்றா அங்குசத்தையும் உயிர்களின் பிணைப்பாகிய பாசக் கயிறையும் வைத்துக் கொண்டு சுழுமுனை நாட வழியே சென்று அடைகின்ற இடமாக வீற்றிருக்கின்றாள். இரண்டு கைகளிலும் வளைகள் அணிந்து பேரழகு வாய்ந்த அவளது திருக்கரங்களில் உடுக்கையையும் நெருப்பு சட்டியையும் வைத்துக் கொண்டு சாதகர்கள் நாடுகின்ற இறைவன் இறைவி எனும் இரண்டு திருவடிகளைக் கொண்டு நன்மையின் வடிவமாக முலாதாரத்திலிருந்து சகஸ்ரதளம் வரை நீண்டு இருக்கும் சுழுமுனை நாடியில் உருத்திர நடராஜ வடிவமாக நின்று திருநடனம் புரிந்து கொண்டு இருக்கின்றாள். சீரும் சிறப்பும் மிக்க அவளோடு சாதகர்கள் ஒன்று சேர்ந்து விட்டால் அவரது உள்ளமே இறைவனும் இறைவியும் சேர்ந்து நடராஜ உருவமாக திருநடனம் புரிகின்ற அம்பலமாக மாறிவிடும். கருத்து: சந்திர மண்டலத்தில் பேரொளியாக வீற்றிருக்கும் இறைவியை தமக்குள் அறிந்து கொண்டு உணர்ந்து விட்ட சாதகர்கள் அவளோடு தாமும் ஒன்றாக சேர்ந்து விட்டால் அவரது உள்ளமே இறைவனும் இறைவியும் சேர்ந்து நடராஜ உருவமாக திருநடனம் புரிகின்ற அம்பலமாக ஆகிவிடும்.`,
   },
@@ -7620,7 +7621,7 @@ She is damsel red-hued.
 She is Sivananda Sundari (Siva-Bliss-Beauty),
 She stood as Pure Way,
 In Love endearing.`,
-    elaborationEnglish: `She stands as Vedic subtlety opond human knowledge. She is maya; She is divinely proud; She is Sivananda Sundari (Siva bliss Beauty); She is love endearing. Oppug: curiierm BpMenp wrrenents OMPug Dewwrg Gees Corr@n GPug mys GMSOareMH Corso wOarOd »HCe sg HAL ww. 1240`,
+    elaborationEnglish: `She stands as Vedic subtlety beyond human knowledge. She is maya; She is divinely proud; She is Sivananda Sundari (Siva bliss Beauty); She is love endearing.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/08/Song-1239-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1238 இல் உள்ளபடி இறைவியாகவே ஆகிவிட்ட சாதகர்கள் நுண்ணியதாக அறியும் அறிவையும் தாண்டிய நிலையில் அணுவுக்குள் அணுவாகவும் மாயையாகவும் ஆகி நின்று அனைத்திற்கும் மேன்மையான பெருமையை உடையவளாகவும் இருக்கின்றாள். சிவந்த நிறத்தோடு என்றும் இளமையுடன் பேரானந்தத்திற்கும் மேலான சிவானந்தமாகவே இருக்கின்ற அவளே பேரழகுடன் பேரன்பின் வடிவமாகவே ஆகி சாதகர் செல்கின்ற மேன்மையான வழியாகவும் ஆகி நிற்கின்றாள்.`,
   },
@@ -7684,7 +7685,7 @@ And Indra and other Gods too in direction eight;
 Seek therefore the way of worship to reach
 The Lady of tresses, in flower clusters festooned,
 And Her Lord, too.`,
-    elaborationEnglish: ``,
+    elaborationEnglish: `Mantras 1241 & 1242 Illusory are the states of Brahma, Vishnu, Hara and Mahesvara. She is beyond all those. She pervades in Aum, in sahasrara beyond the six adharas and the three mandalas. There She confers the state of greatness, surpassing that of all the gods. Then the celestials, Vanavas, Dhanavas, Indra and other gods from all directions will come to the yogi and worship at his feet.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/08/Song-1242-Fourth-Tantra-8.-Chakra-Base-and-Support.mp3',
     elaborationTamil: `பாடல் #1241 இல் உள்ளபடி ஓங்காரத்தின் நாதமாகவே ஆகிவிட்ட சாதகரைத் தேடி வந்து அவரது திருவடியைப் போற்றி வணங்கி நின்று தேவர்களும் அசுரர்களும் இந்திரன் முதலாக எட்டு திசைக்கும் தலைவர்களாக இருக்கின்றவர்களும் சாதகர் தமக்குள்ளேயே நறுமணம் மிக்க மலர்களைச் சூடிக்கொண்டு இருக்கும் அழகிய கூந்தலைக் உடைய இறைவியையும் அவளோடு ஒன்றாகச் சேர்ந்து அனைத்திற்கும் அரசனாக இருக்கின்ற இறைவனையும் தமது வழிபாட்டின் மூலமே சாதகர் அடைந்ததைப் போலவே தாங்களும் சென்று அடைவதற்கான வழியை சொல்லி அருளுமாறு வேண்டிக் கொள்வார்கள். எட்டு திசைக்கும் தலைவர்கள் இருப்பவர்கள்: பாடல் #69 மற்றும் #70 இல் உள்ளபடி முதல் நான்கு திசைகளுக்கும் தலைவர்களாக இருப்பவர்கள்: இந்திரன் சோமன் பிரம்மன் உருத்திரன் மற்ற நான்கு திசைகளுக்கு தலைவர்களாக இருப்பவர்கள்: எமதருமன் குபேரன் வருணதேவன் வாயுதேவன்`,
   },
@@ -8397,7 +8398,7 @@ If Bindu rises more and Nada less,
 The Bija becomes potent far,
 Eight times more than Bindu.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2021/09/Song-1276-Fourth-Tantra-9.-Chakra-of-Ascension.mp3',
-    elaborationEnglish: `1) Nada and bindu are stages of sakti in the movement towards the manifestation of the Self as Object, that is as the universe — ‘*‘The Garland of Letters,” p.116`,
+    elaborationEnglish: `Nada and bindu are stages of sakti in the movement towards the manifestation of the Self as Object, that is as the universe — 'The Garland of Letters,' p.116. Bindu and nada produce bija. If bindu rises more and nada less, bija becomes eight times more powerful than bindu.`,
     elaborationTamil: `பாடல் #1275 இல் உள்ளபடி சாதகருக்குள்ளிருந்து வெளிப்பட்டு வந்து அண்ட சராசரங்கள் முழுவதும் பரவி அங்கிருந்து வெளிச்சமும் சத்தமும் ஒரே அளவில் கீழுள்ள உலகங்களுக்கு விழுந்து நன்மையைக் கொடுக்கும் மூல விதையாக இருக்கின்றது. உலகத்திலுள்ள உயிர்களில் இறைவனை அடைய முயற்சி செய்யும் ஆன்மாக்களுக்கு பயன் படும்படி வெளிச்சம் குறைந்து அதை விட எட்டு மடங்கு அதிகமாக சத்தமாக வெளிப்படும் போது அது மந்திர ஒலியாக இருக்கின்றது. கருத்து: சாதகருக்குள்ளிருந்து வெளிப்பட்டு வரும் ஏரொளிச் சக்கரமானது அண்டங்கள் முழுவதும் விரிந்து பரவி அங்கிருந்து அனைத்து உலகங்களுக்கும் நன்மையைக் கொடுக்கும் மூல விதையாக இருக்கின்றது. உலகங்களில் இறைவனை அடைய விரும்பி சாதகம் செய்யும் உயிர்கள் மேலும் மேன்மையடைய இந்த ஏரொளிச் சக்கரம் வெளிச்சத்தைக் குறைந்து சத்தத்தை அதிகமாக்கி மந்திர ஒலியாகக் கொடுக்கின்றது.`,
   },
   {
@@ -9578,6 +9579,7 @@ And so live;
 Abandon the way that to this world leads again
 Reach the Holy Feet of Tani Nayaki Sakti
 And there flourish.`,
+    elaborationEnglish: `Hrim Sakti pervades all the eight directions. Chant Her name and gain the life of celestials. Renounce everything and reach Her Holy Feet. You will know the way to reach Her. She is the Tani Nayaki Sakti.`,
     elaborationTamil: `பாடல் #1331 இல் உள்ளபடி எட்டு விதமான திசைகளுக்கும் தலைவியாக இருக்கின்ற இறைவியின் அருமைகளையும் பெருமைகளையும் போற்றி தகுதியானவர்களுக்கு எடுத்துக் கூறுங்கள். அப்போது இந்த உலகத்தில் நன்மைகளை நடத்துகின்ற இறப்பு இல்லாத நிலையைப் பெற்ற அமரர்களின் வாழ்க்கையைப் போலவே சாதகர்களின் வாழ்க்கையும் மாறும். அதன் படியே இந்த உலகத்தில் இயற்கையாகவே வருகின்ற வழிகள் (தாகம், பசி, தூக்கம், கழிவு வெளியேற்றம், முதுமையடைதல்) அனைத்தையும் அமரர்களின் வாழ்க்கை முறைக்கேற்ற வழிகளாக நீங்களும் மாற்றுங்கள். அனைத்திற்கும் தலைவியாக இருக்கின்ற இறைவியின் வணங்கத் தக்கத் திருவடிகளை எப்போதும் சேர்ந்தே இருந்து இதையெல்லாம் செய்யும் முறைகளை தெளிவாக அறிந்து கொள்ளுங்கள்.`,
   },
   {
