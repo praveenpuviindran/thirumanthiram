@@ -1505,7 +1505,7 @@ Five the masters who, inside, make display;
 But when the great king, indwelling, departed,
 The drum lay shattered, a heap of inert clay.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-189-First-Tantra-5.-Impermanence-of-Life.mp3',
-    elaborationEnglish: `The body is like unto a musical drum. It has two the right and left breaths; five its players, the senses; and one the king within—the Jiva. When he © Sepa the drum is as dead as clay.`,
+    elaborationEnglish: `The body is like unto a musical drum. It has two the right and left breaths; five its players, the senses; and one the king within—the Jiva. When he departs the drum is as dead as clay.`,
     elaborationTamil: `மண்ணினால் கட்டப்பட்ட கோட்டை ஒன்று இருக்கின்றது. அந்தக் கோட்டையிலிருந்து இரண்டுவித தாளங்களின் சப்தங்கள் எப்போதும் கேட்கின்றது. அந்தக் கோட்டையினுள் ஐந்து சிற்றரசர்கள் இருக்கின்றார்கள். அவர்களுடனே அவர்களின் தலைவனான பேரரசன் ஒருவனும் அந்தக் கோட்டைக்குள் இருக்கின்றான். இருக்கும் காலம் முடியும்போது அந்தப் பேரரசன் வெளியே சென்றுவிட அவனுடனே ஐந்து சிற்றரசர்களும் சென்றுவிட்டனர். அவர்கள் சென்றபின் அந்தக் கோட்டை மீண்டும் மண்ணோடு மண்ணாகி அழிந்து போய்விட்டது. இதில் கோட்டை என்பது உயிரின் உடல். தாளங்கள் என்பது உயிர் உள்ளிழுக்கும் மூச்சும் வெளிவிடும் மூச்சுக்காற்றும் (இந்த இரண்டும் சேர்ந்துதான் அவர்களின் வாழ் நாட்களைக் கணக்கிடுகின்றது). ஐந்து சிற்றரசர்களாவது உடலிலிருக்கும் ஐந்து புலன்கள் (கண் – பார்த்தல், காது – கேட்டல், மூக்கு – நுகர்தல், வாய் – பேசுதல், தோல் – தொடுதல்), பேரரசன் என்பவர் இறைவன். எப்போது உயிர்கள் இழுத்து விடும் மூச்சுக்காற்றுக்களின் வரையறுக்கப்பட்ட எண்ணிக்கை முடிகின்றதோ அப்போது அவர்களின் உடலிலிருந்து உயிர் பிரிந்து உடல் அழிந்து மண்ணோடு மண்ணாகி விடும்.`,
   },
   {
@@ -1957,7 +1957,7 @@ Him the Five maligned, countless miseries giving,
 Him Karma tortured through birth after birth pursuing--
 Thus he learned to despise life--in the Lord alone refuge finding.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-213-First-Tantra-10.-Poverty.mp3',
-    elaborationEnglish: `The six tastes harry; the five senses torture: the karmas in cluster malign; the miseries crowd without count. ‘“‘No more this birth for me’” — thus you pray to the Lord.`,
+    elaborationEnglish: `The six tastes harry; the five senses torture: the karmas in cluster malign; the miseries crowd without count. "No more this birth for me" — thus you pray to the Lord.`,
     elaborationTamil: `உயிர்கள் கண் – பார்த்தல், காது – கேட்டல், மூக்கு – நுகர்தல், வாய் – சுவைத்தல், மெய் – தொடுதல்/உணர்தல்) ஆகிய ஐந்து இந்திரியங்களின் உதவியால் உயிர்களின் பசி உணவு சாப்பிட்டவுடன் தீர்ந்துவிட்டாலும் அதே இந்திரியங்கள்தான் ஆன்மாவுக்கும் இறைவனுக்கும் உள்ள தொடர்பையும் அறுத்து விடுகிறது. ஆகையால் உயிர் தான் எடுத்த பிறவியில் எண்ணிலடங்காத துன்பங்களைப் பெற்று வருந்துகின்றது. மேலும் ஜென்ம வினை, கர்ம வினை, எண்ண வினை, பந்தம், பாசம், பற்று, செல்வம் என பல காரணங்களாலும் துன்பம் அடைகின்றது. துன்பத்தின் இறுதியில் இனி இப்படிப் பட்ட பிறவியே வேண்டாம் என்று வெறுக்கும் உயிர்கள் பிறவி இல்லாத நிலை வேண்டி ஈசனிடம் நிற்கின்றான். கருத்து : செல்வ செழிப்புடன் இருப்பவர்களை விட வறுமை நிலையில் இருக்கின்றவர்கள் விரைவில் இந்த பிறவி வாழ்க்கையை வெறுத்து இறைவனை அடைந்து பிறவி இல்லாத பேரின்பநிலை அடைய எண்ணுகின்றார்கள்.`,
   },
   {
@@ -2185,7 +2185,9 @@ And transcending the states of Nadanta, Vedanta and Bodanta
 Vision the Lord that is the Finite End,
 And there into unending bliss they grow.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-225-First-Tantra-12.-Discipline-of-Brahmin.mp3',
-    elaborationEnglish: `Nadanta = transcending sound Vedanta = beyond the upanishad Bhodanta = transcending the Pasu-Pati-Pasa complex.`,
+    elaborationEnglish: `Nadanta = transcending sound
+Vedanta = beyond the upanishad
+Bhodanta = transcending the Pasu-Pati-Pasa complex.`,
     elaborationTamil: `அந்தணர்கள் எப்போதும் வேதங்களின் முடிவாக இருக்கின்ற வேதாந்தங்களைக் கேட்பதில் விருப்பத்தோடு இருக்க வேண்டும். மூன்று பதங்களைக் கொண்ட படைத்தல், காத்தல், அழித்தல் ஆகிய மூன்றின் முடிவாய் இருக்கின்ற ஓம் என்னும் பிரணவ மந்திரத்தின் உட்பொருளாகிய தத்துவமஸி (பரம்பொருள் நீயாக இருக்கிறாய்) என்பதை உணர்ந்து ஒலி மற்றும் வேதத்தின் முடிவாகிய இறைவனை இவன் தான் என்று தனக்குள் உணர்ந்து பேரின்பத்திலேயே திளைத்து இருப்பவர்களே அந்தணர்கள் ஆவார்கள்.`,
   },
   {
@@ -2204,19 +2206,19 @@ They chant the noble hymns, the heart of Truth to seek;
 Mounted on Love's Chariot, lost in Love's sweet ecstasy,
 They drown not in Maya--the holy Brahmins meek.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-226-First-Tantra-12.-Discipline-of-Brahmin.mp3',
-    elaborationEnglish: `They seek to know the inner meaning of the mantras, Gayatri and Savitri. Chanting the mantras, and mounted on devotion’s chariot, they triumph over Maya’s temptations:
+    elaborationEnglish: `They seek to know the inner meaning of the mantras, Gayatri and Savitri. Chanting the mantras, and mounted on devotion's chariot, they triumph over Maya's temptations:
 
-Gayatri Mantra—Gayatri is the most sacred of all Vaidik mantras. The Vedas lie embedded in it, as in a seed. It runs: Om bhur—bhuvah—svah: tat savitur varenyam  bhargo devasya dhimahi dhiyo yo nah pracodayat.
+Gayatri Mantra—Gayatri is the most sacred of all Vaidik mantras. The Vedas lie embedded in it, as in a seed. It runs: Om bhur—bhuvah—svah: tat savitur varenyam bhargo devasya dhimahi dhiyo yo nah pracodayat.
 
-Meaning: _ Divine Creator (Savitr) of the earth, atmosphere, and celestial spheres. May He illumine our intellect. Om.”’
+Meaning: "Om Let us contemplate the adorable spirit of the Divine Creator (Savitr) of the earth, atmosphere, and celestial spheres. May He illumine our intellect. Om."
 
-The above is the Vaidik Gayatri. The Tantra has its own Gayatri which may be chanted by all. It is called ‘Brahma Gayatri’ , and is given as follows in the Mahanirvana Tantra (Chapter Il], Verses 109-111):
+The above is the Vaidik Gayatri. The Tantra has its own Gayatri which may be chanted by all. It is called 'Brahma Gayatri', and is given as follows in the Mahanirvana Tantra (Chapter III, Verses 109-111):
 
-“‘Om Let us contemplate the adorable spirit of the:
+"Paramesvaraya Vidmahe; Pasa-tattvaya dhimahi; tan no Brahma pracodayat"
 
-35 ; : 34 . ooh Vidmahe; Pasa-tattvaya’ dhimahi; no Brahma pracodayat” eg Meaning: ‘‘May we know the Supréme’ Lord: let us contemplate the Supreme Essence; and may .that Brahman direct us — ‘“‘Introduction to Tantra Sastras’’ by Sir John: Woodroffe, pp.92-93.
+Meaning: "'May we know the Supreme Lord: let us contemplate the Supreme Essence; and may that Brahman direct us — "Introduction to Tantra Sastras'' by Sir John Woodroffe, pp.92-93.
 
-Tirumular’s reference here seems to be the’ Vaidik Gayatri,`,
+Tirumular's reference here seems to be the Vaidik Gayatri.`,
     elaborationTamil: `காயத்ரி மந்திரத்தையும் சாவித்ரி மந்திரத்தையும் தமது கருத்தில் வைத்து விருப்பப்பட்டு ஆராய்ந்து அதன் பொருளை உணர்ந்து நாள் தோறும் அந்த மந்திரங்களையே மனதில் வைத்து தியானித்து இறையருளால் உணர்ந்த அன்பு எனும் தேரில் ஏறி அன்பையே தமது எண்ணத்தில் எப்போதும் வைத்து மாயையாகிய உலகப் பற்றுக்களின் மேல் ஆசை கொள்ளாமல் வேதங்களின் முறைப்படியே வாழ்ந்து வருபவர்களே அந்தணர்கள் ஆவார்கள். குறிப்பு: காயத்ரி மந்திரத்தின் ஒரு எழுத்து இல்லாத மந்திரமே சாவித்திரி மந்திரமாகும். ஞானிகள், முனிவர்கள், யோகிகளால் மட்டுமே காயத்ரி மந்திரத்தை சொல்ல முடியும். ஏனெனில் இந்த மந்திரத்தை உச்சரிக்கும் போது உருவாகும் சக்திகளை சாதாரண மனிதர்களால் தாங்க முடியாது. உடல் நிலை மனநிலை பாதிக்கும். தற்போது மனிதர்கள் சொல்லிக்கொண்டிருக்கும் காயத்ரி மந்திரமே சாவித்திரி மந்திரமாகும். தற்போது இருக்கும் கலியுகத்தில் மனிதர்களின் உடல்நிலை மனநிலை எந்த விதத்திலும் பாதிப்படையாமல் இறைவனை அடைய இறையருளால் ஓர் எழுத்து நீக்கப்பட்ட மந்திரமே சாவித்திரி மந்திரமாகும்.`,
   },
   {

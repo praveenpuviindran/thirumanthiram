@@ -78,17 +78,11 @@ The Sabha of the South is where Devas reside.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-886-Fourth-Tantra-1.Silent-Mantra.mp3',
     elaborationEnglish: `The One Letter mantra, Aum, denotes the Divine Dance. It is Tandava, the Grace Act of the Lord performed in the Golden Hall of Chidambaram, the Sabha of the South.
 
-The word, Chidambaram, is of Sanskrit origin, and is made up of two words ‘cit’ (meaning mind, or thought) and ‘ambaram® (meaning sky or space). Hence the word would mean Infinite Mind or the Divine ‘itself. As Mular himself has pointed out in various passages, Siva’s dance appeared first as a mental vision in the mind of Siddhars. The temple
-
-at Chidambaram {in Tamil ‘chitrambalam’) was apparently earlier merely a gathering place of Siddhars under a ‘bodhi tree’, before a temple was built there, and a dancing figure of Nataraja was placed there. “Chitrambalam’, which quite obviously is Tamilized form of ‘Chidambaram’, is nevertheless
-
-given an independent Tamil etymology by zealouts as ‘Chitr’
-
-from ‘Chiru’, meaning ‘small’, (become ‘Chitru') and “ambalam’, meaning ‘temple’. According to this, the Tamil word was later Sanskritized as Chidambaram. It is thus claimed that the dance of Nataraja appeared in iconography before it entered into poetry. An attempt to re-inforce this argument is made by referring to the Tiruvachakam verse which says that ‘the larger idol’ of the Linga replaced the smaller one of Nataraja. Undoubtedly, the Linga has replaced the Nataraja as a principal idol of worship in later days, but this does not, by any means, give justification for the Tamilian view of the origin of the word Chidambaram and of the concept of Nataraja’s dance, This would not be correct. Iconography follows concept in Hinduism and not the other way round, and in any case, the concept of Divine dance is a very ancient one. It would be interesting to note that the-dance form of Siva was earlier the terrible Tandava, which was later toned down to the auspicious form, apparently following the Tamil example.
+The word, Chidambaram, is of Sanskrit origin, and is made up of two words 'cit' (meaning mind, or thought) and 'ambaram' (meaning sky or space). Hence the word would mean Infinite Mind or the Divine itself. As Mular himself has pointed out in various passages, Siva's dance appeared first as a mental vision in the mind of Siddhars. The temple at Chidambaram (in Tamil 'chitrambalam') was apparently earlier merely a gathering place of Siddhars under a 'bodhi tree', before a temple was built there, and a dancing figure of Nataraja was placed there. "Chitrambalam', which quite obviously is Tamilized form of 'Chidambaram', is nevertheless given an independent Tamil etymology by zealots as 'Chitr' from 'Chiru', meaning 'small', (become 'Chitru') and "ambalam', meaning 'temple'. According to this, the Tamil word was later Sanskritized as Chidambaram. It is thus claimed that the dance of Nataraja appeared in iconography before it entered into poetry. An attempt to re-inforce this argument is made by referring to the Tiruvachakam verse which says that 'the larger idol' of the Linga replaced the smaller one of Nataraja. Undoubtedly, the Linga has replaced the Nataraja as a principal idol of worship in later days, but this does not, by any means, give justification for the Tamilian view of the origin of the word Chidambaram and of the concept of Nataraja's dance. This would not be correct. Iconography follows concept in Hinduism and not the other way round, and in any case, the concept of Divine dance is a very ancient one. It would be interesting to note that the dance form of Siva was earlier the terrible Tandava, which was later toned down to the auspicious form, apparently following the Tamil example.
 
 Verse 891 and notes thereon may also be seen.
 
-Mular refers to the Dance of Siva in Chidambaram as Tandava`,
+Mular refers to the Dance of Siva in Chidambaram as Tandava.`,
     elaborationTamil: `தேவாதி தேவர்களுக்கெல்லாம் தலையான தேவனாகிய இறைவன் தங்கியிருக்கும் இடமே சிற்றம்பலம் என்றும், சிதம்பரம் என்றும், திரு அம்பலம் என்றும், தென் நாடு என்றும் போற்றப்படுகின்றது. அந்த தென்நாட்டில் வீற்றிருக்கும் இறை சக்தி உலகத்திலுள்ள அனைவருக்கும் பொதுவானது ஆகும்.`,
   },
   {
@@ -354,10 +348,14 @@ Thus of the Seven Thousand mantras chanted,
 That are beyond thought,
 Have as vital the Seven and Two in the ultimate.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-899-Fourth-Tantra-1.-Silent-Mantra.mp3',
-    elaborationEnglish: `Mantras 899 & 900 - But the two letters are the vital, ultimate or contained all mantras. It is Siva's ma our divine support.
-Excluding the one in sahasrara
-Mantras have seven different endings: i)nama, ii)svata; iii)svaha; iv)vamshat; v)vashat; vi)hum; vii)phat
-Another interpretation is that mantras are seven crores (70 million) in number. They are enumerated in the Sanskrit work, "Sri Rajesvari Kalpa vide Tirumantira Malai," by Thirumular edited by N. Sivaprakasa Desikar. However, here the reference is presumably to the seven endings, rather than seven crores, as the process of involution in indicated,
+    elaborationEnglish: `Mantras 899 & 900
+
+But the two letters are the vital, ultimate or contained all mantras. It is Siva's mantra, our divine support.
+
+    0.    Excluding the one in sahasrara
+    0.    Mantras have seven different endings: i)nama, ii)svata; iii)svaha; iv)vamshat; v)vashat; vi)hum; vii)phat
+
+Another interpretation is that mantras are seven crores (70 million) in number. They are enumerated in the Sanskrit work, "Sri Rajesvari Kalpa vide Tirumantira Malai," by Thirumular edited by N. Sivaprakasa Desikar. However, here the reference is presumably to the seven endings, rather than seven crores, as the process of involution is indicated,
 A and U plus Panchakshara.`,
     elaborationTamil: `பாடல் #898 ல் உள்ளபடி ஆதார மந்திரங்கள் ஏழாயிரமாக இருந்தாலும் அதன் பரிணாமங்கள் இருபதாயிரமாகவும் முப்பதாயிரமாகவும் பெருகி முடிவில் ஏழு கோடி வரையில் இருக்கின்றது. இந்த மந்திரங்கள் அனைத்தும் இறைவனின் சொரூபமாகவே இருக்கின்றது. ஆதாரமான இந்த ஏழாயிரம் மந்திரங்களே ஏழு கோடி மட்டுமில்லாமல் இன்னும் பல பரிணாமங்களில் எண்ண முடியாத அளவு பெருகிக் கொண்டே இருக்கின்றன. இருந்தாலும் அத்தனை மந்திரங்களும் அகார உகாரமாகிய சிவசக்தியிலேயே அடங்கி இருக்கின்றன.`,
   },

@@ -356,7 +356,7 @@ And thus they prayed, prostrating low;
 And He of Renown unsurpassed said;
 "Arise, fear not."`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-352-Second-Tantra-3.-Story-of-Linga.mp3',
-    elaborationEnglish: `Dandi was a brahmin boy who herded the cows of his village. Filled with intense devotion for Siva, Dandi would make. Lingam images out of sand from the river bed, milk the cows. ‘and offer the five products of cows to the Lingam in worship. The matter reached the ears of his father who, incensed at the way the precious. milk and other products of the cows were being wasted by his son, knocked the sand-made lingam with a blow from his leg. Such was Dandi’s devotion to Siva, that he was unable to contain the insult and smote the parent’s offending leg with a stroke of the sword. Siva appeared on the scene, and blessed Dandi, bestowing His own garland on him. Seeing Dandi’s father dead, the celestials appealed to Siva, who revived the parent. se`,
+    elaborationEnglish: `Dandi was a brahmin boy who herded the cows of his village. Filled with intense devotion for Siva, Dandi would make. Lingam images out of sand from the river bed, milk the cows. ‘and offer the five products of cows to the Lingam in worship. The matter reached the ears of his father who, incensed at the way the precious. milk and other products of the cows were being wasted by his son, knocked the sand-made lingam with a blow from his leg. Such was Dandi’s devotion to Siva, that he was unable to contain the insult and smote the parent’s offending leg with a stroke of the sword. Siva appeared on the scene, and blessed Dandi, bestowing His own garland on him. Seeing Dandi’s father dead, the celestials appealed to Siva, who revived the parent.`,
     elaborationTamil: `தேவர்கள் எல்லாம் தமக்குத் துன்பம் நேரும் போதெல்லாம் வாடிய முகத்துடன் மனம் வருந்தி இறைவனை விரும்பிச்சென்று இறைவா நமசிவாய என்று திருவடி பணிந்து கும்பிட ஈடு இணையில்லாத புகழை உடைய இறைவன் அவர்கள் மேல் கருணை கொண்டு எழுக என்று கூறி அவர்களின் துயரங்களைத் தீர்த்தான். உட்கருத்து: தனக்குள் லிங்க உருவத்தையும் லிங்க தத்துவத்தை உணர்ந்த உயிர்களுக்கு படைக்கும் பிரம்மாவின் தொழிலையும் காக்கும் திருமாலின் தொழிலையும் அளித்து அந்த உயிருக்கு தேவர்கள் என்னும் தகுதியை அளிக்கும் இறைவன் (இதனை திருமந்திர பாடல் எண் #349 மூலம் அறியலாம்) அவர்கள் உணர்ந்த லிங்க தத்துவத்தை இறைவா நமசிவாய என்று வழிபட ஈடு இணையில்லாத புகழை உடைய இறைவன் அவர்கள் மேல் கருணை கொண்டு எழுக என்று கூறி அவர்களின் உடலில் இருந்து உயிரை பிரித்து பிறவா நிலையை அந்த உயிருக்கு அளிப்பார். லிங்க வடிவின் தத்துவமும் இறைவனும் ஒன்றே என்பதை இப்பாடலின் மூலம் உணரலாம்.`,
   },
   {
@@ -1211,7 +1211,7 @@ He animates within me
 A support to the body, an heir to karmic ills;
 Verily, the Lord is the Just one.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-394-Second-Tantra-9.-Creation-of-Everything.mp3',
-    elaborationEnglish: `The immaculate One, who creates all, who creates the bodies and milieus for jivas too, according to their karmic desert. That is His act of divine justice. In the act of creation He stands adorning death’s bones and konrai’s blooms gleaming © as pure gold. He beckons to departed souls as the Final Refuge of Becoming. He enters within jiva and cognises all.`,
+    elaborationEnglish: `The immaculate One, who creates all, who creates the bodies and milieus for jivas too, according to their karmic desert. That is His act of divine justice. In the act of creation He stands adorning death’s bones and konrai’s blooms gleaming as pure gold. He beckons to departed souls as the Final Refuge of Becoming. He enters within jiva and cognises all.`,
     elaborationTamil: `: உடலில் ஆன்மாவை வைத்து உயிராக மாற்றுபவன் என் ஆருயிர் இறைவனே உயிர்களிடத்தில் கொண்ட மாபெரும் கருணையினால் உடலில் இணைந்த ஆன்மாவுடன் உயிராகக் கலந்து இருக்கின்றான். முன்பிறவியின் வினைகளைத் தீர்க்க வேண்டிப் பிறவி எடுத்த அந்த உயிரின் காலம் முடியும் வரை அந்த உயிர் செய்யும் எந்த செயலிலும் தலையிடாமல் நடு நிலையாக நின்று கவனித்துக் கொண்டு அந்த உயிர் வாழ வேண்டிய காலம் வரை அந்த உயிரின் உடலோடு ஒன்றாகக் கலந்து நன்றாகக் காத்துக் கொண்டு நிற்கின்றான் இறைவன்.`,
   },
   {
@@ -1726,8 +1726,6 @@ Hanker after Him life after life,
 The great One Shall Grant you the body immortal.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-420-Second-Tantra-10.-Remembering-the-Dead.mp3',
     elaborationEnglish: `Mantras 411 - 420
-
-Mantras 411 - 420
 
 The creation that ensued thus has to be continuously sustained. Although Vishnu is entrusted with this task, He is onJy an aspect of Siva/Sakti; and so ultimately it is Siva who performs the task of preservation. And so He pervades all: as body and life, as light and darkness, as fame and ignominy, as oceans and continents, as space and the celesuajs, as sea, hill and dale—through the entirety of creation in unbroken continuity. He pervades our thoughts too. There He stands as love, wisdom and meekness as pleasure and pleasurable union, as the beginning and end of time. He sustains the yogic path that leads to the state of existence.
 
@@ -2955,13 +2953,7 @@ The Yogi who knows the science of breath control
 If in sex act He indulges,
 He, the vital flow, accordingly regulates.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-479-Second-Tantra-14.-Act-of-Conception.mp3',
-    elaborationEnglish: `Breath Control Makes Body Light as Carpenter-Bee
-
-If you control the breath within,
-Young and crystal-hard it turns
-And with the goodly Guru's benign Grace, Well may you become lighter than air.
-
-If after ejaculation, man inhales spontaneously five times, the infant to be born will live upto 100 years; eighty, if he inhales four times and so on. Only yogis who have mastered the science of breath can control and regulate the discharge at will.`,
+    elaborationEnglish: `If after ejaculation, man inhales spontaneously five times, the infant to be born will live upto 100 years; eighty, if he inhales four times and so on. Only yogis who have mastered the science of breath can control and regulate the discharge at will.`,
     elaborationTamil: `ஆண் பெண் இன்பத்தின் முடிவில் ஆணிடமிருந்து சுக்கிலம் வெளிவந்து பெண்ணின் யோனியில் பாய்ந்த பிறகு ஆண் விடும் மூச்சுக்காற்றின் அளவு ஐந்து வினாடிகள் அளவிற்கு வெளிவந்தால் பிறக்கும் குழந்தை நூறு ஆண்டுகள் ஆயுளோடு பிறக்கும். ஆண் விடும் மூச்சுக்காற்றின் அளவு நான்கு வினாடிகள் அளவிற்கு வெளிவந்தால் பிறக்கும் குழந்தை எண்பது ஆண்டுகள் ஆயுளோடு பிறக்கும். எந்த அளவு மூச்சுக்காற்று வெளிவருகின்றது என்பதை பிரித்துப் பார்த்து அறிந்து கொண்டு தமக்கு வேண்டிய அளவிற்கு வெளிவரும் படி செய்வது யோக சாதனைகளைப் புரிந்து சாதனைகள் கைவரப்பெற்ற யோகியர்களுக்கே முடியும் என்பதால் அவர்களுக்கு ஆயுள் அளவு கிடையாது. குறிப்பு :மூச்சுக்காற்றைத் தம் வசம் பழக்கி அளவு அறிந்து இழுத்து அளவு அறிந்து வெளிவிடும் ஆற்றலைப் பெற்றவர்கள் யோகியர்கள். அவர்களால் தாம் வெளிவிடும் மூச்சுக்காற்றின் நேர அளவைக் கூட்டி தங்களது ஆயுளை எவ்வளவு வேண்டுமானாலும் நீட்டிக்க முடியும்.`,
   },
   {
@@ -4415,9 +4407,7 @@ And announced me to the Lord;
 And the Lord said "Come in"
 And they all cried "Hail! You are the Refuge."`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-547-Second-Tantra-25.-Seeking-the-Sages.mp3',
-    elaborationEnglish: `Walk with the noly men. Be a devotee of the Lord’s devotees. |
-
-The devotees reach the city of the Lord; they stand at heaven’s gate and pray “‘Thou art the refuge.’” The Lord sees them and welcomes them saying, ‘‘Come in;"’ and takes them into His bosom.`,
+    elaborationEnglish: `Walk with the holy men. Be a devotee of the Lord's devotees. The devotees reach the city of the Lord; they stand at heaven's gate and pray "'Thou art the refuge.'" The Lord sees them and welcomes them saying, "'Come in;'" and takes them into His bosom.`,
     elaborationTamil: `அனைத்தையும் தனக்குள் உடைய இறைவனின் அடியவர்களான பெரியோர்களுக்கு அடியவர்களாகி தேவலோகப் படைகளை உடைய ஒளி உடம்போடு இருக்கும் சிவபெருமானின் திருக்கயிலாயத்திற்குச் செல்லுபவர்களை அங்கே வாயிற் காவலர்களாக இருக்கும் சிவகணங்கள் கண்டு இறைவனிடம் கூற அனைத்தும் அறிந்த இறைவன் உமக்கு அபயம் உள்ளே வருக என்று அருள் புரிந்தார்.`,
   },
   {

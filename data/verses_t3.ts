@@ -205,15 +205,13 @@ With Svastika as faultless seventh
 He who postures on these asanas seven,
 Verily becomes Master, for sure.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-557-Third-Tantra-3.-Yoga-of-Penance.mp3',
-    elaborationEnglish: `The next step is the practice of asana or bodily postures. These asanas are numerous. But seven among them are basic. These seven are: 2)gomukha; 3)padma; 4)simha; 5)swastika; 6)vira; and 7)sukha. He who perfects these postures verily becomes the master. The four following mantras describe four of the asanas in detail. Asanas are postures practised for “’health and lightness of body.”’ They give ‘”drdhata or strength” — vide Hatha Yoga Pradipika, i.ii.
+    elaborationEnglish: `The next step is the practice of asana or bodily postures. These asanas are numerous. But seven among them are basic. These seven are: 2)gomukha; 3)padma; 4)simha; 5)swastika; 6)vira; and 7)sukha. He who perfects these postures verily becomes the master. The four following mantras describe four of the asanas in detail. Asanas are postures practised for "'health and lightness of body.'" They give "'drdhata or strength'" — vide Hatha Yoga Pradipika, i.ii.
 
-Tholkappiyam: Nachinarkiniyar commentary’, op. cit. Svastikasana is described thus in Siva Samhita, 95- Place the soles of the feet completely under the thighs, the body straight and sit at ease.....”” This is also called asana (the easy posture).
+Tholkappiyam: Nachinarkiniyar commentary', op. cit. Svastikasana is described thus in Siva Samhita, 95- Place the soles of the feet completely under the thighs, the body straight and sit at ease....." This is also called asana (the easy posture).
 
-Compare Gheranda Samhita, ii, 13: ‘Drawing the legs on thighs together and placing the feet-between them, the body
+Compare Gheranda Samhita, ii, 13: 'Drawing the legs on thighs together and placing the feet-between them, the body in its easy condition and sitting straight. This posture is called svastikasana"
 
-in its easy condition and sitting straight. This posture is called
-
-Compare Hatha Yoga Pradipika, i, 21: “’Having kept the feet between the knees and the thighs, with body straight when one sits calmly, it is called svastikasana.”’`,
+Compare Hatha Yoga Pradipika, i, 21: "'Having kept the feet between the knees and the thighs, with body straight when one sits calmly, it is called svastikasana.'"`,
     elaborationTamil: `பத்மாசனம் முதல் பல ஆசனங்கள் உள்ளன. அவற்றுள் எட்டு ஆசனங்கள் முக்கியமானவை ஆகும். அந்த எட்டில் முதலானது சுவத்திகாசனம் ஆகும் (இதை சுகாசனம் என்றும் கூறுவர்). இதைத் தவறாமல் தினம் செய்து உணர்ந்து இருப்பவர் எட்டு ஆசனங்களின் தலைவராவார்.`,
   },
   {
@@ -270,9 +268,7 @@ Control breath and on elbows raise your body
 Thus seated firm and immobile,
 Thou do reach the Kukkudasana.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-561-Third-Tantra-4.-Yoga-of-Poses.mp3',
-    elaborationEnglish: `Kukkudasana is the ‘cock’ posture. The feet are lifted onto
-
-the thighs, -and controlling the breath, the body: is raised on the elbows; and a firm, immobile sitting position is taken. (This asana, however, is not included by Tirumular in his list of seven important asanas. Istead he mentions the gomukha asana. However he describes the kukudasana, - but hot the gomukha asana.)
+    elaborationEnglish: `Kukkudasana is the ‘cock’ posture. The feet are lifted onto the thighs, -and controlling the breath, the body: is raised on the elbows; and a firm, immobile sitting position is taken. (This asana, however, is not included by Tirumular in his list of seven important asanas. Istead he mentions the gomukha asana. However he describes the kukudasana, - but hot the gomukha asana.)
 
 Compare Hatha Yoga Pradipika, i, 25: “Taking the posture of padmasana and carrying the hands between the knee and the thighs, when the yogi raises himself above the ground, with palms resting on the ground, it becomes kukudasana.”’
 
@@ -299,9 +295,7 @@ Thus do thou Simhasana posture.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-562-Third-Tantra-4.-Yoga-of-Poses.mp3',
     elaborationEnglish: `Simhasana is the ‘lion’ posture. The hands are stretched over the calves of the legs, the chin is lifted upward, and the gaze is fixed on the tip of the nose.
 
-Compare. Hatha Yoga Pradipika, i, 52-54: ‘‘Press the heels on both sides of the seam of the scrotum in such a. away that the left heel touches the right side, and the right heel touches the left side. Place the hands on the knees, with stretched fingers and keeping the mouth open and the mind
-
-collected, gaze on the tip of the nose. This is simhasana, held sacred by the best of yogis.”
+Compare. Hatha Yoga Pradipika, i, 52-54: ‘‘Press the heels on both sides of the seam of the scrotum in such a. away that the left heel touches the right side, and the right heel touches the left side. Place the hands on the knees, with stretched fingers and keeping the mouth open and the mind collected, gaze on the tip of the nose. This is simhasana, held sacred by the best of yogis.”
 
 Compare Gheranda Samhita, ii, 14-15: two heels to be placed under the scrotum contrariwise, and turned upwards, the knees to be placed on the ground, and the hands placed on the knees, mouth to be kept open..... and gaze fixed on the nose. This is simhasana, destroyer of all diseases.”`,
     elaborationTamil: `பாத நுனிகள் தரையில் அழுந்தும்படி வைத்து முழந்தாளிட்டு காலின் மேல் அமர்ந்து கைகளை பின்புறமாக பாதங்களில் படும்படி நீட்டி வைத்து ஆதரவாக இருக்க வாயை ஆவெனப் பிளந்து கொண்டு அழகாக கண்களை வேறெங்கும் சுழற்றாமல் மூக்கின் நுனியை நோக்கி பார்த்துக் கொண்டு இருப்பது புகழ் பெற்ற சிங்காசனம் என்று கூறப்படும். சிங்காசனம் ஆசனத்தின் பயன்கள்: நன்கு பசியெடுக்கும். முகதாடை நாக்கு தொண்டையை ஒட்டிய நாக்கின் தொடக்கப்பகுதி ஆகியவற்றிற்கு நன்கு பயிற்சி கிடைக்கிறது. கண்களுக்கு நல்ல கூர்மையான நோக்கும் சக்தி கிடைக்கிறது. காது, மூக்கு தொண்டைக்கு ஆரோக்கியம் கிடைக்கிறது. வயிற்றில் ஜீரண சுரப்பிகள் வேலை செய்யும். நாக்கை வெளியில் இழுப்பதால் தொண்டை மூக்கில் சுத்த ரத்தம் பாயும். உணவு நன்கு ஜீரணமாகும். நாக்கை வெளியில் நீட்டுவதால் நரம்புகள் இழுக்கப்பட்டு தாடைகள் இறுக்கம் குறைந்து பலப்படுகின்றன. விக்கல் வியாதி தடுக்கப்படுகிறது. சிங்காசனத்தை தொடர்ந்து செய்து பழகிய பின் முழங்கால் தொடை சதைபிடிப்பு நீங்கி பலமுள்ளதாக ஆகின்றன. தன்னுள் சிங்கத்தின் பலம் வருவது போல பாவனை செய்தால் எல்லா அங்கங்களும் வலிமை பெற்றுவிடும். இவ்வாறு தியானம் செய்தால் மன உறுதி கிடைக்கும். சக்தி பெருகும்.`,
@@ -422,21 +416,11 @@ Resakam is to exhale thereafter for matras two and thirty
 Thus alternate from left to right and right to left
 With Kumbhakam in between.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-568-Third-Tantra-5.-Yoga-of-Breath-Control.mp3',
-    elaborationEnglish: `Inhalation of 16 matras of breath by the left nostril is
+    elaborationEnglish: `Inhalation of 16 matras of breath by the left nostril is purakam. Retention of 64 mantras of breath thus inhaled is kumbakam. Exhalation of 32 matras is rechakam. Thus in pranayama the breath is inhaled and exhaled from left to right and back from right-to left with retention in between. A matra is a specific time duration.
 
-purakam. Retention of 64 mantras of breath thus inhaled is kumbakam. Exhalation of 32 matras is rechakam. Thus in pranayama the breath is inhaled and exhaled from left to right and back from right-to left with retention in between. A matra is a specific time duration.
+1) Matra is a measure in time approximating a second, Vachaspati in his gloss on "Yoga Sutras of Patanjali" says, "A matra is the time which is taken up by thrice turning up one's hand over one's knee, and then snapping the fingers once.."— "Yoga Sutras of Patanjali,'' ii, as quoted in 'Hatha Yoga, *' by Theos Bernard, p.56 n.
 
-1)Matra is a measure in time approximating a second, Vachaspati in his gloss on ‘‘Yoga Sutras of Patanjali’’ says, “A matra is the time which is taken up by thrice turning up one’s hand over one’s knee, and then snapping the fingers once.."— “Yoga Sutras of Patanjali,’’ ii, as quoted in ‘Hatha Yoga, *’ by Theos Bernard, p.56 n.
-
-2}According to Yogacharya Shantikumar, this is one of the two methods for cleaning. the subtle channels of breath—through bija. The aspirant should adopt the lotus posture and concentrate on vayu-bija which has the colour of smoke. He should then breathe in through the left nostril for 16 counts, and hold the breath for 64 counts. Then he should exhale through the right nostril for 32 counts. Then he should meditate on fire-bija and breath in through the Tight nostril and go through the round as-he did previously with the left. Thus he should alternate breathing through left and right.
-
-Breath Control Makes Body Light as Carpenter -Bee
-
-Tf you control the breath within,
-
-Young and crystal-hard it turns
-
-And with the goodly Guru’s benign Grace, Well may you become lighter than air.`,
+2) According to Yogacharya Shantikumar, this is one of the two methods for cleaning the subtle channels of breath—through bija. The aspirant should adopt the lotus posture and concentrate on vayu-bija which has the colour of smoke. He should then breathe in through the left nostril for 16 counts, and hold the breath for 64 counts. Then he should exhale through the right nostril for 32 counts. Then he should meditate on fire-bija and breath in through the right nostril and go through the round as he did previously with the left. Thus he should alternate breathing through left and right.`,
     elaborationTamil: `ஒரு மடங்கு அளவு (பதினாறு வினாடிகள்) காற்றை இடது மூக்குத்துவாரத்தின் வழியாக இழுத்தல் பூரகம் ஆகும். அந்த மூச்சுக்காற்றை உள்ளுக்குள்ளேயே நான்கு மடங்கு அளவு (அறுபத்து நான்கு வினாடிகள்) அடக்கி வைத்திருத்தல் கும்பகம் ஆகும். அப்படி அடக்கிய மூச்சுக்காற்றை இரண்டு மடங்கு அளவு (முப்பத்து இரண்டு வினாடிகள்) வலது மூக்குத்துவாரத்தின் வழியாக மெல்ல வெளியே விடுதல் இரேசகம் ஆகும். இவ்வாறு செய்வதே பிராணாயமம் செய்யும் வழிமுறையாகும். பிராணாயாமத்தை இவ்வாறு சரியாகச் செய்வதால் உடல் தூய்மை பெற்று ஆற்றல் மிகுந்து நற்பண்புகள் கைகூடும். இவ்வாறு செய்யாமல் வலது மூக்குத்துவாரத்தின் வழியாக முதலில் இழுத்து இடது மூக்குத்துவாரத்தின் வழியாக மாற்றி விடுதல் கெடுதல் ஆகும். குறிப்பு: பிராணாயாமம் செய்ய ஆரம்பிக்கும் போது முதலில் இடது பக்கம் முதலில் மூச்சுக் காற்றை இழுத்து வலது பக்கம் மூக்குத் துவாரத்தின் வழியாக மாற்றி விட்டு பயிற்சி செய்ய வேண்டும். முதலில் வலது பக்கம் முதலில் மூச்சுக் காற்றை இழுத்து இடது பக்கம் மூக்குத்துவாரத்தின் வழியாக மாற்றி விட்டு பயிற்சி செய்தால் உடலுக்கு தீங்கு உண்டாகும்.`,
   },
   {
@@ -2253,19 +2237,7 @@ Compare Siva 1-9: ‘‘From the different modifications of the prana, it receiv
 
 Vayus are nerve currents—‘‘Shakti and Shakta’’ by Sir John Woodroffe, p.686. "
 
-These three verses which deal with Vayu (Body-Wind) and physical health are medicinal in nature.
-
-Importance of Dhanamjaya
-
-Danamjaya pervades the other nine Vayus Within the body it permeates
-
-Nadis two hundred and twenty four
-
-If Dhanamjaya functions not thus,
-
-This body will swell and burst.
-
-The Importance of two Vayus is mentioned. This is a part of Ayur or Siddha Veda which was the specialty in the medicine of the Siddhars.`,
+These three verses which deal with Vayu (Body-Wind) and physical health are medicinal in nature.`,
     elaborationTamil: `பிராணன், அபானன், வியானன், சமானன், நாகன், கூர்மன், கிருகரன், தேவதத்தன், உதானன் ஆகிய ஒன்பது வாயுக்களும், இடகலை, பிங்கலை, சிகுவை, புருடன், காந்தாரி, அத்தி, அலம்புடை, சங்கினி, குகு ஆகிய ஒன்பது நாடிகளில் (நரம்புகளில்) அதிகமாகாமலும் குறையாமலும் சரிசமமாக இருந்தால் பத்தாவது நாடியான சுழுமுனை வழியே செல்லும் பத்தாவது வாயுவான தனஞ்செயன் என்னும் வாயு உடலோடும் உயிரோடும் ஒன்றுபட்டு பிரியாமல் இருக்கும். கருத்து: உடலிலுள்ள ஒன்பது வாயுக்களும் சமமாக இருந்தால் உடலை விட்டு உயிர் பிரியாது இருக்கும்.`,
   },
   {
@@ -2875,9 +2847,7 @@ With it they can see the Light of Nada above;
 Them who thus seek
 The Light Above leads to Liberation effortless.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-683-Third-Tantra-11.-Eight-Great-Attainments.mp3',
-    elaborationEnglish: `1) Prakamya — The traditional interpretations are: 1) ‘‘The capacity to derive enjoyment from everything heard or seen;"’ 2) “The power to exercise an irresistible will upon the minds
-
-of others;’’ 3) ““The power to obtain more than one expects;”” 4) ‘‘The power to enter into the body of another;’’ 5) ““The power to maintain a youthful appearance for an unusual length of time.’’ It is the mastery over the element water,’’ the emotional or astral plane —- G.H. Mees, op.cit.`,
+    elaborationEnglish: `1) Prakamya — The traditional interpretations are: 1) ‘‘The capacity to derive enjoyment from everything heard or seen;"’ 2) “The power to exercise an irresistible will upon the minds of others;’’ 3) ““The power to obtain more than one expects;”” 4) ‘‘The power to enter into the body of another;’’ 5) ““The power to maintain a youthful appearance for an unusual length of time.’’ It is the mastery over the element water,’’ the emotional or astral plane —- G.H. Mees, op.cit.`,
     elaborationTamil: `எதையும் நமக்கு உணரவைக்கும் சிவத்தின் ஒளி நமது புருவ மத்தியில் ஆக்ஞா ஒளியாக இருப்பதை யாரும் அறியவில்லை. மூலாதாரத்திலிருக்கும் அக்கினியை மேலேற்றிச் சென்று சகஸ்ரதளத்தில் ஒளிமயமாக பார்க்க முடிந்தவர்களுக்கு ஜோதியாய் இருக்கும் சதாசிவத்தை தரிசிப்பதும் அதன் மூலம் முக்தியை அடைவதும் எளிதாகும். கருத்து: மூலாதாரத்திலிருக்கும் அக்கினியை சகஸ்ரதளத்திற்கு கொண்டு செல்ல முடிந்தவர்களுக்கு ஜோதி தரிசனமும் முக்தியும் எளிதாகும்.`,
   },
   {
@@ -3409,25 +3379,22 @@ Defying speech and thought.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-709-Third-Tantra-11.-Eight-Great-Attainments.mp3',
     elaborationEnglish: `Adhara yoga consists in worshipping the appropriate God at each of the centres, and ascending them one after another. In the sahasrara region eventually to be reached are Sakti and Siva with the 16 kalas in the moon. Ascending still beyond is jnana, the light divine. Yet beyond this is unalloyed bliss, defying speech and thought, and which is reached through niradhara yoga.
 
-Each of the successive adharas (chakras) has its presiding deity — in muladhara, Brahma, in svadhishtana, Vishnu; in
+Each of the successive adharas (chakras) has its presiding deity — in muladhara, Brahma, in svadhishtana, Vishnu; in manipura, Rudra; in anahata, Mahesvara; in vishuddhi, Sadasiva; in ajna, the apara bindu; in sahasrara, the paranada, Sakti and Siva. Still beyond are the parabindu, the paranada, Parasakti and Parasiva, and finally there is the Space. Thus, in effect, the centres are eleven in number. Only the first six are known as adharas or centres, and piercing them by kundalini yoga and reaching the seventh is known as adhara yoga. When the prana ascends further beyond to the next four centres above the seventh — they are known as 'sthanas'. When prana reaches the Paraparam in the Space this is known as or the 'twelfth end.' Prana's ascension beyond sahasrara to the space; known as niradhara yoga.
 
-manipura, Rudra; in anahata, Mahesvara; in vishuddhi, Sadasiva; in ajna, the apara bindu; in sahasrara, the paranada, Sakti and Siva. Still beyond are the parabindu, the paranada, Parasakti and Parasiva, and finally there is the Space. Thus, in effect, the centres are eleven in number. Only the first six are known as adharas or centres, and piercing them by kundalini yoga and reaching the seventh is known as adhara yoga. When the prana ascends further beyond to the next four centres above the seventh — they are known as ‘sthanas’. When prana reaches the Paraparam in the Space this is known as or the ‘twelfth end.” Prana’s ascension beyond sahasrara to the space; known as niradhara yoga.
+By 'Niradhara', Mular apparently means beyond the 'adharas' of the body.
 
-By ‘Niradhara’’, Mular apparently means beyond the “‘adharas”’ of the body.
+Each of the adharas or centers within has a presiding deity:
 
-Each of the adharas or centers within has a presiding deity: In muladhara is Brahma seated; In svadhishtana is Vishnu;
-
-In manipuraka is Rudra; ~
-
-anahata is Mahesvara;
-
-In visuddhi is Sadasiva;
-
-In ajna is Bindu (apara);
+    0.    In muladhara is Brahma seated;
+    0.    In svadhishtana is Vishnu;
+    0.    In manipuraka is Rudra;
+    0.    In anahata is Mahesvara;
+    0.    In visuddhi is Sadasiva;
+    0.    In ajna is Bindu (apara);
 
 Coursing the kundalini through these six centres and reaching the apara nada sakti and Siva in sahasrara is adhara yoga.
 
-Beyond are the categories para bindu, para nada, Parasakti, and Parasiva, These categories are the presiding deities of the eighth. ninth, tenth and eleventh sthanas. They are not centres as are met with in the lower adhara yoga.`,
+Beyond are the categories para bindu, para nada, Parasakti, and Parasiva, These categories are the presiding deities of the eighth, ninth, tenth and eleventh sthanas. They are not centres as are met with in the lower adhara yoga.`,
     elaborationTamil: `யோகத்தின் மூலம் குண்டலினி சக்தியை மேலெழுப்பி மூலாதாரம் முதலிய ஆறு ஆதார சக்கரங்களிலும் வீற்றிருக்கும் மூர்த்திகளோடும் கலந்து சென்று அதற்கு மேலே இருக்கும் சகஸ்ரதளத்தில் வீற்றிருக்கும் சதாசிவமூர்த்தியோடு இணைந்து அமிர்தமாகி தலை உச்சியிலிருந்து நான்கு அங்குலத்திற்குக் கீழே இருக்கும் உள் நாக்கில் பரஒளியாகிய அசையும் சக்தியுடன் கலந்து அதன்பிறகு தலை உச்சியிலிருந்து பன்னிரண்டு அங்குலத்திற்கு மேலே இருக்கும் துவாதசாந்த வெளியில் இருக்கும் பரநாதமாகிய அசையா சக்தியோடு இரண்டறக் கலந்து இருப்பதே பேரின்பம் கொடுக்கும் ஆனந்த யோகமாகும். கருத்து: குண்டலினி சக்தியை ஏழு சக்கரங்களுக்கும் ஏற்றிச் சென்று எட்டாவது நிலையில் அமிர்தமாகி ஒன்பதாவது நிலையில் இறைவனோடு கலந்து இருப்பதே பேரின்பம் கொடுக்கும் ஆனந்த யோகமாகும்.`,
   },
   {
@@ -3778,7 +3745,7 @@ They who can do this
 Will gain a body
 That no fire can burn.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-726-Third-Tantra-13.-Way-for-Bodily-Attainment.mp3',
-    elaborationEnglish: `The body must be kept pure. This is achieved by churning the intestines through the practice known as ‘suddhi.” Then the bowels become clean. Control the breath in the heart's region and make it pervade the entire nadi system system`,
+    elaborationEnglish: `The body must be kept pure. This is achieved by churning the intestines through the practice known as ‘suddhi.” Then the bowels become clean. Control the breath in the heart's region and make it pervade the entire nadi system.`,
     elaborationTamil: `சுவாசிக்கும் மூச்சுக்காற்றை மூலாதாரத்திற்கு அனுப்பி மூலாதாரத்திலுள்ள அக்கினியால் மூச்சுக்காற்றை சுத்தம் செய்து சுழுமுனை நாடியின் கீழ்புறத்திலிருந்து மேலாகச் செலுத்தினால் சுழுமுனையை நாடி சுத்தம் அடையும். பின்பு அந்த காற்றை சகஸ்ரதளத்தில் இருக்கும் ஆயிரம் இதழ்கள் கொண்ட தாமரை மலரோடு சேர்த்து அந்த மலரை விரியச் செய்த பிறகு அந்த வாயுவை உடம்பிலுள்ள அனைத்து நாடிகளுக்குள்ளும் செலுத்தும் அகயோகப் பயிற்சியை அறிந்து கொண்டு அதைச் செய்பவர்களின் உடல் நெருப்பில் கருகி வெந்துபோகாமல் என்றும் அழியாமல் நிலைத்து நிற்கும். கருத்து: சுவாசிக்கும் மூச்சுக்காற்றை மூலாதாரத்திற்கு அனுப்பி சுழுமுனை நாடியை சுத்தப்படுத்தி சகஸ்ரதளத்தில் சேர்த்து பின்பு உடலில் உள்ள அனைத்து நாடிகளுக்கும் அனுப்பும் பயிற்சியை செய்பவர்களின் உடல் நெருப்பினால் சுட்டாலும் அழியாமல் இருக்கும்.`,
   },
   {
@@ -5334,9 +5301,7 @@ Bolt the cavity above with thy tongue's tip
 And sit erect in yoga Samadhi
 No more shall be death for you.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-799-Third-Tantra-18.-Yoga-of-Cosmic-Energy.mp3',
-    elaborationEnglish: `The keche:. yoga is the most important technique in kundalini yoga. It contains the breath within and sees that it is not wasted. The source of kundalini in the muladhara is dammed up and stopped so that breath does not escape downwards
-
-as apana. Similarly, the breath-escape of the prana in the mouth’s upper cavity is locked with the tongue’s tip. Having bolted’ the escapes below and above, the yogi sits erect in samadhi.
+    elaborationEnglish: `The keche:. yoga is the most important technique in kundalini yoga. It contains the breath within and sees that it is not wasted. The source of kundalini in the muladhara is dammed up and stopped so that breath does not escape downwards as apana. Similarly, the breath-escape of the prana in the mouth’s upper cavity is locked with the tongue’s tip. Having bolted’ the escapes below and above, the yogi sits erect in samadhi.
 
 1) Although the word yoga, is used here-in connection with kechari by Tirumular, the classical works like Hatha Yoga Pradipika Gheranda Samhita and Siva Samhita (iv,12-15) refer to the as a mudra. The word mudra means ‘to seal,’ ‘close,’ or ‘lock up.” The mudra is a technique for locking the breath within the body. After the practitioner has purified his and gained control of his breath, the technique of mudra is imparted to him by the Guru. Mudras are sometimes referred to as ‘bandha’ which means to ‘bind, fix or restrain.’ “Hatha yoga Pradipika and Gheranda Samhita refer to 25 mudras; Siva Samhita refers to 10 mudras.
 
@@ -5344,9 +5309,7 @@ The word, kechari, has nothing to do with ‘kesari’ which means lion. As in T
 
 Hatha Yoga Pradipika describes it as follows: “The kechari mudra is accomplished by thrusting the tongue into the gullet, by turning it’ over on itself and keeping the eyesight in the middle of the eyebrows. To accomplish this, the tongue is lengthened by cutting the fraenum linguae, moving and pulling it. When it can reach the space between the eyebrows, then kechari can be accomplished. Taking a sharp, smooth, and clean instrument, of the shape of a cactus leaf, the fraenum of the tongue should be cut a little (as
 
-much as a hair’s thickness) at a time. Then rock salt and yellow (both powdered) should be rubbed in. On the 7th day, it should be again cut a hair’s breadth. One should go on doing thus, regularly for six months. At the end of six months the fraenum of the tongue will be completely cut. Turning the tongue upwards, it is fixed on the three ways (esophagus, wind pipe and palate). Thus it makes the kechari mudra.”’
-
-Compare Ghéeranda Samhita 25-280); “Cut the lower tendon of the tongue, and move the tongue constantly; rub it with fresh butter, and draw it out (to lengthen it) with an iron instrument. By practising this always, the tongue becomes long; and when it reaches the space between the - eyebrows, then the kechari is accomplished. Then the tongue being lengthend, practise turning it upwards and backwards so as to touch the palate, till at length it reaches the holes of the nostrils opening into the mouth.-Close those holes with the tongue (thus stopping inspiration), and fix the gaze on the space between the eyebrows. This is called kechari.`,
+much as a hair’s thickness) at a time. Then rock salt and yellow (both powdered) should be rubbed in. On the 7th day, it should be again cut a hair’s breadth. One should go on doing thus, regularly for six months. At the end of six months the fraenum of the tongue will be completely cut. Turning the tongue upwards, it is fixed on the three ways (esophagus, wind pipe and palate). Thus it makes the kechari mudra.”’ Compare Ghéeranda Samhita 25-280); “Cut the lower tendon of the tongue, and move the tongue constantly; rub it with fresh butter, and draw it out (to lengthen it) with an iron instrument. By practising this always, the tongue becomes long; and when it reaches the space between the - eyebrows, then the kechari is accomplished. Then the tongue being lengthend, practise turning it upwards and backwards so as to touch the palate, till at length it reaches the holes of the nostrils opening into the mouth.-Close those holes with the tongue (thus stopping inspiration), and fix the gaze on the space between the eyebrows. This is called kechari.`,
     elaborationTamil: `மூச்சுக் காற்று கீழே இறங்காமல் அண்ணாக்கில் அதைக் கட்டிவிட வேண்டும். அபான வாயு குதம் வழியாகவோ அல்லது குறி வழியாகவோ வெளியேறாமல் குதத்தைச் சுருக்கி நிறுத்த வேண்டும். இரு கண் பார்வைகளையும் ஒன்றாக்கிவிட வேண்டும். உள்ளத்தைச் சுழுமுனை வழியே பாயும் மூச்சில் கொண்டு நிறுத்த வேண்டும். உடலைத் தாண்டிய இந்த நிலையை ஒருவன் அடைந்து விட்டால் அவன் காலத்தைக் கடந்து விடலாம். அவனுக்கு ஒரு மரணம் இல்லை.`,
   },
   {
@@ -6469,7 +6432,7 @@ Gross is that runs in the body.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-851-Third-Tantra-21.-Yoga-of-Moon-Region.mp3',
     elaborationEnglish: `The Prana that we breathe, ida and pingala, is gross. It rises and falls like the moon that waxes and wanes. But when this prana, ziter the practice of kechari mudra, ascends to the mivon's kala, it becomes sukshma or subtle. The subtle prana is pure.
 
-The 16 Kalas of the Moon are the 16 phases New Moon andthe Full Moon are each counted as two); the 12 Kalas of the Sun are the months; Agni as such has no Kalas, but the ten Agnis are apparently treated as 10 Kalas. s. mG wy cr`,
+The 16 Kalas of the Moon are the 16 phases New Moon andthe Full Moon are each counted as two); the 12 Kalas of the Sun are the months; Agni as such has no Kalas, but the ten Agnis are apparently treated as 10 Kalas.`,
     elaborationTamil: `: எண்ணங்கள் தூல உடலில் இருந்து சூட்சும உடலுக்கு ஏறியும் சூட்சும உடலில் இருந்து தூல உடலுக்கு இறங்கியும் வரும். இது சந்திரனின் வளர்பிறை தேய்பிறை போன்று இருக்கும். சூட்சும உடல் தூய்மை அடைவதற்கு ஏற்ப தூல உடம்பும் தூய்மை அடையும்.`,
   },
   {
