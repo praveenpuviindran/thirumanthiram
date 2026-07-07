@@ -1621,7 +1621,7 @@ That no desire knows;
 They who fix their gaze on Goal True
 Will reach the Mango Fruit
 That in the garden there hangs.`,
-    elaborationEnglish: `The celestials churned the oceans with the dark mountain in search The yogi climbs the mystic mango tree within, and tastes of the fruit that is Siva.`,
+    elaborationEnglish: `The yogi climbs the mystic mango tree within, and tastes of the fruit that is Siva.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-624-Third-Tantra-9.-Yoga-of-Liberation.mp3',
     elaborationTamil: `கட்டுப்பாடின்றி உடம்பின் மேலும் கீழும் செல்லும் பிராணவாயுவை வீட்டைப் பூட்டி வீட்டை தன் கட்டுப்பாட்டில் வைப்பது போல உடம்பினுள் பிராணவாயுவைக் கட்டுப்படுத்தி வைத்து ஆசைப்பட்டு வெளியே அலையும் மனதை ஒருமுகப்படுத்தி வெளியில் பார்க்கும் பார்வையை உள் நோக்கி செலுத்தி தியானத்தில் அமர்ந்திருந்தால் மாம்பழமும் இனிப்பும் போன்று இறைவனுடன் ஒன்றி சமாதியில் இருக்கலாம்.`,
   },
@@ -2470,7 +2470,7 @@ And as the Cause of Vishnu, Brahma
 And the rest of the Gods Five
 She expanded pervasive.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-663-Third-Tantra-11.-Eight-Great-Attainments.mp3',
-    elaborationEnglish: ``,
+    elaborationEnglish: `Line 1—poorna sakti is Adi or Primal Sakti. Line 2—She evolves as ichcha, jnana and kriya and fills the seven adharas, including sahasrara.`,
     elaborationTamil: `ஒன்பது சக்திளும் இணைந்த பராசக்தியானது (பாடல் #663 இல் உள்ளபடி) உடலில் படைத்தல், காத்தல், அழித்தல், மறைத்தல், அருளல் ஆகிய தொழில்களைச் செய்யும் ஐந்து மூர்த்திகளையும் உணர்கின்ற ஐந்து இடங்களுக்கும் இருபத்து ஒருவராக பிரிந்து மொத்தம் நூற்று ஐவராக கலந்து இருக்கின்றார்கள். கருத்து: உடலில் ஐந்தொழில்களையும் செய்கின்ற ஐந்து இடங்களிலும் சக்தியாக பூரணசக்தி கலந்து இருக்கின்றது.`,
   },
   {
@@ -3260,7 +3260,7 @@ How Prana Pervaded the Nadis
 The Prana that reaches Sakti
 Emanating fro`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-702-Third-Tantra-11.-Eight-Great-Attainments.mp3',
-    elaborationEnglish: `This verse introduces the concept of the general topic knqwn as “Varna Mala’’ by describing how (the vital principle), merges in the Letters Five (to be described in subsequent verses)`,
+    elaborationEnglish: `In all, by the time the prana travels from the four-petalled muladhara to the thousand-petalled sahasrara, it will have pervaded 729 nadis within. This verse introduces the concept of the general topic known as 'Varna Mala' by describing how 'Prana' (the vital principle), merges in the Letters Five (to be described in subsequent verses).`,
     elaborationTamil: `பாடல் 700 ல் உள்ளபடி மூலாதாரத்தில் ஜோதி வடிவமாக இருக்கும் சக்தியுடன் ஓர் பங்கு மூச்சுக்காற்று கலக்கும். அந்த மூச்சுக்காற்று எழும் இடத்தை சொன்னால் எழுநூற்று இருபத்து ஒன்பது நாடிகள் வழியாக நான்கு இதழ்களைக் கொண்ட மூலாதாரச் சக்கரத்தின் அக்கினியோடு இருந்தவாறே ஆரம்பிக்கின்றது. கருத்து: நான்கு இதழ்களாக இருக்கின்ற மூலாதார சக்கரத்தில் இருந்து எழுநூற்று இருபத்து ஒன்பது நாடிகளின் வழியாக ஓர் பங்கு காற்று மூலாதாரத்தில் ஜோதி வடிவமாக இருக்கும் சக்தியுடன் கலக்கிறது. குறிப்பு: பாடல் #700ல் உள்ளபடி ஓர் பங்கு மூச்சுக்காற்று பாடல் #701ல் தலை உச்சியில் இருக்கும் சகஸ்ரதளத்தோடு மூச்சுக்காற்று கலக்கும் விதத்தை சொன்ன திருமூலர் இப்பாடலில் கீழே இருக்கும் மூலாதார சக்கரத்தில் மூச்சுக்காற்று கலக்கும் விதத்தை கூறுகிறார்.`,
   },
   {
@@ -5133,7 +5133,7 @@ Prana flows in the left
 In the waxing moon's fortnight;
 And in the right in the waning moon's fortnight.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-790-Third-Tantra-16.-State-of-Breath-in-a-Week.mp3',
-    elaborationEnglish: `On Mondays, Wednesdays, and Fridays, prana dominates on On Mondays, Wednesdays, and Fridays, prana dominates on left (ida) nadi. On Tuesdays, Saturdays and Sundays it tuns high on the right nadi (Pingala). On Thursday, prana rises high in the left in the waxing moon’s fortnight; and in the right in the waning moon’s fortnight.`,
+    elaborationEnglish: `On Mondays, Wednesdays, and Fridays, prana dominates on left (ida) nadi. On Tuesdays, Saturdays and Sundays it tuns high on the right nadi (Pingala). On Thursday, prana rises high in the left in the waxing moon’s fortnight; and in the right in the waning moon’s fortnight.`,
     elaborationTamil: `: வெள்ளி திங்கள் புதன் கிழமைகளில் இட நாடி வழியாக மூச்சு இயங்க வேண்டும். சனி ஞாயிறு செவ்வாய்க் கிழமைகளில் வல நாடி வழியே மூச்சு இயங்க வேண்டும். வளர்பிறை வியாழக் கிழமைகளில் இடநாடியிலும் தேய்பிறை வியாழக் கிழமைகளில் வலது நாடியிலும் மூச்சு இயங்க வேண்டும். இவ்வாறு இயங்குவது உடல் நலத்திற்கு ஏற்ற இயற்கையான பிராண இயக்கமாகும்.`,
   },
   {
@@ -6875,7 +6875,7 @@ If you can resolve the conflict of Serpent and Moon
 Merging the Kalas of Moon in Kundalini
 The Lord will leave you not, ever ever.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-871-Third-Tantra-21.-Yoga-of-Moon-Region.mp3',
-    elaborationEnglish: `She (kundalini) runs to sahasrara and bites the chandra…Then nectar begins to flow - vide commentary on verse 32 of Anandalahiri, as quoted in "The Serpent Power" by Sir John Woodroffe, p.235. ''' ''The kundalini that moves up "devours the moon." Let not the yogi sleep until the serpent throws it out. When it throws it out, the mind becomes luminous as the full moon. Then the yogi may sleep.'`,
+    elaborationEnglish: `She (kundalini) runs to sahasrara and bites the chandra…Then nectar begins to flow - vide commentary on verse 32 of Anandalahiri, as quoted in "The Serpent Power" by Sir John Woodroffe, p.235.`,
     elaborationTamil: `சந்திர யோகப் பயிற்சியின் மூலம் குண்டலினியாகிய பாம்பை உறக்கத்திலிருந்து எழுப்பிவிட்டால் அது நித்தமும் சந்திர கலையை உண்டு அதுவும் பத்தாதென்று சூடாகிய தீங்கைக் கொடுக்கும் சூரிய கலையையும் உண்டு வளரும். குண்டலினிக்கு இரையாக கலைகள் இருப்பதால் இரண்டும் பகையாளிகள் போல இருந்தாலும் சந்திர யோகப் பயிற்சியினால் குண்டலினியை ஒவ்வொரு மண்டலமாக மேலேற்றிச் சென்று கடைசியில் ஒன்பதாவதான பரவெளியில் இருக்கும் சந்திர மண்டலத்தோடு ஒன்று சேர்த்துவிட்டால் குண்டலினியும் கலைகளும் தமது பகையைத் தீர்த்து ஒன்றாகிவிடும். அதன் பிறகு மாபெரும் கருணையாளனான இறைவன் யோகியை விட்டு என்றும் நீங்காமல் இருப்பான். உட்கருத்து: சந்திர யோகப் பயிற்சியில் மூச்சுக்காற்றின் மூலமே குண்டலினியை வளர்த்து ஏழு சக்கரங்கள் எட்டாவது துவாதசாந்த வெளியைத் தாண்டிய ஒன்பதாவது பரவெளியில் இருக்கும் சந்திர மண்டலத்தோடு கலந்துவிட்டால் அதன் பிறகு யோகியர்களுக்கு மூச்சுக்காற்றோ உணவோ தேவையின்றி எவ்வளவு காலமும் இறைவனுடன் பேரின்பத்தில் இருக்கலாம்.`,
   },
   {
@@ -6897,6 +6897,7 @@ Then may you take your sleep;
 Your mind shall then luminous as full moon be
 Then the Mystic Moon inside
 Will shed its dazzling Kalas full.`,
+    elaborationEnglish: `The kundalini that moves up "devours the moon." Let not the yogi sleep until the serpent throws it out. When it throws it out, the mind becomes luminous as the full moon. Then the yogi may sleep.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-872-Third-Tantra-21.-Yoga-of-Moon-Region.mp3',
     elaborationTamil: `குண்டலினியுடன் மேலே சென்ற சந்திரன் தலையின் மீது நிற்கும் குண்டலினியை உறங்காமல் கவனிக்கும். அதன் பின் கீழே சந்திரன் இறங்கிய போது உறங்கும். நன்மையைத் தரும் ஒளியை மனத்தில் இருக்கச் செய்தால் அப்போது முழுமையாகத் சந்திரக்கலை யோகியிடம் பொருந்தும்.`,
   },
