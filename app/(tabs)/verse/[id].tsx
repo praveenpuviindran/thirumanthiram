@@ -25,7 +25,7 @@ const TABS: { key: Tab; label: string }[] = [
   { key: 'feedback', label: 'Feedback' },
 ];
 
-const FEEDBACK_EMAIL = 'vijitha_puvi@yahoo.ca,luxmy2006@hotmail.co.uk';
+const FEEDBACK_EMAIL = 'thirumanthiram2026@gmail.com';
 
 export default function VerseScreen() {
   const { id } = useLocalSearchParams<{ id: string }>();

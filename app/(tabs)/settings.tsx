@@ -144,23 +144,17 @@ export default function SettingsScreen() {
               We'd love to hear from you. Reach out with feedback, corrections, or suggestions:
             </Text>
           </View>
-          {[
-            { label: 'Vijitha Puviindran', email: 'vijitha_puvi@yahoo.ca' },
-            { label: 'Luxmy', email: 'luxmy2006@hotmail.co.uk' },
-          ].map((c, i, arr) => (
-            <TouchableOpacity
-              key={c.email}
-              style={[styles.row, { borderBottomColor: i < arr.length - 1 ? theme.border : 'transparent' }]}
-              onPress={() => Linking.openURL(`mailto:${c.email}`)}
-              activeOpacity={0.7}
-            >
-              <View style={styles.rowText}>
-                <Text style={[styles.rowLabel, { color: theme.text }]}>{c.label}</Text>
-                <Text style={[styles.rowSub, { color: theme.saffron }]}>{c.email}</Text>
-              </View>
-              <Text style={[styles.rowLabel, { color: theme.saffron }]}>✉</Text>
-            </TouchableOpacity>
-          ))}
+          <TouchableOpacity
+            style={[styles.row, { borderBottomColor: 'transparent' }]}
+            onPress={() => Linking.openURL('mailto:thirumanthiram2026@gmail.com')}
+            activeOpacity={0.7}
+          >
+            <View style={styles.rowText}>
+              <Text style={[styles.rowLabel, { color: theme.text }]}>Email</Text>
+              <Text style={[styles.rowSub, { color: theme.saffron }]}>thirumanthiram2026@gmail.com</Text>
+            </View>
+            <Text style={[styles.rowLabel, { color: theme.saffron }]}>✉</Text>
+          </TouchableOpacity>
         </View>
 
         {/* Sources */}
