@@ -46,7 +46,7 @@ export default function HomeScreen() {
           </View>
 
           <View style={styles.heroInner}>
-            <View style={[styles.heroBadge, { borderColor: Colors.saffron + 'CC', backgroundColor: Colors.saffron + '18' }]}>
+            <View style={[styles.heroBadge, { borderColor: Colors.saffron + '99', backgroundColor: Colors.saffron + '18' }]}>
               <Text style={[styles.heroBadgeText, { color: Colors.saffronLight }]}>
                 {ORNAMENT}  திருமந்திரம்  {ORNAMENT}
               </Text>
@@ -258,7 +258,7 @@ const styles = StyleSheet.create({
   heroTitle: {
     fontSize: 42,
     fontWeight: '900',
-    color: '#FFFFFF',
+    color: '#F5ECD8',
     letterSpacing: -0.5,
     textAlign: 'center',
   },
