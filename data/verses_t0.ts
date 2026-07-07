@@ -299,7 +299,7 @@ Into Brahma did He expand, into Hara did He,
 And into the soul of the body He pervades
 As the Effulgence Divine, the Dharmic law limitless,
 The Eternal and the Everlasting.`,
-    elaborationEnglish: ``,
+    elaborationEnglish: `Hara-Rudra`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-15-Proem-1.-Praise-of-God.mp3',
     elaborationTamil: `அருளாகிய ஒளி உருவினனாயும், என்றும் குறைதல் இல்லாத அவ்வருள் காரணமாக அனைத்துயிர்க்கும் நடுவுநிலைமையனாயும், அழிவில்லாதவனாயும் உள்ள சிவ பெருமான், தானே உலகிற்கு முதலாகியும், முடிவாகியும், பல்வகை உடம்பிலும் காணப்படுகின்ற இன்ப துன்பங்களாகியும் பரந்து நிறைந்திருக்கின்றான்.`,
   },
