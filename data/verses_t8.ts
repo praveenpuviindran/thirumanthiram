@@ -1772,13 +1772,7 @@ Turiya in Jagra
 Is abstaining from seeking;
 In the state of Turiyatita
 Is Nandi verily.`,
-    elaborationEnglish: `Thirty-five tattvas constitute the jagrat state. With twenty-five tattvas jiva functions in the throat centre: that is the dream state. Purusha is in sushupti with three tattvas. When purusha and prana reach the navel centre, then it is the turiya state.
-
-1) In the jagrat (waking) state, purusha, the experient soul, functions with 35 tattvas in the eyebrow centre. These 35 are: five jnanendriyas (sense organs); five karmendriyas (motor organs); four antahkaranas (inner intelligence organs); ten vayus (airs); five vaks (sounds); one jiva (purusha)—in all 35 tattvas functions in the eyebrow centre. Vide—"Saiva Siddhanta Kattalaigal," edited by K. Narayanasami Naidu, p.30: "Jagrat-in-jagrat is functioning with the senses; svapna-in-jagrat is thinking and forgetting; seeking inward is sushupti-in-jagrat; turiya-in-jagrat is abstaining from seeking. Nandi is truly in the turiyatita states."
-
-2) In the dream state, the five sensoria, and the five motoria are left behind in the eyebrow centre, and the rest of the 25 tattvas stand in the throat centre—op.cit.
-
-3) In the deep sleep state (sushupti), chitta, prana, and jiva stand in the heart centre—op.cit.`,
+    elaborationEnglish: `Jagrat-in-jagrat is functioning with the senses; svapna-in-jagrat is thinking and forgetting; seeking inward is sushupti-in-jagrat; turiya-in-jagrat is abstaining from seeking. Nandi is truly in the turiyatita states.`,
     elaborationTamil: `சாக்கிரத்தில் சாக்கிரமாவது உயிர் பொறிகளின் வழியாகப் புறத்தே உலாவிப் புலன்களைப் புதிது புதிதாக உணரும் நிலை.
 சாக்கிரத்தில் சொப்பனமாவது, புறத்துச் சென்று புதிய காட்சி -களைக் காணாது முன்பு கண்டவற்றைப் பற்றியே நினைந்திருத்தல்.
 சாக்கிரத்தில் சுழுத்தியாவது, முன்பு கண்ட காட்சிகளை நினைதலையும் விடுத்துப் பொதுமையின் நிற்றல்.
