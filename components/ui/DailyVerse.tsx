@@ -13,8 +13,9 @@ export function DailyVerse({ onPress }: Props) {
   const theme = useTheme();
 
   const verse = useMemo(() => {
+    const pool = VERSES.filter((v) => v.verseNumber <= 1842);
     const day = Math.floor(Date.now() / 86400000);
-    return VERSES[day % VERSES.length];
+    return pool[day % pool.length];
   }, []);
 
   const tantra = TANTRAS.find((t) => t.id === verse.tantraId);
