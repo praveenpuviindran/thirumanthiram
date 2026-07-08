@@ -187,6 +187,15 @@ export default function SettingsScreen() {
             </View>
           ))}
 
+          <TouchableOpacity
+            style={[styles.sourceRow, { borderBottomColor: theme.border }]}
+            onPress={() => Linking.openURL('https://kvnthirumoolar.com')}
+            activeOpacity={0.7}
+          >
+            <Text style={[styles.sourceTitle, { color: theme.text }]}>Audios</Text>
+            <Text style={[styles.sourceDetail, { color: theme.saffron }]}>kvnthirumoolar.com</Text>
+          </TouchableOpacity>
+
           {/* English Translation */}
           <View style={[styles.sourceGroupHeader, { borderBottomColor: theme.border, backgroundColor: theme.saffron + '15' }]}>
             <Text style={[styles.sourceGroupLabel, { color: theme.saffron }]}>English Translation & Commentary</Text>

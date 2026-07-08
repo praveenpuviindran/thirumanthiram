@@ -20,7 +20,7 @@ export default function HomeScreen() {
   const stats = [
     { label: 'Tantras', value: '9', sub: 'Books' },
     { label: 'Verses', value: '3,047', sub: 'Hymns' },
-    { label: 'Years Old', value: '~2,000', sub: 'Ancient' },
+    { label: 'Years Old', value: '~7,000', sub: 'Ancient' },
   ];
 
   return (
@@ -459,5 +459,5 @@ const styles = StyleSheet.create({
   },
   footerSymbol: { fontSize: 10, letterSpacing: 4 },
   footerText: { fontSize: FontSize.xs, letterSpacing: 1 },
-  footerName: { fontSize: FontSize.sm, fontWeight: '700', letterSpacing: 0.5 },
+  footerName: { fontSize: FontSize.sm, fontWeight: '700', letterSpacing: 0.5, textAlign: 'center' },
 });
