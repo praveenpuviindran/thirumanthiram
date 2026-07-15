@@ -22,7 +22,6 @@
       "requireFullScreen": false,
       "infoPlist": {
         "CFBundleDisplayName": "Thirumanthiram",
-        "CFBundleShortVersionString": "1.0.1",
         "NSMicrophoneUsageDescription": "This app does not use the microphone.",
         "NSSpeechRecognitionUsageDescription": "This app uses text-to-speech to read Tamil and English verses aloud.",
         "UIBackgroundModes": [],
