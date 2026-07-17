@@ -410,13 +410,13 @@ Then shall you taste the nectar of life.`,
 ūṟutal muppat tiraṇṭati rēcakam
 māṟutal oṉṟiṉkaṇ vañcaka māmē`,
     english: `568: Puraka Kumbhaka Resaka Alternated--Cleansing of Nadis
-Purakam is to inhale by left nostril matras six and ten
-Kumbhakam is to retain that breath for matras four and sixty
-Resakam is to exhale thereafter for matras two and thirty
+Purakam is to inhale by left nostril mantras six and ten
+Kumbhakam is to retain that breath for mantras four and sixty
+Resakam is to exhale thereafter for mantras two and thirty
 Thus alternate from left to right and right to left
 With Kumbhakam in between.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-568-Third-Tantra-5.-Yoga-of-Breath-Control.mp3',
-    elaborationEnglish: `Inhalation of 16 matras of breath by the left nostril is purakam. Retention of 64 mantras of breath thus inhaled is kumbakam. Exhalation of 32 matras is rechakam. Thus in pranayama the breath is inhaled and exhaled from left to right and back from right-to left with retention in between. A matra is a specific time duration.
+    elaborationEnglish: `Inhalation of 16 mantras of breath by the left nostril is purakam. Retention of 64 mantras of breath thus inhaled is kumbakam. Exhalation of 32 mantras is rechakam. Thus in pranayama the breath is inhaled and exhaled from left to right and back from right-to left with retention in between. A matra is a specific time duration.
 
 1) Matra is a measure in time approximating a second, Vachaspati in his gloss on "Yoga Sutras of Patanjali" says, "A matra is the time which is taken up by thrice turning up one's hand over one's knee, and then snapping the fingers once.."— "Yoga Sutras of Patanjali,'' ii, as quoted in 'Hatha Yoga, *' by Theos Bernard, p.56 n.
 
@@ -516,7 +516,7 @@ Who consumed poison deadly.`,
 kāmuṟṟa piṅkalaik kaṇṇāka ivviraṇ
 ṭō mattāl eṭṭeṭṭuk kumpikka uṇmaiyē`,
     english: `573: Time Duration of Inhaling Retaining and Exhaling Breath
-Inhaling six and ten matras by left nostril
+Inhaling six and ten mantras by left nostril
 Retaining four and sixty in the navel
 Exhaling two and thirty by the right nostril,
 They who control breath thus, chanting Aum
@@ -580,9 +580,9 @@ kūṭik koḷiṟkōla añceḻut tāmē`,
 The Prana breath
 That is damsel within body-house
 Runs in and out constant;
-If twelve matras inhaled
-Eight matras exhaled,
-The four matras retained
+If twelve mantras inhaled
+Eight mantras exhaled,
+The four mantras retained
 Shall make you divine in Siva.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-576-Third-Tantra-5.-Yoga-of-Breath-Control.mp3',
     elaborationTamil: `முறைப்படி பிராணாயாமம் செய்பவர்களின் ஆரம்பகாலத்தில் உடலை இடமாகக் கொண்டிருக்கும் இடகலை பிங்கலை (பாடல் #567 இல் உள்ளபடி) ஆகிய பிராண சக்திகள் பன்னிரண்டு அங்குல அளவிற்கு உள்ளுக்குள் வந்தும் வெளியே சென்றும் இருக்கும். பிற்காலத்தில் அந்த சக்திகள் இரண்டும் தொண்டைக்குழியிலிருந்து தலை உச்சிவரை இருக்கின்ற நான்கு அங்குல அளவிற்குச் செல்லாமல் கழுத்துக்குக் கீழே எட்டு அங்குல அளவிற்கு மட்டுமே சென்றுகொண்டு இருக்கும். தொண்டைக்குழியிலிருந்து தலை உச்சிவரை உள்ள இடத்துக்குச் செல்லாமல் இருக்கும் மூச்சுக்காற்றை அந்த இடத்திற்கும் செல்லுமாறு மொத்தம் பன்னிரண்டு அங்குல அளவிற்கும் பிராணாயாமம் செய்பவர்கள் பஞ்சாக்கர மந்திரத்தின் (நமசிவாய) வடிவாக மாறுவார்கள்.`,
@@ -2225,17 +2225,17 @@ Dananjaya, the tenth superior is,
 When the nine in their channels accord
 Life and body well accord, too.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-653-Third-Tantra-11.-Eight-Great-Attainments.mp3',
-    elaborationEnglish: `The vayus are ten: I) prana; 2) apana; 3) samana, 4) udana; 5} 6) naga; 7) kurma; 8) krikara; 9) devadatta; and 10) dhanamjaya.
+    elaborationEnglish: `Prana, the vital force, takes the help of air and performs ten functions.
+The vayus are ten: I) prana; 2) apana; 3) samana, 4) udana; 5} vyana; 6) naga; 7) kurma; 8) krikara; 9) devadatta; and 10) dhanamjaya.
 
-“The prana moves always in the heart; the apana in the sphere of the anus; the samana in the navel region; the udana in the throat; and the pervades the whole body. These are the five principal vayus. known as ‘pranadi.’ They belong to the inner body. The ‘nagadi’ five vayus belong to the outer body.
+"The prana moves always in the heart; the apana in the sphere of the anus; the samana in the navel region; the udana in the throat; and the vyana pervades the whole body. These are the five principal vayus. known as 'pranadi.' They belong to the inner body. The 'nagadi' five vayus belong to the outer body.
 
-i now tell the seats of these five external vayus. The naga vayu performs the function of belching: the kurma opens the eVelids: the krikara causes sneezing; the devadatta does yawning; the dhunamiaya pervades the whole gross body, and does not teave it, even after death.
+I now tell the seats of these five external vayus. The naga vayu performs the function of belching: the kurma opens the eVelids: the krikara causes sneezing; the devadatta does yawning; the dhunamiaya pervades the whole gross body, and does not teave it, even after death.
+The naga vayu gives rise to conscipusness, the kurma causes vision, the krikara, hunger and thirst, the devadatta produces yawning, and by dhanamjaya, sound is produced. This does not leave the body even for a minute.'' Vide Gheranda Samhita, v., 58-68.
 
-The naga vayu gives rise to conscipusness, the kurma causes vision, the krikara, hunger and thirst, the devadatta produces yawning, and by dhanamjaya, sound is produced. This does not leave the body even for a minute.’’ Vide Gheranda Samhita, v., 58-68.
+Compare Siva Sdmkita, iii, 1-9: ''From the different modifications of the prana, it receives various names, all of which cannot be stated here. Prana, apana, samana, udana, vyana, naga, kurma, krikara, devadatta, and dhanamjaya. These are the ten principal names, described by me in this sastra; they perform all the functions, incited thereto by their own actions. Again, out of these ten, the first five are the highest agents in my opinion. The seat of the prana is the heart; of the apana, the anus; of the samana, the region around the navel; of the udana, the throat; while the vyana moves all over the body. The five remaining. vayus, the naga, eric, perform the following functions in the body:' eructation, opening the eyes, hunger and thirst, gaping or yawning, and lastly hiccuping. He who in this way knows the microcosm of the body, being absolved from all sins, reaches the highest state'' — quoted in '"'Hatha Yoga'' by Theos Bernard, p.SOn.
 
-Compare Siva 1-9: ‘‘From the different modifications of the prana, it receives various names, all of which cannot be stated here. Prana, apana, samana, udana, naga, kurma, krikara, devadatta, and dhanamjaya. These are the ten principal names, described by me in this sastra; they perform all the functions, incited thereto by their own actions. Again, out of these ten, the first five are the highest agents in my opinion. The seat of the prana is the heart; of the apana, the anus; of the samana, the region around the navel; of the udana, the throat; while the moves all over the body. The five remaining. vayus, the naga, eric, perform the following functions in the body:’ eructation, opening the eyes, hunger and thirst, gaping or yawning, and lastly hiccuping. He who in this way knows the microcosm of the body, being absolved from all sins, reaches the highest state’’ — quoted in ‘“‘Hatha Yoga’’ by Theos Bernard,
-
-Vayus are nerve currents—‘‘Shakti and Shakta’’ by Sir John Woodroffe, p.686. "
+Vayus are nerve currents—''Shakti and Shakta'' by Sir John Woodroffe, p.686. "
 
 These three verses which deal with Vayu (Body-Wind) and physical health are medicinal in nature.`,
     elaborationTamil: `பிராணன், அபானன், வியானன், சமானன், நாகன், கூர்மன், கிருகரன், தேவதத்தன், உதானன் ஆகிய ஒன்பது வாயுக்களும், இடகலை, பிங்கலை, சிகுவை, புருடன், காந்தாரி, அத்தி, அலம்புடை, சங்கினி, குகு ஆகிய ஒன்பது நாடிகளில் (நரம்புகளில்) அதிகமாகாமலும் குறையாமலும் சரிசமமாக இருந்தால் பத்தாவது நாடியான சுழுமுனை வழியே செல்லும் பத்தாவது வாயுவான தனஞ்செயன் என்னும் வாயு உடலோடும் உயிரோடும் ஒன்றுபட்டு பிரியாமல் இருக்கும். கருத்து: உடலிலுள்ள ஒன்பது வாயுக்களும் சமமாக இருந்தால் உடலை விட்டு உயிர் பிரியாது இருக்கும்.`,
@@ -3385,12 +3385,12 @@ By 'Niradhara', Mular apparently means beyond the 'adharas' of the body.
 
 Each of the adharas or centers within has a presiding deity:
 
-    0.    In muladhara is Brahma seated;
-    0.    In svadhishtana is Vishnu;
-    0.    In manipuraka is Rudra;
-    0.    In anahata is Mahesvara;
-    0.    In visuddhi is Sadasiva;
-    0.    In ajna is Bindu (apara);
+   1)In muladhara is Brahma seated; 
+2)In svadhishtana is Vishnu;
+3)In manipuraka is Rudra; 
+4)In anahata is Mahesvara;
+5)In visuddhi is Sadasiva;
+6)In ajna is Bindu (apara);
 
 Coursing the kundalini through these six centres and reaching the apara nada sakti and Siva in sahasrara is adhara yoga.
 
@@ -3656,7 +3656,7 @@ pērāmaṟ kaṭṭip perituṇṇa vallīrēl
 nīrā yiramum nilamāyi rattāṇṭum
 pērātu kāyam pirāṉnanti āṇaiyē`,
     english: `722: immortality Through Samadhi Yoga
-The breath that arose twelve matras long,
+The breath that arose twelve mantras long,
 If you control and absorb within,
 Well may you live a thousand years on land and sea;
 The body perishes not;
@@ -4124,11 +4124,11 @@ Know that it consists in this
 The measure of breath inhaled is twelve angula
 Having measured accordingly
 Exhale eight matra consciously
-The four matras retained
+The four mantras retained
 Are in the six adharas to suffuse
 And thus breathing examine the Tattvas twenty and five.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-744-Third-Tantra-14.-Cycle-of-Time.mp3',
-    elaborationEnglish: `Yoga consists in the following: inhalation of 12 matras; exhalation of eight matras; retention of four matras. Breathing in this measure continuously, yoga suffuses the six adharas with prana which ascends beyond the 25 tattvas.`,
+    elaborationEnglish: `Yoga consists in the following: inhalation of 12 mantras; exhalation of eight mantras; retention of four mantras. Breathing in this measure continuously, yoga suffuses the six adharas with prana which ascends beyond the 25 tattvas.`,
     elaborationTamil: `அகயோகம் செய்ய வேண்டும் என்கிற எண்ணத்தில் பாடல் #748 இல் உள்ளபடி நட்சத்திரம் பார்த்து சாதனைகளை ஆரம்பிக்கும் சாதகர்கள் பாடல் #451 இல் உள்ளபடி தமக்குள் இருபத்தைந்து தத்துவங்களாக இருக்கும் இறைவனை அறிய வேண்டி மூச்சுக்காற்றை பாடல் #728 இல் உள்ளபடி சுழுமுனை நாடியின் 12 அங்குல அளவிற்கும் இறைவனின் மேல் சிந்தனையை வைத்து ஏற்றி இறக்கி தமது மூலாதாரத்திலுள்ள குண்டலினி சக்தியை எழுப்பி ஒவ்வொரு சக்கரமாக ஏறி ஏழாவது சக்கரமாகிய சகஸ்ரதளம் சென்றடைந்தவுடன் பாடல் #709 இல் உள்ளபடி அதையும் தாண்டிய துவாதசாந்த வெளியில் இறைவனோடு கலந்து அவன் நான்கு உயர் தத்துவங்களாக இருப்பதை உணர்ந்து கொள்வார்கள். கருத்து: முறைப்படி அகயோகம் செய்யும் சாதகர்கள் இறைவனோடு கலந்து உண்மை ஞானத்தை அடைவார்கள். இருபத்தைந்து தத்துவங்கள்: 5 பூதங்கள்: நிலம், நீர், காற்று, நெருப்பு, ஆகாயம். 5 புலன்கள்: கண்களால் பார்த்தல், காதுகளால் கேட்டல், வாயால் சுவைத்தல், மூக்கால் நுகருதல், தோலால் தொடுதல். 5 ஞானேந்திரியங்கள்: ஓசை – கேட்பது, ஊறு – உணர்தல், ஒளி – பார்ப்பது, சுவை – உண்பது, நாற்றம் – முகர்வது. 5 கன்மேந்திரியங்கள்: வாய் – பேச்சு, கைகள் – செயல், கால்கள் – போக்குவரவு, எருவாய் – கழிவு நீக்கம் பகுதி, கருவாய் – இன்பமும் பிறப்பும். 4 அந்தக்கரணங்கள்: மனம் – எண்ணங்கள், புத்தி – அறிவு, சித்தம் – சிந்தனை, அகங்காரம் – நான் எனும் நினைப்பு. 1 புருடன்: ஆன்மா. நான்கு உயர் தத்துவங்கள்: சிவம் (அசையாசக்தி) 2. சக்தி (அசையும் சக்தி) 3. நாதம் (ஒலி), 4. விந்து (ஒளி)`,
   },
   {
@@ -4769,7 +4769,7 @@ Eighty the age you live up to;
 If seven, sixty;
 These two know clearly.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-774-Third-Tantra-14.-Cycle-of-Time.mp3',
-    elaborationEnglish: `If the prana goes outwards in six matra length, eighty shall be the age of the subject. If it flows in seven matras outward, then he will live up to sixty years. When it is cight matras outward, fifty shall be his age. If nine, thirty three; if ten, twenty cight; if fifteen, twenty five; and so on.`,
+    elaborationEnglish: `If the prana goes outwards in six matra length, eighty shall be the age of the subject. If it flows in seven mantras outward, then he will live up to sixty years. When it is cight mantras outward, fifty shall be his age. If nine, thirty three; if ten, twenty cight; if fifteen, twenty five; and so on.`,
     elaborationTamil: `: மூச்சுக்காற்று ஆறு விரற்கடை அளவு வெளியேற்றினால் வாழ்நாள் எண்பது ஆண்டாகும். ஏழு விரற்கடை அளவு வெளியேற்றினால் வாழ்நாள் அறுபது ஆண்டாகும். இவ்விரண்டு வகையையும் ஆராய்ந்து உணர்ந்து தெளிவாயாக.`,
   },
 {
@@ -4783,10 +4783,10 @@ avvakai aimpatē yeṉṉa aṟiyalāñ
 cevvakai oṉpatuñ cēravē niṉṟiṭiṉ
 muvvakai yāmatu muppattu mūṉṟē`,
     english: `775: Exhalation for Ages 50 and 33
-If to eight matras Prana runs out
+If to eight mantras Prana runs out
 Through nostril left
 Fifty the age; know you;
-If nine, leaving three matras inside,
+If nine, leaving three mantras inside,
 Thirty and three but the age.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-775-Third-Tantra-14.-Cycle-of-Time.mp3',
     elaborationTamil: `: மூச்சுக்காற்று எட்டு விரற்கடை அளவு சுவாசம் நீண்டு வெளியேரினால் ஆயுள் ஐம்பது வருடமாகும். மூச்சுக்காற்று ஒன்பது விரற்கடை அளவு சுவாசம் நீண்டு இயங்குமானால் ஆயுள் முப்பத்து மூன்று வருடமாகும்.`,
@@ -4827,7 +4827,7 @@ And direct into oneness upward;
 Thus may you practise
 The entire day of thirty naligas!`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-777-Third-Tantra-14.-Cycle-of-Time.mp3',
-    elaborationEnglish: `If the yogi practises retention of ten matras for an entire day of twelve hours, he shall achieve oneness. He will reach the stage of directing the breath into muladhara.
+    elaborationEnglish: `If the yogi practises retention of ten mantras for an entire day of twelve hours, he shall achieve oneness. He will reach the stage of directing the breath into muladhara.
 
 Naligai is a time measure. Two and half naligais make an hour.`,
     elaborationTamil: `: மூச்சுக்காற்று பகல் முப்பது நாழிகையும் இடநாடி வழியே சென்றால் ஆயுள் பன்னிரண்டாண்டு ஆகும். அதனை அனுபவமாகவும் காண முடியும். இடையே மாற்றம் இல்லாமல் ஒருநாள் முழுதும் (அறுபது நாழிகை) மூச்சுக்காற்று இடை நாடி வழியே உள்வந்து வெளிச் சென்றால் ஆயுள் இனி பத்தாண்டு என்று அறியலாம்.`,
@@ -5301,15 +5301,20 @@ Bolt the cavity above with thy tongue's tip
 And sit erect in yoga Samadhi
 No more shall be death for you.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/09/Song-799-Third-Tantra-18.-Yoga-of-Cosmic-Energy.mp3',
-    elaborationEnglish: `The keche:. yoga is the most important technique in kundalini yoga. It contains the breath within and sees that it is not wasted. The source of kundalini in the muladhara is dammed up and stopped so that breath does not escape downwards as apana. Similarly, the breath-escape of the prana in the mouth’s upper cavity is locked with the tongue’s tip. Having bolted’ the escapes below and above, the yogi sits erect in samadhi.
+    elaborationEnglish: `The keche yoga is the most important technique in kundalini yoga. It contains the breath within and sees that it is not wasted. The source of kundalini in the muladhara is dammed up and stopped so that breath does not escape downwards as apana. Similarly, the breath-escape of the prana in the mouth’s upper cavity is locked with the tongue’s tip. Having bolted’ the escapes below and above, the yogi sits erect in samadhi.
 
 1) Although the word yoga, is used here-in connection with kechari by Tirumular, the classical works like Hatha Yoga Pradipika Gheranda Samhita and Siva Samhita (iv,12-15) refer to the as a mudra. The word mudra means ‘to seal,’ ‘close,’ or ‘lock up.” The mudra is a technique for locking the breath within the body. After the practitioner has purified his and gained control of his breath, the technique of mudra is imparted to him by the Guru. Mudras are sometimes referred to as ‘bandha’ which means to ‘bind, fix or restrain.’ “Hatha yoga Pradipika and Gheranda Samhita refer to 25 mudras; Siva Samhita refers to 10 mudras.
 
 The word, kechari, has nothing to do with ‘kesari’ which means lion. As in Tamil both the words are written with the same spelling, some commentators have interpreted it as the lion posture or asana. Kechati means roaming through space or flying. Hence it is also called or ‘sky chakra.’
 
-Hatha Yoga Pradipika describes it as follows: “The kechari mudra is accomplished by thrusting the tongue into the gullet, by turning it’ over on itself and keeping the eyesight in the middle of the eyebrows. To accomplish this, the tongue is lengthened by cutting the fraenum linguae, moving and pulling it. When it can reach the space between the eyebrows, then kechari can be accomplished. Taking a sharp, smooth, and clean instrument, of the shape of a cactus leaf, the fraenum of the tongue should be cut a little (as
+Hatha Yoga Pradipika describes it as follows: “The kechari mudra is accomplished by thrusting the tongue into the gullet, by turning it’ over on itself and keeping the eyesight in the middle of the eyebrows. To accomplish this, the tongue is lengthened by cutting the fraenum linguae, moving and pulling it. When it can reach the space between the eyebrows, then kechari can be accomplished. Taking a sharp, smooth, and clean instrument, of the shape of a cactus leaf, the fraenum of the tongue should be cut a little (as much as a hair’s thickness) at a time. Then rock salt and yellow (both powdered) should be rubbed in. On the 7th day, it should be again cut a hair’s breadth. One should go on doing thus, regularly for six months. At the end of six months the fraenum of the tongue will be completely cut. Turning the tongue upwards, it is fixed on the three ways (esophagus, wind pipe and palate). Thus it makes the kechari mudra.”’ Compare Ghéeranda Samhita 25-280); “Cut the lower tendon of the tongue, and move the tongue constantly; rub it with fresh butter, and draw it out (to lengthen it) with an iron instrument. By practising this always, the tongue becomes long; and when it reaches the space between the - eyebrows, then the kechari is accomplished. Then the tongue being lengthend, practise turning it upwards and backwards so as to touch the palate, till at length it reaches the holes of the nostrils opening into the mouth.-Close those holes with the tongue (thus stopping inspiration), and fix the gaze on the space between the eyebrows. This is called kechari.
 
-much as a hair’s thickness) at a time. Then rock salt and yellow (both powdered) should be rubbed in. On the 7th day, it should be again cut a hair’s breadth. One should go on doing thus, regularly for six months. At the end of six months the fraenum of the tongue will be completely cut. Turning the tongue upwards, it is fixed on the three ways (esophagus, wind pipe and palate). Thus it makes the kechari mudra.”’ Compare Ghéeranda Samhita 25-280); “Cut the lower tendon of the tongue, and move the tongue constantly; rub it with fresh butter, and draw it out (to lengthen it) with an iron instrument. By practising this always, the tongue becomes long; and when it reaches the space between the - eyebrows, then the kechari is accomplished. Then the tongue being lengthend, practise turning it upwards and backwards so as to touch the palate, till at length it reaches the holes of the nostrils opening into the mouth.-Close those holes with the tongue (thus stopping inspiration), and fix the gaze on the space between the eyebrows. This is called kechari.`,
+Compare Siva Samhita (iv,31-32): "'The wise yogi sitting in vajrasana posture, in a place free from disturbance, should firmly fix his gaze on the spot in the middle of the two eyebrows; and reversing the tongue backwards, fix it in the hollow under the epiglottis, placing it with great care on the mouth of the well of nectar (ie. closing up the air passage). This mudra...... is the kechari mudra."'
+Compare: *'According to Dhyana-bindu Upanishad, kechari mudra is so called, because citta moves in 'kha' (akasa), and the tongue through this mudra enters 'kha.' It consists in lengthening of the tongue until it reaches to the space between the eyebrows. It is then turned back in the throat, and closes the exit of the breath previously inspired. The mind is fixed in the ajna.....It is said that sometimes the fraenum is cut, but others can do it without physical injury. — vide "The Serpent Power'' by Sir John Woodroffe, p.209
+
+Again Hatha Yoga Pradipika (iii, 41-53) says: "'The siddhas have named this mudra, kechari, from the fact that the mind and the tongue reach akasa (ether) by its practise. If the hole behind the soft palate be stopped with kechari by turning the tongue upwards, then bindu (semen) cannot leave its place even if a woman were embraced. If the yogi drinks somarasa (vital fluid) by sitting with the tongue turned backwards, and mind concentrated, there is no doubt he conquers death within 15 days. If the yogi, whose body is full of somarasa were bitten by taksaka (snake), its poison cannot permeate his body. As fire is inseparably connected with the wood, and light is connected with wick and oil, so does the soul not leave the body full of nectar exuding from the soma. Those who eat 'the flesh of the cow and drink the immortal liquor daily, are regarded as men of noble family. The word 'goar' (cow) means tongue; eating, is thrusting it in the gullet. Immortal liquor is the nectar exuding from the moon. It is produced by the fire which is generated by thrusting tongue. If the tongue can touch with its end the hole from which falls the tasa which is saltish, bitter, sour, milky and similar to ghee and honey, one can drive away disease... There is only one seed germinating the whole universe from it; and there is only mudra, called kechari.
+
+Compare Gheranda Samhita (iii,29-32); Siva Samhita (iv,33-37). See also W.H. Evans-Wentz's ''The Tibetan Book of the Dead; Briggs's *'Goraknath and Kanphata Yogis,"' Chpt.xv.; and Rele's ""The Mysterious Kundalini.'' For Theos Bernard's personal experience, See 'Hatha Yoga,"' pp.67-69.`,
     elaborationTamil: `மூச்சுக் காற்று கீழே இறங்காமல் அண்ணாக்கில் அதைக் கட்டிவிட வேண்டும். அபான வாயு குதம் வழியாகவோ அல்லது குறி வழியாகவோ வெளியேறாமல் குதத்தைச் சுருக்கி நிறுத்த வேண்டும். இரு கண் பார்வைகளையும் ஒன்றாக்கிவிட வேண்டும். உள்ளத்தைச் சுழுமுனை வழியே பாயும் மூச்சில் கொண்டு நிறுத்த வேண்டும். உடலைத் தாண்டிய இந்த நிலையை ஒருவன் அடைந்து விட்டால் அவன் காலத்தைக் கடந்து விடலாம். அவனுக்கு ஒரு மரணம் இல்லை.`,
   },
   {
@@ -5333,7 +5338,7 @@ Be thou rid of impurity, all.`,
     elaborationEnglish: `Jiva, the washerman, performs the cleansing act on the square plank (four-petalled muladhara). There the yogi erects a bund so that the apana does not escape through the sluice. He then lets in the prana stream upward to fill the body-lake within.
 
 Thus he sits looking skyward and courses the breath through the spinal cavity of sushumna alternating from left to right and vice versa. Kechari (otherwise Kechari) is spiritual attainment which enables one to overcome death.`,
-    elaborationTamil: `: வண்ணான் (துணி துவைப்பவர்) துணியை கல்லில் அடித்து துவைக்கும் போது ஆடையில் இருக்கும் அழுக்கு போவது போல உயிர் முன் பக்கம் உள்ள தன் மூளையை தியானம் மூலம் வரும் சிவயோக ஒளியினால் மோத வேண்டும். இரண்டு கண்களின் பார்வைகளையும் மாறி மாறிப் பார்ப்பதால் சிரசின் உள்ளே தெரியும் இரண்டு பக்கத்துக்கும் இடையே உள்ள சஹஸ்ரதளம் என்னும் குளத்தை தியானத்தின் மூலம் வந்த ஒளியைக் கொண்டு நிரப்ப வேண்டும். அதற்குப் பிறகு நெற்றிக்கு மேலே நிமிர்ந்து பார்த்தால் அந்த உயிர் தன் குற்றங்கள் அனைத்தும் நீங்கித் தூய்மை அடைந்து விடுவான்.`,
+    elaborationTamil: `வண்ணான் (துணி துவைப்பவர்) துணியை கல்லில் அடித்து துவைக்கும் போது ஆடையில் இருக்கும் அழுக்கு போவது போல உயிர் முன் பக்கம் உள்ள தன் மூளையை தியானம் மூலம் வரும் சிவயோக ஒளியினால் மோத வேண்டும். இரண்டு கண்களின் பார்வைகளையும் மாறி மாறிப் பார்ப்பதால் சிரசின் உள்ளே தெரியும் இரண்டு பக்கத்துக்கும் இடையே உள்ள சஹஸ்ரதளம் என்னும் குளத்தை தியானத்தின் மூலம் வந்த ஒளியைக் கொண்டு நிரப்ப வேண்டும். அதற்குப் பிறகு நெற்றிக்கு மேலே நிமிர்ந்து பார்த்தால் அந்த உயிர் தன் குற்றங்கள் அனைத்தும் நீங்கித் தூய்மை அடைந்து விடுவான்.`,
   },
   {
     id: 802, tantraId: 3, verseNumber: 801,
