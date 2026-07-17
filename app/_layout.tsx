@@ -7,10 +7,13 @@ import {
   NotoSerifTamil_700Bold,
 } from '@expo-google-fonts/noto-serif-tamil';
 import { Lora_400Regular, Lora_700Bold } from '@expo-google-fonts/lora';
+import { useDataMigration } from '../hooks/useDataMigration';
 
 SplashScreen.preventAutoHideAsync();
 
 export default function RootLayout() {
+  useDataMigration();
+
   const [fontsLoaded] = useFonts({
     NotoSerifTamil_400Regular,
     NotoSerifTamil_700Bold,

@@ -48,15 +48,12 @@ export function DailyVerse({ onPress }: Props) {
           </View>
         </View>
 
-        {/* Tamil lines — each rendered as exactly one visual line */}
+        {/* Tamil lines */}
         <View style={styles.tamilBlock}>
           {(verse.tamil ?? '').split('\n').map((line, i) => (
             <Text
               key={i}
               style={[styles.tamilLine, { color: i === 0 ? theme.text : theme.textSub }]}
-              numberOfLines={1}
-              adjustsFontSizeToFit
-              minimumFontScale={0.65}
             >
               {line}
             </Text>

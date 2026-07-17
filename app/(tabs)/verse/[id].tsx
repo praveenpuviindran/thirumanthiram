@@ -164,9 +164,6 @@ export default function VerseScreen() {
                   <Text
                     key={i}
                     style={[styles.tamilText, { color: theme.text, fontSize }]}
-                    numberOfLines={1}
-                    adjustsFontSizeToFit
-                    minimumFontScale={0.65}
                     allowFontScaling
                   >
                     {line}
