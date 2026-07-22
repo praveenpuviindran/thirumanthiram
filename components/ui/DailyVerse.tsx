@@ -54,6 +54,9 @@ export function DailyVerse({ onPress }: Props) {
             <Text
               key={i}
               style={[styles.tamilLine, { color: i === 0 ? theme.text : theme.textSub }]}
+              numberOfLines={1}
+              adjustsFontSizeToFit
+              minimumFontScale={0.80}
             >
               {line}
             </Text>
