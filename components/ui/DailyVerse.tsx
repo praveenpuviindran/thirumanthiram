@@ -4,6 +4,7 @@ import { LinearGradient } from 'expo-linear-gradient';
 import { useTheme } from '../../constants/Theme';
 import { VERSES, TANTRAS } from '../../data/thirumanthiram';
 import { Spacing, Radius, FontSize, Colors } from '../../constants/Colors';
+import { TamilVerseLines } from './TamilVerseLines';
 
 interface Props {
   onPress: (verseId: number) => void;
@@ -20,6 +21,11 @@ export function DailyVerse({ onPress }: Props) {
 
   const tantra = TANTRAS.find((t) => t.id === verse.tantraId);
   const color = tantra?.color ?? Colors.saffron;
+
+  const tamilLineColors = useMemo(() => {
+    const count = (verse.tamil ?? '').split('\n').length;
+    return Array.from({ length: count }, (_, i) => (i === 0 ? theme.text : theme.textSub));
+  }, [verse.tamil, theme.text, theme.textSub]);
 
   return (
     <TouchableOpacity
@@ -49,19 +55,14 @@ export function DailyVerse({ onPress }: Props) {
         </View>
 
         {/* Tamil lines */}
-        <View style={styles.tamilBlock}>
-          {(verse.tamil ?? '').split('\n').map((line, i) => (
-            <Text
-              key={i}
-              style={[styles.tamilLine, { color: i === 0 ? theme.text : theme.textSub }]}
-              numberOfLines={1}
-              adjustsFontSizeToFit
-              minimumFontScale={0.80}
-            >
-              {line}
-            </Text>
-          ))}
-        </View>
+        <TamilVerseLines
+          tamilText={verse.tamil ?? ''}
+          baseFontSize={16}
+          textStyle={styles.tamilLine}
+          defaultColor={theme.textSub}
+          lineColors={tamilLineColors}
+          containerStyle={styles.tamilBlock}
+        />
 
         {/* Divider */}
         <View style={styles.dividerRow}>

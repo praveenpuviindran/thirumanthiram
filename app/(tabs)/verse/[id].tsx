@@ -9,6 +9,7 @@ import { LinearGradient } from 'expo-linear-gradient';
 import { useLocalSearchParams, useRouter } from 'expo-router';
 import { useTheme } from '../../../constants/Theme';
 import { VerseAudioPlayer } from '../../../components/ui/VerseAudioPlayer';
+import { TamilVerseLines } from '../../../components/ui/TamilVerseLines';
 import { getVerseById, getTantraById, VERSES } from '../../../data/thirumanthiram';
 import { useFavorites } from '../../../hooks/useFavorites';
 import { useSettings } from '../../../hooks/useSettings';
@@ -159,20 +160,13 @@ export default function VerseScreen() {
                   <Text style={[styles.tamilPillText, { color }]}>Tamil  ·  தமிழ்</Text>
                 </View>
               </View>
-              <View style={styles.tamilLines}>
-                {(verse.tamil ?? '').split('\n').map((line, i) => (
-                  <Text
-                    key={i}
-                    style={[styles.tamilText, { color: theme.text, fontSize }]}
-                    numberOfLines={1}
-                    adjustsFontSizeToFit
-                    minimumFontScale={0.80}
-                    allowFontScaling
-                  >
-                    {line}
-                  </Text>
-                ))}
-              </View>
+              <TamilVerseLines
+                tamilText={verse.tamil ?? ''}
+                baseFontSize={fontSize}
+                textStyle={styles.tamilText}
+                defaultColor={theme.text}
+                containerStyle={styles.tamilLines}
+              />
               <View style={styles.tamilOrnament}>
                 <View style={[styles.ornamentLine, { backgroundColor: color + '44' }]} />
                 <Text style={[styles.ornamentStar, { color }]}>✦</Text>
