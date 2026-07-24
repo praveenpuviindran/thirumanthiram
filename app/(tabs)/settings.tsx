@@ -3,7 +3,7 @@ import { View, Text, Switch, StyleSheet, ScrollView, StatusBar, TouchableOpacity
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { LinearGradient } from 'expo-linear-gradient';
 import { useTheme } from '../../constants/Theme';
-import { useSettings } from '../../hooks/useSettings';
+import { useSettings, FONT_SIZE_DEFAULT, FONT_SIZE_MIN, FONT_SIZE_MAX } from '../../hooks/useSettings';
 import { Spacing, Radius, FontSize, Colors } from '../../constants/Colors';
 
 function SettingRow({
@@ -32,29 +32,48 @@ function FontSizeRow({ settings, update, theme }: {
   update: ReturnType<typeof useSettings>['update'];
   theme: ReturnType<typeof useTheme>;
 }) {
-  const sizes = ['small', 'medium', 'large'] as const;
+  const val = settings.fontSizeValue ?? FONT_SIZE_DEFAULT;
+  const atMin = val <= FONT_SIZE_MIN;
+  const atMax = val >= FONT_SIZE_MAX;
+  const atDefault = val === FONT_SIZE_DEFAULT;
+
   return (
-    <View style={[styles.row, { borderBottomColor: theme.border, flexDirection: 'column', alignItems: 'flex-start', gap: 10 }]}>
-      <Text style={[styles.rowLabel, { color: theme.text }]}>Font Size</Text>
-      <View style={styles.sizeRow}>
-        {sizes.map((s) => (
-          <TouchableOpacity
-            key={s}
-            style={[
-              styles.sizeBtn,
-              {
-                backgroundColor: settings.fontSize === s ? theme.saffron : theme.bgCard,
-                borderColor: settings.fontSize === s ? theme.saffron : theme.border,
-              },
-            ]}
-            onPress={() => update({ fontSize: s })}
-          >
-            <Text style={[styles.sizeBtnText, { color: settings.fontSize === s ? '#FFF' : theme.textSub }]}>
-              {s.charAt(0).toUpperCase() + s.slice(1)}
-            </Text>
+    <View style={[styles.row, { borderBottomColor: theme.border, flexDirection: 'column', alignItems: 'flex-start', gap: 12 }]}>
+      <View style={styles.fontSizeHeader}>
+        <Text style={[styles.rowLabel, { color: theme.text }]}>Font Size</Text>
+        {!atDefault && (
+          <TouchableOpacity onPress={() => update({ fontSizeValue: FONT_SIZE_DEFAULT })} hitSlop={8}>
+            <Text style={[styles.resetText, { color: theme.saffron }]}>Reset</Text>
           </TouchableOpacity>
-        ))}
+        )}
       </View>
+      <View style={styles.fontSizeControls}>
+        <TouchableOpacity
+          style={[styles.sizeBtn, { backgroundColor: theme.bgCard, borderColor: atMin ? theme.border + '55' : theme.border, opacity: atMin ? 0.4 : 1 }]}
+          onPress={() => !atMin && update({ fontSizeValue: val - 1 })}
+          disabled={atMin}
+          activeOpacity={0.7}
+        >
+          <Text style={[styles.sizeBtnLabel, { color: theme.text }]}>A−</Text>
+        </TouchableOpacity>
+
+        <View style={[styles.fontSizeDisplay, { backgroundColor: theme.bgCard, borderColor: theme.saffron + '66' }]}>
+          <Text style={[styles.fontSizeValue, { color: theme.saffron }]}>{val}</Text>
+          <Text style={[styles.fontSizePt, { color: theme.textMuted }]}>pt</Text>
+        </View>
+
+        <TouchableOpacity
+          style={[styles.sizeBtn, { backgroundColor: theme.bgCard, borderColor: atMax ? theme.border + '55' : theme.border, opacity: atMax ? 0.4 : 1 }]}
+          onPress={() => !atMax && update({ fontSizeValue: val + 1 })}
+          disabled={atMax}
+          activeOpacity={0.7}
+        >
+          <Text style={[styles.sizeBtnLabel, { color: theme.text }]}>A+</Text>
+        </TouchableOpacity>
+      </View>
+      <Text style={[styles.fontSizeHint, { color: theme.textMuted }]}>
+        Short verses display at your chosen size. Long verses may reduce slightly to keep 4 lines.
+      </Text>
     </View>
   );
 }
@@ -452,12 +471,28 @@ const styles = StyleSheet.create({
     fontWeight: '700',
     letterSpacing: 0.3,
   },
-  sizeRow: { flexDirection: 'row', gap: 8, marginBottom: 4 },
+  fontSizeHeader: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', width: '100%' },
+  resetText: { fontSize: FontSize.xs, fontWeight: '600' },
+  fontSizeControls: { flexDirection: 'row', alignItems: 'center', gap: 12, marginBottom: 4 },
   sizeBtn: {
     borderRadius: Radius.sm,
     borderWidth: 1,
-    paddingHorizontal: Spacing.md,
-    paddingVertical: 6,
+    paddingHorizontal: 16,
+    paddingVertical: 8,
   },
-  sizeBtnText: { fontSize: FontSize.sm, fontWeight: '500' },
+  sizeBtnLabel: { fontSize: 16, fontWeight: '700', letterSpacing: 0.5 },
+  fontSizeDisplay: {
+    borderWidth: 1,
+    borderRadius: Radius.sm,
+    paddingHorizontal: 16,
+    paddingVertical: 6,
+    flexDirection: 'row',
+    alignItems: 'baseline',
+    gap: 3,
+    minWidth: 64,
+    justifyContent: 'center',
+  },
+  fontSizeValue: { fontSize: 20, fontWeight: '800' },
+  fontSizePt: { fontSize: FontSize.xs, fontWeight: '500' },
+  fontSizeHint: { fontSize: FontSize.xs, lineHeight: 17, marginBottom: 4 },
 });

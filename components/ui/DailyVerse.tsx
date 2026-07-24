@@ -62,6 +62,7 @@ export function DailyVerse({ onPress }: Props) {
           defaultColor={theme.textSub}
           lineColors={tamilLineColors}
           containerStyle={styles.tamilBlock}
+          verseId={verse.id}
         />
 
         {/* Divider */}

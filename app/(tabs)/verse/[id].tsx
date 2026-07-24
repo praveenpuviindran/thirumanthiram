@@ -1,7 +1,7 @@
-import React, { useState, useMemo, useEffect, useCallback } from 'react';
+import React, { useState, useMemo, useEffect, useCallback, useRef } from 'react';
 import {
   ScrollView, View, Text, TouchableOpacity, StyleSheet, StatusBar,
-  TextInput, Linking,
+  TextInput, Linking, Animated, PanResponder, useWindowDimensions,
 } from 'react-native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { SafeAreaView } from 'react-native-safe-area-context';
@@ -54,6 +54,51 @@ export default function VerseScreen() {
   const prevVerse = idx > 0 ? VERSES[idx - 1] : null;
   const nextVerse = idx < VERSES.length - 1 ? VERSES[idx + 1] : null;
 
+  // ── Swipe navigation ──────────────────────────────────────────────────────
+  const { width: screenWidth } = useWindowDimensions();
+  const swipeX = useRef(new Animated.Value(0)).current;
+
+  // Ref keeps latest nav targets fresh inside the PanResponder closure
+  const navRef = useRef({ prevVerse, nextVerse, router });
+  useEffect(() => { navRef.current = { prevVerse, nextVerse, router }; });
+
+  const panResponder = useRef(
+    PanResponder.create({
+      // Only claim clearly horizontal swipes (horizontal > 2× vertical)
+      onMoveShouldSetPanResponder: (_, { dx, dy }) =>
+        Math.abs(dx) > 12 && Math.abs(dx) > Math.abs(dy) * 2,
+      onPanResponderGrant: () => swipeX.stopAnimation(),
+      onPanResponderMove: (_, { dx }) => swipeX.setValue(dx * 0.35),
+      onPanResponderRelease: (_, { dx, vx }) => {
+        const { prevVerse, nextVerse, router } = navRef.current;
+        const goNext = (dx < -60 || vx < -0.4) && !!nextVerse;
+        const goPrev = (dx > 60 || vx > 0.4) && !!prevVerse;
+
+        if (goNext || goPrev) {
+          Animated.timing(swipeX, {
+            toValue: goNext ? -screenWidth : screenWidth,
+            duration: 220,
+            useNativeDriver: true,
+          }).start(() => {
+            swipeX.setValue(0);
+            if (goNext && nextVerse) router.replace(`/(tabs)/verse/${nextVerse.id}` as any);
+            else if (goPrev && prevVerse) router.replace(`/(tabs)/verse/${prevVerse.id}` as any);
+          });
+        } else {
+          Animated.spring(swipeX, {
+            toValue: 0,
+            useNativeDriver: true,
+            tension: 120,
+            friction: 8,
+          }).start();
+        }
+      },
+      onPanResponderTerminate: () => {
+        Animated.spring(swipeX, { toValue: 0, useNativeDriver: true, tension: 120, friction: 8 }).start();
+      },
+    })
+  ).current;
+
   if (!verse) {
     return (
       <SafeAreaView style={[styles.safe, { backgroundColor: theme.bg }]}>
@@ -64,7 +109,7 @@ export default function VerseScreen() {
 
   const color = tantra?.color ?? Colors.saffron;
   const favorite = isFavorite(verse.id);
-  const fontSize = settings.fontSize === 'small' ? 15 : settings.fontSize === 'large' ? 19 : 17;
+  const fontSize = settings.fontSizeValue ?? 17;
 
   const sendFeedback = () => {
     const subject = encodeURIComponent(`Feedback – Verse #${verse.verseNumber}`);
@@ -77,6 +122,7 @@ export default function VerseScreen() {
   return (
     <SafeAreaView style={[styles.safe, { backgroundColor: theme.bg }]}>
       <StatusBar barStyle={theme.dark ? 'light-content' : 'dark-content'} />
+      <Animated.View style={{ flex: 1, transform: [{ translateX: swipeX }] }} {...panResponder.panHandlers}>
 
       {/* Header */}
       <LinearGradient
@@ -166,6 +212,7 @@ export default function VerseScreen() {
                 textStyle={styles.tamilText}
                 defaultColor={theme.text}
                 containerStyle={styles.tamilLines}
+                verseId={verse.id}
               />
               <View style={styles.tamilOrnament}>
                 <View style={[styles.ornamentLine, { backgroundColor: color + '44' }]} />
@@ -336,6 +383,7 @@ export default function VerseScreen() {
         </View>
 
       </ScrollView>
+      </Animated.View>
     </SafeAreaView>
   );
 }
