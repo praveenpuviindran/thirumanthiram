@@ -120,7 +120,14 @@ export default function VerseScreen() {
   };
 
   return (
-    <SafeAreaView style={[styles.safe, { backgroundColor: theme.bg }]}>
+    // Keyed on verseId: this screen is registered as a Tabs.Screen (see
+    // (tabs)/_layout.tsx), so React Navigation reuses this single component
+    // instance across every verse and only updates route params in place —
+    // it never remounts on its own. Forcing a remount here via `key` is what
+    // actually gives each verse a fresh Animated.View / native-driver binding,
+    // PanResponder-driven gesture, and TamilVerseLines measurement state
+    // instead of carrying over whatever the previous verse left behind.
+    <SafeAreaView key={verseId} style={[styles.safe, { backgroundColor: theme.bg }]}>
       <StatusBar barStyle={theme.dark ? 'light-content' : 'dark-content'} />
       <Animated.View style={{ flex: 1, transform: [{ translateX: swipeX }] }} {...panResponder.panHandlers}>
 
