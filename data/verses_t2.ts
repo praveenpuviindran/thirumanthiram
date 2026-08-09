@@ -1212,7 +1212,7 @@ A support to the body, an heir to karmic ills;
 Verily, the Lord is the Just one.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-394-Second-Tantra-9.-Creation-of-Everything.mp3',
     elaborationEnglish: `The immaculate One, who creates all, who creates the bodies and milieus for jivas too, according to their karmic desert. That is His act of divine justice. In the act of creation He stands adorning death’s bones and konrai’s blooms gleaming as pure gold. He beckons to departed souls as the Final Refuge of Becoming. He enters within jiva and cognises all.`,
-    elaborationTamil: `: உடலில் ஆன்மாவை வைத்து உயிராக மாற்றுபவன் என் ஆருயிர் இறைவனே உயிர்களிடத்தில் கொண்ட மாபெரும் கருணையினால் உடலில் இணைந்த ஆன்மாவுடன் உயிராகக் கலந்து இருக்கின்றான். முன்பிறவியின் வினைகளைத் தீர்க்க வேண்டிப் பிறவி எடுத்த அந்த உயிரின் காலம் முடியும் வரை அந்த உயிர் செய்யும் எந்த செயலிலும் தலையிடாமல் நடு நிலையாக நின்று கவனித்துக் கொண்டு அந்த உயிர் வாழ வேண்டிய காலம் வரை அந்த உயிரின் உடலோடு ஒன்றாகக் கலந்து நன்றாகக் காத்துக் கொண்டு நிற்கின்றான் இறைவன்.`,
+    elaborationTamil: `உடலில் ஆன்மாவை வைத்து உயிராக மாற்றுபவன் என் ஆருயிர் இறைவனே உயிர்களிடத்தில் கொண்ட மாபெரும் கருணையினால் உடலில் இணைந்த ஆன்மாவுடன் உயிராகக் கலந்து இருக்கின்றான். முன்பிறவியின் வினைகளைத் தீர்க்க வேண்டிப் பிறவி எடுத்த அந்த உயிரின் காலம் முடியும் வரை அந்த உயிர் செய்யும் எந்த செயலிலும் தலையிடாமல் நடு நிலையாக நின்று கவனித்துக் கொண்டு அந்த உயிர் வாழ வேண்டிய காலம் வரை அந்த உயிரின் உடலோடு ஒன்றாகக் கலந்து நன்றாகக் காத்துக் கொண்டு நிற்கின்றான் இறைவன்.`,
   },
   {
     id: 396, tantraId: 2, verseNumber: 395,
@@ -1231,7 +1231,7 @@ His resplendent Form out-shines red-hot gold;
 A refuge vast of all departed life;
 The Lord that performs the act of Becoming.`,
     audioUrl: 'https://www.kvnthirumoolar.com/wp-content/uploads/2020/08/Song-395-Second-Tantra-9.-Creation-of-Everything.mp3',
-    elaborationTamil: `: எலும்புகளை அணிந்து கொன்றை மலரைச் சூடியிருக்கும் சிவபெருமான் உலகத்தில் நிகழும் அனைத்து தொழிலின் தன்மையாக இருக்கின்றான். உருகுகின்ற தங்கம் போன்ற மினுமினுப்பான உடல் கொண்டவன் அவன். பிறவிக்கு செல்லும் உயிர்கள் வாழும் உடலாயும் இருக்கின்றான். பிறவி எடுத்த உயிருக்கு நிகழும் தன்மையிலும் அவனே கலந்திருந்து துணையாக இருப்பான்.`,
+    elaborationTamil: `எலும்புகளை அணிந்து கொன்றை மலரைச் சூடியிருக்கும் சிவபெருமான் உலகத்தில் நிகழும் அனைத்து தொழிலின் தன்மையாக இருக்கின்றான். உருகுகின்ற தங்கம் போன்ற மினுமினுப்பான உடல் கொண்டவன் அவன். பிறவிக்கு செல்லும் உயிர்கள் வாழும் உடலாயும் இருக்கின்றான். பிறவி எடுத்த உயிருக்கு நிகழும் தன்மையிலும் அவனே கலந்திருந்து துணையாக இருப்பான்.`,
   },
   {
     id: 397, tantraId: 2, verseNumber: 396,
