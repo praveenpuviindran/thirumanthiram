@@ -1669,7 +1669,7 @@ From that Turiyatita State
 Where Jiva the Knower is
 He merges into Luminous Turiya (Siva Turiya)
 That the ultimate state is.`,
-    elaborationEnglish: `In the turiyatita states the soul is the knower. Passing that state, jiva merges into “‘luminous turiya’’ (Siva turiya) that is the. ultimate state.`,
+    elaborationEnglish: `In the turiyatita states the soul is the knower. Passing that state, jiva merges into “‘luminous turiya’’ (Siva turiya) that is the ultimate state.`,
     elaborationTamil: `நின்மல துரியாதீத நிலையில் சிவனையன்றிப் பிறி தொன்றையும் தாரகமாகக் கொள்ளாமையால், சடத்தன்மை சிறிதும் இன்றித் தூய அறிவேயாய் நிற்கின்ற ஆன்மா, அந்நிலையில், பழஞ் சுடராகிய சிவனது அவ்வருள் வழியே, தொடர்ந்து அவனையே உணர்ந்துநிற்குமாயின், அவ் வருளால் தனது தூய்மை கெடாது, என்றும் அந்நிலையிலே நிற்கும் நிலை கைகூடுவதாகும்.`,
   },
   {
@@ -1694,11 +1694,9 @@ The Purusha is in Sushupti;
 When the two (Purusha and Prana)
 The Navel-Center reaches
 Then is the Turiya State true.`,
-    elaborationEnglish: `1)In the jagrat (waking) state, purusha, the experient soul, functions with 35 tattvas in the eyebrow centre. These 35 are: five jnanendriyas (sense organs); five karmendriyas (motor organs); four antahkarands (inner intelligence organs); ten vayus (airs); five vaks (sounds); one jiva (purusha)—in all 35 tattvas functions in the eyebrow centre. Vide—‘‘Saiva
+    elaborationEnglish: `Thirty-five tattvas constitute the jagrat state. With twenty-five tattvas jiva functions in the throat centre: that is the dream state. Purusha is in sushupti with three tattvas. When purusha and prana reach the navel centre, then it is the turiya state.
 
-Jagrat-in-jagrat is functioning with the senses; svapna-in-jagrat is thinking and forgetting; seeking inward is sushupti-in-jagrat; turiya-in-jagrat is abstaining from seeking. Nandi is truly in
-
-Siddhanta Kattalaigal,’’ edited by K. Narayanasami Naidu, p-30.
+1)In the jagrat (waking) state, purusha, the experient soul, functions with 35 tattvas in the eyebrow centre. These 35 are: five jnanendriyas (sense organs); five karmendriyas (motor organs); four antahkarands (inner intelligence organs); ten vayus (airs); five vaks (sounds); one jiva (purusha)—in all 35 tattvas functions in the eyebrow centre. Vide—''Saiva Siddhanta Kattalaigal,'' edited by K. Narayanasami Naidu, p-30
 
 2)In the dream state, the five sensoria, and the five motoria are left behind in the eyebrow centre, and the rest of the 25 tattvas stand in the throat centre—op.cit.
 
@@ -2067,7 +2065,7 @@ Before you tremble in death,
 Take to the True Way;
 You shall indeed meet
 The mighty Lord of your soul.`,
-    elaborationEnglish: `. The five sensoria, the five motoria, the five tanmatras, and the three — these eight distract you from God. Give up distractions and take to the true way.`,
+    elaborationEnglish: `The five sensoria, the five motoria, the five tanmatras, and the three — these eight distract you from God. Give up distractions and take to the true way.`,
     elaborationTamil: `துன்பத்தால் அலறிக் கொண்டு, ஒரு வழிபடாது பதினெட்டு வழிகளில் போவதற்குப் பலமுகமாய் எழுகின்ற மனத்தை, நீவிர், நும் வாழ்நாள் முடிவதற்கு முன்னே மெய்ந்நெறியில் நிறுத்தினால், முன் மந்திரத்தில் கூறிய அந்த ஆனைகள் ஐந்தும் நடுங்கும்படி ஒப்பற்ற ஒரு பெரிய யானை உங்கள் அருகில் வந்து உங்களை எடுத்துச் செல்லும்.`,
   },
   {

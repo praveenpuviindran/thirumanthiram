@@ -848,7 +848,7 @@ Himself does reveal unto me.`,
     audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/06/1456.mp3',
     elaborationEnglish: `By blessing His Grace and Love through daily worship, the Lord reveals Himself - He that is the light within our bones.
 
-Samaya, Visesa, Nirvana, and Abhiseka are four ordinations in Kriya worship. also.`,
+Samaya, Visesa, Nirvana, and Abhiseka are four ordinations in Kriya worship also.`,
     elaborationTamil: `இறைவன் மேல் கொண்ட உண்மையான அன்பினால் உருகுபவனும் தினந்தோறும் தாம் செய்கின்ற அனைத்து விதமான செயல்களையும் இறைவனுக்காகவே செய்வதாகவே நினைத்துக் கொண்டு செய்பவனும் தூய்மையான பசும் பொன்னால் செய்யப்பட்டது போல பிரகாசிக்கின்ற திருமேனியையும் செந்தாமரை மலர் போன்ற திருவடிகளையும் கொண்டு தமக்குள் இருக்கும் சோதி வடிவான இறைவனாகவே தமக்கு முன்பு நிற்கின்றவர்கள் அனைவரையும் பார்ப்பவனும் அவர்கள் சொல்லுகின்ற அனைத்துமே தமக்கு இறைவன் கொடுத்த அருளாக எடுத்துக் கொள்கின்றவனும் ஆகிய பக்தனின் எலும்புகளால் மூடியிருக்கும் உடலுக்கு உள்ளே தங்கம் போல பிரகாசிக்கின்ற சோதியாக பக்தன் இருக்கின்ற இடத்திலேயே நிற்கின்றான் இறைவன்.`,
   },
   {
@@ -2558,9 +2558,14 @@ Only for heavenly state to gain;
 They sought not to be rid of bondage thorns,
 And so know not to be rid of this world materiality.`,
     audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2022/09/1535.mp3',
-    elaborationEnglish: `Mantras 1535 - 1537
+    elaborationEnglish: `1) Sambhavi, bhairavi, kechari or chinmudra, jnana mudra and yoga mudra.
+Some fefer to the three categories, jnathru, jnana and jneya, as mudras — triputika jnana. But it does not seem appropriate here, as the three mudras are referred to in connection with yoga. 
 
-The path of Siva alone is our defence from earthly sorrows. \\ Tt is the sole path that leads to ultimate liberation through pasa annihilation. Neither the six faiths nor the swollen stream of hundreds of other faiths, tall as their claims are, can lead to the path of Param.`,
+2) Sun, moon and fire Right (sun nadi), left (moon nadi), central (sushumna nadi)
+
+Mantras 1612 & 1613
+
+Snap the cycle of birth and death by performing yoga at the feet of the Guru. The supreme jnani, after attaining the three higher forms, himself becomes the primal form of spirit - jnathru (knower).`,
     elaborationTamil: `அண்ணலாகிய இறைவனை தேடி அடைய உதவும் ஆறு விதமான வழி முறைகளும் முக்தி அடையவும் தேவர்களாக ஆக வேண்டும் என்று மிகவம் விரும்புகின்ற உயிர்களுக்கு வழி காட்டவே உருவாக்கப் பட்டுள்ளன. ஆனாலும் அந்த ஆறு வழி முறைகளின் உட் பொருளை ஆராய்ந்து அறிந்து கொண்டு உணர்ந்து தெளிவடைவதற்கான முயற்சியை இல்லாதவர்களாக இருக்கின்றார்கள். ஆதலால் வெறும் ஆசைகளுக்காக புற வழிபாடு செய்பவர்களுக்கு அவர்கள் ஆசைப் படுகின்ற அனைத்தும் அழிந்து போவதையும் மற்றவர்கள் ஆசைப் படுகின்ற அனைத்தும் அழிந்து போவதையும் அறிந்து கொண்டு அழியாமல் இருக்கின்ற முறையை அறிந்து கொள்ளாமலேயே இவர்கள் இருக்கின்றார்கள். குறிப்பு: ஆறு சமயங்கள் என்பது இறைவனை அடைவதற்கான ஆறு வழி முறைகளாகும். இதனை பாடல் #1530 இல் பார்க்கவும்.`,
   },
   {

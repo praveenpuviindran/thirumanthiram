@@ -875,13 +875,11 @@ Have for ever sundered bonds all,
 And never be born and dead again.`,
     audioUrl: 'https://kvnthirumoolar.com/wp-content/uploads/2023/01/1612.mp3',
     elaborationEnglish: `1) Sambhavi, bhairavi, kechari or chinmudra, jnana mudra and yoga mudra.
+Some fefer to the three categories, jnathru, jnana and jneya, as mudras — triputika jnana. But it does not seem appropriate here, as the three mudras are referred to in connection with yoga.
 
-Some fefer to the three categories, jnathru, jnana and jneya, as mudras — triputika jnana. But it does not seem appropriate here, as the three mudras are referred to in connection with
-
-yoga. 2) Sun, moon and fire Right (sun nadi), left (moon nadi), central (sushumna nadi)
+2) Sun, moon and fire Right (sun nadi), left (moon nadi), central (sushumna nadi)
 
 Mantras 1612 & 1613
-
 Snap the cycle of birth and death by performing yoga at the feet of the Guru. The supreme jnani, after attaining the three higher forms, himself becomes the primal form of spirit - jnathru (knower).`,
     elaborationTamil: `மூன்று திரைகளாகிய மாயையால் மூடியிருக்கின்ற பார்க்கின்றவன், பார்க்கும் ஞானம், பார்க்கப்படும் பொருள் ஆகிய மூன்றையும் மூடியிருக்கின்ற மாயை முடிந்து விடுவதற்கு இடகலை பிங்கலை சுழுமுனை ஆகிய மூன்று நாடிகளின் மூலம் இறைவன் பிறக்கும் போதே இயல்பாக வைத்து அருளிய மூச்சுக்காற்றின் போக்குவரத்தை இயல்பான கீழ் நிலையில் இருந்து நான்கு விரற்கடை அளவிற்கு மேல் நோக்கி மாற்றி உச்சியிலிருக்கும் சகஸ்ரரதளத்திற்கு கொண்டு சென்று சேர்த்து செய்கின்ற தவத்தில் முழுமை பெற்ற நிலையில் சாதகரோடு ஒன்றி இருக்கின்ற குருநாதராகிய இறைவனின் திருவடிகளைப் பெற்று பிறவிக்கு காரணமாகிய மூன்று மலங்களையும் அதை சார்ந்த அனைத்து பற்றுக்களையும் அறுத்து விட்டவர்கள் இனி பிறக்கவோ இறக்கவோ மாட்டார்கள்.`,
   },

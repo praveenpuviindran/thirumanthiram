@@ -352,8 +352,8 @@ Have as vital the Seven and Two in the ultimate.`,
 
 But the two letters are the vital, ultimate or contained all mantras. It is Siva's mantra, our divine support.
 
-    0.    Excluding the one in sahasrara
-    0.    Mantras have seven different endings: i)nama, ii)svata; iii)svaha; iv)vamshat; v)vashat; vi)hum; vii)phat
+1) Excluding the one in sahasrara
+2) Mantras have seven different endings: i)nama, ii)svata; iii)svaha; iv)vamshat; v)vashat; vi)hum; vii)phat.
 
 Another interpretation is that mantras are seven crores (70 million) in number. They are enumerated in the Sanskrit work, "Sri Rajesvari Kalpa vide Tirumantira Malai," by Thirumular edited by N. Sivaprakasa Desikar. However, here the reference is presumably to the seven endings, rather than seven crores, as the process of involution is indicated,
 A and U plus Panchakshara.`,
@@ -4118,7 +4118,7 @@ means mother of the universe.
 
 12. Strim—'S’ is deliverance. ‘t’ is saviour, ‘ra’ is liberation,
 
-‘i’ is Mahamaya, *m’® is bindu.`,
+‘i’ is Mahamaya, *m’ is bindu.`,
     elaborationTamil: `பன்னிரண்டு கலைகளாக ஆதியிலிருந்தே இருக்கின்ற வயிரவியானவள் தனக்குள் அகாரக் கலையையும் (படைத்தல்) மாயைக் கலையையும் (மறைத்தல்) சேர்த்து பதினான்கு கலைகளாகவும் அதனோடு ஆதியும் அந்தமும் சேரும் போது பதினாறு கலைகளாக முடியும். இந்த பதினாறு கலைகளை சொல்கின்ற நிலையில் அவை பதினாறு எழுத்துக்கள் கொண்ட மந்திரமாக இருக்கின்றது. வயிரவியாக இருக்கும் இந்த மந்திரத்தை ஓதுங்கள். கருத்து: வயிரவியானவள் பன்னிரண்டு விதமான சூட்சுமமான செயல்களை செய்கின்றாள். அவள் இயக்கம் பெற்று உலக செயல்களுக்காக படைத்தல் மற்றும் மறைத்தலுக்கான காரியத்தை செய்யும் போது பதினான்கு செயல்களை செய்கின்றாள். இந்த செயல்களை எடுத்து ஒலிவடிவமாக சொல்லும் போதும் ஒளிவடிவமாக எழுதும் போதும் அவை பதினாறு எழுத்துக்கள் கொண்ட மந்திரமாக இருக்கின்றது. இந்த மந்திரத்தை ஓதுங்கள். குறிப்பு: இந்த வயிரவி மந்திரத்தை எப்படி பெற்றுத் தெரிந்து கொள்வது என்பதை பின்வரும் பாடல்களின் வழியாகத் தெரிந்து கொள்ளலாம். வயிரவி மந்திரத்தை குருவிடமிருந்து மந்திர தீட்சையாகவும் பெற்றுக் கொள்ளலாம்.`,
   },
   {
