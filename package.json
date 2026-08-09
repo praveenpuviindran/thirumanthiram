@@ -6,7 +6,9 @@
     "start": "expo start",
     "android": "expo run:android",
     "ios": "expo run:ios",
-    "web": "expo start --web"
+    "web": "expo start --web",
+    "build:web": "expo export --platform web && node scripts/fix-dist-for-vercel.js",
+    "deploy:web": "npm run build:web && npx vercel deploy dist/ --prod"
   },
   "dependencies": {
     "@expo-google-fonts/lora": "^0.4.2",

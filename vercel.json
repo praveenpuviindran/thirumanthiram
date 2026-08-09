@@ -1,8 +1,6 @@
 {
-  "buildCommand": "node node_modules/expo/bin/cli export --platform web",
-  "outputDirectory": "dist",
-  "installCommand": "npm install",
+  "cleanUrls": true,
   "rewrites": [
-    { "source": "/((?!_expo|assets|favicon.ico).*)", "destination": "/index.html" }
+    { "source": "/(.*)", "destination": "/index.html" }
   ]
 }

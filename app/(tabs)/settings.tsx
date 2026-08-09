@@ -2,6 +2,7 @@ import React from 'react';
 import { View, Text, Switch, StyleSheet, ScrollView, StatusBar, TouchableOpacity, Linking } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { LinearGradient } from 'expo-linear-gradient';
+import { useRouter } from 'expo-router';
 import { useTheme } from '../../constants/Theme';
 import { useSettings, FONT_SIZE_DEFAULT, FONT_SIZE_MIN, FONT_SIZE_MAX } from '../../hooks/useSettings';
 import { Spacing, Radius, FontSize, Colors } from '../../constants/Colors';
@@ -80,6 +81,7 @@ function FontSizeRow({ settings, update, theme }: {
 
 export default function SettingsScreen() {
   const theme = useTheme();
+  const router = useRouter();
   const { settings, update } = useSettings();
 
   return (
@@ -153,6 +155,21 @@ export default function SettingsScreen() {
               Praveen Puviindran; Latha Ravendran & Vijitha Puviindran
             </Text>
           </View>
+        </View>
+
+        {/* Legal */}
+        <Text style={[styles.section, { color: theme.saffron }]}>Legal</Text>
+        <View style={[styles.card, { backgroundColor: theme.bgCard, borderColor: theme.border }]}>
+          <TouchableOpacity
+            style={[styles.row, { borderBottomColor: 'transparent' }]}
+            onPress={() => router.push('/privacy')}
+            activeOpacity={0.7}
+          >
+            <View style={styles.rowText}>
+              <Text style={[styles.rowLabel, { color: theme.text }]}>Privacy Policy</Text>
+            </View>
+            <Text style={[styles.rowLabel, { color: theme.saffron }]}>›</Text>
+          </TouchableOpacity>
         </View>
 
         {/* Feedback */}
