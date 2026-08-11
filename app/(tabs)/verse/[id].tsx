@@ -120,14 +120,21 @@ export default function VerseScreen() {
   };
 
   return (
-    // Keyed on verseId: this screen is registered as a Tabs.Screen (see
-    // (tabs)/_layout.tsx), so React Navigation reuses this single component
-    // instance across every verse and only updates route params in place —
-    // it never remounts on its own. Forcing a remount here via `key` is what
-    // actually gives each verse a fresh Animated.View / native-driver binding,
-    // PanResponder-driven gesture, and TamilVerseLines measurement state
-    // instead of carrying over whatever the previous verse left behind.
-    <SafeAreaView key={verseId} style={[styles.safe, { backgroundColor: theme.bg }]}>
+    // IMPORTANT: do not key SafeAreaView/Animated.View on verseId. This screen
+    // is registered as a Tabs.Screen (see (tabs)/_layout.tsx), so React
+    // Navigation reuses one persistent component instance across every verse
+    // instead of mounting fresh per navigation — that's why a stale-state fix
+    // is needed at all. But the swipe gesture drives `swipeX` with
+    // useNativeDriver on THIS Animated.View, and a swipe finishes by calling
+    // router.replace() from inside that same animation's completion callback.
+    // If this element were keyed on verseId, React would unmount it (tearing
+    // down its native-driver binding) as a direct side effect of its own
+    // animation completing, which produced a blank screen immediately after
+    // swiping. Keeping this wrapper stable across verse changes — so the
+    // gesture/animation layer persists continuously through a swipe — avoids
+    // that entirely. The actual stale-reuse fix is scoped further down, to
+    // just the two children with their own per-verse internal refs.
+    <SafeAreaView style={[styles.safe, { backgroundColor: theme.bg }]}>
       <StatusBar barStyle={theme.dark ? 'light-content' : 'dark-content'} />
       <Animated.View style={{ flex: 1, transform: [{ translateX: swipeX }] }} {...panResponder.panHandlers}>
 
@@ -214,6 +221,7 @@ export default function VerseScreen() {
                 </View>
               </View>
               <TamilVerseLines
+                key={verseId}
                 tamilText={verse.tamil ?? ''}
                 baseFontSize={fontSize}
                 textStyle={styles.tamilText}
@@ -228,7 +236,7 @@ export default function VerseScreen() {
               </View>
             </LinearGradient>
 
-            <VerseAudioPlayer tamilText={verse.tamil} audioUrl={verse.audioUrl} />
+            <VerseAudioPlayer key={verseId} tamilText={verse.tamil} audioUrl={verse.audioUrl} />
 
             {verse.elaborationTamil ? (
               <LinearGradient
@@ -261,7 +269,7 @@ export default function VerseScreen() {
               </View>
             ) : null}
 
-            <VerseAudioPlayer tamilText={verse.tamil} audioUrl={verse.audioUrl} />
+            <VerseAudioPlayer key={verseId} tamilText={verse.tamil} audioUrl={verse.audioUrl} />
 
             <View style={[styles.card, { backgroundColor: theme.bgCard, borderColor: theme.border }]}>
               <View style={styles.sectionRow}>
