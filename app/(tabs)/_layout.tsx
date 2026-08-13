@@ -1,6 +1,20 @@
 import { Tabs } from 'expo-router';
-import { useColorScheme, Text } from 'react-native';
+import { useColorScheme, Text, useWindowDimensions } from 'react-native';
 import { Colors } from '../../constants/Colors';
+
+// Tab bar chrome (icons + labels) is compact, fixed-frame UI, not reading
+// content — Dynamic Type is capped here rather than left unbounded, so the
+// bar grows predictably instead of needing to track the full accessibility
+// range. `maxFontSizeMultiplier` still lets the OS scale it up to this cap.
+const TAB_BAR_MAX_FONT_SCALE = 1.3;
+
+// Height at fontScale 1 (56, tuned by design), split into the fixed bottom
+// breathing room (3, already accounts for this bar's safe-area treatment —
+// left untouched) and the remaining icon+label content zone (53), which is
+// the part that actually needs more room as text scales.
+const TAB_BAR_BASE_HEIGHT = 56;
+const TAB_BAR_BOTTOM_PADDING = 3;
+const TAB_BAR_CONTENT_HEIGHT = TAB_BAR_BASE_HEIGHT - TAB_BAR_BOTTOM_PADDING;
 
 function TabIcon({ label, active, color }: { label: string; active: boolean; color: string }) {
   const icons: Record<string, string> = {
@@ -12,8 +26,27 @@ function TabIcon({ label, active, color }: { label: string; active: boolean; col
     Settings:    '⚙',
   };
   return (
-    <Text style={{ fontSize: 19, color, opacity: active ? 1 : 0.6 }}>
+    <Text
+      style={{ fontSize: 19, color, opacity: active ? 1 : 0.6 }}
+      maxFontSizeMultiplier={TAB_BAR_MAX_FONT_SCALE}
+    >
       {icons[label] ?? '•'}
+    </Text>
+  );
+}
+
+// react-navigation's built-in tabBarLabelStyle has no maxFontSizeMultiplier
+// knob, so the label is rendered here directly to get the same capped growth
+// as the icon above (color/focused come from react-navigation's own render
+// prop, keeping the existing active/inactive tint behavior unchanged).
+function TabLabel({ children, color }: { children: string; color: string }) {
+  return (
+    <Text
+      style={{ fontSize: 10, marginTop: -2, color }}
+      maxFontSizeMultiplier={TAB_BAR_MAX_FONT_SCALE}
+      numberOfLines={1}
+    >
+      {children}
     </Text>
   );
 }
@@ -21,13 +54,18 @@ function TabIcon({ label, active, color }: { label: string; active: boolean; col
 export default function TabLayout() {
   const scheme = useColorScheme();
   const dark = scheme === 'dark';
+  const { fontScale } = useWindowDimensions();
+
+  const cappedScale = Math.min(fontScale, TAB_BAR_MAX_FONT_SCALE);
+  // >= 1 always, so this is a no-op (exactly 56) at the default "large" size.
+  const tabBarHeight = Math.round(TAB_BAR_CONTENT_HEIGHT * Math.max(cappedScale, 1)) + TAB_BAR_BOTTOM_PADDING;
 
   const tabBarStyle = {
     backgroundColor: dark ? Colors.bgMid : '#EDE4D8',
     borderTopColor:  dark ? Colors.border : Colors.borderLight,
     borderTopWidth:  1,
-    paddingBottom:   3,
-    height:          56,
+    paddingBottom:   TAB_BAR_BOTTOM_PADDING,
+    height:          tabBarHeight,
   };
 
   return (
@@ -38,7 +76,9 @@ export default function TabLayout() {
         tabBarStyle,
         tabBarActiveTintColor:   Colors.saffron,
         tabBarInactiveTintColor: dark ? Colors.textMuted : Colors.textMutedOnLight,
-        tabBarLabelStyle:        { fontSize: 10, marginTop: -2 },
+        tabBarLabel:             ({ children, color }) => (
+          <TabLabel color={color}>{children}</TabLabel>
+        ),
       }}
     >
       <Tabs.Screen

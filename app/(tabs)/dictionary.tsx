@@ -1,7 +1,7 @@
 import React, { useState, useCallback, useMemo } from 'react';
 import {
   View, Text, TextInput, FlatList, TouchableOpacity,
-  StyleSheet, StatusBar, Modal, ScrollView,
+  StyleSheet, StatusBar, Modal, ScrollView, useWindowDimensions,
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { LinearGradient } from 'expo-linear-gradient';
@@ -210,9 +210,22 @@ function TermCard({
 export default function DictionaryScreen() {
   const theme = useTheme();
   const router = useRouter();
+  const { fontScale } = useWindowDimensions();
   const [query, setQuery] = useState('');
   const [activeCategory, setActiveCategory] = useState<DictionaryCategory | null>(null);
   const [selectedTerm, setSelectedTerm] = useState<DictionaryTerm | null>(null);
+
+  // The category chip's <Text> reports a measured height of 0 to Yoga inside
+  // this horizontal FlatList (its width measures correctly, only height does
+  // not) — see investigation notes. `paddingVertical` alone therefore never
+  // gets a text height to add itself to, so the pill collapses to ~padding
+  // + border regardless of font size, and its rounded corners (borderRadius
+  // + backgroundColor implicitly clip to bounds on iOS) crop whatever the
+  // glyphs paint outside that box. A `minHeight` computed from the live
+  // fontScale — independent of the broken intrinsic measurement — gives the
+  // pill a reliable floor, and centering the text within it keeps the glyphs
+  // inside the rounded frame at any Dynamic Type size.
+  const chipMinHeight = Math.ceil(FontSize.xs * 1.3 * fontScale) + Spacing.sm * 2;
 
   const handleSearch = useCallback((text: string) => {
     setQuery(text);
@@ -265,36 +278,55 @@ export default function DictionaryScreen() {
       </View>
 
       {/* Category filter chips */}
-      <FlatList
-        horizontal
-        data={ALL_CATEGORIES}
-        keyExtractor={(c) => c}
-        showsHorizontalScrollIndicator={false}
-        contentContainerStyle={styles.chips}
-        keyboardShouldPersistTaps="handled"
-        keyboardDismissMode="on-drag"
-        renderItem={({ item: cat }) => {
-          const active = activeCategory === cat;
-          const color = CATEGORY_COLORS[cat];
-          return (
-            <TouchableOpacity
-              onPress={() => toggleCategory(cat)}
-              activeOpacity={0.75}
-              style={[
-                styles.chip,
-                active
-                  ? { backgroundColor: color, borderColor: color }
-                  : { backgroundColor: color + '18', borderColor: color + '55' },
-              ]}
-            >
-              <Text style={[styles.chipText, { color: active ? '#FFF' : color }]}>
-                {cat}
-              </Text>
-            </TouchableOpacity>
-          );
-        }}
-        style={styles.chipList}
-      />
+      {/*
+        The FlatList below is wrapped in a plain View. This isn't just a
+        measurement convenience — it's load-bearing. As a direct flex child
+        of the SafeAreaView column, the horizontal FlatList exhibits a
+        Fabric paint bug: the chip's `minHeight` override is honored by
+        Yoga's layout (confirmed via onLayout/measureInWindow — the box is
+        genuinely the full fontScale-derived height) and it correctly
+        pushes the "N terms" sibling down, but the chip's *painted*
+        rounded background stops filling partway down the box, well short
+        of the real edge, leaving the glyphs clipped inside an
+        under-painted pill. Interposing an ordinary View between the
+        SafeAreaView and the FlatList eliminates the desync — the pill
+        then paints its full layout box and the text is no longer clipped.
+        Verified at accessibility-extra-large via pixel-level screenshot
+        analysis (pill background span went from ~22pt to the full 58pt).
+      */}
+      <View>
+        <FlatList
+          horizontal
+          data={ALL_CATEGORIES}
+          keyExtractor={(c) => c}
+          showsHorizontalScrollIndicator={false}
+          contentContainerStyle={styles.chips}
+          keyboardShouldPersistTaps="handled"
+          keyboardDismissMode="on-drag"
+          renderItem={({ item: cat }) => {
+            const active = activeCategory === cat;
+            const color = CATEGORY_COLORS[cat];
+            return (
+              <TouchableOpacity
+                onPress={() => toggleCategory(cat)}
+                activeOpacity={0.75}
+                style={[
+                  styles.chip,
+                  { minHeight: chipMinHeight },
+                  active
+                    ? { backgroundColor: color, borderColor: color }
+                    : { backgroundColor: color + '18', borderColor: color + '55' },
+                ]}
+              >
+                <Text style={[styles.chipText, { color: active ? '#FFF' : color }]}>
+                  {cat}
+                </Text>
+              </TouchableOpacity>
+            );
+          }}
+          style={styles.chipList}
+        />
+      </View>
 
       {/* Results */}
       <FlatList
@@ -367,6 +399,8 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     paddingHorizontal: 12,
     paddingVertical: 5,
+    alignItems: 'center',
+    justifyContent: 'center',
   },
   chipText: { fontSize: FontSize.xs, fontWeight: '700' },
 
