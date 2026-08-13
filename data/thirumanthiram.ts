@@ -157,7 +157,7 @@ export function searchVerses(query: string): Verse[] {
   const q = query.toLowerCase().trim();
   if (!q) return [];
   return VERSES.filter(v =>
-    v.tamil?.includes(query) ||
+    v.tamil?.includes(q) ||
     v.transliteration?.toLowerCase().includes(q) ||
     v.english?.toLowerCase().includes(q)
   );

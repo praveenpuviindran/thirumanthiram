@@ -1,0 +1,80 @@
+appId: com.praveenpuviindran.thirumanthiram
+name: A F5 scroll resets to top on verse navigation
+# F5 — the verse-detail ScrollView is keyed `${verseId}:${activeTab}` (see
+# the "Tab content" comment in app/(tabs)/verse/[id].tsx: "Keyed on verse
+# AND tab so scroll offset does not carry across verses"). This is a
+# regression guard for that key: scroll deep into a verse, navigate to a
+# neighbour by three different mechanisms (Next button, swipe, Prev button),
+# and assert the new verse renders at the top WITHOUT any scroll gesture.
+# Uses the visibility of a top-of-content landmark ("Tamil  ·  தமிழ்", the
+# pill inside the hero card, itself INSIDE the scrolling ScrollView — not the
+# tab-bar label of the same word, which sits outside it and never scrolls)
+# and the invisibility of the below-the-fold Prev/Next row as proxies for
+# scroll position.
+#
+# SELECTOR PROVENANCE
+#   VALIDATED (01-selector-reference.yaml / B-N8 / A-F1 / A-F1c):
+#     _launch.yaml, A-_open.yaml, "Tamil  ·  தமிழ்", "#N" header landmark,
+#     "#N, Next ›" / "‹ Prev, #N" as scrollUntilVisible targets, swipe LEFT.
+#   UNVERIFIED (derived, not run):
+#     - assertNotVisible on "Tamil  ·  தமிழ்" / the Prev/Next row after
+#       scrollUntilVisible, used to prove we actually left the top before
+#       navigating. This assumes verses #699/#700/#701's content is taller
+#       than one screen on the target device's viewport — true for every
+#       verse exercised so far in B-N8/A-F1, but not independently confirmed
+#       for these three ids.
+---
+- runFlow: _launch.yaml
+
+# ── Baseline: a fresh open lands at the top ──────────────────────────────
+- runFlow:
+    file: A-_open.yaml
+    env:
+      URL: thirumanthiram:///verse/700
+      LANDMARK: "#699"
+- assertVisible: "Tamil  ·  தமிழ்"
+
+# ── Scroll deep into #699, then advance with the Next button ────────────
+- scrollUntilVisible:
+    element: "#700, Next ›"
+    direction: DOWN
+    timeout: 25000
+- assertNotVisible: "Tamil  ·  தமிழ்"          # UNVERIFIED: proves we left the top
+- takeScreenshot: /tmp/A-F5-00-scrolled-down-699
+
+- tapOn: "#700, Next ›"
+- extendedWaitUntil:
+    visible: "#700"
+    timeout: 20000
+- assertVisible: "Tamil  ·  தமிழ்"              # top landmark visible with NO scroll
+- assertNotVisible: "‹ Prev, #699"              # UNVERIFIED: nav row still below fold
+- takeScreenshot: /tmp/A-F5-01-next-button-reset
+
+# ── Scroll deep into #700, then advance with a swipe ─────────────────────
+- scrollUntilVisible:
+    element: "#701, Next ›"
+    direction: DOWN
+    timeout: 25000
+- assertNotVisible: "Tamil  ·  தமிழ்"
+- swipe:
+    direction: LEFT
+- extendedWaitUntil:
+    visible: "#701"
+    timeout: 10000
+- assertVisible: "Tamil  ·  தமிழ்"
+- assertNotVisible: "‹ Prev, #700"
+- takeScreenshot: /tmp/A-F5-02-swipe-reset
+
+# ── Scroll deep into #701, then go back with the Prev button ─────────────
+- scrollUntilVisible:
+    element: "‹ Prev, #700"
+    direction: DOWN
+    timeout: 25000
+- assertNotVisible: "Tamil  ·  தமிழ்"
+- tapOn: "‹ Prev, #700"
+- extendedWaitUntil:
+    visible: "#700"
+    timeout: 20000
+- assertVisible: "Tamil  ·  தமிழ்"
+- assertNotVisible: "#701, Next ›"              # UNVERIFIED: nav row below fold again
+- takeScreenshot: /tmp/A-F5-03-prev-button-reset

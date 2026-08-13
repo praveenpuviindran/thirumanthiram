@@ -15,6 +15,11 @@ import { View, Text, TouchableOpacity, StyleSheet } from 'react-native';
 import { LinearGradient } from 'expo-linear-gradient';
 import { Audio } from 'expo-av';
 import * as Speech from 'expo-speech';
+// H6: use expo-router's own fork of useFocusEffect (not @react-navigation/native
+// directly) — expo-router is already a direct dependency, and its fork guards
+// with useOptionalNavigation so it no-ops instead of throwing outside a
+// NavigationContainer (e.g. in tests that render this component in isolation).
+import { useFocusEffect } from 'expo-router';
 import { useTheme } from '../../constants/Theme';
 import { Spacing, Radius, FontSize, Colors } from '../../constants/Colors';
 
@@ -61,6 +66,14 @@ export function VerseAudioPlayer({ tamilText, audioUrl }: Props) {
     }
     setState('idle');
   }, []);
+
+  // H6: this screen is a Tabs.Screen and never unmounts, so the unmount cleanup
+  // above does not fire on tab switch or Back. Stop on blur instead.
+  useFocusEffect(
+    useCallback(() => {
+      return () => { stop(); };
+    }, [stop])
+  );
 
   const handlePress = useCallback(async () => {
     if (state === 'playing') {

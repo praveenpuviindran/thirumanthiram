@@ -1,0 +1,140 @@
+appId: com.praveenpuviindran.thirumanthiram
+name: B N3 all tantras
+---
+- runFlow: _launch.yaml
+- tapOn: "Tantras, tab.*"
+- extendedWaitUntil:
+    visible: "Paayiram & Nine Tantras"
+    timeout: 20000
+
+# Each TantraCard is one merged node; "Verses a–b" (EN DASH) is unique per card.
+- scrollUntilVisible:
+    element: "(?s).*Verses 0–112.*"
+    direction: DOWN
+    timeout: 30000
+- tapOn: "(?s).*Verses 0–112.*"
+- extendedWaitUntil:
+    visible: "113 verses in this tantra"
+    timeout: 20000
+- assertVisible: "Paayiram"
+- tapOn: "‹ Back"
+- extendedWaitUntil:
+    visible: "Paayiram & Nine Tantras"
+    timeout: 20000
+
+- scrollUntilVisible:
+    element: "(?s).*Verses 113–336.*"
+    direction: DOWN
+    timeout: 30000
+- tapOn: "(?s).*Verses 113–336.*"
+- extendedWaitUntil:
+    visible: "224 verses in this tantra"
+    timeout: 20000
+- tapOn: "‹ Back"
+- extendedWaitUntil:
+    visible: "Paayiram & Nine Tantras"
+    timeout: 20000
+
+- scrollUntilVisible:
+    element: "(?s).*Verses 337–548.*"
+    direction: DOWN
+    timeout: 30000
+- tapOn: "(?s).*Verses 337–548.*"
+- extendedWaitUntil:
+    visible: "212 verses in this tantra"
+    timeout: 20000
+- tapOn: "‹ Back"
+- extendedWaitUntil:
+    visible: "Paayiram & Nine Tantras"
+    timeout: 20000
+
+- scrollUntilVisible:
+    element: "(?s).*Verses 549–883.*"
+    direction: DOWN
+    timeout: 30000
+- tapOn: "(?s).*Verses 549–883.*"
+- extendedWaitUntil:
+    visible: "335 verses in this tantra"
+    timeout: 20000
+- tapOn: "‹ Back"
+- extendedWaitUntil:
+    visible: "Paayiram & Nine Tantras"
+    timeout: 20000
+
+- scrollUntilVisible:
+    element: "(?s).*Verses 884–1418.*"
+    direction: DOWN
+    timeout: 30000
+- tapOn: "(?s).*Verses 884–1418.*"
+- extendedWaitUntil:
+    visible: "535 verses in this tantra"
+    timeout: 20000
+- tapOn: "‹ Back"
+- extendedWaitUntil:
+    visible: "Paayiram & Nine Tantras"
+    timeout: 20000
+
+- scrollUntilVisible:
+    element: "(?s).*Verses 1419–1572.*"
+    direction: DOWN
+    timeout: 30000
+- tapOn: "(?s).*Verses 1419–1572.*"
+- extendedWaitUntil:
+    visible: "154 verses in this tantra"
+    timeout: 20000
+- tapOn: "‹ Back"
+- extendedWaitUntil:
+    visible: "Paayiram & Nine Tantras"
+    timeout: 20000
+
+- scrollUntilVisible:
+    element: "(?s).*Verses 1573–1703.*"
+    direction: DOWN
+    timeout: 30000
+- tapOn: "(?s).*Verses 1573–1703.*"
+- extendedWaitUntil:
+    visible: "131 verses in this tantra"
+    timeout: 20000
+- tapOn: "‹ Back"
+- extendedWaitUntil:
+    visible: "Paayiram & Nine Tantras"
+    timeout: 20000
+
+- scrollUntilVisible:
+    element: "(?s).*Verses 1704–2121.*"
+    direction: DOWN
+    timeout: 30000
+- tapOn: "(?s).*Verses 1704–2121.*"
+- extendedWaitUntil:
+    visible: "418 verses in this tantra"
+    timeout: 20000
+- tapOn: "‹ Back"
+- extendedWaitUntil:
+    visible: "Paayiram & Nine Tantras"
+    timeout: 20000
+
+- scrollUntilVisible:
+    element: "(?s).*Verses 2122–2648.*"
+    direction: DOWN
+    timeout: 30000
+- tapOn: "(?s).*Verses 2122–2648.*"
+- extendedWaitUntil:
+    visible: "527 verses in this tantra"
+    timeout: 20000
+- tapOn: "‹ Back"
+- extendedWaitUntil:
+    visible: "Paayiram & Nine Tantras"
+    timeout: 20000
+
+- scrollUntilVisible:
+    element: "(?s).*Verses 2649–3047.*"
+    direction: DOWN
+    timeout: 30000
+- tapOn: "(?s).*Verses 2649–3047.*"
+- extendedWaitUntil:
+    visible: "399 verses in this tantra"
+    timeout: 20000
+- tapOn: "‹ Back"
+- extendedWaitUntil:
+    visible: "Paayiram & Nine Tantras"
+    timeout: 20000

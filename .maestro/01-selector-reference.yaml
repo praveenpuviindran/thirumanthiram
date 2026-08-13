@@ -1,0 +1,197 @@
+appId: com.praveenpuviindran.thirumanthiram
+name: 01 selector reference
+# =============================================================================
+# Every selector below was executed and passed against the running app on
+# P3-iPhone15 (A28CF508-04E7-4B5C-A204-E6BCAE626C5E). This file is the
+# authoritative selector catalogue for Phase 1. Run it to re-validate.
+#
+# SELECTOR MODEL (proven empirically, Maestro 2.0.10 / iOS 17.0):
+#   * `text:` is a CASE-INSENSITIVE, FULL-STRING Java regex match against the
+#     node's accessibilityText. There is NO implicit substring matching.
+#       "Home"              -> FAILS (node is "Home, tab, 1 of 8")
+#       ".*Home.*"          -> passes
+#   * Multi-line labels need an explicit DOTALL flag, because `.` does not
+#     match "\n" and the match must cover the whole string:
+#       ".*2361.*"          -> FAILS on a label containing "\n"
+#       "(?s).*2361.*"      -> passes
+#   * Anything inside a Touchable/Pressable is MERGED into ONE accessibility
+#     node whose label is the children's text joined by ", ". Children are not
+#     individually addressable, so `containsChild:` is useless inside cards.
+#   * `index:` is applied AFTER all other filters, ordered top-to-bottom.
+#   * `rightOf:` alone does NOT constrain vertically - it mis-targeted the
+#     wrong Settings switch. Use `index:` or `rightOf:` + `below:` together.
+#   * A TextInput's placeholder is matchable with a plain `text:` selector.
+#   * Maestro matches elements that are OFF-SCREEN or occluded by the
+#     keyboard. Use `hideKeyboard` or scroll the target into view first.
+#   * After any navigating tap, use `extendedWaitUntil`, not bare
+#     `assertVisible` - a bare assert races the transition.
+#   * NEVER assert "Thirumanthiram": the ROOT WINDOW node carries
+#     accessibilityText="Thirumanthiram", so it is visible even on the redbox
+#     and on a blank screen. Guaranteed false positive.
+#   * Always start with `- runFlow: _launch.yaml` - it clears the LogBox toast,
+#     which otherwise swallows every tab-bar tap. See _launch.yaml.
+# =============================================================================
+---
+- runFlow: _launch.yaml
+
+# --- Home -------------------------------------------------------------------
+- assertVisible: "VERSE OF THE DAY"               # section header, exact
+- assertVisible: "3,047"                          # stat tile
+- assertVisible: "(?s).*#2361.*"                  # verse no. inside merged card label
+- assertVisible: "(?s).*Realizing this, adore Him.*"   # English inside merged label
+
+# --- Tab bar (a11y label is "<Title>, tab, N of 8"; ★ icon is absorbed) ------
+- assertVisible: "Home, tab, 1 of 8"
+- assertVisible: ".*Home.*"
+- tapOn: "Tantras, tab.*"
+- extendedWaitUntil:
+    visible: "Paayiram & Nine Tantras"
+    timeout: 15000
+
+# --- Tantra list / verse list ----------------------------------------------
+- tapOn: "Tantra 1, முதல் தந்திரம்.*"
+- extendedWaitUntil:
+    visible: "224 verses in this tantra"
+    timeout: 15000
+- tapOn: "(?s)113, விண்ணின்று.*"                   # VerseCard, merged multi-line label
+- extendedWaitUntil:
+    visible: "#113"
+    timeout: 15000
+
+# --- Verse screen: individual Tamil lines ARE addressable (not in a Touchable)
+- assertVisible: "விண்ணின்று இழிந்து வினைக்கீடாய் மெய்க்கொண்டு"
+- assertVisible: "Tamil  ·  தமிழ்"
+- assertVisible: "தமிழ்"
+- assertVisible: "English"
+- assertVisible: "Notes"
+- assertVisible: "Feedback"
+
+# --- THE ★ AMBIGUITY, RESOLVED ---------------------------------------------
+# On the verse screen the favourite toggle is the ONLY standalone ★ / ☆ node.
+# The Favorites tab-bar icon is absorbed into "Favorites, tab, 5 of 8"; the
+# VerseCard badge is absorbed into the card's merged label; the empty-state
+# icon only exists on the Favorites screen. No index/below/point needed.
+- assertVisible: "☆"
+- assertNotVisible: "★"
+- tapOn: "☆"
+- assertVisible: "★"
+- assertNotVisible: "☆"
+
+# --- ★ as a VerseCard badge: scope it inside the card's own merged label -----
+- tapOn: "‹ Back"
+- extendedWaitUntil:
+    visible: "(?s)113,.*★,.*"
+    timeout: 15000
+- assertNotVisible: "(?s)114,.*★,.*"              # neighbouring card has none
+- assertNotVisible: "★"                           # no standalone ★ on a list screen
+
+# --- Favorites screen -------------------------------------------------------
+- tapOn: "Favorites, tab.*"
+- extendedWaitUntil:
+    visible: "(?s)113,.*★,.*"
+    timeout: 15000
+- assertNotVisible: "No Favorites Yet"
+- tapOn: "(?s)113,.*★,.*"
+- extendedWaitUntil:
+    visible: "#113"
+    timeout: 15000
+- tapOn: "★"                                       # untoggle, restore clean state
+- assertVisible: "☆"
+- tapOn: "Favorites, tab.*"
+- extendedWaitUntil:
+    visible: "No Favorites Yet"
+    timeout: 15000
+- assertVisible: "★"                               # empty-state icon, unambiguous here
+
+# --- Search: placeholder is matchable as plain text -------------------------
+- tapOn: "Search, tab.*"
+- tapOn: "Search English or Tamil..."
+- inputText: "grace"
+- extendedWaitUntil:
+    visible: "351 verses found"
+    timeout: 15000
+- tapOn: "(?s)1, Kadavul Vaazhththu, ஒன்றவன்.*"    # SINGLE tap, keyboard still up
+- extendedWaitUntil:
+    visible: "#1"
+    timeout: 15000
+
+# --- Swipe navigation works and is assertable -------------------------------
+- swipe:
+    direction: LEFT
+- extendedWaitUntil:
+    visible: "#2"
+    timeout: 10000
+- swipe:
+    direction: RIGHT
+- extendedWaitUntil:
+    visible: "#1"
+    timeout: 10000
+
+# --- Prev / Next buttons encode their target verse number -------------------
+# They sit below the fold; scroll them into view first.
+- scrollUntilVisible:
+    element: "#2, Next ›"
+    direction: DOWN
+    timeout: 20000
+# NOTE: the Prev/Next buttons render the raw verse number, so on verse #1 the
+# Prev button reads "#0" while the header for that same verse reads "Kaapu".
+- assertVisible: "‹ Prev, #0"
+
+# --- Settings: two Switches, both labelled "1"(on)/"0"(off), CHECKED attr ----
+# `rightOf:` alone is NOT safe here. Use index (top-to-bottom): 0 =
+# Show Transliteration, 1 = Show English Translation.
+- tapOn: "Settings, tab.*"
+- extendedWaitUntil:
+    visible: "Version 1.1.3"
+    timeout: 15000
+- assertVisible: "Show Transliteration"
+- assertVisible: "Show English Translation"
+- assertVisible: "Font Size"
+- assertVisible: "A+"
+- assertVisible: "A−"
+- assertVisible: "17"                              # current font size value
+# "Reset" only renders when the font size differs from the default - do not
+# assert it unconditionally.
+- copyTextFrom:
+    text: "[01]"
+    index: 0
+- evalScript: ${output.translit = maestro.copiedText}
+- copyTextFrom:
+    text: "[01]"
+    index: 1
+- evalScript: ${output.english = maestro.copiedText}
+- assertTrue: ${output.translit == "1"}
+- assertTrue: ${output.english == "1"}
+# toggle + restore, proving the index targeting hits the intended switch
+- tapOn:
+    text: "[01]"
+    index: 1
+- assertVisible:
+    text: "0"
+    index: 0                                       # only one "0" exists -> English
+- tapOn:
+    text: "0"
+- copyTextFrom:
+    text: "[01]"
+    index: 1
+- evalScript: ${output.english2 = maestro.copiedText}
+- assertTrue: ${output.english2 == "1"}
+
+# --- Dictionary: chips are standalone, terms are merged labels --------------
+- tapOn: "Dictionary, tab.*"
+- extendedWaitUntil:
+    visible: "அகராதி · 149 terms · A–Z"
+    timeout: 15000
+- assertVisible: "Yoga"                            # category chip, exact match only
+- assertVisible: "(?s)ஆசனம், Yoga, ācaṉam.*"        # term row, merged label
+
+# --- Deep link: iOS shows a Safari confirmation sheet first ------------------
+# NOTE: the route segment is the verse *id*, which is off by one from the
+# displayed verse number: /verse/42 lands on "#41".
+- openLink: thirumanthiram:///verse/42
+- tapOn:
+    text: "Open"
+    optional: true
+- extendedWaitUntil:
+    visible: "#41"
+    timeout: 30000

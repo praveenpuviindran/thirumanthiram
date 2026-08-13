@@ -1,0 +1,53 @@
+appId: com.praveenpuviindran.thirumanthiram
+name: B N12 invalid route
+---
+- runFlow: _launch.yaml
+
+- openLink: thirumanthiram:///this-route-does-not-exist
+- tapOn:
+    text: "Open"
+    optional: true
+- extendedWaitUntil:
+    visible: "This path does not exist in the text."
+    timeout: 30000
+- assertVisible: "Page Not Found"
+- tapOn: "Return Home"
+- extendedWaitUntil:
+    visible: "VERSE OF THE DAY"
+    timeout: 20000
+
+# Out-of-range verse id: 3048 verses exist (ids 1..3048).
+- openLink: thirumanthiram:///verse/99999
+- tapOn:
+    text: "Open"
+    optional: true
+- extendedWaitUntil:
+    visible: "Verse not found."
+    timeout: 30000
+
+# Non-numeric verse id.
+- openLink: thirumanthiram:///verse/abc
+- tapOn:
+    text: "Open"
+    optional: true
+- extendedWaitUntil:
+    visible: "Verse not found."
+    timeout: 30000
+
+# Out-of-range tantra id.
+- openLink: thirumanthiram:///tantra/42
+- tapOn:
+    text: "Open"
+    optional: true
+- extendedWaitUntil:
+    visible: "Tantra not found."
+    timeout: 30000
+# These two "not found" views render no back control of their own; the only
+# escape is the tab bar, so it must still be there.
+- assertVisible: "Home, tab.*"
+
+# Must still be able to get back to a real screen.
+- tapOn: "Home, tab.*"
+- extendedWaitUntil:
+    visible: "VERSE OF THE DAY"
+    timeout: 20000

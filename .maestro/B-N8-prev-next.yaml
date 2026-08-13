@@ -1,0 +1,104 @@
+appId: com.praveenpuviindran.thirumanthiram
+name: B N8 prev next buttons
+---
+# Prev/Next use router.replace on a screen that never unmounts. This flow
+# hunts for stale per-verse state carried across those replaces.
+- runFlow: _launch.yaml
+- openLink: thirumanthiram:///verse/700
+- tapOn:
+    text: "Open"
+    optional: true
+- extendedWaitUntil:
+    visible: "#699"
+    timeout: 30000
+
+# Nav buttons sit below the fold and carry the RAW verse number of the target.
+- scrollUntilVisible:
+    element: "#700, Next ›"
+    direction: DOWN
+    timeout: 25000
+- assertVisible: "‹ Prev, #698"
+
+# --- Next x3 -------------------------------------------------------------
+- tapOn: "#700, Next ›"
+- extendedWaitUntil:
+    visible: "#700"
+    timeout: 20000
+- assertVisible: "Tamil  ·  தமிழ்"
+- scrollUntilVisible:
+    element: "#701, Next ›"
+    direction: DOWN
+    timeout: 25000
+- assertVisible: "‹ Prev, #699"
+
+- tapOn: "#701, Next ›"
+- extendedWaitUntil:
+    visible: "#701"
+    timeout: 20000
+- assertVisible: "Tamil  ·  தமிழ்"
+- scrollUntilVisible:
+    element: "#702, Next ›"
+    direction: DOWN
+    timeout: 25000
+
+- tapOn: "#702, Next ›"
+- extendedWaitUntil:
+    visible: "#702"
+    timeout: 20000
+- assertVisible: "Tamil  ·  தமிழ்"
+
+# --- Prev x3, back to the start ------------------------------------------
+- scrollUntilVisible:
+    element: "‹ Prev, #701"
+    direction: DOWN
+    timeout: 25000
+- tapOn: "‹ Prev, #701"
+- extendedWaitUntil:
+    visible: "#701"
+    timeout: 20000
+- scrollUntilVisible:
+    element: "‹ Prev, #700"
+    direction: DOWN
+    timeout: 25000
+- tapOn: "‹ Prev, #700"
+- extendedWaitUntil:
+    visible: "#700"
+    timeout: 20000
+- scrollUntilVisible:
+    element: "‹ Prev, #699"
+    direction: DOWN
+    timeout: 25000
+- tapOn: "‹ Prev, #699"
+- extendedWaitUntil:
+    visible: "#699"
+    timeout: 20000
+- assertVisible: "Tamil  ·  தமிழ்"
+
+# --- Per-verse state must NOT carry across a router.replace ---------------
+# Favourite #699, advance with Next, and the star must read empty on #700.
+- assertVisible: "☆"
+- tapOn: "☆"
+- assertVisible: "★"
+- scrollUntilVisible:
+    element: "#700, Next ›"
+    direction: DOWN
+    timeout: 25000
+- tapOn: "#700, Next ›"
+- extendedWaitUntil:
+    visible: "#700"
+    timeout: 20000
+- assertVisible: "☆"
+- assertNotVisible: "★"
+
+# Go back and confirm #699 still remembers its star, then clean up.
+- scrollUntilVisible:
+    element: "‹ Prev, #699"
+    direction: DOWN
+    timeout: 25000
+- tapOn: "‹ Prev, #699"
+- extendedWaitUntil:
+    visible: "#699"
+    timeout: 20000
+- assertVisible: "★"
+- tapOn: "★"
+- assertVisible: "☆"

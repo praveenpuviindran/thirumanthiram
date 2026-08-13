@@ -1569,11 +1569,11 @@ Then is Mukti, sure indeed.`,
     id: 957, tantraId: 4, verseNumber: 956,
     tamil: `நாவியின் கீழது நல்ல எழுத்தொன்று
 பாவிகள் அத்தின் பயனறி வாரில்லை
-ஓவிய ராலும் அறியவொண் ணாத\\து
+ஓவிய ராலும் அறியவொண் ணாதது
 தேவியும் தானும் திகழ்ந்திருந் தானே`,
     transliteration: `nāviyiṉ kīḻatu nalla eḻuttoṉṟu
 pāvikaḷ attiṉ payaṉaṟi vārillai
-ōviya rālum aṟiyavoṇ ṇāta\\tu
+ōviya rālum aṟiyavoṇ ṇātatu
 tēviyum tāṉum tikaḻntirun tāṉē`,
     english: `956: Sakti and Siva are on the Mystic Letter Below the Navel
 Below the navel is a goodly Letter,
@@ -5648,11 +5648,11 @@ From Her downward looking face.`,
     tamil: `அம்பன்ன கண்ணி அரிவை மனோன்மணி
 கொம்பன்ன நுண்ணிடை கோதை குலாவிய
 செம்பொன்செய் யாக்கை செறிகமழ் நாடொறும்
-நம்பனை நோக்கி நவிலுகின் றா\\ளே`,
+நம்பனை நோக்கி நவிலுகின் றாளே`,
     transliteration: `ampaṉṉa kaṇṇi arivai maṉōṉmaṇi
 kompaṉṉa nuṇṇiṭai kōtai kulāviya
 cempoṉcey yākkai ceṟikamaḻ nāṭoṟum
-nampaṉai nōkki navilukiṉ ṟā\\ḷē`,
+nampaṉai nōkki navilukiṉ ṟāḷē`,
     english: `1147: Sakti Daily Prays to Lord
 Her glances are unto arrows sharp,
 She is the Lady Supreme

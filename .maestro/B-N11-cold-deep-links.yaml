@@ -1,0 +1,34 @@
+appId: com.praveenpuviindran.thirumanthiram
+name: B N11 cold deep links
+---
+- runFlow: _launch.yaml
+
+# --- cold /verse/42 -> renders #41 --------------------------------------
+- stopApp
+- openLink: thirumanthiram:///verse/42
+- tapOn:
+    text: "Open"
+    optional: true
+- extendedWaitUntil:
+    visible: "#41"
+    timeout: 60000
+- assertVisible: "Tamil  ·  தமிழ்"
+- assertVisible: "‹ Back"
+
+# --- cold /tantra/3 -----------------------------------------------------
+- stopApp
+- openLink: thirumanthiram:///tantra/3
+- tapOn:
+    text: "Open"
+    optional: true
+- extendedWaitUntil:
+    visible: "335 verses in this tantra"
+    timeout: 60000
+- assertVisible: "Verses 549–883"
+- assertVisible: "Tantra 3"
+
+# The tab bar must still work after a cold deep link.
+- tapOn: "Home, tab.*"
+- extendedWaitUntil:
+    visible: "VERSE OF THE DAY"
+    timeout: 20000

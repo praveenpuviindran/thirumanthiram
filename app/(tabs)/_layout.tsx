@@ -32,11 +32,12 @@ export default function TabLayout() {
 
   return (
     <Tabs
+      backBehavior="history"
       screenOptions={{
         headerShown:             false,
         tabBarStyle,
         tabBarActiveTintColor:   Colors.saffron,
-        tabBarInactiveTintColor: dark ? Colors.textMuted : '#8A6A50',
+        tabBarInactiveTintColor: dark ? Colors.textMuted : Colors.textMutedOnLight,
         tabBarLabelStyle:        { fontSize: 10, marginTop: -2 },
       }}
     >

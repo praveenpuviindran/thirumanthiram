@@ -3,6 +3,7 @@ import { View, Text, Switch, StyleSheet, ScrollView, StatusBar, TouchableOpacity
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { LinearGradient } from 'expo-linear-gradient';
 import { useRouter } from 'expo-router';
+import Constants from 'expo-constants';
 import { useTheme } from '../../constants/Theme';
 import { useSettings, FONT_SIZE_DEFAULT, FONT_SIZE_MIN, FONT_SIZE_MAX } from '../../hooks/useSettings';
 import { Spacing, Radius, FontSize, Colors } from '../../constants/Colors';
@@ -124,24 +125,16 @@ export default function SettingsScreen() {
           <FontSizeRow settings={settings} update={update} theme={theme} />
         </View>
 
-        {/* Audio */}
-        <Text style={[styles.section, { color: theme.saffron }]}>Audio</Text>
-        <View style={[styles.card, { backgroundColor: theme.bgCard, borderColor: theme.border }]}>
-          <SettingRow
-            label="Auto-Play Audio"
-            sublabel="Play recitation when opening a verse"
-            value={settings.autoPlayAudio}
-            onToggle={() => update({ autoPlayAudio: !settings.autoPlayAudio })}
-            theme={theme}
-          />
-        </View>
+        {/* The "Audio · Auto-Play Audio" section was removed (D1) — it was a
+            switch that persisted state no code ever read. See
+            contexts/SettingsContext.tsx for why it is not being implemented. */}
 
         {/* About */}
         <Text style={[styles.section, { color: theme.saffron }]}>About</Text>
         <View style={[styles.card, { backgroundColor: theme.bgCard, borderColor: theme.border }]}>
           <View style={styles.aboutRow}>
             <Text style={[styles.rowLabel, { color: theme.text }]}>Thirumanthiram App</Text>
-            <Text style={[styles.rowSub, { color: theme.textMuted }]}>Version 1.0.0</Text>
+            <Text style={[styles.rowSub, { color: theme.textMuted }]}>Version {Constants.expoConfig?.version ?? '—'}</Text>
           </View>
           <View style={[styles.row, { borderBottomColor: theme.border }]}>
             <Text style={[styles.rowSub, { color: theme.textSub, lineHeight: 20 }]}>

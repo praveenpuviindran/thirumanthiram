@@ -1,0 +1,29 @@
+appId: com.praveenpuviindran.thirumanthiram
+name: B N1 daily verse
+---
+- runFlow: _launch.yaml
+
+# Capture the daily verse card's merged label, extract its "#N".
+- copyTextFrom: "(?s).*Read ›.*"
+- evalScript: ${output.num = maestro.copiedText.match(/#(\d+)/)[1]}
+
+# Tap the card (Read › is merged into the card's single a11y node).
+- tapOn: "(?s).*Read ›.*"
+- extendedWaitUntil:
+    visible: "#${output.num}"
+    timeout: 20000
+- assertVisible: "Tamil  ·  தமிழ்"
+- assertVisible: "‹ Back"
+
+# The verse screen's "‹ Back" goes to the verse's TANTRA, not history.
+- tapOn: "‹ Back"
+- extendedWaitUntil:
+    visible: ".*verses in this tantra"
+    timeout: 20000
+
+# Return to Home and confirm it still renders.
+- tapOn: "Home, tab.*"
+- extendedWaitUntil:
+    visible: "VERSE OF THE DAY"
+    timeout: 20000
+- assertVisible: "(?s).*Read ›.*"

@@ -1,0 +1,45 @@
+appId: com.praveenpuviindran.thirumanthiram
+name: A F2 favourites
+# C2 — the bug that needed a force-quit to see. Favorites tab is mounted
+# BEFORE the verse is favourited, so a non-shared store leaves it stale.
+---
+- runFlow: _launch.yaml
+
+# Mount the Favorites tab first and prove it starts empty.
+- tapOn: "Favorites, tab.*"
+- extendedWaitUntil:
+    visible: "No favorites yet"
+    timeout: 15000
+
+- openLink: thirumanthiram:///verse/700
+- extendedWaitUntil:
+    visible: "#699"
+    timeout: 30000
+- assertVisible: "☆"
+- assertNotVisible: "★"
+- tapOn: "☆"
+- assertVisible: "★"
+- assertNotVisible: "☆"
+
+# Back to the already-mounted Favorites tab — must have updated live.
+- tapOn: "Favorites, tab.*"
+- extendedWaitUntil:
+    visible: "1 saved verse"
+    timeout: 15000
+- assertVisible: "(?s)699,.*★,.*"
+- assertNotVisible: "No favorites yet"
+- takeScreenshot: /tmp/A-F2-01-favorited
+
+# Untoggle from the Favorites list itself.
+- tapOn: "(?s)699,.*★,.*"
+- extendedWaitUntil:
+    visible: "#699"
+    timeout: 15000
+- tapOn: "★"
+- assertVisible: "☆"
+- tapOn: "Favorites, tab.*"
+- extendedWaitUntil:
+    visible: "No favorites yet"
+    timeout: 15000
+- assertNotVisible: "1 saved verse"
+- takeScreenshot: /tmp/A-F2-02-unfavorited

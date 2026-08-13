@@ -1,0 +1,86 @@
+appId: com.praveenpuviindran.thirumanthiram
+name: A F7 search trims leading and trailing whitespace
+# F7 — covers bug H3. `searchVerses()` in data/thirumanthiram.ts already
+# does `query.toLowerCase().trim()` before matching, so this is a regression
+# guard proving that trim actually holds: a query padded with leading
+# and/or trailing whitespace must return the exact same result set (same
+# count, same top result) as the untrimmed query. Uses the Search tab per
+# the task.
+#
+# SELECTOR PROVENANCE
+#   VALIDATED (01-selector-reference.yaml / A-F2b / B-N4): "Search, tab.*",
+#     "Search English or Tamil...", "351 verses found" (literal, for the
+#     "grace" fixture), "(?s)1, Kadavul Vaazhththu, ஒன்றவன்.*" (top result
+#     for "grace"), "(?s)699,.*" (landmark for the Tamil query
+#     "முன்னெழும் அக்கலை", from A-F2b), the eraseText → inputText re-query
+#     idiom (B-N4).
+#   UNVERIFIED (derived, not run):
+#     - "\\d+ verses? found" as a full-string regex against the results
+#       count header — used with copyTextFrom/evalScript (A-F3's compare
+#       idiom) so the padded-vs-unpadded comparison for the Tamil query
+#       (which has no known literal count fixture) doesn't depend on a
+#       hardcoded number. The regex pattern itself has not been run.
+---
+- runFlow: _launch.yaml
+- tapOn: "Search, tab.*"
+- tapOn: "Search English or Tamil..."
+
+# ── English query, anchored against the known validated fixture ─────────
+- inputText: "grace"
+- extendedWaitUntil:
+    visible: "351 verses found"
+    timeout: 15000
+- assertVisible: "(?s)1, Kadavul Vaazhththu, ஒன்றவன்.*"
+- copyTextFrom: "\\d+ verses? found"
+- evalScript: ${output.count1 = maestro.copiedText}
+
+- eraseText
+- inputText: "  grace  "
+- extendedWaitUntil:
+    visible: "351 verses found"
+    timeout: 15000
+- assertVisible: "(?s)1, Kadavul Vaazhththu, ஒன்றவன்.*"
+- copyTextFrom: "\\d+ verses? found"
+- evalScript: ${output.count2 = maestro.copiedText}
+- assertTrue: ${output.count1 == output.count2}
+- takeScreenshot: /tmp/A-F7-00-padded-both-sides
+
+# ── Trailing whitespace only ─────────────────────────────────────────────
+- eraseText
+- inputText: "grace  "
+- extendedWaitUntil:
+    visible: "351 verses found"
+    timeout: 15000
+- copyTextFrom: "\\d+ verses? found"
+- evalScript: ${output.count3 = maestro.copiedText}
+- assertTrue: ${output.count1 == output.count3}
+
+# ── Leading whitespace only ──────────────────────────────────────────────
+- eraseText
+- inputText: "  grace"
+- extendedWaitUntil:
+    visible: "351 verses found"
+    timeout: 15000
+- copyTextFrom: "\\d+ verses? found"
+- evalScript: ${output.count4 = maestro.copiedText}
+- assertTrue: ${output.count1 == output.count4}
+- takeScreenshot: /tmp/A-F7-01-single-sided
+
+# ── Tamil query, no known fixture count — compare via copyText only ─────
+- eraseText
+- inputText: "முன்னெழும் அக்கலை"
+- extendedWaitUntil:
+    visible: "(?s)699,.*"
+    timeout: 15000
+- copyTextFrom: "\\d+ verses? found"
+- evalScript: ${output.tamilCount1 = maestro.copiedText}
+
+- eraseText
+- inputText: "  முன்னெழும் அக்கலை  "
+- extendedWaitUntil:
+    visible: "(?s)699,.*"
+    timeout: 15000
+- copyTextFrom: "\\d+ verses? found"
+- evalScript: ${output.tamilCount2 = maestro.copiedText}
+- assertTrue: ${output.tamilCount1 == output.tamilCount2}
+- takeScreenshot: /tmp/A-F7-02-tamil-padded

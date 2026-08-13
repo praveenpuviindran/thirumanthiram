@@ -1,0 +1,67 @@
+appId: com.praveenpuviindran.thirumanthiram
+name: B N10 privacy and thirumular
+---
+- runFlow: _launch.yaml
+
+# --- Settings -> Privacy Policy -----------------------------------------
+- tapOn: "Settings, tab.*"
+- extendedWaitUntil:
+    visible: "Version 1.1.3"
+    timeout: 20000
+- scrollUntilVisible:
+    element: "Privacy Policy"
+    direction: DOWN
+    timeout: 25000
+- tapOn: "Privacy Policy"
+- extendedWaitUntil:
+    visible: "Last updated: July 28, 2026"
+    timeout: 20000
+- assertVisible: "Data Stored On Your Device"
+- tapOn: "‹ Back"
+- extendedWaitUntil:
+    visible: "Version 1.1.3"
+    timeout: 20000
+
+# --- Home -> About the Author -> About Thirumular -----------------------
+- tapOn: "Home, tab.*"
+- extendedWaitUntil:
+    visible: "VERSE OF THE DAY"
+    timeout: 20000
+- scrollUntilVisible:
+    element: "(?s).*Siddhar · One of the 18 Siddhars.*"
+    direction: DOWN
+    timeout: 25000
+- tapOn: "(?s).*Siddhar · One of the 18 Siddhars.*"
+- extendedWaitUntil:
+    visible: "About Thirumular"
+    timeout: 20000
+
+# Tamil is the default language.
+- scrollUntilVisible:
+    element: "English"
+    direction: DOWN
+    timeout: 25000
+- assertVisible: "திருமூலர் — அறிமுகம்"
+- assertNotVisible: "Who Was Thirumoolar?"
+
+- tapOn: "English"
+- extendedWaitUntil:
+    visible: "Who Was Thirumoolar?"
+    timeout: 20000
+- assertVisible: "The Miracle at Thiruvavaduthurai"
+- assertNotVisible: "திருமூலர் — அறிமுகம்"
+
+- tapOn: "தமிழ்"
+- extendedWaitUntil:
+    visible: "திருமூலர் — அறிமுகம்"
+    timeout: 20000
+- assertNotVisible: "Who Was Thirumoolar?"
+
+- scrollUntilVisible:
+    element: "‹ Back"
+    direction: UP
+    timeout: 25000
+- tapOn: "‹ Back"
+- extendedWaitUntil:
+    visible: "VERSE OF THE DAY"
+    timeout: 20000

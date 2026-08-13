@@ -7692,8 +7692,7 @@ vāḻkavē vāḻka malamilāṉ pātamē. 1.`,
 Long may they be, Long may they be, our Nandi's Holy Feet!
 Long may they be, Long may they be, the Feet of Him who severed Malas!
 Long may they be, Long may they be, the Feet of Him of Divine Jnana;
-Long may they be, Long may they be, the Feet of Him who has Mala none.
-TANTRA NINE ENDS`,
+Long may they be, Long may they be, the Feet of Him who has Mala none.`,
     elaborationEnglish: ``,
   },
 ];

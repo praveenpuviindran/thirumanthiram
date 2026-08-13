@@ -9,6 +9,8 @@ import {
 import { Lora_400Regular, Lora_700Bold } from '@expo-google-fonts/lora';
 import { useDataMigration } from '../hooks/useDataMigration';
 import { useAppUpdateCheck } from '../hooks/useAppUpdateCheck';
+import { SettingsProvider } from '../contexts/SettingsContext';
+import { FavoritesProvider } from '../contexts/FavoritesContext';
 
 SplashScreen.preventAutoHideAsync();
 
@@ -29,10 +31,18 @@ export default function RootLayout() {
 
   if (!fontsLoaded) return null;
 
+  // Providers sit below the fonts gate and wrap the Stack, so they are
+  // ancestors of every route. Hydration is NOT a render gate — the splash is
+  // already hidden on `fontsLoaded` alone above, and a second gate would show a
+  // blank frame. The stores gate their WRITES on hydration instead.
   return (
-    <Stack screenOptions={{ headerShown: false }}>
-      <Stack.Screen name="(tabs)" />
-      <Stack.Screen name="thirumular" />
-    </Stack>
+    <SettingsProvider>
+      <FavoritesProvider>
+        <Stack screenOptions={{ headerShown: false }}>
+          <Stack.Screen name="(tabs)" />
+          <Stack.Screen name="thirumular" />
+        </Stack>
+      </FavoritesProvider>
+    </SettingsProvider>
   );
 }

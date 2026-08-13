@@ -106,7 +106,11 @@ function TermModal({
           </View>
         </View>
 
-        <ScrollView contentContainerStyle={styles.modalScroll} showsVerticalScrollIndicator={false}>
+        <ScrollView
+          contentContainerStyle={styles.modalScroll}
+          showsVerticalScrollIndicator={false}
+          keyboardShouldPersistTaps="handled"
+        >
           {/* Word identity block */}
           <LinearGradient
             colors={[color + '18', color + '06']}
@@ -267,6 +271,8 @@ export default function DictionaryScreen() {
         keyExtractor={(c) => c}
         showsHorizontalScrollIndicator={false}
         contentContainerStyle={styles.chips}
+        keyboardShouldPersistTaps="handled"
+        keyboardDismissMode="on-drag"
         renderItem={({ item: cat }) => {
           const active = activeCategory === cat;
           const color = CATEGORY_COLORS[cat];
@@ -295,6 +301,8 @@ export default function DictionaryScreen() {
         data={results}
         keyExtractor={(t) => String(t.id)}
         contentContainerStyle={styles.list}
+        keyboardShouldPersistTaps="handled"
+        keyboardDismissMode="on-drag"
         ListHeaderComponent={
           results.length > 0 ? (
             <Text style={[styles.resultCount, { color: theme.textMuted }]}>

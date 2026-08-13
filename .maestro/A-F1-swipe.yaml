@@ -1,0 +1,47 @@
+appId: com.praveenpuviindran.thirumanthiram
+name: A F1 swipe 20 each way
+# C1 verification. Start at verse id 700 (renders "#699"), mid-tantra-3.
+# Header "#N" is a standalone Text node; the Prev/Next buttons merge their
+# numbers into "‹ Prev, #N" / "#N, Next ›", so a bare "#N" match is the header.
+# Screenshots are taken because the Phase-0 note warns that Maestro can match
+# OFF-SCREEN nodes — the C1 artifact is exactly an off-screen screen.
+---
+- runFlow: _launch.yaml
+- openLink: thirumanthiram:///verse/700
+- tapOn:
+    text: "Open"
+    optional: true
+- extendedWaitUntil:
+    visible: "#699"
+    timeout: 30000
+- assertVisible: "Tamil  ·  தமிழ்"
+- takeScreenshot: /tmp/A-F1-00-start
+
+- evalScript: ${output.n = 699}
+- repeat:
+    times: 20
+    commands:
+      - swipe:
+          direction: LEFT
+      - evalScript: ${output.n = output.n + 1}
+      - extendedWaitUntil:
+          visible: "#${output.n}"
+          timeout: 10000
+      - assertVisible: "Tamil  ·  தமிழ்"
+
+- takeScreenshot: /tmp/A-F1-01-after20left
+- assertVisible: "#719"
+
+- repeat:
+    times: 20
+    commands:
+      - swipe:
+          direction: RIGHT
+      - evalScript: ${output.n = output.n - 1}
+      - extendedWaitUntil:
+          visible: "#${output.n}"
+          timeout: 10000
+      - assertVisible: "Tamil  ·  தமிழ்"
+
+- takeScreenshot: /tmp/A-F1-02-after20right
+- assertVisible: "#699"

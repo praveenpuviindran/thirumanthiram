@@ -25,6 +25,11 @@ const TABS: { key: Tab; label: string }[] = [
 
 const FEEDBACK_EMAIL = 'thirumanthiram2026@gmail.com';
 
+// Notes persist on a trailing debounce rather than on every keystroke. On web
+// AsyncStorage is localStorage-backed and synchronous, so a per-keystroke write
+// blocks the JS thread inside the text input's own event handler.
+const NOTE_SAVE_DEBOUNCE_MS = 400;
+
 export default function VerseScreen() {
   const { id } = useLocalSearchParams<{ id: string }>();
   const router = useRouter();
@@ -37,16 +42,65 @@ export default function VerseScreen() {
   const [activeTab, setActiveTab] = useState<Tab>('tamil');
   const [feedbackName, setFeedbackName] = useState('');
   const [feedbackMsg, setFeedbackMsg] = useState('');
-  const [personalNote, setPersonalNote] = useState('');
+  // H2 — the loaded note carries the id it belongs to. A bare `cancelled` flag
+  // fixes only out-of-order resolution; it leaves the PREVIOUS verse's note on
+  // screen while the new one loads, and leaves saveNote free to write that
+  // stale text into the new verse's key. Binding value→id closes both.
+  const [note, setNote] = useState<{ id: number; text: string } | null>(null);
+
+  // Debounced persistence. The pending write carries its OWN verse id, so a
+  // timer that fires after a navigation still targets the verse the text was
+  // typed for — it can never land under the wrong key.
+  const pendingNoteWrite = useRef<{ id: number; text: string } | null>(null);
+  const noteWriteTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  const flushNoteWrite = useCallback(() => {
+    if (noteWriteTimer.current !== null) {
+      clearTimeout(noteWriteTimer.current);
+      noteWriteTimer.current = null;
+    }
+    const pending = pendingNoteWrite.current;
+    pendingNoteWrite.current = null;
+    if (!pending) return;
+    AsyncStorage.setItem(`verse_note_${pending.id}`, pending.text).catch(() => {});
+  }, []);
 
   useEffect(() => {
-    AsyncStorage.getItem(`verse_note_${verseId}`).then(v => setPersonalNote(v ?? ''));
-  }, [verseId]);
+    let cancelled = false;
+    // Synchronous, before paint: the outgoing verse's note is never shown
+    // under the incoming verse's header.
+    setNote(null);
+    AsyncStorage.getItem(`verse_note_${verseId}`)
+      .then(v => { if (!cancelled) setNote({ id: verseId, text: v ?? '' }); })
+      .catch(() => { if (!cancelled) setNote({ id: verseId, text: '' }); });
+    return () => {
+      cancelled = true;
+      // React runs this cleanup BEFORE the next effect's getItem is issued, so
+      // the outgoing verse's debounced write is committed first and in order.
+      flushNoteWrite();
+    };
+  }, [verseId, flushNoteWrite]);
+
+  const noteLoaded = note !== null && note.id === verseId;
 
   const saveNote = useCallback((text: string) => {
-    setPersonalNote(text);
-    AsyncStorage.setItem(`verse_note_${verseId}`, text);
-  }, [verseId]);
+    // Refuse writes until this verse's note has actually loaded. Without this,
+    // one keystroke during the load window persists whatever the input happened
+    // to be showing into `verse_note_<current>`, destroying it.
+    if (!noteLoaded) return;
+    setNote({ id: verseId, text });
+    pendingNoteWrite.current = { id: verseId, text };
+    if (noteWriteTimer.current !== null) clearTimeout(noteWriteTimer.current);
+    noteWriteTimer.current = setTimeout(() => {
+      noteWriteTimer.current = null;
+      const pending = pendingNoteWrite.current;
+      pendingNoteWrite.current = null;
+      if (pending) {
+        AsyncStorage.setItem(`verse_note_${pending.id}`, pending.text).catch(() => {});
+      }
+    }, NOTE_SAVE_DEBOUNCE_MS);
+  }, [verseId, noteLoaded]);
+
   const verse = useMemo(() => getVerseById(verseId), [verseId]);
   const tantra = useMemo(() => verse ? getTantraById(verse.tantraId) : undefined, [verse]);
 
@@ -57,6 +111,32 @@ export default function VerseScreen() {
   // ── Swipe navigation ──────────────────────────────────────────────────────
   const { width: screenWidth } = useWindowDimensions();
   const swipeX = useRef(new Animated.Value(0)).current;
+
+  // The PanResponder below is created once (useRef), so it would otherwise
+  // capture the very first render's width forever and animate by a stale
+  // distance after a rotation / window resize. Read it through a ref instead.
+  const widthRef = useRef(screenWidth);
+  useEffect(() => { widthRef.current = screenWidth; }, [screenWidth]);
+
+  // Latch: rejects a second swipe while an exit animation (and its trailing
+  // rAF-deferred router.replace) is still in flight.
+  const swipeInFlight = useRef(false);
+
+  // Per-verse reset. This screen is a Tabs.Screen that never unmounts, so every
+  // piece of verse-scoped state has to be cleared here by hand.
+  //   · swipeX / swipeInFlight — safety net: whatever happened during the last
+  //     swipe, a new verse always starts un-translated and un-latched.
+  //     Self-heals if a callback is dropped.
+  //   · feedbackMsg — a draft written about verse 41 must not be sent under
+  //     verse 42's subject line. `feedbackName` is deliberately NOT cleared:
+  //     it's the user's own name and re-typing it per verse is hostile.
+  //   · activeTab is deliberately NOT reset — staying on the English tab while
+  //     swiping is a reading-mode preference, not per-verse state.
+  useEffect(() => {
+    swipeX.setValue(0);
+    swipeInFlight.current = false;
+    setFeedbackMsg('');
+  }, [verseId, swipeX]);
 
   // Ref keeps latest nav targets fresh inside the PanResponder closure
   const navRef = useRef({ prevVerse, nextVerse, router });
@@ -75,14 +155,37 @@ export default function VerseScreen() {
         const goPrev = (dx > 60 || vx > 0.4) && !!prevVerse;
 
         if (goNext || goPrev) {
+          // H1: reject re-entrant swipes while one is still resolving.
+          if (swipeInFlight.current) return;
+          swipeInFlight.current = true;
+          const target = goNext ? nextVerse : prevVerse;
           Animated.timing(swipeX, {
-            toValue: goNext ? -screenWidth : screenWidth,
+            toValue: goNext ? -widthRef.current : widthRef.current,
             duration: 220,
             useNativeDriver: true,
-          }).start(() => {
-            swipeX.setValue(0);
-            if (goNext && nextVerse) router.replace(`/(tabs)/verse/${nextVerse.id}` as any);
-            else if (goPrev && prevVerse) router.replace(`/(tabs)/verse/${prevVerse.id}` as any);
+          }).start(({ finished }) => {
+            // H1: stopAnimation() still fires this callback, with finished:false.
+            if (!finished || !target) {
+              swipeInFlight.current = false;
+              swipeX.setValue(0);
+              return;
+            }
+            // C1: do NOT reset synchronously here. In RN's native-driver
+            // completion path (Animated/animations/Animation.js) :144 invokes
+            // this callback, then :151 __onAnimatedValueUpdateReceived restores
+            // the JS value to ±width and :166 schedules a React commit of it —
+            // both synchronous, both AFTER we return. A setValue(0) placed here
+            // is silently overwritten, which is the blank-screen bug.
+            // requestAnimationFrame is guaranteed to run after all of that.
+            // The stale ±width commit then lands while the OLD verse is still
+            // mounted and legitimately off-screen — the correct end state of an
+            // exit animation. And if the scheduler defers that commit past the
+            // rAF, _value is already 0. Correct under either interleaving.
+            // Do not "simplify" this back into the callback body.
+            requestAnimationFrame(() => {
+              swipeX.setValue(0);
+              router.replace(`/(tabs)/verse/${target.id}` as any);
+            });
           });
         } else {
           Animated.spring(swipeX, {
@@ -94,6 +197,7 @@ export default function VerseScreen() {
         }
       },
       onPanResponderTerminate: () => {
+        swipeInFlight.current = false;
         Animated.spring(swipeX, { toValue: 0, useNativeDriver: true, tension: 120, friction: 8 }).start();
       },
     })
@@ -110,6 +214,13 @@ export default function VerseScreen() {
   const color = tantra?.color ?? Colors.saffron;
   const favorite = isFavorite(verse.id);
   const fontSize = settings.fontSizeValue ?? 17;
+
+  // C3 — the Settings toggles are wired here. Both sections live on the English
+  // tab, so if the user turns both off that tab would otherwise show nothing
+  // but the audio player; render an explicit empty state instead.
+  const showTransliteration = settings.showTransliteration && !!verse.transliteration;
+  const showEnglish = settings.showEnglish;
+  const englishTabEmpty = !showTransliteration && !showEnglish;
 
   const sendFeedback = () => {
     const subject = encodeURIComponent(`Feedback – Verse #${verse.verseNumber}`);
@@ -169,7 +280,12 @@ export default function VerseScreen() {
 
       {/* Tab bar */}
       <View style={[styles.tabBar, { borderBottomColor: theme.border, backgroundColor: theme.bg }]}>
-        <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={styles.tabScroll}>
+        <ScrollView
+          horizontal
+          showsHorizontalScrollIndicator={false}
+          contentContainerStyle={styles.tabScroll}
+          keyboardShouldPersistTaps="handled"
+        >
           {TABS.map((tab) => {
             const active = activeTab === tab.key;
             return (
@@ -196,10 +312,15 @@ export default function VerseScreen() {
       </View>
 
       {/* Tab content */}
+      {/* Keyed on verse AND tab so scroll offset does not carry across verses.
+          Safe despite the wrapper warning above: this ScrollView holds neither
+          the native-driver binding nor the gesture handlers, and it already
+          remounts on every tab switch. */}
       <ScrollView
-        key={activeTab}
+        key={`${verseId}:${activeTab}`}
         contentContainerStyle={styles.scroll}
         showsVerticalScrollIndicator={false}
+        keyboardShouldPersistTaps="handled"
       >
 
         {/* ─── தமிழ் TAB ─── */}
@@ -257,7 +378,7 @@ export default function VerseScreen() {
         {/* ─── ENGLISH TAB ─── */}
         {activeTab === 'english' && (
           <>
-            {verse.transliteration ? (
+            {showTransliteration ? (
               <View style={[styles.card, { backgroundColor: theme.bgCard, borderColor: theme.border }]}>
                 <View style={styles.sectionRow}>
                   <Text style={[styles.sectionLabel, { color }]}>Transliteration</Text>
@@ -271,17 +392,29 @@ export default function VerseScreen() {
 
             <VerseAudioPlayer key={verseId} tamilText={verse.tamil} audioUrl={verse.audioUrl} />
 
-            <View style={[styles.card, { backgroundColor: theme.bgCard, borderColor: theme.border }]}>
-              <View style={styles.sectionRow}>
-                <Text style={[styles.sectionLabel, { color }]}>English</Text>
-                <Text style={[styles.sectionSub, { color: theme.textMuted }]}>Translation</Text>
+            {showEnglish ? (
+              <View style={[styles.card, { backgroundColor: theme.bgCard, borderColor: theme.border }]}>
+                <View style={styles.sectionRow}>
+                  <Text style={[styles.sectionLabel, { color }]}>English</Text>
+                  <Text style={[styles.sectionSub, { color: theme.textMuted }]}>Translation</Text>
+                </View>
+                <Text style={[styles.englishText, { color: theme.textSub, fontSize: fontSize - 1 }]}>
+                  {verse.english || '—'}
+                </Text>
               </View>
-              <Text style={[styles.englishText, { color: theme.textSub, fontSize: fontSize - 1 }]}>
-                {verse.english || '—'}
-              </Text>
-            </View>
+            ) : null}
 
-            {verse.elaborationEnglish ? (
+            {englishTabEmpty ? (
+              <View style={[styles.card, { backgroundColor: theme.bgCard, borderColor: theme.border }]}>
+                <Text style={[styles.emptyStateText, { color: theme.textMuted }]}>
+                  Transliteration and English translation are hidden. Turn them back on under Settings › Reading.
+                </Text>
+              </View>
+            ) : null}
+
+            {/* Commentary is English prose — it follows the English toggle, or
+                the "English" tab ends up containing no English at all. */}
+            {showEnglish && verse.elaborationEnglish ? (
               <LinearGradient
                 colors={[color + '14', color + '04']}
                 style={[styles.elaborationCard, { borderColor: color + '2A' }]}
@@ -306,10 +439,11 @@ export default function VerseScreen() {
             </View>
             <TextInput
               style={[styles.notesInput, { color: theme.text, borderColor: theme.border, backgroundColor: theme.bg, fontSize }]}
-              placeholder="Write your personal notes here..."
+              placeholder={noteLoaded ? 'Write your personal notes here...' : 'Loading your note…'}
               placeholderTextColor={theme.textMuted}
-              value={personalNote}
+              value={note && note.id === verseId ? note.text : ''}
               onChangeText={saveNote}
+              editable={noteLoaded}
               multiline
               textAlignVertical="top"
               autoCapitalize="sentences"
@@ -493,6 +627,7 @@ const styles = StyleSheet.create({
     textTransform: 'uppercase',
   },
   sectionSub: { fontSize: FontSize.xs },
+  emptyStateText: { fontSize: FontSize.sm, lineHeight: 22, textAlign: 'center' },
   translitText: { lineHeight: 26, fontStyle: 'italic' },
   englishText: { lineHeight: 26 },
 

@@ -1,0 +1,38 @@
+# Reusable launch preamble. Use with:
+#   - runFlow: _launch.yaml
+#
+# WHY THIS EXISTS
+# This is a DEBUG dev build, so React Native's LogBox shows a warning toast
+# ("Open debugger to view warnings.") on every cold launch - expo-av logs a
+# deprecation warning at import time. The toast's TOUCH container spans
+# y 764..832pt, full width, which OVERLAPS the tab bar's tap targets (the tab
+# element centres sit at y=823pt). With the toast up, EVERY tab-bar tap is
+# swallowed - verified: `tapOn: "Tantras, tab.*"` reports COMPLETED and the
+# app does not navigate.
+#
+# The toast is NOT addressable by any text selector - assertVisible on
+# ".*debugger.*", ".*warnings.*" and the exact label all fail, so it cannot be
+# dismissed conditionally. The only way to hit its X button is a coordinate
+# tap at ~92%,93%.
+#
+# If the toast is absent, that coordinate tap falls through to app content
+# (on Home it opens the Daily Verse card), so the Home-tab tap that follows
+# restores a known state either way.
+#
+# PREFERRED FIX (needs owner sign-off, one additive line in app/_layout.tsx):
+#   import { LogBox } from 'react-native';
+#   LogBox.ignoreAllLogs();
+# LogBox is a no-op in production builds, so this changes nothing shipped.
+# Alternative with zero source change: build Release instead of Debug.
+appId: com.praveenpuviindran.thirumanthiram
+---
+- launchApp
+- extendedWaitUntil:
+    visible: "VERSE OF THE DAY"
+    timeout: 60000
+- tapOn:
+    point: "92%,93%"
+- tapOn: "Home, tab.*"
+- extendedWaitUntil:
+    visible: "VERSE OF THE DAY"
+    timeout: 20000

@@ -1,0 +1,37 @@
+appId: com.praveenpuviindran.thirumanthiram
+name: B N4 search result
+---
+- runFlow: _launch.yaml
+- tapOn: "Search, tab.*"
+- extendedWaitUntil:
+    visible: "Search Thirumanthiram"
+    timeout: 20000
+- tapOn: "Search English or Tamil..."
+- inputText: "grace"
+- extendedWaitUntil:
+    visible: ".*verses found"
+    timeout: 20000
+# NOTE: do NOT hideKeyboard here. Maestro's iOS hideKeyboard dismisses the
+# keyboard with a tap that lands on the results list and opens the first
+# result on its own, which then makes the real tapOn fail as "not found".
+- tapOn: "(?s)1, Kadavul Vaazhththu, ஒன்றவன்.*"
+- extendedWaitUntil:
+    visible: "#1"
+    timeout: 20000
+- assertVisible: "Tamil  ·  தமிழ்"
+
+# Returning to Search must still show the query and its results.
+- tapOn: "Search, tab.*"
+- extendedWaitUntil:
+    visible: ".*verses found"
+    timeout: 20000
+- assertNotVisible: "Search Thirumanthiram"
+
+# A second, different query from a warm screen.
+- tapOn: "Search English or Tamil..."
+- eraseText
+- inputText: "silence"
+- extendedWaitUntil:
+    visible: ".*verses found"
+    timeout: 20000
+- assertNotVisible: ".*No results for.*"
