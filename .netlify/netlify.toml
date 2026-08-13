@@ -1,5 +1,4 @@
 plugins = []
-headers = []
 redirects = []
 
 [functions]
@@ -7,11 +6,29 @@ redirects = []
 [functions."*"]
 
 [build]
-publish = "/Users/praveenpuviindran/Documents/Coding Project Files/thirumanthiram/dist"
+publish = "dist"
 publishOrigin = "ui"
 commandOrigin = "ui"
-base = "/Users/praveenpuviindran/Documents/Coding Project Files/thirumanthiram"
 command = "expo export -p web"
+
+# Security headers for the static Expo web export.
+#
+# Content-Security-Policy is intentionally NOT set here: `expo export -p web`
+# emits an inline `<style id="expo-reset">`/`<style id="react-native-stylesheet">`
+# block (React Native Web's CSS-in-JS output) and an inline
+# `<script type="module">globalThis.__EXPO_ROUTER_HYDRATE__=true;</script>` in
+# dist/index.html, with no nonce or hash generated for either. A strict CSP
+# (script-src/style-src 'self') would block both and break the app on load;
+# the only way to permit them is 'unsafe-inline', which removes most of the
+# XSS protection a CSP is meant to provide. Ship the headers below instead,
+# and revisit CSP only if the web export changes to use nonces/hashes.
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "geolocation=(), microphone=(), camera=(), payment=(), usb=()"
 
 [build.environment]
 

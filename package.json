@@ -50,6 +50,6 @@
   "private": true,
   "overrides": {
     "@urql/core": "5.1.2",
-    "undici": "6.18.2"
+    "undici": "6.28.0"
   }
 }

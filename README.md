@@ -1,6 +1,6 @@
 # Thirumanthiram
 
-A complete digital edition of the **Thirumanthiram** — 3,047 sacred Tamil verses composed by the Siddhar-yogi Thirumoolar (c. 5th–8th century CE) — with Tamil text, Roman transliteration, English translation, Tamil commentary, a built-in Tamil dictionary, and text-to-speech.
+A complete digital edition of the **Thirumanthiram** — 3,048 sacred Tamil verses composed by the Siddhar-yogi Thirumoolar (c. 5th–8th century CE) — with Tamil text, Roman transliteration, English translation, Tamil commentary, a built-in Tamil dictionary, and text-to-speech.
 
 Built once with **Expo SDK 54 + React Native + expo-router**, shipped to **iOS (App Store)**, **Android (Google Play)**, and **web** from the same codebase.
 
@@ -57,7 +57,7 @@ app/                          expo-router file-based routes — the file path IS
                                 as *hidden* tabs (href: null) so they render without a tab icon
                                 but still keep the tab bar visible. See "Known quirks" below.
     index.tsx                  Home screen (verse of the day, quick stats, tantra list)
-    tantras.tsx                List of all 9 tantras
+    tantras.tsx                List of Kadavul Vaazhththu and all 9 tantras
     tantra/[id].tsx             One tantra's verse list
     verse/[id].tsx               Verse detail — Tamil/English/Notes/Feedback tabs, swipe-to-navigate
                                   between adjacent verses, favorite toggle, audio playback

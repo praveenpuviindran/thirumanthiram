@@ -26,7 +26,7 @@ export default function TantrasScreen() {
             <Text style={[styles.headerTamil, { color: theme.saffron }]}>திருமந்திரம்</Text>
             <Text style={[styles.headerTitle, { color: theme.text }]}>Paayiram & Nine Tantras</Text>
             <Text style={[styles.headerSub, { color: theme.textSub }]}>
-              3,047 verses — Kadavul Vaazhththu and 9 Tantras
+              3,048 verses — Kadavul Vaazhththu and 9 Tantras
             </Text>
           </View>
         }

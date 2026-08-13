@@ -17,9 +17,11 @@ export function VerseCard({ verse, onPress, isFavorite, showTantraLabel }: Props
   const color = tantra?.color ?? Colors.saffron;
 
   // Show all Tamil lines
-  const tamilPreview = verse.tamil;
+  const tamilPreview = verse.tamil ?? '';
   // Show first sentence of English
-  const englishPreview = verse.english ? verse.english.split('.')[0] + '.' : '';
+  const englishPreview = verse.english
+    ? verse.english.split(/(?<=[.!?])\s/)[0]
+    : '';
 
   return (
     <TouchableOpacity

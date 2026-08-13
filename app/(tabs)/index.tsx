@@ -19,7 +19,7 @@ export default function HomeScreen() {
 
   const stats = [
     { label: 'Tantras', value: '9', sub: 'Books' },
-    { label: 'Verses', value: '3,047', sub: 'Hymns' },
+    { label: 'Verses', value: '3,048', sub: 'Hymns' },
     { label: 'Years Old', value: '~7,000', sub: 'Ancient' },
   ];
 
@@ -61,7 +61,7 @@ export default function HomeScreen() {
             </View>
 
             <Text style={styles.heroSub}>
-              The Sacred 3,047 Verses of Thirumoolar
+              The Sacred 3,048 Verses of Thirumoolar
             </Text>
             <Text style={styles.heroAuthor}>Shaiva · Yogic · Agamic · Tamil</Text>
           </View>
@@ -102,7 +102,7 @@ export default function HomeScreen() {
         <DailyVerse onPress={(id) => router.navigate(`/(tabs)/verse/${id}` as any)} />
 
         {/* ── Browse Tantras ───────────────────────────────── */}
-        <SectionHeader title="Browse Tantras" subtitle="தந்திரங்கள்" />
+        <SectionHeader title="Browse Chapters" subtitle="தந்திரங்கள்" />
         <ScrollView
           horizontal
           showsHorizontalScrollIndicator={false}
@@ -177,7 +177,7 @@ export default function HomeScreen() {
         >
           <Text style={[styles.aboutQuote, { color: Colors.saffron + '44' }]}>"</Text>
           <Text style={[styles.aboutText, { color: theme.textSub }]}>
-            Thirumanthiram (திருமந்திரம்) is an ancient Tamil scripture of 3,047 verses
+            Thirumanthiram (திருமந்திரம்) is an ancient Tamil scripture of 3,048 verses
             by the Siddhar-Yogi Thirumoolar, one of the 18 Siddhars. It forms the{' '}
             <Text style={{ color: Colors.saffron, fontWeight: '600' }}>tenth Tirumurai</Text>
             {' '}— the sacred Shaiva canon.
