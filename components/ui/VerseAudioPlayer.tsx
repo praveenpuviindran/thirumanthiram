@@ -41,10 +41,26 @@ export function VerseAudioPlayer({ tamilText, audioUrl }: Props) {
   const soundRef = useRef<Audio.Sound | null>(null);
   const ttsActiveRef = useRef(false);
   const ttsTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  /**
+   * Invalidation token for in-flight `Audio.Sound.createAsync` calls.
+   *
+   * Stop used to be a no-op while a sound was still loading: `setState('playing')`
+   * runs synchronously (so the button already reads "Stop"), but `soundRef.current`
+   * is not assigned until `createAsync` resolves. Tapping stop in that window found
+   * `soundRef.current === null`, stopped nothing, and then the load completed with
+   * `shouldPlay: true` — audio playing with the UI showing "Play" and no handle to
+   * stop it. `audioUrl` is remote for every verse that has one, so that window is
+   * seconds long, not milliseconds.
+   *
+   * Every play bumps the token and captures it; every stop bumps it again. A load
+   * that resolves against a stale token is discarded instead of played.
+   */
+  const loadTokenRef = useRef(0);
 
   // Cleanup on unmount
   useEffect(() => {
     return () => {
+      loadTokenRef.current += 1;
       Speech.stop().catch(() => {});
       if (ttsTimeoutRef.current) clearTimeout(ttsTimeoutRef.current);
       soundRef.current?.stopAsync().catch(() => {});
@@ -53,6 +69,9 @@ export function VerseAudioPlayer({ tamilText, audioUrl }: Props) {
   }, []);
 
   const stop = useCallback(async () => {
+    // Bump first, so a load already in flight is invalidated even though the
+    // awaits below give it more time to resolve.
+    loadTokenRef.current += 1;
     await Speech.stop().catch(() => {});
     ttsActiveRef.current = false;
     if (ttsTimeoutRef.current) {
@@ -85,22 +104,34 @@ export function VerseAudioPlayer({ tamilText, audioUrl }: Props) {
 
     if (audioUrl) {
       // Real recording path
+      const token = ++loadTokenRef.current;
       try {
         await Audio.setAudioModeAsync({ playsInSilentModeIOS: true });
         const { sound } = await Audio.Sound.createAsync(
           typeof audioUrl === 'string' ? { uri: audioUrl } : (audioUrl as any),
           { shouldPlay: true },
         );
+        // Stopped (or unmounted, or restarted) while this was loading — throw the
+        // sound away rather than letting it play unreachably. Without this the
+        // stop button does nothing for the whole duration of a network load.
+        if (loadTokenRef.current !== token) {
+          await sound.stopAsync().catch(() => {});
+          await sound.unloadAsync().catch(() => {});
+          return;
+        }
         soundRef.current = sound;
         sound.setOnPlaybackStatusUpdate((status) => {
           if (!status.isLoaded) return;
           if (status.didJustFinish) {
-            soundRef.current = null;
+            // Unload the finished sound; previously it was only dropped from the
+            // ref, leaking the underlying player until the screen unmounted.
+            if (soundRef.current === sound) soundRef.current = null;
+            sound.unloadAsync().catch(() => {});
             setState('idle');
           }
         });
       } catch {
-        setState('idle');
+        if (loadTokenRef.current === token) setState('idle');
       }
     } else {
       // TTS fallback — do NOT call setAudioModeAsync here; expo-av's session grab
