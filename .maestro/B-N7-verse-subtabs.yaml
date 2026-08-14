@@ -1,0 +1,44 @@
+appId: com.praveenpuviindran.thirumanthiram
+name: B N7 verse subtabs
+---
+- runFlow: _launch.yaml
+- openLink: thirumanthiram:///verse/700
+- tapOn:
+    text: "Open"
+    optional: true
+- extendedWaitUntil:
+    visible: "#699"
+    timeout: 30000
+
+# தமிழ் is the default tab.
+- assertVisible: "Tamil  ·  தமிழ்"
+
+- tapOn: "English"
+- extendedWaitUntil:
+    visible: "Transliteration"
+    timeout: 15000
+- assertVisible: "Roman script"
+- assertVisible: "Translation"
+- assertNotVisible: "Tamil  ·  தமிழ்"
+
+- tapOn: "Notes"
+- extendedWaitUntil:
+    visible: "My Notes"
+    timeout: 15000
+- assertVisible: "Verse #699"
+- assertNotVisible: "Transliteration"
+
+- tapOn: "Feedback"
+- extendedWaitUntil:
+    visible: "Your name (optional)"
+    timeout: 15000
+- assertVisible: "Comment or correction"
+- assertVisible: "Verse #699"
+- assertNotVisible: "My Notes"
+
+# Back to தமிழ்.
+- tapOn: "தமிழ்"
+- extendedWaitUntil:
+    visible: "Tamil  ·  தமிழ்"
+    timeout: 15000
+- assertNotVisible: "Comment or correction"

@@ -1,0 +1,39 @@
+# LANE D FINDING — READ BEFORE RUNNING ANY FLOW WHILE ANOTHER LANE IS ACTIVE.
+#
+# Maestro 2.0.10's `--device <udid>` is NOT honoured for the XCTest channel.
+#
+# Observed on this machine with three simulators booted (P3 / LaneB / LaneD):
+#   * simctl-backed operations (screenshot artifacts, app terminate) DO go to
+#     the UDID passed to --device.
+#   * The view hierarchy and every `tapOn` go to whichever
+#     `maestro-driver-iosUITests-Runner` is already resident on the host,
+#     regardless of --device. Only ONE runner exists at a time
+#     (`ps aux | grep xcodebuild test-without-building` shows a single
+#     `-destination id=...`).
+#
+# PROOF (repeatable):
+#   1. Pin ONLY your device's clock:  xcrun simctl status_bar <yours> override --time 9:41
+#   2. Put your device on a unique screen (e.g. openurl thirumanthiram:///verse/1240)
+#   3. UDID=<yours> .maestro/dump.sh
+#   Result observed: the dump showed the OTHER simulator's SpringBoard, with
+#   status-bar text '10:16 AM' — i.e. not the pinned clock, not the app.
+#
+# CONSEQUENCE: a `tapOn` issued from one lane lands on another lane's device.
+# Lane D issued 1x `tapOn "☆"` and a few tab/point taps at ~09:52-09:57 before
+# detecting this; Lane A / Lane B runs in that window may be contaminated.
+#
+# WORKAROUND USED BY LANE D (no maestro at all):
+#   * navigation  -> xcrun simctl openurl <udid> "thirumanthiram:///verse/800"
+#                    (NOTE: exactly three slashes. Four -> Page Not Found.)
+#   * app restart -> xcrun simctl terminate / launch   (maestro `launchApp`
+#                    additionally killed the app outright on this device)
+#   * settings    -> write @thirumanthiram_settings straight into
+#                    <container>/Library/Application Support/<bundle>/
+#                    RCTAsyncLocalStorage_V1/manifest.json, then relaunch.
+#                    See .context/d-setfont.py
+#
+# GUARD if you must use maestro: dump the hierarchy first and assert your own
+# pinned status-bar clock is present before issuing any tap.
+appId: com.praveenpuviindran.thirumanthiram
+---
+- assertVisible: "9:41"

@@ -1,0 +1,4 @@
+appId: com.praveenpuviindran.thirumanthiram
+name: Hierarchy dump probe (intentionally fails to emit hierarchyRoot)
+---
+- assertVisible: "ZZZ_NONEXISTENT_SENTINEL_ZZZ"

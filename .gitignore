@@ -31,7 +31,13 @@ yarn-error.*
 *.pem
 
 # local env files
+.env
 .env*.local
+
+# credentials — eas.json references ./google-service-account.json for Play submit.
+# This repo is public; the key must never be committed.
+google-service-account.json
+*-service-account.json
 
 # typescript
 *.tsbuildinfo

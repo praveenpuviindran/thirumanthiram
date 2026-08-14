@@ -34,7 +34,7 @@ export default function TantraScreen() {
 
   return (
     <SafeAreaView style={[styles.safe, { backgroundColor: theme.bg }]}>
-      <StatusBar barStyle="light-content" />
+      <StatusBar barStyle={theme.dark ? 'light-content' : 'dark-content'} />
       <TantraNav activeTantraId={tantraId} />
 
       <FlatList

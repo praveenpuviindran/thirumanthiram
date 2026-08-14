@@ -1,8 +1,8 @@
-import React, { useMemo } from 'react';
-import { View, Text, StyleSheet, TouchableOpacity } from 'react-native';
+import React, { useEffect, useMemo, useState } from 'react';
+import { View, Text, StyleSheet, TouchableOpacity, AppState } from 'react-native';
 import { LinearGradient } from 'expo-linear-gradient';
 import { useTheme } from '../../constants/Theme';
-import { VERSES, TANTRAS } from '../../data/thirumanthiram';
+import { VERSES, TANTRAS, Verse } from '../../data/thirumanthiram';
 import { Spacing, Radius, FontSize, Colors } from '../../constants/Colors';
 import { TamilVerseLines } from './TamilVerseLines';
 
@@ -10,14 +10,41 @@ interface Props {
   onPress: (verseId: number) => void;
 }
 
+// The Verse of the Day is only drawn from verses that carry a Tamil
+// elaboration, so the card always has commentary behind it. This replaces a
+// hardcoded `verseNumber <= 1842` cutoff, and means the pool grows on its own
+// as commentary is authored for the remaining verses.
+function hasTamilCommentary(v: Verse): boolean {
+  return (v.elaborationTamil ?? '').trim().length > 0;
+}
+
+// Epoch day index derived from the LOCAL calendar date. `Date.now() / 86400000`
+// buckets by UTC day, so e.g. India (UTC+5:30) would see the verse roll over at
+// 5:30am local instead of at local midnight. Building the key from local
+// year/month/day sidesteps offset and DST arithmetic entirely.
+function localEpochDay(): number {
+  const now = new Date();
+  return Math.floor(Date.UTC(now.getFullYear(), now.getMonth(), now.getDate()) / 86400000);
+}
+
 export function DailyVerse({ onPress }: Props) {
   const theme = useTheme();
 
-  const verse = useMemo(() => {
-    const pool = VERSES.filter((v) => v.verseNumber <= 1842);
-    const day = Math.floor(Date.now() / 86400000);
-    return pool[day % pool.length];
+  // The Home tab never unmounts, so a `useMemo([])` would freeze the verse for
+  // the whole session. Recompute the day key whenever the app is foregrounded;
+  // React bails out of the re-render when the key is unchanged.
+  const [dayKey, setDayKey] = useState(localEpochDay);
+  useEffect(() => {
+    const sub = AppState.addEventListener('change', (status) => {
+      if (status === 'active') setDayKey(localEpochDay());
+    });
+    return () => sub.remove();
   }, []);
+
+  const verse = useMemo(() => {
+    const pool = VERSES.filter(hasTamilCommentary);
+    return pool[dayKey % pool.length];
+  }, [dayKey]);
 
   const tantra = TANTRAS.find((t) => t.id === verse.tantraId);
   const color = tantra?.color ?? Colors.saffron;
@@ -41,7 +68,7 @@ export function DailyVerse({ onPress }: Props) {
       >
         {/* Background decorative verse number */}
         <Text style={[styles.bgNum, { color }]} allowFontScaling={false}>
-          {verse.verseNumber}
+          {verse.verseNumber === 0 ? 'Kaapu' : verse.verseNumber}
         </Text>
 
         {/* Top row */}
@@ -50,7 +77,9 @@ export function DailyVerse({ onPress }: Props) {
             <Text style={[styles.pillText, { color }]}>✦  Verse of the Day</Text>
           </View>
           <View style={[styles.numTag, { backgroundColor: theme.bg, borderColor: theme.border }]}>
-            <Text style={[styles.numTagText, { color: theme.textMuted }]}>#{verse.verseNumber}</Text>
+            <Text style={[styles.numTagText, { color: theme.textMuted }]}>
+              {verse.verseNumber === 0 ? 'Kaapu' : `#${verse.verseNumber}`}
+            </Text>
           </View>
         </View>
 

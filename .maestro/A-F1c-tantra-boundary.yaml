@@ -1,0 +1,32 @@
+appId: com.praveenpuviindran.thirumanthiram
+name: A F1c tantra boundary
+# id 884 -> "#883" last of Tantra 3; id 885 -> "#884" first of Tantra 4.
+# Highest-signal C1 case: header colour, tantra Tamil name and number all
+# change in the same commit as the swipe reset.
+---
+- runFlow: _launch.yaml
+
+- openLink: thirumanthiram:///verse/884
+- extendedWaitUntil:
+    visible: "#883"
+    timeout: 30000
+- assertVisible: ".*மூன்றாம் தந்திரம்.*Tantra 3.*"
+- takeScreenshot: /tmp/A-F1c-01-before
+
+- swipe:
+    direction: LEFT
+- extendedWaitUntil:
+    visible: "#884"
+    timeout: 10000
+- assertVisible: ".*நான்காம் தந்திரம்.*Tantra 4.*"
+- assertNotVisible: ".*மூன்றாம் தந்திரம்.*"
+- assertVisible: "Tamil  ·  தமிழ்"
+- takeScreenshot: /tmp/A-F1c-02-after
+
+- swipe:
+    direction: RIGHT
+- extendedWaitUntil:
+    visible: "#883"
+    timeout: 10000
+- assertVisible: ".*மூன்றாம் தந்திரம்.*Tantra 3.*"
+- takeScreenshot: /tmp/A-F1c-03-back

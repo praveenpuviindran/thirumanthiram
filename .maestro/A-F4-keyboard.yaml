@@ -1,0 +1,23 @@
+appId: com.praveenpuviindran.thirumanthiram
+name: A F4 single tap search result
+# H4 — keyboardShouldPersistTaps. The soft keyboard must still be UP when the
+# result row is tapped, otherwise the test proves nothing: assert a keyboard
+# key is on screen first.
+---
+- runFlow: _launch.yaml
+- tapOn: "Search, tab.*"
+- tapOn: "Search English or Tamil..."
+- inputText: "grace"
+- extendedWaitUntil:
+    visible: "351 verses found"
+    timeout: 15000
+# precondition for H4: keyboard is up
+- assertVisible: "space"
+- takeScreenshot: /tmp/A-F4-00-keyboard-up
+# SINGLE tap — needing a second tap is the failure
+- tapOn: "(?s)1, Kadavul Vaazhththu, ஒன்றவன்.*"
+- extendedWaitUntil:
+    visible: "#1"
+    timeout: 15000
+- assertVisible: "Tamil  ·  தமிழ்"
+- takeScreenshot: /tmp/A-F4-01-verse-after-one-tap

@@ -1,0 +1,32 @@
+appId: com.praveenpuviindran.thirumanthiram
+name: A F8 settings shows the correct version string
+# F8 — Settings renders `Version ${Constants.expoConfig?.version ?? '—'}`
+# (app/(tabs)/settings.tsx). app.json's top-level "version" is currently
+# "1.1.3", so the rendered string must be exactly "Version 1.1.3" — not the
+# "—" fallback (which would mean expoConfig failed to resolve). This literal
+# is already used as a load landmark in A-F3-toggles.yaml, so it is proven
+# to render on this build; this flow additionally checks the app-name row
+# and the absence of the fallback dash.
+#
+# MAINTENANCE NOTE: like A-F3, this hardcodes "1.1.3" against the current
+# app.json. It will need updating on every version bump — Maestro flows run
+# on-device and cannot read app.json at run time.
+#
+# SELECTOR PROVENANCE
+#   VALIDATED (A-F3-toggles.yaml): "Settings, tab.*", "Version 1.1.3".
+#   UNVERIFIED (derived from source, not run):
+#     - "Thirumanthiram App" (the About row's app-name label). This is a
+#       different full string than the root window's "Thirumanthiram" (see
+#       01-selector-reference.yaml's warning against asserting that exact
+#       string), so it should not false-positive against the root node, but
+#       has not itself been run.
+#     - assertNotVisible: "Version —" as a negative check for the fallback.
+---
+- runFlow: _launch.yaml
+- tapOn: "Settings, tab.*"
+- extendedWaitUntil:
+    visible: "Version 1.1.3"
+    timeout: 15000
+- assertVisible: "Thirumanthiram App"
+- assertNotVisible: "Version —"
+- takeScreenshot: /tmp/A-F8-00-version

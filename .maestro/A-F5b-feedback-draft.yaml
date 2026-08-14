@@ -1,0 +1,80 @@
+appId: com.praveenpuviindran.thirumanthiram
+name: A F5b feedback draft does not leak across verses
+# F5b — feedbackMsg is explicitly cleared on verseId change (see
+# app/(tabs)/verse/[id].tsx: `useEffect(() => { ...; setFeedbackMsg('');
+# }, [verseId, swipeX])`, with the comment "a draft written about verse 41
+# must not be sent under verse 42's subject line. `feedbackName` is
+# deliberately NOT cleared"). This flow types a draft, navigates away, and
+# asserts the draft is gone — WITHOUT ever tapping "Send Feedback ›" (a
+# mailto: handler) and without touching the name field.
+#
+# `activeTab` is deliberately NOT reset on verseId change (own comment,
+# same file), so the Feedback tab stays selected across navigation. That
+# means after the FIRST tap, a second "Feedback" text: selector would be
+# ambiguous — the tab-bar item AND the tab's own sectionLabel ("Feedback",
+# rendered only while that tab is active) would both match as separate
+# accessibility nodes (this View is not a Touchable, so its Text children do
+# NOT merge the way a VerseCard's do). Every tap below uses `index: 0` to
+# pin the tab-bar item, by direct analogy to A-F3's proven "English" tab
+# workaround (same shape: a tab label that collides with a sectionLabel of
+# the same text once that tab's content is showing).
+#
+# SELECTOR PROVENANCE
+#   VALIDATED: _launch.yaml, A-_open.yaml, the {text, index} tap idiom
+#     (A-F3), "#N, Next ›" scrollUntilVisible target (B-N8).
+#   UNVERIFIED (derived from source, not run):
+#     - "Found an error or have a suggestion? Send it to us." (feedbackHint)
+#     - "Describe the issue or suggestion..." (feedbackMsg placeholder)
+#     - {text: "Feedback", index: 0} resolving to the tab-bar item — assumed
+#       by analogy to A-F3's "English" case, not independently confirmed for
+#       this specific tab.
+---
+- runFlow: _launch.yaml
+- runFlow:
+    file: A-_open.yaml
+    env:
+      URL: thirumanthiram:///verse/700
+      LANDMARK: "#699"
+
+- tapOn:
+    text: "Feedback"
+    index: 0
+- extendedWaitUntil:
+    visible: "Found an error or have a suggestion? Send it to us."
+    timeout: 10000
+- tapOn: "Describe the issue or suggestion..."
+- inputText: "DRAFT 699 must not leak to verse 700"
+- assertVisible: "(?s).*DRAFT 699 must not leak to verse 700.*"
+- takeScreenshot: /tmp/A-F5b-00-drafted-on-699
+
+# Navigate away by deep link. Do NOT tap Send Feedback or fill the name field.
+- runFlow:
+    file: A-_open.yaml
+    env:
+      URL: thirumanthiram:///verse/701
+      LANDMARK: "#700"
+- extendedWaitUntil:
+    visible: "Found an error or have a suggestion? Send it to us."
+    timeout: 10000
+- assertVisible: "Describe the issue or suggestion..."     # placeholder showing = empty
+- assertNotVisible: "(?s).*DRAFT 699 must not leak to verse 700.*"
+- takeScreenshot: /tmp/A-F5b-01-cleared-on-700
+
+# Repeat via the Prev/Next buttons — the more common navigation path — not
+# just a deep link, since the bug this guards against is scoped to the
+# verseId-change effect regardless of HOW verseId changes.
+- tapOn: "Describe the issue or suggestion..."
+- inputText: "DRAFT 700 must not leak forward"
+- assertVisible: "(?s).*DRAFT 700 must not leak forward.*"
+- scrollUntilVisible:
+    element: "#701, Next ›"
+    direction: DOWN
+    timeout: 25000
+- tapOn: "#701, Next ›"
+- extendedWaitUntil:
+    visible: "#701"
+    timeout: 20000
+- assertVisible: "Found an error or have a suggestion? Send it to us."
+- assertVisible: "Describe the issue or suggestion..."
+- assertNotVisible: "(?s).*DRAFT 700 must not leak forward.*"
+- takeScreenshot: /tmp/A-F5b-02-cleared-via-next-button

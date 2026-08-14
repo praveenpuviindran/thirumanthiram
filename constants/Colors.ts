@@ -20,9 +20,26 @@ export const Colors = {
   // Text
   textPrimary:  '#F5ECD8',
   textSecondary:'#B09878',
-  textMuted:    '#705840',
+  // H11 — dark-mode muted text. Measured WCAG 2.1 contrast (sRGB relative
+  // luminance) against the surfaces this token actually renders on:
+  //   was #705840 → bgCard #241610 = 2.64:1  (FAILS AA; needs 4.5:1)
+  //   now #9C8065 → bgCard #241610 = 4.75:1  (passes AA)
+  //                 bgMid  #1A0E08 = 5.12:1
+  //                 bgDark #0D0603 = 5.45:1
+  // Trade-off: this raises luminance app-wide and narrows the gap to
+  // textSecondary (#B09878, 6.35:1 on bgCard). Needs visual sign-off.
+  textMuted:    '#9C8065',
   textOnLight:  '#1A0E08',
   textSubOnLight:'#5A3E28',
+  // H11 (cont'd) — light-mode muted text. This token is consumed at two call
+  // sites with two different surfaces behind it, so both were checked:
+  //   was #8A6A50 → bgCardLight  #F5F0EB (Theme.ts textMuted)       = 4.36:1 (FAILS AA)
+  //                → tabbar bg   #EDE4D8 (_layout.tsx inactive tab) = 3.92:1 (FAILS AA)
+  //   now #7C6048 → bgCardLight  #F5F0EB                            = 5.12:1 (passes AA)
+  //                → tabbar bg   #EDE4D8                            = 4.61:1 (passes AA)
+  // One darkened value (same hue, lower lightness) clears 4.5:1 on both
+  // surfaces — the tab bar background is the tighter constraint.
+  textMutedOnLight: '#7C6048',
 
   // Accents
   gold:        '#C8A035',

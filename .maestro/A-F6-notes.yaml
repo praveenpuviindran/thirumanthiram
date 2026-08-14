@@ -1,0 +1,130 @@
+appId: com.praveenpuviindran.thirumanthiram
+name: A F6 notes persist and stay bound to their verse id
+# F6 — covers bug H2 (note text from verse X appearing on verse Y). Notes
+# are keyed `verse_note_<id>` in AsyncStorage and the loaded value is bound
+# value->id (see the `note` state shape `{ id: number; text: string }` and
+# its comment in app/(tabs)/verse/[id].tsx: "the loaded note carries the id
+# it belongs to ... value→id closes both" [out-of-order-load and stale-write
+# cases]). This flow: writes a note on #699, navigates away (which flushes
+# it synchronously via the effect cleanup's flushNoteWrite() — no manual
+# wait needed for the 400ms debounce, since "React runs this cleanup BEFORE
+# the next effect's getItem is issued"), confirms it does NOT appear on
+# #700, writes a DIFFERENT note on #700, then round-trips both verses to
+# prove each keeps its own note. Cleans up by erasing both fixture notes at
+# the end.
+#
+# SELECTOR PROVENANCE
+#   VALIDATED: _launch.yaml, A-_open.yaml. "Notes" as a plain tap target is
+#     safe (unlike Feedback/English): the tab's own sectionLabel reads
+#     "My Notes", not "Notes", so there is no second full-string match once
+#     the tab is active — confirmed by reading the JSX, not by ambiguity
+#     testing on device.
+#   UNVERIFIED (derived from source, not run):
+#     - "Write your personal notes here..." / "Loading your note…"
+#       placeholders, and the timing assumption that AsyncStorage.getItem
+#       resolves within the wait timeout.
+#     - tapping the TextInput by matching its own current (non-placeholder)
+#       content text, e.g. "(?s).*NOTE-699.*", to refocus it for cleanup —
+#       the reference catalogue only demonstrates placeholder matching, not
+#       matching a TextInput by its typed value.
+---
+- runFlow: _launch.yaml
+- runFlow:
+    file: A-_open.yaml
+    env:
+      URL: thirumanthiram:///verse/700
+      LANDMARK: "#699"
+
+- tapOn: "Notes"
+- extendedWaitUntil:
+    visible: "Write your personal notes here..."
+    timeout: 10000
+- tapOn: "Write your personal notes here..."
+- inputText: "NOTE-699 bound to this verse only"
+- assertVisible: "(?s).*NOTE-699 bound to this verse only.*"
+- takeScreenshot: /tmp/A-F6-00-note-on-699
+
+# Navigate away — the effect cleanup flushes the pending write synchronously
+# before the next verse's note is loaded, so no manual wait is needed here.
+- runFlow:
+    file: A-_open.yaml
+    env:
+      URL: thirumanthiram:///verse/701
+      LANDMARK: "#700"
+- tapOn: "Notes"
+- extendedWaitUntil:
+    visible: "Write your personal notes here..."
+    timeout: 10000
+- assertNotVisible: "(?s).*NOTE-699 bound to this verse only.*"   # H2 guard
+- takeScreenshot: /tmp/A-F6-01-verse700-clean
+
+# Write a DIFFERENT note on #700, to prove the binding is two-way, not just
+# "699's note doesn't leak forward".
+- tapOn: "Write your personal notes here..."
+- inputText: "NOTE-700 different content"
+- assertVisible: "(?s).*NOTE-700 different content.*"
+- takeScreenshot: /tmp/A-F6-02-note-on-700
+
+# Round-trip back to #699 — its own note must have persisted, and #700's
+# note must not have bled backward either.
+- runFlow:
+    file: A-_open.yaml
+    env:
+      URL: thirumanthiram:///verse/700
+      LANDMARK: "#699"
+- tapOn: "Notes"
+- extendedWaitUntil:
+    visible: "(?s).*NOTE-699 bound to this verse only.*"
+    timeout: 10000
+- assertNotVisible: "(?s).*NOTE-700 different content.*"
+- takeScreenshot: /tmp/A-F6-03-back-on-699-note-persisted
+
+# Round-trip forward again to #700 — same check in the other direction.
+- runFlow:
+    file: A-_open.yaml
+    env:
+      URL: thirumanthiram:///verse/701
+      LANDMARK: "#700"
+- tapOn: "Notes"
+- extendedWaitUntil:
+    visible: "(?s).*NOTE-700 different content.*"
+    timeout: 10000
+- assertNotVisible: "(?s).*NOTE-699 bound to this verse only.*"
+- takeScreenshot: /tmp/A-F6-04-back-on-700-note-persisted
+
+# ── Cleanup: erase both fixture notes so the next run starts clean ───────
+- tapOn: "(?s).*NOTE-700 different content.*"
+- eraseText
+- runFlow:
+    file: A-_open.yaml
+    env:
+      URL: thirumanthiram:///verse/700
+      LANDMARK: "#699"
+- tapOn: "Notes"
+- extendedWaitUntil:
+    visible: "(?s).*NOTE-699 bound to this verse only.*"
+    timeout: 10000
+- tapOn: "(?s).*NOTE-699 bound to this verse only.*"
+- eraseText
+
+# Confirm both fixtures ended up empty.
+- runFlow:
+    file: A-_open.yaml
+    env:
+      URL: thirumanthiram:///verse/701
+      LANDMARK: "#700"
+- tapOn: "Notes"
+- extendedWaitUntil:
+    visible: "Write your personal notes here..."
+    timeout: 10000
+- assertVisible: "Write your personal notes here..."
+- runFlow:
+    file: A-_open.yaml
+    env:
+      URL: thirumanthiram:///verse/700
+      LANDMARK: "#699"
+- tapOn: "Notes"
+- extendedWaitUntil:
+    visible: "Write your personal notes here..."
+    timeout: 10000
+- assertVisible: "Write your personal notes here..."

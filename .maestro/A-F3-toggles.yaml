@@ -1,0 +1,140 @@
+appId: com.praveenpuviindran.thirumanthiram
+name: A F3 reading toggles
+# C3 — the three dead Settings switches. autoPlayAudio was removed (D1); the
+# two survivors must actually gate content on the verse screen.
+# Switch nodes are labelled "1" (on) / "0" (off); index top-to-bottom:
+#   0 = Show Transliteration, 1 = Show English Translation.
+# Verse-screen landmarks (the tab bar also has a node reading exactly
+# "English", so the section headers are useless — use the sub-labels):
+#   transliteration block -> "Roman script"
+#   english block         -> "Translation"
+---
+- runFlow: _launch.yaml
+
+# ── Baseline: both on, both blocks render ────────────────────────────────────
+- tapOn: "Settings, tab.*"
+- extendedWaitUntil:
+    visible: "Version 1.1.3"
+    timeout: 15000
+- copyTextFrom:
+    text: "[01]"
+    index: 0
+- evalScript: ${output.t = maestro.copiedText}
+- copyTextFrom:
+    text: "[01]"
+    index: 1
+- evalScript: ${output.e = maestro.copiedText}
+- assertTrue: ${output.t == "1"}
+- assertTrue: ${output.e == "1"}
+
+- runFlow:
+    file: A-_open.yaml
+    env:
+      URL: thirumanthiram:///verse/700
+      LANDMARK: "#699"
+- tapOn:
+    text: "English"
+    index: 0
+- extendedWaitUntil:
+    visible: "Roman script"
+    timeout: 10000
+- assertVisible: "Translation"
+- takeScreenshot: /tmp/A-F3-00-both-on
+
+# ── showEnglish OFF ──────────────────────────────────────────────────────────
+- tapOn: "Settings, tab.*"
+- extendedWaitUntil:
+    visible: "Version 1.1.3"
+    timeout: 15000
+- tapOn:
+    text: "[01]"
+    index: 1
+- runFlow:
+    file: A-_open.yaml
+    env:
+      URL: thirumanthiram:///verse/700
+      LANDMARK: "#699"
+- tapOn:
+    text: "English"
+    index: 0
+- extendedWaitUntil:
+    visible: "Roman script"
+    timeout: 10000
+- assertNotVisible: "Translation"
+- takeScreenshot: /tmp/A-F3-01-english-off
+
+# ── both OFF -> explicit empty state ─────────────────────────────────────────
+- tapOn: "Settings, tab.*"
+- extendedWaitUntil:
+    visible: "Version 1.1.3"
+    timeout: 15000
+- tapOn:
+    text: "[01]"
+    index: 0
+- runFlow:
+    file: A-_open.yaml
+    env:
+      URL: thirumanthiram:///verse/700
+      LANDMARK: "#699"
+- tapOn:
+    text: "English"
+    index: 0
+- extendedWaitUntil:
+    visible: "Transliteration and English translation are hidden. Turn them back on under Settings › Reading."
+    timeout: 10000
+- assertNotVisible: "Roman script"
+- assertNotVisible: "Translation"
+- takeScreenshot: /tmp/A-F3-02-both-off
+
+# ── showTransliteration only OFF ─────────────────────────────────────────────
+- tapOn: "Settings, tab.*"
+- extendedWaitUntil:
+    visible: "Version 1.1.3"
+    timeout: 15000
+- tapOn:
+    text: "[01]"
+    index: 1
+- runFlow:
+    file: A-_open.yaml
+    env:
+      URL: thirumanthiram:///verse/700
+      LANDMARK: "#699"
+- tapOn:
+    text: "English"
+    index: 0
+- extendedWaitUntil:
+    visible: "Translation"
+    timeout: 10000
+- assertNotVisible: "Roman script"
+- takeScreenshot: /tmp/A-F3-03-translit-off
+
+# ── restore both on ──────────────────────────────────────────────────────────
+- tapOn: "Settings, tab.*"
+- extendedWaitUntil:
+    visible: "Version 1.1.3"
+    timeout: 15000
+- tapOn:
+    text: "[01]"
+    index: 0
+- copyTextFrom:
+    text: "[01]"
+    index: 0
+- evalScript: ${output.t2 = maestro.copiedText}
+- copyTextFrom:
+    text: "[01]"
+    index: 1
+- evalScript: ${output.e2 = maestro.copiedText}
+- assertTrue: ${output.t2 == "1"}
+- assertTrue: ${output.e2 == "1"}
+- runFlow:
+    file: A-_open.yaml
+    env:
+      URL: thirumanthiram:///verse/700
+      LANDMARK: "#699"
+- tapOn:
+    text: "English"
+    index: 0
+- extendedWaitUntil:
+    visible: "Roman script"
+    timeout: 10000
+- assertVisible: "Translation"

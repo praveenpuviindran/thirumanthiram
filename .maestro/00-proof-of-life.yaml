@@ -1,0 +1,15 @@
+appId: com.praveenpuviindran.thirumanthiram
+name: 00 proof of life
+---
+# NOTE: this is a DEBUG dev build. Metro must be running (`npx expo start`)
+# or the app shows the "No script URL provided" redbox and every flow fails.
+#
+# DO NOT assert on "Thirumanthiram": the ROOT WINDOW node carries
+# accessibilityText="Thirumanthiram", so that assertion passes even on the
+# redbox / blank screen. It is a guaranteed false positive.
+- launchApp
+- extendedWaitUntil:
+    visible: "VERSE OF THE DAY"
+    timeout: 40000
+- assertVisible: "3,047"
+- assertVisible: "Home, tab, 1 of 8"

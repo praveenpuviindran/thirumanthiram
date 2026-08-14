@@ -1,0 +1,30 @@
+appId: com.praveenpuviindran.thirumanthiram
+name: B N2 home tantra chip
+---
+- runFlow: _launch.yaml
+
+# Horizontal chip row under "Browse Tantras". Chip label is merged:
+# "<number>, <tamilName>, <englishName>".
+- tapOn: "(?s)2, இரண்டாம் தந்திரம்.*"
+- extendedWaitUntil:
+    visible: "212 verses in this tantra"
+    timeout: 20000
+- assertVisible: "Verses 337–548"
+- assertVisible: "Tantra 2"
+
+# First verse of tantra 2 is #337.
+- tapOn: "(?s)337,.*"
+- extendedWaitUntil:
+    visible: "#337"
+    timeout: 20000
+- assertVisible: "Tamil  ·  தமிழ்"
+
+- tapOn: "‹ Back"
+- extendedWaitUntil:
+    visible: "212 verses in this tantra"
+    timeout: 20000
+
+- tapOn: "Home, tab.*"
+- extendedWaitUntil:
+    visible: "VERSE OF THE DAY"
+    timeout: 20000

@@ -19,7 +19,7 @@ const ENGLISH_BIO = {
   sections: [
     {
       title: 'Who Was Thirumoolar?',
-      body: `Thirumoolar (also: Tirumular, திருமூலர்) is the pre-eminent yogi-poet of the Tamil Shaiva tradition and the sole author of the Thirumanthiram — a text of 3,047 verses that forms the tenth book of the Tirumurai, the twelve-volume sacred Shaiva canon. He is counted among the Pathinen Siddhar (பதினெட்டுச் சித்தர்), the eighteen immortal Siddhar-Yogis of the Tamil tradition, each of whom attained spiritual perfection through intensive practice of yoga, tantra, and devotion.
+      body: `Thirumoolar (also: Tirumular, திருமூலர்) is the pre-eminent yogi-poet of the Tamil Shaiva tradition and the sole author of the Thirumanthiram — a text of 3,048 verses that forms the tenth book of the Tirumurai, the twelve-volume sacred Shaiva canon. He is counted among the Pathinen Siddhar (பதினெட்டுச் சித்தர்), the eighteen immortal Siddhar-Yogis of the Tamil tradition, each of whom attained spiritual perfection through intensive practice of yoga, tantra, and devotion.
 
 Traditional accounts preserved in the Periya Purānam of Sekkizhar (12th century CE) and the prefatory biography in the Tirumurai anthology place his active period somewhere between the 3rd and 7th centuries CE, though the tradition itself regards him as a being whose lifespan defies ordinary reckoning — the Thirumanthiram itself states he composed one verse per year over 3,000 years of continuous samādhi. Western scholars such as K. V. Zvelebil, drawing on comparative linguistic analysis of the text, propose a date no earlier than the 6th–7th century CE, while acknowledging the text may preserve materials of substantially greater antiquity.
 
@@ -35,7 +35,7 @@ The Thiruvavaduthurai Adheenam, one of the oldest functioning Shaiva monastic in
     },
     {
       title: 'The Composition of the Thirumanthiram',
-      body: `According to the traditional account recorded in the text's own preamble and confirmed in Sekkizhar's Periya Purānam, Thirumoolar entered a state of unbroken yogic absorption (nirvikalpa samādhi) at Thiruvavaduthurai. Once each year he would surface from this absorption, compose a single verse encoding what he had realised in that year, and return to stillness. The cumulative product of this extraordinary process — 3,047 verses composed across millennia — is the Thirumanthiram.
+      body: `According to the traditional account recorded in the text's own preamble and confirmed in Sekkizhar's Periya Purānam, Thirumoolar entered a state of unbroken yogic absorption (nirvikalpa samādhi) at Thiruvavaduthurai. Once each year he would surface from this absorption, compose a single verse encoding what he had realised in that year, and return to stillness. The cumulative product of this extraordinary process — 3,048 verses composed across millennia — is the Thirumanthiram.
 
 The text itself was originally hidden: after composition, Thirumoolar buried the palm-leaf manuscripts (ōlai cuvadis) beneath the fig tree, according to the prefatory biography in the kvnthirumoolar.com digital edition (T. Saravanan, 2020, Tantra 1). They were discovered centuries later by the great Shaiva poet-saint Thirugnana Sambandar (Jñānasambandhar), who alerted the scholarly community, enabling the text to enter the wider Shaiva canon. The 11th-century scholar Nambiyandar Nambi then incorporated the Thirumanthiram as the tenth Tirumurai in his compilation of the twelve sacred Shaiva hymns.
 
@@ -62,7 +62,7 @@ His most celebrated declaration — "அன்பே சிவம்" (Anbe Siva
         { label: 'Love is Shiva', sub: 'அன்பே சிவம் (v.81) — love and Shiva are identical, not related' },
         { label: 'The body is sacred', sub: 'உடம்பை வளர்த்தேன் (v.16) — cultivate the body to cultivate the soul' },
         { label: 'Grace alone liberates', sub: 'Āṇava can only be removed by Shiva, not by the soul\'s own effort' },
-        { label: 'One verse, one year', sub: 'Each of the 3,047 verses emerged from one year of samādhi' },
+        { label: 'One verse, one year', sub: 'Each of the 3,048 verses emerged from one year of samādhi' },
         { label: 'Yoga and devotion are one', sub: 'The eight limbs and loving surrender reach the same summit' },
         { label: 'Na-Ma-Si-Va-Ya is supreme', sub: 'The five syllables contain the entire cosmos (Tantra 5)' },
         { label: 'Universal gift', sub: '"யாம் பெற்ற இன்பம் பெறுக இவ்வையகம்" — may the whole world receive what I received' },

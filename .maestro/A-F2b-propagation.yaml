@@ -1,0 +1,97 @@
+appId: com.praveenpuviindran.thirumanthiram
+name: A F2b favourite propagation
+# C2 propagation to OTHER already-mounted screens.
+#   * Search  — checked with verse #699 (id 700), reached by a Tamil query.
+#   * Tantra list — checked with #113 (id 114), the FIRST row of Tantra 1.
+#     A tantra FlatList virtualises, so an unrendered row cannot be asserted;
+#     #699 sits ~150 rows into Tantra 3 and would need ~50 scroll gestures.
+#     #113 exercises exactly the same code path (VerseCard isFavorite prop fed
+#     by the shared store) at the top of the list.
+---
+- runFlow: _launch.yaml
+
+# Preamble: favourites persist across runs, so clear the two fixtures first.
+- openLink: thirumanthiram:///verse/700
+- extendedWaitUntil:
+    visible: "#699"
+    timeout: 30000
+- tapOn:
+    text: "★"
+    optional: true
+- assertVisible: "☆"
+- openLink: thirumanthiram:///verse/114
+- extendedWaitUntil:
+    visible: "#113"
+    timeout: 30000
+- tapOn:
+    text: "★"
+    optional: true
+- assertVisible: "☆"
+
+# Mount Search and the Tantra 1 list BEFORE favouriting anything.
+- tapOn: "Search, tab.*"
+- tapOn: "Search English or Tamil..."
+- inputText: "முன்னெழும் அக்கலை"
+- extendedWaitUntil:
+    visible: "(?s)699,.*"
+    timeout: 15000
+- assertNotVisible: "(?s)699,.*★,.*"
+- hideKeyboard
+
+- tapOn: "Tantras, tab.*"
+- extendedWaitUntil:
+    visible: "Paayiram & Nine Tantras"
+    timeout: 15000
+- tapOn: "Tantra 1, முதல் தந்திரம்.*"
+- extendedWaitUntil:
+    visible: "224 verses in this tantra"
+    timeout: 15000
+- assertNotVisible: "(?s)113,.*★,.*"
+
+# Favourite both verses from the verse screen.
+- openLink: thirumanthiram:///verse/700
+- extendedWaitUntil:
+    visible: "#699"
+    timeout: 30000
+- tapOn: "☆"
+- assertVisible: "★"
+- openLink: thirumanthiram:///verse/114
+- extendedWaitUntil:
+    visible: "#113"
+    timeout: 30000
+- tapOn: "☆"
+- assertVisible: "★"
+
+# Both already-mounted list screens must now show the badge.
+- tapOn: "Search, tab.*"
+- extendedWaitUntil:
+    visible: "(?s)699,.*★,.*"
+    timeout: 15000
+- takeScreenshot: /tmp/A-F2b-01-search-badge
+
+# NOTE: tapping the Tantras TAB lands on the tantras index, not back on the
+# Tantra 1 list (tantra/[id] is a separate href:null screen). Re-enter the
+# already-mounted list by deep link instead.
+- openLink: thirumanthiram:///tantra/1
+- extendedWaitUntil:
+    visible: "224 verses in this tantra"
+    timeout: 20000
+- assertVisible: "(?s)113,.*★,.*"
+- assertNotVisible: "(?s)114,.*★,.*"
+- takeScreenshot: /tmp/A-F2b-02-tantra-badge
+
+# Restore clean state.
+- openLink: thirumanthiram:///verse/700
+- extendedWaitUntil:
+    visible: "#699"
+    timeout: 30000
+- tapOn: "★"
+- openLink: thirumanthiram:///verse/114
+- extendedWaitUntil:
+    visible: "#113"
+    timeout: 30000
+- tapOn: "★"
+- tapOn: "Favorites, tab.*"
+- extendedWaitUntil:
+    visible: "No favorites yet"
+    timeout: 15000

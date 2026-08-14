@@ -1,0 +1,30 @@
+appId: com.praveenpuviindran.thirumanthiram
+name: A F1b swipe boundaries
+# id 1 renders "Kaapu" (verseNumber 0) and has no prev; id 3048 renders
+# "#3047" and has no next. Both must spring back, not blank or navigate.
+---
+- runFlow: _launch.yaml
+
+- openLink: thirumanthiram:///verse/1
+- extendedWaitUntil:
+    visible: "Kaapu"
+    timeout: 30000
+- swipe:
+    direction: RIGHT
+- swipe:
+    direction: RIGHT
+- takeScreenshot: /tmp/A-F1b-01-verse1-after-right
+- assertVisible: "Kaapu"
+- assertVisible: "Tamil  ·  தமிழ்"
+
+- openLink: thirumanthiram:///verse/3048
+- extendedWaitUntil:
+    visible: "#3047"
+    timeout: 30000
+- swipe:
+    direction: LEFT
+- swipe:
+    direction: LEFT
+- takeScreenshot: /tmp/A-F1b-02-verse3048-after-left
+- assertVisible: "#3047"
+- assertVisible: "Tamil  ·  தமிழ்"

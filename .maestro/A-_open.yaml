@@ -1,0 +1,22 @@
+appId: com.praveenpuviindran.thirumanthiram
+name: A open deep link
+# Deep-link delivery is intermittently swallowed on this build: `openLink`
+# reports COMPLETED and the app stays on the current screen (observed once on
+# a cold launch, /verse/114). Retry until the expected landmark appears.
+# Usage:
+#   - runFlow:
+#       file: A-_open.yaml
+#       env:
+#         URL: thirumanthiram:///verse/700
+#         LANDMARK: "#699"
+---
+- retry:
+    maxRetries: 3
+    commands:
+      - openLink: ${URL}
+      - tapOn:
+          text: "Open"
+          optional: true
+      - extendedWaitUntil:
+          visible: ${LANDMARK}
+          timeout: 20000

@@ -1,0 +1,58 @@
+appId: com.praveenpuviindran.thirumanthiram
+name: B N9 font bounds
+---
+# NOTE: "A−" is U+2212 MINUS SIGN, not a hyphen. "A+" is ASCII.
+# Value and "pt" are separate Text nodes; there is no "17pt" string.
+- runFlow: _launch.yaml
+- tapOn: "Settings, tab.*"
+- extendedWaitUntil:
+    visible: "Font Size"
+    timeout: 20000
+- assertVisible: "17"
+- assertNotVisible: "Reset"
+
+# --- up to the ceiling ---------------------------------------------------
+- repeat:
+    times: 5
+    commands:
+      - tapOn: "A+"
+- extendedWaitUntil:
+    visible: "22"
+    timeout: 15000
+- assertVisible: "Reset"
+# At the ceiling the button stays present and tappable but is a no-op.
+- tapOn: "A+"
+- tapOn: "A+"
+- assertVisible: "22"
+- assertNotVisible: "23"
+
+# --- down to the floor ---------------------------------------------------
+- repeat:
+    times: 9
+    commands:
+      - tapOn: "A−"
+- extendedWaitUntil:
+    visible: "13"
+    timeout: 15000
+- tapOn: "A−"
+- tapOn: "A−"
+- assertVisible: "13"
+- assertNotVisible: "12"
+
+# --- reset ---------------------------------------------------------------
+- assertVisible: "Reset"
+- tapOn: "Reset"
+- extendedWaitUntil:
+    visible: "17"
+    timeout: 15000
+- assertNotVisible: "Reset"
+
+# The change must reach a verse screen without blanking it.
+- openLink: thirumanthiram:///verse/700
+- tapOn:
+    text: "Open"
+    optional: true
+- extendedWaitUntil:
+    visible: "#699"
+    timeout: 30000
+- assertVisible: "Tamil  ·  தமிழ்"

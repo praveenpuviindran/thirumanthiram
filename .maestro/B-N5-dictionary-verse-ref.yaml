@@ -1,0 +1,45 @@
+appId: com.praveenpuviindran.thirumanthiram
+name: B N5 dictionary verse ref
+---
+- runFlow: _launch.yaml
+- tapOn: "Dictionary, tab.*"
+- extendedWaitUntil:
+    visible: "அகராதி · 149 terms · A–Z"
+    timeout: 20000
+
+# Search for the term. Category chips and the query are mutually exclusive,
+# so do not tap a chip here.
+# Merged TermCard label order is: tamil, CATEGORY, transliteration, english, …
+- tapOn: "Search Tamil, English or transliteration…"
+- inputText: "aruḷ"
+- extendedWaitUntil:
+    visible: "(?s)அருள், Deity, aruḷ, Grace / Divine Grace.*"
+    timeout: 20000
+- assertVisible: "3 terms"
+
+# Open the term modal. Do NOT hideKeyboard first: Maestro's iOS hideKeyboard
+# dismisses with a tap that lands on the list and opens a row by itself.
+- tapOn: "(?s)அருள், Deity, aruḷ, Grace / Divine Grace.*"
+- extendedWaitUntil:
+    visible: "✕ Close"
+    timeout: 20000
+- assertVisible: "VERSES · 2 related"
+- assertVisible: "Tap a verse to read it in context"
+
+# aruḷ's verseRefs are ids 2 and 3 -> rendered verse numbers #1 and #2, both
+# in tantra 0, whose badge reads "Paayiram" rather than "T0".
+# The tap has a deliberate 120ms setTimeout before navigating.
+- tapOn: "(?s)#2, Paayiram,.*"
+- waitForAnimationToEnd:
+    timeout: 10000
+- extendedWaitUntil:
+    visible: "#2"
+    timeout: 20000
+- assertVisible: "Tamil  ·  தமிழ்"
+
+# Back to Dictionary: modal must be gone, list intact.
+- tapOn: "Dictionary, tab.*"
+- extendedWaitUntil:
+    visible: "(?s)அருள், Deity, aruḷ, Grace / Divine Grace.*"
+    timeout: 20000
+- assertNotVisible: "✕ Close"

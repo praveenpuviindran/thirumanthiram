@@ -1,0 +1,61 @@
+appId: com.praveenpuviindran.thirumanthiram
+name: A F9 home daily verse card renders and navigates
+# F9 — the "VERSE OF THE DAY" card (components/ui/DailyVerse.tsx) must
+# render an actual verse (Tamil lines + English preview + tantra badge, all
+# merged into one Touchable's accessibility label ending "...Read ›") and
+# tapping it must land on that SAME verse's detail screen. The card picks
+# `VERSES.filter(hasTamilCommentary)[dayKey % pool.length]`, so the verse
+# shown is date-dependent — this flow reads the id off the card itself
+# rather than hardcoding one, using the same copyTextFrom + regex-extract
+# idiom as the already-validated B-N1-daily-verse.yaml (this is a Lane A
+# duplicate of that check, added because Lane A's plan calls for it
+# independently; the mechanics are identical).
+#
+# SELECTOR PROVENANCE
+#   VALIDATED (01-selector-reference.yaml / B-N1-daily-verse.yaml):
+#     _launch.yaml, "VERSE OF THE DAY" (exact — confirmed uppercase via
+#     SectionHeader's textTransform: 'uppercase' style), the
+#     copyTextFrom("(?s).*Read ›.*") + regex-extract-id + tap idiom,
+#     "Tamil  ·  தமிழ்", "‹ Back", ".*verses in this tantra".
+#   UNVERIFIED (derived, not run):
+#     - assertTrue on `output.label.length > 40` as a "this is a real,
+#       non-blank verse" heuristic — an arbitrary threshold I chose, not a
+#       value derived from source or prior measurement.
+#     - assertNotVisible: "Verse not found." (the verse/[id].tsx fallback
+#       string) as a negative check that navigation landed on a real verse.
+#     - Inherits the same latent risk as B-N1: if the day's pick were
+#       verseNumber 0 ("Kaapu", no leading "#"), `label.match(/#(\d+)/)[1]`
+#       would throw. Not newly introduced here — B-N1 has the same shape —
+#       but flagged since it hasn't been hit in practice.
+---
+- runFlow: _launch.yaml
+- assertVisible: "VERSE OF THE DAY"
+
+# Capture the daily verse card's merged label and extract its id + prove
+# it is non-trivial content (a real verse, not an empty/broken card).
+- copyTextFrom: "(?s).*Read ›.*"
+- evalScript: ${output.label = maestro.copiedText}
+- evalScript: ${output.num = output.label.match(/#(\d+)/)[1]}
+- assertTrue: ${output.label.length > 40}
+- takeScreenshot: /tmp/A-F9-00-home-card
+
+# Tap the card (Read › is merged into the card's single a11y node) and
+# confirm it navigates to THAT verse's detail screen.
+- tapOn: "(?s).*Read ›.*"
+- extendedWaitUntil:
+    visible: "#${output.num}"
+    timeout: 20000
+- assertVisible: "Tamil  ·  தமிழ்"
+- assertNotVisible: "Verse not found."
+- assertVisible: "‹ Back"
+- takeScreenshot: /tmp/A-F9-01-verse-detail
+
+# Restore clean state: back to the tantra list, then Home.
+- tapOn: "‹ Back"
+- extendedWaitUntil:
+    visible: ".*verses in this tantra"
+    timeout: 20000
+- tapOn: "Home, tab.*"
+- extendedWaitUntil:
+    visible: "VERSE OF THE DAY"
+    timeout: 20000

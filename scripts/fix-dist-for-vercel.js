@@ -13,11 +13,42 @@ const distDir = path.join(__dirname, '..', 'dist');
 const oldDir = path.join(distDir, 'assets', 'node_modules');
 const newDir = path.join(distDir, 'assets', 'fonts-cdn');
 
-if (fs.existsSync(oldDir)) {
+const oldDirExists = fs.existsSync(oldDir);
+const newDirExists = fs.existsSync(newDir);
+
+if (oldDirExists) {
   fs.renameSync(oldDir, newDir);
   console.log('Renamed dist/assets/node_modules -> dist/assets/fonts-cdn');
-} else if (!fs.existsSync(newDir)) {
-  console.warn('WARNING: neither dist/assets/node_modules nor dist/assets/fonts-cdn found — did the export layout change?');
+} else if (newDirExists) {
+  // Benign, idempotent case: a previous run of this script already did the
+  // rename (e.g. someone re-ran the script by hand without re-exporting).
+  // Nothing left to do here — do not treat this as a failure.
+  console.log('dist/assets/fonts-cdn already exists and dist/assets/node_modules is absent — already renamed, skipping (idempotent re-run).');
+} else {
+  console.error(
+    [
+      'ERROR: fix-dist-for-vercel.js expected to find either',
+      `  ${oldDir}  (fresh \`expo export --platform web\` output), or`,
+      `  ${newDir}  (already renamed by a previous run of this script)`,
+      'but found neither.',
+      '',
+      'This script exists to prevent shipping a blank-screen web build: Vercel',
+      'silently strips any folder literally named "node_modules" from the',
+      'deploy, which breaks custom fonts unless that folder is renamed first.',
+      'Since neither expected path exists, the Expo web export layout has',
+      'likely changed, and this script cannot safely guess where the font',
+      'assets now live — continuing would risk deploying a broken build',
+      'that looks like it succeeded.',
+      '',
+      'Next steps:',
+      '  1. Run `expo export --platform web` fresh and inspect dist/assets/',
+      '     to see where the font files actually landed.',
+      '  2. Update oldDir/newDir at the top of scripts/fix-dist-for-vercel.js',
+      '     to match the new layout.',
+      '  3. Re-run `npm run build:web`.',
+    ].join('\n')
+  );
+  process.exit(1);
 }
 
 const jsDir = path.join(distDir, '_expo', 'static', 'js', 'web');

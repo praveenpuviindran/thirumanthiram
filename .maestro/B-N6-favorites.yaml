@@ -1,0 +1,44 @@
+appId: com.praveenpuviindran.thirumanthiram
+name: B N6 favorites
+---
+- runFlow: _launch.yaml
+
+# Start from a known-empty Favorites tab.
+- tapOn: "Favorites, tab.*"
+- extendedWaitUntil:
+    visible: "No favorites yet"
+    timeout: 20000
+
+# Favourite verse id 500 -> rendered #499.
+- openLink: thirumanthiram:///verse/500
+- tapOn:
+    text: "Open"
+    optional: true
+- extendedWaitUntil:
+    visible: "#499"
+    timeout: 30000
+- assertVisible: "☆"
+- tapOn: "☆"
+- assertVisible: "★"
+
+- tapOn: "Favorites, tab.*"
+- extendedWaitUntil:
+    visible: "1 saved verse"
+    timeout: 20000
+- assertVisible: "(?s)499,.*★,.*"
+- assertNotVisible: "No favorites yet"
+
+- tapOn: "(?s)499,.*★,.*"
+- extendedWaitUntil:
+    visible: "#499"
+    timeout: 20000
+- assertVisible: "Tamil  ·  தமிழ்"
+- assertVisible: "★"
+
+# Untoggle and confirm the list empties again.
+- tapOn: "★"
+- assertVisible: "☆"
+- tapOn: "Favorites, tab.*"
+- extendedWaitUntil:
+    visible: "No favorites yet"
+    timeout: 20000
