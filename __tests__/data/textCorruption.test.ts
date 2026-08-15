@@ -23,19 +23,6 @@ describe('text corruption', () => {
     expectNone(offenders, 'Verses with a literal backslash in tamil/transliteration');
   });
 
-  // CANARY — passes today, locks the blast radius of the backslash corruption to exactly ids [957, 1148].
-  // If the backslash test above ever passes (data fixed), this canary becomes redundant/misleading —
-  // DELETE this test once the backslash data is fixed.
-  it('CANARY: verses containing a literal backslash are exactly [957, 1148]', () => {
-    const ids = VERSES.filter(
-      v => v.tamil?.includes('\\') || v.transliteration?.includes('\\'),
-    )
-      .map(v => v.id)
-      .sort((a, b) => a - b);
-
-    expect(ids).toEqual([957, 1148]);
-  });
-
   it('no verse english contains scraper footer cruft "TANTRA NINE ENDS"', () => {
     const offenders = VERSES.filter(v => v.english?.includes('TANTRA NINE ENDS')).map(v => v.id);
     expectNone(offenders, 'Verses with "TANTRA NINE ENDS" cruft in english');
