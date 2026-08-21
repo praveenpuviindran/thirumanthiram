@@ -1,15 +1,15 @@
 import { VERSES, Verse } from '../../data/thirumanthiram';
 
 // Replicated from components/ui/DailyVerse.tsx — MUST BE KEPT IN SYNC.
-//   function hasTamilCommentary(v) { return (v.elaborationTamil ?? '').trim().length > 0; }
+//   function inDailyPool(v) { return v.verseNumber <= 1842; }
 //   function localEpochDay() {
 //     const now = new Date();
 //     return Math.floor(Date.UTC(now.getFullYear(), now.getMonth(), now.getDate()) / 86400000);
 //   }
-//   const pool = VERSES.filter(hasTamilCommentary);
+//   const pool = VERSES.filter(inDailyPool);
 //   return pool[dayKey % pool.length];
-function hasTamilCommentary(v: Verse): boolean {
-  return (v.elaborationTamil ?? '').trim().length > 0;
+function inDailyPool(v: Verse): boolean {
+  return v.verseNumber <= 1842;
 }
 
 // The day key as the component computes it, but taking the "now" instant as a
@@ -20,12 +20,12 @@ function localEpochDay(now: Date): number {
 }
 
 function dailyVerse(verses: Verse[], now: Date): Verse {
-  const p = verses.filter(hasTamilCommentary);
+  const p = verses.filter(inDailyPool);
   return p[localEpochDay(now) % p.length];
 }
 
 function pool() {
-  return VERSES.filter(hasTamilCommentary);
+  return VERSES.filter(inDailyPool);
 }
 
 const DAY_MS = 86400000;
@@ -35,59 +35,20 @@ describe('Daily Verse pool composition', () => {
     expect(VERSES.length).toBe(3048);
   });
 
-  it('the pool excludes exactly the 429 verses that have no Tamil elaboration', () => {
-    const excluded = VERSES.filter((v) => !hasTamilCommentary(v));
-    expect(excluded.length).toBe(429);
-
-    const pct = (excluded.length / VERSES.length) * 100;
-    expect(pct).toBeGreaterThan(14.0);
-    expect(pct).toBeLessThan(14.2);
+  // Pool is verses 0 (Kaapu) through 1842 inclusive, by product decision —
+  // this is a fixed cutoff, not derived from commentary coverage.
+  it('the pool holds exactly 1,843 verses (verseNumber 0 through 1842)', () => {
+    expect(pool().length).toBe(1843);
+    expect(pool().every((v) => v.verseNumber <= 1842)).toBe(true);
   });
 
-  it('the pool itself holds exactly 2,619 verses (3048 - 429)', () => {
-    expect(pool().length).toBe(2619);
-    expect(pool().length).toBe(VERSES.length - 429);
-  });
-
-  // The old `verseNumber <= 1842` cutoff was a strict SUBSET of the
-  // commentary-backed set: every verse it admitted has Tamil elaboration, but
-  // it also excluded 776 verses in Tantras 7 and 8 that DO have elaboration.
-  // The predicate fix is therefore purely additive — nothing that used to be
-  // eligible has become ineligible.
-  it('the new pool is a strict superset of the old verseNumber <= 1842 pool', () => {
-    const oldPool = VERSES.filter((v) => v.verseNumber <= 1842);
-    expect(oldPool.length).toBe(1843);
-
-    const newIds = new Set(pool().map((v) => v.id));
-    expect(oldPool.every((v) => newIds.has(v.id))).toBe(true);
-
-    const oldIds = new Set(oldPool.map((v) => v.id));
-    const gained = pool().filter((v) => !oldIds.has(v.id));
-    expect(gained.length).toBe(776);
-    expect(gained.every((v) => v.tantraId === 7 || v.tantraId === 8)).toBe(true);
-  });
-
-  // PINS the MEDIUM finding: Daily Verse can never surface Tantra 9.
-  // Still true after the predicate fix — no Tantra 9 verse has Tamil
-  // elaboration yet — but now it holds for a content reason rather than an
-  // arbitrary number, and self-corrects once that commentary is authored.
   it('NO verse belonging to tantraId 9 is in the pool', () => {
     const inPool = pool();
     expect(inPool.some((v) => v.tantraId === 9)).toBe(false);
-
-    const tantra9Verses = VERSES.filter((v) => v.tantraId === 9);
-    expect(tantra9Verses.length).toBeGreaterThan(0);
-    expect(tantra9Verses.every((v) => !hasTamilCommentary(v))).toBe(true);
   });
 
-  it('every excluded verse has a non-empty english field — exclusion is about commentary, not missing text', () => {
-    const excluded = VERSES.filter((v) => !hasTamilCommentary(v));
-    const withoutEnglish = excluded.filter((v) => !v.english || v.english.trim() === '');
-    expect(withoutEnglish.length).toBe(0);
-  });
-
-  it('every pooled verse actually carries the Tamil commentary the card promises', () => {
-    expect(pool().every((v) => (v.elaborationTamil ?? '').trim().length > 0)).toBe(true);
+  it('NO verse with verseNumber > 1842 is in the pool', () => {
+    expect(pool().some((v) => v.verseNumber > 1842)).toBe(false);
   });
 });
 

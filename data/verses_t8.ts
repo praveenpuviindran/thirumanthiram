@@ -5339,7 +5339,7 @@ Of their hoary Lord;
 Thus, they Siva became
 With birth no more to be.`,
     elaborationEnglish: `Jivas in Saiva Siddhanta philosophy are as eternal as God. By’ what is meant here is that they were ‘activated’ from the primordial (kevala state) inert condition by Siva acting on Sakti, and given the milieu and instruments for development, such as thanu (body), karana (organs), bhuvana (world), and bhoga (experience).`,
-    elaborationTamil: `முன்னைப் பழம் பொருட்கும் முன்னைப் பழம் பொருளாய்8 உள்ள முதல்வனாகிய சிவபெருமானது விளை -யாடலால் முதற்கண் இயல்பாய் உள்ள ஒரு மலமாகிய ஆணவமும், அது பற்றிப் பின் வந்து பெருகிய மலங்களாகிய மாயை கன்மங்களும் அவை வந்தவழியே ஒருவன் போகச் செய்து, அநாதியே அடியவ னாகிய தன்னையும், தனக்கு அநாதியே தலைவனாய் உள்ள அப்பெருமானையும் உணர்ந்து, பாசங்களை விட்டு அவனது திருவடியை அடைந்து அவனே ஆயினால், பின்பு அவனுக்குப் பிறவிகள் வாரா.`,
+    elaborationTamil: `முன்னைப் பழம் பொருட்கும் முன்னைப் பழம் பொருளாய் உள்ள முதல்வனாகிய சிவபெருமானது விளை -யாடலால் முதற்கண் இயல்பாய் உள்ள ஒரு மலமாகிய ஆணவமும், அது பற்றிப் பின் வந்து பெருகிய மலங்களாகிய மாயை கன்மங்களும் அவை வந்தவழியே ஒருவன் போகச் செய்து, அநாதியே அடியவ னாகிய தன்னையும், தனக்கு அநாதியே தலைவனாய் உள்ள அப்பெருமானையும் உணர்ந்து, பாசங்களை விட்டு அவனது திருவடியை அடைந்து அவனே ஆயினால், பின்பு அவனுக்குப் பிறவிகள் வாரா.`,
   },
   {
     id: 2371, tantraId: 8, verseNumber: 2370,

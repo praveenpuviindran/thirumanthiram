@@ -10,12 +10,9 @@ interface Props {
   onPress: (verseId: number) => void;
 }
 
-// The Verse of the Day is only drawn from verses that carry a Tamil
-// elaboration, so the card always has commentary behind it. This replaces a
-// hardcoded `verseNumber <= 1842` cutoff, and means the pool grows on its own
-// as commentary is authored for the remaining verses.
-function hasTamilCommentary(v: Verse): boolean {
-  return (v.elaborationTamil ?? '').trim().length > 0;
+// The Verse of the Day is only drawn from verses 0–1842.
+function inDailyPool(v: Verse): boolean {
+  return v.verseNumber <= 1842;
 }
 
 // Epoch day index derived from the LOCAL calendar date. `Date.now() / 86400000`
@@ -42,7 +39,7 @@ export function DailyVerse({ onPress }: Props) {
   }, []);
 
   const verse = useMemo(() => {
-    const pool = VERSES.filter(hasTamilCommentary);
+    const pool = VERSES.filter(inDailyPool);
     return pool[dayKey % pool.length];
   }, [dayKey]);
 
