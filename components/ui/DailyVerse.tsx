@@ -1,5 +1,5 @@
 import React, { useEffect, useMemo, useState } from 'react';
-import { View, Text, StyleSheet, TouchableOpacity, AppState } from 'react-native';
+import { View, Text, StyleSheet, TouchableOpacity, AppState, Platform } from 'react-native';
 import { LinearGradient } from 'expo-linear-gradient';
 import { useTheme } from '../../constants/Theme';
 import { VERSES, TANTRAS, Verse } from '../../data/thirumanthiram';
@@ -166,10 +166,14 @@ const styles = StyleSheet.create({
   },
   numTagText: { fontSize: FontSize.xs, fontWeight: '500' },
   tamilBlock: { gap: 3 },
+  // letterSpacing combined with a fixed lineHeight mis-measures text width on some
+  // Android devices (facebook/react-native#46436), causing lines to wrap that fit
+  // fine on iOS/web — dropped on Android only, where the strict-4-line layout relies
+  // on wrap detection in TamilVerseLines being accurate.
   tamilLine: {
     lineHeight: 30,
     fontWeight: '500',
-    letterSpacing: 0.4,
+    letterSpacing: Platform.OS === 'android' ? 0 : 0.4,
   },
   dividerRow: {
     flexDirection: 'row',

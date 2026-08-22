@@ -1,7 +1,7 @@
 import React, { useState, useMemo, useEffect, useCallback, useRef } from 'react';
 import {
   ScrollView, View, Text, TouchableOpacity, StyleSheet, StatusBar,
-  TextInput, Linking, Animated, PanResponder, useWindowDimensions,
+  TextInput, Linking, Animated, PanResponder, useWindowDimensions, Platform,
 } from 'react-native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { SafeAreaView } from 'react-native-safe-area-context';
@@ -603,7 +603,11 @@ const styles = StyleSheet.create({
   },
   tamilPillText: { fontSize: FontSize.xs, fontWeight: '700', letterSpacing: 1 },
   tamilLines: { gap: 4 },
-  tamilText: { lineHeight: 28, letterSpacing: 0.3, fontWeight: '500' },
+  // letterSpacing combined with a fixed lineHeight mis-measures text width on some
+  // Android devices (facebook/react-native#46436), causing lines to wrap that fit
+  // fine on iOS/web — dropped on Android only, where the strict-4-line layout relies
+  // on wrap detection in TamilVerseLines being accurate.
+  tamilText: { lineHeight: 28, letterSpacing: Platform.OS === 'android' ? 0 : 0.3, fontWeight: '500' },
   tamilOrnament: { flexDirection: 'row', alignItems: 'center', gap: 8, marginTop: 4 },
   ornamentLine: { flex: 1, height: 1 },
   ornamentStar: { fontSize: 10, fontWeight: '700' },
