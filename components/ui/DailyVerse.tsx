@@ -170,10 +170,13 @@ const styles = StyleSheet.create({
   // Android devices (facebook/react-native#46436), causing lines to wrap that fit
   // fine on iOS/web — dropped on Android only, where the strict-4-line layout relies
   // on wrap detection in TamilVerseLines being accurate.
+  // fontFamily is likewise Android-only — see the matching comment in
+  // app/(tabs)/verse/[id].tsx's tamilText style for why.
   tamilLine: {
     lineHeight: 30,
     fontWeight: '500',
     letterSpacing: Platform.OS === 'android' ? 0 : 0.4,
+    ...(Platform.OS === 'android' ? { fontFamily: 'NotoSerifTamil_400Regular' } : null),
   },
   dividerRow: {
     flexDirection: 'row',

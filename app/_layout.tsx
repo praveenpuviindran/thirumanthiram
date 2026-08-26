@@ -7,6 +7,7 @@ import {
   NotoSerifTamil_700Bold,
 } from '@expo-google-fonts/noto-serif-tamil';
 import { Lora_400Regular, Lora_700Bold } from '@expo-google-fonts/lora';
+import { SafeAreaProvider } from 'react-native-safe-area-context';
 import { useDataMigration } from '../hooks/useDataMigration';
 import { useAppUpdateCheck } from '../hooks/useAppUpdateCheck';
 import { SettingsProvider } from '../contexts/SettingsContext';
@@ -37,14 +38,16 @@ function RootLayoutContent() {
   // already hidden on `fontsLoaded` alone above, and a second gate would show a
   // blank frame. The stores gate their WRITES on hydration instead.
   return (
-    <SettingsProvider>
-      <FavoritesProvider>
-        <Stack screenOptions={{ headerShown: false }}>
-          <Stack.Screen name="(tabs)" />
-          <Stack.Screen name="thirumular" />
-        </Stack>
-      </FavoritesProvider>
-    </SettingsProvider>
+    <SafeAreaProvider>
+      <SettingsProvider>
+        <FavoritesProvider>
+          <Stack screenOptions={{ headerShown: false }}>
+            <Stack.Screen name="(tabs)" />
+            <Stack.Screen name="thirumular" />
+          </Stack>
+        </FavoritesProvider>
+      </SettingsProvider>
+    </SafeAreaProvider>
   );
 }
 

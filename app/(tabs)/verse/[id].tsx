@@ -607,7 +607,19 @@ const styles = StyleSheet.create({
   // Android devices (facebook/react-native#46436), causing lines to wrap that fit
   // fine on iOS/web — dropped on Android only, where the strict-4-line layout relies
   // on wrap detection in TamilVerseLines being accurate.
-  tamilText: { lineHeight: 28, letterSpacing: Platform.OS === 'android' ? 0 : 0.3, fontWeight: '500' },
+  // fontFamily is likewise Android-only: NotoSerifTamil is loaded app-wide (see
+  // app/_layout.tsx) but was never actually applied anywhere, so Tamil text has
+  // always rendered in each OS's own fallback Tamil font. iOS's fallback is
+  // consistent across devices, so it was never a visible problem there — but
+  // Android OEMs (Samsung/Xiaomi/Pixel/etc.) ship different fallback Tamil fonts
+  // with different glyph widths, which is why the same verse wraps differently
+  // device to device. Pinning the bundled font on Android removes that variance.
+  tamilText: {
+    lineHeight: 28,
+    letterSpacing: Platform.OS === 'android' ? 0 : 0.3,
+    fontWeight: '500',
+    ...(Platform.OS === 'android' ? { fontFamily: 'NotoSerifTamil_400Regular' } : null),
+  },
   tamilOrnament: { flexDirection: 'row', alignItems: 'center', gap: 8, marginTop: 4 },
   ornamentLine: { flex: 1, height: 1 },
   ornamentStar: { fontSize: 10, fontWeight: '700' },
