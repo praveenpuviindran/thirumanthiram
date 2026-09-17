@@ -7,7 +7,7 @@
     "android": "expo run:android",
     "ios": "expo run:ios",
     "web": "expo start --web",
-    "build:web": "expo export --platform web && node scripts/fix-dist-for-vercel.js",
+    "build:web": "expo export --platform web && node scripts/fix-dist-for-vercel.js && node scripts/inject-privacy-html.js",
     "deploy:web": "npm run build:web && npx vercel deploy dist/ --prod",
     "test": "jest",
     "test:watch": "jest --watch"

@@ -15,19 +15,23 @@ const SECTIONS = [
   },
   {
     title: 'Data We Collect',
-    body: `The app does not collect, transmit, or store any personal data on any server. We have no user accounts, no analytics, and no advertising SDKs.`,
+    body: `The app has no user accounts, no analytics, and no advertising or tracking SDKs. We do not operate any server that receives or stores your data. The app does make a small number of outbound network requests as part of normal use — to check for app updates and to stream verse audio — and, like any internet connection, those requests expose your device's IP address to the third party being contacted (Apple, or the audio host). See "Permissions" and "Third Parties" below for details. We do not collect, and have no way to see, anything you type into the app.`,
   },
   {
     title: 'Data Stored On Your Device',
-    body: `Your favourites and app settings (such as font size, theme, and audio preferences) are saved locally on your device using standard on-device storage. This information never leaves your device and is not accessible to us or to any third party.`,
+    body: `Your favourites, app settings (font size, theme, language display options), and any notes you write on a verse are saved locally on your device using standard on-device storage. This information never leaves your device and is not accessible to us or to any third party.`,
   },
   {
     title: 'Permissions',
-    body: `The app requests internet access solely to load verse audio recordings and to check for content updates. No other device permissions are used.`,
+    body: `The app requests internet access for three purposes: (1) streaming verse audio recordings hosted at kvnthirumoolar.com, (2) checking the App Store for a newer app version on iOS launch, and (3) opening links you tap — such as source references or the feedback email — in your browser or email app. No other device permissions are used.`,
   },
   {
     title: 'Third Parties',
-    body: `The app does not integrate any third-party analytics, advertising, or tracking services.`,
+    body: `The app does not integrate any third-party analytics, advertising, or tracking services. It does contact two third-party services as part of normal functionality: Apple's App Store (to check for updates, iOS only) and kvnthirumoolar.com (to stream verse audio). Each such request is subject to that third party's own privacy practices. Tapping a "Sources & References" link or the feedback email address opens your browser or email app and is entirely under your control.`,
+  },
+  {
+    title: 'Feedback',
+    body: `The Feedback tab and the Settings "Email" link open your device's own email app, pre-addressed to thirumanthiram2026@gmail.com. Anything you choose to write — including your name if you provide it — is sent from your own email account, the same as composing any other email. The app itself does not transmit or store this content.`,
   },
   {
     title: 'Children’s Privacy',
@@ -64,7 +68,7 @@ export default function PrivacyScreen() {
       </LinearGradient>
 
       <ScrollView showsVerticalScrollIndicator={false} contentContainerStyle={styles.scroll}>
-        <Text style={[styles.updated, { color: theme.textMuted }]}>Last updated: July 28, 2026</Text>
+        <Text style={[styles.updated, { color: theme.textMuted }]}>Last updated: September 17, 2026</Text>
 
         {SECTIONS.map((sec, i) => (
           <View key={i} style={styles.section}>
